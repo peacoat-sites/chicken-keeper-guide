@@ -1,0 +1,73 @@
+baseURL = "https://chickenkeeperguide.com/"
+enableGitInfo = true
+languageCode = "en-us"
+title = "Chicken Keeper Guide"
+[pagination]
+  pagerSize = 12
+enableRobotsTXT = true
+enableEmoji = true
+
+[params]
+  description = "Everything you need to raise healthy, happy backyard chickens — breeds, coops, egg production, feeding, flock health, and more."
+  niche = "Backyard Chickens & Poultry"
+  adsense_id = "ca-pub-3466203197759215"
+  adsense_slot_header = "auto"
+  adsense_slot_incontent = "auto"
+  adsense_slot_sidebar = "auto"
+  image_query = "backyard chickens hen flock coop"
+  author = "Chicken Keeper Guide Editorial Team"
+  logo_text = "Chicken Keeper Guide"
+  tagline = "Raise Happy Hens"
+  primary_color = "#744210"
+  cloudflare_analytics = ""
+
+  # Authority theme
+  hero_color_1 = "#3b1f07"
+  hero_color_2 = "#744210"
+  hero_color_3 = "#d97706"
+  hero_color_4 = "#b45309"
+  monthly_readers = 58000
+  research_hours  = 420
+  satisfaction    = 96
+  trust_extra     = "Backyard poultry keepers & certified flock advisors"
+  impact_verification = ""
+  impact_tracking_id  = "" 
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = false
+
+[permalinks]
+  posts = "/:slug/"
+
+[related]
+  includeNewer = true
+  threshold    = 80
+  toLower      = false
+  [[related.indices]]
+    name   = "keywords"
+    weight = 100
+  [[related.indices]]
+    name   = "tags"
+    weight = 80
+  [[related.indices]]
+    name   = "categories"
+    weight = 50

@@ -1,9 +1,9 @@
 ---
 title: "Chicken Coop Bedding Options"
-date: 2026-05-21T04:16:40.315309+00:00
+date: 2026-05-21T04:16:45.448096+00:00
 draft: false
 description: "Discover the best chicken coop bedding options to keep your flock healthy and comfortable. Compare straw, wood shavings, sand, and more to find the perfect fit."
-image: "https://images.pexels.com/photos/13690434/pexels-photo-13690434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/2255459/pexels-photo-2255459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["chicken", "coop", "bedding", "options"]
 author: "Ben Hartley"
@@ -12,116 +12,113 @@ slug: "chicken-coop-bedding-options"
 affiliate_disclosure: false
 ---
 
-I replaced the bedding in my coop three times before I finally got it right. My first year, I used whatever bagged shavings were on sale at the feed store, wondered why my hens kept getting respiratory issues, and blamed everything except the dusty, low-grade product sitting six inches deep under their feet. Bedding seems like the most boring decision in chicken keeping. It isn't. Get it wrong and you're dealing with wet floors, sick birds, and a coop that smells like a gas station bathroom by Thursday.
+I once watched a fellow chicken keeper spend three weekends in a row completely stripping out her coop, scrubbing the floor, and reloading fresh pine shavings, only to have the smell return within days. The bedding wasn't failing her. Her management system was. After a quick chat and a switch to the deep litter method, she went from weekly strip-outs to a full cleanout twice a year. That kind of shift is possible for most backyard keepers, but you have to understand your options first.
 
-## Why Bedding Matters More Than You Think
+## The Big Picture: What Good Bedding Actually Does
 
-Bedding does four jobs at once: it absorbs moisture, cushions feet and joints, provides a surface for natural scratching behavior, and acts as the first line of defense against bacterial growth and disease. Fail at any one of those and your flock pays for it.
+Bedding isn't just about making the coop look clean. It's doing several jobs at once, and cheap or wrong choices cost you time, money, and sometimes birds.
 
-Wet bedding is the real enemy. Ammonia builds up fast when moisture combines with chicken manure, and even low concentrations, around 25 ppm, can damage a bird's respiratory tract. You often can't smell it at that level, but your hens are breathing it constantly. Marek's disease, coccidiosis, and bumblefoot all get a significant leg up in damp, poorly managed bedding.
+Good bedding absorbs moisture. Wet droppings are the number one driver of ammonia buildup, respiratory illness, and bumblefoot in chickens. The floor of your coop needs something that pulls that moisture away and holds it without turning into a soggy mat. Good bedding also provides insulation, gives birds something to scratch and dustbathe in, and when managed right, it starts composting in place, which actually neutralizes odor rather than just covering it up.
 
-The good news is you have real options. I've tried most of them over 12 years across coops ranging from a converted garden shed to a purpose-built 12x16 structure housing 30 birds. What works depends on your climate, your flock size, your budget, and honestly, how much time you want to spend on maintenance.
+The other thing worth understanding is carbon-to-nitrogen ratio. Chicken manure is high in nitrogen. Most bedding materials are high in carbon. When you layer them together and keep the moisture level right, the carbon and nitrogen balance out into active, low-odor decomposition. That's the science behind the deep litter method, and it's the reason some bedding choices work dramatically better than others in a managed system.
 
-## The Most Common Bedding Options, Honestly Assessed
+## Pine Shavings: The Reliable Workhorse
 
-**Pine Shavings**
+If you polled 100 backyard chicken keepers on what's in their coop right now, at least 70 of them would say pine shavings. There's a reason for that. Large-flake pine shavings are absorbent, easy to find at any farm store, relatively inexpensive, and they smell pleasant right out of the bag.
 
-Pine shavings are the default for a reason. They're absorbent, relatively dust-free if you buy a decent brand, and readily available. I keep a bag of [Kaytee Pine Bedding](https://www.amazon.com/s?k=pine+shavings+chicken+coop&tag=backyardchick-20) in reserve at all times. Plan on 3 to 4 inches deep as a minimum, and deeper if you're running a deep litter system (more on that below).
+A standard compressed bale of pine shavings runs around $6 to $10 and covers a 4x8 foot coop floor about 4 inches deep. That's a reasonable starting depth. I like to start with 4 inches and add a thin layer every week or two rather than waiting until the whole floor is soaked.
 
-Avoid cedar shavings entirely. The aromatic oils that make cedar smell good are phenols, and phenols are toxic to birds. Lots of old-timers swear by it. They're wrong. Stick to pine or fir.
+A few caveats. Don't use cedar shavings for the main floor. Cedar contains aromatic oils that can irritate a chicken's respiratory tract, especially in an enclosed coop. A little cedar in the nesting boxes as a mite deterrent, fine. As the primary bedding, not worth the risk. Also avoid fine-ground sawdust, which packs down, holds moisture too close to the surface, and can cause respiratory issues as well.
 
-Compressed pine pellets are a newer favorite of mine. They start as hard pellets, absorb moisture, and break down into sawdust. They're low dust, highly absorbent, and a 40-pound bag goes a long way. The downside: some birds won't scratch in them readily at first, and they're pricier upfront.
+Pine shavings work well for both standard cleanout systems and deep litter. For deep litter, you'll want to supplement with other high-carbon materials like straw or dry leaves as you build up layers over months.
 
-**Straw**
+## Straw: Misunderstood and Often Misused
 
-Straw is cheap, locally available, and chickens love scratching through it. But it has a real problem: it doesn't absorb well. Moisture sits on top of the hollow shafts and the whole thing mats down fast. In a dry climate with low bird density, straw can work fine. In the Pacific Northwest in November, I've watched a straw-bedded coop go slimy in under a week.
+Straw gets a bad reputation, and honestly, a lot of it is deserved when it's used wrong. Thick, whole-stem straw laid flat on a coop floor turns into a wet, moldy mat surprisingly fast. But that's a management problem, not a straw problem.
 
-If you use straw, change it frequently and make sure ventilation is excellent. I use it in nest boxes sometimes, but I've largely moved away from it as primary coop bedding.
+The trick with straw is keeping it broken up. When you toss in a flake and let chickens scratch through it, they break the hollow stems, which releases more surface area for absorption and keeps it from matting. Straw is also hollow, which makes it a decent insulator for cold climates during winter. In a Northern Wisconsin coop when temperatures drop below zero, a thick layer of straw on the floor adds genuine warmth.
 
-**Sand**
+The main risk with straw is mold, specifically Aspergillus, which causes aspergillosis, a serious fungal respiratory disease in poultry. Wet straw in a warm, poorly ventilated coop is the perfect incubation environment for it. Keep ventilation high, never let straw stay wet, and if you see any grayish-green mold, pull the whole section out immediately.
 
-Coarse construction sand, not play sand, is genuinely excellent in the right situation. It doesn't hold moisture the way organic materials do, drains well, and you can scoop it like a cat litter box. Birds seem to enjoy it. The maintenance routine is different: instead of full changes, you rake or scoop droppings out daily or every few days.
+For nesting boxes, I actually prefer straw over shavings. The chickens shape it into a bowl more naturally, and eggs seem to roll and settle into it in a way that reduces breakage.
 
-Sand works best in dry climates and coops with good drainage. In humid climates, sand can stay damp and harbor bacteria even when it looks dry. It's also heavy, cold in winter, and a pain to haul out when it's finally time to replace it. I used sand for two years in my open-air run and loved it there. In the enclosed coop, I went back to shavings.
+## Sand: The Polarizing Option That Works If You Commit
 
-**Hemp Bedding**
+Construction sand, specifically coarse builder's sand, has a real cult following among chicken keepers, and I understand why. It drains beautifully, dries fast, and makes cleaning oddly satisfying because you can scoop droppings out like a giant litter box using a kitty litter scoop or a fine-tined rake.
 
-Hemp has become my go-to for the main coop. It's more absorbent than pine shavings, lower in dust, and it composts faster. The coarse fiber structure keeps it from matting down quickly. A 25-pound compressed bale expands to a lot of material. The only honest drawback is cost: it runs about twice what pine shavings cost per cubic foot. For a small flock in a modest-sized coop, that premium isn't much in real dollars. For someone bedding a large coop monthly, it adds up.
+The downsides are real though. Sand is heavy. Filling a 6x8 coop floor 3 to 4 inches deep takes somewhere around 600 to 800 pounds of sand. You're not doing that by yourself with a wheelbarrow unless you're very motivated. Sand also gets extremely cold in winter and doesn't provide much insulation. In climates with hard freezes, bare sand can contribute to frostbite risk in roosting birds that drop down onto a frozen floor in the morning.
 
-**Shredded Leaves and Garden Waste**
+Never use play sand or beach sand. They're too fine, hold moisture near the surface, and can cause impacted crops if ingested. Coarse builder's sand or all-purpose construction sand is what you want.
 
-Free and surprisingly functional in autumn, shredded dry leaves make decent temporary bedding and compost beautifully. I've used them during leaf season for years as a supplement. Whole leaves mat and compact into a mess, but run them through a mower first and they absorb reasonably well. Not a year-round solution, but a good one to know about.
+Sand also doesn't compost, which means it doesn't work for deep litter. If you go the sand route, you're committing to regular active scooping rather than a managed buildup system.
 
-## Deep Litter Method: Less Work, Better Compost
+## The Deep Litter Method: A System, Not Just a Bedding Choice
 
-The deep litter method gets a lot of attention, and it deserves it, but it also gets oversimplified. The idea is straightforward: instead of cleaning out the coop frequently, you add fresh bedding on top of old bedding and let beneficial microbes break down the manure in place. Done right, the composting process actually generates a little heat and suppresses pathogens. Done wrong, it's just a pile of wet, ammonia-soaked mess.
+The deep litter method deserves its own section because it changes how you think about coop management entirely. It's not a specific material. It's a process.
 
-Here's how to do it correctly:
+Here's how to actually do it:
 
-1. Start with at least 4 inches of dry bedding, preferably pine shavings or hemp, over a dry floor.
-2. When the top layer starts looking soiled, add 2 to 3 inches of fresh bedding on top. Don't rake or remove anything yet.
-3. Toss scratch grains into the bedding occasionally. Your birds will turn it for you, which is exactly what you want. They're aerating the compost.
-4. Check moisture levels with your hand regularly. Squeeze a handful. It should feel slightly damp but not wet, and it should crumble when you release it. If it stays in a ball or smells strongly of ammonia, something's off.
-5. Keep ventilation high. Deep litter needs airflow to compost rather than rot. A sealed coop will fail this method every time.
-6. Clean out completely once or twice a year, usually in spring and fall. The finished material goes straight to the garden. It's genuinely excellent compost.
+**Step 1:** Start with 4 to 6 inches of a high-carbon bedding on a clean dry floor. Pine shavings work great. Dry leaves, wood chips, or a mix of shavings and straw also work well.
 
-Deep litter works best in coops with more floor space per bird, at least 4 square feet. Pack birds too tightly and the manure load overwhelms the system.
+**Step 2:** Let the chickens work in it. Their scratching incorporates manure into the bedding and keeps oxygen moving through the pile. That oxygen is critical. The decomposition you want is aerobic, not anaerobic (the anaerobic version is what smells like a sewer).
 
-## Bedding Comparison at a Glance
+**Step 3:** Add a thin layer of fresh high-carbon material every week or two. A couple inches of dry leaves, a thin scattering of shavings, or even dried grass clippings. You're feeding the pile.
 
-| Bedding Type | Absorbency | Dust Level | Cost | Maintenance | Best For |
+**Step 4:** Check moisture regularly. Grab a handful and squeeze. If liquid comes out, it's too wet. If it crumbles to dust instantly, it's too dry. You want it to hold together loosely like a wrung-out sponge. Add dry material if it's too wet. A light misting works if it's too dry, though this is rarely a problem.
+
+**Step 5:** Do a full cleanout once or twice a year, usually spring and fall. The finished compost you pull out is extraordinary garden material, extremely nitrogen-rich and already partially broken down.
+
+This method works best when you have at least 8 to 12 inches of depth built up, good ventilation (critical!), and enough birds to keep the scratching active. A 10x10 coop with 6 to 8 hens is a good candidate. A tiny 4x4 coop with 2 birds may not have enough mass or activity to run a healthy deep litter pile.
+
+## Nesting Box Bedding: A Separate Decision
+
+Your coop floor and your nesting boxes don't need the same bedding, and treating them as separate decisions improves both.
+
+Nesting box bedding needs to keep eggs clean, cushion them from cracking, and stay dry and inviting enough that hens actually use the boxes and don't decide your coop floor looks better. It also needs to be easy to swap out, since nesting boxes get soiled faster than the floor.
+
+Straw and pine shavings both work well in nesting boxes. I personally like nesting box pads for keepers who want a low-fuss option. Products like [Nesting Box Pads on Amazon](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=backyardchickens-20) are made from excelsior (fine aspen wood fibers) or similar materials, fit most standard boxes, and can be shaken out and replaced monthly. They don't require you to stuff and re-fluff a box full of straw every week. *(This site may earn a commission on purchases.)*
+
+Dried herbs like lavender, mint, or rosemary scattered in nesting boxes aren't just chicken-keeper folklore. They have mild insect-repelling properties and keep the boxes smelling clean. I toss a handful in every couple of weeks.
+
+## Comparison Table: Bedding Options at a Glance
+
+| Bedding | Absorbency | Cost | Works for Deep Litter | Cold Weather Performance | Ease of Use |
 |---|---|---|---|---|---|
-| Pine shavings | Good | Low-medium | Low | Moderate | Most coops, beginner-friendly |
-| Pine pellets | Excellent | Very low | Medium | Low | Small-medium coops, allergy-prone birds |
-| Straw | Poor | Low | Very low | High | Dry climates, nest boxes |
-| Coarse sand | Moderate | Low | Low-medium | Daily scooping | Dry climates, open runs |
-| Hemp bedding | Excellent | Very low | High | Low-moderate | Best overall, respiratory-sensitive flocks |
-| Shredded leaves | Moderate | Low | Free | High | Seasonal supplement |
+| Pine Shavings | High | Low-Medium | Yes | Good | Easy |
+| Straw | Medium | Low | Yes (with management) | Excellent | Moderate |
+| Construction Sand | High (drains) | Medium | No | Poor | Moderate |
+| Hemp Bedding | Very High | High | Yes | Good | Easy |
+| Shredded Paper | Low | Free | Not recommended | Poor | Easy short-term |
+| Dry Leaves | Medium | Free | Yes | Good | Easy |
 
-## Nest Box Bedding: A Slightly Different Problem
-
-Nest boxes need softer bedding than the main coop floor. You're protecting eggs from cracking and hens from discomfort during laying. The material also has to stay reasonably clean because eggs sitting in soiled nesting material pick up bacteria quickly.
-
-Straw and pine shavings both work fine here. My current preference is [nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=backyardchick-20), the pre-cut excelsior fiber or synthetic pads that fit standard 12x12 or 13x13 box dimensions. They're sanitary, easily replaced, and keep hens from kicking material out. I change them every 2 to 3 weeks or immediately if they're visibly soiled.
-
-One thing most people don't hear enough: keep nest boxes off the floor and make sure hens aren't sleeping in them overnight. If they're roosting in the nest boxes, the boxes become heavily soiled and you're fighting a losing battle. Roost bars should be set higher than the nest box openings. That simple fix solves the problem in most coops.
-
-## Seasonal Adjustments and Practical Buying Tips
-
-Winter bedding management is different from summer. In cold months, deeper bedding provides insulation and I'm more inclined to use the deep litter method because the composting heat, even modest amounts, actually matters. In summer, I keep bedding thinner to avoid trapping heat, and I add fresh material more frequently because hot weather accelerates bacterial growth.
-
-On buying: buy in bulk if you can. A 8 cubic foot compressed bale of pine shavings goes much further than a series of small bags and costs less per unit. If you have three or more chickens, you'll go through bedding fast enough that buying small bags consistently is just lighting money on fire.
-
-A few products I keep on hand year-round: [Stall Dry or a similar absorbent coop powder](https://www.amazon.com/s?k=stall+dry+coop+bedding+powder&tag=backyardchick-20) to sprinkle under bedding or in high-moisture spots near waterers. Also [Food Grade Diatomaceous Earth](https://www.amazon.com/s?k=food+grade+diatomaceous+earth+chickens&tag=backyardchick-20), dusted lightly into bedding to help with mites and lice, though I use it sparingly and avoid letting birds or myself breathe clouds of the stuff.
-
-For overall coop health, [The Chicken Health Handbook by Gail Damerow](https://www.amazon.com/s?k=chicken+health+handbook+damerow&tag=backyardchick-20) is the reference I reach for when something looks off. A lot of the problems she covers trace directly back to bedding and coop hygiene.
+Hemp bedding deserves a mention here even though it's pricier. It absorbs up to four times its weight in moisture, controls odor extremely well, and composts fast. If you have a small flock and buy in bulk, the math works out close to pine shavings over time. Brands like [Small Pet Select Hemp Bedding](https://www.amazon.com/s?k=hemp+chicken+bedding&tag=backyardchickens-20) are worth a look. *(This site may earn a commission on purchases.)*
 
 ---
 
 ## Frequently Asked Questions
 
-### How often should I completely change coop bedding?
+### How often should I change chicken coop bedding?
 
-With a standard spot-cleaning approach, a full bedding change every 4 to 6 weeks works for most small flocks. If you're running the deep litter method correctly, you can go 6 months between full cleanouts. The real answer is: use your nose and your hand. If it smells like ammonia or feels wet when you press into it, change it regardless of the schedule.
+It depends entirely on your management method. In a standard cleanout system with pine shavings, most keepers do a full change every 4 to 8 weeks and top up with fresh material in between. In a properly managed deep litter system, you may only do two full cleanouts per year. The real answer is: change it when moisture or ammonia smell starts building, not on a rigid calendar.
 
-### Can I use newspaper as coop bedding?
+### Is it safe to use grass clippings as chicken coop bedding?
 
-You can in a pinch, but it's not a good long-term solution. Newspaper has almost no absorbency, gets slippery when wet (which can cause leg injuries in young birds), and provides no cushioning. I've used it under real bedding temporarily or in brooders when I was desperate. That's about the extent of its usefulness.
+Fresh grass clippings are a bad idea. They mat down fast, ferment, and can cause impacted crops or digestive issues if birds eat large amounts. Dried grass clippings, however, are a decent supplemental addition to a deep litter pile. Let them dry fully in the sun before adding them.
 
-### What bedding is best for baby chicks in a brooder?
+### What's the best bedding to control ammonia smell?
 
-Paper towels for the first week, full stop. Young chicks don't know what food is yet and will eat loose bedding, which causes impacted crop and death. After day 7, once they're eating reliably, fine pine shavings work well. Never use cedar with chicks. Never use slippery materials that can cause spraddle leg.
+Deep litter managed correctly produces the least ammonia of any system, because active decomposition neutralizes the nitrogen compounds. For a standard cleanout system, pine shavings or hemp bedding control odor best. Ventilation is honestly more important than bedding choice. A well-ventilated coop with mediocre bedding smells better than a closed-up coop with premium material.
 
-### Is sand safe for chickens year-round?
+### Can I use old hay as chicken coop bedding?
 
-In warm, dry climates, yes. In wet or cold climates, sand presents real problems: it stays cold in winter (contributing to frostbite in birds that sit low), and in humid conditions it can harbor bacteria and parasites even when it looks clean. If your winters drop below 20°F regularly, I'd use sand only in the run and stick with organic bedding inside the coop.
+Old hay is risky. Hay retains more moisture than straw (it's cut at a leafy, higher-moisture stage), and old hay is particularly prone to mold. Aspergillus mold in hay can cause fatal respiratory infections in poultry. If you have dry, good-quality hay and nowhere else to use it, small amounts mixed into a deep litter pile are probably fine. As primary bedding, straw is almost always a better and safer choice.
 
-### How do I deal with bedding near the waterer? It's always a wet mess.
+### My coop smells even with fresh bedding. What's wrong?
 
-This is one of the most common coop problems and the fix is usually location, not bedding type. Get the waterer off the floor, a hanging [poultry waterer](https://www.amazon.com/s?k=hanging+chicken+waterer&tag=backyardchick-20) or one on a cinder block, so birds aren't standing in it and splashing freely. Underneath the waterer, I put a small section of hardware cloth over a catch tray, or I use a thick layer of pine pellets specifically in that zone since they handle heavy moisture better than shavings.
+Nine times out of ten, ventilation. Ammonia is heavier than air and sinks to floor level. It builds up in closed coops incredibly fast, especially in winter when keepers close vents to keep birds warm. Birds need fresh air more than they need a warm coop. Open your upper vents even in cold weather. Check that droppings boards under roosts are being cleaned every few days, since that concentrated pile under the roost is the main ammonia source. A product like [Sweet PDZ Coop Refresher](https://www.amazon.com/s?k=sweet+pdz+coop+refresher&tag=backyardchickens-20) sprinkled under roosts can help manage ammonia between cleanings. *(This site may earn a commission on purchases.)*
 
 ---
 
-Bedding is one of those things that rewards a little attention early and costs you a lot of trouble if you ignore it. You don't need to overthink it, you just need to pick a material that suits your climate and management style, keep it dry, and not let it go too long between changes. Healthy birds stand on clean, dry ground. Start there and most of the other problems take care of themselves.
+Twelve years in, the thing I've come to believe is that no single bedding choice is the magic answer. What matters more is that you observe your flock, adjust when something isn't working, and don't let the perfect be the enemy of the good. A coop managed with cheap pine shavings and real attention beats one loaded with premium hemp bedding and zero oversight every single time. Start simple, watch what's happening on that floor, and tweak as you go. Your birds will tell you what they need.
 
-*Photo: [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels) via Pexels*
+*Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*

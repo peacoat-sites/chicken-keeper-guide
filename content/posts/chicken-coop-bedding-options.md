@@ -3,7 +3,7 @@ title: "Chicken Coop Bedding Options"
 date: 2026-05-21T04:16:45.448096+00:00
 draft: false
 description: "Discover the best chicken coop bedding options to keep your flock healthy and comfortable. Compare straw, wood shavings, sand, and more to find the perfect fit."
-image: "https://images.pexels.com/photos/2255459/pexels-photo-2255459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8652819/pexels-photo-8652819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["chicken", "coop", "bedding", "options"]
 author: "Ben Hartley"

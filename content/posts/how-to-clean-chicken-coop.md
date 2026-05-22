@@ -3,7 +3,7 @@ title: "How To Clean Chicken Coop"
 date: 2026-05-21T04:26:19.344223+00:00
 draft: false
 description: "Learn how to clean a chicken coop step by step. Discover the best tools, cleaning products, and schedules to keep your flock healthy and your coop odor-free."
-image: "https://images.pexels.com/photos/7782044/pexels-photo-7782044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6195274/pexels-photo-6195274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["clean", "chicken", "coop"]
 author: "Lisa Vance"

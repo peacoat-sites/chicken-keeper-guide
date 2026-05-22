@@ -3,7 +3,7 @@ title: "What To Feed Chickens"
 date: 2026-05-21T12:31:53.610760+00:00
 draft: false
 description: "Discover what to feed chickens for optimal health and egg production. Learn the best grains, vegetables, proteins, and foods to avoid for a happy, thriving floc"
-image: "https://images.pexels.com/photos/2446695/pexels-photo-2446695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35771810/pexels-photo-35771810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["feeding"]
 tags: ["what", "feed", "chickens"]
 author: "Mike Olson"

@@ -3,7 +3,7 @@ title: "How To Raise Chickens"
 date: 2026-05-21T02:00:26.951971+00:00
 draft: false
 description: "Learn how to raise chickens with our beginner-friendly guide covering housing, feeding, health care, and tips to keep your backyard flock happy and productive."
-image: "https://images.pexels.com/photos/2255459/pexels-photo-2255459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/16580501/pexels-photo-16580501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["raise", "chickens"]
 author: "Lisa Vance"

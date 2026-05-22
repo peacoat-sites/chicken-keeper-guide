@@ -3,7 +3,7 @@ title: "Orpington Chickens"
 date: 2026-05-21T04:02:43.725186+00:00
 draft: false
 description: "Discover the friendly and docile Orpington chicken breed. Learn about their history, temperament, egg production, and why they make perfect backyard flock addit"
-image: "https://images.pexels.com/photos/2446695/pexels-photo-2446695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5840692/pexels-photo-5840692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["Orpington", "chickens"]
 author: "Karen Fields"

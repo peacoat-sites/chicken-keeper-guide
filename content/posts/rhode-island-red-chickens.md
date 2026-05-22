@@ -3,7 +3,7 @@ title: "Rhode Island Red Chickens"
 date: 2026-05-21T02:20:05.799853+00:00
 draft: false
 description: "Discover everything about Rhode Island Red chickens, from their hardy nature and egg-laying ability to care tips, history, and why they make ideal backyard bird"
-image: "https://images.pexels.com/photos/20118295/pexels-photo-20118295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/16180500/pexels-photo-16180500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["Rhode", "Island", "chickens"]
 author: "Mike Olson"

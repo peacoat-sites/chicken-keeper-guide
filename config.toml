@@ -33,7 +33,12 @@ author = "Stephen Brenish"
   satisfaction    = 96
   trust_extra     = "Backyard poultry keepers & certified flock advisors"
   impact_verification = ""
-  impact_tracking_id  = "" 
+  impact_tracking_id  = ""
+  persona_name       = "Ellen Barker"
+  persona_title      = "Backyard Poultry Editor"
+  persona_bio        = "Ellen has kept backyard chickens for over a decade on her small hobby farm. She covers flock management, coop design, egg production, and chicken health from a hands-on owner’s perspective — practical guidance from someone who has made every beginner mistake so you don’t have to."
+  persona_initials   = "EB"
+  disclaimer         = "This site shares general backyard poultry guidance based on personal experience and research. Consult a licensed veterinarian for diagnosis and treatment of sick birds. Local zoning and ordinance requirements for backyard flocks vary — always check your local regulations."
 
 [taxonomies]
   category = "categories"

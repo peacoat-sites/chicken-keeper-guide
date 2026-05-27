@@ -7,47 +7,74 @@ description: "Privacy Policy for Chicken Keeper Guide"
 
 ## Privacy Policy
 
-Last updated: January 1, 2026
+*Last updated: May 27, 2026*
 
-This Privacy Policy explains how Chicken Keeper Guide ("we," "us," or "our") collects, uses, and protects information when you visit chickenkeeperguide.com.
+This Privacy Policy describes how Chicken Keeper Guide ("we," "us," or "our") collects, uses, and shares information when you visit chickenkeeperguide.com (the "Site").
+
+---
 
 ## Information We Collect
 
-**Automatically collected:** When you visit our Site, we automatically collect certain information including your IP address, browser type, referring URLs, and pages visited. This is standard web server log data.
+**Information You Provide:** We do not require account creation. If you contact us, we collect the name, email, and message you provide.
 
-**Cookies:** We use cookies to improve your experience. You may disable cookies in your browser settings, though some features may not function properly.
+**Automatically Collected:** IP address and approximate location, browser type and device, pages visited and time on page, referring URL or search query, and date/time of visit — collected via server logs, cookies, and third-party services.
+
+---
+
+## Cookies
+
+| Type | Purpose |
+|---|---|
+| Strictly Necessary | Site functionality |
+| Analytics | Google Analytics — site usage understanding |
+| Advertising | Google AdSense — relevant ad serving |
+
+You can disable cookies in your browser. Disabling advertising cookies means less relevant (but still present) ads.
+
+---
+
+## Third-Party Services
+
+**Google Analytics:** Collects anonymized usage data. [Privacy Policy](https://policies.google.com/privacy) | [Opt-out](https://tools.google.com/dlpage/gaoptout)
+
+**Google AdSense:** Serves ads using cookies based on prior browsing. Opt out at [Google Ad Settings](https://www.google.com/settings/ads) or [NAI](https://optout.networkadvertising.org/).
+
+**Amazon Associates:** We earn commissions on qualifying purchases through our links. [Amazon Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
+
+---
 
 ## How We Use Information
 
-We use collected information to:
-- Analyze site traffic and improve content
-- Serve relevant advertisements via Google AdSense
-- Monitor site performance
+To operate and improve the Site, analyze traffic, serve ads, and respond to inquiries. **We do not sell your personal information.**
 
-## Google AdSense
+---
 
-We use Google AdSense to display advertisements. Google uses cookies to serve ads based on your prior visits to this and other websites. You can opt out of personalized advertising at [Google's Ads Settings](https://www.google.com/settings/ads).
+## Your Privacy Rights
 
-## Google Analytics
+**California (CCPA):** Right to know, delete, and opt out of sale. We do not sell data.
 
-We use Google Analytics to understand how visitors use our Site. Google Analytics collects anonymized data about your visit. See [Google's Privacy Policy](https://policies.google.com/privacy) for details.
+**European (GDPR):** Rights to access, correct, or delete data. Legal bases: legitimate interest (analytics) and consent (advertising).
 
-## Third-Party Links
+---
 
-Our Site contains links to third-party websites. We are not responsible for their privacy practices.
+## Data Retention
 
-## Your Rights
+Analytics data: up to 26 months. Contact messages: up to 2 years.
 
-Depending on your location, you may have rights to access, correct, or delete your personal data. Contact us at contact@chickenkeeperguide.com to exercise these rights.
+---
 
-## Children's Privacy
+## Children’s Privacy
 
-Our Site is not directed at children under 13. We do not knowingly collect information from children.
+This Site is not directed at children under 13. We do not knowingly collect their data.
 
-## Changes to This Policy
+---
 
-We may update this Privacy Policy periodically. We will notify you of significant changes by posting the new policy on this page.
+## Changes
+
+We may update this policy. Changes posted here with revised date.
+
+---
 
 ## Contact
 
-Questions? Email us at contact@chickenkeeperguide.com
+contact@chickenkeeperguide.com

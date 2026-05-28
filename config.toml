@@ -39,6 +39,13 @@ enableEmoji = true
   persona_initials   = "EB"
   disclaimer         = "This site shares general backyard poultry guidance based on personal experience and research. Consult a licensed veterinarian for diagnosis and treatment of sick birds. Local zoning and ordinance requirements for backyard flocks vary — always check your local regulations."
 
+logo_text_1 = "Chicken"
+logo_text_2 = "Keeper Guide"
+primary_color = "#fbbf24"
+hero_color_1 = "#0d0900"
+hero_color_2 = "#1a1400"
+hero_color_3 = "#fbbf24"
+hero_color_4 = "#080600"
 [taxonomies]
   category = "categories"
   tag = "tags"

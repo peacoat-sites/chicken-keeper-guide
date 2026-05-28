@@ -8,7 +8,7 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-  page_bg = "#fdf8f2"
+  page_bg = "#fef7ec"
   nav_style = "light"
   description = "Everything you need to raise healthy, happy backyard chickens — breeds, coops, egg production, feeding, flock health, and more."
   niche = "Backyard Chickens & Poultry"
@@ -37,7 +37,7 @@ enableEmoji = true
 
 logo_text_1 = "Chicken"
 logo_text_2 = "Keeper Guide"
-primary_color = "#7c2d12"
+primary_color = "#92400e"
 hero_color_1 = "#0d0900"
 hero_color_2 = "#1a1400"
 hero_color_3 = "#fbbf24"

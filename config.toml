@@ -19,14 +19,9 @@ enableEmoji = true
   author = "Chicken Keeper Guide Editorial Team"
   logo_text = "Chicken Keeper Guide"
   tagline = "Raise Happy Hens"
-  primary_color = "#744210"
   cloudflare_analytics = ""
 
   # Authority theme
-  hero_color_1 = "#3b1f07"
-  hero_color_2 = "#744210"
-  hero_color_3 = "#d97706"
-  hero_color_4 = "#b45309"
   monthly_readers = 58000
   research_hours  = 420
   satisfaction    = 96

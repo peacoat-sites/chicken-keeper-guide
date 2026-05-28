@@ -2,12 +2,12 @@
 title: "About Chicken Keeper Guide"
 date: 2026-01-01
 draft: false
-description: "About Chicken Keeper Guide ,  meet Ellen Barker, a decade-long backyard chicken keeper writing practical poultry guides."
+description: "About Chicken Keeper Guide,  meet Ellen Barker, a decade-long backyard chicken keeper writing practical poultry guides."
 ---
 
 ## About Chicken Keeper Guide
 
-Chicken Keeper Guide is a practical resource for backyard chicken owners ,  from setting up a first flock to managing a productive laying operation. Everything here comes from hands-on experience.
+Chicken Keeper Guide is a practical resource for backyard chicken owners,  from setting up a first flock to managing a productive laying operation. Everything here comes from hands-on experience.
 
 ## Meet the Editor
 
@@ -19,7 +19,7 @@ She writes because the advice she found online when she started was often wrong,
 
 ## What We Cover
 
-Chicken Keeper Guide covers the full backyard poultry experience ,  breed selection, coop design and construction, brooding chicks, flock health and disease prevention, egg production, molting, predator protection, feed and nutrition, and the business of selling eggs.
+Chicken Keeper Guide covers the full backyard poultry experience,  breed selection, coop design and construction, brooding chicks, flock health and disease prevention, egg production, molting, predator protection, feed and nutrition, and the business of selling eggs.
 
 ## Our Approach
 
@@ -27,7 +27,7 @@ Practical first, theoretical second. When something works, we say why. When some
 
 ## Disclaimer
 
-Chicken Keeper Guide shares general husbandry guidance based on personal experience and research. It is not veterinary advice. Consult a licensed poultry veterinarian for diagnosis and treatment of sick birds. Local zoning and ordinances for backyard flocks vary ,  check your local regulations before starting a flock.
+Chicken Keeper Guide shares general husbandry guidance based on personal experience and research. It is not veterinary advice. Consult a licensed poultry veterinarian for diagnosis and treatment of sick birds. Local zoning and ordinances for backyard flocks vary,  check your local regulations before starting a flock.
 
 ## Affiliate Disclosure
 

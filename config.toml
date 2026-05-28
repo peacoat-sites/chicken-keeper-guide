@@ -3,6 +3,7 @@ enableGitInfo = true
 languageCode = "en-us"
 title = "Chicken Keeper Guide"
 
+
 enableRobotsTXT = true
 enableEmoji = true
 

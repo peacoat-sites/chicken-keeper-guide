@@ -8,6 +8,8 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+  page_bg = "#fdf8f2"
+  nav_style = "light"
   description = "Everything you need to raise healthy, happy backyard chickens — breeds, coops, egg production, feeding, flock health, and more."
   niche = "Backyard Chickens & Poultry"
   adsense_id = "ca-pub-3466203197759215"

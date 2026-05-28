@@ -9,7 +9,6 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-author = "Stephen Brenish"
   description = "Everything you need to raise healthy, happy backyard chickens — breeds, coops, egg production, feeding, flock health, and more."
   niche = "Backyard Chickens & Poultry"
   adsense_id = "ca-pub-3466203197759215"

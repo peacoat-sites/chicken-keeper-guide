@@ -1,0 +1,125 @@
+---
+title: "Broody Hen Behavior"
+date: 2026-05-28T22:23:33.963677+00:00
+draft: false
+description: "Learn how to identify broody hen behavior, what causes it, and how to manage or encourage it in your flock with practical tips for backyard chicken keepers."
+image: "https://images.pexels.com/photos/7790127/pexels-photo-7790127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+categories: ["eggs"]
+tags: ["broody", "behavior"]
+author: "Claire Novak"
+author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+slug: "broody-hen-behavior"
+affiliate_disclosure: false
+---
+
+You walk out to the coop one morning and find one of your hens planted on the nest like a feathered boulder. She puffs up, growls, and tries to remove your hand from your wrist when you reach under her. She hasn't moved in two days. The other hens are laying their eggs and walking away like normal adults, but this one has decided the nest box is her permanent address. Congratulations. You have a broody hen.
+
+Most articles will tell you she "wants to hatch eggs" and offer you three vague options. What they skip is the part where she stops eating, loses a third of her body weight, monopolizes the only nest box your other five hens want to use, and can stay locked in this hormonal trance for six to twelve weeks if you do nothing. That's the version you need to understand before you decide what to do about her.
+
+## What Brooding Actually Is (And Why It Happens)
+
+Broodiness is driven by prolactin, the same hormone that triggers maternal behavior in mammals. When a hen goes broody, her prolactin spikes, her body temperature rises (the underside of a broody hen runs about 104 to 106 degrees Fahrenheit, which is why she's such a reliable incubator), and her brain essentially locks her into a single behavioral loop: sit on eggs, protect eggs, hatch eggs.
+
+She didn't decide to do this. It's not a mood. It's a full physiological state.
+
+The trigger is usually a combination of lengthening daylight hours, warm weather, and the presence of eggs in the nest. Some hens will go broody over a single golf ball. Some will go broody over nothing at all, sitting on bare wood with an expression of absolute conviction. Genetics determines how prone a hen is to this state, which is why the hatchery industry spent decades selectively breeding it out of production breeds.
+
+She'll leave the nest once a day, usually in the late morning, for a broody poop. These are legendary in their own right: enormous, foul-smelling, and genuinely shocking the first time you encounter one. She'll eat a little, drink a little, and return to the nest within 15 to 30 minutes. If she's not doing even that, she needs intervention.
+
+## Which Breeds Go Broody (And Which Won't)
+
+This is where people get surprised. If you have Leghorns, you may go years without seeing a broody hen. If you have Silkies, you may feel like you're managing a maternity ward.
+
+**Highly broody breeds:** Silkie, Cochin, Buff Orpington, Brahma, Sussex (especially the Light Sussex), Australorp, and most bantam breeds. My Buff Orpingtons go broody two or three times a season. My one Silkie hen spent more time broody than not during her first two years.
+
+**Moderate broodiness:** Plymouth Rock, Wyandotte, Easter Egger, Marans. You'll see it occasionally, not chronically.
+
+**Low to no broodiness:** Leghorn, Rhode Island Red (production strains), Sex-Links, Golden Comet, and most commercial hybrid layers. These breeds were selected for continuous laying, and the broody instinct has been largely eliminated. If your production Red goes broody, it happens, but it's the exception.
+
+Knowing your breed matters because it changes your calculus. A Silkie going broody in May is unremarkable. The same Silkie going broody in October is still normal, but you'll need to decide quickly whether you want to deal with a hen sitting on cold, unincubated eggs into November.
+
+## The Real Costs of an Unchecked Broody
+
+Here's what the "aww, she wants babies" framing glosses over.
+
+A broody hen can lose 20 to 35 percent of her body weight over a three-week brooding cycle. She's barely eating, barely drinking, and burning energy keeping eggs at incubation temperature around the clock. A hen who went into broodiness looking healthy can come out of it visibly depleted, with a pale comb, dull feathers, and muscle condition that takes weeks to rebuild.
+
+She's also immunocompromised during this period and more vulnerable to lice and mites, which thrive in the warm, still environment under a sitting hen. I've pulled broodies off nests to find them hosting serious infestations that the hen was too focused to notice or care about. Check under her wings and around the vent regularly if you're letting her sit.
+
+Then there's the nest box problem. A broody hen does not share. She'll sit in the single most popular box, and your other hens will either lay in a pile next to her (where eggs get broken or hidden under her), on the floor, or somewhere creative and inconvenient outside. Egg production for your whole flock dips while one hen stages a sit-in.
+
+Finally, if you're not running a rooster, she's sitting on infertile eggs indefinitely. She doesn't know that. She'll sit for 21 days (standard incubation time), realize nothing hatched, and sometimes reset and start again. I've seen hens stay in this loop for two months.
+
+## Your Three Options: Breaking, Ignoring, or Hatching
+
+You have exactly three choices. Pick one and commit.
+
+**Option 1: Break the broodiness.** The right call if you don't want chicks, don't have fertile eggs, or need her back in production.
+
+**Option 2: Let her sit and do nothing.** Fine if she has access to food, water, and isn't being bullied off the nest. Expect her to be out of laying commission for 4 to 8 weeks total (3 weeks sitting, then time to recover and resume laying). Not a disaster, just a cost.
+
+**Option 3: Give her fertile eggs to hatch.** The most satisfying outcome if you want it. Give her a clutch of 8 to 12 eggs (depending on her size), mark them with a pencil so you can identify and remove any extras other hens sneak in, and let her do her job. She doesn't need a rooster present. She just needs the fertilized eggs.
+
+## How to Break a Broody Hen: Step by Step
+
+Breaking broodiness works by lowering her body temperature and disrupting the hormonal feedback loop. The method that actually works is a broody breaker cage: an elevated wire-bottomed cage with no nesting material, good airflow underneath, food, and water. The airflow under her cools her underside, prolactin drops, and she snaps out of it.
+
+**What you need:** A wire dog crate or a purpose-built broody breaker. Elevation matters. Sitting the crate on sawhorses or stacking it on a table works. The wire bottom needs to be exposed to air from below.
+
+**Step 1:** Remove her from the nest and place her in the broody breaker cage. Put it in a well-lit, airy location, not inside the dark coop.
+
+**Step 2:** Provide unlimited food and water. She needs to eat. Don't make breaking broodiness a starvation exercise.
+
+**Step 3:** Leave her in for 3 to 5 days minimum. Check daily. You're looking for a hen who seems alert, curious, and has stopped the flattened, growling posture.
+
+**Step 4:** Release her and watch. If she goes straight back to the nest, put her back in the cage for another two days.
+
+Most hens break in 3 to 5 days. The stubborn ones, often Silkies or Cochins, can take up to a week. I've had one Silkie require two full rounds of this before she relented. It happens.
+
+What doesn't work reliably: repeatedly removing her from the nest (she just goes back), putting ice packs under her (awkward and temporary), or moving the nest box (she'll find another one).
+
+A well-reviewed option for a ready-made broody breaker setup worth looking at is the [Precision Pet Rabbit Hutch](https://www.amazon.com/s?k=wire+rabbit+hutch+elevated&tag=backyardchickens-20) or any elevated wire cage, which you can repurpose for exactly this. *(This site may earn a commission on qualifying purchases.)*
+
+## Raising Chicks Under a Broody: What to Expect
+
+If you gave her fertile eggs and she hatches them, you're in for the easiest chick-rearing experience in backyard chicken keeping. A good broody is better at raising chicks than you are. No heat lamp math, no brooder box, no pasty butt checks at 2am. She handles all of it.
+
+A few things to know:
+
+She'll need to be separated from the main flock, at least in a partitioned section of the coop, or the other hens will kill the chicks. This isn't a maybe. Give her a private space.
+
+Chick starter crumbles need to be available, not layer feed. Layer feed has calcium levels too high for chicks. Your broody will eat the chick starter too, which is fine for a few weeks.
+
+She'll keep the chicks warm for about 4 to 6 weeks, then gradually stop hovering them as they feather out. The transition is natural and you don't need to manage it.
+
+She'll also teach them to eat, to drink, and to be wary of threats. I've watched broody hens teach three-day-old chicks to scratch for food. It's genuinely impressive. The chicks raised by a broody are almost always better-socialized, more resourceful, and quicker to integrate with the flock than hatchery or incubator chicks.
+
+---
+
+## FAQ
+
+### How long will a broody hen sit if nothing hatches?
+
+Most hens will sit for 21 days (the incubation period) and then break on their own when nothing hatches. Some will reset and try again, extending the cycle to 6 to 8 weeks. Heavily broody breeds like Silkies and Cochins are most likely to cycle back through. If she's been sitting for more than 4 weeks on infertile eggs, it's worth intervening.
+
+### Will a broody hen lose too much weight to be healthy?
+
+She'll lose weight, but a healthy hen who entered broodiness in good condition and has access to food and water daily will typically recover within 2 to 3 weeks of resuming normal activity. Watch for a very pale or shrunken comb, weakness, or inability to walk normally. Those are signs she needs to be pulled off the nest regardless of your plans.
+
+### Can I give a broody hen eggs from another breed to hatch?
+
+Yes. She doesn't know or care what breed the eggs are. I've had Buff Orpingtons successfully hatch Marans eggs, Cream Legbar eggs, and once a batch of duck eggs (the duck imprinting situation afterward was chaotic, fair warning). The only limit is clutch size relative to her body size. A standard hen can reliably cover 10 to 12 large eggs or up to 15 small bantam eggs.
+
+### My broody won't leave the nest to eat. What should I do?
+
+Physically remove her once a day and place her in front of food and water. Some hens are so committed they won't break the loop voluntarily. Hold her near the water and dip her beak lightly if needed. If she's been sitting for over 48 hours without eating or drinking, this daily intervention is necessary, not optional. A hen who becomes too weak to stand is a serious problem.
+
+### Can two hens share a broody nest?
+
+Sometimes they try, and it's usually a disaster. Two hens crammed onto a shared nest means eggs roll around, temperatures fluctuate, and one hen usually ends up displaced. If you want to run two broodies simultaneously, give them separate nest boxes at least 18 inches apart. You can also slip chicks under a second broody who's been sitting the same amount of time, which works better than shared incubation.
+
+---
+
+Broodiness is one of those chicken behaviors that's equal parts impressive and inconvenient. Handled right, it's one of the most powerful tools in a backyard keeper's arsenal: free, effective, low-maintenance chick rearing from a hen who's entirely self-motivated. Handled badly, or just ignored, it costs you eggs, costs the hen her health, and creates a nest box standoff that affects your whole flock. Know what you're dealing with, decide what you want, and act on it in the first week. The longer you wait, the more entrenched she gets, and Silkies in particular will test your patience in ways that feel deeply personal.
+
+*Photo: [Ivan Babydov](https://www.pexels.com/@babydov) via Pexels*

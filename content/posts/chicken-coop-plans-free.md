@@ -1,6 +1,6 @@
 ---
 title: "Chicken Coop Plans Free"
-date: 2026-05-21T04:09:35.353125+00:00
+date: 2026-05-23T19:56:08.352260+00:00
 draft: false
 description: "Build your own chicken coop with our free plans! Step-by-step guides for all skill levels, flock sizes, and budgets. Start saving money and housing hens today."
 image: "https://images.pexels.com/photos/18833781/pexels-photo-18833781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

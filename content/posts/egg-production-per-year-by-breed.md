@@ -1,6 +1,6 @@
 ---
 title: "Egg Production Per Year By Breed"
-date: 2026-05-28T12:46:43.636917+00:00
+date: 2026-05-25T12:09:18.854248+00:00
 draft: false
 description: "Discover which chicken breeds lay the most eggs per year. Compare top laying breeds, annual egg counts, and find the best hens for your backyard flock."
 image: "https://images.pexels.com/photos/2255459/pexels-photo-2255459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

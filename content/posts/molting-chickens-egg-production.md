@@ -1,6 +1,6 @@
 ---
 title: "Molting Chickens Egg Production"
-date: 2026-05-28T22:21:28.468395+00:00
+date: 2026-05-24T05:08:13.844302+00:00
 draft: false
 description: "Discover how molting affects your chickens egg production, how long it lasts, and simple tips to support your flock and get them laying again faster."
 image: "https://images.pexels.com/photos/20118295/pexels-photo-20118295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Worms In Chickens"
-date: 2026-05-29T22:26:34.578072+00:00
+date: 2026-05-24T17:40:59.070699+00:00
 draft: false
 description: "Discover how to identify, treat, and prevent worms in chickens. Learn the signs of infection, best treatments, and tips to keep your flock healthy and thriving."
 image: "https://images.pexels.com/photos/32331515/pexels-photo-32331515.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

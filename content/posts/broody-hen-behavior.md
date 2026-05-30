@@ -1,6 +1,6 @@
 ---
 title: "Broody Hen Behavior"
-date: 2026-05-28T22:23:33.963677+00:00
+date: 2026-05-23T23:06:11.490307+00:00
 draft: false
 description: "Learn how to identify broody hen behavior, what causes it, and how to manage or encourage it in your flock with practical tips for backyard chicken keepers."
 image: "https://images.pexels.com/photos/7790127/pexels-photo-7790127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Chickens Not Laying In Winter"
-date: 2026-05-28T22:18:59.894893+00:00
+date: 2026-05-22T12:06:30.643467+00:00
 draft: false
 description: "Discover why your chickens stop laying eggs in winter and learn simple tips to boost production, including lighting, nutrition, and coop management strategies."
 image: "https://images.pexels.com/photos/2446695/pexels-photo-2446695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Chicken Run Size Requirements"
-date: 2026-05-21T04:19:12.989437+00:00
+date: 2026-05-22T18:44:08.513237+00:00
 draft: false
 description: "Free-range or backyard flock? Learn the ideal chicken run size requirements to keep your hens healthy, happy, and stress-free with our easy guide."
 image: "https://images.pexels.com/photos/33441868/pexels-photo-33441868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

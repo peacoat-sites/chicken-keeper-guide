@@ -1,6 +1,6 @@
 ---
 title: "How Many Chickens Should I Get"
-date: 2026-05-21T02:05:16.053039+00:00
+date: 2026-05-24T20:47:34.252590+00:00
 draft: false
 description: "Find out how many chickens you really need based on your egg goals, available space, local laws, and flock dynamics to help you make the right choice."
 image: "https://images.pexels.com/photos/8180453/pexels-photo-8180453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

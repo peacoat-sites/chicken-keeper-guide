@@ -1,6 +1,6 @@
 ---
 title: "Nesting Boxes For Chickens"
-date: 2026-05-22T12:01:35.223080+00:00
+date: 2026-05-27T17:18:09.248694+00:00
 draft: false
 description: "Discover the best nesting boxes for chickens to maximize egg production and keep your flock comfortable. Learn sizes, materials, and installation tips."
 image: "https://images.pexels.com/photos/36730527/pexels-photo-36730527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

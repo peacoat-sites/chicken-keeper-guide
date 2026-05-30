@@ -1,6 +1,6 @@
 ---
 title: "Why Did My Chicken Stop Laying"
-date: 2026-05-28T12:49:03.842442+00:00
+date: 2026-05-26T12:58:00.842780+00:00
 draft: false
 description: "Find out why your chicken stopped laying eggs. Learn about common causes like molting, stress, diet, lighting changes, and age, plus tips to boost production."
 image: "https://images.pexels.com/photos/7790127/pexels-photo-7790127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

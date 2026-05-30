@@ -1,6 +1,6 @@
 ---
 title: "Easter Egger Chickens"
-date: 2026-05-21T04:05:14.273282+00:00
+date: 2026-05-29T19:14:48.905316+00:00
 draft: false
 description: "Discover everything about Easter Egger chickens, from their colorful egg varieties and friendly temperament to care tips, feeding needs, and why they make great"
 image: "https://images.pexels.com/photos/6141608/pexels-photo-6141608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

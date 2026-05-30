@@ -1,6 +1,6 @@
 ---
 title: "Chicken Feed Types Explained"
-date: 2026-05-22T12:04:04.176942+00:00
+date: 2026-05-27T02:40:51.957892+00:00
 draft: false
 description: "Discover the different types of chicken feed including starter, grower, and layer feeds. Learn which feed is best for your flock at each stage of life."
 image: "https://images.pexels.com/photos/29275539/pexels-photo-29275539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

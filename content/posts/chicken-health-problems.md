@@ -1,6 +1,6 @@
 ---
 title: "Chicken Health Problems"
-date: 2026-05-28T22:28:16.897199+00:00
+date: 2026-05-21T11:43:47.120546+00:00
 draft: false
 description: "Learn to identify and treat common chicken health problems including respiratory infections, mites, worms, and more to keep your flock happy and thriving."
 image: "https://images.pexels.com/photos/32594274/pexels-photo-32594274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

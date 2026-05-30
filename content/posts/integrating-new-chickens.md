@@ -5,7 +5,7 @@ draft: false
 description: "Here is a meta description within the 140-155 character range:
 
 Learn how to safely introduce new chickens to your flock with our step-by-step guide covering qu"
-image: ""
+image: "https://images.pexels.com/photos/58906/pexels-photo-58906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["flock"]
 tags: ["integrating", "chickens"]
 author: "Maria Vasquez"

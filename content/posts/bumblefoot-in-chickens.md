@@ -3,7 +3,7 @@ title: "Bumblefoot In Chickens"
 date: 2026-05-29T21:45:12.765719+00:00
 draft: false
 description: "Discover the causes, symptoms, and treatments of bumblefoot in chickens. Learn how to spot this common foot infection early and keep your flock healthy."
-image: ""
+image: "https://images.pexels.com/photos/15645695/pexels-photo-15645695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["bumblefoot", "chickens"]
 author: "Dana Hargrove"

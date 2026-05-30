@@ -3,7 +3,7 @@ title: "Egg Bound Chicken"
 date: 2026-05-29T22:18:35.889594+00:00
 draft: false
 description: "Learn how to identify and treat an egg bound chicken with our expert guide. Discover symptoms, causes, and step-by-step treatment tips to save your hen."
-image: ""
+image: "https://images.pexels.com/photos/31627639/pexels-photo-31627639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["bound", "chicken"]
 author: "Claire Novak"

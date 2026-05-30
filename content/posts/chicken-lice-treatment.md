@@ -3,7 +3,7 @@ title: "Chicken Lice Treatment"
 date: 2026-05-29T22:20:57.896941+00:00
 draft: false
 description: "Discover the best chicken lice treatment options to protect your flock. Learn how to identify, treat, and prevent lice infestations quickly and effectively."
-image: ""
+image: "https://images.pexels.com/photos/19972937/pexels-photo-19972937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["chicken", "lice", "treatment"]
 author: "Maria Vasquez"

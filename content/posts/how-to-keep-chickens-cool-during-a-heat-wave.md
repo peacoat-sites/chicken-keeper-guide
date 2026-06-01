@@ -3,7 +3,7 @@ title: "How To Keep Chickens Cool During A Heat Wave"
 date: 2026-05-31T11:08:23.849694+00:00
 draft: false
 description: "Help your flock beat the heat with these essential tips. Learn how to keep chickens cool during a heat wave and prevent dangerous heat stress all summer long."
-image: ""
+image: "https://images.pexels.com/photos/18474434/pexels-photo-18474434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["General"]
 tags: ["keep", "chickens", "cool", "during", "heat"]
 author: "Maria Vasquez"

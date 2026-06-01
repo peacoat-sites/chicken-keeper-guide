@@ -21,3 +21,12 @@ Car accident injury claims? That's not backyard poultry knowledge. That's person
 If you need real guidance on a car accident injury claim, you want a licensed personal injury attorney, ideally one who offers free consultations, which most do. You also want resources like your state's Department of Insurance website, or legal aid organizations if cost is a barrier.
 
 If you want an article about backyard chickens, feed costs, coop builds, flock health, predator pressure, or anything else in that world, I'm genuinely the right person for it. Just say the word.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
+

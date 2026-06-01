@@ -1,0 +1,149 @@
+{
+  "title": "Are You Ready to Raise Backyard Chickens?",
+  "intro": "Answer 7 quick questions to see how well a backyard flock fits your space, schedule, and goals. This is just for fun and general guidance, not professional advice.",
+  "disclaimer": "This quiz is for general education and fun, not professional or veterinary advice. Always check your local ordinances and HOA rules before getting chickens, as backyard flocks are not allowed everywhere.",
+  "questions": [
+    {
+      "q": "How much outdoor space do you have for a coop and a little room to roam?",
+      "options": [
+        {
+          "t": "A decent yard with a spot I could fence or dedicate to a run",
+          "s": 3
+        },
+        {
+          "t": "A small yard or patio, but I might make it work",
+          "s": 1
+        },
+        {
+          "t": "No real outdoor space to spare right now",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "Chickens need a quick check every morning and evening. How does that fit your routine?",
+      "options": [
+        {
+          "t": "I'm home daily and happy to build it into my mornings and evenings",
+          "s": 3
+        },
+        {
+          "t": "Most days work, but I travel or have unpredictable stretches",
+          "s": 1
+        },
+        {
+          "t": "I'm rarely home on a reliable schedule",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about hands-on chores like scooping bedding and refilling feed and water?",
+      "options": [
+        {
+          "t": "I actually enjoy a little daily animal care and don't mind the mess",
+          "s": 3
+        },
+        {
+          "t": "I can do it, though I'd rather keep it quick and simple",
+          "s": 1
+        },
+        {
+          "t": "Honestly, regular dirty chores aren't for me",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "What's drawing you to keeping chickens in the first place?",
+      "options": [
+        {
+          "t": "Fresh eggs, a fun hobby, and connecting with where food comes from",
+          "s": 3
+        },
+        {
+          "t": "Mostly curious, but I haven't pinned down my main reason yet",
+          "s": 1
+        },
+        {
+          "t": "It just seems trendy and I'm not sure I'd stick with it",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "Coops, fencing, and feed cost money up front and over time. How's your readiness for that?",
+      "options": [
+        {
+          "t": "I've budgeted for setup and ongoing feed, and I'm comfortable with it",
+          "s": 3
+        },
+        {
+          "t": "I can manage it, but I'd want to start small and lean",
+          "s": 1
+        },
+        {
+          "t": "Spending on a setup right now would be a real stretch",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "Chickens can attract predators and need protection. How do you feel about that part?",
+      "options": [
+        {
+          "t": "I'm ready to predator-proof and keep the flock safe and secure",
+          "s": 3
+        },
+        {
+          "t": "I'd figure it out, though I haven't thought much about it",
+          "s": 1
+        },
+        {
+          "t": "That sounds like more than I want to take on",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "Hens live for years and need care while you're away. How does the long-term commitment sit with you?",
+      "options": [
+        {
+          "t": "I'm in it for the long haul and have someone to cover trips",
+          "s": 3
+        },
+        {
+          "t": "I think so, but lining up backup care feels uncertain",
+          "s": 1
+        },
+        {
+          "t": "A multi-year commitment feels like too much right now",
+          "s": 0
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": "Backyard chickens might not be your easiest fit right now",
+      "body": "Based on your answers, a full flock could feel like a stretch at this stage, whether it's space, time, or the daily chores. That's completely okay. Lots of future chicken keepers start by learning first and easing in when life lines up. Dig into the basics, picture your routine, and revisit this when you're ready.",
+      "cta": "Read our beginner chicken-keeping basics"
+    },
+    {
+      "min": 8,
+      "max": 14,
+      "title": "Chickens could work well for you, with a little planning",
+      "body": "You have several things going for you, and a few areas worth sorting out before you bring birds home, like firming up your space, budget, or backup care. With a simple starter plan you could absolutely make this work. Start small, set up smart, and grow your flock as your confidence does.",
+      "cta": "See our coop and starter-setup guide"
+    },
+    {
+      "min": 15,
+      "max": 21,
+      "title": "You're a strong fit for backyard chickens",
+      "body": "Your space, routine, and motivation all point the same direction, you're ready for a flock. The main thing left is the fun part: choosing breeds, designing a comfy coop, and prepping for your first eggs. Just confirm your local rules first, then dive into the details.",
+      "cta": "Browse our breed picker and care guides"
+    }
+  ]
+}

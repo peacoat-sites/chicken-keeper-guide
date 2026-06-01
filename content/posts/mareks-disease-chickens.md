@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "mareks-disease-chickens"
 affiliate_disclosure: false
+faqs:
+  - q: "Can a chicken recover from Marek's disease?"
+    a: "Rarely, and it depends heavily on the form. Birds with mild neurological signs occasionally stabilize, sometimes partially recover, and live for months or years. Visceral Marek's, which involves rapid tumor growth on organs, is almost always fatal within weeks. Birds that recover from clinical signs still carry the virus for life and can shed it. 'Recovery' in Marek's means managing a chronic condition, not elimination of disease."
+  - q: "If my birds are vaccinated, why did they still get Marek's?"
+    a: "The vaccine prevents tumor formation and clinical disease, not infection. A vaccinated bird can contract the virus, carry it, and shed it without getting sick. Problems arise when: the vaccine was given too late, the bird was exposed before immunity developed (within the first two weeks post-vaccination), or the flock contains a highly virulent strain. If you're seeing clinical disease in vaccinated birds, it's worth getting a definitive lab diagnosis to confirm whether it's actually Marek's or something else."
+  - q: "Is Marek's disease contagious to humans or other animals?"
+    a: "No. Marek's disease is strictly a poultry pathogen. It poses zero risk to humans, dogs, cats, or other livestock. You won't get it. Your other animals won't get it. The only concern is preventing spread to other flocks of chickens, turkeys, or other susceptible birds."
+  - q: "Should I cull my entire flock if Marek's is confirmed?"
+    a: "This is a genuine judgment call and it depends on your situation. Whole-flock culling makes sense if: you're a serious breeder, losses are high, or you want a clean start. For most backyard keepers, it isn't necessary. Surviving birds in a Marek's-positive flock often have natural resistance and can live out normal laying lives. The trade-off is that your property will remain Marek's-positive, so every bird you add going forward must be vaccinated at hatch."
+  - q: "How long does the Marek's virus survive in the environment?"
+    a: "This is what makes Marek's so persistent. Infectious virus in feather follicle epithelium (shed dander and dust) can survive for several months to over a year in a dry environment. Heat, UV light, and proper disinfectants reduce but don't eliminate it. For practical purposes, assume your coop is permanently contaminated once the virus is present. Plan your flock management around vaccination and bird sourcing accordingly, not around trying to sterilize the environment."
 ---
 
 You buy six pullets from a local farm. They're healthy, active, eating well. Three months later, one of them can't stand up. Her legs are splayed, she's losing weight, and her eye looks gray and misshapen. You call the farm. They say it's probably "just a vitamin deficiency." It isn't. It's Marek's disease, and by the time that first bird goes down, the virus has likely been circulating through your flock for weeks.

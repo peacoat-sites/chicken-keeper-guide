@@ -10,6 +10,17 @@ author: "Ben Hartley"
 author_bio: "Small-scale farmer and poultry keeper. Raises dual-purpose heritage breeds and writes about sustainable backyard farming."
 slug: "chicken-run-size-requirements"
 affiliate_disclosure: false
+faqs:
+  - q: "Can chickens live in a run without ever free-ranging?"
+    a: "Yes, and many do very successfully. The key is giving them enough space (think 20 square feet per bird or more), good enrichment, and active ground management. I've kept confined flocks that were healthy, productive, and behaviorally normal for years. The mistake is assuming confinement automatically means suffering. It doesn't if you set it up thoughtfully."
+  - q: "Is there a minimum run size that works for any breed?"
+    a: "Not really a universal number, but 10 square feet per bird is a starting floor for standard-size breeds in a managed situation where birds also have coop space. Go lower than that and you're gambling with bird health and behavior. Some breed-specific considerations apply: active foragers need more, docile dual-purpose breeds can manage on slightly less."
+  - q: "How do I know if my current run is too small?"
+    a: "Watch your flock. Chronic feather pecking, bare back patches, birds spending time pressed against the fence line, a dominant hen who terrorizes the others constantly, persistent respiratory issues, recurring bumblefoot: these are signals. Also look at the ground. If it's completely stripped of vegetation and heavily compacted within two weeks of a new flock moving in, the density is too high for that space."
+  - q: "Does coop size count toward run space requirements?"
+    a: "In some guidelines, yes, and the birds do use the coop floor during the day to a small degree. But in practical terms, I count them separately. Coop space is for sleeping and laying. Run space is for living, foraging, and movement. Don't try to stretch your run numbers by including the coop floor."
+  - q: "What's the biggest run I've seen backyard keepers wish they'd built?"
+    a: "Every single person I've talked to who has chickens longer than two years wishes they'd built bigger. Bigger run, bigger coop. I've never once heard someone say 'I really wish I had less space.' Build as big as your yard and budget allow on day one. Future you will be grateful."
 ---
 
 A flock of six hens living in a 6x6 foot run. Sounds fine on paper, doesn't it? That's 36 square feet, which works out to 6 square feet per bird. You'll find that number on dozens of websites and it's technically within range of the minimum recommendations. But I can tell you from watching real flocks over twelve years: a 6x6 run for six standard-size chickens will eventually give you a bare patch of dirt, stressed birds, and a pecking order enforced with actual blood. Space matters more than most beginners realize, and the minimums printed in beginner guides are often just that: the bare minimum to survive, not thrive.

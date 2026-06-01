@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "broody-hen-behavior"
 affiliate_disclosure: false
+faqs:
+  - q: "How long will a broody hen sit if nothing hatches?"
+    a: "Most hens will sit for 21 days (the incubation period) and then break on their own when nothing hatches. Some will reset and try again, extending the cycle to 6 to 8 weeks. Heavily broody breeds like Silkies and Cochins are most likely to cycle back through. If she's been sitting for more than 4 weeks on infertile eggs, it's worth intervening."
+  - q: "Will a broody hen lose too much weight to be healthy?"
+    a: "She'll lose weight, but a healthy hen who entered broodiness in good condition and has access to food and water daily will typically recover within 2 to 3 weeks of resuming normal activity. Watch for a very pale or shrunken comb, weakness, or inability to walk normally. Those are signs she needs to be pulled off the nest regardless of your plans."
+  - q: "Can I give a broody hen eggs from another breed to hatch?"
+    a: "Yes. She doesn't know or care what breed the eggs are. I've had Buff Orpingtons successfully hatch Marans eggs, Cream Legbar eggs, and once a batch of duck eggs (the duck imprinting situation afterward was chaotic, fair warning). The only limit is clutch size relative to her body size. A standard hen can reliably cover 10 to 12 large eggs or up to 15 small bantam eggs."
+  - q: "My broody won't leave the nest to eat. What should I do?"
+    a: "Physically remove her once a day and place her in front of food and water. Some hens are so committed they won't break the loop voluntarily. Hold her near the water and dip her beak lightly if needed. If she's been sitting for over 48 hours without eating or drinking, this daily intervention is necessary, not optional. A hen who becomes too weak to stand is a serious problem."
+  - q: "Can two hens share a broody nest?"
+    a: "Sometimes they try, and it's usually a disaster. Two hens crammed onto a shared nest means eggs roll around, temperatures fluctuate, and one hen usually ends up displaced. If you want to run two broodies simultaneously, give them separate nest boxes at least 18 inches apart. You can also slip chicks under a second broody who's been sitting the same amount of time, which works better than shared incubation."
 ---
 
 You walk out to the coop one morning and find one of your hens planted on the nest like a feathered boulder. She puffs up, growls, and tries to remove your hand from your wrist when you reach under her. She hasn't moved in two days. The other hens are laying their eggs and walking away like normal adults, but this one has decided the nest box is her permanent address. Congratulations. You have a broody hen.

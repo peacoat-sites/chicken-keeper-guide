@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "egg-bound-chicken"
 affiliate_disclosure: false
+faqs:
+  - q: "How long can a chicken survive being egg-bound?"
+    a: "Most hens will die within 48 hours if the egg isn't passed or removed. Some decline faster, especially if the egg is pressing on the kidneys or if she's small-bodied. Don't wait to see if she 'works it out on her own.' The window for effective home treatment is narrow."
+  - q: "Can an egg-bound hen eat and drink normally?"
+    a: "Sometimes in the early stages, yes. By the time she's visibly lethargic and penguin-posturing, she's usually stopped eating. Don't force food. Keep water available and focus on getting the egg out."
+  - q: "Will she be egg-bound again after recovering?"
+    a: "Possibly. A hen who's been egg-bound once has a somewhat higher risk of recurrence, especially if the underlying cause (usually calcium deficiency or obesity) isn't corrected. Address the cause, monitor her closely during the next few laying cycles, and consider whether she's a candidate for a laying break or a hormonal implant from a vet to give her oviduct time to recover."
+  - q: "Is a soft-shelled egg the same as egg binding?"
+    a: "Not exactly, but they're related. A soft-shelled egg is more likely to get stuck or collapse mid-passage because it lacks structural integrity. If your hen is regularly laying soft or shell-less eggs, she's either calcium-deficient, has a vitamin D problem, or has an underlying reproductive issue. Get that sorted before egg binding becomes the next thing you're dealing with."
+  - q: "What's the difference between egg binding and internal laying?"
+    a: "Internal laying (when eggs are deposited into the body cavity instead of the oviduct) is a chronic condition, not an acute emergency in the same way. Those hens develop a swollen, doughy abdomen over weeks, not hours. They're often sick for a long time before the situation becomes critical. Egg binding is sudden and acute. Both are serious. Neither has a great long-term prognosis without veterinary involvement, but they require completely different immediate responses."
 ---
 
 Your hen is squatting in the nesting box, straining, puffed up like a football, and nothing is coming out. She's been there for hours. Most chicken-keeping guides at this point tell you to "consult a vet" and leave you hanging. That's not enough when it's Sunday evening, the nearest avian vet is 45 minutes away, and your hen is deteriorating. Egg binding is one of the few chicken emergencies where the right home intervention, done quickly, can genuinely save a life. The wrong move, or no move at all, kills the bird. Here's what you actually need to know.

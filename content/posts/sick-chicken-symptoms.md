@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "sick-chicken-symptoms"
 affiliate_disclosure: false
+faqs:
+  - q: "How do I know if my chicken is dying or just molting?"
+    a: "Molting looks rough, but the bird still acts like herself. She eats aggressively, moves normally, and her comb stays red. A sick or dying hen is lethargic, often stops eating, and her comb goes pale or dark. During molt you'll see feather shafts (pin feathers) growing in. A dying hen often has no such explanation for her appearance."
+  - q: "Should I separate a sick chicken from the flock right away?"
+    a: "Yes, always. Separation reduces stress on the sick bird, prevents bullying from healthy birds, and contains potential contagion. Even if it turns out to be something non-contagious like egg binding or crop impaction, the sick bird will recover faster without competition for food and water."
+  - q: "Can chickens recover from respiratory illness on their own?"
+    a: "Sometimes, but I wouldn't count on it. Mild Mycoplasma infections can become chronic rather than clearing completely, meaning the bird becomes a carrier who can infect new birds you introduce. If you hear rattling, bubbling, or see discharge alongside breathing changes, a course of Tylan (tylosin) or doxycycline prescribed by a vet is usually the right call."
+  - q: "What does a normal chicken dropping look like?"
+    a: "Normal droppings are brown and firm with a white urate cap. Cecal droppings are dark, smelly, and almost liquid, normal once or twice a day. Yellow-green, watery, or bloody droppings are not normal. If you're unsure, search 'normal chicken poop chart' and compare visually."
+  - q: "My hen is sitting in the nesting box all day. Is she sick or broody?"
+    a: "Feel her. A broody hen is puffed up, warm, growly, and will peck you when you reach under her. She has a bare patch of skin on her belly (the brood patch) and she'll flatten herself over imaginary eggs. A sick hen sitting in the nesting box is quiet, doesn't react much, and feels cool or limp. Broodiness is completely normal behavior. A sick hen sitting in a box is a different situation requiring immediate attention."
 ---
 
 You walk out to the coop on a Tuesday morning, toss in the scratch, and one of your hens just... stands there. Doesn't run for the feed. Doesn't jockey for position like usual. She's puffed up, tail down, and when you pick her up she feels lighter than she should. Most new chicken keepers see that and think "she's probably just tired." I'll be honest: that hen might be 24 to 48 hours from dying. Chickens are prey animals. They hide illness aggressively, hardwired by evolution to avoid looking weak. By the time a chicken *looks* sick to an untrained eye, she's often been sick for days.

@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "bumblefoot-in-chickens"
 affiliate_disclosure: false
+faqs:
+  - q: "Can bumblefoot go away on its own without treatment?"
+    a: "Very early-stage bumblefoot, where there's just a small surface scab and no swelling, occasionally resolves if you fix the underlying cause (like a rough roost) and the bird's immune system handles it. But this is not something to count on. In most cases, the infection doesn't go away without intervention. It progresses. Treat it when you find it."
+  - q: "Is bumblefoot contagious to other chickens?"
+    a: "Not directly. Staphylococcus aureus is common in the environment and on the skin of healthy birds, but it only causes infection when it gets into a wound. You don't need to quarantine a bird with bumblefoot to protect the rest of the flock, though isolating for treatment purposes makes a lot of practical sense."
+  - q: "Do I have to cut out the core to treat bumblefoot?"
+    a: "For Tier 1 cases, no. Soaking, topical antibiotics, and consistent clean bandaging is often enough to resolve early-stage cases without any cutting. For Tier 2 cases with an established plug, removing the core gives you a much better chance of success because antibiotics have a hard time penetrating the dense caseous material."
+  - q: "Can I use human antibiotics to treat bumblefoot?"
+    a: "Some people do use fish antibiotics or medications from farm supply stores, and I understand the appeal when vets are hard to find or expensive. But without a proper diagnosis and sensitivity test, you risk using the wrong antibiotic, under-dosing, or contributing to antibiotic resistance. For severe cases, please see a vet. For mild cases, topical antibiotic ointment without a prescription is appropriate and effective."
+  - q: "What does bumblefoot look like in the early stages?"
+    a: "Early bumblefoot typically looks like a small, round, dark or black scab on the foot pad, specifically on the ball of the foot. The scab might be anywhere from the size of a BB to a pea. The surrounding tissue looks mostly normal with minimal or no swelling. The chicken may not even be limping yet. This is exactly the stage you want to catch it."
 ---
 
 You notice your Buff Orpington limping near the feeder one morning. She's still eating, still bossy with the other hens, but she's clearly favoring her left foot. You pick her up, flip her over, and there it is: a hard, dark scab on the ball of her foot, surrounded by swollen, angry-looking tissue. That's bumblefoot. And if you caught it at this stage, you're actually lucky, because a lot of people don't notice until the swelling has worked its way up into the leg and things get much more serious.

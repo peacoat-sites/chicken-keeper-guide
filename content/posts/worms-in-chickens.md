@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "worms-in-chickens"
 affiliate_disclosure: false
+faqs:
+  - q: "How do I know if my chicken has worms without a vet?"
+    a: "You can watch for the classic signs: gradual weight loss while eating normally, pale comb, dropping egg production without an obvious cause, loose droppings, or a bird that gapes and stretches its neck repeatedly. If you find worm segments or spaghetti-like white strands in the droppings, that's a pretty definitive answer. But the most reliable way without a vet is a mail-in fecal float service, which many online livestock health companies now offer. It's cheap, relatively fast, and gives you an actual answer rather than a guess."
+  - q: "Can humans get worms from chickens?"
+    a: "The worms that infect chickens are generally not the same species that infect humans, and direct transmission is rare. That said, you should always wash your hands after handling birds or cleaning the coop, and don't walk barefoot in a chicken run. Salmonella and Campylobacter are a much more realistic concern than worm transmission, and good hygiene covers you for all of it."
+  - q: "How often should I worm my chickens?"
+    a: "There's no universal right answer, and I'd push back on anyone who gives you a hard schedule without knowing your setup. Flocks on fixed bare-dirt runs in humid climates may need treatment twice a year. Flocks on well-managed rotational pasture may not need treatment at all in a given year. The honest answer is to monitor with fecal floats and treat when indicated rather than on a calendar."
+  - q: "Are there natural or herbal wormers that actually work?"
+    a: "Some herbs like pumpkin seeds, black seed oil, and wormwood get mentioned frequently in chicken-keeping communities. The evidence for their effectiveness as standalone treatments in established infections is not convincing. Pumpkin seeds contain cucurbitacin, which has shown some anti-parasitic properties in studies, but not at levels that constitute reliable treatment. I wouldn't use them as a primary strategy if I knew my birds had a real infection. As a supportive addition to a clean management program? Probably harmless."
+  - q: "What's the egg withdrawal period for fenbendazole?"
+    a: "There's no officially established FDA withdrawal period because fenbendazole isn't approved for laying hens in the US. The commonly observed informal standard among backyard keepers and many avian vets is 14 days after the last treatment dose. Some err on the side of 17 to 21 days to be safe. If you're selling eggs or giving them to people who don't know about the treatment, 14 to 17 days minimum. When in doubt, talk to the vet who prescribed the medication."
 ---
 
 You find one of your best layers standing off by herself, tail drooping, looking thin despite the fact that she's eating like normal. No respiratory symptoms. No mites you can see. You worm her on a hunch, and two weeks later she's back to laying and acting like herself. That scenario has played out in my flock more times than I'd like to admit, and every time it reminds me of the same uncomfortable truth: internal parasites are probably the most underdiagnosed health problem in backyard chickens, and most keepers don't catch it until the bird is already in rough shape.

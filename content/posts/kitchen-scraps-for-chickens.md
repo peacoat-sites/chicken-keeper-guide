@@ -10,6 +10,17 @@ author: "Editorial Team"
 author_bio: "Content team."
 slug: "kitchen-scraps-for-chickens"
 affiliate_disclosure: false
+faqs:
+  - q: "Can I feed chickens cooked meat and fish?"
+    a: "Yes. Chickens are omnivores and naturally eat protein from animal sources. Cooked chicken, cooked fish, and cooked seafood scraps are all safe and beneficial, especially during molt when protein demands are high. Avoid heavily salted or seasoned preparations. Raw meat carries more bacterial risk and is best avoided."
+  - q: "Is bread safe for chickens?"
+    a: "Plain bread in small amounts is safe but has almost no nutritional value. Think of it like junk food. A few small pieces occasionally won't hurt, but bread shouldn't be a regular scrap because it fills birds up without providing real nutrients and can lead to a condition called sour crop if fed in excess."
+  - q: "How often should I give my chickens kitchen scraps?"
+    a: "Daily is fine as long as you're keeping to the 10 percent rule. A small bowl of mixed vegetable trimmings and grain scraps each morning for a flock of four to six birds is perfectly reasonable. The key is keeping it supplemental rather than making scraps the primary food source."
+  - q: "My chickens won't eat certain scraps. Is something wrong?"
+    a: "Probably not. Chickens have preferences and can be suspicious of unfamiliar foods, especially new textures or strongly flavored items. Some flocks ignore citrus, cooked squash, or anything wet. If they don't eat something after a few minutes, remove it and try a different day. Hunger and curiosity usually win eventually."
+  - q: "Can chicks have kitchen scraps?"
+    a: "Young chicks under 4 weeks old should stick to starter feed. After 4 to 6 weeks, you can introduce tiny amounts of soft treats like plain scrambled egg or finely chopped greens, but starter feed should remain the main diet through at least 16 weeks. Always offer chick grit alongside any solid treats since their digestive systems are still developing."
 ---
 
 Most backyard chicken keepers discover the same thing within their first few weeks: those birds will eat almost anything. A wilted head of lettuce tossed into the run disappears in under two minutes, and suddenly you're standing at your kitchen counter wondering what else from the compost bucket is fair game. The good news is that kitchen scraps can genuinely supplement your flock's diet, stretch your feed budget, and give your hens something to stay active and engaged. The catch is that a few common kitchen items can make chickens seriously ill, and some can even kill them. Knowing the difference isn't complicated, but it does matter.

@@ -10,6 +10,17 @@ author: "Editorial Team"
 author_bio: "Content team."
 slug: "how-often-do-chickens-lay-eggs"
 affiliate_disclosure: false
+faqs:
+  - q: "How many eggs does a chicken lay per week?"
+    a: "A productive layer in her first year will lay 5 to 6 eggs per week during peak months. That averages out to roughly one egg every 24 to 26 hours. In winter or during molt, that same hen might lay just 1 to 2 per week or stop entirely for a stretch."
+  - q: "At what age do chickens stop laying eggs?"
+    a: "Hens never completely stop, but production declines steeply after year three. Many backyard keepers see their best production in years one and two. A seven-year-old hen might still lay occasionally but would be considered 'retired' in any practical sense."
+  - q: "Do chickens need a rooster to lay eggs?"
+    a: "No. Hens lay unfertilized eggs completely independently of any rooster. A rooster is only needed if you want fertile eggs for hatching. Many backyard flocks are hens-only and produce consistently without a single rooster present."
+  - q: "Why are my chickens laying soft-shelled eggs?"
+    a: "Soft or thin shells almost always point to a calcium deficiency. Offer free-choice oyster shell immediately. If the problem persists despite adequate calcium, it can sometimes indicate a vitamin D deficiency, a disease like infectious bronchitis, or an aging hen whose reproductive system is declining."
+  - q: "Can a chicken lay two eggs in one day?"
+    a: "Technically possible but very rare. Because the laying cycle takes 24 to 26 hours, a hen almost never produces two fully formed eggs in a single day. When it does happen, one of the eggs usually has a thin shell or abnormality. Don't count on it as a regular event."
 ---
 
 A brand-new hen from a production breed can lay up to 300 eggs in her first year. That's nearly an egg a day, almost every single day, for twelve months straight. If you've just brought home your first flock and you're expecting that kind of output from every bird, every year, you're in for a surprise. Egg production is way more variable than most beginners expect, and understanding what drives it will save you a lot of frustration standing at an empty nesting box.

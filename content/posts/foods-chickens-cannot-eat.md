@@ -10,6 +10,17 @@ author: "Editorial Team"
 author_bio: "Content team."
 slug: "foods-chickens-cannot-eat"
 affiliate_disclosure: false
+faqs:
+  - q: "Can chickens eat bread?"
+    a: "Yes, in small amounts, plain bread is generally safe. The issue is that bread has almost no nutritional value and can expand in the crop if wet. Feeding a lot of bread regularly pushes out nutritious food and can contribute to obesity and reduced laying. Keep it to a bite-sized occasional treat, not a regular scrap dump."
+  - q: "Are cooked potatoes safe for chickens?"
+    a: "Yes. Fully cooked white or sweet potatoes (plain, no seasonings) are safe and actually provide good energy. The danger is with the green parts of the potato plant, the skin of green potatoes, and all potato leaves, which contain solanine. Never feed raw or green potatoes."
+  - q: "My chicken ate something it shouldn't have. What do I do?"
+    a: "Stay calm and assess the situation. If the bird ate something mildly questionable, monitor closely for the next 24 to 48 hours. Watch for lethargy, labored breathing, neurological signs, or dramatic changes in droppings. If the bird ingested something genuinely toxic like avocado or raw beans, contact a poultry vet as soon as possible. Don't try to induce vomiting. Chickens don't have a vomiting reflex the way mammals do."
+  - q: "Can chickens eat dairy products?"
+    a: "Chickens are lactose intolerant, so large quantities of milk or soft cheese will cause diarrhea. Small amounts of hard cheese or plain yogurt are usually tolerated and can provide a calcium boost. But dairy should be limited and occasional, not a daily offering."
+  - q: "Is it safe to let chickens eat grass and weeds while free ranging?"
+    a: "Mostly yes. Grass, clover, dandelion greens, and most common lawn weeds are excellent forage. The caution is with ornamental and wild plants. Hemlock (both water hemlock and poison hemlock), bracken fern, and nightshade-family weeds are all genuinely dangerous. Learn what grows in your yard and fence off anything questionable. Free ranging is healthy for chickens, and if you're building out your setup, checking chicken run size requirements will help you give your flock room to move safely."
 ---
 
 Imagine you're cleaning out the kitchen, you spot a bowl of leftover guacamole, and you think, "Hey, the chickens will love this." It seems harmless enough. But that guacamole contains avocado, and avocado contains a fungicidal toxin called persin that can cause respiratory distress, weakness, and heart failure in chickens, sometimes within 24 to 48 hours. Every year, well-meaning flock keepers accidentally harm their birds with "healthy" scraps from the kitchen. Knowing exactly what to keep out of the feed dish isn't just good practice. It can save lives.

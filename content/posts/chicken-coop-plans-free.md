@@ -10,6 +10,17 @@ author: "Karen Fields"
 author_bio: "Backyard chicken keeper of 12 years. Has raised 14 breeds and mentored dozens of first-time flock owners."
 slug: "chicken-coop-plans-free"
 affiliate_disclosure: false
+faqs:
+  - q: "How big does a chicken coop need to be for 6 chickens?"
+    a: "For six standard-size hens, you need at minimum 24 square feet of indoor floor space, which is roughly a 4x6 foot interior. Don't forget the outdoor run: aim for at least 60 square feet, though more is always better. Many free plans labeled 'for 6 chickens' come in smaller than this, so always do the math yourself before you build."
+  - q: "Can I build a chicken coop for under $200?"
+    a: "Yes, but it requires resourcefulness. Craigslist and Facebook Marketplace are your best friends for salvaged lumber, old windows, and used hardware. I built my third coop for about $180 using a mix of free pallets (carefully disassembled and checked for chemical treatment markings), a scored roll of hardware cloth, and standard 2x4s for framing. It's still standing eight years later. Set a budget, price your materials list before buying anything, and prioritize spending on hardware cloth and a solid latch system over aesthetics."
+  - q: "Are pallet coops safe for chickens?"
+    a: "Pallets can work, but you need to be careful. Never use pallets stamped with 'MB,' which indicates they were treated with methyl bromide, a fumigant that's toxic. Look for pallets stamped 'HT' (heat treated) only. Even then, pallet wood is often rough and full of gaps that can harbor mites and parasites. If you use them, seal all interior surfaces with a non-toxic paint or stain and check them regularly."
+  - q: "Do I need a permit to build a chicken coop?"
+    a: "It depends on your municipality. Many cities and counties have zoning rules that cover both whether you can keep chickens at all and what structures you can build. Structures over a certain square footage (often 120 sq ft) typically require a building permit. Check with your local zoning or code enforcement office before you build, not after. HOAs may have their own additional restrictions."
+  - q: "What is the best free chicken coop plan for beginners?"
+    a: "For absolute beginners, I'd start with a plan from your state's cooperative extension service if one is available, or the free plans from My Pet Chicken. These tend to be clearly written, appropriately sized, and designed with real backyard flock management in mind. Look for a simple A-frame or gable-roof box design rather than anything with multiple stories, catwalks, or complex framing. Simple builds are easier to predator-proof, easier to clean, and easier to expand or modify later."
 ---
 
 You've got six chickens showing up in a box next day, no coop built, and you're standing in your backyard Googling "chicken coop plans free" on your phone while your kids are already naming the birds. I've been there. Not exactly that scenario, but close enough. Twelve years ago I cobbled together my first coop from a free plan I found online, a pile of salvaged wood, and about four times more frustration than I expected. What I wish someone had told me then is what I'm going to tell you now: free plans are genuinely useful, but only if you know how to pick the right one and what to watch out for before you ever swing a hammer.

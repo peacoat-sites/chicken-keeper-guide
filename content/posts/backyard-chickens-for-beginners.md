@@ -10,6 +10,17 @@ author: "Mike Olson"
 author_bio: "4-H poultry program leader specializing in flock health, breed selection, and egg production optimization."
 slug: "backyard-chickens-for-beginners"
 affiliate_disclosure: false
+faqs:
+  - q: "How many chickens should a beginner start with?"
+    a: "Four to six hens is the sweet spot. It's a manageable size that gives you a real flock dynamic, enough eggs to be useful, and not so many birds that the learning curve feels overwhelming. Chickens are social animals and shouldn't be kept alone, so a minimum of three birds is the practical floor."
+  - q: "When do chickens start laying eggs?"
+    a: "Most laying breeds start producing between 18 and 24 weeks of age. Breeds like Leghorns often start at 16 to 18 weeks. Larger, heavier breeds like Jersey Giants or Brahmas can take 24 to 28 weeks. Day length plays a huge role. Pullets that reach laying age in the fall may delay their first eggs until spring when days lengthen again."
+  - q: "Do I need a rooster for hens to lay eggs?"
+    a: "No. Hens lay eggs regardless of whether a rooster is present. You only need a rooster if you want fertilized eggs to hatch. Most suburban ordinances prohibit roosters anyway because of the noise, and a rooster isn't a quiet bird. He crows at dawn, yes, but also at 2am, noon, and whenever the mood strikes."
+  - q: "How long do backyard chickens live?"
+    a: "A healthy hen can live 8 to 10 years, but peak egg production drops off significantly after years 2 and 3. By year 4 most hens are laying at 30 to 50 percent of their peak capacity. What you do with older hens is a personal decision every keeper eventually faces, and there's no single right answer."
+  - q: "What's the biggest mistake beginners make?"
+    a: "Skimping on coop size and predator protection. Every experienced chicken keeper has a story about the night a predator got in. Hardware cloth, a sturdy latch with a carabiner or padlock, and a covered run are worth every penny. The other big one is buying too many breeds at once from too many sources before you understand flock dynamics. Start simple, learn the basics, then expand."
 ---
 
 Your neighbor shows up at your fence one Saturday morning holding a cardboard box with holes punched in the lid. Inside: six fluffy Buff Orpington chicks, peeping like crazy. She got them on impulse at the feed store, her landlord said absolutely not, and now she's looking at you with that face. That's how a lot of people get into chickens. Maybe that's you right now, staring at a box of chicks with zero idea what to do next. Good news: you're not in over your head. Chickens are genuinely one of the more forgiving livestock animals a beginner can start with, but they do have real needs, and getting those basics right in the first few months sets the tone for everything.

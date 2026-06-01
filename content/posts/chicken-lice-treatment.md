@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "chicken-lice-treatment"
 affiliate_disclosure: false
+faqs:
+  - q: "Can chicken lice spread to humans or pets?"
+    a: "No. Chicken lice are host-specific parasites that evolved to live on poultry. They cannot complete their lifecycle on humans, dogs, cats, or other mammals. They might crawl onto you briefly when you're handling infested birds, but they won't establish themselves on your body or bite in any meaningful way. You don't need to treat yourself, your clothing beyond basic laundering, or your pets."
+  - q: "How do I know when the infestation is fully cleared?"
+    a: "You're looking for two things: no live lice visible when you part the feathers around the vent and under the wings, and no new egg clusters at the feather base. Old empty egg cases (which are slightly darker and dull) may remain attached to feathers for several weeks even after successful treatment, and that's normal. Your hens will molt them out over time."
+  - q: "Will my hens' egg production go back to normal after treatment?"
+    a: "Yes, in most cases. Heavy lice infestations cause real stress, and stress suppresses laying. Once the infestation is cleared and your hens are comfortable, egg production typically rebounds within three to four weeks. If a hen was significantly underweight or had severe feather loss, recovery may take longer, especially if she goes into a partial molt during the process."
+  - q: "My hen has bare patches around her vent from scratching. What should I do?"
+    a: "Bare patches and raw skin around the vent are common with heavy body louse infestations. Treat the lice as described above, and the skin usually heals on its own once the irritation source is removed. If the skin looks broken, infected, or if other hens are pecking at the area, separate the affected bird until she heals. A product like Vetericyn Plus Poultry Care Spray can help protect irritated skin during recovery (our site may earn a commission on purchases through Amazon)."
+  - q: "Do I need to treat my chickens differently in winter versus summer?"
+    a: "The treatment protocol is the same year-round, but application in cold weather requires some practical adjustments. Dust treatments work in any temperature. Liquid spray products need to dry completely before birds go to roost, so apply them earlier in the day in winter. Avoid soaking birds in cold weather. Keep treated birds out of drafts until they're fully dry. Lice infestations can actually be worse in winter when birds spend more time in close contact inside the coop, so don't assume cold weather protects your flock."
 ---
 
 If you picked up one of your hens this week and noticed tiny, fast-moving specks scrambling through the feathers near her vent, you're probably feeling a mix of panic and disgust right now. Take a breath. Lice on chickens are incredibly common, they don't infest humans, and with the right treatment you can clear them up within two to three weeks. What trips most people up isn't finding the lice, it's not understanding the lifecycle, skipping the second treatment, or using a product that simply doesn't work on the species they have. Let's fix all of that.

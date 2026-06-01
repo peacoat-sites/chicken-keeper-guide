@@ -10,6 +10,17 @@ author: "Lisa Vance"
 author_bio: "Certified poultry advisor and urban farming educator helping city dwellers set up thriving backyard flocks."
 slug: "how-many-chickens-should-i-get"
 affiliate_disclosure: false
+faqs:
+  - q: "Can I start with just 2 chickens?"
+    a: "You can, but it's not ideal. Two birds can keep each other company, but if one dies, the surviving bird is suddenly alone, which causes real stress. Two is also a fragile setup for egg production. If one goes broody or gets sick, you're down to one hen. Three is a more stable minimum, and four is even better."
+  - q: "Do roosters count toward my flock number?"
+    a: "Yes, in terms of space and resources, a rooster counts as a bird. But roosters don't lay eggs, so they don't contribute to your production math. Most suburban and urban ordinances also prohibit them. If you're in a rural area and want a rooster for flock protection and natural breeding, figure him into your space calculations and be aware that the recommended ratio is one rooster to every eight to twelve hens to avoid over-mating stress on your girls."
+  - q: "How many chickens fit in a 4x8 coop?"
+    a: "A 4x8 coop is 32 square feet. At 4 square feet per bird, that's 8 birds on paper. In practice, if those birds have a covered run and can't free range much, I'd cap it at 6 to keep conditions comfortable and reduce disease risk. If they're out free ranging most of the day, 8 is workable."
+  - q: "What if I want meat birds too?"
+    a: "Meat birds like Cornish Cross are usually kept separately from laying hens. They grow fast and are typically processed at 8 to 10 weeks, so they're a timed project rather than a permanent addition to your flock. Count their space and feed needs separately from your layers. Starting with 10 to 25 meat birds is a manageable first batch for a backyard operation."
+  - q: "Is it better to start small and add more, or start with the right number from the beginning?"
+    a: "Honestly, starting with your target number from the beginning is easier. Integrating new birds into an established flock takes real effort: you need a quarantine period of at least 30 days for new birds, and the pecking order reshuffling can be stressful for everyone. If you start with four and try to add two more a year later, expect a few weeks of chaos. It's doable, but not as smooth as getting your flock established all at once."
 ---
 
 Most people start with three chickens. Then they go to pick them up, see all those fluffy little faces, and come home with six. I've watched it happen more times than I can count, and honestly, I've done it myself. What starts as a sensible, practical decision turns into what the chicken community affectionately calls "chicken math," and before you know it you're pricing out a second coop in the parking lot of Tractor Supply. So before you get swept up in the cuteness, let's talk numbers in a real, grounded way so you can make a decision you won't regret, whether you're starting from scratch or expanding an existing flock.

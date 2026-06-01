@@ -10,6 +10,17 @@ author: "Editorial Team"
 author_bio: "Content team."
 slug: "grit-for-chickens"
 affiliate_disclosure: false
+faqs:
+  - q: "Do chickens need grit if they free-range?"
+    a: "Free-ranging chickens often pick up natural grit from the ground, but it depends entirely on your soil type and what your land contains. Clay-heavy or sandy soils may not offer the hard, angular particles a gizzard needs. Offering supplemental granite grit free-choice to free-range flocks is still a good idea, especially during wet seasons when natural grit sources get buried or washed away."
+  - q: "Can I use sand instead of grit?"
+    a: "Construction sand or coarse builder's sand is not an adequate substitute for granite grit. Sand particles are too smooth and too fine to provide real grinding action in the gizzard. Some people use coarse horticultural sand as a dust bath substrate or run surface, and that's fine, but it won't replace purpose-made poultry grit for digestive function."
+  - q: "Is oyster shell the same as grit?"
+    a: "No. Oyster shell is soluble and dissolves quickly in digestive acid, making it a calcium supplement rather than a grinding medium. It's essential for laying hens but doesn't function as insoluble grit. You need both products, offered separately, for a fully covered nutritional program."
+  - q: "How often should I replace the grit in the feeder?"
+    a: "Top off the container whenever it runs low, and completely replace and clean the container roughly once a month. Grit can collect droppings, moisture, and feed debris that can harbor bacteria or mold. A quick rinse and dry of the container during your monthly clean is enough to keep things hygienic."
+  - q: "Can chickens eat too much grit?"
+    a: "In rare cases, yes. This usually happens when birds are bored, stressed, or when grit is mixed directly into their feed rather than offered free-choice. Too much grit can cause a physical blockage in the gizzard called a grit impaction. Free-choice feeding in a separate container minimizes this risk dramatically, because birds self-regulate and stop eating grit once their gizzard is adequately supplied."
 ---
 
 Imagine cracking open an egg from your backyard flock, only to notice that your hens have been laying thin-shelled, brittle eggs for the past two weeks. You've checked their feed, confirmed they're getting enough calcium, and still can't figure out what's wrong. There's a good chance the answer is sitting right under your nose: your chickens don't have access to proper grit, and their digestive systems are struggling to break down the nutrients they need. It sounds almost too simple, but grit is one of the most overlooked essentials in backyard chicken care, and skipping it can quietly wreck your flock's health.

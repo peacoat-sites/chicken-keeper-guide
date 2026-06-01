@@ -10,6 +10,17 @@ author: "Editorial Team"
 author_bio: "Content team."
 slug: "nesting-boxes-for-chickens"
 affiliate_disclosure: false
+faqs:
+  - q: "How many nesting boxes do I need for 6 hens?"
+    a: "Two boxes is the bare minimum for six hens, but three is a much better choice. It gives each hen options, reduces competition, and means you're not scrambling if one box gets fouled or a broody hen camps out in another."
+  - q: "Can chickens share nesting boxes?"
+    a: "Yes, and they often choose to. It's common to see two hens squeezed into the same box while the others sit empty. As long as hens aren't stressed, fighting, or breaking eggs in the process, shared use is perfectly normal behavior."
+  - q: "What should I put inside a nesting box?"
+    a: "Loose bedding like pine shavings or straw works well. Pre-cut nesting pads are a convenient alternative. Aim for 2 to 3 inches of material so eggs land softly. A fake egg placed in each box helps train new layers where to go."
+  - q: "Should nesting boxes be inside or outside the coop?"
+    a: "The boxes themselves should be inside the coop where hens feel safe and protected. The egg collection door, however, should open from outside the coop. This lets you gather eggs quickly without going through the main door, which is cleaner and more convenient."
+  - q: "At what age do hens start using nesting boxes?"
+    a: "Most hens begin laying between 18 and 24 weeks of age depending on breed. You can introduce fake eggs or golf balls to the boxes a couple of weeks before that window so pullets start associating the boxes with laying before their first egg arrives."
 ---
 
 A hen that refuses to use her nesting box isn't being difficult. She's telling you something is wrong. Whether it's the wrong size, too much light, not enough privacy, or simply the wrong location, chickens are remarkably specific about where they'll lay. Get the nesting boxes right, and you'll collect clean eggs from predictable spots every single day. Get them wrong, and you'll spend your mornings hunting eggs in corners, under feeders, and in places you'd rather not think about.

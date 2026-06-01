@@ -10,6 +10,17 @@ author: "Mike Olson"
 author_bio: "4-H poultry program leader specializing in flock health, breed selection, and egg production optimization."
 slug: "what-to-feed-chickens"
 affiliate_disclosure: false
+faqs:
+  - q: "Can chickens eat grass and bugs from free ranging, and does it replace their feed?"
+    a: "Free ranging is fantastic supplemental nutrition. Grass, insects, worms, and seeds all contribute protein, vitamins, and trace minerals that make for tastier eggs and healthier birds. But it doesn't replace commercial feed. Even heavy foragers on several acres can only meet about 20 to 30 percent of their nutritional needs through ranging. Keep the feeder full, always."
+  - q: "What should I feed chickens in winter when they're not laying?"
+    a: "Keep them on layer feed even through the off-season unless they're in a hard molt, in which case switch to a higher-protein grower. Add a small amount of cracked corn in the evening for warmth. Don't stop feeding oyster shell just because they're not laying. They'll need those calcium reserves when they start back up."
+  - q: "My chickens won't eat their pellets. Is something wrong?"
+    a: "Often it's a palatability issue, especially if you switch brands. Try moistening the pellets slightly with water. Check that the feed isn't old, stale feed loses appeal fast and can harbor mold. If they've been getting a lot of scratch or treats, they may have learned to hold out for the good stuff. Cut treats back for a week and they'll usually return to their pellets."
+  - q: "Is it safe to feed kitchen scraps every day?"
+    a: "Yes, with the 10 percent rule in mind. Daily small amounts of safe vegetable trimmings, cooked grains, and fruit are fine and good enrichment. The problem is when scraps become the primary food source or when people feed large quantities of bread, pasta, or high-sugar fruit daily. That leads to nutritional imbalance and, often, fatty liver syndrome in hens."
+  - q: "Do roosters need different feed than hens?"
+    a: "Ideally, yes. Layer feed's calcium levels are higher than roosters need long-term. If you can manage separate feeding, put the rooster on an all-flock feed (18 percent protein) and make oyster shell available free-choice for the hens. In practice, many backyard keepers feed everyone together with no obvious issues, especially with just one or two roosters in a larger flock. It's not ideal, but it's not a crisis either."
 ---
 
 Most new chicken keepers walk into the feed store, grab whatever bag has a chicken on the label, and call it done. I did the same thing my first year. Then I watched my Rhode Island Reds go through a rough molt, my egg production crater in November, and my rooster develop a limp I later traced back to a calcium-phosphorus imbalance. Twelve years and 200-plus birds later, I can tell you that what you put in that feeder matters far more than most people realize. Chickens aren't complicated, but they're not as forgiving as the "just toss them scratch" advice would have you believe.

@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "why-did-my-chicken-stop-laying"
 affiliate_disclosure: false
+faqs:
+  - q: "My hen was laying every day and then just stopped overnight. What happened?"
+    a: "Sudden stops, as opposed to gradual declines, are usually caused by stress, illness, or a significant environmental change. Think back over the last 48 to 72 hours. Did anything happen? A predator visit, even one that didn't result in injury, can stop laying almost immediately. A hen who is sick will often stop laying before she shows other obvious symptoms, so watch her closely over the next few days for any other signs of illness."
+  - q: "How long does it take for a chicken to start laying again after a molt?"
+    a: "Expect the full molt plus recovery process to take 8 to 16 weeks from start to finish. Once you see her fully feathered out again, it still usually takes another 2 to 4 weeks before the first egg appears. Keep her protein up and don't rush her. Molting takes a serious physical toll."
+  - q: "My chicken is only 18 months old. Can she already be declining in production?"
+    a: "Not likely, but possible. Some high-production commercial hybrids like ISA Browns and Golden Comets are bred to lay intensively and can start declining earlier than heritage breeds. If she's an ISA Brown and you got her from a commercial source, she may have been older than you thought when you got her. More likely though, at 18 months you're dealing with light, stress, or molt, not age-related decline."
+  - q: "Could my hen be laying and I'm just not finding the eggs?"
+    a: "Absolutely yes. If your birds have any free-range time at all, a hidden nest is a real possibility. Hens prefer dark, secluded spots with some overhead cover. Check under shrubs, inside any structures on your property, behind equipment, under decks. One of my hens once laid in an empty flowerpot behind the garage for three weeks before I caught her."
+  - q: "Do I need to see a vet, or can I handle this at home?"
+    a: "Most causes of stopped laying, including light reduction, molt, stress, and minor illness, are manageable at home with observation and time. You need a vet if: she has a visibly swollen abdomen, she's showing respiratory symptoms, she's been off food and water for more than 48 hours, she's in obvious distress, or you suspect egg binding and a warm soak isn't resolving it. A good avian or large-animal vet is worth knowing before you need one urgently."
 ---
 
 You walk out to the coop one morning, lift the nesting box lid, and find nothing. Not one egg. Yesterday there were four. The day before, five. You check again in the afternoon, just in case. Still nothing. If this sounds familiar, you're not alone, and you're also not doing anything wrong. Hens stop laying for more reasons than most beginners expect, and the frustrating part is that several of those reasons can be happening at the same time. Let me walk you through what's actually going on.

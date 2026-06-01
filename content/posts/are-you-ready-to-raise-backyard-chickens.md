@@ -1,4 +1,5 @@
 ---
+quiz_page: true
 title: "Are You Ready to Raise Backyard Chickens? (7-Question Quiz)"
 description: "Take this fun 7-question quiz to find out if you're ready to start a backyard flock. Get a personalized readiness score plus next steps for new chicken keepers."
 slug: "are-you-ready-to-raise-backyard-chickens"

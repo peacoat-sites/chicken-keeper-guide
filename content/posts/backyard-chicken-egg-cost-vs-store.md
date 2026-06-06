@@ -144,3 +144,13 @@ Most breeds slow down or stop laying when daylight drops below 14 hours, typical
 The honest version is this: backyard chickens are a hobby that produces food, not a food production system that happens to be enjoyable. Once you accept that framing, the math stops being depressing and starts being beside the point. You're paying a premium for better eggs, a more connected relationship with your food, and, if you're anything like me, the small daily pleasure of watching six hens argue over a tomato hornworm. Some things don't need to pencil out.
 
 *Photo: [Misty Elchert](https://www.pexels.com/@misty-elchert-18139095) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+

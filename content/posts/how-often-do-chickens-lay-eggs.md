@@ -142,10 +142,3 @@ Technically possible but very rare. Because the laying cycle takes 24 to 26 hour
 Understanding the rhythm of your hens makes the whole experience more enjoyable and a lot less stressful. Once you stop expecting constant output and start reading the signals, like shorter days, feather loss, or a change in behavior, you'll work with your flock instead of against it. Most laying slowdowns have a real cause and a real solution. A little attention goes a long way.
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22),  Certified pet first aid kit with step-by-step instructions,  an essential item for every pet owner.
-

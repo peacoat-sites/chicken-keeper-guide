@@ -1,0 +1,109 @@
+---
+title: "Chick Starter Feed"
+date: 2026-06-07T08:30:03.628543+00:00
+draft: false
+description: "Discover everything you need to know about chick starter feed, including nutrition, ingredients, and feeding tips to help your baby chicks grow healthy and stro"
+image: "https://images.pexels.com/photos/13654839/pexels-photo-13654839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+categories: ["chicks"]
+tags: ["chick", "starter", "feed"]
+author: "Dana Hargrove"
+author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+slug: "chick-starter-feed"
+affiliate_disclosure: false
+---
+
+I've watched people spend $200 on a fancy brooder setup and then grab whatever chick starter bag was closest to the checkout at Tractor Supply. And honestly? The feed decision matters more than almost anything else you'll spend money on those first eight weeks.
+
+Let me back up.
+
+Chick starter feed is the single most important nutritional choice you'll make for your birds. Not because the marketing says so, but because those first weeks of a chicken's life set the foundation for everything: bone density, immune competence, gut health, and how well they'll eventually lay. Get it wrong and you're dealing with leg problems, slow feathering, weak pullets, or worse. Get it right and you barely have to think about it.
+
+Here's what I've noticed after a decade of doing this: most people treat chick starter like it's interchangeable. Pour some crumbles in a feeder, done. But there are real differences between products, and a few decisions you need to make before you buy the first bag.
+
+## Medicated vs. Non-Medicated: The Decision That Actually Matters
+
+This is where most new chicken keepers get tripped up, or get bad advice.
+
+Medicated starter contains amprolium, which is a thiamine (Vitamin B1) blocker that inhibits the protozoan parasite *Eimeria*, the organism responsible for coccidiosis. It doesn't kill coccidia outright. It slows their reproduction so chicks can build up natural immunity while the parasite load stays manageable. That's an important distinction. Amprolium is not an antibiotic.
+
+Whether you need medicated feed comes down to one question: have your chicks been vaccinated for Marek's disease AND coccidiosis?
+
+If you ordered chicks from a hatchery like Meyer Hatchery or Hoover's Hatchery and paid extra for the coccidiosis vaccine, do not use medicated starter. The amprolium will interfere with the vaccine's ability to do its job. The whole point of that vaccine is to allow a controlled exposure to live coccidia so the chick's immune system learns to fight it. Amprolium suppresses that process.
+
+If your chicks weren't vaccinated for coccidiosis (which is most hatchery chicks, since the vaccine is usually an add-on), medicated feed is a reasonable insurance policy, especially if you're raising chicks in a brooder that sits on the ground or will eventually be on soil that's housed birds before. Coccidia live in soil and are incredibly persistent. I use medicated starter with every batch of unvaccinated chicks I raise. I've lost chicks to coccidiosis when I didn't. It's a miserable death and a preventable one.
+
+One more thing nobody tells you: if you're raising meat birds (Cornish Cross, Freedom Rangers), coccidiosis can be catastrophic because they grow so fast their immune systems can't keep pace. Medicated starter is not optional there.
+
+## Protein Percentages and What the Bag Doesn't Explain Well
+
+Most commercial chick starters run between 18% and 24% crude protein. You'll see Purina Flock Raiser at 20%, Purina Start & Grow at 18%, DuMOR Chick Starter/Grower at 20%, and some specialty products like Scratch and Peck Feeds Naturally Free Starter running around 20% as well. These differences feel small on paper but play out differently on real birds.
+
+For standard laying breeds (your Rhode Island Reds, Barred Rocks, Easter Eggers, Australorps), 18-20% protein is perfectly adequate. For heavy meat breeds or dual-purpose breeds that tend to feather slowly, bumping to 20-22% helps. My experience with Buckeyes and Delawares specifically is that they feather faster and fill out better on 20% than 18%.
+
+What people really get wrong is worrying about protein maximums. The concern you'll see online about "too much protein causing kidney damage in chicks" is largely overblown for the products available to backyard keepers. You're not going to accidentally hurt your chicks with a 22% starter. The much more common mistake is underfeeding protein by switching to a grower or layer feed too early.
+
+Don't switch your chicks off starter before 8 weeks. Some people stretch it to 16-18 weeks, which is totally fine. Layer feed in particular, with its high calcium content (around 4%), can cause kidney damage in young birds whose kidneys aren't equipped to process that load. I've seen this cause real problems in pullets switched to layer at 10-12 weeks.
+
+## Crumbles vs. Mash vs. Pellets
+
+Crumbles win. Full stop.
+
+Mash is messy, gets wet, and ferments or molds in the feeder faster than you'd expect, especially in humid climates. Chicks also waste a lot of it by scratching it out. Pellets are too large for most chicks under 4-5 weeks old. Crumbles are sized right, stay relatively clean in a good feeder, and chicks eat them efficiently.
+
+A decent small feeder makes a noticeable difference in waste. I like the [Little Giant Gallon Chick Waterer and Feeder Set](https://www.amazon.com/s?k=little+giant+chick+feeder) for the first couple weeks. Nothing fancy, just appropriately sized. Once birds get bigger and more aggressive at the feeder, something with a trough and adjustable ports controls waste better.
+
+One thing worth knowing: if you want to try fermenting your chick feed (which genuinely does improve gut health and reduce feed consumption by around 20% in my experience), you can ferment crumbles or mash. You can't ferment pellets well. Fermented feed isn't necessary, but if you're the type who enjoys the process and wants to give your chicks a gut health boost, it's a legitimate option.
+
+## Organic, Soy-Free, and Non-GMO: What's Worth Paying For
+
+Here's where I'll probably get some pushback.
+
+The premium feed market has exploded in the last five years. Scratch and Peck, Modesto Milling, Payback Organic, Tucker Milling's organic line. These run anywhere from $35 to $55 for a 35-40 lb bag compared to $16-22 for conventional Purina or DuMOR. That's a real difference if you're feeding 20+ chicks.
+
+Organic certification means the grain inputs (corn, soy, wheat) were grown without synthetic pesticides or fertilizers and the product wasn't formulated with synthetic amino acid supplements. Whether that matters to you is a values question, not a science question. The research genuinely doesn't show meaningful differences in bird health outcomes between organic and conventional feed at the backyard scale.
+
+Soy-free is a different conversation. Some people have genuine concerns about phytoestrogens in soy affecting laying hens, and there's some plausible biology there, though the evidence in poultry is still thin. What soy-free feed producers like Scratch and Peck do is substitute peas and other legumes for soybean meal as the protein source. The birds eat it fine.
+
+What I'd actually pay extra for: feed with added probiotics (Lactobacillus acidophilus strains specifically) or a well-formulated vitamin-mineral premix. The Purina Start & Grow with probiotics product isn't dramatically more expensive than their base version and I've noticed better early-week survival rates in chicks fed it, though I can't rule out other variables.
+
+What I wouldn't spend extra on: "pasture-raised" or "free-range" labeling on starter feed. Chicks are in a brooder. These labels don't mean anything for them.
+
+## Grit, Supplements, and What to Actually Keep on Hand
+
+Plain chick starter (from a reputable brand) is nutritionally complete. You don't need to add anything if that's all they're eating.
+
+If you're giving treats, which you probably will because it's irresistible, add chick grit. Not oyster shell, not adult grit. Chick grit. It's finely ground granite sized for small crops. I like [Manna Pro Chick Grit](https://www.amazon.com/s?k=manna+pro+chick+grit) sprinkled in a small dish a few times a week once chicks are a week or so old and getting any food other than starter. Without grit, whole grains and fibrous greens can cause pasty butt or crop issues.
+
+Electrolytes for the first 24-48 hours are worth having on hand, especially if chicks shipped and arrived stressed. Sav-A-Chick packets dissolved in water (not a permanent arrangement, just a day or two) help them recover from the stress of shipping. After that, plain clean water is what they need.
+
+I'd skip the sugar-water recommendation you'll still see floating around old chicken forum posts. It doesn't help and it feeds bad bacteria.
+
+---
+
+### FAQ
+
+#### How long do I feed chick starter?
+
+Feed starter from hatch until around 8 weeks, at minimum. Many people run starter all the way to 16-18 weeks without any issue, which is fine. The main thing to avoid is switching to layer feed before birds are sexually mature and actively laying, because the high calcium will stress developing kidneys.
+
+#### Can I mix chick starter with other feeds to stretch the bag?
+
+You can, but I'd avoid it for the first 6 weeks. Starter is formulated to specific protein and micronutrient targets, and diluting it, especially with scratch grains or cracked corn, just means your chicks are getting less of what they need. After 8 weeks, if you're transitioning to grower, mixing is fine as a gradual shift.
+
+#### Does chick starter go bad?
+
+Yes, faster than most people expect. Fats in poultry feed oxidize, vitamins degrade, and mold can develop if moisture gets in. Buy what you'll use in 6-8 weeks and store it in a metal trash can with a tight lid or a food-grade plastic bin. A 25 lb bag in a well-sealed container in a cool, dry space is good for about 60 days. Don't trust bags that smell musty or off, even if the date says they're fine.
+
+#### Do chicks need water before starter feed?
+
+Give them water first, always, before you introduce feed. When chicks arrive, especially shipped chicks, their priority is rehydration. Dip each chick's beak in the waterer so they know where it is. Wait an hour or two, then introduce feed.
+
+#### Is it okay to feed chick starter to ducks and turkeys?
+
+Turkey poults actually need a higher protein starter, around 28-30%, for the first 8 weeks. Standard chick starter at 18-20% protein isn't adequate for them. Ducks can eat chick starter but need niacin supplementation (Brewer's yeast added to feed, around 2 tablespoons per cup of feed), since waterfowl have higher niacin requirements than chickens and deficiencies cause serious leg problems.
+
+---
+
+Buy the feed that makes sense for your setup, your values, and your birds. Keep it dry, know whether your chicks are vaccinated, and don't switch to layer feed too early. That's genuinely most of what there is to it.
+
+*Photo: [Xuân Thống Trần](https://www.pexels.com/@thongtran95) via Pexels*

@@ -3,8 +3,6 @@ title: "Integrating New Chickens"
 date: 2026-05-29T19:59:31.856590+00:00
 draft: false
 description: "You quarantined your new birds. Now comes the hard part: safely introducing them to your flock without triggering bloody pecking-order fights."
-
-Learn how to safely introduce new chickens to your flock with our step-by-step guide covering qu"
 image: "https://images.pexels.com/photos/58906/pexels-photo-58906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["flock"]
 tags: ["integrating", "chickens"]

@@ -23,10 +23,6 @@ faqs:
     a: "This is the question nobody wants to answer. Rehoming cockerels is genuinely difficult: shelters rarely take them, Craigslist is flooded with free roosters, and farms that claim to take 'pets' have limited capacity. Realistic options are processing them for meat (even small cockerels are edible), finding a rural contact through a local poultry swap or feed store, or advertising in Backyard Chickens forums and Facebook groups. Plan for this outcome before purchasing straight-run chicks. About half will be male."
 ---
 
-*By Claire Novak*
-
----
-
 Nobody warns you about the noise at 3 a.m.
 
 Not the hatchery website. Not the cheerful Facebook group. Not even the neighbor who sold you your first six pullets and swore their rooster "barely crows." Every rooster crows before dawn, during dawn, after dawn, at passing cars, at shadows, at nothing. If you're in a suburban neighborhood and you want to keep the peace with a four-foot property line between you and someone who wakes up early, you need to know what you're actually signing up for before a cockerel shows up in your straight-run order.

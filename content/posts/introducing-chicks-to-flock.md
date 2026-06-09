@@ -23,10 +23,6 @@ faqs:
     a: "Fully feathered and off the heat lamp, so typically 6-8 weeks depending on breed and ambient temperature. Cold-tolerant breeds like Plymouth Rocks feather faster; some of the more exotic breeds take longer. If nighttime temps are still dropping below 50°F, wait, or provide a supplemental heat source in the grow-out space."
 ---
 
-*By Claire Novak*
-
----
-
 Most people get the introduction wrong before the chicks even arrive. They read "keep them separate for a few weeks, then slowly introduce them" and think they've got it handled. What that advice skips: the *how* of that separation, what "slowly introduce" actually looks like in practice, and the very specific ways adult hens will make a young bird's life miserable if you rush it. I've watched a 12-week-old pullet get scalped in under three minutes by a hen she'd been "living next to" for a month. The fencing was the only thing separating them, which turned out to mean nothing at all once I opened the gate.
 
 Here's what actually works.

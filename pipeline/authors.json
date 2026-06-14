@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "carol-thompson",
+    "name": "Carol Thompson",
+    "title": "Homestead Writer",
+    "specialty": "Backyard Chicken Keeping & Small Flocks",
+    "bio": "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+  },
+  {
+    "slug": "dr-tom-henderson",
+    "name": "Dr. Tom Henderson",
+    "title": "Poultry Health Reviewer",
+    "specialty": "Poultry Veterinary Medicine & Disease Prevention",
+    "bio": "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+  },
+  {
+    "slug": "sarah-mills",
+    "name": "Sarah Mills",
+    "title": "Homesteader",
+    "specialty": "Permaculture, Self-Sufficiency & Small Farm Systems",
+    "bio": "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+  },
+  {
+    "slug": "mike-carter",
+    "name": "Mike Carter",
+    "title": "Coop Builder",
+    "specialty": "Chicken Coop Design & Construction",
+    "bio": "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+  },
+  {
+    "slug": "janet-wilson",
+    "name": "Janet Wilson",
+    "title": "Flock Manager",
+    "specialty": "Egg Production, Breeds & Flock Management",
+    "bio": "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+  }
+]

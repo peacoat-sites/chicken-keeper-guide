@@ -6,8 +6,6 @@ description: "Spot sick chicken symptoms early to protect your flock. Learn the 
 image: "https://images.pexels.com/photos/15645658/pexels-photo-15645658.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["sick", "chicken", "symptoms"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "sick-chicken-symptoms"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Normal droppings are brown and firm with a white urate cap. Cecal droppings are dark, smelly, and almost liquid, normal once or twice a day. Yellow-green, watery, or bloody droppings are not normal. If you're unsure, search 'normal chicken poop chart' and compare visually."
   - q: "My hen is sitting in the nesting box all day. Is she sick or broody?"
     a: "Feel her. A broody hen is puffed up, warm, growly, and will peck you when you reach under her. She has a bare patch of skin on her belly (the brood patch) and she'll flatten herself over imaginary eggs. A sick hen sitting in the nesting box is quiet, doesn't react much, and feels cool or limp. Broodiness is completely normal behavior. A sick hen sitting in a box is a different situation requiring immediate attention."
+author: "Sarah Mills"
+author_slug: "sarah-mills"
+author_title: "Homesteader"
+author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+
 ---
 
 You walk out to the coop on a Tuesday morning, toss in the scratch, and one of your hens just... stands there. Doesn't run for the feed. Doesn't jockey for position like usual. She's puffed up, tail down, and when you pick her up she feels lighter than she should. Most new chicken keepers see that and think "she's probably just tired." I'll be honest: that hen might be 24 to 48 hours from dying. Chickens are prey animals. They hide illness aggressively, hardwired by evolution to avoid looking weak. By the time a chicken *looks* sick to an untrained eye, she's often been sick for days.

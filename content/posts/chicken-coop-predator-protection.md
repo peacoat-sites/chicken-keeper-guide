@@ -6,8 +6,6 @@ description: "Keep your flock safe with proven chicken coop predator protection 
 image: "https://images.pexels.com/photos/20399927/pexels-photo-20399927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["chicken", "coop", "predator", "protection"]
-author: "Ben Hartley"
-author_bio: "Small-scale farmer and poultry keeper. Raises dual-purpose heritage breeds and writes about sustainable backyard farming."
 slug: "chicken-coop-predator-protection"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Predator pressure peaks in late winter through spring when many animals are coming out of lean seasons and females are pregnant or nursing young and need more food. Summer and fall pressure drops in most regions. That said, individual circumstances vary a lot. Drought years send more wildlife into suburban areas year-round. New housing developments push displaced wildlife into established neighborhoods. And a single bold raccoon can be a problem any month of the year."
   - q: "Do livestock guardian dogs actually work for backyard flocks?"
     a: "They can, but they're a significant commitment. A Great Pyrenees, Anatolian Shepherd, or similar breed bred for livestock guarding is an incredible deterrent. Properly bonded, they'll patrol the property and alert you to threats day and night. The challenge is that they need training, socialization with your chickens from a young age, and enough space to do their job. For a small suburban backyard with 6 hens, a guardian dog is probably more than the situation calls for. For a rural property with a large flock, it's one of the most effective long-term solutions there is."
+author: "Carol Thompson"
+author_slug: "carol-thompson"
+author_title: "Homestead Writer"
+author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+
 ---
 
 A raccoon can open a simple hook-and-eye latch in under 60 seconds. I've watched it happen on my trail cam footage, and I'm still a little impressed by the dexterity, even after losing three hens to that same raccoon before I figured out what was going on. That one night cost me a Buff Orpington I'd raised from a chick and two of my best laying Australorps. Predator protection isn't a "nice to have" for backyard chickens. It's the whole ballgame.

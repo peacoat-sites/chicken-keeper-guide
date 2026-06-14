@@ -6,8 +6,6 @@ description: "Discover which chicken breeds lay the most eggs per year. Compare 
 image: "https://images.pexels.com/photos/2255459/pexels-photo-2255459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["eggs"]
 tags: ["production", "year", "breed"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "egg-production-per-year-by-breed"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Depends entirely on your goals. Heritage breeds like Dominiques, Buckeyes, or true heritage Rhode Island Reds lay significantly fewer eggs than production counterparts, but they're better foragers, often hardier, longer-lived, and some people value the genetics for flock sustainability. If you want to hatch and raise your own replacement birds indefinitely, heritage breeds make more sense. If you want maximum eggs with minimum inputs, they don't compete with production strains or hybrids."
   - q: "Can I mix high-production breeds with ornamental breeds in one flock?"
     a: "Yes, and most backyard keepers do. Just don't expect your ornamental birds to pull their weight in the egg basket and then be surprised when the math doesn't add up. Keep a mental ledger: if two of your six hens are Silkies and one is a Bantam Cochin, you effectively have three production birds. Plan accordingly."
+author: "Carol Thompson"
+author_slug: "carol-thompson"
+author_title: "Homestead Writer"
+author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+
 ---
 
 Most people pick chickens based on looks. They fall for a photo of a fluffy Silkie or a dramatic Ayam Cemani and buy six of them before asking the obvious question: how many eggs will I actually get? Then they spend a year collecting three eggs every two days from birds that eat as much as any other hen, and they wonder why their "backyard flock" costs more than buying eggs at the farmers market. Breed selection is the single highest-leverage decision you'll make as a chicken keeper, and egg production numbers are the thing most hatchery descriptions quietly fudge.

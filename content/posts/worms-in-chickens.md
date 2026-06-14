@@ -6,8 +6,6 @@ description: "Discover how to identify, treat, and prevent worms in chickens. Le
 image: "https://images.pexels.com/photos/32331515/pexels-photo-32331515.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["worms", "chickens"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "worms-in-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Some herbs like pumpkin seeds, black seed oil, and wormwood get mentioned frequently in chicken-keeping communities. The evidence for their effectiveness as standalone treatments in established infections is not convincing. Pumpkin seeds contain cucurbitacin, which has shown some anti-parasitic properties in studies, but not at levels that constitute reliable treatment. I wouldn't use them as a primary strategy if I knew my birds had a real infection. As a supportive addition to a clean management program? Probably harmless."
   - q: "What's the egg withdrawal period for fenbendazole?"
     a: "There's no officially established FDA withdrawal period because fenbendazole isn't approved for laying hens in the US. The commonly observed informal standard among backyard keepers and many avian vets is 14 days after the last treatment dose. Some err on the side of 17 to 21 days to be safe. If you're selling eggs or giving them to people who don't know about the treatment, 14 to 17 days minimum. When in doubt, talk to the vet who prescribed the medication."
+author: "Janet Wilson"
+author_slug: "janet-wilson"
+author_title: "Flock Manager"
+author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+
 ---
 
 You find one of your best layers standing off by herself, tail drooping, looking thin despite the fact that she's eating like normal. No respiratory symptoms. No mites you can see. You worm her on a hunch, and two weeks later she's back to laying and acting like herself. That scenario has played out in my flock more times than I'd like to admit, and every time it reminds me of the same uncomfortable truth: internal parasites are probably the most underdiagnosed health problem in backyard chickens, and most keepers don't catch it until the bird is already in rough shape.

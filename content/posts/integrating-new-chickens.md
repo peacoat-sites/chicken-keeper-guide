@@ -6,8 +6,6 @@ description: "You quarantined your new birds. Now comes the hard part: safely in
 image: "https://images.pexels.com/photos/58906/pexels-photo-58906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["flock"]
 tags: ["integrating", "chickens"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "integrating-new-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is a painful situation and unfortunately not rare. If you're seeing respiratory symptoms, swollen faces, or significant mortality after integration, separate everyone immediately and call your state veterinarian's poultry diagnostic lab. Many states offer free or low-cost flock testing. Don't wait it out hoping it resolves. Marek's disease, infectious bronchitis, and mycoplasma can spread rapidly through an integrated flock."
   - q: "My older hen is getting beat up by the new birds. Is that normal?"
     a: "It's not common, but it happens. If your older hen is at the bottom of the original pecking order, newly introduced birds that are young, energetic, and confident may outrank her quickly. Watch that she's able to eat and drink. If she's being seriously bullied, she may need a few days of separation to recover before trying again, or you may need to restructure the integration to give her more escape options."
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 You did everything right. You quarantined your new birds for the full 30 days, watched them closely for signs of illness, and now you're standing at your coop door, two nervous pullets in a cardboard box, six established hens staring back at you from the run like a gang that just claimed their corner. You let them all loose together and within 45 seconds one of your older girls has the newcomer pinned by the neck. You panic, separate everyone, and start Googling at midnight. If that's where you are right now, or if you're trying to avoid getting there in the first place, you're in exactly the right spot.

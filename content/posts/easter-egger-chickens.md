@@ -6,8 +6,6 @@ description: "Discover everything about Easter Egger chickens, from their colorf
 image: "https://images.pexels.com/photos/6141608/pexels-photo-6141608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["Easter", "Egger", "chickens"]
-author: "Ben Hartley"
-author_bio: "Small-scale farmer and poultry keeper. Raises dual-purpose heritage breeds and writes about sustainable backyard farming."
 slug: "easter-egger-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "They're one of the best choices for beginners. They're hardy, friendly, not prone to going broody constantly, and they lay well. The only beginner trap is expecting uniform results. Their variability in appearance and egg color can feel chaotic to someone who wants predictability. If you want consistency, pair a couple of Easter Eggers with a more uniform breed like a Barred Rock or Black Australorp."
   - q: "How do I tell a rooster Easter Egger from a pullet as a chick?"
     a: "It's hard, honestly. Easter Egger chicks are notoriously difficult to sex based on appearance alone because they come in so many color variations. Hatcheries typically offer sexed Easter Eggers at 90-95% accuracy. By 6-8 weeks, males will show noticeably thicker legs, more upright posture, and the beginnings of pointed saddle feathers. If you're really uncertain, wait until 10-12 weeks and look for the development of a more pronounced pea comb and the first appearance of pointed hackle feathers around the neck."
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 The first time I candled an egg from my Easter Egger pullet Juniper, I genuinely couldn't tell if I was looking at a blue egg or a green one. She'd laid something that split the difference so perfectly it looked teal under natural light, aqua under the kitchen fluorescent, and almost sage in the henhouse. That moment captures everything I love and everything that drives beginners slightly crazy about Easter Eggers: they're wonderfully unpredictable, endlessly variable, and somehow exactly what most backyard flocks need.

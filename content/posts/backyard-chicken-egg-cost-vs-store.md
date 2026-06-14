@@ -6,8 +6,6 @@ description: "Discover if raising backyard chickens actually saves money on eggs
 image: "https://images.pexels.com/photos/6472465/pexels-photo-6472465.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["finances"]
 tags: ["backyard", "chicken", "cost", "store"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "backyard-chicken-egg-cost-vs-store"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The research here is mixed but leans toward yes for pasture-raised conditions. A 2010 study out of Penn State found eggs from hens with pasture access had 2x more omega-3 fatty acids, 3x more vitamin D, and 7x more beta-carotene than conventional eggs. Whether that translates to meaningful health differences over time is harder to say."
   - q: "What happens to egg production in winter?"
     a: "Most breeds slow down or stop laying when daylight drops below 14 hours, typically November through January in northern climates. Adding a simple 40-watt bulb on a timer to extend 'daylight' to 14-16 hours keeps most hens laying. Some keepers skip the light and let hens rest; it's not harmful, just means no eggs for a couple months."
+author: "Sarah Mills"
+author_slug: "sarah-mills"
+author_title: "Homesteader"
+author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+
 ---
 
 Most people discover the real cost of backyard eggs the same way: they're standing in the feed store checkout line, staring at a $28 bag of layer pellets, doing math in their head that does not add up to "cheaper than the grocery store." Nobody warned them. Or if someone did, they said something vague like "it pays off in the long run," which is the chicken-keeping equivalent of "it builds character."

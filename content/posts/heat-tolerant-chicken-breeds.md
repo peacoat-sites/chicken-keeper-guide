@@ -6,8 +6,6 @@ description: "Discover the best heat tolerant chicken breeds for hot climates. L
 image: "https://images.pexels.com/photos/21482856/pexels-photo-21482856.png?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["heat", "tolerant", "chicken", "breeds"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "heat-tolerant-chicken-breeds"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Visible panting starts around 85-90°F for most breeds and becomes concerning above 95°F. At 104°F+, you're in genuine danger zone, especially with humidity above 50%. Watch for open-mouthed panting, wings held away from the body, pale combs, and lethargy. Birds that stop moving and sit hunched are in trouble."
   - q: "Does feather color really affect heat tolerance that much?"
     a: "Somewhat, yes. Dark feathers absorb more solar radiation than light ones, which matters most in direct sun. In shade, it's less relevant. It's a real factor but a smaller one than comb size, body weight, and feather density overall. If everything else is equal between a dark bird and a light bird of the same breed, the lighter bird has a small advantage on a sunny day."
+author: "Dr. Tom Henderson"
+author_slug: "dr-tom-henderson"
+author_title: "Poultry Health Reviewer"
+author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+
 ---
 
 Most chicken keepers learn about heat tolerance the hard way. I did. Summer of 2017, central Texas, 107°F in the shade, and I lost two Rhode Island Reds inside of a week despite fans, misters, frozen watermelons, and every intervention I'd read about online. What nobody told me was that the breed I'd chosen was quietly working against me from the start.

@@ -6,10 +6,13 @@ description: "Discover rooster laws for backyard chickens, including local ordin
 image: "https://images.pexels.com/photos/34433157/pexels-photo-34433157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["flock"]
 tags: ["rooster", "laws", "backyard", "chickens"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "rooster-laws-backyard-chickens"
 affiliate_disclosure: false
+author: "Carol Thompson"
+author_slug: "carol-thompson"
+author_title: "Homestead Writer"
+author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+
 ---
 
 My neighbor got a rooster by accident in 2021. Ordered a straight-run batch of Buff Orpingtons from Meyer Hatchery, and three of the six turned out to be cockerels. By the time those boys started crowing at 4:47 a.m., she'd already received two noise complaints and a letter from the city. She had to rehome all three within 10 days. The whole thing could have been avoided with about 20 minutes of research before the chicks arrived.

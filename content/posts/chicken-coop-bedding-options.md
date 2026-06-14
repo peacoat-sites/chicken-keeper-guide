@@ -6,8 +6,6 @@ description: "Discover the best chicken coop bedding options to keep your flock 
 image: "https://images.pexels.com/photos/8652819/pexels-photo-8652819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["chicken", "coop", "bedding", "options"]
-author: "Ben Hartley"
-author_bio: "Small-scale farmer and poultry keeper. Raises dual-purpose heritage breeds and writes about sustainable backyard farming."
 slug: "chicken-coop-bedding-options"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Old hay is risky. Hay retains more moisture than straw (it's cut at a leafy, higher-moisture stage), and old hay is particularly prone to mold. Aspergillus mold in hay can cause fatal respiratory infections in poultry. If you have dry, good-quality hay and nowhere else to use it, small amounts mixed into a deep litter pile are probably fine. As primary bedding, straw is almost always a better and safer choice."
   - q: "My coop smells even with fresh bedding. What's wrong?"
     a: "Nine times out of ten, ventilation. Ammonia is heavier than air and sinks to floor level. It builds up in closed coops incredibly fast, especially in winter when keepers close vents to keep birds warm. Birds need fresh air more than they need a warm coop. Open your upper vents even in cold weather. Check that droppings boards under roosts are being cleaned every few days, since that concentrated pile under the roost is the main ammonia source. A product like Sweet PDZ Coop Refresher sprinkled under roosts can help manage ammonia between cleanings. (This site may earn a commission on purchases."
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 I once watched a fellow chicken keeper spend three weekends in a row completely stripping out her coop, scrubbing the floor, and reloading fresh pine shavings, only to have the smell return within days. The bedding wasn't failing her. Her management system was. After a quick chat and a switch to the deep litter method, she went from weekly strip-outs to a full cleanout twice a year. That kind of shift is possible for most backyard keepers, but you have to understand your options first.

@@ -6,8 +6,6 @@ description: "Learn how to raise healthy baby chicks with expert tips on brooder
 image: "https://images.pexels.com/photos/14960420/pexels-photo-14960420.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["chicks"]
 tags: ["raising", "baby", "chicks"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "raising-baby-chicks"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It varies significantly by breed. Production breeds like Golden Comets or Leghorns can start as early as 16-18 weeks. Heritage breeds like Dominiques or Australorps typically take 20-24 weeks. Silkies and some ornamental breeds might not lay until 7-9 months. Season matters too: chicks hatched in late summer may delay their first lay until the following spring due to shortening daylight hours."
   - q: "Do I need a rooster for my hens to lay eggs?"
     a: "No. Hens lay eggs regardless of whether a rooster is present. A rooster is only needed if you want fertilized eggs for hatching chicks. Many municipalities that allow backyard hens specifically prohibit roosters, so check your local ordinances before you ever consider keeping one."
+author: "Sarah Mills"
+author_slug: "sarah-mills"
+author_title: "Homesteader"
+author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+
 ---
 
 I killed six chicks my first year. Not all at once, but one by one, over about three weeks, and every single time I was convinced I was doing everything right. The brooder temperature was "about right." The water was clean. The feed was there. What I didn't understand yet is that baby chicks exist on a knife's edge for the first few weeks of their lives, and vague is the enemy.

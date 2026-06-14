@@ -6,8 +6,6 @@ description: "Discover the friendly and docile Orpington chicken breed. Learn ab
 image: "https://images.pexels.com/photos/5840692/pexels-photo-5840692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["Orpington", "chickens"]
-author: "Karen Fields"
-author_bio: "Backyard chicken keeper of 12 years. Has raised 14 breeds and mentored dozens of first-time flock owners."
 slug: "orpington-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It's a breed characteristic that was preserved because Orpingtons were developed partly as a utility bird that could hatch and raise its own chicks. Some lines are broodier than others. Production hatchery lines have had some of that broodiness selected out; heritage lines tend to go broody more often. If you don't want broody hens, collect eggs daily and remove any hen showing broody behavior from the nesting box repeatedly and quickly. Breaking a broody hen early is much easier than waiting until she's been sitting for a week."
   - q: "What health problems should I watch for?"
     a: "The biggest concerns with Orpingtons are obesity, bumblefoot, and mites or lice hiding in their dense feathering. Check under the wings and around the vent feathers regularly for parasites. Keep the run dry and the coop clean. For bumblefoot, catching it early when it's just a small dark scab and addressing it with antiseptic spray and a bandage is far better than waiting until it becomes a deep infection. Vetericyn Wound Spray is something I keep in my coop kit year-round for exactly these moments. (This site may earn a commission on qualifying purchases.)"
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 The first time I held a Buff Orpington pullet, I thought someone had handed me a loaf of warm bread. She was round, dense, impossibly soft, and completely unfazed by being picked up by a stranger. That calm temperament isn't an accident. It's been bred into this bird for over a century, and it's exactly why Orpingtons remain one of the most popular backyard breeds in the world despite never winning any egg-laying contests.

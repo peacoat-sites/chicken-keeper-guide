@@ -6,8 +6,6 @@ description: "Discover how proper chicken coop ventilation keeps your flock heal
 image: "https://images.pexels.com/photos/5807098/pexels-photo-5807098.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["chicken", "coop", "ventilation"]
-author: "Karen Fields"
-author_bio: "Backyard chicken keeper of 12 years. Has raised 14 breeds and mentored dozens of first-time flock owners."
 slug: "chicken-coop-ventilation"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Use hardware cloth. Chicken wire keeps chickens in, but it doesn't keep much out. Raccoons can reach through the 2-inch hexagonal openings and grab birds roosting near a vent. Weasels and rats can squeeze through. Hardware cloth with 1/2-inch openings is the right material for any exterior vent or window that birds could access or that a predator could reach through."
   - q: "My coop smells fine to me. Do I still need to worry about ventilation?"
     a: "Yes, and here's why: your nose acclimates to smells quickly. If you walk in every day, you'll stop noticing low-level ammonia that a first-time visitor would detect immediately. Also, ammonia concentrations are highest at bird level, not at human nose height when you're standing upright. Do the crouch test I described earlier. And remember that 'fine' to you isn't the same as acceptable for birds who are sleeping and breathing in that air for 10-plus hours every night."
+author: "Dr. Tom Henderson"
+author_slug: "dr-tom-henderson"
+author_title: "Poultry Health Reviewer"
+author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+
 ---
 
 It's July, it's 94 degrees outside, and you open your coop door to find your hens panting with their wings held out from their bodies. Or maybe it's February, below freezing, and you notice the walls are dripping with condensation and the litter smells sharp with ammonia even though you just cleaned it three days ago. Both of those situations point to the same root problem: inadequate ventilation. It's one of the most misunderstood aspects of coop design, and honestly, it causes more preventable illness and death in backyard flocks than almost anything else I've seen in 12 years of keeping chickens.

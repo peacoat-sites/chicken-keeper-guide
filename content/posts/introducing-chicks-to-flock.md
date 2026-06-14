@@ -6,8 +6,6 @@ description: "Learn how to safely introduce chicks to your flock with our step-b
 image: "https://images.pexels.com/photos/35282555/pexels-photo-35282555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["flock"]
 tags: ["introducing", "chicks", "flock"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "introducing-chicks-to-flock"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Hatchery chicks are usually vaccinated for Marek's and tested for common diseases, so the risk level is lower than with birds from an auction or unknown backyard flock. That said, a two-week quarantine in a physically separate space (separate airspace if possible) before any contact with your existing flock is still worth doing. Respiratory illness in particular spreads fast."
   - q: "What age can chicks go outside?"
     a: "Fully feathered and off the heat lamp, so typically 6-8 weeks depending on breed and ambient temperature. Cold-tolerant breeds like Plymouth Rocks feather faster; some of the more exotic breeds take longer. If nighttime temps are still dropping below 50°F, wait, or provide a supplemental heat source in the grow-out space."
+author: "Janet Wilson"
+author_slug: "janet-wilson"
+author_title: "Flock Manager"
+author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+
 ---
 
 Most people get the introduction wrong before the chicks even arrive. They read "keep them separate for a few weeks, then slowly introduce them" and think they've got it handled. What that advice skips: the *how* of that separation, what "slowly introduce" actually looks like in practice, and the very specific ways adult hens will make a young bird's life miserable if you rush it. I've watched a 12-week-old pullet get scalped in under three minutes by a hen she'd been "living next to" for a month. The fencing was the only thing separating them, which turned out to mean nothing at all once I opened the gate.

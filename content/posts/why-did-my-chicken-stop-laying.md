@@ -6,8 +6,6 @@ description: "Find out why your chicken stopped laying eggs. Learn about common 
 image: "https://images.pexels.com/photos/18474426/pexels-photo-18474426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["eggs"]
 tags: ["chicken", "stop", "laying"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "why-did-my-chicken-stop-laying"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Absolutely yes. If your birds have any free-range time at all, a hidden nest is a real possibility. Hens prefer dark, secluded spots with some overhead cover. Check under shrubs, inside any structures on your property, behind equipment, under decks. One of my hens once laid in an empty flowerpot behind the garage for three weeks before I caught her."
   - q: "Do I need to see a vet, or can I handle this at home?"
     a: "Most causes of stopped laying, including light reduction, molt, stress, and minor illness, are manageable at home with observation and time. You need a vet if: she has a visibly swollen abdomen, she's showing respiratory symptoms, she's been off food and water for more than 48 hours, she's in obvious distress, or you suspect egg binding and a warm soak isn't resolving it. A good avian or large-animal vet is worth knowing before you need one urgently."
+author: "Sarah Mills"
+author_slug: "sarah-mills"
+author_title: "Homesteader"
+author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+
 ---
 
 You walk out to the coop one morning, lift the nesting box lid, and find nothing. Not one egg. Yesterday there were four. The day before, five. You check again in the afternoon, just in case. Still nothing. If this sounds familiar, you're not alone, and you're also not doing anything wrong. Hens stop laying for more reasons than most beginners expect, and the frustrating part is that several of those reasons can be happening at the same time. Let me walk you through what's actually going on.

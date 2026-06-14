@@ -6,8 +6,6 @@ description: "Chickens typically start laying eggs at 16-20 weeks old. Learn abo
 image: "https://images.pexels.com/photos/4200087/pexels-photo-4200087.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["eggs"]
 tags: ["when", "chickens", "start", "laying", "eggs"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "when-do-chickens-start-laying-eggs"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Young pullets often lay more frequently than older hens. A first-year Leghorn or sex-link hybrid might give you 5 to 6 eggs per week consistently. A heritage breed like an Orpington in her first year might average 3 to 4 eggs per week. Production peaks in the first 1 to 2 years and gradually declines after that, though hens can continue laying for 5 or more years at reduced rates."
   - q: "Can I eat those weird first eggs with soft shells or unusual shapes?"
     a: "Generally yes, as long as the egg looks and smells normal inside. Soft-shelled eggs should be refrigerated promptly and used quickly since the membrane alone doesn't protect the egg as well as a hard shell. Double yolkers are perfectly edible and some people consider them a treat. If you crack open an egg and the white is discolored, smells off, or the yolk is abnormal, discard it."
+author: "Dr. Tom Henderson"
+author_slug: "dr-tom-henderson"
+author_title: "Poultry Health Reviewer"
+author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+
 ---
 
 You've been feeding, watering, and caring for your pullets for months. You check the nesting boxes every morning with that mix of hope and mild disappointment. Then one Tuesday, there it is: a small, slightly odd-shaped egg sitting in the corner of the coop. The wait is finally over. If you're still in the waiting phase, understanding exactly what drives that first egg can make the whole experience a lot less frustrating.

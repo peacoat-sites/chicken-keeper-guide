@@ -6,8 +6,6 @@ description: "Learn how to raise chickens with our beginner-friendly guide cover
 image: "https://images.pexels.com/photos/16580501/pexels-photo-16580501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["raise", "chickens"]
-author: "Lisa Vance"
-author_bio: "Certified poultry advisor and urban farming educator helping city dwellers set up thriving backyard flocks."
 slug: "how-to-raise-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "With good care, laying hens typically live 5 to 10 years. Most production breeds peak in egg laying during years one and two, then production tapers off. Some people keep hens long past their laying prime as flock members. Others process older birds. That's a personal choice, and there's no wrong answer."
   - q: "What do I do if a predator gets into my coop?"
     a: "First, take care of any surviving birds. Remove them from the scene, check for injuries, and treat wounds with Vetericyn poultry wound spray or a diluted Betadine solution. Wounded birds need to be separated to prevent the rest of the flock from pecking at injuries. Then, figure out the entry point and fix it before dark. Predators that succeed always come back. (This site may earn a commission on qualifying purchases.)"
+author: "Sarah Mills"
+author_slug: "sarah-mills"
+author_title: "Homesteader"
+author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+
 ---
 
 Your first flock of baby chicks arrives in a small cardboard box, peeping like crazy, and you realize you have no idea what you're doing. That moment is more common than you'd think. I've watched dozens of neighbors and friends go through it, and I've been there myself, standing in my kitchen at 6 AM with 25 Rhode Island Red chicks and a heat lamp I wasn't sure I'd set up correctly. The good news: chickens are forgiving. They're tougher than they look, and with the right foundation, raising a healthy flock is absolutely something a complete beginner can do.

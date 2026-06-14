@@ -6,8 +6,6 @@ description: "Free-range or backyard flock? Learn the ideal chicken run size req
 image: "https://images.pexels.com/photos/33441868/pexels-photo-33441868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["chicken", "size", "requirements"]
-author: "Ben Hartley"
-author_bio: "Small-scale farmer and poultry keeper. Raises dual-purpose heritage breeds and writes about sustainable backyard farming."
 slug: "chicken-run-size-requirements"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "In some guidelines, yes, and the birds do use the coop floor during the day to a small degree. But in practical terms, I count them separately. Coop space is for sleeping and laying. Run space is for living, foraging, and movement. Don't try to stretch your run numbers by including the coop floor."
   - q: "What's the biggest run I've seen backyard keepers wish they'd built?"
     a: "Every single person I've talked to who has chickens longer than two years wishes they'd built bigger. Bigger run, bigger coop. I've never once heard someone say 'I really wish I had less space.' Build as big as your yard and budget allow on day one. Future you will be grateful."
+author: "Janet Wilson"
+author_slug: "janet-wilson"
+author_title: "Flock Manager"
+author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+
 ---
 
 A flock of six hens living in a 6x6 foot run. Sounds fine on paper, doesn't it? That's 36 square feet, which works out to 6 square feet per bird. You'll find that number on dozens of websites and it's technically within range of the minimum recommendations. But I can tell you from watching real flocks over twelve years: a 6x6 run for six standard-size chickens will eventually give you a bare patch of dirt, stressed birds, and a pecking order enforced with actual blood. Space matters more than most beginners realize, and the minimums printed in beginner guides are often just that: the bare minimum to survive, not thrive.

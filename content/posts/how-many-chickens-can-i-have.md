@@ -6,8 +6,6 @@ description: "Find out how many chickens you can keep based on local zoning laws
 image: "https://images.pexels.com/photos/20118295/pexels-photo-20118295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["legal"]
 tags: ["many", "chickens", "have"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-many-chickens-can-i-have"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This depends on your setup, but in my experience, 10 to 12 well-housed birds is a manageable solo operation. Beyond that, daily chores, cleaning rotations, and health monitoring start to take a meaningful chunk of time. Thirty birds on a small property is not a weekend hobby. It's a part-time job."
   - q: "Can I keep ducks with my chickens and does that count toward my limit?"
     a: "Ducks and chickens can coexist, with some caveats: ducks make a mess of water, they need different nutrition (no added niacin in standard layer feed isn't enough for ducks), and they can bully or be bullied depending on breed. Whether ducks count toward your bird limit depends entirely on how your local ordinance is written. Some say 'chickens,' some say 'poultry,' some say 'fowl.' Read the exact language and call to confirm."
+author: "Janet Wilson"
+author_slug: "janet-wilson"
+author_title: "Flock Manager"
+author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+
 ---
 
 You've done your research, you've watched the YouTube videos, and you've already mentally named a few of your future hens. Now you're staring at your backyard trying to figure out the actual number you can keep without running into trouble with your neighbor, your city code enforcement officer, or your own sanity. It's a more complicated question than it looks, and the answer you'll find on most hatchery websites, "get at least three," leaves out about 90% of what you actually need to know.

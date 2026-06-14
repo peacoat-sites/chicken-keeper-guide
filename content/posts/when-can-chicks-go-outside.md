@@ -6,8 +6,6 @@ description: "Wondering when chicks can go outside? Learn the ideal age, tempera
 image: "https://images.pexels.com/photos/13690434/pexels-photo-13690434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["chicks"]
 tags: ["when", "chicks", "outside"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "when-can-chicks-go-outside"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "They can. Severe pecking that draws blood can escalate quickly in a flock setting. It's not guaranteed, but it's common enough that you should treat integration as a serious risk management situation, not a casual introduction. Follow a slow integration process and never assume your established birds will just 'figure it out.'"
   - q: "What's the earliest chicks can go outside permanently?"
     a: "In warm climates with consistent nighttime lows above 60°F, some fully feathered birds can transition permanently as early as five and a half to six weeks. That's the early edge. Most birds in most climates are safer at seven to eight weeks. If you're rushing it, you're almost always doing it for your convenience, not theirs."
+author: "Carol Thompson"
+author_slug: "carol-thompson"
+author_title: "Homestead Writer"
+author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+
 ---
 
 Most people wait too long. Or they rush it. There's almost no middle ground in the advice you'll find online, and I'll be honest, when I started keeping chickens a decade ago, I didn't know what to believe either.

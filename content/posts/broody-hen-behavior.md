@@ -6,8 +6,6 @@ description: "Learn how to identify broody hen behavior, what causes it, and how
 image: "https://images.pexels.com/photos/7790127/pexels-photo-7790127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["eggs"]
 tags: ["broody", "behavior"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "broody-hen-behavior"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Physically remove her once a day and place her in front of food and water. Some hens are so committed they won't break the loop voluntarily. Hold her near the water and dip her beak lightly if needed. If she's been sitting for over 48 hours without eating or drinking, this daily intervention is necessary, not optional. A hen who becomes too weak to stand is a serious problem."
   - q: "Can two hens share a broody nest?"
     a: "Sometimes they try, and it's usually a disaster. Two hens crammed onto a shared nest means eggs roll around, temperatures fluctuate, and one hen usually ends up displaced. If you want to run two broodies simultaneously, give them separate nest boxes at least 18 inches apart. You can also slip chicks under a second broody who's been sitting the same amount of time, which works better than shared incubation."
+author: "Janet Wilson"
+author_slug: "janet-wilson"
+author_title: "Flock Manager"
+author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+
 ---
 
 You walk out to the coop one morning and find one of your hens planted on the nest like a feathered boulder. She puffs up, growls, and tries to remove your hand from your wrist when you reach under her. She hasn't moved in two days. The other hens are laying their eggs and walking away like normal adults, but this one has decided the nest box is her permanent address. Congratulations. You have a broody hen.

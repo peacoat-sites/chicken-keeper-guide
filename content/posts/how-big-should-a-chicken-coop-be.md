@@ -6,8 +6,6 @@ description: "Find out exactly how big your chicken coop should be with our easy
 image: "https://images.pexels.com/photos/3922672/pexels-photo-3922672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["should", "chicken", "coop"]
-author: "Ben Hartley"
-author_bio: "Small-scale farmer and poultry keeper. Raises dual-purpose heritage breeds and writes about sustainable backyard farming."
 slug: "how-big-should-a-chicken-coop-be"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is a common concern, and it's partially valid. A massive coop can be harder to warm slightly, but chickens are actually more cold-hardy than most people realize. Healthy adult birds handle temperatures well below freezing as long as the coop is dry and draft-free. Body heat from the flock itself does a significant amount of temperature regulation in a well-insulated coop. The real risk in winter is moisture and ammonia buildup from poor ventilation, which is actually worse in a too-small, too-tight coop. Good ventilation matters more than raw square footage for winter health."
   - q: "What's the smallest coop that's actually practical for a backyard flock?"
     a: "For most people starting with backyard chickens, a 4x6 coop (24 square feet) serves 4 to 6 birds in a mild climate, or 3 to 4 birds in a cold one. Anything smaller and you're in constant maintenance mode: cleaning more often, managing pecking issues, and dealing with stressed birds. That's not the experience most people are looking for. If you're truly space-limited, stick to 3 to 4 bantams in a well-built small coop with a generous run."
+author: "Sarah Mills"
+author_slug: "sarah-mills"
+author_title: "Homesteader"
+author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+
 ---
 
 I've watched a perfectly friendly flock of Buff Orpingtons turn into feather-pulling, egg-eating chaos in the span of one winter. The coop was 4x6 feet. There were nine birds in it. Do the math and you'll understand everything that went wrong.

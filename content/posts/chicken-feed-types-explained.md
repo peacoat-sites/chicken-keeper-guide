@@ -6,8 +6,6 @@ description: "Discover the different types of chicken feed including starter, gr
 image: "https://images.pexels.com/photos/29275539/pexels-photo-29275539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["feeding"]
 tags: ["chicken", "feed", "types", "explained"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "chicken-feed-types-explained"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It's not toxic, but it's nutritionally poor. Think of it as junk food. A handful of scratch as an afternoon treat is fine and useful in winter since digesting corn generates some body heat. Making it a significant part of the diet dilutes protein and micronutrient intake. If you see a drop in egg production, watery droppings, or birds that look underweight, scratch overfeeding is often one of the first things to check."
   - q: "Do I need to feed oyster shell if I'm using layer feed?"
     a: "Layer feed already contains added calcium, but some high-producing hens need more. Thin or pitted eggshells are a sign the hen isn't getting enough calcium for her output. Keeping oyster shell available free-choice costs almost nothing and removes the guesswork. Hens are good at self-regulating calcium intake. You're not going to cause calcium toxicity by offering free-choice oyster shell alongside layer feed."
+author: "Sarah Mills"
+author_slug: "sarah-mills"
+author_title: "Homesteader"
+author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+
 ---
 
 Most new chicken keepers walk into a feed store for the first time, stare at a wall of bags labeled "starter," "grower," "layer," "flock raiser," and "finisher," and walk out with whatever bag has the prettiest rooster on it. It happens more than you'd think. Getting the feed wrong doesn't always cause an obvious disaster right away, but over time it can mean poor egg production, weak shells, slow growth, feather problems, and birds that just look a little rough around the edges. Understanding what's actually in those bags, and why it matters, is one of the most practical things you can do for your flock.

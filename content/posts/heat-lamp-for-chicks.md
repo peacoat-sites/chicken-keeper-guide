@@ -6,8 +6,6 @@ description: "Keep baby chicks warm and healthy with the right heat lamp. Learn 
 image: "https://images.pexels.com/photos/7782044/pexels-photo-7782044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["chicks"]
 tags: ["heat", "lamp", "chicks"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "heat-lamp-for-chicks"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most chicks are fully feathered and can tolerate ambient temperatures around 65°F without supplemental heat by 5-6 weeks old. If your outdoor temperatures are warmer than that, transition earlier. Don't go by age alone; go by feather coverage and watch how they behave when you turn the lamp off briefly."
   - q: "Is a red heat lamp better than a white one for chicks?"
     a: "The theory is that red light reduces pecking because chicks see blood less clearly. The honest answer is that the evidence is anecdotal and the effect is probably minor in a properly managed brooder with appropriate stocking density. Ceramic heat emitters (no light at all) are a better choice if you want to reduce stress and let chicks sleep normally."
+author: "Carol Thompson"
+author_slug: "carol-thompson"
+author_title: "Homestead Writer"
+author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+
 ---
 
 Three chicks died in my first brooder before I figured out what I was actually doing wrong. Not from cold. From heat. I'd set up a 250-watt red heat lamp about 18 inches above the bedding, figured that was "about right" based on a quick Google search, and watched my little flock of straight-run Easter Eggers pile into one corner and pant for two days before I connected the dots. By the time I got the temperature right, I'd already lost three.

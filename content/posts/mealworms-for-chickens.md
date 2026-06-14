@@ -6,8 +6,6 @@ description: "Discover the benefits of feeding mealworms to chickens, including 
 image: "https://images.pexels.com/photos/34087921/pexels-photo-34087921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["feeding"]
 tags: ["mealworms", "chickens"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "mealworms-for-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "They can contribute, but I wouldn't rely on them as a replacement. During molt, I switch my birds to a higher-protein feed like Purina Flock Raiser (20% protein) and use mealworms as a supplement on top of that, not as the main protein source."
   - q: "Do mealworms carry any diseases I should worry about?"
     a: "The risk is low with commercially raised dried mealworms, which are typically dried at temperatures high enough to kill pathogens. Live mealworms from reputable reptile suppliers are also generally safe. The bigger biosecurity risk with any treat is using something that's been stored improperly or contaminated with rodent droppings, so keep your bags sealed and stored off the floor."
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 My chickens would do anything for mealworms. Truly, anything. I once accidentally dropped a bag near the coop door and had six hens in a full sprint before the bag hit the ground. That part's fun. What's less fun is realizing, a few months into keeping chickens, that you've been treating mealworms like a staple feed instead of what they actually are.

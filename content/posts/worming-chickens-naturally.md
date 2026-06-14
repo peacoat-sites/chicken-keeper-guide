@@ -6,8 +6,6 @@ description: "Discover safe, natural methods to worm your chickens using herbs, 
 image: "https://images.pexels.com/photos/19972927/pexels-photo-19972927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["worming", "chickens", "naturally"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "worming-chickens-naturally"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No withdrawal period is needed for any of these natural methods. One clear advantage over conventional chemical dewormers, which often require egg withdrawal periods of 7 to 14 days (depending on the product)."
   - q: "Can a heavy worm infestation be cleared with natural methods alone?"
     a: "Honestly, probably not. A heavy load confirmed by fecal test in a symptomatic bird needs real intervention. Use fenbendazole or another veterinary-recommended option, then shift to natural maintenance afterward. Trying to ride out a serious infestation on pumpkin seeds and garlic is one of those things that sounds good until a bird dies from it."
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 Most natural worming guides tell you to throw some pumpkin seeds at your flock and call it a day. That's not wrong exactly, but it's maybe 10% of the picture, and if your birds are carrying a heavy worm load, pumpkin seeds alone aren't going to cut it.

@@ -6,8 +6,6 @@ description: "Build a predator proof chicken coop to keep your flock safe. Learn
 image: "https://images.pexels.com/photos/6289100/pexels-photo-6289100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["predator", "proof", "chicken", "coop"]
-author: "Mike Olson"
-author_bio: "4-H poultry program leader specializing in flock health, breed selection, and egg production optimization."
 slug: "predator-proof-chicken-coop"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A livestock guardian dog or even a family dog with free access to the yard adds a real layer of deterrence. But dogs sleep, dogs get distracted, and dogs can be led off by coyotes working as decoys. A dog does not replace physical security. It's an addition to it, not a substitute."
   - q: "Can raccoons really open latches?"
     a: "Yes, and I say this from personal experience. They'll work sliding bolts, simple hooks, and twist latches without much trouble, especially if they've had time to practice. Anything that requires two independent actions to open, like a carabiner plus a bolt, or a padlock, is beyond what a raccoon can reliably solve. It's a real thing, not a myth."
+author: "Carol Thompson"
+author_slug: "carol-thompson"
+author_title: "Homestead Writer"
+author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+
 ---
 
 It happened on a Tuesday morning. I walked out to let my girls out for the day and found the coop door hanging open, feathers scattered across the run, and four of my best laying hens gone. A raccoon had figured out the simple barrel bolt I'd been using for two years. Just like that. If you've never experienced a predator attack, you might think I'm being dramatic. If you have, you know exactly the sick feeling I'm describing. Building a truly predator-proof chicken coop isn't about being paranoid. It's about understanding that every wild animal in your area is essentially running a nightly audit of your birds' security, looking for the one mistake you made.

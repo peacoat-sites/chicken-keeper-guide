@@ -6,8 +6,6 @@ description: "Discover how to build grit for chickens with essential bedding mat
 image: "https://images.pexels.com/photos/34421167/pexels-photo-34421167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["feeding"]
 tags: ["grit", "chickens"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "grit-for-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Top off the container whenever it runs low, and completely replace and clean the container roughly once a month. Grit can collect droppings, moisture, and feed debris that can harbor bacteria or mold. A quick rinse and dry of the container during your monthly clean is enough to keep things hygienic."
   - q: "Can chickens eat too much grit?"
     a: "In rare cases, yes. This usually happens when birds are bored, stressed, or when grit is mixed directly into their feed rather than offered free-choice. Too much grit can cause a physical blockage in the gizzard called a grit impaction. Free-choice feeding in a separate container minimizes this risk dramatically, because birds self-regulate and stop eating grit once their gizzard is adequately supplied."
+author: "Janet Wilson"
+author_slug: "janet-wilson"
+author_title: "Flock Manager"
+author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+
 ---
 
 Imagine cracking open an egg from your backyard flock, only to notice that your hens have been laying thin-shelled, brittle eggs for the past two weeks. You've checked their feed, confirmed they're getting enough calcium, and still can't figure out what's wrong. There's a good chance the answer is sitting right under your nose: your chickens don't have access to proper grit, and their digestive systems are struggling to break down the nutrients they need. It sounds almost too simple, but grit is one of the most overlooked essentials in backyard chicken care, and skipping it can quietly wreck your flock's health.

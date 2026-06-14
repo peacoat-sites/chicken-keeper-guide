@@ -6,8 +6,6 @@ description: "Find out if backyard chickens are allowed in your city. Explore lo
 image: "https://images.pexels.com/photos/30468865/pexels-photo-30468865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["legal"]
 tags: ["chicken", "ordinances", "city"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "chicken-ordinances-by-city"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You can, but you're accepting real risk. The more common approach is to quietly keep a flock slightly over the limit and maintain good neighbor relations. This works until it doesn't. A formal complaint triggers formal enforcement. If you want to push for a higher limit legitimately, attend a city council meeting and make the case. Bring data on municipal programs in comparable cities. Several cities have raised their limits this way, and it doesn't take a massive organizing effort."
   - q: "Do chicken ordinances apply to bantam breeds the same as standard breeds?"
     a: "In virtually all cases, yes. Ordinances regulate chickens as a category. A Serama bantam that weighs 10 ounces counts the same as a Jersey Giant that weighs 13 pounds. No municipality that I'm aware of distinguishes between bantam and standard breeds in its hen count. A few ordinances have language about 'miniature poultry' but these are exceptions. Don't assume a bantam breed gives you extra birds. Getting chickens right means getting the paperwork right first. That's not a fun sentence to write and I doubt it's fun to read, but the alternative is building a coop you have to tear down or reho"
+author: "Dr. Tom Henderson"
+author_slug: "dr-tom-henderson"
+author_title: "Poultry Health Reviewer"
+author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+
 ---
 
 You've found the perfect property. Decent yard, good sun exposure on the south side, neighbors far enough away that a rooster wouldn't be a diplomatic incident. You order six Rhode Island Red pullets, spend a weekend building a solid 4x8 coop, and then three weeks later a city code enforcement officer is standing at your gate. Turns out your municipality allows four hens maximum, no roosters, and your coop has to sit at least 25 feet from any residential structure. You're currently at 12 feet. This exact scenario plays out constantly, and it's almost always 100% preventable.

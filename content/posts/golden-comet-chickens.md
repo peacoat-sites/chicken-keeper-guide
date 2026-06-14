@@ -6,8 +6,6 @@ description: "Discover everything about Golden Comet chickens, including their f
 image: "https://images.pexels.com/photos/29707950/pexels-photo-29707950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["Golden", "Comet", "chickens"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "golden-comet-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Honestly, yes. They're forgiving about feed changes, don't require special housing, and aren't aggressive toward people. The one thing beginners should know upfront is the shortened productive lifespan -- manage your expectations around year three."
   - q: "What's the difference between a Golden Comet and an ISA Brown?"
     a: "Both are red sex-link hybrids, and their performance is nearly identical in practice. The main difference is the parent stock and the company that developed the genetics. ISA Browns were developed by Institut de Sélection Animale in France; Golden Comets are an American version. For a backyard keeper, the distinction doesn't matter much."
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 Most hatchery descriptions of Golden Comets read like they were written by someone who has never actually owned one. "Friendly, prolific layers" -- sure, technically accurate, but that sells them either too hard or not hard enough depending on what you actually need from a flock. Let me give you the real picture.

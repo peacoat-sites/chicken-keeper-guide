@@ -6,8 +6,6 @@ description: "Discover how molting affects your chickens egg production, how lon
 image: "https://images.pexels.com/photos/34000202/pexels-photo-34000202.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["eggs"]
 tags: ["molting", "chickens", "production"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "molting-chickens-egg-production"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It can be, especially in early or mild molts. Some hens do a gradual, soft molt where they lose feathers slowly over several months and maintain some level of egg production throughout. However, feather loss without molt can also indicate other problems: feather pecking from flockmates, lice or mites, broody behavior, or a protein deficiency. Check the feather loss pattern. If it's concentrated around the vent or back, look for parasites or rooster damage. If it's starting at the head and neck and spreading down, it's almost certainly a normal molt."
   - q: "Do roosters molt too, and does it affect their behavior?"
     a: "Yes, roosters molt on roughly the same schedule as hens. You'll see the same feather loss and regrowth cycle, and it often coincides with a noticeable reduction in mating activity. The rooster may seem less aggressive or less interested in the hens during molt. His tail feathers, especially the long sickle feathers, are usually the most dramatic part of the regrowth. A rooster coming out of molt with a new set of long sickle feathers is a genuinely impressive bird."
+author: "Carol Thompson"
+author_slug: "carol-thompson"
+author_title: "Homestead Writer"
+author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+
 ---
 
 You did everything right. The coop is clean, the water is fresh, the feed is stocked, and then one October morning you walk out to collect eggs and find almost nothing in the nest boxes. Meanwhile your hens look like they lost a fight with a leaf blower. Feathers everywhere. Bare patches on necks and backs. They look terrible and you're getting maybe one egg every few days from a flock that was cranking out a dozen. Most people panic and start troubleshooting the wrong things. The real answer is simpler and more frustrating: your hens are molting, and there's not a whole lot you can do to speed it up.

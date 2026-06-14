@@ -6,8 +6,6 @@ description: "Discover the best tips for buying chicks online safely. Learn how 
 image: "https://images.pexels.com/photos/6806629/pexels-photo-6806629.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["chicks"]
 tags: ["buying", "chicks", "online"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "buying-chicks-online"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Photograph everything before removing birds from the box. Contact the hatchery immediately, usually within 24 to 48 hours of arrival. Reputable hatcheries like Meyer, Murray McMurray, and Cackle will reship or refund losses. Most have specific claim windows, so don't wait."
   - q: "Can I order chicks year-round?"
     a: "Technically yes, but I wouldn't order in the middle of winter unless you're in a mild climate. Cold transit conditions are brutal on shipped chicks. Late March through May and again in September are the sweet spots for most of the country. Plus, spring chicks raised through summer are laying before their first winter."
+author: "Dr. Tom Henderson"
+author_slug: "dr-tom-henderson"
+author_title: "Poultry Health Reviewer"
+author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+
 ---
 
 I'll be honest: the first time I ordered chicks online, I thought I was being reckless. Paying $6 to $12 per chick, plus $30 or more in shipping, for birds I couldn't inspect, from a hatchery I'd never visited, that would arrive through the United States Postal Service? It felt insane. Three days later, a chirping box showed up at my local post office at 6 a.m. and every single chick was alive, alert, and hollering. I've ordered online probably a dozen times since then, and I've also had a shipment go badly wrong. So here's the real rundown.

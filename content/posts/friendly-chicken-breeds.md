@@ -6,8 +6,6 @@ description: "Discover the friendliest chicken breeds perfect for backyard flock
 image: "https://images.pexels.com/photos/29707952/pexels-photo-29707952.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["friendly", "chicken", "breeds"]
-author: "Lisa Vance"
-author_bio: "Certified poultry advisor and urban farming educator helping city dwellers set up thriving backyard flocks."
 slug: "friendly-chicken-breeds"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Many calm, curious breeds like Speckled Sussex and Australorps will get comfortable around dogs and cats that have been properly introduced and aren't actively chasing them. The chicken's temperament matters, but the other animals' behavior matters more. Proper introduction protocols and supervision are essential. I've had Buff Orpingtons that were completely unfazed by my two dogs, but that took months of careful managed exposure, not just throwing everyone in the yard together."
   - q: "Are friendly chicken breeds good for children?"
     a: "Absolutely, which is a big part of why they're so popular. Breeds like Silkies, Buff Orpingtons, and Easter Eggers are commonly used in children's programs, 4-H projects, and therapy settings. That said, supervise young children closely, not because the chickens will hurt the kids, but because small children can accidentally hurt the chickens by squeezing too hard or dropping them. Teach kids to sit on the ground and let the chickens come to them rather than chasing and grabbing."
+author: "Sarah Mills"
+author_slug: "sarah-mills"
+author_title: "Homesteader"
+author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+
 ---
 
 Picture this: you're sitting in a lawn chair on a Saturday morning, coffee in hand, and a fluffy golden hen hops up onto your knee like she owns the place. She tilts her head, blinks at you with one amber eye, and settles in. That's not a fantasy. That's a Tuesday for people who keep the right breeds. Not every chicken is going to follow you around the yard like a golden retriever, and honestly, some breeds would rather eat your shoelaces than sit in your lap. But if you're choosing your first flock, adding birds to an existing one, or specifically want hens that your kids can handle, breed selection matters more than almost anything else.

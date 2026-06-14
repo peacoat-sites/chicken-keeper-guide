@@ -6,8 +6,6 @@ description: "Discover simple, humane methods to break a broody hen quickly and 
 image: "https://images.pexels.com/photos/32515820/pexels-photo-32515820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["eggs"]
 tags: ["break", "broody"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-break-a-broody-hen"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, completely normal. Broody hens often become territorial, especially around the nest boxes. They may also be grumpy and snappy toward flock mates when they make their brief daily trips out to eat. This usually resolves once you break the broodiness and her hormone levels return to normal. In the meantime, make sure your other hens have access to food and water that the broody isn't guarding."
   - q: "She broke out of broodiness but now she's at the bottom of the pecking order. What happened?"
     a: "After a long broody spell, a hen can lose social standing in the flock, particularly if the other hens have had weeks without her being a regular part of daily flock dynamics. This usually resolves itself within a week or two as she reasserts herself. Give her extra feed access during this period, and make sure she can reach the waterer without being blocked. Adding a second poultry feeder can help reduce competition during the reintegration period."
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 If you walked out to the coop this morning and found one of your hens puffed up like a football, sitting flat on the nest box and making that low, rattling growl when you reached toward her, you already know something has shifted. She's not laying. She's barely eating or drinking. And if you have other hens, she may be hogging a nest box that everyone else needs. You've got a broody hen on your hands, and whether you want to let her hatch eggs or not, you need to understand what's happening in her body and what your options actually are.

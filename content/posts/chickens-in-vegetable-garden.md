@@ -6,10 +6,13 @@ description: "Discover how to use chickens in your vegetable garden to control p
 image: "https://images.pexels.com/photos/7790123/pexels-photo-7790123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["sustainability"]
 tags: ["chickens", "vegetable", "garden"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "chickens-in-vegetable-garden"
 affiliate_disclosure: false
+author: "Sarah Mills"
+author_slug: "sarah-mills"
+author_title: "Homesteader"
+author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+
 ---
 
 The first spring I let my chickens into the vegetable garden unsupervised, I lost an entire bed of seedlings in about twenty minutes. Six Rhode Island Reds, completely content, scratching up every last row of newly planted lettuce and spinach I'd spent a weekend preparing. I stood there watching them and felt genuinely stupid. The idea had seemed so elegant: chickens eat bugs, chickens fertilize soil, everyone wins. What I hadn't thought through was that chickens don't distinguish between a pest and a plant.

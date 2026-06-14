@@ -6,8 +6,6 @@ description: "Discover why your chickens stop laying eggs in winter and learn si
 image: "https://images.pexels.com/photos/2446695/pexels-photo-2446695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["eggs"]
 tags: ["chickens", "laying", "winter"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "chickens-not-laying-in-winter"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Possibly. Some hens, particularly from hatcheries with mixed quality control, have reproductive abnormalities and will never lay. But the more common culprits are late hatch dates (a hen hatched in August or September may not reach laying age until November or December, just as days shorten and lay onset gets suppressed), breed maturity timeline (Orpingtons and other heavy breeds can take 6 to 8 months to start), or a molt so early and subtle you missed it. Give her until she's 9 months old in good light conditions before assuming a real problem."
   - q: "Should I be worried about egg production dropping in my older hens?"
     a: "A 2-year-old hen lays roughly 80% of what she laid at her peak. By year 3, you're often looking at 50 to 60%. Winter amplifies this. An older hen who gave you 5 eggs a week in her first summer might give you one or two a week in her third winter even with supplemental light. This is normal aging, not illness. If production drops suddenly and dramatically outside of the normal seasonal pattern, especially accompanied by behavior changes, that warrants a health check."
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 You go out to the coop on a cold December morning, lift the nesting box lid, and find exactly nothing. Again. You've got six hens, they've been reliable all spring and summer, and now it's been three weeks since you've seen more than one or two eggs on a good day. Your first instinct is that something's wrong. The second instinct is to Google it at midnight. Here's what you actually need to know.

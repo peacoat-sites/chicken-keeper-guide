@@ -6,8 +6,6 @@ description: "Learn how to identify and treat an egg bound chicken with our expe
 image: "https://images.pexels.com/photos/31627639/pexels-photo-31627639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["bound", "chicken"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "egg-bound-chicken"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not exactly, but they're related. A soft-shelled egg is more likely to get stuck or collapse mid-passage because it lacks structural integrity. If your hen is regularly laying soft or shell-less eggs, she's either calcium-deficient, has a vitamin D problem, or has an underlying reproductive issue. Get that sorted before egg binding becomes the next thing you're dealing with."
   - q: "What's the difference between egg binding and internal laying?"
     a: "Internal laying (when eggs are deposited into the body cavity instead of the oviduct) is a chronic condition, not an acute emergency in the same way. Those hens develop a swollen, doughy abdomen over weeks, not hours. They're often sick for a long time before the situation becomes critical. Egg binding is sudden and acute. Both are serious. Neither has a great long-term prognosis without veterinary involvement, but they require completely different immediate responses."
+author: "Janet Wilson"
+author_slug: "janet-wilson"
+author_title: "Flock Manager"
+author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+
 ---
 
 Your hen is squatting in the nesting box, straining, puffed up like a football, and nothing is coming out. She's been there for hours. Most chicken-keeping guides at this point tell you to "consult a vet" and leave you hanging. That's not enough when it's Sunday evening, the nearest avian vet is 45 minutes away, and your hen is deteriorating. Egg binding is one of the few chicken emergencies where the right home intervention, done quickly, can genuinely save a life. The wrong move, or no move at all, kills the bird. Here's what you actually need to know.

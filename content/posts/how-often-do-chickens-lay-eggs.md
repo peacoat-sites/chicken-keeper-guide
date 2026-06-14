@@ -6,8 +6,6 @@ description: "Discover how often chickens lay eggs, factors affecting laying fre
 image: "https://images.pexels.com/photos/13690435/pexels-photo-13690435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["eggs"]
 tags: ["often", "chickens", "eggs"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "how-often-do-chickens-lay-eggs"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Soft or thin shells almost always point to a calcium deficiency. Offer free-choice oyster shell immediately. If the problem persists despite adequate calcium, it can sometimes indicate a vitamin D deficiency, a disease like infectious bronchitis, or an aging hen whose reproductive system is declining."
   - q: "Can a chicken lay two eggs in one day?"
     a: "Technically possible but very rare. Because the laying cycle takes 24 to 26 hours, a hen almost never produces two fully formed eggs in a single day. When it does happen, one of the eggs usually has a thin shell or abnormality. Don't count on it as a regular event."
+author: "Sarah Mills"
+author_slug: "sarah-mills"
+author_title: "Homesteader"
+author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+
 ---
 
 A brand-new hen from a production breed can lay up to 300 eggs in her first year. That's nearly an egg a day, almost every single day, for twelve months straight. If you've just brought home your first flock and you're expecting that kind of output from every bird, every year, you're in for a surprise. Egg production is way more variable than most beginners expect, and understanding what drives it will save you a lot of frustration standing at an empty nesting box.

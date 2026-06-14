@@ -6,8 +6,6 @@ description: "Discover the best egg laying chicken breeds for your flock. From p
 image: "https://images.pexels.com/photos/32149473/pexels-photo-32149473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["best", "laying", "chickens"]
-author: "Lisa Vance"
-author_bio: "Certified poultry advisor and urban farming educator helping city dwellers set up thriving backyard flocks."
 slug: "best-egg-laying-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The most common causes are shorter daylight hours in fall and winter, the annual molt, a health issue like mites or worms, stress from a predator visit or new flock members, nutritional gaps (especially protein), or simply age. Walk through this checklist before assuming something is seriously wrong. Most sudden production drops have a straightforward fix once you identify the cause."
   - q: "What's the difference between brown and white eggs nutritionally?"
     a: "Nutritionally, nothing significant. The shell color is determined by the breed, not the diet or quality of the egg. A brown egg from a stressed, grain-fed hen in a cramped coop is nutritionally inferior to a white egg from a well-fed hen with pasture access. What matters is how the hen is raised and fed, not what color shell she produces. The bottom line is that the best egg-laying chicken is the one that fits your specific setup, climate, and goals. Don't let the perfect be the enemy of the good. A backyard flock of Rhode Island Reds, Australorps, and a couple of Barred Rocks will keep most f"
+author: "Sarah Mills"
+author_slug: "sarah-mills"
+author_title: "Homesteader"
+author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+
 ---
 
 If you've ever stood in front of a feed store bin of chicks, heart rate climbing, trying to remember which breed your neighbor swore by, you know the feeling. Six breeds stare up at you, all fluffy and identical in their peeping chaos, and you need to make a decision that will shape your next five years of egg production. Getting it wrong doesn't ruin your life, but getting it right means pulling a dozen eggs from the nest box every single morning without fail. That difference is real, and it starts with breed selection.

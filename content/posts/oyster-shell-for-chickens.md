@@ -6,8 +6,6 @@ description: "Oyster shell supplements support chicken bone health and eggshell 
 image: "https://images.pexels.com/photos/15944112/pexels-photo-15944112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["feeding"]
 tags: ["oyster", "shell", "chickens"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "oyster-shell-for-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and it matters. Coarse oyster shell (around 1-3mm particle size) is absorbed more slowly, which is ideal for laying hens since it releases calcium overnight when the shell is forming. Fine oyster shell or oyster flour is absorbed faster. For most backyard flocks, coarse oyster shell is the right choice."
   - q: "Should I give oyster shell to meat birds?"
     a: "Generally, no. Meat breeds like Cornish Cross are slaughtered before they reach laying age, so calcium supplementation for eggshell production isn't relevant. Feeding high calcium to young, fast-growing broilers can actually stress their kidneys. Stick to the feeding program designed for meat birds."
+author: "Janet Wilson"
+author_slug: "janet-wilson"
+author_title: "Flock Manager"
+author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+
 ---
 
 You crack open an egg from your backyard flock and the shell crumbles in your fingers before you can even get it into the pan. Frustrating, right? Thin, fragile eggshells are one of the most common complaints among backyard chicken keepers, and the fix is almost always the same: your hens need more calcium. Specifically, they need oyster shell. It's a small, cheap addition to your flock management routine that can make a dramatic difference, and yet a surprising number of chicken owners either skip it entirely or use it wrong.

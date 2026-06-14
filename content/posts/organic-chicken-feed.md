@@ -6,8 +6,6 @@ description: "Discover the best organic chicken feed options to keep your flock 
 image: "https://images.pexels.com/photos/12972872/pexels-photo-12972872.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["feeding"]
 tags: ["organic", "chicken", "feed"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "organic-chicken-feed"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Organic feeds skip synthetic preservatives like ethoxyquin, which is why they're more vulnerable to moisture and heat. Store in a sealed metal container in a cool, dry location, buy in smaller quantities so you rotate through it faster, and check the milling date on the bag when you purchase. Anything older than 3 months off the mill is already on borrowed time."
   - q: "Do I need to supplement hens on organic feed differently than conventional?"
     a: "Not really, as long as you're offering oyster shell free-choice on the side and they have access to fresh water always. One thing to watch: some organic soy-free feeds rely on peas for protein and may be lower in methionine, an amino acid hens need. If you're on a soy-free organic ration and you see feather pecking or slow molting, a methionine supplement or some black soldier fly larvae can help fill that gap."
+author: "Sarah Mills"
+author_slug: "sarah-mills"
+author_title: "Homesteader"
+author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+
 ---
 
 Organic chicken feed costs more than conventional. Sometimes a lot more. And if you've just bought your first 50-pound bag of Scratch and Peck Feeds Cluckin' Good Organic Layer Mash for $42 versus the $18 Dumor bag sitting right next to it at Tractor Supply, you might be wondering whether you just made a very expensive rookie mistake.

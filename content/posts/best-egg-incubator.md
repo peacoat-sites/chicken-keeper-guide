@@ -6,8 +6,6 @@ description: "Discover the best egg incubators for hatching success. We review t
 image: "https://images.pexels.com/photos/20157904/pexels-photo-20157904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["products"]
 tags: ["best", "incubator"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "best-egg-incubator"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, but you need a rooster for the eggs to be fertile. Collect eggs for no more than 7-10 days before setting them, store them pointy-end down at 55-65°F (not in the fridge), and avoid eggs with cracked shells or abnormal shapes."
   - q: "What's a good hatch rate to expect?"
     a: "From fresh, properly stored eggs in a well-maintained incubator, 70-85% is realistic and good. From shipped eggs, 40-60% is more honest. If you're consistently below 50% on fresh eggs, look at temperature stability and humidity control first."
+author: "Dr. Tom Henderson"
+author_slug: "dr-tom-henderson"
+author_title: "Poultry Health Reviewer"
+author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+
 ---
 
 The first incubator I ever bought cost me $34 on Amazon, and it killed every single egg I put in it. Not because I did anything wrong. The temperature swung between 96°F and 103°F depending on where the thermometer probe sat, the humidity tray was a joke, and the automatic egg turner jammed on day nine. I candled those eggs on day ten and saw nothing. Fourteen eggs, gone.

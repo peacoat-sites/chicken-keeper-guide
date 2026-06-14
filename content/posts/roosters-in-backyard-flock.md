@@ -6,8 +6,6 @@ description: "Discover how to keep roosters in your backyard flock, from their b
 image: "https://images.pexels.com/photos/32782008/pexels-photo-32782008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["flock"]
 tags: ["roosters", "backyard", "flock"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "roosters-in-backyard-flock"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. A fertilized egg is indistinguishable from an unfertilized one in taste, texture, and nutrition. The embryo develops only under sustained incubation temperatures above 99°F. An egg collected daily from a nesting box and stored at room temperature or refrigerated has no development occurring."
   - q: "What do I do with unwanted roosters?"
     a: "This is the question nobody wants to answer. Rehoming cockerels is genuinely difficult: shelters rarely take them, Craigslist is flooded with free roosters, and farms that claim to take 'pets' have limited capacity. Realistic options are processing them for meat (even small cockerels are edible), finding a rural contact through a local poultry swap or feed store, or advertising in Backyard Chickens forums and Facebook groups. Plan for this outcome before purchasing straight-run chicks. About half will be male."
+author: "Dr. Tom Henderson"
+author_slug: "dr-tom-henderson"
+author_title: "Poultry Health Reviewer"
+author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+
 ---
 
 Nobody warns you about the noise at 3 a.m.

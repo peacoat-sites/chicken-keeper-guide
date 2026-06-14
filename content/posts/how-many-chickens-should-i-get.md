@@ -6,8 +6,6 @@ description: "Find out how many chickens you really need based on your egg goals
 image: "https://images.pexels.com/photos/8180453/pexels-photo-8180453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["many", "chickens", "should"]
-author: "Lisa Vance"
-author_bio: "Certified poultry advisor and urban farming educator helping city dwellers set up thriving backyard flocks."
 slug: "how-many-chickens-should-i-get"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Meat birds like Cornish Cross are usually kept separately from laying hens. They grow fast and are typically processed at 8 to 10 weeks, so they're a timed project rather than a permanent addition to your flock. Count their space and feed needs separately from your layers. Starting with 10 to 25 meat birds is a manageable first batch for a backyard operation."
   - q: "Is it better to start small and add more, or start with the right number from the beginning?"
     a: "Honestly, starting with your target number from the beginning is easier. Integrating new birds into an established flock takes real effort: you need a quarantine period of at least 30 days for new birds, and the pecking order reshuffling can be stressful for everyone. If you start with four and try to add two more a year later, expect a few weeks of chaos. It's doable, but not as smooth as getting your flock established all at once."
+author: "Carol Thompson"
+author_slug: "carol-thompson"
+author_title: "Homestead Writer"
+author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+
 ---
 
 Most people start with three chickens. Then they go to pick them up, see all those fluffy little faces, and come home with six. I've watched it happen more times than I can count, and honestly, I've done it myself. What starts as a sensible, practical decision turns into what the chicken community affectionately calls "chicken math," and before you know it you're pricing out a second coop in the parking lot of Tractor Supply. So before you get swept up in the cuteness, let's talk numbers in a real, grounded way so you can make a decision you won't regret, whether you're starting from scratch or expanding an existing flock.

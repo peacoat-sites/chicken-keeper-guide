@@ -6,8 +6,6 @@ description: "Discover everything about Rhode Island Red chickens, from their ha
 image: "https://images.pexels.com/photos/16180500/pexels-photo-16180500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["Rhode", "Island", "chickens"]
-author: "Mike Olson"
-author_bio: "4-H poultry program leader specializing in flock health, breed selection, and egg production optimization."
 slug: "rhode-island-red-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most pullets begin laying between 18 and 22 weeks. Production strains tend toward the earlier end of that range. Heritage birds sometimes take until 24 weeks. The first eggs are often small and occasionally double-yolked or oddly shaped as the pullet's system gets calibrated. Give it two to three weeks and things usually normalize."
   - q: "Do Rhode Island Red roosters need special management?"
     a: "More than some breeds, yes. RIR roosters can be assertive toward other roosters and occasionally toward people. Socialization from a young age helps, but temperament also has a genetic component. Keep only one rooster per flock unless you have significant space. A ratio of one rooster to 8 to 12 hens keeps the hens from being over-mated. If a rooster shows consistent aggression toward people, especially toward children, that's a bird you cull or rehome. It rarely gets better on its own."
+author: "Janet Wilson"
+author_slug: "janet-wilson"
+author_title: "Flock Manager"
+author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+
 ---
 
 If you walked into almost any farm store in America during chick days and asked the staff which breed a beginner should start with, the odds are good that a Rhode Island Red would end up in your brooder box before you left the parking lot. That's not a coincidence. After 12 years of keeping chickens and raising birds across 14 different breeds, I can tell you the RIR earns that reputation honestly. But I've also watched plenty of new keepers get surprised by things nobody warned them about. So let's talk about the whole picture.

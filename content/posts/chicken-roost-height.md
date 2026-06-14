@@ -6,8 +6,6 @@ description: "Discover the ideal chicken roost height for happy, healthy hens. L
 image: "https://images.pexels.com/photos/8794417/pexels-photo-8794417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["chicken", "roost", "height"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "chicken-roost-height"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "At minimum 12 inches per bird. For large breeds, 15 inches. Crowding leads to competition, pecking, and birds falling off overnight. If you're adding to your flock, add roost length at the same time."
   - q: "Should roosts be at the same height or staggered?"
     a: "Staggered works better for mixed flocks because it lets birds sort by rank without every bird competing for the exact same spot. Just make sure each level is offset horizontally (like stair steps) rather than directly above each other, or the lower birds get droppings rained on them all night."
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 Most chicken-keeping guides tell you to put roosts "18 inches off the ground" and call it a day. That number isn't wrong exactly, but it's incomplete in ways that will cost you: broken toes, bumblefoot, a flock that refuses to use the roosts you built, or hens sleeping in the nesting boxes and fouling every egg you collect. Roost height is more nuanced than the hatchery FAQs let on, and the right answer depends on your breed, your coop layout, and how your birds actually move.

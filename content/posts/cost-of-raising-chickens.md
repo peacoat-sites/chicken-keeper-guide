@@ -6,8 +6,6 @@ description: "Discover the true cost of raising chickens, from buying chicks and
 image: "https://images.pexels.com/photos/20631804/pexels-photo-20631804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["finances"]
 tags: ["cost", "raising", "chickens"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "cost-of-raising-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Startup coop and run construction, by a significant margin. Done right, with quality materials and genuine predator protection, it's a $500-$1,000 investment before you account for anything else. The ongoing feed cost is real but manageable; it's the upfront infrastructure that trips people up."
   - q: "How long do hens lay eggs, and how does that affect the cost calculation?"
     a: "Hens typically lay well for two to three years, with peak production in years one and two. After that, production drops significantly but doesn't stop entirely. Many backyard keepers keep hens past their peak, which increases the cost-per-egg ratio. If you're purely cost-focused, rotating in new pullets every two years and rehoming older hens makes the most financial sense, though that's a complicated calculation most people don't want to do."
+author: "Dr. Tom Henderson"
+author_slug: "dr-tom-henderson"
+author_title: "Poultry Health Reviewer"
+author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+
 ---
 
 Nobody warned me that my "cheap" backyard egg setup would cost me $1,400 before a single hen laid her first egg. I'd read all the beginner guides. I bought the $89 starter coop from Tractor Supply, grabbed six chicks at $4.99 each from the local feed store, and figured I was being smart and frugal. I was not.

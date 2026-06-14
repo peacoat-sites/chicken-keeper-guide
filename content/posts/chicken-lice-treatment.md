@@ -6,8 +6,6 @@ description: "Discover the best chicken lice treatment options to protect your f
 image: "https://images.pexels.com/photos/19972937/pexels-photo-19972937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["chicken", "lice", "treatment"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "chicken-lice-treatment"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Bare patches and raw skin around the vent are common with heavy body louse infestations. Treat the lice as described above, and the skin usually heals on its own once the irritation source is removed. If the skin looks broken, infected, or if other hens are pecking at the area, separate the affected bird until she heals. A product like Vetericyn Plus Poultry Care Spray can help protect irritated skin during recovery (our site may earn a commission on purchases through Amazon)."
   - q: "Do I need to treat my chickens differently in winter versus summer?"
     a: "The treatment protocol is the same year-round, but application in cold weather requires some practical adjustments. Dust treatments work in any temperature. Liquid spray products need to dry completely before birds go to roost, so apply them earlier in the day in winter. Avoid soaking birds in cold weather. Keep treated birds out of drafts until they're fully dry. Lice infestations can actually be worse in winter when birds spend more time in close contact inside the coop, so don't assume cold weather protects your flock."
+author: "Janet Wilson"
+author_slug: "janet-wilson"
+author_title: "Flock Manager"
+author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+
 ---
 
 If you picked up one of your hens this week and noticed tiny, fast-moving specks scrambling through the feathers near her vent, you're probably feeling a mix of panic and disgust right now. Take a breath. Lice on chickens are incredibly common, they don't infest humans, and with the right treatment you can clear them up within two to three weeks. What trips most people up isn't finding the lice, it's not understanding the lifecycle, skipping the second treatment, or using a product that simply doesn't work on the species they have. Let's fix all of that.

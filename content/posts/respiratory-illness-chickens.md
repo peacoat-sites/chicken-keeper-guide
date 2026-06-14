@@ -6,8 +6,6 @@ description: "Learn to identify and treat respiratory illness in chickens with e
 image: "https://images.pexels.com/photos/7782055/pexels-photo-7782055.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["respiratory", "illness", "chickens"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "respiratory-illness-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For some diseases, yes. Marek's disease vaccine is standard practice for chicks and works well. Vaccines for Infectious Bronchitis and Newcastle Disease are available, typically through hatcheries as in-ovo or day-old chick vaccines. They help but don't provide absolute protection, especially since IB has multiple serotypes. If you're buying chicks, ask whether they've been vaccinated and for which diseases."
   - q: "What's the fastest way to get a diagnosis without a poultry vet nearby?"
     a: "Contact your state's poultry diagnostic lab directly, most are affiliated with land-grant universities and don't require a vet referral for flock owners. You can submit a swab or a deceased bird. If the bird is still alive and you need faster answers, the Merck Veterinary Manual has a free online respiratory disease guide that's genuinely useful for narrowing down possibilities based on specific symptoms."
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 One of my hens sounded like a tiny accordion last October. That wet, rattling wheeze coming out of a bird that had been perfectly fine the week before is something you don't forget. If you're reading this because you heard something similar today, or because one of your girls has a puffy eye or a runny nose, I want you to take a breath. You're not a bad chicken keeper. This happens to everyone eventually, and what you do in the next 24 to 48 hours matters a lot.

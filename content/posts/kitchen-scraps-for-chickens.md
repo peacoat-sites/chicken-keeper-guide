@@ -6,8 +6,6 @@ description: "Kitchen scraps can be a nutritious and cost-effective way to feed 
 image: "https://images.pexels.com/photos/2252584/pexels-photo-2252584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["feeding"]
 tags: ["kitchen", "scraps", "chickens"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "kitchen-scraps-for-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Probably not. Chickens have preferences and can be suspicious of unfamiliar foods, especially new textures or strongly flavored items. Some flocks ignore citrus, cooked squash, or anything wet. If they don't eat something after a few minutes, remove it and try a different day. Hunger and curiosity usually win eventually."
   - q: "Can chicks have kitchen scraps?"
     a: "Young chicks under 4 weeks old should stick to starter feed. After 4 to 6 weeks, you can introduce tiny amounts of soft treats like plain scrambled egg or finely chopped greens, but starter feed should remain the main diet through at least 16 weeks. Always offer chick grit alongside any solid treats since their digestive systems are still developing."
+author: "Carol Thompson"
+author_slug: "carol-thompson"
+author_title: "Homestead Writer"
+author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+
 ---
 
 Most backyard chicken keepers discover the same thing within their first few weeks: those birds will eat almost anything. A wilted head of lettuce tossed into the run disappears in under two minutes, and suddenly you're standing at your kitchen counter wondering what else from the compost bucket is fair game. The good news is that kitchen scraps can genuinely supplement your flock's diet, stretch your feed budget, and give your hens something to stay active and engaged. The catch is that a few common kitchen items can make chickens seriously ill, and some can even kill them. Knowing the difference isn't complicated, but it does matter.

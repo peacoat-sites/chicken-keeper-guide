@@ -6,8 +6,6 @@ description: "Discover how to identify, treat, and prevent mites on chickens wit
 image: "https://images.pexels.com/photos/8020440/pexels-photo-8020440.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["mites", "chickens"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "mites-on-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Food-grade diatomaceous earth is safe for chickens in small amounts, particularly in dust baths. The concern is respiratory: fine silica dust is not good for anyone's lungs, chicken or human, to breathe in quantity. Don't dump large amounts of DE in an enclosed coop and let birds kick it up into the air. Use it mixed into dust bath areas where it's closer to the ground, and wear a dust mask when you're applying it."
   - q: "My chickens free-range. Can I still treat them effectively?"
     a: "Yes, but it requires catching each bird individually, which takes more effort. A good handling setup helps enormously. Consider a temporary smaller pen or use the coop at night when birds are roosted and easier to catch. Don't let the challenge of catching free-range birds become an excuse to skip treatment or re-treatment. That second treatment is especially important, and you need to get every bird, not just the ones that were easy to grab."
+author: "Janet Wilson"
+author_slug: "janet-wilson"
+author_title: "Flock Manager"
+author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+
 ---
 
 You go out to collect eggs one morning and notice your best layer, the big Barred Rock who gives you an egg almost every single day, is sitting hunched in the corner of the nesting box looking miserable. You pick her up and part the feathers near her vent. What you see stops you cold: a gray, writhing mass of tiny insects packed so densely around the base of her feathers that the skin underneath looks raw and angry. That's northern fowl mite. And if you're seeing it on one bird, I promise you it's already on more of them.

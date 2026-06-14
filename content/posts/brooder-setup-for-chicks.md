@@ -6,8 +6,6 @@ description: "Keep your chicks warm and healthy with the perfect brooder setup. 
 image: "https://images.pexels.com/photos/16733506/pexels-photo-16733506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["chicks"]
 tags: ["brooder", "setup", "chicks"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "brooder-setup-for-chicks"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Gently dip its beak into the water and then the feed once or twice. Sometimes shipped chicks are stressed and need a prompt. If a chick stays lethargic and uninterested after 24 hours, separate it from the flock and observe closely. A chick that's not eating or drinking by day two is in real trouble and often doesn't recover, but isolation prevents it from getting trampled."
   - q: "Is medicated chick starter necessary?"
     a: "Not universally. It's worth using if your chicks weren't vaccinated for coccidiosis, which is common with hatchery birds that only received Marek's vaccine. If your chicks were vaccinated specifically for coccidiosis, skip the medicated feed since amprolium can interfere with the vaccine building immunity. When in doubt, ask your hatchery directly."
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 I killed six chicks my first year because I didn't understand heat gradients. Not a brooder fire, not a predator, not disease. I kept the whole brooder at one temperature, the chicks got too hot, stressed out, piled on top of each other anyway, and the smallest ones suffocated. That was twenty-something chicks worth of learning happening in about four days, and I still think about it.

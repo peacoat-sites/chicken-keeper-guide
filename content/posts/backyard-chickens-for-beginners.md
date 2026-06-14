@@ -6,8 +6,6 @@ description: "Learn how to raise backyard chickens with our beginner's guide. Di
 image: "https://images.pexels.com/photos/17500797/pexels-photo-17500797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["backyard", "chickens", "beginners"]
-author: "Mike Olson"
-author_bio: "4-H poultry program leader specializing in flock health, breed selection, and egg production optimization."
 slug: "backyard-chickens-for-beginners"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A healthy hen can live 8 to 10 years, but peak egg production drops off significantly after years 2 and 3. By year 4 most hens are laying at 30 to 50 percent of their peak capacity. What you do with older hens is a personal decision every keeper eventually faces, and there's no single right answer."
   - q: "What's the biggest mistake beginners make?"
     a: "Skimping on coop size and predator protection. Every experienced chicken keeper has a story about the night a predator got in. Hardware cloth, a sturdy latch with a carabiner or padlock, and a covered run are worth every penny. The other big one is buying too many breeds at once from too many sources before you understand flock dynamics. Start simple, learn the basics, then expand."
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 Your neighbor shows up at your fence one Saturday morning holding a cardboard box with holes punched in the lid. Inside: six fluffy Buff Orpington chicks, peeping like crazy. She got them on impulse at the feed store, her landlord said absolutely not, and now she's looking at you with that face. That's how a lot of people get into chickens. Maybe that's you right now, staring at a box of chicks with zero idea what to do next. Good news: you're not in over your head. Chickens are genuinely one of the more forgiving livestock animals a beginner can start with, but they do have real needs, and getting those basics right in the first few months sets the tone for everything.

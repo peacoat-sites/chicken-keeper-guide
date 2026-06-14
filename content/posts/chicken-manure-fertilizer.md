@@ -6,8 +6,6 @@ description: "Discover how chicken manure fertilizer enriches soil with essentia
 image: "https://images.pexels.com/photos/21482835/pexels-photo-21482835.png?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["sustainability"]
 tags: ["chicken", "manure", "fertilizer"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "chicken-manure-fertilizer"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Absolutely. Over-application builds up phosphorus and potassium levels in soil over time, which can create nutrient imbalances and make it harder for plants to take up other minerals. If you're spreading hundreds of pounds per small bed every single year, it's worth getting a soil test every two or three years. Your local cooperative extension office usually does them for $15 to $25."
   - q: "My chicken manure smells terrible. What am I doing wrong?"
     a: "Strong ammonia smell usually means too much nitrogen with not enough carbon, or the pile is too wet. Add dry brown material (straw, wood shavings, dry leaves) and turn it to introduce oxygen. If you're storing fresh manure before composting, keep it covered to reduce moisture and contain odors."
+author: "Carol Thompson"
+author_slug: "carol-thompson"
+author_title: "Homestead Writer"
+author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+
 ---
 
 Most backyard chicken keepers treat manure like a waste problem. That's the wrong way to think about it. After ten years of shoveling coops, I'll be honest: chicken manure is the single best thing that's ever happened to my vegetable garden, and I wish someone had told me that on day one instead of year three.

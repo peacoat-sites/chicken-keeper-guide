@@ -6,8 +6,6 @@ description: "Thinking about raising chickens at home? Learn everything you need
 image: "https://images.pexels.com/photos/16654336/pexels-photo-16654336.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["starting", "backyard", "flock"]
-author: "Karen Fields"
-author_bio: "Backyard chicken keeper of 12 years. Has raised 14 breeds and mentored dozens of first-time flock owners."
 slug: "starting-a-backyard-flock"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, absolutely. I've seen productive, happy flocks in very small suburban yards. Four hens in a well-designed 4x8 coop with an attached run can thrive in less than 100 square feet. If your birds get supervised free-range time daily, even an hour or two, smaller setups work well. The key is enrichment and predator protection, not acreage."
   - q: "What's the biggest mistake beginners make?"
     a: "Buying too many birds too fast, usually at a feed store in spring when the chicks are irresistible. People end up with 12 chicks when they only have infrastructure for 4, they haven't checked their local laws, and the coop isn't finished yet. Start with a realistic number, get your setup right first, and add birds intentionally. Chickens multiply your problems as fast as they multiply your eggs if you're not prepared."
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 The first egg I ever collected was from a Black Australorp named Harriet, and I carried it inside with both hands like it was made of gold. My husband pointed out I was being ridiculous. He wasn't wrong. But twelve years and over 200 birds later, I can tell you that feeling never fully goes away, and it's exactly the reason backyard flocks have exploded in popularity. According to the USDA, backyard poultry keeping grew by nearly 4 million households between 2012 and 2019, and that number has only climbed since. If you're thinking about starting your own flock, you're not alone, and you're not too late.

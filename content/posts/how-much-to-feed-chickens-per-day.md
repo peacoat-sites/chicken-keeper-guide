@@ -6,8 +6,6 @@ description: "Feeding chickens the right amount daily ensures healthy hens and o
 image: "https://images.pexels.com/photos/1405930/pexels-photo-1405930.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["feeding"]
 tags: ["much", "feed", "chickens"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "how-much-to-feed-chickens-per-day"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, noticeably. A hen in full lay needs more calcium (for eggshell production) and more protein than a non-laying hen. Layer feed is formulated at 16 to 18 percent protein and 3.5 to 4 percent calcium specifically to meet these demands. If you're feeding a mixed flock of layers and non-layers, the extra calcium can be offered separately as oyster shell."
   - q: "Why are my chickens always acting hungry even after eating?"
     a: "Chickens are natural foragers and will act opportunistic regardless of whether they're actually hungry. That said, constant, frantic pecking at the feeder or ground, feather-pecking among flock members, and weight loss are genuine signs of underfeeding. Check your baseline consumption numbers against the breed-specific guidelines and adjust if there's a shortfall."
+author: "Dr. Tom Henderson"
+author_slug: "dr-tom-henderson"
+author_title: "Poultry Health Reviewer"
+author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+
 ---
 
 A flock of six hens can eat through a 50-pound bag of layer feed in about three weeks. Most new chicken keepers hear that number and immediately wonder: am I overfeeding? Underfeeding? Is that bag disappearing into the bedding or into actual chickens? Getting the daily feed amount right matters more than most people realize, because both overfeeding and underfeeding carry real consequences, from obesity and fatty liver disease to dropped egg production and feather loss.

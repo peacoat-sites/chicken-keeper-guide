@@ -6,8 +6,6 @@ description: "Marek's disease in chickens explained: causes, symptoms, preventio
 image: "https://images.pexels.com/photos/36013407/pexels-photo-36013407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["Marek's", "disease", "chickens"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "mareks-disease-chickens"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is a genuine judgment call and it depends on your situation. Whole-flock culling makes sense if: you're a serious breeder, losses are high, or you want a clean start. For most backyard keepers, it isn't necessary. Surviving birds in a Marek's-positive flock often have natural resistance and can live out normal laying lives. The trade-off is that your property will remain Marek's-positive, so every bird you add going forward must be vaccinated at hatch."
   - q: "How long does the Marek's virus survive in the environment?"
     a: "This is what makes Marek's so persistent. Infectious virus in feather follicle epithelium (shed dander and dust) can survive for several months to over a year in a dry environment. Heat, UV light, and proper disinfectants reduce but don't eliminate it. For practical purposes, assume your coop is permanently contaminated once the virus is present. Plan your flock management around vaccination and bird sourcing accordingly, not around trying to sterilize the environment."
+author: "Sarah Mills"
+author_slug: "sarah-mills"
+author_title: "Homesteader"
+author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+
 ---
 
 You buy six pullets from a local farm. They're healthy, active, eating well. Three months later, one of them can't stand up. Her legs are splayed, she's losing weight, and her eye looks gray and misshapen. You call the farm. They say it's probably "just a vitamin deficiency." It isn't. It's Marek's disease, and by the time that first bird goes down, the virus has likely been circulating through your flock for weeks.

@@ -6,10 +6,13 @@ description: "Discover everything you need to know about chick starter feed, inc
 image: "https://images.pexels.com/photos/13654839/pexels-photo-13654839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["chicks"]
 tags: ["chick", "starter", "feed"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "chick-starter-feed"
 affiliate_disclosure: false
+author: "Sarah Mills"
+author_slug: "sarah-mills"
+author_title: "Homesteader"
+author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+
 ---
 
 I've watched people spend $200 on a fancy brooder setup and then grab whatever chick starter bag was closest to the checkout at Tractor Supply. And honestly? The feed decision matters more than almost anything else you'll spend money on those first eight weeks.

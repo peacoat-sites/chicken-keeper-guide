@@ -6,8 +6,6 @@ description: "Learn to identify and treat common chicken health problems includi
 image: "https://images.pexels.com/photos/32594274/pexels-photo-32594274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["chicken", "health", "problems"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "chicken-health-problems"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You can't fully prevent them without any intervention, but you can manage risk. Provide a good dust bathing area with dry dirt or sand, since birds naturally control parasites this way. Add wood ash or food-grade diatomaceous earth to the dust bath. Inspect birds monthly, especially around the vent and under the wings. Keep the coop clean and dry, since moisture encourages mite populations. Regular inspection is your best tool."
   - q: "When is it actually worth taking a chicken to the vet?"
     a: "When the bird is a pet with real value to you, when you have a flock-wide issue you can't identify, when you suspect something like Marek's or Newcastle disease that affects the whole flock, or when you're dealing with egg-binding, severe injury, or peritonitis. A vet visit for a single backyard hen can run $75 to $200 or more depending on your area. That's a real cost. But for birds you care about, and for situations that could spread to your entire flock, it's absolutely worth it."
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 You go out to the coop on a Tuesday morning with your coffee, same as always, and one of your hens is just standing there. Not eating. Puffed up like a ball. Tail down. Every experienced chicken keeper knows that sick-bird posture, and if you're seeing it for the first time, your stomach drops. The problem is what comes next: you search online, you find seventeen different possibilities ranging from "she's a little cold" to "your whole flock is about to die," and you close the laptop more confused than when you opened it. That's what this article is for. Let's cut through the noise and talk about what's actually likely to be wrong, what you can do about it today, and when you genuinely need a vet.

@@ -6,8 +6,6 @@ description: "Discover the best dual purpose chicken breeds that excel at both e
 image: "https://images.pexels.com/photos/35383651/pexels-photo-35383651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["dual", "purpose", "chicken", "breeds"]
-author: "Karen Fields"
-author_bio: "Backyard chicken keeper of 12 years. Has raised 14 breeds and mentored dozens of first-time flock owners."
 slug: "dual-purpose-chicken-breeds"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No, and anyone who tells you otherwise isn't being straight with you. A high-production Leghorn or a commercial sex-link hybrid will lay 300 or more eggs per year in her prime. Most dual purpose hens top out around 240 to 280 in their first laying year. The difference matters if eggs are your only goal. But if you also want the meat value from excess birds and you want a flock that can sustain itself with some natural brooding, the slightly lower egg numbers are a reasonable price to pay."
   - q: "What do I feed dual purpose chickens?"
     a: "A good quality 18 to 20 percent protein starter from hatch through 16 to 18 weeks, then transition laying hens to a 16 percent layer feed and provide free-choice oyster shell. For grow-out cockerels in a separate pen, an all-flock grower at 16 to 18 percent protein works well through processing age. Keep fresh water available at all times. A horizontal nipple waterer system keeps the water cleaner than open dishes and dramatically reduces the muddy mess around the water source. Dual purpose chickens aren't a compromise. They're a different philosophy about what a flock is for. When you raise b"
+author: "Sarah Mills"
+author_slug: "sarah-mills"
+author_title: "Homesteader"
+author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+
 ---
 
 Imagine you order 25 chicks in the spring, raise them all summer, and then realize you can only keep 8 laying hens through winter. What happens to the other 17? If you picked a purely egg-focused breed like Leghorns, you've got a problem. Thin-bodied, wiry birds that eat feed for months and put almost nothing in the freezer. I learned this lesson the hard way in my third year of keeping chickens, and it's exactly why I became a convert to dual purpose breeds. When you raise birds that earn their keep both ways, the math of a small flock starts making a lot more sense.

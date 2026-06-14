@@ -6,8 +6,6 @@ description: "Discover how long chickens lay eggs and their peak production year
 image: "https://images.pexels.com/photos/6294279/pexels-photo-6294279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["eggs"]
 tags: ["long", "chickens", "eggs"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "how-long-do-chickens-lay-eggs"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A rooster has no impact on egg production at all. Hens lay regardless of whether a rooster is present. The only thing a rooster changes is whether the eggs are fertilized. If you're keeping hens strictly for unfertilized table eggs, a rooster is optional."
   - q: "How do I know which hen has stopped laying?"
     a: "The classic method is checking vent shape and pubic bone spacing. A laying hen has a moist, large, oval vent and you can fit 3 to 4 fingers between her pubic bones. A hen who's stopped laying has a dry, round, shrunken vent and pubic bones spaced only 1 to 2 fingers apart. Checking individual birds on a Sunday morning is a surprisingly quick and accurate diagnostic."
+author: "Mike Carter"
+author_slug: "mike-carter"
+author_title: "Coop Builder"
+author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+
 ---
 
 A hen that laid an egg every single day for her first two years can suddenly drop to just a handful of eggs per month, and many backyard flock owners are completely blindsided when it happens. Understanding *why* that shift occurs, and how long you can realistically expect your hens to produce, saves you from frustration, helps you plan your flock rotation, and honestly makes you a better chicken keeper overall.

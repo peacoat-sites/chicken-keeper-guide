@@ -1,0 +1,150 @@
+{
+  "title": "Backyard Chicken Breed Comparison",
+  "source": "Compiled from breed standards (American Poultry Association) and common keeper experience. Egg counts are typical annual ranges; individual birds vary.",
+  "rows": [
+    {
+      "breed": "Rhode Island Red",
+      "eggs": "250–300",
+      "color": "Brown",
+      "temperament": "Hardy, active",
+      "cold": "Yes",
+      "broody": "Sometimes",
+      "purpose": "Dual"
+    },
+    {
+      "breed": "White Leghorn",
+      "eggs": "280–320",
+      "color": "White",
+      "temperament": "Flighty, active",
+      "cold": "Moderate",
+      "broody": "Rarely",
+      "purpose": "Eggs"
+    },
+    {
+      "breed": "Plymouth Rock (Barred)",
+      "eggs": "200–280",
+      "color": "Brown",
+      "temperament": "Docile, friendly",
+      "cold": "Yes",
+      "broody": "Sometimes",
+      "purpose": "Dual"
+    },
+    {
+      "breed": "Buff Orpington",
+      "eggs": "180–220",
+      "color": "Brown",
+      "temperament": "Gentle, calm",
+      "cold": "Yes",
+      "broody": "Often",
+      "purpose": "Dual"
+    },
+    {
+      "breed": "Australorp",
+      "eggs": "250–300",
+      "color": "Brown",
+      "temperament": "Calm, friendly",
+      "cold": "Yes",
+      "broody": "Sometimes",
+      "purpose": "Dual"
+    },
+    {
+      "breed": "Speckled Sussex",
+      "eggs": "200–250",
+      "color": "Brown",
+      "temperament": "Curious, friendly",
+      "cold": "Yes",
+      "broody": "Sometimes",
+      "purpose": "Dual"
+    },
+    {
+      "breed": "Wyandotte",
+      "eggs": "200–240",
+      "color": "Brown",
+      "temperament": "Calm",
+      "cold": "Yes",
+      "broody": "Sometimes",
+      "purpose": "Dual"
+    },
+    {
+      "breed": "Easter Egger",
+      "eggs": "200–280",
+      "color": "Blue/Green",
+      "temperament": "Friendly",
+      "cold": "Yes",
+      "broody": "Rarely",
+      "purpose": "Eggs"
+    },
+    {
+      "breed": "Ameraucana",
+      "eggs": "200–250",
+      "color": "Blue",
+      "temperament": "Active, friendly",
+      "cold": "Yes",
+      "broody": "Rarely",
+      "purpose": "Eggs"
+    },
+    {
+      "breed": "Black Copper Marans",
+      "eggs": "150–200",
+      "color": "Dark brown",
+      "temperament": "Calm",
+      "cold": "Yes",
+      "broody": "Sometimes",
+      "purpose": "Dual"
+    },
+    {
+      "breed": "Welsummer",
+      "eggs": "160–200",
+      "color": "Dark brown",
+      "temperament": "Friendly",
+      "cold": "Yes",
+      "broody": "Rarely",
+      "purpose": "Dual"
+    },
+    {
+      "breed": "New Hampshire Red",
+      "eggs": "200–280",
+      "color": "Brown",
+      "temperament": "Friendly",
+      "cold": "Yes",
+      "broody": "Sometimes",
+      "purpose": "Dual"
+    },
+    {
+      "breed": "Brahma",
+      "eggs": "150–200",
+      "color": "Brown",
+      "temperament": "Gentle, calm",
+      "cold": "Very",
+      "broody": "Sometimes",
+      "purpose": "Dual/Meat"
+    },
+    {
+      "breed": "Silkie",
+      "eggs": "100–120",
+      "color": "Cream",
+      "temperament": "Docile, broody",
+      "cold": "Moderate",
+      "broody": "Very often",
+      "purpose": "Ornamental"
+    },
+    {
+      "breed": "Cochin",
+      "eggs": "150–180",
+      "color": "Brown",
+      "temperament": "Docile",
+      "cold": "Very",
+      "broody": "Often",
+      "purpose": "Ornamental"
+    },
+    {
+      "breed": "Jersey Giant",
+      "eggs": "150–200",
+      "color": "Brown",
+      "temperament": "Gentle",
+      "cold": "Yes",
+      "broody": "Sometimes",
+      "purpose": "Meat/Dual"
+    }
+  ]
+}

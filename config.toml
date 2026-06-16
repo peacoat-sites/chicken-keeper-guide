@@ -21,6 +21,7 @@ enableEmoji = true
   pagerSize = 12
 
 [params]
+  youtube_channel = "UChlGoDsVWN5yHQB5CYMYM1w"
   page_bg = "#fef7ec"
   nav_style = "light"
   description = "Everything you need to raise healthy, happy backyard chickens,  breeds, coops, egg production, feeding, flock health, and more."

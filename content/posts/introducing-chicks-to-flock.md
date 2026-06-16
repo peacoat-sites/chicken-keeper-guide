@@ -3,7 +3,7 @@ title: "Introducing Chicks To Flock"
 date: 2026-06-08T09:54:49.859484+00:00
 draft: false
 description: "Learn how to safely introduce chicks to your flock with our step-by-step guide. Reduce stress and pecking order issues for happy, healthy chickens."
-image: "https://images.pexels.com/photos/35282555/pexels-photo-35282555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37469812/pexels-photo-37469812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["flock"]
 tags: ["introducing", "chicks", "flock"]
 slug: "introducing-chicks-to-flock"
@@ -113,4 +113,4 @@ A bullied chick will hide, stop eating, and lose weight fast. If you see a bird 
 
 The first integration I ever did, I opened the divider after ten days and called it good because the hens "seemed used to each other." Lost a pullet by sundown. The second time I waited four full weeks, added a second feeder, and did the lights-out coop transfer. Everyone survived. The process is slower and more watchful than the websites make it sound, but it's not complicated. Give it time, give them space, and don't take your eyes off them too soon.
 
-*Photo: [Valentin Ivantsov](https://www.pexels.com/@valentin-ivantsov-2154772556) via Pexels*
+*Photo: [Sound Designer S.K Pramanik](https://www.pexels.com/@sound-designer-s-k-pramanik-785950771) via Pexels*

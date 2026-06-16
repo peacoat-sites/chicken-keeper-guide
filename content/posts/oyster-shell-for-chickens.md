@@ -3,7 +3,7 @@ title: "Oyster Shell For Chickens"
 date: 2026-05-28T13:38:11.769972+00:00
 draft: false
 description: "Oyster shell supplements support chicken bone health and eggshell strength. Learn about calcium benefits, proper dosing, and feeding guidelines for laying hens."
-image: "https://images.pexels.com/photos/15944112/pexels-photo-15944112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/10375840/pexels-photo-10375840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["feeding"]
 tags: ["oyster", "shell", "chickens"]
 slug: "oyster-shell-for-chickens"
@@ -121,4 +121,4 @@ Most hens start laying between 18 and 24 weeks old, depending on breed. You shou
 
 Oyster shell isn't glamorous, but it's one of the simplest and most effective things you can do for your laying flock. A properly stocked oyster shell feeder costs almost nothing to maintain, takes ten seconds to refill, and can be the difference between beautiful, strong-shelled eggs and a frustrating parade of cracked disasters. Get a small container, fill it up, and let your hens do the rest.
 
-*Photo: [Serg Alesenko](https://www.pexels.com/@sergk1) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

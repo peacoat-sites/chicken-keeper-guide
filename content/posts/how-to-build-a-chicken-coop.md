@@ -3,7 +3,7 @@ title: "How To Build A Chicken Coop"
 date: 2026-05-21T14:55:16.569293+00:00
 draft: false
 description: "Learn how to build a chicken coop with our step-by-step guide. Discover materials, tools, and expert tips to create a safe and comfortable home for your flock."
-image: "https://images.pexels.com/photos/15434035/pexels-photo-15434035.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7790131/pexels-photo-7790131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["build", "chicken", "coop"]
 slug: "how-to-build-a-chicken-coop"

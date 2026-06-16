@@ -3,7 +3,7 @@ title: "Friendly Chicken Breeds"
 date: 2026-05-21T02:38:53.246058+00:00
 draft: false
 description: "Discover the friendliest chicken breeds perfect for backyard flocks. Learn which breeds are calm, docile, and great with kids to find your ideal feathered compa"
-image: "https://images.pexels.com/photos/29707952/pexels-photo-29707952.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6436484/pexels-photo-6436484.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["friendly", "chicken", "breeds"]
 slug: "friendly-chicken-breeds"
@@ -112,4 +112,4 @@ If you're adding new birds to an existing flock, [adding extra feeders and water
 
 There's something genuinely good about a flock of chickens that trusts you. It makes the whole experience more rewarding, the daily chores more enjoyable, and the inevitable hard parts, like treating a sick bird or culling a suffering one, just a little more manageable when you've built a real relationship with your animals. Start with a friendly breed, handle them early and consistently, feed them well, and give them space to thrive. You might end up with a hen on your knee before you know it.
 
-*Photo: [Ivan Babydov](https://www.pexels.com/@babydov) via Pexels*
+*Photo: [TIVASEE .](https://www.pexels.com/@tivasee-17374727) via Pexels*

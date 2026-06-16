@@ -3,7 +3,7 @@ title: "Marek'S Disease Chickens"
 date: 2026-05-23T22:28:25.896013+00:00
 draft: false
 description: "Marek's disease in chickens explained: causes, symptoms, prevention and vaccination tips to help protect your flock from this common and serious viral condition"
-image: "https://images.pexels.com/photos/36013407/pexels-photo-36013407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14776339/pexels-photo-14776339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["Marek's", "disease", "chickens"]
 slug: "mareks-disease-chickens"
@@ -141,4 +141,4 @@ For a deeper understanding of poultry disease management, Gail Damerow's [*The M
 
 Marek's disease is genuinely hard. It's one of the few chicken health problems where doing everything right still doesn't guarantee you won't lose birds. What you can control is the vaccine status of your chicks, the sources you buy from, your quarantine discipline, and how quickly you respond when something looks wrong. That's not nothing. Most of the bad outcomes I've seen came from skipping one of those four things, usually more than one, usually early on when the keeper didn't yet know what they didn't know. You do now.
 
-*Photo: [Ivan Babydov](https://www.pexels.com/@babydov) via Pexels*
+*Photo: [Quang Nguyen Vinh](https://www.pexels.com/@quang-nguyen-vinh-222549) via Pexels*

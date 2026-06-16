@@ -3,7 +3,7 @@ title: "Chicken Run Size Requirements"
 date: 2026-05-22T18:44:08.513237+00:00
 draft: false
 description: "Free-range or backyard flock? Learn the ideal chicken run size requirements to keep your hens healthy, happy, and stress-free with our easy guide."
-image: "https://images.pexels.com/photos/33441868/pexels-photo-33441868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/12888523/pexels-photo-12888523.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["chicken", "size", "requirements"]
 slug: "chicken-run-size-requirements"
@@ -118,4 +118,4 @@ Feed and water placement matters too. Don't cluster everything in one corner. Sp
 
 Chicken keeping is one of those hobbies where the setup decisions you make in the first few weeks affect your experience for years. Get the space right from the beginning and you'll spend your time enjoying your flock instead of troubleshooting the problems that come from putting too many birds in too small a space. When in doubt, build bigger. The chickens will use every square foot you give them, and they'll reward you for it.
 
-*Photo: [Shani Clicks](https://www.pexels.com/@shani-clicks-247211483) via Pexels*
+*Photo: [Sarah-Claude Lévesque St-Louis](https://www.pexels.com/@sarah-claude-levesque-st-louis-156920272) via Pexels*

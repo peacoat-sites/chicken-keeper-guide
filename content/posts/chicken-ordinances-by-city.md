@@ -3,7 +3,7 @@ title: "Chicken Ordinances By City"
 date: 2026-06-02T12:52:23.082202+00:00
 draft: false
 description: "Find out if backyard chickens are allowed in your city. Explore local chicken ordinances, zoning laws, and flock size limits to stay compliant with your municip"
-image: "https://images.pexels.com/photos/30468865/pexels-photo-30468865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/18474429/pexels-photo-18474429.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["legal"]
 tags: ["chicken", "ordinances", "city"]
 slug: "chicken-ordinances-by-city"
@@ -99,4 +99,4 @@ This isn't a comprehensive database, but it gives you a realistic framework for 
 One consistent pattern: cities that updated their ordinances after 2010 tend to be more reasonable than cities running on codes written in the 1970s or 1980s. If your city's ordinance looks like it was written when Carter was president, there's often both a regulatory gap and an opportunity to advocate for modernization.
 
 
-*Photo: [Djordje Vezilic](https://www.pexels.com/@djordje-vezilic-59599374) via Pexels*
+*Photo: [Steven Van Elk](https://www.pexels.com/@steven-van-elk-9757164) via Pexels*

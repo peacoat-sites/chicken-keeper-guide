@@ -3,7 +3,7 @@ title: "Nesting Boxes For Chickens"
 date: 2026-05-27T17:18:09.248694+00:00
 draft: false
 description: "Discover the best nesting boxes for chickens to maximize egg production and keep your flock comfortable. Learn sizes, materials, and installation tips."
-image: "https://images.pexels.com/photos/36730527/pexels-photo-36730527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35399517/pexels-photo-35399517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["nesting", "boxes", "chickens"]
 slug: "nesting-boxes-for-chickens"
@@ -112,4 +112,4 @@ Dirty eggs usually come down to two things: soiled bedding and hens sleeping in 
 
 Getting nesting boxes right is one of those things that pays dividends every single day. Clean eggs, predictable collection spots, and hens that actually use what you've built. Take the time to get the size, placement, and bedding dialed in, and you won't have to think about it much after that. If you're still working through the basics of your coop setup, the [chicken coop ventilation](/chicken-coop-ventilation/) guide is a natural next read since airflow directly affects how fresh and dry your nesting areas stay year-round.
 
-*Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*
+*Photo: [Thái Trường Giang](https://www.pexels.com/@tieugiang007) via Pexels*

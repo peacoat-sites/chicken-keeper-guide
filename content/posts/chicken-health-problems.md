@@ -3,7 +3,7 @@ title: "Chicken Health Problems"
 date: 2026-05-21T11:43:47.120546+00:00
 draft: false
 description: "Learn to identify and treat common chicken health problems including respiratory infections, mites, worms, and more to keep your flock happy and thriving."
-image: "https://images.pexels.com/photos/32594274/pexels-photo-32594274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11891477/pexels-photo-11891477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["chicken", "health", "problems"]
 slug: "chicken-health-problems"
@@ -105,4 +105,4 @@ When you find a bird that's "off," don't panic. Work through this systematically
 
 The birds that thrive in backyard flocks usually have one thing in common: an observant keeper. You don't need a veterinary degree to catch problems early. You just need to look at your chickens every single day with real attention, know what's normal for them, and act fast when something's off. Most of the conditions covered here are manageable if you catch them early. It's the waiting and hoping that costs birds their lives.
 
-*Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*
+*Photo: [Weder Soares Dos Santos](https://www.pexels.com/@weder-soares-dos-santos-202980724) via Pexels*

@@ -3,7 +3,7 @@ title: "Cost Of Raising Chickens"
 date: 2026-06-05T12:22:30.058283+00:00
 draft: false
 description: "Discover the true cost of raising chickens, from buying chicks and building coops to ongoing feed and care expenses, to help you budget effectively."
-image: "https://images.pexels.com/photos/20631804/pexels-photo-20631804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/27557663/pexels-photo-27557663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["finances"]
 tags: ["cost", "raising", "chickens"]
 slug: "cost-of-raising-chickens"
@@ -98,7 +98,7 @@ What surprised me most after ten years is how the costs become almost invisible 
 
 After ten years, I'm still in this. The math has never fully worked out on paper. But I went out to the coop this morning at 7am in January, cracked four eggs for breakfast, and the yolks were a color you don't see in grocery store eggs. That's the real answer to whether it's worth it.
 
-*Photo: [FurtherMore Studio](https://www.pexels.com/@bobo) via Pexels*
+*Photo: [Bruna  Fossile](https://www.pexels.com/@bruna-fossile-183845208) via Pexels*
 
 ---
 

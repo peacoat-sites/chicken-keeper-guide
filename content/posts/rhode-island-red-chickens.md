@@ -3,7 +3,7 @@ title: "Rhode Island Red Chickens"
 date: 2026-05-26T22:04:09.125718+00:00
 draft: false
 description: "Discover everything about Rhode Island Red chickens, from their hardy nature and egg-laying ability to care tips, history, and why they make ideal backyard bird"
-image: "https://images.pexels.com/photos/16180500/pexels-photo-16180500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5371180/pexels-photo-5371180.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["Rhode", "Island", "chickens"]
 slug: "rhode-island-red-chickens"
@@ -108,4 +108,4 @@ RIRs are generally a healthy breed. They don't have the genetic issues you see i
 
 Twelve years in, Rhode Island Reds still hold a regular place in my flock. They're not glamorous birds. They don't have the feathered feet of a Cochin or the striking plumage of an Easter Egger. What they have is reliability, and in a backyard flock, that's worth a lot. If you go in with accurate expectations, which is to say a productive, assertive, cold-tolerant bird that will lay eggs through conditions that would sideline fancier breeds, you'll almost certainly be glad you started with one.
 
-*Photo: [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646) via Pexels*
+*Photo: [Brett Jordan](https://www.pexels.com/@brettjordan) via Pexels*

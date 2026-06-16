@@ -3,7 +3,7 @@ title: "Aggressive Chickens"
 date: 2026-06-04T12:21:13.758126+00:00
 draft: false
 description: "Discover why chickens turn aggressive, what triggers their behavior, and how to calm or manage hostile hens and roosters to keep your flock peaceful and safe."
-image: "https://images.pexels.com/photos/9931254/pexels-photo-9931254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/26846854/pexels-photo-26846854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["flock"]
 tags: ["aggressive", "chickens"]
 slug: "aggressive-chickens"
@@ -109,4 +109,4 @@ One thing I want to say clearly: if your flock has been aggressive for a long ti
 
 None of this is easy when you're in the middle of it. A rooster who spurred you this morning doesn't feel like a training project, he feels like a problem. But most of these situations are genuinely workable if you understand what's driving them. The flock that's calm enough to enjoy is worth the effort of figuring that out.
 
-*Photo: [Djordje Vezilic](https://www.pexels.com/@djordje-vezilic-59599374) via Pexels*
+*Photo: [Justiniano Adriano](https://www.pexels.com/@justinianoadriano) via Pexels*

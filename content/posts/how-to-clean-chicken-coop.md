@@ -3,7 +3,7 @@ title: "How To Clean Chicken Coop"
 date: 2026-05-27T20:15:39.794079+00:00
 draft: false
 description: "Learn how to clean a chicken coop step by step. Discover the best tools, cleaning products, and schedules to keep your flock healthy and your coop odor-free."
-image: "https://images.pexels.com/photos/6195274/pexels-photo-6195274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5704306/pexels-photo-5704306.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["clean", "chicken", "coop"]
 slug: "how-to-clean-chicken-coop"
@@ -158,4 +158,4 @@ After a decade-plus of this, I've made all of these at one point.
 
 There's no glamorous way to clean a chicken coop. You're going to sweat, your back's going to ache a little, and you'll probably track something into your house despite your best intentions. But nothing in chicken keeping pays off more consistently than staying on top of this one task. Healthy birds lay better, grow faster, and need less intervention from you. A clean coop is the foundation everything else gets built on, and once you have a system that works, it stops feeling like a chore and starts feeling like maintenance you actually trust.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Bulat Khamitov](https://www.pexels.com/@bulat) via Pexels*

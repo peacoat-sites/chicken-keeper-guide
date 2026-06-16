@@ -3,7 +3,7 @@ title: "How To Break A Broody Hen"
 date: 2026-05-24T03:00:44.545772+00:00
 draft: false
 description: "Discover simple, humane methods to break a broody hen quickly and get her laying eggs again. Learn the most effective techniques every chicken keeper should kno"
-image: "https://images.pexels.com/photos/32515820/pexels-photo-32515820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/10316778/pexels-photo-10316778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["eggs"]
 tags: ["break", "broody"]
 slug: "how-to-break-a-broody-hen"
@@ -118,4 +118,4 @@ There's no permanent cure for a broody-prone hen. Hormonal implants exist in a v
 
 Broodiness is one of those things that feels more alarming the first time you encounter it than it actually is. The growling, the puffed feathers, the empty nest box she's guarding with her life, it's all just biology doing exactly what it was shaped over thousands of years to do. Once you understand what's happening and why the cage method works, you'll handle it quickly and confidently every time it comes up. And in a flock with any heritage breed influence, it will come up again.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Thobane Innocent](https://www.pexels.com/@thobane-innocent-2879418) via Pexels*

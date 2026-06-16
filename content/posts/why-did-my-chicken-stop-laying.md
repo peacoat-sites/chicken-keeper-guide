@@ -3,7 +3,7 @@ title: "Why Did My Chicken Stop Laying"
 date: 2026-05-26T12:58:00.842780+00:00
 draft: false
 description: "Find out why your chicken stopped laying eggs. Learn about common causes like molting, stress, diet, lighting changes, and age, plus tips to boost production."
-image: "https://images.pexels.com/photos/18474426/pexels-photo-18474426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6897351/pexels-photo-6897351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["eggs"]
 tags: ["chicken", "stop", "laying"]
 slug: "why-did-my-chicken-stop-laying"
@@ -126,4 +126,4 @@ Unless you see signs of illness or distress, give a healthy-looking hen two week
 
 The honest truth about keeping chickens is that egg production is a moving target. Light, age, health, stress, season, and biology are all pulling in different directions at once. A hen who laid reliably for two years isn't broken just because she stopped last week. Work through the possibilities methodically, give her what she needs, and most of the time she'll come back around. And if she doesn't, well, that's what retirement looks like for a chicken who's earned it.
 
-*Photo: [Ivan Babydov](https://www.pexels.com/@babydov) via Pexels*
+*Photo: [ROMAN ODINTSOV](https://www.pexels.com/@roman-odintsov) via Pexels*

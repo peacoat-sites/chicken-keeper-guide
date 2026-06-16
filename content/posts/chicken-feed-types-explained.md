@@ -3,7 +3,7 @@ title: "Chicken Feed Types Explained"
 date: 2026-05-27T02:40:51.957892+00:00
 draft: false
 description: "Discover the different types of chicken feed including starter, grower, and layer feeds. Learn which feed is best for your flock at each stage of life."
-image: "https://images.pexels.com/photos/29275539/pexels-photo-29275539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4911782/pexels-photo-4911782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["feeding"]
 tags: ["chicken", "feed", "types", "explained"]
 slug: "chicken-feed-types-explained"
@@ -103,4 +103,4 @@ Most backyard keepers use a free-choice feeder, keeping it filled at all times. 
 
 If you're just getting started with your flock, figuring out feed is one of the first real decisions you'll make. Get the life-stage match right, keep your feed fresh, don't overdo the scratch, and you're already ahead of a lot of people. Pair good feed management with solid [coop ventilation](/chicken-coop-ventilation/) and a smart setup from the beginning, and your birds will show you the results in their feathers, energy, and egg production. Feed is probably the most controllable variable you have. Use that to your advantage.
 
-*Photo: [Italo Melo](https://www.pexels.com/@italo-melo-248867) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

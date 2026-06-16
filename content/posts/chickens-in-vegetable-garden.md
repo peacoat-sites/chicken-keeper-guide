@@ -3,7 +3,7 @@ title: "Chickens In Vegetable Garden"
 date: 2026-06-11T09:20:07.203428+00:00
 draft: false
 description: "Discover how to use chickens in your vegetable garden to control pests, fertilize soil, and boost yields while keeping your plants safe from scratching and over"
-image: "https://images.pexels.com/photos/7790123/pexels-photo-7790123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/30669194/pexels-photo-30669194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["sustainability"]
 tags: ["chickens", "vegetable", "garden"]
 slug: "chickens-in-vegetable-garden"
@@ -93,4 +93,4 @@ Heavier, calmer breeds scratch less destructively and are easier to work around:
 
 Give it one full season with deliberate timing and even basic fencing, and most people find the relationship genuinely works. The trick isn't keeping chickens out of the garden forever. It's controlling when they're in it.
 
-*Photo: [Ivan Babydov](https://www.pexels.com/@babydov) via Pexels*
+*Photo: [Friede Dia](https://www.pexels.com/@friededia) via Pexels*

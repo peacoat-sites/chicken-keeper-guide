@@ -3,7 +3,7 @@ title: "Brooder Setup For Chicks"
 date: 2026-06-05T12:20:35.157968+00:00
 draft: false
 description: "Keep your chicks warm and healthy with the perfect brooder setup. Learn about heat lamps, bedding, feeders, waterers, and space requirements for happy chicks."
-image: "https://images.pexels.com/photos/16733506/pexels-photo-16733506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7883820/pexels-photo-7883820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["chicks"]
 tags: ["brooder", "setup", "chicks"]
 slug: "brooder-setup-for-chicks"
@@ -93,4 +93,4 @@ Get the heat gradient right, keep the bedding dry, check for pasty butt every mo
 
 *This post may contain affiliate links. As an Amazon Associate, Backyard Chickens & Poultry may earn a commission from qualifying purchases at no extra cost to you.*
 
-*Photo: [Brett Jordan](https://www.pexels.com/@brettjordan) via Pexels*
+*Photo: [Cheryl Prince](https://www.pexels.com/@cheryl-prince-55232333) via Pexels*

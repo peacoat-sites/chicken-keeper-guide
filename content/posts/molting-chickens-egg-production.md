@@ -3,7 +3,7 @@ title: "Molting Chickens Egg Production"
 date: 2026-05-24T05:08:13.844302+00:00
 draft: false
 description: "Discover how molting affects your chickens egg production, how long it lasts, and simple tips to support your flock and get them laying again faster."
-image: "https://images.pexels.com/photos/34000202/pexels-photo-34000202.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6806626/pexels-photo-6806626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["eggs"]
 tags: ["molting", "chickens", "production"]
 slug: "molting-chickens-egg-production"
@@ -103,4 +103,4 @@ What the molt does provide is a kind of biological reset for health. Hens that c
 
 The molt is one of those parts of chicken keeping that tests your patience more than your skills. You can optimize the nutrition, manage the environment, and do everything right, and you're still going to go weeks without eggs from birds that look like they belong in a horror movie. But when a hen you've watched go from scraggly mess to fully feathered-out walks through the coop door in November looking like she just stepped out of a show ring, it's one of the more quietly satisfying things about keeping chickens. The eggs come back. They always do.
 
-*Photo: [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646) via Pexels*
+*Photo: [Brandie Robbins](https://www.pexels.com/@brandie) via Pexels*

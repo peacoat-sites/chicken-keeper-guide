@@ -3,7 +3,7 @@ title: "Starting A Backyard Flock"
 date: 2026-05-22T01:59:09.426078+00:00
 draft: false
 description: "Thinking about raising chickens at home? Learn everything you need to start a healthy backyard flock, from choosing breeds to housing, feeding, and daily care t"
-image: "https://images.pexels.com/photos/16654336/pexels-photo-16654336.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4566555/pexels-photo-4566555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["starting", "backyard", "flock"]
 slug: "starting-a-backyard-flock"
@@ -117,4 +117,4 @@ A good reference book keeps on my shelf and gets real use: [Storey's Guide to Ra
 
 Twelve years ago I knew absolutely nothing about chickens. I killed a few, I made plenty of mistakes, and I learned most of what I know by getting it wrong first. But I also collected that first egg with both hands, and every spring when the pullets start laying and the eggs come in small and frequent and completely impractical for a family that already has 60 eggs in the fridge, I remember why I do this. It's not just the eggs. It's the whole ridiculous, wonderful thing. If you're ready to start, start small, start prepared, and don't be afraid to get it a little wrong along the way.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Julissa Pires](https://www.pexels.com/@julissapires) via Pexels*

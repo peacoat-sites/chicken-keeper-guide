@@ -3,7 +3,7 @@ title: "Chicken Coop Plans Free"
 date: 2026-05-23T19:56:08.352260+00:00
 draft: false
 description: "Build your own chicken coop with our free plans! Step-by-step guides for all skill levels, flock sizes, and budgets. Start saving money and housing hens today."
-image: "https://images.pexels.com/photos/18833781/pexels-photo-18833781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/10198323/pexels-photo-10198323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["chicken", "coop", "plans", "free"]
 slug: "chicken-coop-plans-free"
@@ -123,4 +123,4 @@ Start your bedding with 4 inches of pine shavings, not straw. Straw mats and hol
 
 Building your first coop from a free plan is a completely achievable weekend project, even for people who've never framed a wall in their lives. The plans are out there. The community knowledge is there. What makes the difference is slowing down long enough to evaluate what you're looking at before you buy a single board. Get the square footage right, get the ventilation right, and use hardware cloth everywhere it counts. Do those three things and your birds will thrive in whatever structure you build, free plan or otherwise.
 
-*Photo: [Djordje Vezilic](https://www.pexels.com/@djordje-vezilic-59599374) via Pexels*
+*Photo: [Sergei Starostin](https://www.pexels.com/@sejio402) via Pexels*

@@ -3,7 +3,7 @@ title: "A Wave of Cities Is Legalizing Backyard Chickens Right Now"
 date: 2026-06-15T11:22:48.087481+00:00
 draft: false
 description: "Discover why cities across the US are changing laws to allow backyard chickens, what it means for residents, and how you can start your own small flock at home."
-image: "https://images.pexels.com/photos/35380960/pexels-photo-35380960.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/32778819/pexels-photo-32778819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["trending"]
 tags: ["wave", "cities", "legalizing", "backyard", "chickens"]
 author: "Carol Thompson"
@@ -72,4 +72,4 @@ The wave is real. Whether it reaches your city depends partly on advocates, part
 - [Rules for backyard chickens get first look](https://www.fordcountychronicle.com/articles/featured/rules-for-backyard-chickens-get-first-look/) (June 10, 2026)
 - [Legal and Finance Committee approves 2nd reading of backyard chickens ordinance](https://rapidcityjournal.com/news/local/government-politics/article_51a019f0-26df-4516-abbc-71c87c39d48a.html) (April 15, 2026)
 
-*Photo: [Aziz Er](https://www.pexels.com/@aziz-er-2158219793) via Pexels*
+*Photo: [karl sune](https://www.pexels.com/@karl-sune-666309596) via Pexels*

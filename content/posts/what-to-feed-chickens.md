@@ -3,7 +3,7 @@ title: "What To Feed Chickens"
 date: 2026-05-26T06:26:48.117830+00:00
 draft: false
 description: "Discover what to feed chickens for optimal health and egg production. Learn the best grains, vegetables, proteins, and foods to avoid for a happy, thriving floc"
-image: "https://images.pexels.com/photos/35771810/pexels-photo-35771810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35479289/pexels-photo-35479289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["feeding"]
 tags: ["what", "feed", "chickens"]
 slug: "what-to-feed-chickens"
@@ -125,4 +125,4 @@ Fresh water is not a separate topic. It's part of feeding. A hen who can't acces
 
 Feeding chickens well doesn't require a nutrition degree or an expensive setup. It mostly requires paying attention: to your feed quality, to what your birds actually look like and how they're laying, and to the season. A flock that's eating right shows it in their feathers, their activity level, and the eggs they produce. Get the basics right and they'll reward you for it in ways that make the whole endeavor genuinely worth doing.
 
-*Photo: [Italo Melo](https://www.pexels.com/@italo-melo-248867) via Pexels*
+*Photo: [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283) via Pexels*

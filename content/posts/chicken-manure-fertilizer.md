@@ -3,7 +3,7 @@ title: "Chicken Manure Fertilizer"
 date: 2026-06-09T08:42:32.245468+00:00
 draft: false
 description: "Discover how chicken manure fertilizer enriches soil with essential nutrients, boosts plant growth, and improves garden yields naturally. Learn safe application"
-image: "https://images.pexels.com/photos/21482835/pexels-photo-21482835.png?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7728736/pexels-photo-7728736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["sustainability"]
 tags: ["chicken", "manure", "fertilizer"]
 slug: "chicken-manure-fertilizer"
@@ -77,4 +77,4 @@ One thing nobody talks about: the deep litter method is not appropriate for ever
 
 Six hundred pounds of free fertilizer a year. If nothing else, let that number change how you think about coop cleaning day.
 
-*Photo: [Lilly Grace](https://www.pexels.com/@lilly-grace-944249302) via Pexels*
+*Photo: [Greta Hoffman](https://www.pexels.com/@greta-hoffman) via Pexels*

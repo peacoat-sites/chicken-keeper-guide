@@ -3,7 +3,7 @@ title: "Chicken Treats Healthy"
 date: 2026-06-12T09:11:44.271340+00:00
 draft: false
 description: "Discover delicious and nutritious chicken treats your whole family will love. From baked bites to grilled snacks, enjoy healthy, protein-packed recipes guilt-fr"
-image: "https://images.pexels.com/photos/34593238/pexels-photo-34593238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14124745/pexels-photo-14124745.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["feeding"]
 tags: ["chicken", "treats", "healthy"]
 slug: "chicken-treats-healthy"
@@ -79,4 +79,4 @@ Scratch grains deserve a specific mention because they're probably the most misu
 
 Feed your birds well, treat them thoughtfully, and don't let the internet convince you that your chickens need a gourmet snack rotation to be healthy. They don't. They need complete feed, clean water, and the occasional mealworm. Everything else is bonus.
 
-*Photo: [Davide Negro](https://www.pexels.com/@davide-negro-2157018402) via Pexels*
+*Photo: [Avinash reddy  Kosna](https://www.pexels.com/@avinash-reddy-kosna-227061) via Pexels*

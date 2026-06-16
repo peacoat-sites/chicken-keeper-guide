@@ -3,7 +3,7 @@ title: "Mealworms For Chickens"
 date: 2026-06-14T08:50:41.935939+00:00
 draft: false
 description: "Discover the benefits of feeding mealworms to chickens, including boosted protein, improved feather health, and tips for safe serving sizes your flock will love"
-image: "https://images.pexels.com/photos/34087921/pexels-photo-34087921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7782058/pexels-photo-7782058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["feeding"]
 tags: ["mealworms", "chickens"]
 slug: "mealworms-for-chickens"
@@ -71,4 +71,4 @@ Keep a separate oyster shell feeder available free-choice at all times, full sto
 
 After ten years, mealworms are still one of my favorite tools for bonding with new birds and getting reluctant hens to eat something medicated they'd otherwise refuse. The trick is keeping them exactly where they belong: a small, deliberate part of the routine, not the main event.
 
-*Photo: [Gundula Vogel](https://www.pexels.com/@guvo59) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

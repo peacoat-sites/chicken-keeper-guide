@@ -3,7 +3,7 @@ title: "Cold Hardy Chicken Breeds"
 date: 2026-05-22T08:08:39.929857+00:00
 draft: false
 description: "Discover the best cold hardy chicken breeds that thrive in winter weather. Learn which breeds handle freezing temps best for a healthy, productive backyard floc"
-image: "https://images.pexels.com/photos/30757600/pexels-photo-30757600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7525714/pexels-photo-7525714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["cold", "hardy", "chicken", "breeds"]
 slug: "cold-hardy-chicken-breeds"
@@ -102,4 +102,4 @@ Water management is critical and underestimated. Chickens won't eat well if they
 
 Breed selection is one of those decisions that pays dividends for years if you get it right, or costs you headaches every single winter if you don't. A well-chosen flock of Wyandottes, Buckeyes, or Barred Rocks, kept in a properly ventilated coop with good winter nutrition, will surprise you with how little drama they create even in serious cold. That's the kind of flock that makes you actually enjoy the February morning coop check instead of dreading it.
 
-*Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*
+*Photo: [Nida Kurt](https://www.pexels.com/@nida-kurt-5079840) via Pexels*

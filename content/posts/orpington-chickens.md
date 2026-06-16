@@ -3,7 +3,7 @@ title: "Orpington Chickens"
 date: 2026-05-23T21:54:38.700979+00:00
 draft: false
 description: "Discover the friendly and docile Orpington chicken breed. Learn about their history, temperament, egg production, and why they make perfect backyard flock addit"
-image: "https://images.pexels.com/photos/5840692/pexels-photo-5840692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36025495/pexels-photo-36025495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["Orpington", "chickens"]
 slug: "orpington-chickens"
@@ -123,4 +123,4 @@ The Australorp is worth mentioning here because it's basically what you get if y
 
 Orpingtons won't set any records in the egg basket, and they'll never be the hardiest bird in a rough environment. But if you want a chicken that your kids can name and carry around, a hen that will raise her own chicks with genuine dedication, and a flock that looks like it belongs on a painted barn calendar, you'd be hard-pressed to do better. After 12 years of keeping dozens of breeds, I still make room for at least a few Orpingtons in my flock every single season. Some things just earn their place.
 
-*Photo: [Italo Melo](https://www.pexels.com/@italo-melo-248867) via Pexels*
+*Photo: [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283) via Pexels*

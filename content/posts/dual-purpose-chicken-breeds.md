@@ -3,7 +3,7 @@ title: "Dual Purpose Chicken Breeds"
 date: 2026-05-24T08:42:18.781611+00:00
 draft: false
 description: "Discover the best dual purpose chicken breeds that excel at both egg laying and meat production, perfect for backyard flocks and homesteaders seeking self-suffi"
-image: "https://images.pexels.com/photos/35383651/pexels-photo-35383651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34415132/pexels-photo-34415132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["dual", "purpose", "chicken", "breeds"]
 slug: "dual-purpose-chicken-breeds"
@@ -100,4 +100,4 @@ Meanwhile your 12 pullets, once laying, will produce somewhere around 240 to 270
 Feed costs, bedding, and infrastructure are real expenses that offset this. I'm not suggesting you'll get rich. But when people say backyard chickens "never pay for themselves," they're usually talking about a poorly planned ornamental flock, not a well-managed dual purpose setup.
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Andrew Swarga](https://www.pexels.com/@andrew-swarga-87684510) via Pexels*

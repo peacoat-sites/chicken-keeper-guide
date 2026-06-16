@@ -3,7 +3,7 @@ title: "Egg Production Per Year By Breed"
 date: 2026-05-25T12:09:18.854248+00:00
 draft: false
 description: "Discover which chicken breeds lay the most eggs per year. Compare top laying breeds, annual egg counts, and find the best hens for your backyard flock."
-image: "https://images.pexels.com/photos/2255459/pexels-photo-2255459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6294239/pexels-photo-6294239.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["eggs"]
 tags: ["production", "year", "breed"]
 slug: "egg-production-per-year-by-breed"
@@ -120,4 +120,4 @@ Don't just pick breeds by the top number. Do the math for your specific situatio
 
 Breed selection isn't the only variable in backyard egg production, but it's the one you can control completely before you spend a dollar on feed or build a square foot of coop. Get this decision right and everything else gets easier. Get it wrong and you'll spend a year overfeeding underperforming birds while blaming your management when the problem was always in the catalog photo you ordered from.
 
-*Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*
+*Photo: [Klaus Nielsen](https://www.pexels.com/@klaus-nielsen) via Pexels*

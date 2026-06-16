@@ -3,7 +3,7 @@ title: "HOA Rules Backyard Chickens"
 date: 2026-06-15T11:24:36.857130+00:00
 draft: false
 description: "Find out how HOA rules affect backyard chickens, what restrictions to expect, and how homeowners can navigate covenants to keep hens legally."
-image: "https://images.pexels.com/photos/5864220/pexels-photo-5864220.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15689798/pexels-photo-15689798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["legal"]
 tags: ["rules", "backyard", "chickens"]
 author: "Dr. Tom Henderson"
@@ -79,4 +79,4 @@ Offer a trial period. Boards respond to "let's try this for six months with thes
 
 The legal landscape around backyard hens in HOA communities is genuinely changing. More people want to know where their food comes from, and that's slowly showing up in how communities write and enforce these rules. Whether you're starting with a formal proposal or just trying to understand what your CC&Rs actually say, the work of doing this right is worth it. Getting your birds removed after you've fallen in love with a flock is one of the worst outcomes in this hobby. I've seen it happen, and it's avoidable.
 
-*Photo: [Rachel Claire](https://www.pexels.com/@rachel-claire) via Pexels*
+*Photo: [Mohan Nannapaneni](https://www.pexels.com/@mnannapaneni) via Pexels*

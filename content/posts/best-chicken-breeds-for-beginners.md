@@ -3,7 +3,7 @@ title: "Best Chicken Breeds For Beginners"
 date: 2026-05-26T08:03:25.684641+00:00
 draft: false
 description: "Discover the best chicken breeds for beginners, including friendly, easy-to-raise options perfect for backyard flocks. Start your chicken-keeping journey with c"
-image: "https://images.pexels.com/photos/28751650/pexels-photo-28751650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15232801/pexels-photo-15232801.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["best", "chicken", "breeds", "beginners"]
 slug: "best-chicken-breeds-for-beginners"
@@ -119,4 +119,4 @@ Choosing the right breed is step one. What you do next determines whether those 
 **Step 6: Have a basic first aid kit ready.** Vetericyn wound spray, Corid for coccidiosis (the number one killer of young chicks), and a poultry vitamin supplement like Nutri-Drench. You won't need all of it. But you'll be grateful it's there the first time something goes sideways at 7 PM on a Sunday.
 
 
-*Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*
+*Photo: [Laura Alessia](https://www.pexels.com/@laualessia) via Pexels*

@@ -3,7 +3,7 @@ title: "Roosters In Backyard Flock"
 date: 2026-06-04T12:19:11.915227+00:00
 draft: false
 description: "Discover how to keep roosters in your backyard flock, from their benefits and behaviors to managing crowing and integrating them peacefully with hens."
-image: "https://images.pexels.com/photos/32782008/pexels-photo-32782008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33809645/pexels-photo-33809645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["flock"]
 tags: ["roosters", "backyard", "flock"]
 slug: "roosters-in-backyard-flock"
@@ -119,4 +119,4 @@ There's no magic fix. You manage it or you don't keep a rooster. That's the actu
 
 If you go into rooster ownership with clear eyes about the noise, the management requirements, and the realistic limits of what a rooster can and can't do for your flock, it's genuinely a worthwhile addition. The problem isn't roosters. It's the version of roosters people expect before they've had one.
 
-*Photo: [Italo Melo](https://www.pexels.com/@italo-melo-248867) via Pexels*
+*Photo: [Sóc Năng Động](https://www.pexels.com/@soc-nang-d-ng-2150345854) via Pexels*

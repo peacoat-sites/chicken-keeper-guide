@@ -3,7 +3,7 @@ title: "Sick Chicken Symptoms"
 date: 2026-05-25T19:20:20.139705+00:00
 draft: false
 description: "Spot sick chicken symptoms early to protect your flock. Learn the warning signs of illness, from lethargy to respiratory issues, and when to call a vet."
-image: "https://images.pexels.com/photos/15645658/pexels-photo-15645658.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14148444/pexels-photo-14148444.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["sick", "chicken", "symptoms"]
 slug: "sick-chicken-symptoms"
@@ -114,4 +114,4 @@ Infectious Coryza is a bacterial disease that smells. Literally, there's a foul,
 
 The hardest part of keeping chickens isn't the feed math or the coop construction. It's learning to read an animal that is biologically programmed not to show you it's struggling. The more time you spend with your birds when they're healthy, the faster you'll catch the moment something shifts. That gap, that window between "something's off" and "she's in crisis," is small and it closes faster than you think. Trust your gut when a bird doesn't look right. You'll be wrong sometimes. But the times you're right, it'll matter.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [cute 嘟](https://www.pexels.com/@cute-340348698) via Pexels*

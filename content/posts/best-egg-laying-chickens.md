@@ -3,7 +3,7 @@ title: "Best Egg Laying Chickens"
 date: 2026-05-22T03:07:42.352522+00:00
 draft: false
 description: "Discover the best egg laying chicken breeds for your flock. From prolific layers to hardy birds, find the perfect hens to keep your egg basket full year-round."
-image: "https://images.pexels.com/photos/32149473/pexels-photo-32149473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4911793/pexels-photo-4911793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["best", "laying", "chickens"]
 slug: "best-egg-laying-chickens"
@@ -98,4 +98,4 @@ A mixed-breed flock also gives you a buffer. Your ISA Browns carry production in
 For a family needing a dozen eggs a day, I'd suggest six to eight hens minimum, with some variation in breed and age. Factor in that not every hen lays every day even at peak, and you'll rarely have 100 percent of your flock laying simultaneously.
 
 
-*Photo: [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

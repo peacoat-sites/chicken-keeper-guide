@@ -3,7 +3,7 @@ title: "Chicken Coop Predator Protection"
 date: 2026-05-23T23:30:41.937914+00:00
 draft: false
 description: "Keep your flock safe with proven chicken coop predator protection tips. Learn how to secure your coop against foxes, raccoons, hawks, and more."
-image: "https://images.pexels.com/photos/20399927/pexels-photo-20399927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14051542/pexels-photo-14051542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["chicken", "coop", "predator", "protection"]
 slug: "chicken-coop-predator-protection"
@@ -114,4 +114,4 @@ If you already have a coop and need to harden it without rebuilding from scratch
 
 Predator-proofing a coop isn't a one-time project. It's an ongoing relationship between you and whatever wildlife shares your area. A setup that works for three years can fail when a new, bolder predator moves into the territory, or when a board rots loose and creates a gap you didn't notice. Walk your coop perimeter regularly, stay curious about what's happening at night, and don't let a run of good luck make you complacent. Your birds are depending on you to take this seriously, and the good news is that with the right materials and a little attention, you can keep them genuinely safe.
 
-*Photo: [Djordje Vezilic](https://www.pexels.com/@djordje-vezilic-59599374) via Pexels*
+*Photo: [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels) via Pexels*

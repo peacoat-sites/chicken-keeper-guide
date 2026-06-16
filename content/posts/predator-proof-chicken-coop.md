@@ -3,7 +3,7 @@ title: "Predator Proof Chicken Coop"
 date: 2026-05-26T20:18:45.737426+00:00
 draft: false
 description: "Build a predator proof chicken coop to keep your flock safe. Learn the best materials, locks, and design tips to protect chickens from foxes, raccoons, and more"
-image: "https://images.pexels.com/photos/6289100/pexels-photo-6289100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/21480502/pexels-photo-21480502.png?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["predator", "proof", "chicken", "coop"]
 slug: "predator-proof-chicken-coop"
@@ -108,4 +108,4 @@ Electric fencing deserves a mention here. It's not a replacement for physical ba
 
 Twelve years of keeping chickens has taught me that predator-proofing is never truly "done." It's an ongoing process of evaluating your setup, noticing what's changed in the local wildlife pressure, and fixing weak points before something else finds them first. The good news is that once you've got solid hardware cloth, a buried or aproned run, secure latches, and overhead coverage, you've eliminated 95% of the risk. The rest is staying observant. Your birds depend on you to be the one who notices before it's too late.
 
-*Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*
+*Photo: [Lilly Grace](https://www.pexels.com/@lilly-grace-944249302) via Pexels*

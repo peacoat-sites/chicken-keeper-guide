@@ -3,7 +3,7 @@ title: "Mites On Chickens"
 date: 2026-05-29T09:18:17.196791+00:00
 draft: false
 description: "Discover how to identify, treat, and prevent mites on chickens with our expert guide. Protect your flock's health and keep your hens happy and productive."
-image: "https://images.pexels.com/photos/8020440/pexels-photo-8020440.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15645691/pexels-photo-15645691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["mites", "chickens"]
 slug: "mites-on-chickens"

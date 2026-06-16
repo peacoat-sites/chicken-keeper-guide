@@ -3,7 +3,7 @@ title: "Heat Lamp For Chicks"
 date: 2026-06-03T14:09:49.538422+00:00
 draft: false
 description: "Keep baby chicks warm and healthy with the right heat lamp. Learn how to choose the best wattage, bulb type, and safe setup for your brooder."
-image: "https://images.pexels.com/photos/7782044/pexels-photo-7782044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3151647/pexels-photo-3151647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["chicks"]
 tags: ["heat", "lamp", "chicks"]
 slug: "heat-lamp-for-chicks"
@@ -98,4 +98,4 @@ Weeks 4-6: Continue dropping 5°F per week. Most chicks in a warm-ish space (abo
 
 The lamp hanging over a brooder at 2am on a February night is one of those things that looks simple until it isn't. Get the fixture right, get the temperature right, give the chicks room to move toward or away from the heat, and watch them more than you watch the thermometer. They'll tell you what they need.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Gilmer Diaz Estela](https://www.pexels.com/@gilmerdiaz) via Pexels*

@@ -3,7 +3,7 @@ title: "Chick Starter Feed"
 date: 2026-06-07T08:30:03.628543+00:00
 draft: false
 description: "Discover everything you need to know about chick starter feed, including nutrition, ingredients, and feeding tips to help your baby chicks grow healthy and stro"
-image: "https://images.pexels.com/photos/13654839/pexels-photo-13654839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37935725/pexels-photo-37935725.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["chicks"]
 tags: ["chick", "starter", "feed"]
 slug: "chick-starter-feed"
@@ -109,4 +109,4 @@ Turkey poults actually need a higher protein starter, around 28-30%, for the fir
 
 Buy the feed that makes sense for your setup, your values, and your birds. Keep it dry, know whether your chicks are vaccinated, and don't switch to layer feed too early. That's genuinely most of what there is to it.
 
-*Photo: [Xuân Thống Trần](https://www.pexels.com/@thongtran95) via Pexels*
+*Photo: [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283) via Pexels*

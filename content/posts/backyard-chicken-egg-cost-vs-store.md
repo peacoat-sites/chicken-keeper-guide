@@ -3,7 +3,7 @@ title: "Backyard Chicken Egg Cost Vs Store"
 date: 2026-06-06T07:55:43.357654+00:00
 draft: false
 description: "Discover if raising backyard chickens actually saves money on eggs. We break down real costs vs store prices to help you decide if it's worth it."
-image: "https://images.pexels.com/photos/6472465/pexels-photo-6472465.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15867214/pexels-photo-15867214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["finances"]
 tags: ["backyard", "chicken", "cost", "store"]
 slug: "backyard-chicken-egg-cost-vs-store"
@@ -121,7 +121,7 @@ Don't keep unproductive birds out of sentiment indefinitely. A hen in her third 
 
 The honest version is this: backyard chickens are a hobby that produces food, not a food production system that happens to be enjoyable. Once you accept that framing, the math stops being depressing and starts being beside the point. You're paying a premium for better eggs, a more connected relationship with your food, and, if you're anything like me, the small daily pleasure of watching six hens argue over a tomato hornworm. Some things don't need to pencil out.
 
-*Photo: [Misty Elchert](https://www.pexels.com/@misty-elchert-18139095) via Pexels*
+*Photo: [ZhiCheng Zhang](https://www.pexels.com/@zhicheng-zhang-312594413) via Pexels*
 
 ---
 

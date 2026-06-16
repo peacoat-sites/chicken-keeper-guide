@@ -3,7 +3,7 @@ title: "Easter Egger Chickens"
 date: 2026-05-29T19:14:48.905316+00:00
 draft: false
 description: "Discover everything about Easter Egger chickens, from their colorful egg varieties and friendly temperament to care tips, feeding needs, and why they make great"
-image: "https://images.pexels.com/photos/6141608/pexels-photo-6141608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/38018637/pexels-photo-38018637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["Easter", "Egger", "chickens"]
 slug: "easter-egger-chickens"
@@ -113,4 +113,4 @@ The practical takeaway: if you want colorful eggs, a friendly bird, and an affor
 
 Easter Eggers won't win any poultry show ribbons, and they'll never be perfectly predictable, but after twelve years and more flocks than I can count, they're the bird I always recommend to someone building their first backyard flock. The colored eggs are genuinely fun, the personalities are genuinely good, and the resilience is genuinely real. Give them decent feed, a clean coop, and a little daily attention, and they'll give you eggs and entertainment in equal measure for years.
 
-*Photo: [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646) via Pexels*
+*Photo: [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283) via Pexels*

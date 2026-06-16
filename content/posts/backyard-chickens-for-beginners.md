@@ -3,7 +3,7 @@ title: "Backyard Chickens For Beginners"
 date: 2026-05-28T22:45:10.780256+00:00
 draft: false
 description: "Learn how to raise backyard chickens with our beginner's guide. Discover essential tips on coops, feeding, breeds, and care to start your flock with confidence."
-image: "https://images.pexels.com/photos/17500797/pexels-photo-17500797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35089300/pexels-photo-35089300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["backyard", "chickens", "beginners"]
 slug: "backyard-chickens-for-beginners"
@@ -104,4 +104,4 @@ Have a vet in mind before you need one. Not every vet sees poultry, so find out 
 
 Chickens will surprise you. They have more personality than people expect, and a well-kept flock becomes part of the rhythm of your day in a way that's genuinely satisfying. There's something grounding about going out every morning, hearing that particular flock murmur when they know you're coming, and collecting warm eggs you grew yourself. Start with the basics, get the housing right, choose a forgiving breed, and pay attention to your birds. You'll figure the rest out as you go. Most of us did.
 
-*Photo: [Djordje Vezilic](https://www.pexels.com/@djordje-vezilic-59599374) via Pexels*
+*Photo: [Dmytro Glazunov](https://www.pexels.com/@glazun0v) via Pexels*

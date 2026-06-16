@@ -3,7 +3,7 @@ title: "Broody Hen Behavior"
 date: 2026-05-23T23:06:11.490307+00:00
 draft: false
 description: "Learn how to identify broody hen behavior, what causes it, and how to manage or encourage it in your flock with practical tips for backyard chicken keepers."
-image: "https://images.pexels.com/photos/7790127/pexels-photo-7790127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/195226/pexels-photo-195226.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["eggs"]
 tags: ["broody", "behavior"]
 slug: "broody-hen-behavior"
@@ -115,4 +115,4 @@ She'll also teach them to eat, to drink, and to be wary of threats. I've watched
 
 Broodiness is one of those chicken behaviors that's equal parts impressive and inconvenient. Handled right, it's one of the most powerful tools in a backyard keeper's arsenal: free, effective, low-maintenance chick rearing from a hen who's entirely self-motivated. Handled badly, or just ignored, it costs you eggs, costs the hen her health, and creates a nest box standoff that affects your whole flock. Know what you're dealing with, decide what you want, and act on it in the first week. The longer you wait, the more entrenched she gets, and Silkies in particular will test your patience in ways that feel deeply personal.
 
-*Photo: [Ivan Babydov](https://www.pexels.com/@babydov) via Pexels*
+*Photo: [Alison Burrell](https://www.pexels.com/@aburrell) via Pexels*

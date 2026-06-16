@@ -3,7 +3,7 @@ title: "When Do Chickens Start Laying Eggs"
 date: 2026-05-25T07:56:45.238301+00:00
 draft: false
 description: "Chickens typically start laying eggs at 16-20 weeks old. Learn about breed differences, factors affecting egg production, and how to prepare your coop."
-image: "https://images.pexels.com/photos/4200087/pexels-photo-4200087.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36241411/pexels-photo-36241411.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["eggs"]
 tags: ["when", "chickens", "start", "laying", "eggs"]
 slug: "when-do-chickens-start-laying-eggs"
@@ -108,4 +108,4 @@ If you're choosing breeds specifically for egg production and want something tha
 
 The wait for that first egg is genuinely one of the more exciting parts of keeping chickens, even if the timeline feels endless when you're in the middle of it. Understanding what's happening biologically, knowing what signals to watch for, and setting up your coop properly will put you ahead of most first-time keepers. Get the light right, get the nesting boxes right, and give your birds quality feed. The eggs will come.
 
-*Photo: [Will Kirk](https://www.pexels.com/@will-kirk-1186101) via Pexels*
+*Photo: [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283) via Pexels*

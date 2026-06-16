@@ -3,7 +3,7 @@ title: "Chicken Pecking Order"
 date: 2026-05-26T23:59:33.041373+00:00
 draft: false
 description: "Discover how the chicken pecking order works, why it matters for flock health, and tips to reduce aggression and keep your chickens happy and stress-free."
-image: "https://images.pexels.com/photos/21287721/pexels-photo-21287721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33934949/pexels-photo-33934949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["flock"]
 tags: ["chicken", "pecking", "order"]
 slug: "chicken-pecking-order"

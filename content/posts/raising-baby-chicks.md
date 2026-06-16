@@ -3,7 +3,7 @@ title: "Raising Baby Chicks"
 date: 2026-06-03T14:07:16.222351+00:00
 draft: false
 description: "Learn how to raise healthy baby chicks with expert tips on brooder setup, feeding, temperature control, and care essentials for your new flock."
-image: "https://images.pexels.com/photos/14960420/pexels-photo-14960420.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/21591146/pexels-photo-21591146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["chicks"]
 tags: ["raising", "baby", "chicks"]
 slug: "raising-baby-chicks"
@@ -89,4 +89,4 @@ The chicks I lost in year one weren't lost because I didn't care. I cared enormo
 
 What they do respond to: consistency, warmth in the right amount, clean water they can actually reach, and someone checking on them twice a day with their eyes open. Get those four things right and your odds go up dramatically. The rest you'll learn as you go.
 
-*Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*
+*Photo: [Duygu](https://www.pexels.com/@duygugungor) via Pexels*

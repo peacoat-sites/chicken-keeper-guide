@@ -3,7 +3,7 @@ title: "Worming Chickens Naturally"
 date: 2026-06-12T09:09:57.452337+00:00
 draft: false
 description: "Discover safe, natural methods to worm your chickens using herbs, foods, and preventative strategies that protect your flock without harsh chemical dewormers."
-image: "https://images.pexels.com/photos/19972927/pexels-photo-19972927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37538276/pexels-photo-37538276.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["worming", "chickens", "naturally"]
 slug: "worming-chickens-naturally"
@@ -69,4 +69,4 @@ If your run is a barren dirt patch with 12 birds in it, you're going to fight a 
 ---
 
 
-*Photo: [Emma Cate](https://www.pexels.com/@emmacate) via Pexels*
+*Photo: [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283) via Pexels*

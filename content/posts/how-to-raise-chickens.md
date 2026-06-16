@@ -3,7 +3,7 @@ title: "How To Raise Chickens"
 date: 2026-05-28T18:21:31.874549+00:00
 draft: false
 description: "Learn how to raise chickens with our beginner-friendly guide covering housing, feeding, health care, and tips to keep your backyard flock happy and productive."
-image: "https://images.pexels.com/photos/16580501/pexels-photo-16580501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/29376114/pexels-photo-29376114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["raise", "chickens"]
 slug: "how-to-raise-chickens"
@@ -138,4 +138,4 @@ Molting happens annually, usually in fall. Hens lose their feathers and stop lay
 
 Raising chickens is one of those activities that sounds simple but has real layers to it, and the more you learn, the better your flock does. You'll make mistakes. Every keeper does. I've lost birds to heat stress, to a mink that squeezed through a gap I didn't know existed, and to a respiratory illness I caught too late. Each one taught me something. The birds that are thriving in your backyard this time next year will be a direct result of what you put into learning right now, and I genuinely think you're going to love it.
 
-*Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*
+*Photo: [Mohan Nannapaneni](https://www.pexels.com/@mnannapaneni) via Pexels*

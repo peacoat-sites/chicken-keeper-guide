@@ -3,7 +3,7 @@ title: "Respiratory Illness Chickens"
 date: 2026-06-08T09:56:47.256894+00:00
 draft: false
 description: "Learn to identify and treat respiratory illness in chickens with expert tips on symptoms, causes, prevention, and the best treatments to keep your flock healthy"
-image: "https://images.pexels.com/photos/7782055/pexels-photo-7782055.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36750507/pexels-photo-36750507.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["respiratory", "illness", "chickens"]
 slug: "respiratory-illness-chickens"
@@ -99,4 +99,4 @@ Stay warm out there. So do your girls.
 
 *Maria Vasquez has kept laying hens for ten years in New Mexico and southern Colorado, ranging from a four-bird suburban setup to a 40-bird mixed flock. This article may contain affiliate links.*
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283) via Pexels*

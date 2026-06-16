@@ -3,7 +3,7 @@ title: "How Many Chickens Should I Get"
 date: 2026-05-24T20:47:34.252590+00:00
 draft: false
 description: "Find out how many chickens you really need based on your egg goals, available space, local laws, and flock dynamics to help you make the right choice."
-image: "https://images.pexels.com/photos/8180453/pexels-photo-8180453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14780241/pexels-photo-14780241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["many", "chickens", "should"]
 slug: "how-many-chickens-should-i-get"
@@ -108,4 +108,4 @@ Have everything dialed in before day one. It makes a real difference.
 
 You'll hear people joke that the right number of chickens is "always more than you have," and there's some truth to it. This hobby has a way of expanding. But starting with a thoughtful number, one that matches your space, your time, your budget, and your actual egg needs, sets you up for a flock that's genuinely enjoyable rather than overwhelming. Get that foundation right, and adding more birds down the road becomes a pleasure instead of a problem.
 
-*Photo: [Italo Melo](https://www.pexels.com/@italo-melo-248867) via Pexels*
+*Photo: [Enrique](https://www.pexels.com/@enrique72) via Pexels*

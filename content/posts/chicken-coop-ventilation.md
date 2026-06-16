@@ -3,7 +3,7 @@ title: "Chicken Coop Ventilation"
 date: 2026-05-28T22:28:01.199554+00:00
 draft: false
 description: "Discover how proper chicken coop ventilation keeps your flock healthy, prevents moisture buildup, and reduces ammonia. Learn the best tips for airflow all year "
-image: "https://images.pexels.com/photos/5807098/pexels-photo-5807098.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/29170646/pexels-photo-29170646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["chicken", "coop", "ventilation"]
 slug: "chicken-coop-ventilation"
@@ -121,4 +121,4 @@ One tool I do recommend is an inexpensive [digital hygrometer](https://www.amazo
 
 Getting ventilation right is one of those things that doesn't feel urgent until it is. Healthy birds in a well-ventilated coop just quietly go about their business, laying eggs and free-ranging and doing chicken things. You won't necessarily notice how much better things are until you fix a problem you didn't know you had. Take an honest look at your setup this week, check for ammonia and condensation, and make the adjustments your flock needs. It's one of the highest-return investments you can make in their health.
 
-*Photo: [Shani Clicks](https://www.pexels.com/@shani-clicks-247211483) via Pexels*
+*Photo: [Urban Roots](https://www.pexels.com/@urban-roots-2030955047) via Pexels*

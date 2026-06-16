@@ -3,7 +3,7 @@ title: "Quarantine New Chickens"
 date: 2026-05-22T07:59:11.915575+00:00
 draft: false
 description: "Learn how to properly quarantine new chickens to protect your flock from disease. Follow our expert tips to keep your birds safe and healthy during isolation."
-image: "https://images.pexels.com/photos/19972929/pexels-photo-19972929.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9821451/pexels-photo-9821451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["quarantine", "chickens"]
 slug: "quarantine-new-chickens"

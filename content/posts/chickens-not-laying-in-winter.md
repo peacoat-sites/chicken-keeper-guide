@@ -3,7 +3,7 @@ title: "Chickens Not Laying In Winter"
 date: 2026-05-22T12:06:30.643467+00:00
 draft: false
 description: "Discover why your chickens stop laying eggs in winter and learn simple tips to boost production, including lighting, nutrition, and coop management strategies."
-image: "https://images.pexels.com/photos/2446695/pexels-photo-2446695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/16514049/pexels-photo-16514049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["eggs"]
 tags: ["chickens", "laying", "winter"]
 slug: "chickens-not-laying-in-winter"
@@ -113,4 +113,4 @@ There's no universally right answer here. I've run both setups with different fl
 
 Winter is the season that separates chicken keepers who understand their birds from chicken keepers who are constantly frustrated by them. Once you understand that the light cycle, the molt, the protein requirement, and the water access are all working together (or against you), the solutions stop feeling random. Fix the water, support the molt with protein, add 14 hours of light if you want eggs now, and accept that some breeds just weren't built to push through February. Your birds aren't broken. They're just chickens, doing exactly what chickens do.
 
-*Photo: [Italo Melo](https://www.pexels.com/@italo-melo-248867) via Pexels*
+*Photo: [Kadir  Polat](https://www.pexels.com/@kadir-polat-304109907) via Pexels*

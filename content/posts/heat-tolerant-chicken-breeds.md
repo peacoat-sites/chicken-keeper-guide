@@ -3,7 +3,7 @@ title: "Heat Tolerant Chicken Breeds"
 date: 2026-06-11T09:22:01.707304+00:00
 draft: false
 description: "Discover the best heat tolerant chicken breeds for hot climates. Learn which hardy hens thrive in summer heat and keep producing eggs even during the hottest mo"
-image: "https://images.pexels.com/photos/21482856/pexels-photo-21482856.png?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/16232853/pexels-photo-16232853.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["heat", "tolerant", "chicken", "breeds"]
 slug: "heat-tolerant-chicken-breeds"
@@ -77,4 +77,4 @@ Electrolytes genuinely help during heat events. Sav-A-Chick electrolyte packets 
 
 If you're starting a flock from scratch in a hot climate, just start with the right birds. The Leghorn's personality quirks are a small price to pay for a bird that keeps laying in August when everyone else's flock has gone on strike. And if you've already got cold-hardy birds and you're dealing with heat, the management stuff above isn't optional. It's what stands between your flock and a very bad day.
 
-*Photo: [Lilly Grace](https://www.pexels.com/@lilly-grace-944249302) via Pexels*
+*Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*

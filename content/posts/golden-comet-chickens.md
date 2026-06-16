@@ -3,7 +3,7 @@ title: "Golden Comet Chickens"
 date: 2026-06-14T08:48:41.656650+00:00
 draft: false
 description: "Discover everything about Golden Comet chickens, including their friendly temperament, impressive egg-laying abilities, care requirements, and why they make ide"
-image: "https://images.pexels.com/photos/29707950/pexels-photo-29707950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/25068183/pexels-photo-25068183.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["breeds"]
 tags: ["Golden", "Comet", "chickens"]
 slug: "golden-comet-chickens"
@@ -79,4 +79,4 @@ I'd also say: don't let anyone talk you out of them just because "serious" chick
 ---
 
 
-*Photo: [Erik Karits](https://www.pexels.com/@erik-karits-2093459) via Pexels*
+*Photo: [Jean Marc  Pampuch](https://www.pexels.com/@rubis) via Pexels*

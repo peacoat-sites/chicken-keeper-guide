@@ -3,7 +3,7 @@ title: "How Many Chickens Can I Have"
 date: 2026-06-02T12:54:40.052776+00:00
 draft: false
 description: "Find out how many chickens you can keep based on local zoning laws, space requirements, flock size recommendations, and practical tips for happy, healthy hens."
-image: "https://images.pexels.com/photos/20118295/pexels-photo-20118295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/22881999/pexels-photo-22881999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["legal"]
 tags: ["many", "chickens", "have"]
 slug: "how-many-chickens-can-i-have"
@@ -117,4 +117,4 @@ If you're ready to make an actual decision, here's how I'd walk you through it:
 
 The honest answer to "how many chickens can I have" is: start with less than you think you want, set up well, and let the experience tell you if you have capacity for more. The people I've seen struggle most are the ones who maxed out on birds before they knew what they were doing. The people who thrive are the ones who got six birds, learned the rhythms of flock keeping, and made an informed decision from there. Your future hens will be better off for it, and honestly, so will you.
 
-*Photo: [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646) via Pexels*
+*Photo: [Erik Karits](https://www.pexels.com/@erik-karits-2093459) via Pexels*

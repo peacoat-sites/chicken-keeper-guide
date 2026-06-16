@@ -3,7 +3,7 @@ title: "When Can Chicks Go Outside"
 date: 2026-06-07T08:32:24.848721+00:00
 draft: false
 description: "Wondering when chicks can go outside? Learn the ideal age, temperature requirements, and safety tips to successfully transition your baby chicks to outdoor livi"
-image: "https://images.pexels.com/photos/13690434/pexels-photo-13690434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/28430520/pexels-photo-28430520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["chicks"]
 tags: ["when", "chicks", "outside"]
 slug: "when-can-chicks-go-outside"
@@ -109,4 +109,4 @@ What I'd actually do is plan your hatching dates to avoid this problem. Spring c
 
 That last question is the one I'd ask myself every time I got impatient with a brooder full of dusty, flapping teenage chickens. The chicks don't know there's a timeline. They just know they're cold, or they're not.
 
-*Photo: [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels) via Pexels*
+*Photo: [Mahmoud Yahyaoui](https://www.pexels.com/@mahmoud-yahyaoui) via Pexels*

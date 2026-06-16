@@ -3,7 +3,7 @@ title: "Foods Chickens Cannot Eat"
 date: 2026-05-24T07:13:13.677137+00:00
 draft: false
 description: "Foods chickens cannot eat: comprehensive guide to dangerous items including avocado, chocolate, salt, and toxic plants to keep your flock healthy and safe."
-image: "https://images.pexels.com/photos/583675/pexels-photo-583675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/19972944/pexels-photo-19972944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["feeding"]
 tags: ["foods", "chickens", "cannot"]
 slug: "foods-chickens-cannot-eat"
@@ -116,4 +116,4 @@ Standing water in feeders and waterers can grow algae and bacteria that affect t
 
 Feeding chickens well doesn't require a chemistry degree, but it does require a bit of ongoing attention. The most common dangerous mistakes come from assuming that what's healthy for humans is healthy for birds, or from not checking before tossing kitchen scraps into the run. Build the habit of a quick mental check before offering anything new, keep the coop environment clean, and stick to a quality feed as the foundation. Your flock will reward you with better health, better eggs, and a lot fewer vet calls.
 
-*Photo: [Toni Cuenca](https://www.pexels.com/@ifreestock) via Pexels*
+*Photo: [Emma Cate](https://www.pexels.com/@emmacate) via Pexels*

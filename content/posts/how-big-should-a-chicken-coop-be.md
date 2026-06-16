@@ -3,7 +3,7 @@ title: "How Big Should A Chicken Coop Be"
 date: 2026-05-23T04:51:33.717776+00:00
 draft: false
 description: "Find out exactly how big your chicken coop should be with our easy sizing guide. Learn space requirements per bird to keep your flock healthy and happy."
-image: "https://images.pexels.com/photos/3922672/pexels-photo-3922672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4911723/pexels-photo-4911723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["should", "chicken", "coop"]
 slug: "how-big-should-a-chicken-coop-be"
@@ -109,4 +109,4 @@ A heavy-duty automatic coop door paired with a secure run is one of the quality-
 
 The short version of everything above: give your birds more space than the minimum charts suggest, build bigger than you think you need today, and remember that the coop and run work as a team. Chickens are resilient, social, and surprisingly smart. They reward good housing with consistent eggs, calm behavior, and a flock you actually enjoy watching. They punish bad housing loudly and expensively. Build it right the first time and you'll be glad you did every single morning you go out to collect eggs.
 
-*Photo: [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

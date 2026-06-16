@@ -3,7 +3,7 @@ title: "Chicken Coop Bedding Options"
 date: 2026-05-23T15:56:23.135918+00:00
 draft: false
 description: "Discover the best chicken coop bedding options to keep your flock healthy and comfortable. Compare straw, wood shavings, sand, and more to find the perfect fit."
-image: "https://images.pexels.com/photos/8652819/pexels-photo-8652819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15645668/pexels-photo-15645668.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coop"]
 tags: ["chicken", "coop", "bedding", "options"]
 slug: "chicken-coop-bedding-options"
@@ -114,4 +114,4 @@ Hemp bedding deserves a mention here even though it's pricier. It absorbs up to 
 
 Twelve years in, the thing I've come to believe is that no single bedding choice is the magic answer. What matters more is that you observe your flock, adjust when something isn't working, and don't let the perfect be the enemy of the good. A coop managed with cheap pine shavings and real attention beats one loaded with premium hemp bedding and zero oversight every single time. Start simple, watch what's happening on that floor, and tweak as you go. Your birds will tell you what they need.
 
-*Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*
+*Photo: [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646) via Pexels*

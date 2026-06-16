@@ -109,27 +109,6 @@ If you already have a coop and need to harden it without rebuilding from scratch
 | Motion-Activated Lights | Nocturnal predators | $20-60 | Low | Works better in some areas than others |
 | Solid Roof on Run | Hawks, owls | $100-500 | Medium-High | Only complete solution for aerial threats |
 
-## FAQ
-
-### How do I know what predator is attacking my flock?
-
-The evidence left behind usually tells the story. Missing birds with no trace often means a hawk or owl carried them off. Birds found dead inside the coop with no entry wound typically point to an opossum or weasel that squeezed inside. If the coop looks broken into and you find scattered feathers with a partially consumed bird outside, raccoon or fox is likely. A trail cam is the single most useful diagnostic tool you can buy. A 2-week recording will show you exactly what's visiting and when.
-
-### Is chicken wire ever okay to use?
-
-Chicken wire has its uses. It can work as an overhead roof cover for a run to deter aerial predators since birds of prey aren't trying to tear through it, just avoid it. It can also be used as a secondary outer layer over hardware cloth in some applications. But as your primary barrier against ground predators, it's simply not adequate and shouldn't be used that way.
-
-### Can I use electric fencing for my backyard chickens?
-
-Electric poultry netting is genuinely excellent at predator control, especially for people who free-range or have larger runs. Brands like Premier 1 make electrified net fencing that most predators learn quickly not to challenge. The downsides are cost, the need for a charger, and regular maintenance to keep vegetation from grounding out the wire. For a small fixed backyard setup, hardware cloth and good latches are simpler. For anyone free-ranging a significant acreage, electric netting is worth serious consideration.
-
-### What time of year should I worry most about predators?
-
-Predator pressure peaks in late winter through spring when many animals are coming out of lean seasons and females are pregnant or nursing young and need more food. Summer and fall pressure drops in most regions. That said, individual circumstances vary a lot. Drought years send more wildlife into suburban areas year-round. New housing developments push displaced wildlife into established neighborhoods. And a single bold raccoon can be a problem any month of the year.
-
-### Do livestock guardian dogs actually work for backyard flocks?
-
-They can, but they're a significant commitment. A Great Pyrenees, Anatolian Shepherd, or similar breed bred for livestock guarding is an incredible deterrent. Properly bonded, they'll patrol the property and alert you to threats day and night. The challenge is that they need training, socialization with your chickens from a young age, and enough space to do their job. For a small suburban backyard with 6 hens, a guardian dog is probably more than the situation calls for. For a rural property with a large flock, it's one of the most effective long-term solutions there is.
 
 ---
 

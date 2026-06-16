@@ -78,26 +78,5 @@ I'd also say: don't let anyone talk you out of them just because "serious" chick
 
 ---
 
-## Frequently Asked Questions
-
-### How long do Golden Comet chickens live?
-
-Average lifespan is 4 to 6 years, though some make it to 8. The limiting factor is usually reproductive disease rather than old age in the traditional sense. Hens that survive past three years without major laying issues often go on to live quite long.
-
-### Can Golden Comets breed true?
-
-No. They're a first-generation hybrid cross, so if you hatch eggs from a Golden Comet hen, you won't get Golden Comet chicks. The offspring will be unpredictable mixes of the parent breeds. If you want to produce your own replacements, you'd need to maintain the original parent stock separately.
-
-### Do Golden Comets go broody?
-
-Rarely. They've been bred away from broodiness because it interrupts laying. Don't count on a Golden Comet hen to hatch and raise chicks. If you want a natural brooder in your flock, add a Buff Orpington or a Cochin.
-
-### Are Golden Comets good for beginners?
-
-Honestly, yes. They're forgiving about feed changes, don't require special housing, and aren't aggressive toward people. The one thing beginners should know upfront is the shortened productive lifespan -- manage your expectations around year three.
-
-### What's the difference between a Golden Comet and an ISA Brown?
-
-Both are red sex-link hybrids, and their performance is nearly identical in practice. The main difference is the parent stock and the company that developed the genetics. ISA Browns were developed by Institut de Sélection Animale in France; Golden Comets are an American version. For a backyard keeper, the distinction doesn't matter much.
 
 *Photo: [Erik Karits](https://www.pexels.com/@erik-karits-2093459) via Pexels*

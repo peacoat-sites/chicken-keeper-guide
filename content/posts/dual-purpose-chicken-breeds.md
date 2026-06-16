@@ -99,28 +99,5 @@ Meanwhile your 12 pullets, once laying, will produce somewhere around 240 to 270
 
 Feed costs, bedding, and infrastructure are real expenses that offset this. I'm not suggesting you'll get rich. But when people say backyard chickens "never pay for themselves," they're usually talking about a poorly planned ornamental flock, not a well-managed dual purpose setup.
 
-## FAQ
-
-### What is the best dual purpose chicken breed for beginners?
-
-Plymouth Rocks are my top recommendation for beginners and experienced keepers alike. They're calm, hardy, productive, and widely available from most hatcheries. Wyandottes are a close second. Both breeds tolerate confinement and free ranging, handle cold winters well, and have the kind of steady temperament that makes flock management less stressful when you're still learning.
-
-### How long does it take dual purpose cockerels to reach processing weight?
-
-Most dual purpose breeds reach ideal processing weight between 16 and 22 weeks. Delaware and Plymouth Rock cockerels tend to be on the faster end, around 16 to 18 weeks. Heritage breeds like Buckeye, Java, and Dominique are slower growers that often benefit from going to 20 to 24 weeks for best meat development. Don't rush it. The meat quality on a properly finished heritage cockerel at 20 weeks beats the same bird processed at 14 weeks by a wide margin.
-
-### Can I use a dual purpose breed to hatch and raise my own replacement flock?
-
-Yes, and this is one of the best reasons to keep a dual purpose breed. Most dual purpose breeds have retained natural brooding instincts that production breeds have had selected out of them. Wyandottes, Dominiques, Buckeyes, and Javas are all known for going broody reliably. Keep a quality rooster from your best-performing birds and you can hatch your own replacements each spring, which dramatically reduces the cost of maintaining your flock long-term. A good reference for this kind of self-sufficient flock management is [Storey's Guide to Raising Chickens](https://www.amazon.com/s?k=storey%27s+guide+to+raising+chickens) by Gail Damerow. It covers breeding selection in detail.
-
-### Do dual purpose chickens lay as many eggs as production breeds?
-
-No, and anyone who tells you otherwise isn't being straight with you. A high-production Leghorn or a commercial sex-link hybrid will lay 300 or more eggs per year in her prime. Most dual purpose hens top out around 240 to 280 in their first laying year. The difference matters if eggs are your only goal. But if you also want the meat value from excess birds and you want a flock that can sustain itself with some natural brooding, the slightly lower egg numbers are a reasonable price to pay.
-
-### What do I feed dual purpose chickens?
-
-A good quality 18 to 20 percent protein starter from hatch through 16 to 18 weeks, then transition laying hens to a 16 percent layer feed and provide free-choice oyster shell. For grow-out cockerels in a separate pen, an all-flock grower at 16 to 18 percent protein works well through processing age. Keep fresh water available at all times. A [horizontal nipple waterer system](https://www.amazon.com/s?k=chicken+nipple+waterer) keeps the water cleaner than open dishes and dramatically reduces the muddy mess around the water source.
-
-Dual purpose chickens aren't a compromise. They're a different philosophy about what a flock is for. When you raise birds that contribute to your household both as egg producers and as meat, you're running a small farm, not just a pet collection. Twelve years and over 200 birds in, I still think a good straight run of Plymouth Rocks or Wyandottes in the spring is one of the most satisfying things a backyard keeper can do. You put food on the table from animals you raised well, and that means something.
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*

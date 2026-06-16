@@ -100,27 +100,6 @@ When you find a bird that's "off," don't panic. Work through this systematically
 
 ---
 
-## FAQ: Chicken Health Problems
-
-### My hen is sneezing but seems otherwise fine. Should I be worried?
-
-Occasional sneezing can be completely normal, especially if there's dust, bedding particles, or a recent change in coop environment. If it's just one bird and she's active, eating well, and her eyes are clear, watch her for a few days. If sneezing spreads to other birds, if you see facial swelling, eye bubbling, or rattling breath, take it seriously. That's respiratory disease territory and you'll want to act before it spreads.
-
-### Can I treat a sick chicken with human medications?
-
-Some medications overlap, and experienced keepers do use things like plain Benadryl for swelling or VetRx for respiratory comfort. But antibiotic use in poultry requires care, especially if you eat the eggs. Withdrawal times matter. Tylan 50 injectable, for example, requires an egg withdrawal period that varies by source (the FDA doesn't formally establish one for laying hens, so most sources recommend 2 to 4 weeks). When in doubt, consult a vet and discard eggs during treatment.
-
-### How do I know if my chicken is dying or just sick?
-
-A bird that's clearly sick but still interested in food and water has a fighting chance. A bird that's completely unresponsive, won't lift her head, has labored breathing, or has turned blue or pale in the comb is in serious distress. If a bird has stopped eating and drinking entirely and won't respond to handling, sometimes the most humane thing is to consider euthanasia. That's a hard reality of chicken keeping, but letting a bird suffer for days hoping she'll turn around isn't kind.
-
-### How do I prevent mites and lice without chemicals?
-
-You can't fully prevent them without any intervention, but you can manage risk. Provide a good dust bathing area with dry dirt or sand, since birds naturally control parasites this way. Add wood ash or food-grade diatomaceous earth to the dust bath. Inspect birds monthly, especially around the vent and under the wings. Keep the coop clean and dry, since moisture encourages mite populations. Regular inspection is your best tool.
-
-### When is it actually worth taking a chicken to the vet?
-
-When the bird is a pet with real value to you, when you have a flock-wide issue you can't identify, when you suspect something like Marek's or Newcastle disease that affects the whole flock, or when you're dealing with egg-binding, severe injury, or peritonitis. A vet visit for a single backyard hen can run $75 to $200 or more depending on your area. That's a real cost. But for birds you care about, and for situations that could spread to your entire flock, it's absolutely worth it.
 
 ---
 

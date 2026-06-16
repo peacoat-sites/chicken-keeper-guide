@@ -118,27 +118,6 @@ The Australorp is worth mentioning here because it's basically what you get if y
 
 ---
 
-## Frequently Asked Questions
-
-### Are Orpington chickens good for beginners?
-
-They're one of the best beginner breeds available. They're calm, slow-moving, easy to handle, and not aggressive. They tolerate confinement well, which matters if you can't free-range. The main caution for beginners is understanding that their docile nature means they can be pushed around in a mixed flock with more assertive breeds. Start with a breed-specific flock or pair them with equally gentle breeds.
-
-### How long do Orpington chickens live?
-
-With good care, Orpingtons typically live 8 to 10 years. Some individuals push past that. Productive laying years are generally the first 3 to 4 years, with production declining after that. Many keepers keep older hens as flock members and pest control long after laying slows.
-
-### Do Orpington roosters need special management?
-
-Orpington roosters are generally calmer than roosters of many other breeds, but the basic rules apply: one rooster per 8 to 10 hens minimum to prevent over-mating, and consistent handling from a young age. A rooster that has never been handled gently tends to be more reactive at maturity regardless of breed.
-
-### Why does my Orpington hen go broody so often?
-
-It's a breed characteristic that was preserved because Orpingtons were developed partly as a utility bird that could hatch and raise its own chicks. Some lines are broodier than others. Production hatchery lines have had some of that broodiness selected out; heritage lines tend to go broody more often. If you don't want broody hens, collect eggs daily and remove any hen showing broody behavior from the nesting box repeatedly and quickly. Breaking a broody hen early is much easier than waiting until she's been sitting for a week.
-
-### What health problems should I watch for?
-
-The biggest concerns with Orpingtons are obesity, bumblefoot, and mites or lice hiding in their dense feathering. Check under the wings and around the vent feathers regularly for parasites. Keep the run dry and the coop clean. For bumblefoot, catching it early when it's just a small dark scab and addressing it with antiseptic spray and a bandage is far better than waiting until it becomes a deep infection. [Vetericyn Wound Spray](https://www.amazon.com/s?k=vetericyn+poultry+wound+spray) is something I keep in my coop kit year-round for exactly these moments. (This site may earn a commission on qualifying purchases.)
 
 ---
 

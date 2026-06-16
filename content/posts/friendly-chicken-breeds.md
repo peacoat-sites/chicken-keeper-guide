@@ -107,27 +107,6 @@ If you're adding new birds to an existing flock, [adding extra feeders and water
 
 ---
 
-## FAQ
-
-### Are roosters of friendly breeds also friendly?
-
-Generally, yes, but with more variability than hens. A Buff Orpington rooster, for example, tends to be calmer and less aggressive than a Leghorn rooster. But even within friendly breeds, individual roosters vary a lot. Roosters also go through a hormonal surge between 5-9 months that can temporarily turn a friendly cockerel pushy or even aggressive. Many settle back down. Some don't. If you're keeping a rooster around children, choose your breed carefully and stay alert during that adolescent phase.
-
-### Can I make an unfriendly breed friendlier with lots of handling?
-
-You can improve temperament with consistent, positive handling from a young age, but you can't completely override genetics. A Leghorn that's been handled daily will be less flighty than a Leghorn that wasn't, but she's still going to be more skittish than a Buff Orpington raised the same way. If friendliness is genuinely important to you, start with the right breed.
-
-### What age should I buy chicks versus pullets if I want friendly birds?
-
-Day-old chicks give you the best opportunity to shape temperament through handling. Pullets purchased at 16-20 weeks are past the most critical socialization window, though they can still warm up to you over time if you're patient and consistent with treats and gentle handling. Avoid buying adult hens from flocks that weren't well-handled: it's an uphill battle.
-
-### Do friendly breeds get along with other backyard animals like dogs and cats?
-
-Many calm, curious breeds like Speckled Sussex and Australorps will get comfortable around dogs and cats that have been properly introduced and aren't actively chasing them. The chicken's temperament matters, but the other animals' behavior matters more. Proper introduction protocols and supervision are essential. I've had Buff Orpingtons that were completely unfazed by my two dogs, but that took months of careful managed exposure, not just throwing everyone in the yard together.
-
-### Are friendly chicken breeds good for children?
-
-Absolutely, which is a big part of why they're so popular. Breeds like Silkies, Buff Orpingtons, and Easter Eggers are commonly used in children's programs, 4-H projects, and therapy settings. That said, supervise young children closely, not because the chickens will hurt the kids, but because small children can accidentally hurt the chickens by squeezing too hard or dropping them. Teach kids to sit on the ground and let the chickens come to them rather than chasing and grabbing.
 
 ---
 

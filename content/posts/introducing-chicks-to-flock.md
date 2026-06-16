@@ -108,27 +108,6 @@ A bullied chick will hide, stop eating, and lose weight fast. If you see a bird 
 
 ---
 
-## FAQ
-
-### How long does it take for chicks to be fully accepted by the flock?
-
-Realistically, three to six weeks from first contact before you see something close to a stable pecking order. Some birds integrate faster, but don't assume smooth sailing until you've watched normal eating and roosting routines hold steady for at least two weeks.
-
-### Can I introduce a single chick to an established flock?
-
-It's a bad idea and I wouldn't do it. A single bird has no ally, no one to displace attention onto, and will be the exclusive target of every adjustment peck. Introduce at least two chicks together if possible, ideally three. The social buffer matters.
-
-### My hen is attacking the chicks through the wire divider. Is that a bad sign?
-
-Yes, she's telling you she's going to be a problem. It doesn't mean integration is impossible, but give it more time at the see-but-don't-touch stage, and plan to keep an eye on her specifically when you open things up. Some hens come around; some don't and need to be managed permanently or rehomed.
-
-### Do I need to quarantine new chicks if they came from a hatchery?
-
-Hatchery chicks are usually vaccinated for Marek's and tested for common diseases, so the risk level is lower than with birds from an auction or unknown backyard flock. That said, a two-week quarantine in a physically separate space (separate airspace if possible) before any contact with your existing flock is still worth doing. Respiratory illness in particular spreads fast.
-
-### What age can chicks go outside?
-
-Fully feathered and off the heat lamp, so typically 6-8 weeks depending on breed and ambient temperature. Cold-tolerant breeds like Plymouth Rocks feather faster; some of the more exotic breeds take longer. If nighttime temps are still dropping below 50°F, wait, or provide a supplemental heat source in the grow-out space.
 
 ---
 

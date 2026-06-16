@@ -104,27 +104,6 @@ One thing I want to say clearly: if your flock has been aggressive for a long ti
 
 ---
 
-## FAQ
-
-### Is my rooster more aggressive because he's a specific breed?
-
-Yes and no. Breed does affect temperament baseline. Rhode Island Reds, Leghorns, and Old English Game roosters are notorious for aggression toward humans. Buff Orpingtons, Cochins, and Brahmas tend to be calmer. But there's massive individual variation, and a well-handled Leghorn can be gentler than a neglected Orpington. Breed is a factor, not a sentence.
-
-### My hen is attacking me, not the other chickens. What's going on?
-
-This happens most often with broody hens protecting a nest. If she's on eggs or fake eggs and flying at your hand when you reach underneath, she's doing exactly what her instincts tell her to do. It's not general aggression. Wear gloves for egg collection until the broodiness passes, or break the broody cycle if you need to. Occasionally a high-status hen in a rooster-free flock will also take on a protective role and get pushy with humans. The same handling techniques that work for roosters work here.
-
-### How long does introducing new birds take before the aggression settles down?
-
-Usually two to four weeks for things to reach a new equilibrium, assuming you've done a gradual introduction with a visual barrier first. Some flocks settle faster; some take six weeks. If serious chasing and drawing blood is still happening after four weeks with no improvement, look at whether the birds have enough space and whether there's a specific aggressor who needs to be isolated.
-
-### Can I use a pinless peeper on an aggressive bird?
-
-Pinless peepers are plastic blinders that clip onto the beak and restrict a bird's forward vision, reducing feather-pecking and some aggression. They work reasonably well for chronic feather-peckers and some bully hens. They don't work on rooster aggression toward humans (he knows exactly where you are). Application requires a bit of practice, and some birds find ways to remove them, but they're a legitimate tool, not a cruel one, when used appropriately.
-
-### My flock was calm for two years and suddenly two hens are fighting constantly. What changed?
-
-Look first at whether anything in the flock composition changed: a bird died, you added someone, a bird started laying or stopped, a predator scared them. Also look at the season. Spring specifically kicks off hormonal shifts in hens that can restart pecking order disputes that were settled. If nothing obvious changed, get a close look at both birds for signs of illness or injury. A sick bird often gets targeted, and the sick bird will sometimes preemptively attack to defend herself before she can be driven down.
 
 ---
 

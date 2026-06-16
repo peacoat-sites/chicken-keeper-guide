@@ -118,28 +118,5 @@ Choosing the right breed is step one. What you do next determines whether those 
 
 **Step 6: Have a basic first aid kit ready.** Vetericyn wound spray, Corid for coccidiosis (the number one killer of young chicks), and a poultry vitamin supplement like Nutri-Drench. You won't need all of it. But you'll be grateful it's there the first time something goes sideways at 7 PM on a Sunday.
 
-## FAQ
-
-### How many chickens should a beginner start with?
-
-Four to six birds is the sweet spot. Fewer than four and you'll have social dynamics problems plus a lot of pressure on each individual bird for egg production. More than eight and you're adding management complexity before you've figured out the basics. Start small, get your routines down, and add birds in year two if you want more.
-
-### Do I need a rooster in a beginner flock?
-
-No. Hens lay eggs just fine without a rooster. You only need a rooster if you want fertilized eggs for hatching. Roosters also add complexity: they're often loud, some ordinances prohibit them in residential areas, and an assertive rooster requires confident handling. For your first flock, skip the rooster entirely and revisit the question later.
-
-### What's the most common mistake beginners make when choosing breeds?
-
-Mixing breeds with very different temperaments and energy levels. Putting high-strung Leghorns in with docile Buff Orpingtons, for example, often results in the Leghorns harassing the calmer birds. Stick to two or three compatible breeds for your first flock. All the breeds in my top five list get along well together.
-
-### How long before my chickens start laying?
-
-Most of the recommended breeds above start laying at 18 to 22 weeks old. Australorps and Rhode Island Reds tend toward the earlier end of that range. Season matters too: chicks hatched in early spring often start laying by late summer. Chicks hatched in late summer may delay their first lay until the following spring when day length increases. Don't panic if yours take a little longer.
-
-### Can I keep chickens in a small suburban backyard?
-
-Yes, genuinely yes. A 4x8 coop with a 10x12 attached run can comfortably house four to five birds of the calmer dual-purpose breeds. Barred Rocks and Sussex adapt to smaller spaces better than most. The non-negotiables are: shade in summer, good ventilation, and predator-proofing that you actually trust. Suburban chickens are common and totally workable once you've got the setup right.
-
-The first year of keeping chickens will teach you things no article can fully prepare you for. Your flock will have personalities you didn't expect, problems you didn't see coming, and moments that genuinely stop you in your tracks. But start with calm, hardy, productive birds, give them decent space and food, and pay attention to what they're telling you. Twelve years in, I still look forward to walking out to my coop every morning. That's the reward nobody mentions in the breed charts.
 
 *Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*

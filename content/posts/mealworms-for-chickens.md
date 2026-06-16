@@ -66,27 +66,6 @@ Keep a separate oyster shell feeder available free-choice at all times, full sto
 
 ---
 
-## FAQ
-
-### Can I feed mealworms to baby chicks?
-
-Yes, but wait until they're at least two weeks old, and make sure they have chick grit available. Chicks don't have the digestive capacity of adults, so go small, crushed dried mealworms work better than whole ones for chicks under six weeks.
-
-### Are dried mealworms the same as black soldier fly larvae?
-
-No, and the difference matters. Black soldier fly larvae (often sold as Grubblies or similar) have a much better calcium-to-phosphorus ratio than mealworms, making them a smarter everyday treat for laying hens. Mealworms are higher in fat. Both are fine in moderation; they're just different nutritional profiles.
-
-### Why are my chickens ignoring the mealworms suddenly?
-
-This one surprises people. Chickens can temporarily lose interest in a treat they've had constantly, especially if something more interesting is available. More commonly though, if hens are suddenly uninterested in food they normally love, it's worth checking for illness, a broody hen behavior change, or a molt.
-
-### Can mealworms replace protein supplements during molt?
-
-They can contribute, but I wouldn't rely on them as a replacement. During molt, I switch my birds to a higher-protein feed like Purina Flock Raiser (20% protein) and use mealworms as a supplement on top of that, not as the main protein source.
-
-### Do mealworms carry any diseases I should worry about?
-
-The risk is low with commercially raised dried mealworms, which are typically dried at temperatures high enough to kill pathogens. Live mealworms from reputable reptile suppliers are also generally safe. The bigger biosecurity risk with any treat is using something that's been stored improperly or contaminated with rodent droppings, so keep your bags sealed and stored off the floor.
 
 ---
 

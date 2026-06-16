@@ -112,27 +112,6 @@ If you're ready to make an actual decision, here's how I'd walk you through it:
 
 ---
 
-## Frequently Asked Questions
-
-### Can I keep just one or two chickens?
-
-You can, but I'd really discourage it. Chickens are social animals and single birds show measurable signs of stress and loneliness. Two birds is better, but risky: if one dies or becomes ill, you're left with a lone hen overnight. Three is the practical minimum. Five or six is where flock dynamics actually stabilize.
-
-### Do roosters count toward my bird limit?
-
-In most ordinances, yes. A cap of six birds means six total, hens and roosters combined. And in most residential zones, roosters aren't permitted at all. If you want fertilized eggs or a rooster for flock protection, check your local code carefully before assuming.
-
-### My HOA says no chickens. Is there any way around it?
-
-Not without potentially serious consequences. HOA restrictions are private contracts, and violation can result in fines or forced removal. I've seen people try to argue the chickens are "pets" rather than livestock. It rarely ends well. The better move is to attend an HOA meeting and make the case for an amendment to the rules. Some HOAs have updated their restrictions as backyard chickens have become more mainstream.
-
-### How many chickens can I keep before it becomes too much to manage solo?
-
-This depends on your setup, but in my experience, 10 to 12 well-housed birds is a manageable solo operation. Beyond that, daily chores, cleaning rotations, and health monitoring start to take a meaningful chunk of time. Thirty birds on a small property is not a weekend hobby. It's a part-time job.
-
-### Can I keep ducks with my chickens and does that count toward my limit?
-
-Ducks and chickens can coexist, with some caveats: ducks make a mess of water, they need different nutrition (no added niacin in standard layer feed isn't enough for ducks), and they can bully or be bullied depending on breed. Whether ducks count toward your bird limit depends entirely on how your local ordinance is written. Some say "chickens," some say "poultry," some say "fowl." Read the exact language and call to confirm.
 
 ---
 

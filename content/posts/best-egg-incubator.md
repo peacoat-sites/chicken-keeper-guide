@@ -62,27 +62,6 @@ One more thing nobody warns you about: shipped eggs. If you're buying eggs from 
 
 ---
 
-## FAQ
-
-### How long does it take for chicken eggs to hatch?
-
-Chicken eggs take 21 days to hatch under stable incubation conditions. Day 18 is lockdown, when you stop turning and increase humidity. Some eggs, especially from larger breeds or slightly cool incubations, can hatch a day late.
-
-### Do I need a separate incubator and hatcher?
-
-No, but using one helps if you're doing staggered hatches. Running eggs at different stages in the same machine is tricky because lockdown conditions (high humidity, no turning) conflict with what younger eggs need. For a single batch, one machine is fine.
-
-### How do I know if my incubator temperature is accurate?
-
-Don't trust the built-in thermometer alone. Get a separate calibrated digital thermometer like the ThermPro TP49 or an Inkbird IBS-TH2 and compare readings. If they disagree, trust the external one and adjust your incubator accordingly.
-
-### Can I incubate eggs from my own hens?
-
-Yes, but you need a rooster for the eggs to be fertile. Collect eggs for no more than 7-10 days before setting them, store them pointy-end down at 55-65°F (not in the fridge), and avoid eggs with cracked shells or abnormal shapes.
-
-### What's a good hatch rate to expect?
-
-From fresh, properly stored eggs in a well-maintained incubator, 70-85% is realistic and good. From shipped eggs, 40-60% is more honest. If you're consistently below 50% on fresh eggs, look at temperature stability and humidity control first.
 
 ---
 

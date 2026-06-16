@@ -116,27 +116,6 @@ Don't keep unproductive birds out of sentiment indefinitely. A hen in her third 
 
 ---
 
-## FAQ
-
-### How much does it cost per dozen to raise your own eggs?
-
-Realistically, $5 to $8 per dozen when you account for feed, bedding, and amortized startup costs under normal conditions. It can go higher if you have losses, vet bills, or a low-production flock.
-
-### Do backyard eggs actually taste better than store-bought?
-
-Yes, noticeably, if your hens have genuine outdoor access and a varied diet. The difference is most obvious in the yolk: darker color, richer flavor, firmer texture. Hens confined to a small run eating only commercial feed will produce eggs closer to grocery store quality.
-
-### How many hens do I need to supply eggs for a family of four?
-
-Four to six hens will supply a moderately egg-eating family year-round, accounting for seasonal production drops. Six gives you a buffer for molt periods and the occasional non-layer.
-
-### Are backyard eggs healthier than grocery store eggs?
-
-The research here is mixed but leans toward yes for pasture-raised conditions. A 2010 study out of Penn State found eggs from hens with pasture access had 2x more omega-3 fatty acids, 3x more vitamin D, and 7x more beta-carotene than conventional eggs. Whether that translates to meaningful health differences over time is harder to say.
-
-### What happens to egg production in winter?
-
-Most breeds slow down or stop laying when daylight drops below 14 hours, typically November through January in northern climates. Adding a simple 40-watt bulb on a timer to extend "daylight" to 14-16 hours keeps most hens laying. Some keepers skip the light and let hens rest; it's not harmful, just means no eggs for a couple months.
 
 ---
 

@@ -109,27 +109,6 @@ Hemp bedding deserves a mention here even though it's pricier. It absorbs up to 
 
 ---
 
-## Frequently Asked Questions
-
-### How often should I change chicken coop bedding?
-
-It depends entirely on your management method. In a standard cleanout system with pine shavings, most keepers do a full change every 4 to 8 weeks and top up with fresh material in between. In a properly managed deep litter system, you may only do two full cleanouts per year. The real answer is: change it when moisture or ammonia smell starts building, not on a rigid calendar.
-
-### Is it safe to use grass clippings as chicken coop bedding?
-
-Fresh grass clippings are a bad idea. They mat down fast, ferment, and can cause impacted crops or digestive issues if birds eat large amounts. Dried grass clippings, however, are a decent supplemental addition to a deep litter pile. Let them dry fully in the sun before adding them.
-
-### What's the best bedding to control ammonia smell?
-
-Deep litter managed correctly produces the least ammonia of any system, because active decomposition neutralizes the nitrogen compounds. For a standard cleanout system, pine shavings or hemp bedding control odor best. Ventilation is honestly more important than bedding choice. A well-ventilated coop with mediocre bedding smells better than a closed-up coop with premium material.
-
-### Can I use old hay as chicken coop bedding?
-
-Old hay is risky. Hay retains more moisture than straw (it's cut at a leafy, higher-moisture stage), and old hay is particularly prone to mold. Aspergillus mold in hay can cause fatal respiratory infections in poultry. If you have dry, good-quality hay and nowhere else to use it, small amounts mixed into a deep litter pile are probably fine. As primary bedding, straw is almost always a better and safer choice.
-
-### My coop smells even with fresh bedding. What's wrong?
-
-Nine times out of ten, ventilation. Ammonia is heavier than air and sinks to floor level. It builds up in closed coops incredibly fast, especially in winter when keepers close vents to keep birds warm. Birds need fresh air more than they need a warm coop. Open your upper vents even in cold weather. Check that droppings boards under roosts are being cleaned every few days, since that concentrated pile under the roost is the main ammonia source. A product like [Sweet PDZ Coop Refresher](https://www.amazon.com/s?k=sweet+pdz+coop+refresher&tag=backyardchickens-20) sprinkled under roosts can help manage ammonia between cleanings. *(This site may earn a commission on purchases.)*
 
 ---
 

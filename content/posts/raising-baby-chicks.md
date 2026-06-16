@@ -82,27 +82,6 @@ If you're sourcing from a hatchery, Murray McMurray and Hoover's are both reliab
 
 ---
 
-## FAQ
-
-### How do I know if my chick brooder is the right temperature?
-
-Watch the chicks, not the thermometer. If they're all clustered tightly under the heat source, they're cold. If they're pressed against the far walls away from it, they're too hot. A happy group wanders the whole brooder, eats, drinks, and sleeps in loose clusters a bit away from the heat. That behavior tells you more than any reading.
-
-### What does pasty butt look like and is it serious?
-
-It's a dried cap of feces stuck over the vent (the small opening under the tail). It looks like a yellowish-brown plug. Yes, it's serious; a blocked vent means the chick can't eliminate waste and will die within 24-48 hours. Clear it gently with a warm, damp cloth or cotton ball, never pull or force it.
-
-### Can I use a regular light bulb instead of a heat lamp?
-
-A standard incandescent bulb doesn't put out nearly enough heat to brooder chicks safely, and LED bulbs put out almost none. You need a proper infrared heat lamp, a ceramic heat emitter, or a radiant contact brooder like the Brinsea EcoGlow. This isn't an area to improvise.
-
-### When do chicks start laying eggs?
-
-It varies significantly by breed. Production breeds like Golden Comets or Leghorns can start as early as 16-18 weeks. Heritage breeds like Dominiques or Australorps typically take 20-24 weeks. Silkies and some ornamental breeds might not lay until 7-9 months. Season matters too: chicks hatched in late summer may delay their first lay until the following spring due to shortening daylight hours.
-
-### Do I need a rooster for my hens to lay eggs?
-
-No. Hens lay eggs regardless of whether a rooster is present. A rooster is only needed if you want fertilized eggs for hatching chicks. Many municipalities that allow backyard hens specifically prohibit roosters, so check your local ordinances before you ever consider keeping one.
 
 ---
 

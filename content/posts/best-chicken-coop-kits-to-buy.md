@@ -74,27 +74,6 @@ For anything over 10 birds, I think building or converting is almost always the 
 
 A word on feeders and waterers while we're here: the ones that come with kit coops are usually decorative at best. A [RentACoop bucket nipple waterer](https://www.amazon.com/s?k=rentacoop+waterer&tag=backyardchick-20) is $30-$40 and keeps water cleaner longer than any tray-style waterer I've used. Your birds will be healthier for it.
 
-## FAQ
-
-### How many chickens can a kit coop actually hold?
-
-Cut the manufacturer's number roughly in half for a realistic count. A coop marketed for 6 birds comfortably houses 3-4, assuming they also have access to an outdoor run. Overcrowded hens will start feather-pecking and laying will drop.
-
-### Are plastic coops like the Omlet Eglu worth the price?
-
-For the right climate, yes. They're predator-resistant, don't rot, and easy to clean. But they overheat in hot summers and the run sizes are genuinely small for the cost. If you're in the Pacific Northwest or similar, they're a solid investment. In Texas or Georgia, I'd look elsewhere.
-
-### Do I need to treat the wood on a kit coop?
-
-Absolutely. Most kit coops use untreated or minimally treated wood that will start degrading within one to two seasons without a sealant. Apply a water-repellent exterior stain or Thompson's WaterSeal before your birds move in and reapply annually.
-
-### What's the biggest mistake people make with kit coops?
-
-Skipping predator reinforcement. The latches that come on most kit coops won't stop a determined raccoon. Replace or supplement them immediately with barrel bolt locks, and either bury hardware cloth around the run perimeter or lay an apron to stop digging predators.
-
-### Can a kit coop survive winter in a cold climate?
-
-Most can, with preparation. Make sure your coop has ventilation that can be partially closed without sealing completely (moisture buildup causes more problems than cold in winter). Deep litter method inside the coop adds natural warmth. Avoid heat lamps if you can; they're a fire risk. Cold-hardy breeds like Wyandottes, Buckeyes, and Dominiques don't need supplemental heat in most climates below freezing.
 
 ---
 

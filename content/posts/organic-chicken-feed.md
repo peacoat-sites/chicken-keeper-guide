@@ -78,26 +78,5 @@ If your feed smells musty, oily-rancid, or just "off," don't feed it. Aflatoxin 
 
 ---
 
-## Frequently Asked Questions
-
-### Is organic chicken feed worth the extra cost?
-
-For most backyard keepers, the honest answer is: only if you have a specific reason to care, whether that's reducing pesticide exposure, meeting customer expectations, or personal values around food systems. Organic certification doesn't automatically mean better nutrition. If your feed budget is tight, a well-formulated conventional feed with good protein levels will keep your hens healthy.
-
-### Can I mix organic and conventional feed?
-
-Yes, and plenty of people do this to manage costs. There's no harm in blending a premium organic mash with a less expensive conventional pellet. Your flock doesn't care, and you'll reduce your overall pesticide exposure compared to going fully conventional while spending less than going fully organic.
-
-### What protein percentage should I look for in organic layer feed?
-
-Shoot for 16-18% for laying hens. Some organic brands run a little lower, like 15%, and you may notice softer shells or a dip in production if your hens aren't compensating with bugs and forage. Check the guaranteed analysis panel on the bag, not just the marketing copy on the front.
-
-### Why is my organic feed clumping or molding faster than my old feed?
-
-Organic feeds skip synthetic preservatives like ethoxyquin, which is why they're more vulnerable to moisture and heat. Store in a sealed metal container in a cool, dry location, buy in smaller quantities so you rotate through it faster, and check the milling date on the bag when you purchase. Anything older than 3 months off the mill is already on borrowed time.
-
-### Do I need to supplement hens on organic feed differently than conventional?
-
-Not really, as long as you're offering oyster shell free-choice on the side and they have access to fresh water always. One thing to watch: some organic soy-free feeds rely on peas for protein and may be lower in methionine, an amino acid hens need. If you're on a soy-free organic ration and you see feather pecking or slow molting, a methionine supplement or some black soldier fly larvae can help fill that gap.
 
 *Photo: [Shani Clicks](https://www.pexels.com/@shani-clicks-247211483) via Pexels*

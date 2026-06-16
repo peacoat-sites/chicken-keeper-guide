@@ -107,27 +107,6 @@ Dirty eggs usually come down to two things: soiled bedding and hens sleeping in 
 
 ---
 
-## Frequently Asked Questions
-
-### How many nesting boxes do I need for 6 hens?
-
-Two boxes is the bare minimum for six hens, but three is a much better choice. It gives each hen options, reduces competition, and means you're not scrambling if one box gets fouled or a broody hen camps out in another.
-
-### Can chickens share nesting boxes?
-
-Yes, and they often choose to. It's common to see two hens squeezed into the same box while the others sit empty. As long as hens aren't stressed, fighting, or breaking eggs in the process, shared use is perfectly normal behavior.
-
-### What should I put inside a nesting box?
-
-Loose bedding like pine shavings or straw works well. Pre-cut nesting pads are a convenient alternative. Aim for 2 to 3 inches of material so eggs land softly. A fake egg placed in each box helps train new layers where to go.
-
-### Should nesting boxes be inside or outside the coop?
-
-The boxes themselves should be inside the coop where hens feel safe and protected. The egg collection door, however, should open from outside the coop. This lets you gather eggs quickly without going through the main door, which is cleaner and more convenient.
-
-### At what age do hens start using nesting boxes?
-
-Most hens begin laying between 18 and 24 weeks of age depending on breed. You can introduce fake eggs or golf balls to the boxes a couple of weeks before that window so pullets start associating the boxes with laying before their first egg arrives.
 
 ---
 

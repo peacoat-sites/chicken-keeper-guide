@@ -110,27 +110,6 @@ Skin damage from heavy infestations can also become a secondary infection site. 
 
 ---
 
-## Frequently Asked Questions
-
-### Can I get mites from my chickens?
-
-Red poultry mite will bite humans, and if you've been spending time in an infested coop, you might notice small itchy red bites on your arms, neck, or ankles. It's uncomfortable but they can't complete their life cycle on humans, so they won't set up a permanent infestation on you. Northern fowl mite can occasionally bite humans too, but it's less common. If you're getting bitten, treat the coop and flock promptly. The bites on you will stop once the source is gone.
-
-### How long does it take to get rid of mites completely?
-
-For northern fowl mite with consistent permethrin treatment (two treatments, 7-10 days apart), you can usually break the cycle in about three weeks. Red mite is harder because they hide so effectively in the coop. Expect 4-6 weeks of diligent treatment and repeated coop cleaning before you're fully clear. And even then, ongoing monitoring is necessary because re-introduction from wild birds is always possible.
-
-### Do mites live in the soil around the coop?
-
-Red mite primarily lives in the coop structure itself, not in soil. Northern fowl mite lives on the birds. If you're concerned about your run area, you can apply permethrin-treated diatomaceous earth around the perimeter, but honestly the soil is rarely the source of ongoing re-infestation. Focus your energy on the coop interior and the birds.
-
-### Is diatomaceous earth safe to use around chickens?
-
-Food-grade diatomaceous earth is safe for chickens in small amounts, particularly in dust baths. The concern is respiratory: fine silica dust is not good for anyone's lungs, chicken or human, to breathe in quantity. Don't dump large amounts of DE in an enclosed coop and let birds kick it up into the air. Use it mixed into dust bath areas where it's closer to the ground, and wear a dust mask when you're applying it.
-
-### My chickens free-range. Can I still treat them effectively?
-
-Yes, but it requires catching each bird individually, which takes more effort. A good handling setup helps enormously. Consider a temporary smaller pen or use the coop at night when birds are roosted and easier to catch. Don't let the challenge of catching free-range birds become an excuse to skip treatment or re-treatment. That second treatment is especially important, and you need to get every bird, not just the ones that were easy to grab.
 
 ---
 

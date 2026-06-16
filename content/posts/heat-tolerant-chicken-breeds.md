@@ -72,27 +72,6 @@ Electrolytes genuinely help during heat events. Sav-A-Chick electrolyte packets 
 
 ---
 
-## FAQ
-
-### What's the single best breed for very hot, humid climates like Florida or Louisiana?
-
-Egyptian Fayoumis or White Leghorns are your best options. Fayoumis actually have an edge in high humidity specifically because of their body type and origin, but Leghorns are easier to find and still perform well. Either way, management (shade, ventilation, water) matters as much as breed.
-
-### Can cold-hardy breeds like Buff Orpingtons survive in hot climates?
-
-They can survive, but they'll struggle. Heavy feathering, compact body type, and smaller combs all work against them in heat. If you're in a mild climate with hot summers (Pacific Northwest, upper South), they're manageable. Deep South or desert Southwest, I'd honestly steer you elsewhere.
-
-### Do roosters handle heat differently than hens?
-
-Not dramatically, no. The same breed-level factors apply. Roosters do have larger combs on average, which helps slightly, but the bigger variable is still breed and environment rather than sex.
-
-### At what temperature should I be worried about heat stress?
-
-Visible panting starts around 85-90°F for most breeds and becomes concerning above 95°F. At 104°F+, you're in genuine danger zone, especially with humidity above 50%. Watch for open-mouthed panting, wings held away from the body, pale combs, and lethargy. Birds that stop moving and sit hunched are in trouble.
-
-### Does feather color really affect heat tolerance that much?
-
-Somewhat, yes. Dark feathers absorb more solar radiation than light ones, which matters most in direct sun. In shade, it's less relevant. It's a real factor but a smaller one than comb size, body weight, and feather density overall. If everything else is equal between a dark bird and a light bird of the same breed, the lighter bird has a small advantage on a sunny day.
 
 ---
 

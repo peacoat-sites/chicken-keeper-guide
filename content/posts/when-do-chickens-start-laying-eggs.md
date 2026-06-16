@@ -103,27 +103,6 @@ If you're choosing breeds specifically for egg production and want something tha
 
 ---
 
-## Frequently Asked Questions
-
-### Why is my 25-week-old hen still not laying?
-
-Several things could be going on. Check daylight hours first. If she's getting less than 14 hours of combined natural and artificial light, that's likely the cause. Also check her comb color. A pale comb at 25 weeks suggests she's still maturing hormonally. Stress, nutritional gaps, and the breed itself (some heritage breeds genuinely take 28 to 32 weeks) are other common explanations. Rule out illness and hidden nests before assuming there's a serious problem.
-
-### Do chickens need a rooster to start laying eggs?
-
-No. Hens lay eggs based on their hormonal cycle, not the presence of a male. A rooster is only needed if you want fertilized eggs that can be hatched. For backyard egg production, roosters are completely optional.
-
-### Will my hens stop laying in winter?
-
-Many will slow down or stop entirely. Reduced daylight is the primary trigger. Breeds like Australorps and Rhode Island Reds handle the winter dip better than others. Adding a coop light on a timer to maintain 14 to 16 hours of light can keep production going through the colder months. Some keepers choose to let hens rest naturally through winter and let biology take its course.
-
-### How many eggs should I expect from a new layer?
-
-Young pullets often lay more frequently than older hens. A first-year Leghorn or sex-link hybrid might give you 5 to 6 eggs per week consistently. A heritage breed like an Orpington in her first year might average 3 to 4 eggs per week. Production peaks in the first 1 to 2 years and gradually declines after that, though hens can continue laying for 5 or more years at reduced rates.
-
-### Can I eat those weird first eggs with soft shells or unusual shapes?
-
-Generally yes, as long as the egg looks and smells normal inside. Soft-shelled eggs should be refrigerated promptly and used quickly since the membrane alone doesn't protect the egg as well as a hard shell. Double yolkers are perfectly edible and some people consider them a treat. If you crack open an egg and the white is discolored, smells off, or the yolk is abnormal, discard it.
 
 ---
 

@@ -98,28 +98,5 @@ This isn't a comprehensive database, but it gives you a realistic framework for 
 
 One consistent pattern: cities that updated their ordinances after 2010 tend to be more reasonable than cities running on codes written in the 1970s or 1980s. If your city's ordinance looks like it was written when Carter was president, there's often both a regulatory gap and an opportunity to advocate for modernization.
 
-## Frequently Asked Questions
-
-### Can my HOA override my city's chicken ordinance?
-
-Yes. HOA CC&Rs are private contractual agreements that run with the property. If your CC&Rs prohibit livestock or poultry, that restriction is legally enforceable regardless of what your municipality allows. Before you buy a property in an HOA community, request the full CC&Rs and look under livestock, animals, and nuisance sections. "Animals" in HOA documents sometimes means pets only. "Livestock" is the word that will get your hens flagged.
-
-### What counts as a rooster ban? Can I keep a hen that crows?
-
-Yes, some hens crow. It's uncommon but it happens, especially in flocks that lose their rooster. The hen (usually a dominant bird) takes on some behavioral characteristics. Ordinances ban roosters by definition, which means biologically male birds. A crowing hen is still legally a hen. That said, crowing of any source can trigger noise complaints under separate municipal noise ordinances, so a crowing hen isn't a magic loophole.
-
-### How do I find out if my address is in city limits or county jurisdiction?
-
-Your county assessor's website usually has a parcel lookup tool that shows your jurisdictional boundaries. You can also call your county planning department directly. The distinction matters because city ordinances don't apply to unincorporated county land, and county regulations are often far more permissive. I've seen situations where a property on a rural road was technically outside city limits and subject to almost no poultry restrictions at all.
-
-### If I have 4 legal hens but want to add more, can I just do it and see?
-
-You can, but you're accepting real risk. The more common approach is to quietly keep a flock slightly over the limit and maintain good neighbor relations. This works until it doesn't. A formal complaint triggers formal enforcement. If you want to push for a higher limit legitimately, attend a city council meeting and make the case. Bring data on municipal programs in comparable cities. Several cities have raised their limits this way, and it doesn't take a massive organizing effort.
-
-### Do chicken ordinances apply to bantam breeds the same as standard breeds?
-
-In virtually all cases, yes. Ordinances regulate chickens as a category. A Serama bantam that weighs 10 ounces counts the same as a Jersey Giant that weighs 13 pounds. No municipality that I'm aware of distinguishes between bantam and standard breeds in its hen count. A few ordinances have language about "miniature poultry" but these are exceptions. Don't assume a bantam breed gives you extra birds.
-
-Getting chickens right means getting the paperwork right first. That's not a fun sentence to write and I doubt it's fun to read, but the alternative is building a coop you have to tear down or rehoming birds you've gotten attached to. The legal landscape for backyard chickens has genuinely improved over the last decade, and most suburban and urban areas have a workable path to a small legal flock. Find the code, confirm the setbacks, get the permit if one's required, and then build the coop. The chickens don't care what order you do things in. Your code officer does.
 
 *Photo: [Djordje Vezilic](https://www.pexels.com/@djordje-vezilic-59599374) via Pexels*

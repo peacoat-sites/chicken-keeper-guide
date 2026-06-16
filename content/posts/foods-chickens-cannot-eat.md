@@ -111,27 +111,6 @@ Standing water in feeders and waterers can grow algae and bacteria that affect t
 
 ---
 
-## Frequently Asked Questions
-
-### Can chickens eat bread?
-
-Yes, in small amounts, plain bread is generally safe. The issue is that bread has almost no nutritional value and can expand in the crop if wet. Feeding a lot of bread regularly pushes out nutritious food and can contribute to obesity and reduced laying. Keep it to a bite-sized occasional treat, not a regular scrap dump.
-
-### Are cooked potatoes safe for chickens?
-
-Yes. Fully cooked white or sweet potatoes (plain, no seasonings) are safe and actually provide good energy. The danger is with the green parts of the potato plant, the skin of green potatoes, and all potato leaves, which contain solanine. Never feed raw or green potatoes.
-
-### My chicken ate something it shouldn't have. What do I do?
-
-Stay calm and assess the situation. If the bird ate something mildly questionable, monitor closely for the next 24 to 48 hours. Watch for lethargy, labored breathing, neurological signs, or dramatic changes in droppings. If the bird ingested something genuinely toxic like avocado or raw beans, contact a poultry vet as soon as possible. Don't try to induce vomiting. Chickens don't have a vomiting reflex the way mammals do.
-
-### Can chickens eat dairy products?
-
-Chickens are lactose intolerant, so large quantities of milk or soft cheese will cause diarrhea. Small amounts of hard cheese or plain yogurt are usually tolerated and can provide a calcium boost. But dairy should be limited and occasional, not a daily offering.
-
-### Is it safe to let chickens eat grass and weeds while free ranging?
-
-Mostly yes. Grass, clover, dandelion greens, and most common lawn weeds are excellent forage. The caution is with ornamental and wild plants. Hemlock (both water hemlock and poison hemlock), bracken fern, and nightshade-family weeds are all genuinely dangerous. Learn what grows in your yard and fence off anything questionable. Free ranging is healthy for chickens, and if you're building out your setup, checking [chicken run size requirements](/chicken-run-size-requirements/) will help you give your flock room to move safely.
 
 ---
 

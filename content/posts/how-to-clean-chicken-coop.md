@@ -153,27 +153,6 @@ After a decade-plus of this, I've made all of these at one point.
 
 ---
 
-## Frequently Asked Questions
-
-### How often should I completely clean my chicken coop?
-
-A full deep clean twice a year, in spring and fall, is the minimum for most backyard coops. If you have a small coop with a large flock, you may need to do it quarterly. The real indicator is your nose and your birds' behavior. Watery eyes in your chickens, persistent ammonia smell, or wet litter that won't dry out are signals to act now regardless of schedule.
-
-### Can I use bleach to clean my chicken coop?
-
-You can, but it's not ideal. Bleach is highly irritating to respiratory tracts, breaks down fast when it contacts organic material, and is corrosive to wood over time. If you use it, dilute it properly (about 1 part bleach to 30 parts water), only apply it after you've already scrubbed and rinsed the surface, and let it fully air out before birds return. Poultry-safe disinfectants like Oxine AH are safer and more effective in coops.
-
-### What's the best bedding for keeping a coop clean longer?
-
-Large-flake pine shavings are the most practical choice for most backyard keepers. They absorb moisture well, are easy to spot clean, and compost readily. Some keepers swear by the deep litter method, where you layer shavings and let beneficial microbes break down the waste over months. It works, but it requires active management: turning regularly and adding fresh material. Wet or smelly deep litter that isn't managed properly is worse than no deep litter at all.
-
-### How do I clean a coop after a sick or deceased bird?
-
-More aggressively than normal. Remove all litter and bag it rather than compost it. Scrub every surface with soap, rinse, then apply disinfectant at a stronger concentration per label directions. For confirmed cases of Marek's disease or other highly contagious conditions, consult your vet about whether fumigation or lime treatment is warranted. [The Chicken Health Handbook by Gail Damerow](https://www.amazon.com/s?k=chicken+health+handbook+gail+damerow) is the best single resource I know for guiding disease-response protocols.
-
-### Do I need to clean the coop in winter?
-
-Yes, but with adjustments. Ventilation in winter is crucial because moisture and ammonia accumulate faster in a closed coop. You may not be able to do a full wet wash in freezing temperatures since the coop won't dry properly. A thorough dry clean, removing all litter and adding a heavy fresh layer, along with a light diatomaceous earth treatment, gets you through until conditions allow a proper wet deep clean. Don't let winter be an excuse to let months go by without addressing litter buildup.
 
 ---
 

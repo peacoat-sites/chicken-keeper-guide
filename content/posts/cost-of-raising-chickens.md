@@ -93,27 +93,6 @@ What surprised me most after ten years is how the costs become almost invisible 
 
 ---
 
-## Frequently Asked Questions
-
-### How much does it cost to start raising backyard chickens?
-
-Realistically, plan for $700 to $1,300 in startup costs for a small flock of four to six hens. This covers a proper coop, a predator-resistant run, hardware cloth, six chicks, a brooder setup, and initial supplies. Most people spend more than they expect because predator-proofing materials and decent coop construction cost more than beginner guides suggest.
-
-### Do backyard chickens actually save you money on eggs?
-
-For most people, no, at least not in the first few years. Annual operating costs for six hens typically run $450-$720, and amortized startup costs push that higher. The egg value produced rarely covers total costs unless you're comparing against premium organic eggs and your flock performs at the high end. The real value is in quality, provenance, and the experience itself.
-
-### How much does chicken feed cost per month?
-
-For a flock of six standard-size hens, expect $25-$35 per month in feed costs, assuming a quality layer pellet at around $22-$28 per 50-pound bag. That figure drops somewhat if your birds free range regularly and goes up if they're fully confined.
-
-### What's the most expensive part of keeping chickens?
-
-Startup coop and run construction, by a significant margin. Done right, with quality materials and genuine predator protection, it's a $500-$1,000 investment before you account for anything else. The ongoing feed cost is real but manageable; it's the upfront infrastructure that trips people up.
-
-### How long do hens lay eggs, and how does that affect the cost calculation?
-
-Hens typically lay well for two to three years, with peak production in years one and two. After that, production drops significantly but doesn't stop entirely. Many backyard keepers keep hens past their peak, which increases the cost-per-egg ratio. If you're purely cost-focused, rotating in new pullets every two years and rehoming older hens makes the most financial sense, though that's a complicated calculation most people don't want to do.
 
 ---
 

@@ -111,27 +111,6 @@ Sometimes you do everything right and integration still goes sideways. Here's ho
 
 ---
 
-## FAQ
-
-### How long does integration actually take?
-
-Most integrations settle into a functional routine within two to four weeks, but the pecking order itself may take six to eight weeks to fully stabilize. You'll know things are genuinely integrated when you stop seeing sustained chasing, new birds can access food and water freely, and everyone is roosting together at night without drama.
-
-### Can I use treats to help with integration?
-
-Yes, and it's one of the better low-effort tools you have. Scatter scratch grains or mealworms in the shared space when you first open it up to the combined flock. Chickens focused on pecking at food are less focused on each other. It doesn't fix a bad introduction, but it smooths one over nicely. I keep [dried mealworms](https://www.amazon.com/s?k=dried+mealworms+chickens&tag=backyardchickens-20) on hand specifically for integration weeks.
-
-### Do roosters make integration easier or harder?
-
-It depends on the rooster. A confident, calm rooster will often actively include new hens and redirect aggression from the dominant hens, which genuinely helps. An anxious or aggressive rooster may add to the chaos. I've had integrations go smoother with a good rooster present than without, but I've also had roosters that were the worst actor in the whole situation. Know your bird.
-
-### What if my new birds brought in a disease despite quarantine?
-
-This is a painful situation and unfortunately not rare. If you're seeing respiratory symptoms, swollen faces, or significant mortality after integration, separate everyone immediately and call your state veterinarian's poultry diagnostic lab. Many states offer free or low-cost flock testing. Don't wait it out hoping it resolves. Marek's disease, infectious bronchitis, and mycoplasma can spread rapidly through an integrated flock.
-
-### My older hen is getting beat up by the new birds. Is that normal?
-
-It's not common, but it happens. If your older hen is at the bottom of the original pecking order, newly introduced birds that are young, energetic, and confident may outrank her quickly. Watch that she's able to eat and drink. If she's being seriously bullied, she may need a few days of separation to recover before trying again, or you may need to restructure the integration to give her more escape options.
 
 ---
 

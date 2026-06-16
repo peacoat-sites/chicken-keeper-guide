@@ -97,28 +97,5 @@ A mixed-breed flock also gives you a buffer. Your ISA Browns carry production in
 
 For a family needing a dozen eggs a day, I'd suggest six to eight hens minimum, with some variation in breed and age. Factor in that not every hen lays every day even at peak, and you'll rarely have 100 percent of your flock laying simultaneously.
 
-## FAQ
-
-### How many chickens do I need for a family of four?
-
-A family of four typically needs three to four hens if you're fine with some variability in supply, or five to six hens if you want a reliable daily dozen and some surplus. At peak lay, a good production breed like Rhode Island Red or Australorp will give you five to six eggs per week per bird. Do the math backward from how many eggs your family actually eats.
-
-### What age do chickens start laying eggs?
-
-Most standard egg-laying breeds start laying at 18 to 24 weeks of age. Production breeds like ISA Browns often start on the earlier end, around 16 to 18 weeks. Heritage breeds and dual-purpose birds tend toward the later end of the range. You'll know it's coming when you see hens squatting submissively when you reach toward them. That "submissive squat" usually shows up a week or two before the first egg.
-
-### Do I need a rooster for my hens to lay eggs?
-
-No. Hens lay eggs with or without a rooster present. You only need a rooster if you want fertilized eggs for hatching. For egg production purposes, roosters are optional. In many municipalities, roosters aren't even permitted in backyard flocks, so check your local ordinances before bringing one home.
-
-### Why did my hens suddenly stop laying?
-
-The most common causes are shorter daylight hours in fall and winter, the annual molt, a health issue like mites or worms, stress from a predator visit or new flock members, nutritional gaps (especially protein), or simply age. Walk through this checklist before assuming something is seriously wrong. Most sudden production drops have a straightforward fix once you identify the cause.
-
-### What's the difference between brown and white eggs nutritionally?
-
-Nutritionally, nothing significant. The shell color is determined by the breed, not the diet or quality of the egg. A brown egg from a stressed, grain-fed hen in a cramped coop is nutritionally inferior to a white egg from a well-fed hen with pasture access. What matters is how the hen is raised and fed, not what color shell she produces.
-
-The bottom line is that the best egg-laying chicken is the one that fits your specific setup, climate, and goals. Don't let the perfect be the enemy of the good. A backyard flock of Rhode Island Reds, Australorps, and a couple of Barred Rocks will keep most families in eggs for years without drama. Start there, learn your birds, and adjust with every new flock. That's how twelve years of chicken keeping actually goes.
 
 *Photo: [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels) via Pexels*

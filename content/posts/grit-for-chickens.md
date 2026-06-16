@@ -109,27 +109,6 @@ For anyone setting up a first flock, your coop setup matters just as much as you
 
 ---
 
-## Frequently Asked Questions
-
-### Do chickens need grit if they free-range?
-
-Free-ranging chickens often pick up natural grit from the ground, but it depends entirely on your soil type and what your land contains. Clay-heavy or sandy soils may not offer the hard, angular particles a gizzard needs. Offering supplemental granite grit free-choice to free-range flocks is still a good idea, especially during wet seasons when natural grit sources get buried or washed away.
-
-### Can I use sand instead of grit?
-
-Construction sand or coarse builder's sand is not an adequate substitute for granite grit. Sand particles are too smooth and too fine to provide real grinding action in the gizzard. Some people use coarse horticultural sand as a dust bath substrate or run surface, and that's fine, but it won't replace purpose-made poultry grit for digestive function.
-
-### Is oyster shell the same as grit?
-
-No. Oyster shell is soluble and dissolves quickly in digestive acid, making it a calcium supplement rather than a grinding medium. It's essential for laying hens but doesn't function as insoluble grit. You need both products, offered separately, for a fully covered nutritional program.
-
-### How often should I replace the grit in the feeder?
-
-Top off the container whenever it runs low, and completely replace and clean the container roughly once a month. Grit can collect droppings, moisture, and feed debris that can harbor bacteria or mold. A quick rinse and dry of the container during your monthly clean is enough to keep things hygienic.
-
-### Can chickens eat too much grit?
-
-In rare cases, yes. This usually happens when birds are bored, stressed, or when grit is mixed directly into their feed rather than offered free-choice. Too much grit can cause a physical blockage in the gizzard called a grit impaction. Free-choice feeding in a separate container minimizes this risk dramatically, because birds self-regulate and stop eating grit once their gizzard is adequately supplied.
 
 ---
 

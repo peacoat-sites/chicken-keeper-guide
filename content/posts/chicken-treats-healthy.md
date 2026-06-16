@@ -74,27 +74,6 @@ Scratch grains deserve a specific mention because they're probably the most misu
 
 ---
 
-## Frequently Asked Questions
-
-### Can chickens eat tomatoes?
-
-Yes, ripe tomatoes are fine in moderation. Avoid the leaves, stems, and unripe green tomatoes, which contain solanine, a compound in the nightshade family that's toxic to chickens in significant amounts. A ripe sliced tomato tossed in the run a few times a week is not a problem.
-
-### How often should I give my chickens treats?
-
-Daily treats in small quantities are fine if you're staying within that 10% threshold. What I'd actually suggest is treating it more like a few times a week rather than every single day, mostly because chickens that get treats daily start holding out for them and eating less of their balanced feed. A little unpredictability keeps the flock motivated.
-
-### Are mealworms safe to feed every day?
-
-In small amounts, yes. The concern with feeding a lot of mealworms daily is that they're very high in phosphorus, which can interfere with calcium absorption over time, and that matters for laying hens especially. A tablespoon per bird a few times a week is a reasonable ceiling. During heavy molt, you can be a bit more generous.
-
-### Can I feed my chickens kitchen scraps?
-
-Some, yes. Cooked vegetables, plain cooked meat or fish, fruit, and grains are generally fine. Avoid anything salty, heavily seasoned, moldy, or from the toxic list above. I keep a small bucket on the counter and toss appropriate scraps in throughout the day, then bring it out in the afternoon so it doesn't sit too long.
-
-### Do chickens need grit if I'm giving them treats?
-
-Yes. If your chickens aren't free-ranging on natural ground, they need access to insoluble grit (granite grit, not oyster shell, which is calcium, not grit) to grind up anything that isn't crumble or pellet. A small dish of Manna Pro Poultry Grit left out free-choice is cheap insurance. I learned this one the hard way when a hen got impacted crop from eating too much fibrous material without enough grit available.
 
 ---
 

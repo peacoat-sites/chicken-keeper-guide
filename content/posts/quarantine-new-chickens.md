@@ -109,27 +109,6 @@ Move new birds into the main coop at night. Hens reorganize pecking order more c
 
 ---
 
-## FAQ
-
-### Do I need to quarantine chicks from a hatchery the same way I quarantine adult birds?
-
-Yes, but the risk profile is slightly different. Day-old chicks from large commercial hatcheries like Meyer or Cackle are Marek's vaccinated and have lower exposure history than adult birds from mixed flocks. That said, they can still carry Mycoplasma, coccidiosis, and other issues, and your adult hens have no immunity to whatever the chicks are carrying. Keep them separate until they're fully feathered and old enough to integrate, which doubles as natural quarantine time anyway.
-
-### Can I quarantine birds inside my house if I don't have a separate outdoor space?
-
-Technically, yes. A large dog crate in a basement or garage works. The critical factor is that no shared air circulates between that space and wherever your flock lives. A house and a backyard coop rarely share direct airflow, so this can work. Use a brooder plate or heat lamp if it's cold, keep the space well-ventilated, and clean obsessively. It's not ideal, but it beats skipping quarantine entirely.
-
-### What do I do if a bird gets sick during quarantine?
-
-Don't panic, but don't ignore it either. Isolate the sick bird from the other quarantine birds immediately. Contact a poultry vet or your state's poultry diagnostic lab. Document symptoms and their onset. If you treat with antibiotics, restart your quarantine clock from the last day of treatment. A bird that recovered from a bacterial infection during quarantine is not the same as a bird that sailed through 30 days clean.
-
-### Should I quarantine birds I'm bringing back from a show or fair?
-
-Absolutely, and this is one of the most overlooked quarantine scenarios. Show birds have had contact with hundreds of birds from dozens of flocks in close quarters. Even if your bird looked healthy going in and healthy coming out, it's been exposed to a significant cross-section of regional poultry diseases. Bring it home, put it in quarantine for 30 days, and treat it exactly like a new addition.
-
-### Does quarantine protect against Marek's disease?
-
-Marek's is a special case. The virus is extremely persistent in the environment, spread through feather dander, and virtually impossible to exclude through standard biosecurity once it's on your property. Quarantine reduces the chance of introducing a new strain, which matters because different strains have different virulence. But if you have unvaccinated birds and bring in a bird shedding Marek's, exposure can happen through shared air before formal integration. The practical takeaway: vaccinate at hatch, not as a quarantine substitute, but because it's the only real protection you have.
 
 ---
 

@@ -93,27 +93,6 @@ Week 3: Down to 85°F. Chicks are noticeably more active and less dependent on t
 
 Weeks 4-6: Continue dropping 5°F per week. Most chicks in a warm-ish space (above 65°F) are basically self-regulating by week 5. Heritage breeds like Buff Orpingtons tend to feather out a bit faster than high-production breeds in my experience, though the research here is genuinely mixed.
 
-## FAQ
-
-### What wattage heat lamp do I need for chicks?
-
-For most indoor brooders in a 60-70°F space, a 150-watt bulb is sufficient for small batches of 6-15 chicks. Reserve the 250-watt bulbs for cold garages, barns below 50°F, or large batches of 25+. More wattage than necessary is a fire risk and makes temperature management harder.
-
-### How far should a heat lamp be from chicks?
-
-Start with the lamp positioned so the warmest zone on the brooder floor reads 95°F, which is typically 18-24 inches depending on wattage and brooder size. Chick behavior (see above) matters more than any fixed distance rule. Adjust based on what the thermometer and the chicks actually tell you.
-
-### Can a heat lamp start a fire in a chicken coop?
-
-Yes, and it happens regularly. The most common causes are clamps failing and the lamp falling, cheap plastic fixtures melting, and lamps getting knocked over. Use wire or chain suspension with two attachment points, a proper porcelain-socket fixture, and a smoke detector in any space where you're running a brooder.
-
-### When can chicks go without a heat lamp?
-
-Most chicks are fully feathered and can tolerate ambient temperatures around 65°F without supplemental heat by 5-6 weeks old. If your outdoor temperatures are warmer than that, transition earlier. Don't go by age alone; go by feather coverage and watch how they behave when you turn the lamp off briefly.
-
-### Is a red heat lamp better than a white one for chicks?
-
-The theory is that red light reduces pecking because chicks see blood less clearly. The honest answer is that the evidence is anecdotal and the effect is probably minor in a properly managed brooder with appropriate stocking density. Ceramic heat emitters (no light at all) are a better choice if you want to reduce stress and let chicks sleep normally.
 
 ---
 

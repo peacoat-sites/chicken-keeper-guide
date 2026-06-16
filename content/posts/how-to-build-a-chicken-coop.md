@@ -116,27 +116,6 @@ Check every joint and corner on the exterior. A half-inch gap near a vent might 
 
 ---
 
-## FAQ
-
-### How long does it take to build a chicken coop?
-
-For a simple 4x8 coop with a small attached run, a capable DIYer working solo should expect 2-4 full weekends. That includes framing, sheathing, roofing, hardware, and painting. If you've never used a circular saw, budget a little extra. If you've got a helper, cut that time significantly. Don't rush the framing stage. Errors in the frame compound themselves all the way through the build.
-
-### What's the cheapest way to build a chicken coop?
-
-Reclaimed pallets, salvaged lumber, and repurposed garden sheds can all bring costs down. A basic pallet coop can be built for under $100 if you're resourceful. The non-negotiables where you shouldn't cut corners: hardware cloth, a solid waterproof roof, and predator-resistant latches. Spend money on those even if you save it everywhere else. Pallets as framing and walls are fine. Pallets as your only predator barrier are not.
-
-### Do I need a building permit to build a chicken coop?
-
-It depends entirely on your municipality. Many suburban and urban areas have rules about coop size, setbacks from property lines, and whether roosters are allowed at all. Call your local planning or zoning office before you build, not after. Getting a complaint-driven inspection after the fact is a frustrating situation that could require you to tear down or modify what you've built.
-
-### What's the best bedding for a chicken coop floor?
-
-Pine shavings are the most popular choice and for good reason: they're absorbent, widely available, and easy to compost. Avoid cedar shavings, which have aromatic oils that can irritate birds' respiratory systems. The deep litter method, where you let bedding build up 6-12 inches and turn it periodically, is a legitimate low-labor approach that actually generates some heat in the floor during winter. I've used it for years in my main coop. Just make sure your ventilation is solid before trying it.
-
-### How do I keep a chicken coop warm in winter without electricity?
-
-Insulation and ventilation are your best tools, and they work together better than most people realize. A well-insulated coop with proper venting retains body heat from the birds without getting damp and cold. Most standard breeds handle temperatures well below freezing without supplemental heat. Seal drafts, add extra bedding depth, and make sure roost bars are wide enough (at least 2 inches) so birds can sit flat on their feet and warm them with their bodies. If you're in an extreme climate, a flat-panel radiant heater like the [Cozy Products Chicken Coop Heater](https://www.amazon.com/s?k=cozy+products+chicken+coop+heater&tag=backyardchickens-20) is safer than a heat lamp and genuinely effective.
 
 ---
 

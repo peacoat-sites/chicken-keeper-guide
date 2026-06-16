@@ -98,27 +98,6 @@ What the molt does provide is a kind of biological reset for health. Hens that c
 
 ---
 
-## FAQ: Molting and Egg Production
-
-### How long will my chickens stop laying during molt?
-
-Most hens stop laying almost entirely for 6 to 12 weeks during a full molt. Fast-molting birds may return to laying in as few as 4 to 6 weeks. Slow molters, especially older hens or heritage breeds, can take 4 to 5 months before they're back to full production. The single biggest factor affecting the timeline is nutrition. High-protein feeding genuinely speeds up feather regrowth and shortens the off-laying window.
-
-### Should I add extra light to the coop during molt?
-
-The research here is genuinely mixed. Adding supplemental light can help stabilize laying in hens that have finished molting but are also dealing with short winter days. However, some poultry researchers suggest that artificially preventing a molt by maintaining long light cycles year-round stresses the reproductive system over time. My practical approach: let the molt happen naturally in fall, then add supplemental lighting in late October or early November once birds are through the worst of it to support winter laying.
-
-### Can I do anything to trigger molt on purpose?
-
-Yes, and commercial operations do this routinely. Controlled molting is typically induced by reducing feed, changing the light cycle, or switching to a low-protein diet temporarily. For backyard keepers, the most practical approach to a "forced molt" is a 10 to 14-day diet change (low protein, reduced calories) combined with a sudden shift to shorter artificial light days. I've done this once with older hens to try to reset their production, with moderate results. It's not something I'd recommend to beginners.
-
-### My hen is losing feathers but still laying. Is that a normal molt?
-
-It can be, especially in early or mild molts. Some hens do a gradual, soft molt where they lose feathers slowly over several months and maintain some level of egg production throughout. However, feather loss without molt can also indicate other problems: feather pecking from flockmates, lice or mites, broody behavior, or a protein deficiency. Check the feather loss pattern. If it's concentrated around the vent or back, look for parasites or rooster damage. If it's starting at the head and neck and spreading down, it's almost certainly a normal molt.
-
-### Do roosters molt too, and does it affect their behavior?
-
-Yes, roosters molt on roughly the same schedule as hens. You'll see the same feather loss and regrowth cycle, and it often coincides with a noticeable reduction in mating activity. The rooster may seem less aggressive or less interested in the hens during molt. His tail feathers, especially the long sickle feathers, are usually the most dramatic part of the regrowth. A rooster coming out of molt with a new set of long sickle feathers is a genuinely impressive bird.
 
 ---
 

@@ -68,26 +68,5 @@ If your run is a barren dirt patch with 12 birds in it, you're going to fight a 
 
 ---
 
-## FAQ
-
-### Can I worm chickens naturally without knowing what kind of worms they have?
-
-You can, and most keepers do. Natural preventatives are broad-spectrum enough that the specific worm species matters less when you're doing maintenance. But if a bird is sick or you're seeing actual worms, get a fecal float first. Treating blindly with conventional dewormers when you don't know what you're dealing with wastes time and can contribute to resistance.
-
-### How often should I do a natural worming protocol?
-
-A reasonable schedule for a healthy flock: pumpkin seeds or pepitas weekly or biweekly, ACV in water a few days per week year-round, and a fermented feed rotation ongoing. You don't need to do everything simultaneously. Rotate and keep it manageable.
-
-### Will diatomaceous earth hurt my chickens if they eat it?
-
-Food-grade DE is generally recognized as safe for animals at the inclusion rates used in feed (up to 2%). Don't confuse it with pool-grade (calcined) DE, which is dangerous. The dust is irritating to lungs, so avoid conditions where you or the birds are breathing large amounts.
-
-### Do I need to withhold eggs during natural worming?
-
-No withdrawal period is needed for any of these natural methods. One clear advantage over conventional chemical dewormers, which often require egg withdrawal periods of 7 to 14 days (depending on the product).
-
-### Can a heavy worm infestation be cleared with natural methods alone?
-
-Honestly, probably not. A heavy load confirmed by fecal test in a symptomatic bird needs real intervention. Use fenbendazole or another veterinary-recommended option, then shift to natural maintenance afterward. Trying to ride out a serious infestation on pumpkin seeds and garlic is one of those things that sounds good until a bird dies from it.
 
 *Photo: [Emma Cate](https://www.pexels.com/@emmacate) via Pexels*

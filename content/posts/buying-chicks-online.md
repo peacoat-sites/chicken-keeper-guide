@@ -87,27 +87,6 @@ The "free rare chick" that some hatcheries include is almost always a male. It's
 
 ---
 
-## Frequently Asked Questions
-
-### Is it safe to ship chicks through the mail?
-
-Yes, with some caveats. Day-old chicks can survive 48-72 hours without food or water because they absorb the yolk before hatching. USPS Priority Mail Express is fast enough in most cases, but delays happen. Ordering in mild weather and arranging a post office pickup dramatically improves survival rates.
-
-### What's the minimum number of chicks I can order?
-
-Most major hatcheries like Meyer Hatchery allow orders of 3 chicks with a heat pack included. Murray McMurray has also moved toward small minimums in recent years. Avoid ordering fewer than 3 during cold months unless the hatchery specifically guarantees it with thermal packaging.
-
-### How do I know if a hatchery is reputable?
-
-Check for NPIP certification first, which you can verify through the USDA APHIS website. Then look for clear refund or replacement policies for dead-on-arrival chicks. Reviews on BackyardChickens.com forums are genuinely useful here because people post real experiences, including the bad ones.
-
-### What do I do if chicks arrive dead or dying?
-
-Photograph everything before removing birds from the box. Contact the hatchery immediately, usually within 24 to 48 hours of arrival. Reputable hatcheries like Meyer, Murray McMurray, and Cackle will reship or refund losses. Most have specific claim windows, so don't wait.
-
-### Can I order chicks year-round?
-
-Technically yes, but I wouldn't order in the middle of winter unless you're in a mild climate. Cold transit conditions are brutal on shipped chicks. Late March through May and again in September are the sweet spots for most of the country. Plus, spring chicks raised through summer are laying before their first winter.
 
 ---
 

@@ -96,27 +96,6 @@ One product worth mentioning is [Purina Layena Plus Omega-3](https://www.amazon.
 
 ---
 
-## Frequently Asked Questions
-
-### Can I feed layer pellets to chicks if it's all I have?
-
-Avoid it if at all possible. The high calcium content in layer feed is hard on young kidneys. If you're in a genuine emergency situation and it's your only option for a day or two, dilute it heavily with plain grains and get proper starter feed as soon as you can. This is not a long-term workaround.
-
-### When exactly should I switch from starter to layer feed?
-
-The most reliable trigger is seeing your first egg, not a calendar date. Breed matters here since some bantams start laying at 16 weeks while larger breeds might not lay until 24 weeks. Watch for signs of laying readiness: a reddening, enlarging comb, squatting behavior when you approach, and interest in the nest boxes.
-
-### Can roosters eat layer feed?
-
-They can tolerate it in mixed flock situations, but it's not ideal over the long term. Roosters don't need the elevated calcium, and high calcium can stress their kidneys over time. If you have a rooster with laying hens, the practical solution is again: offer an all-flock feed and keep oyster shell available separately. The rooster won't seek out the oyster shell, but your hens will.
-
-### Why are my hens laying thin-shelled eggs even on layer feed?
-
-A few possibilities. Check that the calcium percentage on your feed bag is 3.5% or higher. Older hens, particularly those over 2-3 years, absorb calcium less efficiently and often need supplemental oyster shell even on a good layer ration. High-production breeds like [best egg laying chickens](/best-egg-laying-chickens/) put enormous demands on their systems and almost always benefit from separate free-choice calcium. Heat stress can also temporarily reduce shell quality regardless of diet.
-
-### Is organic or non-GMO starter or layer feed worth the extra cost?
-
-Nutritionally, the evidence that organic feed produces significantly healthier or more productive chickens is limited. What you're paying for is primarily peace of mind around inputs. That said, some small producers who sell eggs at a premium use organic feed as part of their marketing. For most backyard keepers, a quality conventional feed from a reputable brand will give you excellent results without the 30-50% price premium.
 
 ---
 

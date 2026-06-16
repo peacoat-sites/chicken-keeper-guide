@@ -104,27 +104,6 @@ A heavy-duty automatic coop door paired with a secure run is one of the quality-
 
 ---
 
-## FAQ
-
-### Can I keep 6 chickens in a 4x4 coop?
-
-Technically, 16 square feet for 6 birds works out to about 2.7 square feet per bird. That's too small for standard breeds in most climates. You might get away with it for bantams with extensive run access, but for standard hens I'd consider that a welfare problem waiting to happen. At minimum, a 6-bird standard flock needs a 4x6 or 5x6 coop. If you're in a cold climate, push to 6x6 or larger.
-
-### Does coop size affect egg production?
-
-Yes, indirectly but meaningfully. Overcrowded hens experience chronic stress, which elevates cortisol levels and suppresses laying. I've seen flocks drop 30 to 40% in production during overcrowded winters and recover once given more space. The connection isn't always obvious, but it's real. If your birds are laying poorly for no obvious nutritional or health reason, look hard at their living conditions.
-
-### How do I calculate coop size if I plan to expand my flock later?
-
-Build for your target flock size, not your current one. If you have 4 birds now but realistically plan to have 10 within two years, build the 10-bird coop now. The cost difference between a 4x6 and a 6x10 is far less than rebuilding later, and your current birds will thrive with extra room in the meantime.
-
-### Is a bigger coop harder to keep warm in winter?
-
-This is a common concern, and it's partially valid. A massive coop can be harder to warm slightly, but chickens are actually more cold-hardy than most people realize. Healthy adult birds handle temperatures well below freezing as long as the coop is dry and draft-free. Body heat from the flock itself does a significant amount of temperature regulation in a well-insulated coop. The real risk in winter is moisture and ammonia buildup from poor ventilation, which is actually worse in a too-small, too-tight coop. Good ventilation matters more than raw square footage for winter health.
-
-### What's the smallest coop that's actually practical for a backyard flock?
-
-For most people starting with backyard chickens, a 4x6 coop (24 square feet) serves 4 to 6 birds in a mild climate, or 3 to 4 birds in a cold one. Anything smaller and you're in constant maintenance mode: cleaning more often, managing pecking issues, and dealing with stressed birds. That's not the experience most people are looking for. If you're truly space-limited, stick to 3 to 4 bantams in a well-built small coop with a generous run.
 
 ---
 

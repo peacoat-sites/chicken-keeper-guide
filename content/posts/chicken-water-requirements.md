@@ -127,27 +127,6 @@ Don't overlook the connection between water access and feed intake. Chickens won
 
 ---
 
-## Frequently Asked Questions
-
-### How long can a chicken survive without water?
-
-Under cool conditions, a healthy adult hen might survive 48 hours without water, but she'll be in distress well before that. In summer heat above 90°F, organ damage can begin in under 24 hours. Chicks are even more vulnerable and can decline within 6 to 12 hours. Always treat water access as the top priority in your daily coop check.
-
-### Can chickens drink from a puddle or rainwater?
-
-They will, and usually without any ill effects. Rainwater collected in a clean container is fine. Puddles are riskier because they can harbor parasites and bacteria, especially if other animals have access to the same area. Don't go out of your way to stop it, but don't rely on puddles as a water source.
-
-### How do I stop chickens from spilling or tipping their waterer?
-
-Raise the waterer to back height and hang it if possible. A hanging waterer wobbles rather than tipping. If you use a ground waterer, place it on a flat, stable rubber mat. Switching to a nipple or cup drinker system eliminates most spilling issues entirely.
-
-### Do I need to add anything to my chickens' water?
-
-Plain, clean water is sufficient for a healthy flock. During heat stress, poultry electrolytes are genuinely helpful. A tablespoon of raw apple cider vinegar per gallon is a low-risk addition many keepers use for mild probiotic support. Skip anything that isn't specifically formulated for poultry or approved for your situation.
-
-### Why are my chickens drinking so much water suddenly?
-
-A sudden spike in water consumption can signal heat stress, illness, high-salt feed, or the onset of laying in pullets. If temperatures have risen, that's likely the answer. If the weather is normal and intake is still unusually high, check for other symptoms like lethargy or runny droppings and consider whether a vet consult makes sense.
 
 ---
 

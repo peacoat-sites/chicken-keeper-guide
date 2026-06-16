@@ -113,27 +113,6 @@ Feed and water placement matters too. Don't cluster everything in one corner. Sp
 
 ---
 
-## Frequently Asked Questions
-
-### Can chickens live in a run without ever free-ranging?
-
-Yes, and many do very successfully. The key is giving them enough space (think 20 square feet per bird or more), good enrichment, and active ground management. I've kept confined flocks that were healthy, productive, and behaviorally normal for years. The mistake is assuming confinement automatically means suffering. It doesn't if you set it up thoughtfully.
-
-### Is there a minimum run size that works for any breed?
-
-Not really a universal number, but 10 square feet per bird is a starting floor for standard-size breeds in a managed situation where birds also have coop space. Go lower than that and you're gambling with bird health and behavior. Some breed-specific considerations apply: active foragers need more, docile dual-purpose breeds can manage on slightly less.
-
-### How do I know if my current run is too small?
-
-Watch your flock. Chronic feather pecking, bare back patches, birds spending time pressed against the fence line, a dominant hen who terrorizes the others constantly, persistent respiratory issues, recurring bumblefoot: these are signals. Also look at the ground. If it's completely stripped of vegetation and heavily compacted within two weeks of a new flock moving in, the density is too high for that space.
-
-### Does coop size count toward run space requirements?
-
-In some guidelines, yes, and the birds do use the coop floor during the day to a small degree. But in practical terms, I count them separately. Coop space is for sleeping and laying. Run space is for living, foraging, and movement. Don't try to stretch your run numbers by including the coop floor.
-
-### What's the biggest run I've seen backyard keepers wish they'd built?
-
-Every single person I've talked to who has chickens longer than two years wishes they'd built bigger. Bigger run, bigger coop. I've never once heard someone say "I really wish I had less space." Build as big as your yard and budget allow on day one. Future you will be grateful.
 
 ---
 

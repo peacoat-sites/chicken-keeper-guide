@@ -114,27 +114,6 @@ For those just getting started, understanding what your flock can eat is part of
 
 ---
 
-## Frequently Asked Questions
-
-### Can I feed chickens cooked meat and fish?
-
-Yes. Chickens are omnivores and naturally eat protein from animal sources. Cooked chicken, cooked fish, and cooked seafood scraps are all safe and beneficial, especially during molt when protein demands are high. Avoid heavily salted or seasoned preparations. Raw meat carries more bacterial risk and is best avoided.
-
-### Is bread safe for chickens?
-
-Plain bread in small amounts is safe but has almost no nutritional value. Think of it like junk food. A few small pieces occasionally won't hurt, but bread shouldn't be a regular scrap because it fills birds up without providing real nutrients and can lead to a condition called sour crop if fed in excess.
-
-### How often should I give my chickens kitchen scraps?
-
-Daily is fine as long as you're keeping to the 10 percent rule. A small bowl of mixed vegetable trimmings and grain scraps each morning for a flock of four to six birds is perfectly reasonable. The key is keeping it supplemental rather than making scraps the primary food source.
-
-### My chickens won't eat certain scraps. Is something wrong?
-
-Probably not. Chickens have preferences and can be suspicious of unfamiliar foods, especially new textures or strongly flavored items. Some flocks ignore citrus, cooked squash, or anything wet. If they don't eat something after a few minutes, remove it and try a different day. Hunger and curiosity usually win eventually.
-
-### Can chicks have kitchen scraps?
-
-Young chicks under 4 weeks old should stick to starter feed. After 4 to 6 weeks, you can introduce tiny amounts of soft treats like plain scrambled egg or finely chopped greens, but starter feed should remain the main diet through at least 16 weeks. Always offer chick grit alongside any solid treats since their digestive systems are still developing.
 
 ---
 

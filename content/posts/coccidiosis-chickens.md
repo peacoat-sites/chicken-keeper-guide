@@ -118,27 +118,6 @@ Here's the honest truth about prevention: you probably can't prevent exposure, a
 
 ---
 
-## Frequently Asked Questions
-
-### Can adult chickens get coccidiosis?
-
-Yes, although it's much less common and less severe than in young birds. Adult chickens that have been exposed to local *Eimeria* strains over time usually have strong enough immunity to keep infections subclinical. The situations where adults do develop clinical coccidiosis are typically after being moved to a new property with different *Eimeria* strains, after severe stress or illness, or after prolonged antibiotic treatment that disrupts gut flora and reduces resistance.
-
-### Can I use Corid as a preventive during an outbreak even if a bird isn't showing symptoms yet?
-
-Yes, and you should. Treat the entire flock, not just the sick birds. *Eimeria* spreads through shared environment, and birds that look fine today may have ingested oocysts already. The low prevention dose (1 teaspoon per gallon for Corid liquid) can follow the 5-7 day treatment dose to support immunity building while clearing the oocyst load.
-
-### Is coccidiosis the same as worms?
-
-No. Coccidia are protozoa, single-celled parasites. Worms (internal parasites like roundworms or tapeworms) are entirely different organisms treated with different medications. A fecal float from your vet can identify both. Corid does nothing for worms, and dewormers do nothing for coccidia. Some flock keepers confuse the two because both can cause weight loss and poor condition.
-
-### My chicks are on medicated feed. Can they still get coccidiosis?
-
-Yes. Medicated chick starter is not a guarantee. It reduces risk significantly during the most vulnerable developmental window, but it's not 100% protective, especially under high oocyst load conditions, extreme stress, or if the chicks are eating very little feed. Think of it as a safety net, not a force field.
-
-### How long until a sick bird recovers with treatment?
-
-You should see improvement within 24 to 48 hours of starting Corid if you caught the infection before too much intestinal damage occurred. Full recovery, including weight regain and normal droppings, usually takes 1 to 2 weeks. Birds that were very severely affected may never fully catch up to their flockmates in size or production. Some don't make it even with treatment if the intestinal damage was too extensive before you started.
 
 ---
 

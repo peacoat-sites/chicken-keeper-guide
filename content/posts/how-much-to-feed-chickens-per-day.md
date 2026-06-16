@@ -102,27 +102,6 @@ For a feeder that minimizes waste and prevents overnight rodent access, a treadl
 
 ---
 
-## FAQ
-
-### How many pounds of feed does a chicken eat per month?
-
-A standard laying hen eats roughly 7 to 9 pounds of feed per month. A flock of 6 hens will go through approximately 42 to 54 pounds monthly. Heavier breeds, cold climates, and molt can push that number up considerably.
-
-### Can chickens overeat and get fat?
-
-Yes, especially if their diet is heavy in high-energy treats like scratch grains and corn. Laying hens that become obese often develop fatty liver hemorrhagic syndrome, which can be fatal and causes a sharp drop in egg production before it kills the bird. Stick to the 90/10 rule for treats and keep birds active.
-
-### Should I feed chickens in the morning or evening?
-
-Both, ideally. Most keepers provide the bulk of the day's feed in the morning when birds wake up hungry and are most active. A smaller amount in late afternoon encourages the flock to return to the coop before dark. If you're doing free choice feeding, just top off the feeder in the morning.
-
-### Does egg-laying increase how much a chicken eats?
-
-Yes, noticeably. A hen in full lay needs more calcium (for eggshell production) and more protein than a non-laying hen. Layer feed is formulated at 16 to 18 percent protein and 3.5 to 4 percent calcium specifically to meet these demands. If you're feeding a mixed flock of layers and non-layers, the extra calcium can be offered separately as oyster shell.
-
-### Why are my chickens always acting hungry even after eating?
-
-Chickens are natural foragers and will act opportunistic regardless of whether they're actually hungry. That said, constant, frantic pecking at the feeder or ground, feather-pecking among flock members, and weight loss are genuine signs of underfeeding. Check your baseline consumption numbers against the breed-specific guidelines and adjust if there's a shortfall.
 
 ---
 

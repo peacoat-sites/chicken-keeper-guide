@@ -98,27 +98,6 @@ Most backyard keepers use a free-choice feeder, keeping it filled at all times. 
 
 ---
 
-## Frequently Asked Questions
-
-### Can I feed layer pellets to roosters?
-
-Yes, but with some caveats. The extra calcium in layer feed isn't ideal for roosters long-term and can strain their kidneys over time. If you're running a mixed flock with a rooster, the easiest solution is to switch everyone to an all-flock or flock raiser feed and offer oyster shell free-choice. Hens will take what they need; roosters will typically ignore it. This is genuinely one of the cleaner solutions in chicken keeping.
-
-### When should I switch from chick starter to layer feed?
-
-Switch when your pullets start laying, not at a specific age. Most production breeds begin laying around 18-20 weeks, but heritage breeds can take 24-28 weeks. Watch for the physical signs: red, fully developed combs and wattles, squatting behavior when you reach down (the submissive mating crouch), and nesting box exploration. Those signals are more reliable than a calendar date.
-
-### Why are my hens eating less feed in summer?
-
-Heat suppresses appetite in chickens just like it does in most animals. This is normal. Your hens are also likely supplementing with insects, grass, and seeds if they have any outdoor access. In hot weather, focus on keeping feed fresh (heat accelerates spoilage) and making sure cool, clean water is always available. Dehydration reduces feed intake dramatically. You might also notice softer eggshells in summer: heat stress reduces the efficiency of calcium metabolism.
-
-### Is scratch grain bad for chickens?
-
-It's not toxic, but it's nutritionally poor. Think of it as junk food. A handful of scratch as an afternoon treat is fine and useful in winter since digesting corn generates some body heat. Making it a significant part of the diet dilutes protein and micronutrient intake. If you see a drop in egg production, watery droppings, or birds that look underweight, scratch overfeeding is often one of the first things to check.
-
-### Do I need to feed oyster shell if I'm using layer feed?
-
-Layer feed already contains added calcium, but some high-producing hens need more. Thin or pitted eggshells are a sign the hen isn't getting enough calcium for her output. Keeping oyster shell available free-choice costs almost nothing and removes the guesswork. Hens are good at self-regulating calcium intake. You're not going to cause calcium toxicity by offering free-choice oyster shell alongside layer feed.
 
 ---
 

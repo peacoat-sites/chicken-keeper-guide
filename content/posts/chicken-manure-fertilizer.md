@@ -72,27 +72,6 @@ One thing nobody talks about: the deep litter method is not appropriate for ever
 
 ---
 
-## Frequently Asked Questions
-
-### Can I use chicken manure from meat birds (broilers) the same way I use layer manure?
-
-Yes, with one caveat: broiler operations often involve higher stocking densities and different bedding practices, so the manure can be wetter and hotter. Compost it the same way, but be prepared for a more aggressive initial phase. The nutrient content is comparable.
-
-### How long does chicken manure take to compost safely?
-
-An actively managed hot compost pile (turning every 7 to 10 days, pile temperature hitting 130°F or above) can produce finished compost in 45 to 60 days. A passive pile in cooler weather can take 6 months or more. When in doubt, give it more time.
-
-### Is composted chicken manure safe for vegetable gardens?
-
-Yes, fully composted chicken manure is widely used on vegetable gardens and is approved for certified organic production. The key word is "fully composted." If it still smells strongly of ammonia, it needs more time.
-
-### Can too much chicken manure hurt my garden?
-
-Absolutely. Over-application builds up phosphorus and potassium levels in soil over time, which can create nutrient imbalances and make it harder for plants to take up other minerals. If you're spreading hundreds of pounds per small bed every single year, it's worth getting a soil test every two or three years. Your local cooperative extension office usually does them for $15 to $25.
-
-### My chicken manure smells terrible. What am I doing wrong?
-
-Strong ammonia smell usually means too much nitrogen with not enough carbon, or the pile is too wet. Add dry brown material (straw, wood shavings, dry leaves) and turn it to introduce oxygen. If you're storing fresh manure before composting, keep it covered to reduce moisture and contain odors.
 
 ---
 

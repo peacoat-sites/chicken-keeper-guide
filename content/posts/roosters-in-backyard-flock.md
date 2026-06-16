@@ -114,27 +114,6 @@ There's no magic fix. You manage it or you don't keep a rooster. That's the actu
 
 ---
 
-## FAQ
-
-### How do I know if a chick is going to be a rooster?
-
-Vent sexing at hatch is accurate in the hands of a trained hatchery technician, but most small operations don't do it. Feather sexing works on certain sex-linked crosses. For everything else, you're looking at comb development at 4-8 weeks: larger, pinker combs earlier tend to indicate cockerels. Saddle feathers (long, pointed feathers on the lower back) and sickle tail feathers develop around 3-4 months and are the most reliable visual tells. Some breeds (Silkies, Sebrights) are genuinely difficult to sex until they crow or lay.
-
-### Can a rooster live alone with just one or two hens?
-
-Technically yes, but it's usually not a good situation. One or two hens will be over-mated, which damages feathers and stresses the birds. If you're committed to keeping a rooster with a very small flock, hen saddles are non-optional and you'll need to monitor body condition closely.
-
-### My rooster attacked me out of nowhere. Will that behavior stop?
-
-Probably not. Roosters that have successfully landed a hit on a human tend to repeat the behavior unless you're very consistent about the spatial dominance work described above. "Out of nowhere" usually means there were earlier warning signals you didn't read as warnings. The sidestep, the stare, the lowered wing drag are all pre-attack behaviors. Go back to basics on handling and holding your ground, but if attacks are frequent and the bird is large, some roosters just aren't manageable in a backyard context.
-
-### Are fertilized eggs safe to eat?
-
-Yes. A fertilized egg is indistinguishable from an unfertilized one in taste, texture, and nutrition. The embryo develops only under sustained incubation temperatures above 99°F. An egg collected daily from a nesting box and stored at room temperature or refrigerated has no development occurring.
-
-### What do I do with unwanted roosters?
-
-This is the question nobody wants to answer. Rehoming cockerels is genuinely difficult: shelters rarely take them, Craigslist is flooded with free roosters, and farms that claim to take "pets" have limited capacity. Realistic options are processing them for meat (even small cockerels are edible), finding a rural contact through a local poultry swap or feed store, or advertising in Backyard Chickens forums and Facebook groups. Plan for this outcome before purchasing straight-run chicks. About half will be male.
 
 ---
 

@@ -104,27 +104,6 @@ What I'd actually do is plan your hatching dates to avoid this problem. Spring c
 
 ---
 
-## FAQ
-
-### How cold is too cold for chicks outside?
-
-Fully feathered chicks (usually 6-8 weeks) can handle temperatures down to about 55-60°F in dry conditions. Before they're fully feathered, you're relying on supplemental heat. Wet conditions raise the effective danger temperature significantly, so a damp 65°F day can be just as risky as a dry 50°F night.
-
-### Can I put 4-week-old chicks outside during the day?
-
-Yes, with supervision, warm temperatures (65°F or above in the shade), and a covered pen to protect from aerial predators. This is actually a great way to start acclimating them. Just bring them in before temperatures drop in the late afternoon.
-
-### Do chicks need a heat lamp in the coop?
-
-It depends on your climate and the time of year. Fully feathered birds in a coop with good draft protection generally don't need supplemental heat in summer or fall. Winter hatches or early spring transitions may need a low-wattage heat source until nighttime temps stabilize above 50°F.
-
-### Will my older hens kill my baby chicks?
-
-They can. Severe pecking that draws blood can escalate quickly in a flock setting. It's not guaranteed, but it's common enough that you should treat integration as a serious risk management situation, not a casual introduction. Follow a slow integration process and never assume your established birds will just "figure it out."
-
-### What's the earliest chicks can go outside permanently?
-
-In warm climates with consistent nighttime lows above 60°F, some fully feathered birds can transition permanently as early as five and a half to six weeks. That's the early edge. Most birds in most climates are safer at seven to eight weeks. If you're rushing it, you're almost always doing it for your convenience, not theirs.
 
 ---
 

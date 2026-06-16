@@ -108,27 +108,6 @@ The practical takeaway: if you want colorful eggs, a friendly bird, and an affor
 
 ---
 
-## Frequently Asked Questions
-
-### Do all Easter Eggers lay colored eggs?
-
-Almost all do, but not every single one. A small percentage of Easter Eggers don't express the *Oocyan* gene strongly enough to produce a noticeably blue or green egg, and you'll get something that looks cream or very light pink. There's no way to know before first lay. If egg color is critically important to you, buy from a breeder who specifically selects for blue or olive egg layers.
-
-### Can Easter Eggers lay in winter?
-
-Yes, they handle cold reasonably well. Their pea combs are smaller than straight combs, which means they're less prone to frostbite than breeds like Leghorns or Rhode Island Reds. Production will slow naturally with reduced daylight, but Easter Eggers don't fully stop laying through mild winters the way some heavier breeds do. Adding a low-wattage supplemental light to extend "daylight" to 14-16 hours will maintain production.
-
-### Will my Easter Egger ever lay a different color egg?
-
-No. Whatever color she lays in her first egg is the color she'll lay her entire life. The intensity might fade slightly with age or during molts, but a blue-egg layer stays a blue-egg layer. This is why keeping multiple Easter Eggers is the real way to get a variety of shell colors.
-
-### Are Easter Eggers good for beginners?
-
-They're one of the best choices for beginners. They're hardy, friendly, not prone to going broody constantly, and they lay well. The only beginner trap is expecting uniform results. Their variability in appearance and egg color can feel chaotic to someone who wants predictability. If you want consistency, pair a couple of Easter Eggers with a more uniform breed like a Barred Rock or Black Australorp.
-
-### How do I tell a rooster Easter Egger from a pullet as a chick?
-
-It's hard, honestly. Easter Egger chicks are notoriously difficult to sex based on appearance alone because they come in so many color variations. Hatcheries typically offer sexed Easter Eggers at 90-95% accuracy. By 6-8 weeks, males will show noticeably thicker legs, more upright posture, and the beginnings of pointed saddle feathers. If you're really uncertain, wait until 10-12 weeks and look for the development of a more pronounced pea comb and the first appearance of pointed hackle feathers around the neck.
 
 ---
 

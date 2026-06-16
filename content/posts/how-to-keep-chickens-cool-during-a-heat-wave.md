@@ -105,27 +105,6 @@ Scratch grains and cracked corn are high in carbohydrates, which produce more me
 
 ---
 
-## FAQ
-
-### How do I know if my chicken has heat stroke and what do I do immediately?
-
-A chicken with heat stroke will be limp, minimally responsive, and may be stumbling or unable to hold its head up. The comb might look very pale or even slightly blue. Get the bird out of the sun immediately. Hold it in cool (not ice cold) water up to its body, keeping its head above water. Cool water on the legs and under the wings is where you'll get the fastest result. Let it drink if it can hold its head up. Get it into a cool indoor space and monitor it closely. Recovery is possible but not guaranteed. A vet visit is appropriate if the bird doesn't stabilize within 30 minutes.
-
-### My chickens are panting but seem alert. Should I intervene?
-
-Yes. Panting means they're already heat stressed, not just warm. Give them more shade, cold water with ice, and move them away from areas where they're getting direct sun. Don't wait for them to deteriorate before acting. Panting is the warning sign, not the emergency signal. The emergency signal is when they stop moving.
-
-### Do chickens need a fan in every coop, or just in extreme situations?
-
-Not every coop in every climate needs a fan. A well-ventilated coop with good cross-ventilation in a dry, moderate climate can get through summer just fine without powered airflow. But if you're in a humid region, your coop is small and enclosed, or you're looking at sustained temperatures above 90 degrees for more than a few days, a fan is one of the best investments you can make. It's not about luxury, it's about maintaining livable conditions.
-
-### Should I wet down my chickens directly with a hose?
-
-Most chickens hate being sprayed directly with a hose and will run from it, adding stress to an already stressful situation. A better approach is wetting the ground around them, creating a cool damp area they can choose to stand in, and ensuring their water is cold. If you have a bird in serious distress, yes, cool water on the body helps, but for general flock management, forced wetting usually causes more stress than it relieves.
-
-### Is it normal for egg production to drop during a heat wave?
-
-Completely normal. Heat stress redirects a hen's biological resources away from reproduction and toward survival. You might see production drop 30 to 50 percent during a sustained heat wave, and it can take two to three weeks after temperatures normalize for full production to return. Some hens may go into a partial molt, which also temporarily halts laying. Don't be alarmed by this. Focus on keeping your birds healthy and production will come back.
 
 ---
 

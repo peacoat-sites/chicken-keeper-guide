@@ -108,27 +108,6 @@ There's no universally right answer here. I've run both setups with different fl
 
 ---
 
-## FAQ
-
-### How long will my hens stop laying in winter?
-
-Most hens reduce laying significantly from October through February, a period of roughly 16 to 20 weeks depending on your latitude. The complete stop is often shorter, maybe 6 to 10 weeks at the worst of it, with gradual tapering on either side. Younger hens in their first winter often push through better than older ones. By mid-February, as day length starts increasing again, most flocks begin picking back up without any intervention at all.
-
-### My hen isn't molting and the coop has a light. Why is she still not laying?
-
-Check the light intensity first. Many people add a bulb but it's not bright enough to actually register as light to the hen's photoreceptors. You should be able to read comfortably in the coop with only that light. Also confirm the timer is working and set correctly. After that, check for hidden laying spots outside the nesting boxes, broodiness (even in winter, some breeds go broody), parasites, or underlying illness. A hen who is lethargic, has pale comb, or is losing weight alongside the egg drop needs a closer health evaluation.
-
-### Can I use a heat lamp to boost winter laying?
-
-Heat lamps provide some light but they're a fire hazard and they're inconsistent. The light output from a heat lamp positioned for warmth is usually not bright enough or consistent enough to reliably trigger the hormonal response needed for laying. Use a dedicated LED bulb on a timer for light and a separate safe heat source only if temperatures are extreme. Most cold-hardy breeds don't need supplemental heat above 20°F.
-
-### My one-year-old hen has never laid a single egg. Is something wrong?
-
-Possibly. Some hens, particularly from hatcheries with mixed quality control, have reproductive abnormalities and will never lay. But the more common culprits are late hatch dates (a hen hatched in August or September may not reach laying age until November or December, just as days shorten and lay onset gets suppressed), breed maturity timeline (Orpingtons and other heavy breeds can take 6 to 8 months to start), or a molt so early and subtle you missed it. Give her until she's 9 months old in good light conditions before assuming a real problem.
-
-### Should I be worried about egg production dropping in my older hens?
-
-A 2-year-old hen lays roughly 80% of what she laid at her peak. By year 3, you're often looking at 50 to 60%. Winter amplifies this. An older hen who gave you 5 eggs a week in her first summer might give you one or two a week in her third winter even with supplemental light. This is normal aging, not illness. If production drops suddenly and dramatically outside of the normal seasonal pattern, especially accompanied by behavior changes, that warrants a health check.
 
 ---
 

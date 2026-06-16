@@ -78,26 +78,5 @@ Dropping boards under the roost (basically a removable shelf that catches overni
 
 ---
 
-## FAQ
-
-### How high should chicken roosts be off the ground?
-
-For most standard breeds, 2 to 3 feet is the practical target. Heavy breeds like Orpingtons or Brahmas do better at 18 to 24 inches to reduce landing impact on their joints. Bantams can go as low as 12 inches and be perfectly content.
-
-### Can roosts be too high for chickens?
-
-Yes. Anything above 4 feet creates real landing stress even for agile breeds, and for heavy or older birds, 3 feet is already pushing it. A hen who has to "stick the landing" from too high will eventually develop bumblefoot or joint problems.
-
-### Why are my chickens sleeping in the nesting boxes instead of on the roost?
-
-Usually because the roost is too low, too crowded, or there's a higher surface elsewhere in the coop that they prefer. Try raising the roost, removing access to the nesting boxes at night for a week using a piece of cardboard, and making sure the roost is genuinely the highest perch available.
-
-### How much space does each chicken need on the roost?
-
-At minimum 12 inches per bird. For large breeds, 15 inches. Crowding leads to competition, pecking, and birds falling off overnight. If you're adding to your flock, add roost length at the same time.
-
-### Should roosts be at the same height or staggered?
-
-Staggered works better for mixed flocks because it lets birds sort by rank without every bird competing for the exact same spot. Just make sure each level is offset horizontally (like stair steps) rather than directly above each other, or the lower birds get droppings rained on them all night.
 
 *Photo: [Alexander Nerozya](https://www.pexels.com/@alexander-nerozya-77350044) via Pexels*

@@ -74,7 +74,7 @@ function fcCalc(){
     document.getElementById('fc-callout').innerHTML='Your <strong>'+hens+' chickens</strong> eat about <strong>'+lbsPerMonth.toFixed(0)+' lbs of feed/month</strong> (<strong>'+bagsPerMonth.toFixed(1)+' bags</strong>). Total cost with treats: <strong>$'+totalMonthly.toFixed(2)+'/month</strong> ($'+annual.toFixed(0)+'/year). At '+eggs+' eggs/week, your cost per dozen is <strong>$'+costPerDoz.toFixed(2)+'</strong>.';
   } else {
     document.getElementById('fc-cost-doz-card').style.display='none';
-    document.getElementById('fc-callout').innerHTML='Your <strong>'+hens+' chickens</strong> eat about <strong>'+lbsPerMonth.toFixed(0)+' lbs of feed/month</strong> (<strong>'+bagsPerMonth.toFixed(1)+' 50lb bags</strong>). Total monthly cost with treats: <strong>$'+totalMonthly.toFixed(2)</strong> ($'+annual.toFixed(0)+'/year). Enter eggs/week above to see cost-per-dozen.';
+    document.getElementById('fc-callout').innerHTML='Your <strong>'+hens+' chickens</strong> eat about <strong>'+lbsPerMonth.toFixed(0)+' lbs of feed/month</strong> (<strong>'+bagsPerMonth.toFixed(1)+' 50lb bags</strong>). Total monthly cost with treats: <strong>$'+totalMonthly.toFixed(2)+'</strong> ($'+annual.toFixed(0)+'/year). Enter eggs/week above to see cost-per-dozen.';
   }
 }
 window.addEventListener('DOMContentLoaded',fcCalc);

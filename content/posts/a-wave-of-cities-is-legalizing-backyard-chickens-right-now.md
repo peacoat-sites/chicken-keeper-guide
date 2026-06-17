@@ -18,6 +18,16 @@ Something shifted this spring. I've been keeping chickens for a decade, and I've
 
 If you've been waiting to see whether your city might follow suit, or you just got a notice that your neighbor is pushing for an ordinance change, this is the moment to pay attention.
 
+
+<div class="value-module">
+  <div class="vm-head">Backyard Chicken Ordinance Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">Here's how the five cities currently debating or passing backyard chicken rules stack up on the key restrictions that matter most to prospective flock owners.</p>
+    <table><thead><tr><th>City, State</th><th>Max Hens Allowed</th><th>Minimum Lot Size</th><th>Roosters</th><th>Coop Setback</th><th>Permit Required</th></tr></thead><tbody><tr><td>Edgewater, FL</td><td>Not yet specified</td><td>Standard residential</td><td>Banned</td><td>TBD in final reading</td><td>Expected</td></tr><tr><td>Stuart, FL</td><td>4</td><td>Standard residential</td><td>Banned</td><td>TBD (June 22 vote)</td><td>Likely</td></tr><tr><td>Westminster, CO</td><td>6 (standard) / 30 (2+ acres)</td><td>None / 2+ acres for expanded limit</td><td>Likely banned on standard lots</td><td>Existing rules apply</td><td>Yes (existing)</td></tr><tr><td>Paxton, IL</td><td>Under review</td><td>Under review</td><td>Under review</td><td>Under review</td><td>Under review</td></tr><tr><td>Rapid City, SD</td><td>6</td><td>Standard residential</td><td>Banned</td><td>10 ft from property line (typical)</td><td>Yes</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What's Actually Happening Right Now
 
 The specifics matter here, because this isn't one of those vague "cities are warming up to chickens" stories. These are real votes, real dates, real ordinances.

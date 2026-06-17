@@ -32,6 +32,16 @@ Let me be specific. A single laying hen produces roughly 45 to 50 pounds of manu
 
 But here's where most people go wrong, and I made this mistake myself the first two seasons: they either throw raw manure straight onto garden beds, or they ignore it entirely and let it pile up into a stinking, fly-attracting mess. Both are bad. There's a middle path, and once you understand the basic chemistry of what's in this stuff, it becomes pretty obvious.
 
+
+<div class="value-module">
+  <div class="vm-head">Fresh vs. Composted Application Guide</div>
+  <div class="vm-body">
+    <p class="vm-intro">Choosing the right application method depends on your timeline, bedding type, and what you're growing—here's a practical decision matrix.</p>
+    <table><caption>Chicken Manure Application Methods by Situation</caption><thead><tr><th>Situation</th><th>Recommended Method</th><th>Minimum Wait Before Planting Edibles</th><th>Key Considerations</th></tr></thead><tbody><tr><td>Pure manure (wire floor collection), spring planting</td><td>Hot compost first (pile must reach 130–150°F)</td><td>90–120 days after composting complete</td><td>Turn pile 3–5 times; moisture should feel like wrung sponge</td></tr><tr><td>Deep litter with pine shavings (C:N ~25:1)</td><td>Direct fall application or short compost</td><td>60–90 days overwinter</td><td>Already partially composted; till into top 6 inches</td></tr><tr><td>Straw-based deep litter (C:N ~30:1)</td><td>Direct fall application</td><td>90 days overwinter</td><td>Straw breaks down slower; apply heavier layer</td></tr><tr><td>Mid-season side-dressing on established plants</td><td>Fully finished compost only (dark, earthy smell)</td><td>Apply immediately but keep 3–4 inches from stems</td><td>Never use fresh; nitrogen burn risk highest on leafy greens</td></tr><tr><td>Fruit trees and perennial beds</td><td>Aged compost as surface mulch ring</td><td>No wait if composted; 120 days if raw</td><td>Keep 12 inches from trunk; apply in early spring</td></tr><tr><td>Root vegetables (carrots, radishes, potatoes)</td><td>Previous-season compost only</td><td>120+ days (USDA NOP standard)</td><td>Pathogen risk highest for soil-contact crops</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Chicken Manure Is Actually a Big Deal
 
 Chicken manure is hot. Agronomically hot, I mean. It runs about 1.1% nitrogen, 0.8% phosphorus, and 0.5% potassium in fresh form, which doesn't sound like much until you compare it to steer manure (0.7-0.3-0.4) or rabbit (2.4-1.4-0.6, but that stuff is harder to produce at volume). The nitrogen content is what makes chicken manure the powerhouse of the backyard fertilizer world. It also means it can burn plants badly if you apply it raw, especially near root zones.

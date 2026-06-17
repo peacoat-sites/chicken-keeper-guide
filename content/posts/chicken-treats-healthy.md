@@ -30,6 +30,16 @@ Most chicken keepers I know started giving treats with the best intentions and a
 
 Here's the thing: treats aren't bad. Treats given thoughtlessly are bad. There's a real difference, and once you understand the logic behind it, you'll make better calls every single time without needing to look anything up.
 
+
+<div class="value-module">
+  <div class="vm-head">Treat Nutrition Comparison Chart</div>
+  <div class="vm-body">
+    <p class="vm-intro">Not all treats deliver equal value—here's how common options stack up nutritionally per typical serving size.</p>
+    <table><thead><tr><th>Treat</th><th>Protein</th><th>Key Benefit</th><th>Watch Out For</th><th>Suggested Limit (6 hens/day)</th></tr></thead><tbody><tr><td>Dried mealworms</td><td>~53%</td><td>Excellent molt support</td><td>Cost; can cause aggression if underfed</td><td>2 tablespoons</td></tr><tr><td>Black soldier fly larvae</td><td>~42%</td><td>High calcium (50× mealworms)</td><td>Strong smell in bulk storage</td><td>2 tablespoons</td></tr><tr><td>Cooked eggs (scrambled/mashed)</td><td>~13%</td><td>Complete amino acids; uses culled eggs</td><td>Always cook to prevent raw-egg-eating habit</td><td>1 egg</td></tr><tr><td>Leafy greens (kale, spinach, chard)</td><td>~3%</td><td>Vitamins A, K; foraging enrichment</td><td>Oxalates in spinach bind calcium—rotate types</td><td>1 packed cup</td></tr><tr><td>Scratch grains (corn/wheat mix)</td><td>~9%</td><td>Winter warmth; digestion produces heat</td><td>Low protein dilutes layer feed balance</td><td>2 tablespoons</td></tr><tr><td>Watermelon/cucumber</td><td>&lt;1%</td><td>Hydration in summer heat</td><td>Nearly zero nutrition; pure treat</td><td>¼ cup cubed</td></tr><tr><td>Bread/pasta</td><td>~8–10%</td><td>None significant</td><td>Fills crop fast, displaces feed, spikes blood sugar</td><td>Avoid or &lt;1 tbsp rarely</td></tr><tr><td>Sunflower seeds (black oil)</td><td>~21%</td><td>Healthy fats; feather condition</td><td>High fat—easy to overfeed</td><td>1 tablespoon</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The 90/10 Rule Is Real, and Most People Ignore It
 
 Chickens need complete, balanced nutrition, and that comes from their layer feed. A quality pellet or crumble, something like Purina Layena or Nutrena NatureWise Layer, is formulated to hit the right protein (usually 16-18%), calcium, and amino acid targets. The moment you start adding treats in significant quantities, you're diluting that balance.

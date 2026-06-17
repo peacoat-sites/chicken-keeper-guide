@@ -30,6 +30,16 @@ I killed six chicks my first year because I didn't understand heat gradients. No
 
 If you're setting up a brooder for the first time, or even if you've done it before but lost birds you couldn't explain, this is the piece I wish I'd had.
 
+
+<div class="value-module">
+  <div class="vm-head">Brooder Heat Gradient Setup by Week</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this table to set your heat source height and monitor chick behavior—the gradient matters more than hitting exact numbers.</p>
+    <table><thead><tr><th>Chick Age</th><th>Warm Zone Target</th><th>Cool Zone Target</th><th>Typical Heat Lamp Height</th><th>Chick Behavior Check</th></tr></thead><tbody><tr><td>Days 1–7</td><td>95°F (35°C)</td><td>80–85°F (27–29°C)</td><td>18–20 inches</td><td>Scattered evenly = correct; huddled under lamp = too cold; pressed against walls = too hot</td></tr><tr><td>Days 8–14</td><td>90°F (32°C)</td><td>75–80°F (24–27°C)</td><td>20–24 inches</td><td>Active exploration, brief naps under lamp, eating/drinking freely</td></tr><tr><td>Days 15–21</td><td>85°F (29°C)</td><td>70–75°F (21–24°C)</td><td>24–28 inches</td><td>Spending less time under heat, wing feathers developing</td></tr><tr><td>Days 22–28</td><td>80°F (27°C)</td><td>65–70°F (18–21°C)</td><td>28–32 inches</td><td>Mostly feathered, may avoid heat source during day</td></tr><tr><td>Days 29–35</td><td>75°F (24°C)</td><td>60–65°F (16–18°C)</td><td>32+ inches or off during day</td><td>Body feathers nearly complete, heat only needed if below 60°F ambient</td></tr><tr><td>Week 6+</td><td>70°F or ambient</td><td>Ambient temp</td><td>Supplemental only if below 55°F</td><td>Fully feathered, ready for coop transition in mild weather</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Container Itself: More Important Than You Think
 
 Most beginners use a cardboard box or a plastic storage tote. Both work, but both have real limits. Cardboard absorbs moisture from chick droppings fast, starts to smell within days, and gets structurally soft in ways that become a problem if you've got anything that wants to get in. Plastic totes are better, but the smooth sides make draft-blocking easy while the low walls become a problem the moment your chicks figure out they can jump.

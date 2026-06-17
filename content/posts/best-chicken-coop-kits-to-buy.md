@@ -30,6 +30,16 @@ I've looked at probably forty chicken coop kits over the past decade. Bought mor
 
 If you're reading this, you're probably somewhere between "I just ordered my chicks" and "they arrive in three weeks and I have no coop." That's a perfectly normal place to be. Chickens have a way of accelerating your timeline. Here's what I tell people who reach out in that state: kit coops are not the enemy, but most of the ones you'll find on Amazon or at Tractor Supply are not built for the number of birds they claim to house. That's the single most important thing I can say before we get into specific products.
 
+
+<div class="value-module">
+  <div class="vm-head">Kit Coop Comparison by Real Capacity</div>
+  <div class="vm-body">
+    <p class="vm-intro">Here's how popular kit coops stack up when you apply honest 4 sq ft/bird interior standards instead of marketing claims.</p>
+    <table><thead><tr><th>Coop Model</th><th>Price Range</th><th>Interior Sq Ft</th><th>Marketed Capacity</th><th>Realistic Capacity</th><th>Run Sq Ft</th><th>Hardware Cloth?</th><th>Assembly Time</th><th>Best For</th></tr></thead><tbody><tr><td>Pets Imperial Clarence</td><td>$350–$400</td><td>12–14</td><td>5–6 birds</td><td>3–4 birds</td><td>24</td><td>Yes</td><td>2–3 hrs</td><td>Beginners, small flocks</td></tr><tr><td>OverEZ Medium</td><td>$600–$700</td><td>24</td><td>10 birds</td><td>5–6 birds</td><td>None included</td><td>Yes</td><td>1–2 hrs</td><td>Expandable setups</td></tr><tr><td>Producers Pride Defender</td><td>$400–$500</td><td>16</td><td>6–8 birds</td><td>4 birds</td><td>32</td><td>No (chicken wire)</td><td>3–4 hrs</td><td>Budget with upgrades planned</td></tr><tr><td>Omlet Eglu Cube</td><td>$900–$1,100</td><td>11</td><td>6–10 birds</td><td>2–3 birds</td><td>36 (extendable)</td><td>Yes (welded mesh)</td><td>30 min</td><td>Predator-heavy areas, easy cleaning</td></tr><tr><td>Costco Kirkland Coop</td><td>$250–$300</td><td>8–10</td><td>4–6 birds</td><td>2 birds</td><td>16</td><td>No</td><td>2–3 hrs</td><td>Temporary or seasonal use</td></tr><tr><td>Pawhut 114" Wooden Coop</td><td>$280–$350</td><td>10</td><td>4–6 birds</td><td>2–3 birds</td><td>20</td><td>No</td><td>3–4 hrs</td><td>Mild climates only</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Stocking Density Lie (and How to Work Around It)
 
 Almost every kit coop on the market advertises capacity by the absolute minimum square footage a chicken can survive in, not the square footage it needs to actually thrive. A coop marketed for 4-6 birds typically has 8 to 12 square feet of interior space. Realistically, that's a 2-bird coop, maybe 3 if your birds have generous outdoor run access year-round and you live somewhere with mild winters.

@@ -30,6 +30,16 @@ You go out to the coop on a Tuesday morning with your coffee, same as always, an
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Symptom-Based Chicken Illness Quick Guide</div>
+  <div class="vm-body">
+    <p class="vm-intro">When you spot a sick bird, these observable signs can help you narrow down the likely cause and decide on immediate next steps.</p>
+    <table><thead><tr><th>Primary Symptom</th><th>Also Look For</th><th>Most Likely Causes</th><th>Urgency</th><th>First Actions</th></tr></thead><tbody><tr><td>Rattling/gurgling breath</td><td>Bubbling eyes, facial swelling, foul smell</td><td>MG (Mycoplasma), Infectious Bronchitis, Aspergillosis</td><td>High – isolate immediately</td><td>Separate bird; improve coop ventilation; contact vet for antibiotic options</td></tr><tr><td>Bloody or watery droppings</td><td>Lethargy, hunched posture, reduced appetite (usually birds under 12 weeks)</td><td>Coccidiosis</td><td>High – can be fatal within days</td><td>Treat with amprolium (Corid) in water; clean bedding daily</td></tr><tr><td>Pale comb, weight loss</td><td>Dirty vent feathers, visible lice/mites, reduced egg production</td><td>External parasites (mites, lice), internal worms</td><td>Moderate</td><td>Inspect vent and under wings at night; dust with poultry-safe permethrin or treat with fenbendazole for worms</td></tr><tr><td>Straining, penguin-like stance</td><td>Swollen abdomen, no eggs recently, tail pumping</td><td>Egg binding, internal laying, peritonitis</td><td>High – potentially fatal within 24–48 hrs</td><td>Warm water soak (20 min); calcium supplement; vet if no egg within 4 hours</td></tr><tr><td>Soft-shelled or shell-less eggs</td><td>Otherwise acting normal</td><td>Calcium deficiency, new layer adjustment, stress</td><td>Low if occasional</td><td>Offer free-choice oyster shell; ensure 14–16 hrs light for laying hens</td></tr><tr><td>Scaly, crusty legs</td><td>Lifted scales, limping, reluctance to roost</td><td>Scaly leg mites</td><td>Low–Moderate</td><td>Coat legs with petroleum jelly or vegetable oil every 3 days for 2–3 weeks</td></tr><tr><td>Sudden death, no prior symptoms</td><td>Multiple birds affected, possible neurological signs</td><td>Marek's disease, heart failure, toxin exposure, Avian Influenza (rare)</td><td>Critical – investigate immediately</td><td>Do not handle without gloves; contact state vet lab for necropsy if multiple deaths</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Conditions You're Most Likely to Actually Encounter
 
 I've been keeping hens for ten years across three different properties, and the same problems show up over and over. Respiratory illness, digestive issues, external parasites, egg-laying complications, and coccidiosis. Those five cover probably 85% of what backyard keepers deal with. The dramatic stuff, like Marek's disease or Avian Influenza, gets a lot of attention online. You should know about those, but they're not where most people spend their chicken-keeping energy.

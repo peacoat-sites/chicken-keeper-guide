@@ -32,6 +32,16 @@ It doesn't pay off. Not financially. That's the thing every dreamy "grow your ow
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Backyard vs Store Eggs: 3-Year Cost Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">This table breaks down actual costs over three years—the typical productive lifespan of a laying flock—so you can see where the money really goes.</p>
+    <table><thead><tr><th>Cost Category</th><th>Backyard Flock (6 hens)</th><th>Store-Bought Equivalent</th></tr></thead><tbody><tr><td>Startup (coop, feeder, waterer, chicks)</td><td>$300–$600</td><td>$0</td></tr><tr><td>Feed (36 months × $22–$25/mo)</td><td>$792–$900</td><td>$0</td></tr><tr><td>Supplements &amp; bedding (36 months)</td><td>$180–$360</td><td>$0</td></tr><tr><td>Misc. (vet supplies, repairs, electricity)</td><td>$100–$200</td><td>$0</td></tr><tr><td><strong>Total 3-Year Cost</strong></td><td><strong>$1,372–$2,060</strong></td><td><strong>$0 (eggs only below)</strong></td></tr><tr><td>Eggs produced (3 years, accounting for seasonal decline)</td><td>~900 dozen</td><td>—</td></tr><tr><td><strong>Cost per dozen (backyard)</strong></td><td><strong>$1.52–$2.29</strong></td><td>—</td></tr><tr><td>Store eggs: conventional (avg $2.50/doz)</td><td>—</td><td>$2,250 for 900 doz</td></tr><tr><td>Store eggs: pasture-raised (avg $6/doz)</td><td>—</td><td>$5,400 for 900 doz</td></tr><tr><td><strong>3-Year Savings vs Conventional</strong></td><td colspan="2"><strong>+$190 to +$878 (backyard cheaper)</strong></td></tr><tr><td><strong>3-Year Savings vs Pasture-Raised</strong></td><td colspan="2"><strong>+$3,340 to +$4,028 (backyard much cheaper)</strong></td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Your Eggs Actually Cost to Produce
 
 Feed is the biggest line item and the one most beginners wildly underestimate. A laying hen eats roughly a quarter pound of feed per day, which works out to about 1.75 pounds per week. At current prices (mid-2024, nationwide average for a 50-lb bag of Purina Layena or Nutrena NatureWise), you're paying $22-$28 per 50 lbs. That's somewhere between $0.77 and $0.98 per hen, per week, just in feed.

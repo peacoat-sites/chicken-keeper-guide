@@ -30,6 +30,16 @@ You walk out to the coop one morning and find one of your hens planted on the ne
 
 Most articles will tell you she "wants to hatch eggs" and offer you three vague options. What they skip is the part where she stops eating, loses a third of her body weight, monopolizes the only nest box your other five hens want to use, and can stay locked in this hormonal trance for six to twelve weeks if you do nothing. That's the version you need to understand before you decide what to do about her.
 
+
+<div class="value-module">
+  <div class="vm-head">Broodiness Likelihood by Breed</div>
+  <div class="vm-body">
+    <p class="vm-intro">Breed genetics largely determine whether you'll deal with broody hens annually, occasionally, or almost never—here's how common breeds stack up.</p>
+    <table><thead><tr><th>Breed</th><th>Broodiness Level</th><th>Typical Frequency</th><th>Breaking Difficulty</th><th>Notes</th></tr></thead><tbody><tr><td>Silkie</td><td>Very High</td><td>3–6 times/year</td><td>Hard</td><td>Will brood in any season; often used to hatch other breeds' eggs</td></tr><tr><td>Cochin</td><td>Very High</td><td>2–4 times/year</td><td>Hard</td><td>Dedicated sitters but poor foragers while broody</td></tr><tr><td>Orpington</td><td>High</td><td>1–3 times/year</td><td>Moderate</td><td>Good mothers; buff variety broodiest</td></tr><tr><td>Brahma</td><td>High</td><td>1–2 times/year</td><td>Moderate</td><td>Large body covers more eggs but can accidentally crush chicks</td></tr><tr><td>Wyandotte</td><td>Moderate</td><td>1–2 times/year</td><td>Moderate</td><td>Varies by individual; silver-laced less broody than others</td></tr><tr><td>Australorp</td><td>Moderate</td><td>0–2 times/year</td><td>Easy–Moderate</td><td>Production strains less broody than heritage lines</td></tr><tr><td>Plymouth Rock</td><td>Low–Moderate</td><td>0–1 times/year</td><td>Easy</td><td>Barred variety rarely broody; buff more prone</td></tr><tr><td>Easter Egger</td><td>Low</td><td>Rare</td><td>Easy</td><td>Mixed genetics means unpredictable; most don't brood</td></tr><tr><td>Rhode Island Red</td><td>Very Low</td><td>Rare</td><td>Easy</td><td>Production breeding eliminated trait in most lines</td></tr><tr><td>Leghorn</td><td>Almost None</td><td>Extremely rare</td><td>Very Easy</td><td>Bred for eggs only; broodiness nearly eliminated</td></tr><tr><td>ISA Brown/Production Red</td><td>None</td><td>Never</td><td>N/A</td><td>Commercial hybrids; trait completely bred out</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Brooding Actually Is (And Why It Happens)
 
 Broodiness is driven by prolactin, the same hormone that triggers maternal behavior in mammals. When a hen goes broody, her prolactin spikes, her body temperature rises (the underside of a broody hen runs about 104 to 106 degrees Fahrenheit, which is why she's such a reliable incubator), and her brain essentially locks her into a single behavioral loop: sit on eggs, protect eggs, hatch eggs.

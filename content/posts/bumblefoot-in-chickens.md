@@ -32,6 +32,16 @@ Bumblefoot is one of those conditions that sounds manageable until you're actual
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Bumblefoot Severity Staging Guide</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this grading system to assess severity and determine appropriate treatment response for each stage.</p>
+    <table><thead><tr><th>Grade</th><th>Visual Signs</th><th>What's Happening Inside</th><th>Treatment Approach</th><th>Urgency Window</th></tr></thead><tbody><tr><td>Grade 1 (Early)</td><td>Small pink/red spot or thin scab less than 5mm; minimal swelling; no limping</td><td>Superficial infection; bacteria contained near skin surface</td><td>Epsom salt soaks (15 min 2x daily), apply antibiotic ointment, bandage, address roost/flooring cause</td><td>Treat within 3-5 days for best outcomes</td></tr><tr><td>Grade 2 (Moderate)</td><td>Dark scab 5-10mm; noticeable swelling around pad; slight limping; hen still active</td><td>Infection walled off with caseous (cheesy) core forming; tissue damage contained to pad</td><td>Soak, surgical removal of kernel/plug, flush wound, pack with antibiotic, wrap with vet wrap; recheck every 2 days</td><td>Treat within 1 week; delays increase Grade 3 risk</td></tr><tr><td>Grade 3 (Severe)</td><td>Scab greater than 10mm; significant swelling extending beyond pad; obvious limping; reduced activity</td><td>Deep infection reaching tendons; multiple pockets of pus possible; tissue necrosis beginning</td><td>Surgical debridement required; oral antibiotics likely needed; consider veterinary consultation</td><td>Immediate action; bone/joint involvement possible within days</td></tr><tr><td>Grade 4 (Advanced)</td><td>Swelling into leg/toes; black tissue; hen reluctant to stand; systemic illness signs (lethargy, appetite loss)</td><td>Bone infection (osteomyelitis); sepsis risk; permanent structural damage likely</td><td>Veterinary care essential; amputation may be necessary; euthanasia consideration if suffering</td><td>Emergency; prognosis guarded to poor</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Bumblefoot Actually Is (And Why It Happens)
 
 Bumblefoot is the common name for a bacterial infection of the foot, technically called plantar pododermatitis. The infection typically starts with a small wound, a cut, a puncture, a scrape, and *Staphylococcus aureus* moves in. Your chicken's immune system walls the bacteria off, forming that characteristic hard, dark scab or plug. Underneath it is infected, often liquefied tissue and sometimes a caseous (cheesy) core. Left alone, the infection spreads deeper into the foot pad, the tendons, the joints, and eventually the bone.

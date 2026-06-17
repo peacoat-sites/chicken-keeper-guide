@@ -23,6 +23,16 @@ Chick starter feed is the single most important nutritional choice you'll make f
 
 Here's what I've noticed after a decade of doing this: most people treat chick starter like it's interchangeable. Pour some crumbles in a feeder, done. But there are real differences between products, and a few decisions you need to make before you buy the first bag.
 
+
+<div class="value-module">
+  <div class="vm-head">Medicated vs Non-Medicated Decision Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this matrix to match your specific chick source and setup to the right starter feed type.</p>
+    <table><caption>Chick Starter Feed Decision Matrix</caption><thead><tr><th>Your Situation</th><th>Feed Type</th><th>Why</th><th>Risk If Wrong Choice</th></tr></thead><tbody><tr><td>Hatchery chicks WITH coccidiosis vaccine</td><td>Non-medicated only</td><td>Amprolium blocks vaccine efficacy; vaccine needs live coccidia exposure to build immunity</td><td>Wasted vaccine cost ($0.15–0.25/chick); delayed or incomplete immunity</td></tr><tr><td>Hatchery chicks WITHOUT coccidiosis vaccine</td><td>Medicated recommended</td><td>No existing protection; amprolium controls parasite load while natural immunity develops</td><td>Coccidiosis outbreak risk peaks weeks 3–6; mortality can reach 20–50% in severe cases</td></tr><tr><td>Feed store bin chicks (vaccination status unknown)</td><td>Medicated safer</td><td>Assume unvaccinated; most feed store chicks receive Marek's only, not cocci vaccine</td><td>Gambling on unknown status; cocci thrives in warm, moist brooder litter</td></tr><tr><td>Chicks brooded on wire/clean surfaces (no soil contact)</td><td>Either acceptable</td><td>Coccidia requires fecal-oral transmission; minimal litter contact reduces exposure</td><td>Lower risk either way, but immunity won't develop without some exposure</td></tr><tr><td>Chicks with early outdoor access or soil contact</td><td>Medicated strongly recommended</td><td>Soil contains multiple Eimeria strains; high parasite pressure before immunity established</td><td>Rapid overwhelming infection possible; bloody droppings, lethargy, death within days</td></tr><tr><td>Raising meat birds (Cornish Cross, Rangers) to 8 weeks</td><td>Non-medicated often fine</td><td>Short lifespan limits exposure window; typically processed before cocci peaks</td><td>Lower overall risk, though outbreaks still possible in wet conditions</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Medicated vs. Non-Medicated: The Decision That Actually Matters
 
 This is where most new chicken keepers get tripped up, or get bad advice.

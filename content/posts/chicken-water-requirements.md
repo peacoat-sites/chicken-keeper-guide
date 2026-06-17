@@ -68,7 +68,7 @@ Walk into any feed store and you'll find plastic bell drinkers, galvanized metal
 
 **Cup drinkers** are a middle ground. They auto-fill and stay cleaner than open drinkers, but debris can still collect in the cups. Worth considering for larger flocks.
 
-A [good quality poultry waterer on Amazon](https://www.amazon.com/s?k=poultry+waterer&tag=backyardchickens-20) is one of the best investments you can make early. Don't cheap out. Waterer failures cause more emergencies than almost anything else in a backyard flock.
+A [good quality poultry waterer on Amazon](https://www.amazon.com/s?k=poultry+waterer&tag=contentportfo-20) is one of the best investments you can make early. Don't cheap out. Waterer failures cause more emergencies than almost anything else in a backyard flock.
 
 For placement: waterers should be in the shade, not in direct sun. Algae grows exponentially faster in sunlight, and warm water gets refused by chickens more often than cool water. Raise the waterer to the height of a bird's back. This single adjustment dramatically reduces how much dirt and litter gets kicked into the water.
 

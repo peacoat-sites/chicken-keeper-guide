@@ -79,9 +79,9 @@ Things that genuinely improve your odds:
 
 I see people order chicks and then scramble to build a brooder the day before arrival. Don't do this.
 
-You need a heat source at 95°F at chick level for the first week, dropping 5 degrees per week after that. A brooder plate heater like the Brinsea EcoGlow (around $60-70 on Amazon) is what I use now and it's far safer than heat lamps, which are a genuine fire risk. A [Brinsea EcoGlow brooder plate](https://www.amazon.com/s?k=brinsea+ecoglow+brooder&tag=backyardchick-20) mimics a mother hen, chicks go under it, and you're not hanging a 250-watt bulb over a cardboard box full of wood shavings.
+You need a heat source at 95°F at chick level for the first week, dropping 5 degrees per week after that. A brooder plate heater like the Brinsea EcoGlow (around $60-70 on Amazon) is what I use now and it's far safer than heat lamps, which are a genuine fire risk. A [Brinsea EcoGlow brooder plate](https://www.amazon.com/s?k=brinsea+ecoglow+brooder&tag=contentportfo-20) mimics a mother hen, chicks go under it, and you're not hanging a 250-watt bulb over a cardboard box full of wood shavings.
 
-For feed, start with a 20-21% protein non-medicated or medicated chick starter. I use Purina Flock Raiser, which is unmedicated, or Purina Medicated Chick Starter if I'm worried about coccidiosis pressure in my area. A [chick feeder and waterer set](https://www.amazon.com/s?k=chick+feeder+waterer+set&tag=backyardchick-20) costs under $15 and is worth having ready to go.
+For feed, start with a 20-21% protein non-medicated or medicated chick starter. I use Purina Flock Raiser, which is unmedicated, or Purina Medicated Chick Starter if I'm worried about coccidiosis pressure in my area. A [chick feeder and waterer set](https://www.amazon.com/s?k=chick+feeder+waterer+set&tag=contentportfo-20) costs under $15 and is worth having ready to go.
 
 When the chicks arrive, dip each beak in the water before setting them down. This sounds overly careful but it works. Stressed shipped chicks sometimes don't seek water on instinct the way broody-raised chicks do.
 

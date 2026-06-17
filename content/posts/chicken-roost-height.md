@@ -84,7 +84,7 @@ Some keepers like natural branches, which aren't a bad option. Varying diameters
 
 For heavy breeds or any flock with older hens, a ramp up to the roost isn't optional, it's how you prevent injury. A 30-35 degree angle works for most birds. Steeper than 45 degrees and they'll avoid it or slip. Add cleats every 3 to 4 inches: short screws, small wood strips, anything that gives them a foothold.
 
-Dropping boards under the roost (basically a removable shelf that catches overnight droppings) don't affect roost height choice but make the whole system dramatically easier to clean. I use a [dropping board](https://www.amazon.com/s?k=chicken+dropping+board&tag=backyardchicke-20) pulled out every two or three days and scraped into a bucket. It cuts the ammonia smell in an enclosed coop by more than half, and that directly affects respiratory health. Worth building in from the start.
+Dropping boards under the roost (basically a removable shelf that catches overnight droppings) don't affect roost height choice but make the whole system dramatically easier to clean. I use a [dropping board](https://www.amazon.com/s?k=chicken+dropping+board&tag=contentportfo-20) pulled out every two or three days and scraped into a bucket. It cuts the ammonia smell in an enclosed coop by more than half, and that directly affects respiratory health. Worth building in from the start.
 
 ---
 

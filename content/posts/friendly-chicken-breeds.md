@@ -93,7 +93,7 @@ Breed sets the foundation, but how you raise your birds from hatch through adult
 
 **Step 6: Give them space and enrichment.** Stressed chickens are less friendly chickens. Overcrowding, boredom, and nutritional deficiencies all make birds more reactive and harder to handle. The baseline rule is 4 square feet per bird in the coop and 10 square feet per bird in the run, though more is always better.
 
-For feeders and waterers that make daily management easier, I've had great results with [horizontal nipple waterers](https://www.amazon.com/s?k=horizontal+nipple+chicken+waterer&tag=your-tag) that stay cleaner than open bowls, and [hanging feeders](https://www.amazon.com/s?k=hanging+chicken+feeder&tag=your-tag) that reduce waste. Comfortable, well-fed birds are easier to work with, full stop.
+For feeders and waterers that make daily management easier, I've had great results with [horizontal nipple waterers](https://www.amazon.com/s?k=horizontal+nipple+chicken+waterer&tag=contentportfo-20) that stay cleaner than open bowls, and [hanging feeders](https://www.amazon.com/s?k=hanging+chicken+feeder&tag=contentportfo-20) that reduce waste. Comfortable, well-fed birds are easier to work with, full stop.
 
 ## Mixed Flocks: Pairing Friendly Breeds Together
 
@@ -103,7 +103,7 @@ The general rule is to pair similar temperaments. Buff Orpingtons, Australorps, 
 
 Watch the pecking order closely during the first two weeks after integration. Some tension is completely normal. Sustained bullying where one bird is being excluded from food or water, or showing injuries, is not normal and needs intervention. A temporary physical divider inside the run so birds can see each other without contact is one of the most effective tools for smooth integration.
 
-If you're adding new birds to an existing flock, [adding extra feeders and waterers](https://www.amazon.com/s?k=chicken+feeder+set&tag=your-tag) during integration reduces competition and the aggression that comes with it.
+If you're adding new birds to an existing flock, [adding extra feeders and waterers](https://www.amazon.com/s?k=chicken+feeder+set&tag=contentportfo-20) during integration reduces competition and the aggression that comes with it.
 
 ---
 

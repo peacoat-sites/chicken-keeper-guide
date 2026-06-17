@@ -72,9 +72,9 @@ To check for mites, go to your coop after dark with a flashlight. Look at roost 
 
 For northern fowl mites, part the feathers around the vent. If you see moving specks or yellowish egg clusters at the base of feathers, you have them.
 
-Treatment options include permethrin-based dusting powder applied directly to birds and to the coop (walls, roosts, nesting boxes), or spinosad-based products like [Elector PSP](https://www.amazon.com/s?k=Elector+PSP+poultry+mites&tag=backyardchickens-20) which are more expensive but extremely effective with less toxicity concern. Don't skip treating the environment if you're dealing with red mites. Treating the birds only is wasting your time and money.
+Treatment options include permethrin-based dusting powder applied directly to birds and to the coop (walls, roosts, nesting boxes), or spinosad-based products like [Elector PSP](https://www.amazon.com/s?k=Elector+PSP+poultry+mites&tag=contentportfo-20) which are more expensive but extremely effective with less toxicity concern. Don't skip treating the environment if you're dealing with red mites. Treating the birds only is wasting your time and money.
 
-Good [nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=backyardchickens-20) made from herbs or cedar-infused materials won't eliminate an infestation, but they can help deter pests as part of a broader management strategy.
+Good [nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20) made from herbs or cedar-infused materials won't eliminate an infestation, but they can help deter pests as part of a broader management strategy.
 
 ---
 
@@ -104,7 +104,7 @@ When you find a bird that's "off," don't panic. Work through this systematically
 
 **Step 5: Take her temperature if you can.** A chicken's normal temperature is 104 to 107 degrees Fahrenheit. A significantly low temperature in a sick bird is a serious sign.
 
-**Step 6: Cross-reference her symptoms.** Use a reliable resource like [The Chicken Health Handbook by Gail Damerow](https://www.amazon.com/s?k=Chicken+Health+Handbook+Gail+Damerow&tag=backyardchickens-20), which is genuinely the most practical poultry health reference you can own. It's not a substitute for a vet, but it will help you ask the right questions.
+**Step 6: Cross-reference her symptoms.** Use a reliable resource like [The Chicken Health Handbook by Gail Damerow](https://www.amazon.com/s?k=Chicken+Health+Handbook+Gail+Damerow&tag=contentportfo-20), which is genuinely the most practical poultry health reference you can own. It's not a substitute for a vet, but it will help you ask the right questions.
 
 **Step 7: Decide on a course of action.** Some things (mild respiratory symptoms, early coccidiosis, mites) you can treat at home with confidence. Others (egg binding that won't resolve, suspected Marek's, severe neurological symptoms) need a vet who sees poultry. Not every vet does, so find an avian vet or a farm vet with poultry experience before you're in crisis mode.
 

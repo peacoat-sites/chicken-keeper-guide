@@ -56,7 +56,7 @@ A few specifics that matter here:
 - Feed both groups on opposite sides of the shared fence during this period. Eating near each other without being able to fight builds neutral associations.
 - Make sure the new pen is large enough that your newcomers aren't stressed. Crowding them on top of each other while also exposing them to an unfamiliar flock is a recipe for failure.
 
-If you don't have a separate pen and are trying to figure out a quick solution, a large dog crate inside the main run works reasonably well for this purpose, especially for two to four birds. [A heavy-duty wire dog crate](https://www.amazon.com/s?k=heavy+duty+wire+dog+crate&tag=backyardchickens-20) placed inside your existing run gives you the see-but-don't-touch setup without building a whole new structure. *This site may earn a commission on purchases made through Amazon links.*
+If you don't have a separate pen and are trying to figure out a quick solution, a large dog crate inside the main run works reasonably well for this purpose, especially for two to four birds. [A heavy-duty wire dog crate](https://www.amazon.com/s?k=heavy+duty+wire+dog+crate&tag=contentportfo-20) placed inside your existing run gives you the see-but-don't-touch setup without building a whole new structure. *This site may earn a commission on purchases made through Amazon links.*
 
 ---
 
@@ -68,7 +68,7 @@ After one to two weeks of visual exposure, you're ready to move toward physical 
 
 **Step 2: Choose the right space.** If possible, do the introduction in a neutral area, not the established flock's run. A free-range yard, a temporary pen, or a space neither group has claimed before keeps the territorial defensiveness lower. If you have to use the existing run, move things around first. Rearrange the feeders, waterers, and roosts so the space feels different to the established birds too.
 
-**Step 3: Create multiple feeding and watering stations.** This is non-negotiable. If there's only one feeder, the dominant hens will guard it. Your new birds will go hungry. Put out at least two feeding stations and two waterers, placed far enough apart that a bird being chased away from one can access the other. I use a [horizontal nipple waterer](https://www.amazon.com/s?k=horizontal+nipple+waterer+chicken&tag=backyardchickens-20) for my main flock and a basic open fount as a secondary station during integration weeks.
+**Step 3: Create multiple feeding and watering stations.** This is non-negotiable. If there's only one feeder, the dominant hens will guard it. Your new birds will go hungry. Put out at least two feeding stations and two waterers, placed far enough apart that a bird being chased away from one can access the other. I use a [horizontal nipple waterer](https://www.amazon.com/s?k=horizontal+nipple+waterer+chicken&tag=contentportfo-20) for my main flock and a basic open fount as a secondary station during integration weeks.
 
 **Step 4: Give the new birds places to hide.** A few pieces of plywood leaned against the fence, a straw bale, a low roost the big birds don't favor. Anything that lets a lower-ranking bird get out of sight for 30 seconds when she's being chased. Without escape routes, the aggression escalates into sustained attacks. With them, most chases resolve themselves quickly.
 
@@ -101,11 +101,11 @@ Pullets under 16 weeks are small enough that adult hens can cause real damage. I
 
 Sometimes you do everything right and integration still goes sideways. Here's how to triage the most common problems.
 
-**One bird is being targeted by everyone.** This usually means she's visually "different" in some way, is ill, or is simply very low-status. If she's healthy and you've confirmed no injury, try briefly isolating the most aggressive hen instead of the victim. Removing the top hen and reintroducing her after a few days knocks her down a peg in the hierarchy, which can reset the dynamic. A product like [Blu-Kote antiseptic spray](https://www.amazon.com/s?k=blu+kote+spray+poultry&tag=backyardchickens-20) can cover wounds and disguise the red color that triggers continued pecking while you manage the situation.
+**One bird is being targeted by everyone.** This usually means she's visually "different" in some way, is ill, or is simply very low-status. If she's healthy and you've confirmed no injury, try briefly isolating the most aggressive hen instead of the victim. Removing the top hen and reintroducing her after a few days knocks her down a peg in the hierarchy, which can reset the dynamic. A product like [Blu-Kote antiseptic spray](https://www.amazon.com/s?k=blu+kote+spray+poultry&tag=contentportfo-20) can cover wounds and disguise the red color that triggers continued pecking while you manage the situation.
 
 **New birds refuse to go into the coop at night.** Common with pullets who haven't learned the routine yet. For the first week, go out at dusk and physically place them inside. After five to seven nights of this they almost always figure it out on their own.
 
-**Established hens are blocking nesting boxes.** Add a temporary nesting option, even just a wooden crate with a nesting pad in a corner of the coop. [Nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=backyardchickens-20) like the pine shaving mat type are easy to set up anywhere and give the lower-status birds a place to lay without running the gauntlet.
+**Established hens are blocking nesting boxes.** Add a temporary nesting option, even just a wooden crate with a nesting pad in a corner of the coop. [Nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20) like the pine shaving mat type are easy to set up anywhere and give the lower-status birds a place to lay without running the gauntlet.
 
 **Integration is dragging on past three weeks.** Take a hard look at your space. Conflict that doesn't resolve usually means the coop or run is too small. The minimum recommendation of 4 square feet per bird inside the coop and 10 square feet per bird in the run is a floor, not a goal. If you're at minimum capacity before adding birds, you're going to have problems.
 

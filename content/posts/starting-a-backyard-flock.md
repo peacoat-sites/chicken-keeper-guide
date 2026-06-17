@@ -64,7 +64,7 @@ Ventilation is equally critical and way underestimated by beginners. Moisture bu
 
 For space, give each standard-size chicken at least 4 square feet inside the coop and 10 square feet in the run. More is always better. Crowding leads to pecking, stress, and disease spread. If you're in a small suburban yard, 4 hens is often the sweet spot.
 
-A few practical coop additions that save your sanity: a good automatic coop door opener (the [Run Chicken Automatic Door](https://www.amazon.com/s?k=automatic+chicken+coop+door&tag=backyardpoultry-20) style solar ones are popular), a decent hanging feeder that keeps feed off the ground, and quality nesting box pads. I've used [Precision Pet Nesting Box Pads](https://www.amazon.com/s?k=nesting+box+pads+chickens&tag=backyardpoultry-20) for years. They cut down on lice and mite habitat compared to loose straw.
+A few practical coop additions that save your sanity: a good automatic coop door opener (the [Run Chicken Automatic Door](https://www.amazon.com/s?k=automatic+chicken+coop+door&tag=contentportfo-20) style solar ones are popular), a decent hanging feeder that keeps feed off the ground, and quality nesting box pads. I've used [Precision Pet Nesting Box Pads](https://www.amazon.com/s?k=nesting+box+pads+chickens&tag=contentportfo-20) for years. They cut down on lice and mite habitat compared to loose straw.
 
 *(Disclosure: This site may earn a small commission on purchases made through Amazon links at no extra cost to you.)*
 
@@ -78,7 +78,7 @@ Don't feed layer feed to chicks. The extra calcium can damage their kidneys befo
 
 Oyster shell should be offered free-choice in a separate container once hens are laying. Let them self-regulate. Some hens need more calcium than others, especially high producers.
 
-Water needs to be fresh and available every single day. Chickens drink more than people expect. A standard hen drinks about a pint of water per day, and that doubles in hot weather. I've used both the classic red-and-white plastic waterers and nipple waterer systems. Nipple systems stay cleaner and I'd recommend making the switch once you're comfortable with the basics. [Horizontal nipple waterers](https://www.amazon.com/s?k=horizontal+nipple+chicken+waterer&tag=backyardpoultry-20) mounted to a 5-gallon bucket are inexpensive and work beautifully.
+Water needs to be fresh and available every single day. Chickens drink more than people expect. A standard hen drinks about a pint of water per day, and that doubles in hot weather. I've used both the classic red-and-white plastic waterers and nipple waterer systems. Nipple systems stay cleaner and I'd recommend making the switch once you're comfortable with the basics. [Horizontal nipple waterers](https://www.amazon.com/s?k=horizontal+nipple+chicken+waterer&tag=contentportfo-20) mounted to a 5-gallon bucket are inexpensive and work beautifully.
 
 Kitchen scraps are fine in moderation, but know what's off-limits: no avocado (toxic), no raw dried beans, no onion in large quantities, no moldy food, no chocolate. Treats like leafy greens, watermelon, cooked eggs, and mealworms are all fair game and your birds will love you for them.
 
@@ -88,7 +88,7 @@ If you're starting with day-old chicks from a hatchery or feed store, the first 
 
 **Step 1: Set up the brooder before chicks arrive.** A large plastic storage bin or cardboard box works fine for the first few weeks. Line it with paper towels (not slippery newspaper) for the first few days, then switch to pine shavings. Never cedar shavings, the oils are harmful to respiratory systems.
 
-**Step 2: Get the temperature right.** Chicks need 95°F the first week, dropping by 5 degrees each week after. A heat lamp or, better yet, a radiant heat plate like the [Brinsea EcoGlow](https://www.amazon.com/s?k=brinsea+ecoglow+brooder&tag=backyardpoultry-20) is safer than a heat lamp and more closely mimics a mother hen. Watch the chicks, not just a thermometer. Chicks piled under the heat source are too cold. Chicks pressed against the walls away from the heat are too hot. Chicks spread out and active are just right.
+**Step 2: Get the temperature right.** Chicks need 95°F the first week, dropping by 5 degrees each week after. A heat lamp or, better yet, a radiant heat plate like the [Brinsea EcoGlow](https://www.amazon.com/s?k=brinsea+ecoglow+brooder&tag=contentportfo-20) is safer than a heat lamp and more closely mimics a mother hen. Watch the chicks, not just a thermometer. Chicks piled under the heat source are too cold. Chicks pressed against the walls away from the heat are too hot. Chicks spread out and active are just right.
 
 **Step 3: Dip their beaks in water immediately.** When you place chicks in the brooder, gently dip each beak into the water so they learn where it is. Do the same with the feed.
 
@@ -108,7 +108,7 @@ You don't need to be a veterinarian to keep healthy chickens, but knowing what t
 
 **Egg binding** is a genuine emergency. If a hen is straining, walking like a penguin, or sitting lethargic in a corner, she may have an egg stuck. A warm 20-minute soak and calcium supplement can help mild cases, but if she doesn't pass the egg within a few hours, get her to a vet.
 
-A good reference book keeps on my shelf and gets real use: [Storey's Guide to Raising Chickens by Gail Damerow](https://www.amazon.com/s?k=storey%27s+guide+to+raising+chickens&tag=backyardpoultry-20) is the most comprehensive and practical guide I've found for backyard keepers at any experience level.
+A good reference book keeps on my shelf and gets real use: [Storey's Guide to Raising Chickens by Gail Damerow](https://www.amazon.com/s?k=storey%27s+guide+to+raising+chickens&tag=contentportfo-20) is the most comprehensive and practical guide I've found for backyard keepers at any experience level.
 
 ---
 

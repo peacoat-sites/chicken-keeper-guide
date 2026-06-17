@@ -90,7 +90,7 @@ Your coop floor and your nesting boxes don't need the same bedding, and treating
 
 Nesting box bedding needs to keep eggs clean, cushion them from cracking, and stay dry and inviting enough that hens actually use the boxes and don't decide your coop floor looks better. It also needs to be easy to swap out, since nesting boxes get soiled faster than the floor.
 
-Straw and pine shavings both work well in nesting boxes. I personally like nesting box pads for keepers who want a low-fuss option. Products like [Nesting Box Pads on Amazon](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=backyardchickens-20) are made from excelsior (fine aspen wood fibers) or similar materials, fit most standard boxes, and can be shaken out and replaced monthly. They don't require you to stuff and re-fluff a box full of straw every week. *(This site may earn a commission on purchases.)*
+Straw and pine shavings both work well in nesting boxes. I personally like nesting box pads for keepers who want a low-fuss option. Products like [Nesting Box Pads on Amazon](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20) are made from excelsior (fine aspen wood fibers) or similar materials, fit most standard boxes, and can be shaken out and replaced monthly. They don't require you to stuff and re-fluff a box full of straw every week. *(This site may earn a commission on purchases.)*
 
 Dried herbs like lavender, mint, or rosemary scattered in nesting boxes aren't just chicken-keeper folklore. They have mild insect-repelling properties and keep the boxes smelling clean. I toss a handful in every couple of weeks.
 
@@ -105,7 +105,7 @@ Dried herbs like lavender, mint, or rosemary scattered in nesting boxes aren't j
 | Shredded Paper | Low | Free | Not recommended | Poor | Easy short-term |
 | Dry Leaves | Medium | Free | Yes | Good | Easy |
 
-Hemp bedding deserves a mention here even though it's pricier. It absorbs up to four times its weight in moisture, controls odor extremely well, and composts fast. If you have a small flock and buy in bulk, the math works out close to pine shavings over time. Brands like [Small Pet Select Hemp Bedding](https://www.amazon.com/s?k=hemp+chicken+bedding&tag=backyardchickens-20) are worth a look. *(This site may earn a commission on purchases.)*
+Hemp bedding deserves a mention here even though it's pricier. It absorbs up to four times its weight in moisture, controls odor extremely well, and composts fast. If you have a small flock and buy in bulk, the math works out close to pine shavings over time. Brands like [Small Pet Select Hemp Bedding](https://www.amazon.com/s?k=hemp+chicken+bedding&tag=contentportfo-20) are worth a look. *(This site may earn a commission on purchases.)*
 
 ---
 

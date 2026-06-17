@@ -49,7 +49,7 @@ Your quarantine setup doesn't need to be elaborate. A small dog kennel inside a 
 
 Keep a dedicated pair of boots and an old jacket at the quarantine pen. Change them before entering your main flock area. This sounds paranoid until you realize you've been tracking quarantine pen litter into your coop on your shoes for three weeks.
 
-A basic [poultry waterer](https://www.amazon.com/s?k=poultry+waterer&tag=backyardchicken-20) and [hanging feeder](https://www.amazon.com/s?k=hanging+poultry+feeder&tag=backyardchicken-20) that you keep exclusively for quarantine use is a worthwhile ten-dollar investment. *(This site may earn a commission on qualifying purchases.)*
+A basic [poultry waterer](https://www.amazon.com/s?k=poultry+waterer&tag=contentportfo-20) and [hanging feeder](https://www.amazon.com/s?k=hanging+poultry+feeder&tag=contentportfo-20) that you keep exclusively for quarantine use is a worthwhile ten-dollar investment. *(This site may earn a commission on qualifying purchases.)*
 
 ## How Long Quarantine Should Last
 
@@ -105,7 +105,7 @@ Move new birds into the main coop at night. Hens reorganize pecking order more c
 
 **Quarantining in a space that shares ventilation with the main coop.** Two coops with a shared roof but open eaves count as shared airspace. Seen this end badly more than once.
 
-**Skipping the parasite check.** Mites and lice don't cause dramatic illness, so people discount them. But a heavy mite load stresses birds, suppresses immunity, causes anemia, and will spread to your entire flock within days of integration. [Poultry dust or permethrin spray](https://www.amazon.com/s?k=poultry+permethrin+dust&tag=backyardchicken-20) on arrival is cheap insurance.
+**Skipping the parasite check.** Mites and lice don't cause dramatic illness, so people discount them. But a heavy mite load stresses birds, suppresses immunity, causes anemia, and will spread to your entire flock within days of integration. [Poultry dust or permethrin spray](https://www.amazon.com/s?k=poultry+permethrin+dust&tag=contentportfo-20) on arrival is cheap insurance.
 
 ---
 

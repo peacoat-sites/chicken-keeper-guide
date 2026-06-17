@@ -57,7 +57,7 @@ The key word is *above the roost line*. Your birds sleep at the highest point in
 
 The general rule you'll hear is 1 square foot of ventilation per 10 square feet of floor space. That's a starting point, not a finish line.
 
-In practice, I've found you need more than that in most climates. Pat Foreman, author of [*City Chicks*](https://www.amazon.com/City-Chicks-Micro-flock-Management-Self-Reliance/dp/0963092545?tag=backyardchick-20), recommends closer to 1 square foot per 4 square feet of floor space for more humid regions. In hot, humid climates like the Southeast, some coops do best with nearly the entire upper wall open in summer, covered only with hardware cloth.
+In practice, I've found you need more than that in most climates. Pat Foreman, author of [*City Chicks*](https://www.amazon.com/City-Chicks-Micro-flock-Management-Self-Reliance/dp/0963092545?tag=contentportfo-20), recommends closer to 1 square foot per 4 square feet of floor space for more humid regions. In hot, humid climates like the Southeast, some coops do best with nearly the entire upper wall open in summer, covered only with hardware cloth.
 
 Here's a quick comparison to help you assess your own setup:
 
@@ -82,7 +82,7 @@ In winter, your goal is to balance moisture removal with cold protection. Here's
 1. **Keep upper vents open all winter.** Even when it's 10 degrees outside, those roofline vents stay cracked. Moisture has to escape somewhere.
 2. **Close lower vents and windows on the windward side.** You don't want a north wind blasting through the coop, but you don't want to seal it up tight either.
 3. **Check for condensation every morning.** Dripping walls or a foggy coop interior means you need more ventilation, not less, even in cold weather.
-4. **Use deep litter.** A properly managed deep litter system generates a small amount of heat through decomposition and absorbs moisture. It's not magic, but it helps. [This type of pine shaving](https://www.amazon.com/s?k=pine+shavings+chicken+coop&tag=backyardchick-20) works well as a base layer.
+4. **Use deep litter.** A properly managed deep litter system generates a small amount of heat through decomposition and absorbs moisture. It's not magic, but it helps. [This type of pine shaving](https://www.amazon.com/s?k=pine+shavings+chicken+coop&tag=contentportfo-20) works well as a base layer.
 
 I've had people tell me they sealed their coop up tight to "keep the girls warm" and ended up with a flock full of respiratory illness by February. The coop smelled fine to them from the outside. Inside, the ammonia levels were toxic.
 
@@ -98,7 +98,7 @@ You don't need a custom-built coop to get this right. Some of the best-ventilate
 
 **Gable vents:** These triangular vents at the peak of each gable end wall are another great option for passive ventilation. They're inexpensive, easy to install, and available at any home improvement store. A pair of 8x16-inch gable vents on a 6x8 coop gives you 256 square inches, or about 1.8 square feet of ventilation from those two vents alone.
 
-For anyone doing a coop build or major renovation, [this book by Harvey Ussery](https://www.amazon.com/Small-Scale-Poultry-Flock-Harvey/dp/160358536X?tag=backyardchick-20) is the most practical reference I've found. He covers ventilation, deep litter, and whole-system coop design better than anything else out there.
+For anyone doing a coop build or major renovation, [this book by Harvey Ussery](https://www.amazon.com/Small-Scale-Poultry-Flock-Harvey/dp/160358536X?tag=contentportfo-20) is the most practical reference I've found. He covers ventilation, deep litter, and whole-system coop design better than anything else out there.
 
 ## How to Tell If Your Ventilation Is Working
 
@@ -112,7 +112,7 @@ You don't need fancy equipment to assess your coop's ventilation. Your nose and 
 
 **The litter test:** Good litter should feel dry and crumbly, not damp and compacted. If your litter is staying wet even with regular stirring, moisture in the air is likely the culprit.
 
-One tool I do recommend is an inexpensive [digital hygrometer](https://www.amazon.com/s?k=digital+hygrometer+thermometer&tag=backyardchick-20). Stick one inside the coop. Relative humidity above 70-75% in the coop is too high and a sign your ventilation needs work. They run about $10-15 and can give you real numbers instead of guesswork.
+One tool I do recommend is an inexpensive [digital hygrometer](https://www.amazon.com/s?k=digital+hygrometer+thermometer&tag=contentportfo-20). Stick one inside the coop. Relative humidity above 70-75% in the coop is too high and a sign your ventilation needs work. They run about $10-15 and can give you real numbers instead of guesswork.
 
 ---
 

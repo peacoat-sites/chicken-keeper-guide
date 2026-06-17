@@ -32,7 +32,7 @@ Nobody told me that the lamp wattage, the bulb type, the brooder dimensions, and
 
 ## Why Heat Lamps Are Still Worth Understanding (Even If You've Heard About Alternatives)
 
-Brooder plates. Mama heating pads. Radiant heat panels. Yes, they exist, and I use a brooder plate myself now for small batches. But heat lamps still make sense in a lot of situations: large batches of 25+ chicks, cold garages or barns in February, outdoor brooders, and situations where you need flexible, adjustable heat coverage fast. They're also significantly cheaper upfront. A decent brooder plate like the [Brinsea EcoGlow Safety 600](https://www.amazon.com/dp/B07BVZQD5X?tag=backyardchickens-20) runs $80-$100. A heat lamp fixture with a 250-watt bulb costs maybe $20 total.
+Brooder plates. Mama heating pads. Radiant heat panels. Yes, they exist, and I use a brooder plate myself now for small batches. But heat lamps still make sense in a lot of situations: large batches of 25+ chicks, cold garages or barns in February, outdoor brooders, and situations where you need flexible, adjustable heat coverage fast. They're also significantly cheaper upfront. A decent brooder plate like the [Brinsea EcoGlow Safety 600](https://www.amazon.com/dp/B07BVZQD5X?tag=contentportfo-20) runs $80-$100. A heat lamp fixture with a 250-watt bulb costs maybe $20 total.
 
 What surprised me was how many people get burned (sometimes literally) not because heat lamps are inherently dangerous, but because they're using hardware store setups that weren't designed for sustained high-heat operation. More on that in a minute.
 
@@ -44,7 +44,7 @@ Red bulbs are the traditional choice. The red tint is supposed to reduce pecking
 
 White clear bulbs run hotter than reds of the same wattage in my experience, though the actual thermal output should be similar. The difference might be perception.
 
-Ceramic heat emitters are what I'd reach for if I were starting over. No light at all, just infrared heat. Chicks can sleep on a normal day/night cycle instead of sitting under a perpetual noon sun. The [Zoo Med Ceramic Heat Emitter](https://www.amazon.com/dp/B0002AQCLO?tag=backyardchickens-20) in 100 or 150 watts works well, but you need a porcelain socket fixture rated for high wattage, not a cheap plastic one. This is non-negotiable. Plastic fixtures + ceramic emitters = fire risk.
+Ceramic heat emitters are what I'd reach for if I were starting over. No light at all, just infrared heat. Chicks can sleep on a normal day/night cycle instead of sitting under a perpetual noon sun. The [Zoo Med Ceramic Heat Emitter](https://www.amazon.com/dp/B0002AQCLO?tag=contentportfo-20) in 100 or 150 watts works well, but you need a porcelain socket fixture rated for high wattage, not a cheap plastic one. This is non-negotiable. Plastic fixtures + ceramic emitters = fire risk.
 
 On wattage: 250 watts is often overkill for a small indoor brooder. In a warm house, 150 watts might be plenty. In a cold barn in March, 250 watts might barely do the job. The only way to know is a thermometer on the brooder floor, which brings me to the part most beginner guides skip over.
 
@@ -54,9 +54,9 @@ The standard advice is 95°F the first week, drop by 5°F each week until you hi
 
 This is the thing that got me. My brooder was too small. The whole floor was basically the same temperature. Chicks had nowhere to escape the heat, so they were stress-panting in the corner farthest from the lamp trying to find relief. A brooder that's too small is arguably more dangerous than a lamp that's set slightly low.
 
-My actual setup now: I use a [40-gallon Rubbermaid stock tank](https://www.amazon.com/dp/B000EVOSE4?tag=backyardchickens-20) for small batches, which gives chicks a heat zone on one end and a cool zone on the other. For larger batches, a plywood box no smaller than 4x4 feet. I aim for roughly one-third of the floor under direct heat, two-thirds at ambient.
+My actual setup now: I use a [40-gallon Rubbermaid stock tank](https://www.amazon.com/dp/B000EVOSE4?tag=contentportfo-20) for small batches, which gives chicks a heat zone on one end and a cool zone on the other. For larger batches, a plywood box no smaller than 4x4 feet. I aim for roughly one-third of the floor under direct heat, two-thirds at ambient.
 
-Get a reliable thermometer. I keep a [ThermoPro TP50](https://www.amazon.com/dp/B01H1R0K68?tag=backyardchickens-20) clipped at brooder-floor height near the center of the warm zone. Check it hourly for the first 24 hours after setup. Then actually watch your chicks, because chick behavior tells you more than any thermometer reading.
+Get a reliable thermometer. I keep a [ThermoPro TP50](https://www.amazon.com/dp/B01H1R0K68?tag=contentportfo-20) clipped at brooder-floor height near the center of the warm zone. Check it hourly for the first 24 hours after setup. Then actually watch your chicks, because chick behavior tells you more than any thermometer reading.
 
 Chicks spread out, active, some sleeping flat (not piled): temperature is right.
 Chicks piling tightly under the lamp, cheeping loudly: too cold.
@@ -77,7 +77,7 @@ The lamp gets mounted with a chain or wire, not a clamp. Clamps fail. I use a le
 
 Two attachment points, not one. If one wire fails, the other catches it.
 
-The fixture matters. Don't buy the flimsy $8 clamp lamps from Harbor Freight for this purpose. A proper [Bayco SL-300 Clamp Lamp](https://www.amazon.com/dp/B00002N6LL?tag=backyardchickens-20) with a porcelain socket is about $14 and is what actually rated for high-wattage bulbs. The socket material is the key detail.
+The fixture matters. Don't buy the flimsy $8 clamp lamps from Harbor Freight for this purpose. A proper [Bayco SL-300 Clamp Lamp](https://www.amazon.com/dp/B00002N6LL?tag=contentportfo-20) with a porcelain socket is about $14 and is what actually rated for high-wattage bulbs. The socket material is the key detail.
 
 Keep the bulb 18-24 inches above the bedding minimum, and never let the lamp hang over deep pine shavings without a wire guard around the bulb.
 
@@ -85,7 +85,7 @@ I also put a smoke detector in any building where I run a brooder. This costs $1
 
 ## Week-by-Week Practical Guide
 
-Week 1: Set lamp so the warm zone hits 95°F. Use paper towels over pine shavings for the first 3 days so chicks learn to eat from the feeder rather than scratch at bedding. I use a [1-quart chick waterer](https://www.amazon.com/dp/B001E0FDDI?tag=backyardchickens-20) with marbles in the tray for the first few days to prevent drowning.
+Week 1: Set lamp so the warm zone hits 95°F. Use paper towels over pine shavings for the first 3 days so chicks learn to eat from the feeder rather than scratch at bedding. I use a [1-quart chick waterer](https://www.amazon.com/dp/B001E0FDDI?tag=contentportfo-20) with marbles in the tray for the first few days to prevent drowning.
 
 Week 2: Raise the lamp 2-3 inches or switch to a lower-wattage bulb. Target temp drops to 90°F. Chicks will start feathering on the wing tips and you'll notice them ranging further from the heat source.
 

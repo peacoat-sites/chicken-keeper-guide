@@ -55,7 +55,7 @@ Here's a more useful framework:
 
 A standard 8x8 coop, which is what a lot of people build or buy, gives you 64 square feet of interior space. At 4 square feet per bird, that's 16 birds. But don't stock 16 birds in an 8x8 coop. You'll be dealing with ammonia buildup, respiratory illness, and flock aggression problems within weeks. In my experience, that same 8x8 coop keeps 8 to 10 birds comfortably, which leaves room for roost bars, a feeder, and air circulation that actually works.
 
-Nesting boxes are a separate calculation. The standard recommendation is one box per four to five hens. Don't over-box either. If you have too many nest boxes, some hens will sleep in them and soil them, which creates egg hygiene problems. A flock of eight hens does fine with two good-quality boxes lined with quality nesting pads. I've used [Farm Innovators nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=backyardchickens-20) for years and they're easy to swap out and keep clean. *(This site may earn a commission on qualifying purchases.)*
+Nesting boxes are a separate calculation. The standard recommendation is one box per four to five hens. Don't over-box either. If you have too many nest boxes, some hens will sleep in them and soil them, which creates egg hygiene problems. A flock of eight hens does fine with two good-quality boxes lined with quality nesting pads. I've used [Farm Innovators nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20) for years and they're easy to swap out and keep clean. *(This site may earn a commission on qualifying purchases.)*
 
 ## The Flock Dynamics Piece That Most Beginners Don't Anticipate
 
@@ -92,7 +92,7 @@ Predator pressure is real everywhere: urban, suburban, and rural. Raccoons, opos
 
 Before you decide on flock size, decide on your coop and run construction. Hardware cloth, not chicken wire, is what keeps birds safe. Half-inch 19-gauge hardware cloth on the run, an apron buried 12 inches horizontally around the perimeter, and a secure latch that requires two motions to open are your baseline. Raccoons can open simple slide latches. I've seen it.
 
-A well-protected coop for eight birds costs more to build than a flimsy coop for twenty, but losing twelve birds in a single night to a raccoon is a cost, financial and emotional, that most people only experience once before they take security seriously. If you want a good starting reference for coop design and flock management, [Storey's Guide to Raising Chickens](https://www.amazon.com/s?k=storey%27s+guide+to+raising+chickens&tag=backyardchickens-20) is one of the most practical books I know of. *(This site may earn a commission on qualifying purchases.)*
+A well-protected coop for eight birds costs more to build than a flimsy coop for twenty, but losing twelve birds in a single night to a raccoon is a cost, financial and emotional, that most people only experience once before they take security seriously. If you want a good starting reference for coop design and flock management, [Storey's Guide to Raising Chickens](https://www.amazon.com/s?k=storey%27s+guide+to+raising+chickens&tag=contentportfo-20) is one of the most practical books I know of. *(This site may earn a commission on qualifying purchases.)*
 
 ## A Step-by-Step Process for Landing on Your Number
 

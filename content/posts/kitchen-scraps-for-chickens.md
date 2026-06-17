@@ -72,7 +72,7 @@ Feeding scraps is simple, but a few habits make a real difference.
 
 **Step 3: Feed fresh and remove leftovers.** Don't leave uneaten scraps in the coop or run overnight. Rotting food attracts rodents and flies, and spoiled food can make birds sick. Give your flock 20 to 30 minutes with scraps, then clean up what's left.
 
-**Step 4: Use a separate feeding spot.** Throwing scraps directly onto bare ground can contaminate the soil with bacteria over time. A flat tray, a shallow rubber pan, or even a large flat rock works well and makes cleanup easy. You can find durable poultry feeding trays on [Amazon](https://www.amazon.com/s?k=poultry+feed+tray&tag=backyardchx-20) that hold up well in a run environment. (Our site may earn a small commission on purchases.)
+**Step 4: Use a separate feeding spot.** Throwing scraps directly onto bare ground can contaminate the soil with bacteria over time. A flat tray, a shallow rubber pan, or even a large flat rock works well and makes cleanup easy. You can find durable poultry feeding trays on [Amazon](https://www.amazon.com/s?k=poultry+feed+tray&tag=contentportfo-20) that hold up well in a run environment. (Our site may earn a small commission on purchases.)
 
 **Step 5: Offer grit if needed.** Chickens that free range pick up small stones naturally. Confined birds need access to insoluble grit to help their gizzard grind down fibrous or starchy foods. If you're regularly feeding scraps and your birds aren't ranging, keep a container of chick or hen grit available free-choice.
 

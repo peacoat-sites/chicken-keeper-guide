@@ -116,9 +116,9 @@ Skip breeds like Silkies, Cochins, and Polish if your goal is egg production. Th
 
 ## Making the Numbers Work Better
 
-Feed management matters more than most people acknowledge. Keep feeders off the ground to reduce waste (hanging feeders like the [Little Giant Hanging Feeder](https://www.amazon.com/dp/B001E7ES3K?tag=YOURTAG-20) cut waste noticeably compared to trough feeders on the floor). Rodents eating your feed are a genuine problem; a [galvanized metal trash can](https://www.amazon.com/dp/B000BQKVRA?tag=YOURTAG-20) with a tight lid stores feed cheaply and keeps mice out.
+Feed management matters more than most people acknowledge. Keep feeders off the ground to reduce waste (hanging feeders like the [Little Giant Hanging Feeder](https://www.amazon.com/dp/B001E7ES3K?tag=contentportfo-20) cut waste noticeably compared to trough feeders on the floor). Rodents eating your feed are a genuine problem; a [galvanized metal trash can](https://www.amazon.com/dp/B000BQKVRA?tag=contentportfo-20) with a tight lid stores feed cheaply and keeps mice out.
 
-Free-ranging, even part-time, offsets feed costs. During active foraging months, a hen with good pasture access can get 10-30% of her nutritional needs from bugs, seeds, and greens. That's not nothing. A [sturdy chicken tractor](https://www.amazon.com/dp/B07XD7FGXF?tag=YOURTAG-20) moved daily across your yard can serve the same purpose if you don't have space for full free-range.
+Free-ranging, even part-time, offsets feed costs. During active foraging months, a hen with good pasture access can get 10-30% of her nutritional needs from bugs, seeds, and greens. That's not nothing. A [sturdy chicken tractor](https://www.amazon.com/dp/B07XD7FGXF?tag=contentportfo-20) moved daily across your yard can serve the same purpose if you don't have space for full free-range.
 
 Fermented feed is worth trying. It's time-consuming but fermentation increases nutrient bioavailability and most keepers report feeding about 20-25% less dry weight for the same production. You'll need a few food-grade 5-gallon buckets and a week of patience to learn the process.
 

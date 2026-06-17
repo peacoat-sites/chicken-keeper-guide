@@ -98,7 +98,7 @@ Getting consistent with feeding pays off quickly in flock health and egg product
 
 **Step 5: Track egg production.** A well-fed laying hen at peak production should lay 5 to 6 eggs per week depending on breed. Drops in production that can't be explained by molt, daylight hours, or stress often trace back to inadequate nutrition, particularly protein and calcium.
 
-For a feeder that minimizes waste and prevents overnight rodent access, a treadle-style feeder like the [Grandpa's Feeders Automatic Chicken Feeder](https://www.amazon.com/dp/B08N5PFLTK?tag=backyardchi0f-20) is worth every penny for flocks of 6 or more birds. It pays for itself in reduced feed waste within a few months.
+For a feeder that minimizes waste and prevents overnight rodent access, a treadle-style feeder like the [Grandpa's Feeders Automatic Chicken Feeder](https://www.amazon.com/dp/B08N5PFLTK?tag=contentportfo-20) is worth every penny for flocks of 6 or more birds. It pays for itself in reduced feed waste within a few months.
 
 ---
 

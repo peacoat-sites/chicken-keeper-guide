@@ -48,7 +48,7 @@ Bullying is different. Bullying looks like: one bird being chased constantly wit
 
 I've seen birds lose entire sections of feathers from their backs, and in a few bad cases I've witnessed, the flock had actually begun eating through to tissue. That's not pecking order. That's a crisis requiring immediate intervention.
 
-If you've got a bird being drawn to blood, remove her from the flock immediately, treat the wound, and use [Blu-Kote antiseptic spray](https://www.amazon.com/s?k=blu-kote+poultry&tag=backyardchickens-20) on any open areas. The blue-purple color masks the red and dramatically reduces the other birds' interest in the wound.
+If you've got a bird being drawn to blood, remove her from the flock immediately, treat the wound, and use [Blu-Kote antiseptic spray](https://www.amazon.com/s?k=blu-kote+poultry&tag=contentportfo-20) on any open areas. The blue-purple color masks the red and dramatically reduces the other birds' interest in the wound.
 
 ## Why Your Setup Might Be Making Things Worse
 
@@ -58,11 +58,11 @@ Here's something that doesn't get said enough: most pecking order problems are r
 
 **Square footage.** The absolute minimum is 4 square feet per bird inside the coop and 10 square feet per bird in the run. Those are minimums, not goals. Crowded birds are stressed birds, and stressed birds fight more. If your run is tight, the low-ranking birds have nowhere to escape to, and that's when you start seeing real injuries.
 
-**Roost bar space.** Every bird needs 8-12 inches of roost space. If they're packed shoulder to shoulder, the nightly jostling for position becomes a nightly conflict. [Wider roost bars](https://www.amazon.com/s?k=chicken+roost+bar&tag=backyardchickens-20) also reduce foot problems over time, which is a separate but important issue.
+**Roost bar space.** Every bird needs 8-12 inches of roost space. If they're packed shoulder to shoulder, the nightly jostling for position becomes a nightly conflict. [Wider roost bars](https://www.amazon.com/s?k=chicken+roost+bar&tag=contentportfo-20) also reduce foot problems over time, which is a separate but important issue.
 
 **Nesting boxes.** The general rule is one box per 3-4 hens, but most flocks pile into one or two favorite boxes regardless of how many you have. That can create conflict during peak laying hours. Providing 4 boxes for 8 hens isn't overkill.
 
-**Boredom.** A flock that has nothing to do will direct energy toward social tension. Scratch grains scattered in the run, hanging cabbages, and simple [chicken toys or treat dispensers](https://www.amazon.com/s?k=chicken+treat+dispenser&tag=backyardchickens-20) actually matter. I've seen significant behavior improvement just from adding more environmental enrichment.
+**Boredom.** A flock that has nothing to do will direct energy toward social tension. Scratch grains scattered in the run, hanging cabbages, and simple [chicken toys or treat dispensers](https://www.amazon.com/s?k=chicken+treat+dispenser&tag=contentportfo-20) actually matter. I've seen significant behavior improvement just from adding more environmental enrichment.
 
 ## Introducing New Birds Without Starting a War
 
@@ -98,7 +98,7 @@ Not all breeds play the same way in the pecking order, and if you're building a 
 
 Mixing very docile breeds like Silkies or Polish with assertive breeds like Rhode Island Reds or Leghorns is a setup for chronic bullying. I've seen it done successfully, but it requires significantly more space and careful monitoring.
 
-Roosters change the dynamic entirely. A good rooster acts as a stabilizer. He breaks up fights, finds food and calls the hens over, and protects the flock. The alpha hen loses some of her power in a flock with a rooster present, which can actually reduce hen-on-hen aggression. A bad rooster, or a young cockerel who's still figuring things out, can create chaos and over-mate hens to the point of injury. [Hen saddles](https://www.amazon.com/s?k=hen+saddle+chicken&tag=backyardchickens-20) are a real and practical solution if a hen's back is being damaged from rooster activity.
+Roosters change the dynamic entirely. A good rooster acts as a stabilizer. He breaks up fights, finds food and calls the hens over, and protects the flock. The alpha hen loses some of her power in a flock with a rooster present, which can actually reduce hen-on-hen aggression. A bad rooster, or a young cockerel who's still figuring things out, can create chaos and over-mate hens to the point of injury. [Hen saddles](https://www.amazon.com/s?k=hen+saddle+chicken&tag=contentportfo-20) are a real and practical solution if a hen's back is being damaged from rooster activity.
 
 ## When and How to Actually Intervene
 
@@ -110,7 +110,7 @@ You don't need to intervene every time a hen pecks another hen. If you do, you'l
 
 **Check your numbers.** If you have a flock of four or fewer hens, pecking order dynamics are often more intense because there's less social diffusion. Flocks of five or more tend to spread the social pressure out.
 
-**Anti-pecking devices.** [Peepers, also called blinders](https://www.amazon.com/s?k=chicken+peepers+anti+pecking&tag=backyardchickens-20), are small clips that attach to the beak and block forward vision without affecting the bird's ability to eat and drink. They sound awful but they're painless and genuinely effective for chronic feather pickers. I've used them as a short-term reset while addressing underlying causes like overcrowding or nutritional deficiency.
+**Anti-pecking devices.** [Peepers, also called blinders](https://www.amazon.com/s?k=chicken+peepers+anti+pecking&tag=contentportfo-20), are small clips that attach to the beak and block forward vision without affecting the bird's ability to eat and drink. They sound awful but they're painless and genuinely effective for chronic feather pickers. I've used them as a short-term reset while addressing underlying causes like overcrowding or nutritional deficiency.
 
 ---
 

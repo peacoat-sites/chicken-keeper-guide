@@ -80,7 +80,7 @@ Not all feeds are created equal. Here are a few things to actually look at on th
 
 **Additives:** Some feeds include probiotics, prebiotics, or marigold extract for yolk color. These aren't gimmicks, marigold meal genuinely does deepen yolk color, and probiotics can support gut health especially after stress or antibiotic treatment.
 
-One product worth mentioning is [Purina Layena Plus Omega-3](https://www.amazon.com/s?k=Purina+Layena+Plus+Omega3+Layer+Pellets&tag=backyardchick-20), which consistently gets solid reviews for shell quality and yolk color. For starter, [Purina Chick Start & Grow Medicated](https://www.amazon.com/s?k=Purina+Chick+Start+Grow+Medicated&tag=backyardchick-20) is a reliable go-to that most farm stores carry. (As an Amazon Associate, this site may earn from qualifying purchases.)
+One product worth mentioning is [Purina Layena Plus Omega-3](https://www.amazon.com/s?k=Purina+Layena+Plus+Omega3+Layer+Pellets&tag=contentportfo-20), which consistently gets solid reviews for shell quality and yolk color. For starter, [Purina Chick Start & Grow Medicated](https://www.amazon.com/s?k=Purina+Chick+Start+Grow+Medicated&tag=contentportfo-20) is a reliable go-to that most farm stores carry. (As an Amazon Associate, this site may earn from qualifying purchases.)
 
 ## Comparison: Starter vs Layer Feed at a Glance
 

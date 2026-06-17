@@ -58,7 +58,7 @@ The right way: build or buy a dedicated compost system, layer chicken manure wit
 
 The lazy way: designate a corner of your property as the long-term manure dump, add to it all year, and apply it to beds that won't be planted for at least six months. Fall garden cleanup is the perfect time. I clean my coop thoroughly in October, pile everything on the beds I cleared out, and by the following spring it's broken down enough to be completely safe and the soil structure is visibly better. Less turning, less precision, still effective.
 
-What I don't recommend is buying a bag of [Espoma Organic Chicken Manure](https://www.amazon.com/s?k=espoma+chicken+manure&tag=backyardchick-20) at $18 for 4 pounds when you're already generating hundreds of pounds for free. That product exists for people without chickens. You are not those people.
+What I don't recommend is buying a bag of [Espoma Organic Chicken Manure](https://www.amazon.com/s?k=espoma+chicken+manure&tag=contentportfo-20) at $18 for 4 pounds when you're already generating hundreds of pounds for free. That product exists for people without chickens. You are not those people.
 
 ## How to Actually Apply It to Your Garden
 

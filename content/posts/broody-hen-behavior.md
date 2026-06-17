@@ -102,7 +102,7 @@ Most hens break in 3 to 5 days. The stubborn ones, often Silkies or Cochins, can
 
 What doesn't work reliably: repeatedly removing her from the nest (she just goes back), putting ice packs under her (awkward and temporary), or moving the nest box (she'll find another one).
 
-A well-reviewed option for a ready-made broody breaker setup worth looking at is the [Precision Pet Rabbit Hutch](https://www.amazon.com/s?k=wire+rabbit+hutch+elevated&tag=backyardchickens-20) or any elevated wire cage, which you can repurpose for exactly this. *(This site may earn a commission on qualifying purchases.)*
+A well-reviewed option for a ready-made broody breaker setup worth looking at is the [Precision Pet Rabbit Hutch](https://www.amazon.com/s?k=wire+rabbit+hutch+elevated&tag=contentportfo-20) or any elevated wire cage, which you can repurpose for exactly this. *(This site may earn a commission on qualifying purchases.)*
 
 ## Raising Chicks Under a Broody: What to Expect
 

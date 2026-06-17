@@ -108,13 +108,13 @@ Choosing the right breed is step one. What you do next determines whether those 
 
 **Step 1: Source your chicks carefully.** Hatcheries like Meyer Hatchery, Cackle Hatchery, and Murray McMurray are reliable sources with good breed stock. Your local feed store chicks are often unlabeled or mislabeled, which defeats the whole purpose of selecting a specific breed.
 
-**Step 2: Get the brooder right before the chicks arrive.** You need a heat source (a 250-watt red heat lamp or a Brinsea brooder plate), a thermometer, a shallow waterer, and a small feeder. Start temperature at 95°F the first week, dropping 5°F each week after. The [Brinsea EcoGlow brooder](https://www.amazon.com/s?k=brinsea+ecoglow+brooder&tag=your-tag) is worth every penny over a heat lamp for fire safety reasons alone.
+**Step 2: Get the brooder right before the chicks arrive.** You need a heat source (a 250-watt red heat lamp or a Brinsea brooder plate), a thermometer, a shallow waterer, and a small feeder. Start temperature at 95°F the first week, dropping 5°F each week after. The [Brinsea EcoGlow brooder](https://www.amazon.com/s?k=brinsea+ecoglow+brooder&tag=contentportfo-20) is worth every penny over a heat lamp for fire safety reasons alone.
 
-**Step 3: Feed the right food.** Chicks need 20% protein chick starter for the first 16-18 weeks. Don't skip this and don't switch early. Once they're in the laying stage, move to a 16-17% layer feed with calcium. A bag of [Purina Flock Raiser](https://www.amazon.com/s?k=purina+flock+raiser&tag=your-tag) is a solid all-ages option if you want to keep things simple.
+**Step 3: Feed the right food.** Chicks need 20% protein chick starter for the first 16-18 weeks. Don't skip this and don't switch early. Once they're in the laying stage, move to a 16-17% layer feed with calcium. A bag of [Purina Flock Raiser](https://www.amazon.com/s?k=purina+flock+raiser&tag=contentportfo-20) is a solid all-ages option if you want to keep things simple.
 
 **Step 4: Build or buy a coop that gives each bird 4 square feet of indoor space minimum.** Crowding is the number one cause of pecking, stress, and disease in backyard flocks. For a 6-bird flock, that means at least a 4x6 coop interior, plus run space of 10 square feet per bird.
 
-**Step 5: Line your nesting boxes before your hens start laying around week 18-20.** They should have one box for every 3-4 hens. [Excelsior nesting pads](https://www.amazon.com/s?k=excelsior+nesting+box+pads+chickens&tag=your-tag) are clean, easy to swap out, and discourage egg eating better than loose straw.
+**Step 5: Line your nesting boxes before your hens start laying around week 18-20.** They should have one box for every 3-4 hens. [Excelsior nesting pads](https://www.amazon.com/s?k=excelsior+nesting+box+pads+chickens&tag=contentportfo-20) are clean, easy to swap out, and discourage egg eating better than loose straw.
 
 **Step 6: Have a basic first aid kit ready.** Vetericyn wound spray, Corid for coccidiosis (the number one killer of young chicks), and a poultry vitamin supplement like Nutri-Drench. You won't need all of it. But you'll be grateful it's there the first time something goes sideways at 7 PM on a Sunday.
 

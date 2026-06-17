@@ -76,7 +76,7 @@ Acting fast matters. Here's what I do, in order, every time I spot a bird who do
 
 **Step 4: Watch droppings for 24 hours.** Fresh droppings tell you a lot. Keep a photo record.
 
-**Step 5: Provide supportive care while you figure out the cause.** Warm environment (a heat lamp set to one side of the enclosure so she can self-regulate), fresh water with electrolytes, and a probiotic supplement. [Rooster Booster Poultry Cell](https://www.amazon.com/s?k=rooster+booster+poultry+cell&tag=yoursite-20) is a liquid vitamin and mineral supplement I keep on hand specifically for sick birds. *Note: This site may earn a commission on qualifying Amazon purchases.*
+**Step 5: Provide supportive care while you figure out the cause.** Warm environment (a heat lamp set to one side of the enclosure so she can self-regulate), fresh water with electrolytes, and a probiotic supplement. [Rooster Booster Poultry Cell](https://www.amazon.com/s?k=rooster+booster+poultry+cell&tag=contentportfo-20) is a liquid vitamin and mineral supplement I keep on hand specifically for sick birds. *Note: This site may earn a commission on qualifying Amazon purchases.*
 
 **Step 6: Call a vet if you see respiratory symptoms, neurological signs, bloody droppings, or if she's not eating after 24 hours.** I know some people resist vet visits for chickens, but a fecal float test and basic bloodwork can tell you in 20 minutes what you'd spend a week guessing. A poultry-savvy vet is worth finding before you need one.
 
@@ -105,7 +105,7 @@ I'll be honest: I spent the first three years of keeping chickens completely unp
 
 Egg yolk peritonitis is another one that blindsides people. What happens is that a hen's ovulation goes sideways and yolk material ends up in the abdominal cavity instead of the oviduct. The abdomen fills with fluid and infected material. The bird looks like a penguin, stands upright with a swollen belly, and often has a greenish pallor to her comb. The prognosis is poor. I've lost two birds to it, both production-oriented breeds (a Golden Comet and an ISA Brown) who were bred to lay heavily. High-production breeds are genuinely more prone to reproductive disorders. It's a real trade-off and one worth understanding before you stock your flock.
 
-Infectious Coryza is a bacterial disease that smells. Literally, there's a foul, sweet odor associated with it, along with swollen faces and nasal discharge. It spreads rapidly. [The Chicken Health Handbook by Gail Damerow](https://www.amazon.com/s?k=chicken+health+handbook+gail+damerow&tag=yoursite-20) is the single best reference I've found for diagnosing and treating these diseases at home, and I'd recommend every keeper own a copy. *This site may earn a commission on qualifying purchases.*
+Infectious Coryza is a bacterial disease that smells. Literally, there's a foul, sweet odor associated with it, along with swollen faces and nasal discharge. It spreads rapidly. [The Chicken Health Handbook by Gail Damerow](https://www.amazon.com/s?k=chicken+health+handbook+gail+damerow&tag=contentportfo-20) is the single best reference I've found for diagnosing and treating these diseases at home, and I'd recommend every keeper own a copy. *This site may earn a commission on qualifying purchases.*
 
 ---
 

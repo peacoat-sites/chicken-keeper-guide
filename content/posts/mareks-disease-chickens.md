@@ -108,7 +108,7 @@ There's no treatment for Marek's disease. That's the hard truth. Once a bird is 
 6. **Deep clean when practical, but don't expect to sterilize the environment.** The virus survives so long in dust and feather particles that total elimination is essentially impossible without completely replacing the coop. Thorough cleaning, good ventilation, and sunlight exposure help reduce load over time.
 7. **Document which birds came from which source.** If all your sick birds came from the same farm or hatchery, that's useful information for future purchasing decisions and potentially worth reporting.
 
-For supportive care supplies, a vitamin-electrolyte supplement like [Sav-A-Chick electrolytes](https://www.amazon.com/s?k=sav-a-chick+electrolytes&tag=backyardchicke-20) can help stressed or weakened birds, though it won't affect the virus itself. *(This site may earn a commission on qualifying purchases.)*
+For supportive care supplies, a vitamin-electrolyte supplement like [Sav-A-Chick electrolytes](https://www.amazon.com/s?k=sav-a-chick+electrolytes&tag=contentportfo-20) can help stressed or weakened birds, though it won't affect the virus itself. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 
@@ -132,7 +132,7 @@ Genetic resistance is an underappreciated factor. Certain breeds and strains hav
 
 If you're building a backyard flock from scratch and want something reasonably hardy, start with production breeds from reputable hatcheries rather than exhibition-quality birds from breeders specializing in show stock.
 
-For a deeper understanding of poultry disease management, Gail Damerow's [*The Merck Veterinary Manual for Poultry*](https://www.amazon.com/s?k=gail+damerow+chicken+health+handbook&tag=backyardchicke-20) is the resource I'd recommend keeping on your shelf. Her *Chicken Health Handbook* covers Marek's diagnostics and flock management better than anything else written for backyard keepers. *(This site may earn a commission on qualifying purchases.)*
+For a deeper understanding of poultry disease management, Gail Damerow's [*The Merck Veterinary Manual for Poultry*](https://www.amazon.com/s?k=gail+damerow+chicken+health+handbook&tag=contentportfo-20) is the resource I'd recommend keeping on your shelf. Her *Chicken Health Handbook* covers Marek's diagnostics and flock management better than anything else written for backyard keepers. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 

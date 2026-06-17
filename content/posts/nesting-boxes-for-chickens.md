@@ -59,7 +59,7 @@ For bedding inside the boxes, you've got several solid options:
 - **Hemp bedding:** More expensive but highly absorbent and slower to mold. Lasts longer between changes.
 - **Nesting box pads:** Pre-cut pads made from excelsior (wood wool) that sit flat in the box. Easy to replace, hold their shape, and don't scatter like loose bedding.
 
-I've had good luck with [these nesting box pads on Amazon](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=backyardchickens-20) for people who don't want to fuss with loose materials. They keep eggs cleaner and take about 30 seconds to swap out. (We may earn a small commission on purchases at no extra cost to you.)
+I've had good luck with [these nesting box pads on Amazon](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20) for people who don't want to fuss with loose materials. They keep eggs cleaner and take about 30 seconds to swap out. (We may earn a small commission on purchases at no extra cost to you.)
 
 For a broader look at bedding throughout your whole coop, the [chicken coop bedding options](/chicken-coop-bedding-options/) guide covers the full picture.
 

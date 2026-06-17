@@ -74,7 +74,7 @@ Speed is everything here. If you're seeing symptoms and you suspect coccidiosis,
 
 Make fresh medicated water daily and keep it out of direct sunlight. Make sure it's the only water source. If you leave an unmedicated puddle in the run, birds will drink from it and undermine the treatment.
 
-Here's what I tell people who ask about supportive care: give it. Electrolytes, vitamins, and a nutrient-dense wet mash alongside the medicated water can make a real difference in whether a bird pulls through. I like [Rooster Booster Poultry Cell](https://www.amazon.com/s?k=rooster+booster+poultry+cell&tag=YOURTAG-20) for this. It's a liquid vitamin and mineral supplement that you can give directly by dropper to birds that are too sick to eat well on their own. *(This site may earn a commission on Amazon purchases.)*
+Here's what I tell people who ask about supportive care: give it. Electrolytes, vitamins, and a nutrient-dense wet mash alongside the medicated water can make a real difference in whether a bird pulls through. I like [Rooster Booster Poultry Cell](https://www.amazon.com/s?k=rooster+booster+poultry+cell&tag=contentportfo-20) for this. It's a liquid vitamin and mineral supplement that you can give directly by dropper to birds that are too sick to eat well on their own. *(This site may earn a commission on Amazon purchases.)*
 
 Severely affected birds may benefit from being brought inside, kept warm (around 80 to 85°F for chicks), and given extra supportive care individually. A bird that's cold and wet on top of being sick is a bird that's losing the fight faster.
 
@@ -110,7 +110,7 @@ Here's the honest truth about prevention: you probably can't prevent exposure, a
 
 **Medicated chick starter** contains low-dose amprolium that slows oocyst development enough to let chicks build immunity while preventing overwhelming infection. It's not a cure and it's not foolproof, but it significantly reduces outbreak risk during the highest-vulnerability window. If you're buying vaccinated chicks (Marek's vaccine included), check whether the vaccine includes a coccidiosis component, because some do. Vaccinated chicks should not get medicated feed, as the amprolium interferes with the live coccidiosis vaccine.
 
-**Keep bedding dry.** This is probably the single most effective preventive step. A nipple waterer instead of an open trough reduces spillage dramatically. I switched my brooder setup to [horizontal nipple waterers](https://www.amazon.com/s?k=chicken+nipple+waterer&tag=YOURTAG-20) a few years ago and it cut down on bedding moisture significantly. *(This site may earn a commission on Amazon purchases.)*
+**Keep bedding dry.** This is probably the single most effective preventive step. A nipple waterer instead of an open trough reduces spillage dramatically. I switched my brooder setup to [horizontal nipple waterers](https://www.amazon.com/s?k=chicken+nipple+waterer&tag=contentportfo-20) a few years ago and it cut down on bedding moisture significantly. *(This site may earn a commission on Amazon purchases.)*
 
 **Don't overcrowd.** Overcrowding increases the concentration of oocysts in the environment and suppresses immune function through stress. The recommended minimums (4 square feet per bird inside, 10 square feet per bird in the run) exist for a reason.
 

@@ -107,7 +107,7 @@ If your coop is next to a garden, check what's planted near the fence line. Many
 
 Bedding materials can also be a source of mold. Wet or compacted bedding in the coop grows mold colonies that chickens will peck at. Review your bedding routine and consider whether your current material is working. There are good breakdowns of the options available in our article on [chicken coop bedding options](/chicken-coop-bedding-options/).
 
-Standing water in feeders and waterers can grow algae and bacteria that affect the digestive system. A good [poultry waterer with a nipple system](https://www.amazon.com/s?k=chicken+nipple+waterer&tag=backyardchick-20) keeps water cleaner and reduces contamination. It's a simple upgrade that makes a real difference.
+Standing water in feeders and waterers can grow algae and bacteria that affect the digestive system. A good [poultry waterer with a nipple system](https://www.amazon.com/s?k=chicken+nipple+waterer&tag=contentportfo-20) keeps water cleaner and reduces contamination. It's a simple upgrade that makes a real difference.
 
 ---
 

@@ -76,7 +76,7 @@ The good news is that adding oyster shell to your flock's routine is genuinely s
 
 **Step 6: Don't stress about exact amounts.** The self-regulating system works because hens are surprisingly good at sensing what their bodies need. A hen in peak lay will eat more oyster shell than a hen taking a winter break.
 
-[Coarse oyster shell](https://www.amazon.com/s?k=oyster+shell+for+chickens&tag=YOUR-TAG) is available from most farm supply stores and online retailers. A 50-pound bag typically runs $15 to $25 and lasts a small flock most of a season. (Disclosure: we may earn a small commission on Amazon purchases.)
+[Coarse oyster shell](https://www.amazon.com/s?k=oyster+shell+for+chickens&tag=contentportfo-20) is available from most farm supply stores and online retailers. A 50-pound bag typically runs $15 to $25 and lasts a small flock most of a season. (Disclosure: we may earn a small commission on Amazon purchases.)
 
 ---
 

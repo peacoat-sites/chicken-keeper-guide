@@ -79,7 +79,7 @@ Rather than guessing, walk through this process before you order chicks or head 
 
 **Step 6: Verify local rules.** Before you finalize anything, call or email your local planning or zoning office. Ask specifically about the maximum number of hens allowed and whether roosters are permitted on your lot size.
 
-If you're still on the fence about breed selection alongside quantity, [Storey's Guide to Raising Chickens](https://www.amazon.com/dp/1612129552?tag=backyardchickens-20) is one of the most practical references I've ever used. It covers breeds, flock sizing, feeding, and health in a way that's actually readable and grounded in real-world keeping.
+If you're still on the fence about breed selection alongside quantity, [Storey's Guide to Raising Chickens](https://www.amazon.com/dp/1612129552?tag=contentportfo-20) is one of the most practical references I've ever used. It covers breeds, flock sizing, feeding, and health in a way that's actually readable and grounded in real-world keeping.
 
 ## What Happens When You Get It Wrong
 
@@ -89,15 +89,15 @@ Getting too many birds is messier. Overcrowding causes pecking order chaos, feat
 
 There's also the emotional math to consider. When you have six birds, you know each of them. You notice when Biscuit is walking funny or Harriet isn't coming to the feeder in the morning. When you have 20, it's harder. A sick bird can decline fast if you miss early signs, and in a crowded flock, problems compound. Keep your flock at a number where you can actually pay attention to each bird.
 
-A good [poultry health reference like The Chicken Health Handbook](https://www.amazon.com/dp/1612120113?tag=backyardchickens-20) is worth keeping on hand regardless of flock size, but it matters even more when you have enough birds that individual monitoring takes real effort.
+A good [poultry health reference like The Chicken Health Handbook](https://www.amazon.com/dp/1612120113?tag=contentportfo-20) is worth keeping on hand regardless of flock size, but it matters even more when you have enough birds that individual monitoring takes real effort.
 
 ## Setting Up for Success Before the Birds Arrive
 
 Once you know your number, set up before the birds come home. This sounds obvious, but I can't count how many people I've talked to who ordered chicks before the coop was finished and ended up with a cardboard box situation in the garage for three weeks longer than planned.
 
-Get your coop ready, including bedding, a proper feeder, and a waterer that won't tip over or foul easily. For small flocks, a simple [hanging feeder like this one](https://www.amazon.com/dp/B00004RA0J?tag=backyardchickens-20) keeps feed clean and cuts waste dramatically. A [nipple waterer or horizontal nipple setup](https://www.amazon.com/dp/B07K5MCRML?tag=backyardchickens-20) keeps water much cleaner than an open bowl, especially in a coop where birds scratch bedding everywhere.
+Get your coop ready, including bedding, a proper feeder, and a waterer that won't tip over or foul easily. For small flocks, a simple [hanging feeder like this one](https://www.amazon.com/dp/B00004RA0J?tag=contentportfo-20) keeps feed clean and cuts waste dramatically. A [nipple waterer or horizontal nipple setup](https://www.amazon.com/dp/B07K5MCRML?tag=contentportfo-20) keeps water much cleaner than an open bowl, especially in a coop where birds scratch bedding everywhere.
 
-If you're brooding chicks rather than starting with pullets, you'll also need a brooder setup with a heat source for the first six weeks. A [Brinsea EcoGlow brooder](https://www.amazon.com/dp/B004K8MKGY?tag=backyardchickens-20) is safer and more energy-efficient than a heat lamp, which is a genuine fire risk in coops and garages.
+If you're brooding chicks rather than starting with pullets, you'll also need a brooder setup with a heat source for the first six weeks. A [Brinsea EcoGlow brooder](https://www.amazon.com/dp/B004K8MKGY?tag=contentportfo-20) is safer and more energy-efficient than a heat lamp, which is a genuine fire risk in coops and garages.
 
 Have everything dialed in before day one. It makes a real difference.
 

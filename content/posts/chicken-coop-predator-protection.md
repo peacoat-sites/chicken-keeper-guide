@@ -54,7 +54,7 @@ Secure hardware cloth with staples AND screws with washers. Staples alone pull o
 
 Anywhere you have ventilation openings, cover them with hardware cloth instead of chicken wire or plastic mesh. I've seen plastic mesh on a coop that looked shredded like confetti after a raccoon spent one night working on it.
 
-[Hardware cloth in various widths and lengths is available on Amazon](https://www.amazon.com/s?k=hardware+cloth+1%2F2+inch&tag=backyardchickens-20), and buying in bulk rolls saves significant money per foot if you're covering a full run.
+[Hardware cloth in various widths and lengths is available on Amazon](https://www.amazon.com/s?k=hardware+cloth+1%2F2+inch&tag=contentportfo-20), and buying in bulk rolls saves significant money per foot if you're covering a full run.
 
 ## Closing the Ground: Aprons, Skirts, and Buried Wire
 
@@ -74,7 +74,7 @@ Most predator attacks happen at night. This sounds obvious, but the implications
 
 For latches, you need something with multiple steps to open, because raccoons can figure out single-action latches given enough time and motivation. Carabiner-style clips added to a barrel bolt work well. A true two-step latch like a locking slide bolt with a pin through the hasp is even better. I use a padlock on my main coop door during spring and summer when predator activity is highest around here. It feels like overkill until the night it isn't.
 
-Automatic coop doors have been one of the best investments I've made in 12 years of keeping chickens. A good automatic door closes at dusk and opens at dawn without you having to be there, which means your birds are locked up safely even on nights when you forget or arrive home late. The [ChickenGuard](https://www.amazon.com/s?k=chickenguard+automatic+coop+door&tag=backyardchickens-20) and the [Omlet Automatic Door](https://www.amazon.com/s?k=omlet+automatic+chicken+coop+door&tag=backyardchickens-20) are both solid options with good track records. Expect to spend $150 to $250 for a reliable unit, and consider it cheap insurance against a $0 latch that fails.
+Automatic coop doors have been one of the best investments I've made in 12 years of keeping chickens. A good automatic door closes at dusk and opens at dawn without you having to be there, which means your birds are locked up safely even on nights when you forget or arrive home late. The [ChickenGuard](https://www.amazon.com/s?k=chickenguard+automatic+coop+door&tag=contentportfo-20) and the [Omlet Automatic Door](https://www.amazon.com/s?k=omlet+automatic+chicken+coop+door&tag=contentportfo-20) are both solid options with good track records. Expect to spend $150 to $250 for a reliable unit, and consider it cheap insurance against a $0 latch that fails.
 
 Check your coop for gaps regularly. Seasonal temperature changes cause wood to expand and contract, creating openings that weren't there six months ago. I do a full inspection every spring and fall, checking every seam, corner, and ventilation gap with fresh eyes.
 
@@ -90,7 +90,7 @@ If you already have a coop and need to harden it without rebuilding from scratch
 
 **Step 4: Upgrade your latches.** Replace single-action latches with two-step or padlocked options on every door, including pop doors.
 
-**Step 5: Add a predator light or motion-activated deterrent.** Lights like the [Nite Guard Solar](https://www.amazon.com/s?k=nite+guard+solar+predator+control+light&tag=backyardchickens-20) flash at night and simulate the reflection of another animal's eyes, which deters many predators. They're not foolproof but add another layer without any ongoing effort.
+**Step 5: Add a predator light or motion-activated deterrent.** Lights like the [Nite Guard Solar](https://www.amazon.com/s?k=nite+guard+solar+predator+control+light&tag=contentportfo-20) flash at night and simulate the reflection of another animal's eyes, which deters many predators. They're not foolproof but add another layer without any ongoing effort.
 
 **Step 6: Consider an automatic door.** If your routine makes it hard to close the coop consistently at dusk, an automatic door will pay for itself the first time it saves a bird.
 

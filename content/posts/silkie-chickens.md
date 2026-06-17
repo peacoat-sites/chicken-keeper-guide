@@ -71,9 +71,9 @@ The crest needs periodic trimming. Let it grow unchecked and your hen can't see 
 
 Silkies are more susceptible to Marek's disease than many other breeds, so vaccination at hatch matters. If you're buying from a local breeder, ask specifically about Marek's vaccination. Hatcheries like Cackle and Meyer routinely vaccinate, but backyard breeders sometimes skip it.
 
-Lice and mites are a more pressing concern with Silkies than most breeds because the thick plumage is ideal habitat for parasites. Check the skin under the fluff around the vent area every few weeks. I use Elector PSP when I find an infestation: about $55 for a 6oz bottle, and it works fast without the residue issues of permethrin-based products. The [Tilly's Nest Organic Coop Refresher](https://www.amazon.com/s?k=organic+coop+refresher+chickens&tag=backyardchick-20) or food-grade diatomaceous earth in dust bath areas helps as ongoing prevention.
+Lice and mites are a more pressing concern with Silkies than most breeds because the thick plumage is ideal habitat for parasites. Check the skin under the fluff around the vent area every few weeks. I use Elector PSP when I find an infestation: about $55 for a 6oz bottle, and it works fast without the residue issues of permethrin-based products. The [Tilly's Nest Organic Coop Refresher](https://www.amazon.com/s?k=organic+coop+refresher+chickens&tag=contentportfo-20) or food-grade diatomaceous earth in dust bath areas helps as ongoing prevention.
 
-A good nesting box setup matters too. I like the [Precision Pet Excelsior Nesting Pads](https://www.amazon.com/s?k=excelsior+nesting+pads+chickens&tag=backyardchick-20) for Silkies specifically because they stay drier than pine shavings and are easier on those feathered feet.
+A good nesting box setup matters too. I like the [Precision Pet Excelsior Nesting Pads](https://www.amazon.com/s?k=excelsior+nesting+pads+chickens&tag=contentportfo-20) for Silkies specifically because they stay drier than pine shavings and are easier on those feathered feet.
 
 ---
 

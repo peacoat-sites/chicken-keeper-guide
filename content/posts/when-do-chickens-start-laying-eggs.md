@@ -76,7 +76,7 @@ Getting hens to use the nesting boxes rather than random corners of the coop or 
 
 **Step 1: Get the nesting boxes right.** The standard recommendation is one box for every 3 to 4 hens. Boxes should be about 12 inches square for average-sized breeds, positioned lower than the roosting bars so hens aren't tempted to sleep in them, and located in a quieter, dimmer part of the coop. Hens want privacy when they lay.
 
-**Step 2: Use attractive bedding.** Soft, clean nesting material encourages hens to settle in. Pine shavings, straw, or nesting pads all work well. For a comparison of materials, see our overview of [chicken coop bedding options](/chicken-coop-bedding-options/). Nesting box pads like the [Precision Pet Excelsior Nesting Pads](https://www.amazon.com/s?k=excelsior+nesting+box+pads&tag=backyardchick-20) are popular because they're easy to replace and resist mites.
+**Step 2: Use attractive bedding.** Soft, clean nesting material encourages hens to settle in. Pine shavings, straw, or nesting pads all work well. For a comparison of materials, see our overview of [chicken coop bedding options](/chicken-coop-bedding-options/). Nesting box pads like the [Precision Pet Excelsior Nesting Pads](https://www.amazon.com/s?k=excelsior+nesting+box+pads&tag=contentportfo-20) are popular because they're easy to replace and resist mites.
 
 **Step 3: Use a fake egg or golf ball.** Place a ceramic egg, a plastic Easter egg, or a golf ball in each nesting box before your pullets start laying. It signals to them that this is an approved laying spot. This single trick prevents a huge percentage of "where are the eggs?" situations. Remove it after the flock is reliably using the boxes.
 

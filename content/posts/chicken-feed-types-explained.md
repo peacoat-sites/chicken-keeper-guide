@@ -80,7 +80,7 @@ A standard laying hen eats roughly a quarter pound of feed per day, about 1.5 cu
 
 In winter, birds eat more to maintain body heat, sometimes 20-30% more than in summer. In summer, heat suppresses appetite, so you might see feed consumption drop. Larger breeds like [Buff Orpingtons or Plymouth Rocks](/dual-purpose-chicken-breeds/) eat more than bantams or lighter Mediterranean breeds. Birds that free-range on good pasture supplement their diet enough to reduce feed consumption noticeably.
 
-Most backyard keepers use a free-choice feeder, keeping it filled at all times. This works fine for layers. Meat birds and broilers should be managed differently since free-choice feeding of high-protein broiler feed can cause growth problems in some strains. A good [poultry feeder](https://www.amazon.com/s?k=chicken+feeder&tag=backyardchick-20) that reduces waste and keeps feed dry is one of the most practical investments you can make. Wet feed spoils quickly and wastes money fast.
+Most backyard keepers use a free-choice feeder, keeping it filled at all times. This works fine for layers. Meat birds and broilers should be managed differently since free-choice feeding of high-protein broiler feed can cause growth problems in some strains. A good [poultry feeder](https://www.amazon.com/s?k=chicken+feeder&tag=contentportfo-20) that reduces waste and keeps feed dry is one of the most practical investments you can make. Wet feed spoils quickly and wastes money fast.
 
 ---
 

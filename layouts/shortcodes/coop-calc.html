@@ -1,0 +1,118 @@
+<style>
+.coop-calc{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.coop-calc-head{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem}
+.coop-calc-body{padding:20px}
+.cc-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:16px}
+.cc-label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)}
+.cc-label input,.cc-label select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.cc-label input:focus,.cc-label select:focus{outline:none;border-color:var(--accent,#c2410c);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#c2410c) 20%,transparent)}
+.cc-results{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.rc{background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center}
+.rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)}
+.rv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.15;margin:2px 0}
+.rs{display:block;font-size:11.5px;color:var(--muted,#6b6860)}
+.cc-callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#c2410c) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#c2410c) 35%,transparent);font-size:.95rem;line-height:1.5}
+.cc-callout b{color:var(--accent,#c2410c)}
+.cc-note{margin:16px 0 0;font-size:12px;color:var(--stone,#a09c94);line-height:1.5}
+@media(max-width:560px){.rv{font-size:1.4rem}}
+</style>
+
+<div class="coop-calc">
+  <div class="coop-calc-head">🐔 Chicken Coop Size Calculator</div>
+  <div class="coop-calc-body">
+    <div class="cc-grid">
+      <label class="cc-label">Number of Chickens
+        <input type="number" id="cc-num" min="2" max="50" value="6">
+      </label>
+      <label class="cc-label">Breed Size
+        <select id="cc-breed">
+          <option value="bantam">Bantam (small)</option>
+          <option value="standard" selected>Standard</option>
+          <option value="large">Large breed (e.g. Jersey Giant)</option>
+        </select>
+      </label>
+      <label class="cc-label">Coop Style
+        <select id="cc-style">
+          <option value="indoor">Indoor-only</option>
+          <option value="run" selected>Indoor + outdoor run</option>
+          <option value="freerange">Free-range</option>
+        </select>
+      </label>
+      <label class="cc-label">Climate
+        <select id="cc-climate">
+          <option value="mild" selected>Mild</option>
+          <option value="cold">Cold winters</option>
+        </select>
+      </label>
+    </div>
+
+    <div class="cc-results" id="cc-results">
+      <div class="rc"><span class="rl">Min. Coop Interior</span><span class="rv" id="cc-min-coop">—</span><span class="rs">sq ft</span></div>
+      <div class="rc"><span class="rl">Recommended Coop</span><span class="rv" id="cc-rec-coop">—</span><span class="rs">sq ft</span></div>
+      <div class="rc" id="cc-run-min-card"><span class="rl">Min. Run Area</span><span class="rv" id="cc-min-run">—</span><span class="rs">sq ft</span></div>
+      <div class="rc" id="cc-run-rec-card"><span class="rl">Recommended Run</span><span class="rv" id="cc-rec-run">—</span><span class="rs">sq ft</span></div>
+      <div class="rc"><span class="rl">Nesting Boxes</span><span class="rv" id="cc-nests">—</span><span class="rs">boxes needed</span></div>
+      <div class="rc"><span class="rl">Roost Bar Length</span><span class="rv" id="cc-roost">—</span><span class="rs">linear feet</span></div>
+    </div>
+
+    <div class="cc-callout">
+      <b>Rule of thumb:</b> Allow 4 sq ft per bird inside the coop and 10 sq ft per bird in the outdoor run. More space means less stress, lower disease risk, and better egg production.
+    </div>
+
+    <p class="cc-note">⚠️ Local zoning may limit flock size. Check your municipal regulations before expanding your flock. These are minimum recommendations — more space is always better.</p>
+  </div>
+</div>
+
+<script>
+(function(){
+  var indoorSqft = {bantam:2, standard:4, large:6};
+  var runSqft    = {bantam:4, standard:8, large:10};
+
+  function calc(){
+    var n       = Math.max(2, Math.min(50, parseInt(document.getElementById('cc-num').value)||6));
+    var breed   = document.getElementById('cc-breed').value;
+    var style   = document.getElementById('cc-style').value;
+    var climate = document.getElementById('cc-climate').value;
+
+    var sqPerBird = indoorSqft[breed] || 4;
+    var runPerBird = runSqft[breed] || 8;
+
+    // Cold climate: +20% buffer inside
+    if(climate === 'cold') sqPerBird = sqPerBird * 1.2;
+
+    var minCoop = Math.ceil(n * sqPerBird);
+    var recCoop = Math.ceil(minCoop * 1.25);
+    var nests   = Math.ceil(n / 4);
+    // Roost: 8-10 inches per bird, show range in feet
+    var roostMin = Math.round(n * 8 / 12 * 10) / 10;
+    var roostMax = Math.round(n * 10 / 12 * 10) / 10;
+
+    document.getElementById('cc-min-coop').textContent = minCoop;
+    document.getElementById('cc-rec-coop').textContent = recCoop;
+    document.getElementById('cc-nests').textContent = nests;
+    document.getElementById('cc-roost').textContent = roostMin + '–' + roostMax;
+
+    var hasRun = (style === 'run');
+    var minCard = document.getElementById('cc-run-min-card');
+    var recCard = document.getElementById('cc-run-rec-card');
+
+    if(hasRun){
+      var minRun = Math.ceil(n * runPerBird);
+      var recRun = Math.ceil(minRun * 1.25);
+      document.getElementById('cc-min-run').textContent = minRun;
+      document.getElementById('cc-rec-run').textContent = recRun;
+      minCard.style.display = '';
+      recCard.style.display = '';
+    } else {
+      minCard.style.display = 'none';
+      recCard.style.display = 'none';
+    }
+  }
+
+  ['cc-num','cc-breed','cc-style','cc-climate'].forEach(function(id){
+    var el = document.getElementById(id);
+    if(el){ el.addEventListener('input', calc); el.addEventListener('change', calc); }
+  });
+  calc();
+})();
+</script>

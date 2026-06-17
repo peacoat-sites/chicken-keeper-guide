@@ -1,0 +1,400 @@
+{
+  "title": "What Can Chickens Eat? Complete Safety Guide",
+  "search": true,
+  "search_placeholder": "Search foods...",
+  "filters": [
+    {
+      "key": "safe",
+      "label": "Safety"
+    },
+    {
+      "key": "category",
+      "label": "Category"
+    }
+  ],
+  "columns": [
+    {
+      "key": "food",
+      "label": "Food",
+      "primary": true
+    },
+    {
+      "key": "safe",
+      "label": "Safe?"
+    },
+    {
+      "key": "category",
+      "label": "Category"
+    },
+    {
+      "key": "benefits",
+      "label": "Benefits / Notes",
+      "wide": true
+    },
+    {
+      "key": "caution",
+      "label": "Caution / Serving tip",
+      "wide": true
+    }
+  ],
+  "rows": [
+    {
+      "food": "Mealworms (dried)",
+      "safe": "Safe",
+      "category": "Protein",
+      "benefits": "Excellent high-protein treat; great for molting hens needing extra protein to regrow feathers.",
+      "caution": "Limit to 10% of diet; live mealworms even better."
+    },
+    {
+      "food": "Pumpkin (flesh + seeds)",
+      "safe": "Safe",
+      "category": "Vegetables",
+      "benefits": "Seeds act as a natural de-wormer; flesh is hydrating and rich in beta-carotene.",
+      "caution": "Offer raw or cooked; seeds can be fed whole."
+    },
+    {
+      "food": "Watermelon",
+      "safe": "Safe",
+      "category": "Fruits",
+      "benefits": "Highly hydrating; great summer treat. Chickens love pecking at the pink flesh.",
+      "caution": "Remove rind for easier eating; high sugar so limit portions."
+    },
+    {
+      "food": "Leafy greens (kale, spinach, chard)",
+      "safe": "Safe",
+      "category": "Vegetables",
+      "benefits": "Rich in vitamins A, C, K; kale is a flock favorite. Hang leaves for enrichment.",
+      "caution": "Spinach has oxalates — rotate with other greens rather than feeding exclusively."
+    },
+    {
+      "food": "Strawberries",
+      "safe": "Safe",
+      "category": "Fruits",
+      "benefits": "Good source of vitamin C and antioxidants. Chickens go wild for the red color.",
+      "caution": "Feed as occasional treat due to natural sugar content."
+    },
+    {
+      "food": "Blueberries",
+      "safe": "Safe",
+      "category": "Fruits",
+      "benefits": "Antioxidant-rich superfood. Small size makes them ideal treats that chickens can grab easily.",
+      "caution": "Fine as a regular treat in moderation."
+    },
+    {
+      "food": "Cooked eggs (scrambled/hard-boiled)",
+      "safe": "Safe",
+      "category": "Protein",
+      "benefits": "Excellent protein boost. Especially helpful during molt or for underweight birds.",
+      "caution": "Always cook first — raw eggs can encourage egg-eating behavior."
+    },
+    {
+      "food": "Plain yogurt (unsweetened)",
+      "safe": "Safe",
+      "category": "Dairy",
+      "benefits": "Provides probiotics that support gut health and digestion. Hens love the creamy texture.",
+      "caution": "Use plain, unsweetened only. Limit to a few tablespoons per bird."
+    },
+    {
+      "food": "Oatmeal (cooked or raw)",
+      "safe": "Safe",
+      "category": "Grains",
+      "benefits": "Warming winter treat. Good source of energy, vitamins, and minerals.",
+      "caution": "Cooked is easier to digest. Avoid sugary instant oatmeal packets."
+    },
+    {
+      "food": "Corn (fresh, dried, cooked)",
+      "safe": "Safe",
+      "category": "Grains",
+      "benefits": "High energy; helps maintain body heat in winter. Chickens love cracked corn.",
+      "caution": "High in carbs — limit in summer or for overweight birds."
+    },
+    {
+      "food": "Peas (fresh or frozen)",
+      "safe": "Safe",
+      "category": "Vegetables",
+      "benefits": "High in protein and vitamins. Frozen peas are a popular cooling summer treat.",
+      "caution": "Feed thawed, not frozen solid. Avoid canned peas with added salt."
+    },
+    {
+      "food": "Broccoli",
+      "safe": "Safe",
+      "category": "Vegetables",
+      "benefits": "Nutrient-dense; rich in vitamins C and K, calcium, and fiber.",
+      "caution": "Hang as a treat ball for enrichment. Feed raw or lightly cooked."
+    },
+    {
+      "food": "Oregano (fresh or dried)",
+      "safe": "Safe",
+      "category": "Herbs",
+      "benefits": "Natural antibiotic properties; supports immune function. Popular herbal addition to feed.",
+      "caution": "Can be added directly to feed or scattered in coop."
+    },
+    {
+      "food": "Basil (fresh)",
+      "safe": "Safe",
+      "category": "Herbs",
+      "benefits": "Anti-inflammatory properties; rich in antioxidants. Chickens enjoy fresh leaves.",
+      "caution": "Feed freely — no significant cautions."
+    },
+    {
+      "food": "Mint (fresh)",
+      "safe": "Safe",
+      "category": "Herbs",
+      "benefits": "Natural insect repellent when scattered in nesting boxes. Refreshing treat in summer.",
+      "caution": "Plant in containers to prevent invasive spreading in the yard."
+    },
+    {
+      "food": "Bananas",
+      "safe": "Safe",
+      "category": "Fruits",
+      "benefits": "Good source of potassium and B vitamins. Most chickens love the soft texture.",
+      "caution": "Remove peel (too tough and may have pesticide residue). High in sugar — limit."
+    },
+    {
+      "food": "Apples (flesh only)",
+      "safe": "Safe",
+      "category": "Fruits",
+      "benefits": "Good source of fiber and vitamins. Chickens enjoy sliced apple as a treat.",
+      "caution": "Remove seeds and core — apple seeds contain small amounts of cyanide compounds."
+    },
+    {
+      "food": "Sunflower seeds (black oil)",
+      "safe": "Safe",
+      "category": "Seeds",
+      "benefits": "High in protein and healthy fats; great for feather quality and winter energy.",
+      "caution": "Offer unsalted only. Fine as a regular supplement."
+    },
+    {
+      "food": "Earthworms / grubs",
+      "safe": "Safe",
+      "category": "Protein",
+      "benefits": "Natural foraging food; high protein and chickens love hunting them. Great behavioral enrichment.",
+      "caution": "From clean soil only — avoid worms from areas treated with pesticides or herbicides."
+    },
+    {
+      "food": "Cooked rice (plain)",
+      "safe": "Safe",
+      "category": "Grains",
+      "benefits": "Easy to digest; good energy source. Useful for birds recovering from illness.",
+      "caution": "Plain only — no salt, butter, or seasonings. Avoid uncooked rice in large amounts."
+    },
+    {
+      "food": "Cooked pasta (plain)",
+      "safe": "Safe",
+      "category": "Grains",
+      "benefits": "Chickens enjoy pecking at noodles. Provides carbohydrate energy.",
+      "caution": "Plain, unseasoned only. Treat only — low in nutrients compared to feed."
+    },
+    {
+      "food": "Cucumber",
+      "safe": "Safe",
+      "category": "Vegetables",
+      "benefits": "Highly hydrating; cool summer treat. Chickens enjoy pecking at halved cucumbers.",
+      "caution": "Slice or halve for easy access. No significant cautions."
+    },
+    {
+      "food": "Squash (summer/winter)",
+      "safe": "Safe",
+      "category": "Vegetables",
+      "benefits": "Rich in vitamins A and C. Winter squash seeds offer similar benefits to pumpkin seeds.",
+      "caution": "Can be fed raw or cooked. Seeds are safe and enjoyed."
+    },
+    {
+      "food": "Carrots",
+      "safe": "Safe",
+      "category": "Vegetables",
+      "benefits": "Rich in beta-carotene which enhances egg yolk color. Chickens enjoy shredded or cooked carrots.",
+      "caution": "Grate or cook whole carrots for easier eating. Hard raw carrots may be ignored."
+    },
+    {
+      "food": "Tomatoes (ripe fruit only)",
+      "safe": "Safe",
+      "category": "Vegetables",
+      "benefits": "Ripe tomatoes are safe and enjoyed. Good source of lycopene and vitamins.",
+      "caution": "Only ripe red tomatoes — green/unripe tomatoes contain solanine. Remove stems and leaves."
+    },
+    {
+      "food": "Cooked chicken/meat (plain)",
+      "safe": "Safe",
+      "category": "Protein",
+      "benefits": "Chickens are omnivores and will eat cooked meat readily. Good protein source.",
+      "caution": "Plain, unseasoned only. No skin or fatty scraps in large amounts."
+    },
+    {
+      "food": "Cooked fish (plain)",
+      "safe": "Safe",
+      "category": "Protein",
+      "benefits": "Rich in omega-3 fatty acids; supports feather quality and overall health.",
+      "caution": "Remove all bones. Plain only — no salt, sauces, or seasonings."
+    },
+    {
+      "food": "Cheese (small amounts)",
+      "safe": "Safe",
+      "category": "Dairy",
+      "benefits": "High in protein and calcium; calcium supports strong eggshells.",
+      "caution": "Offer sparingly — high fat and dairy can cause loose droppings in excess."
+    },
+    {
+      "food": "Cooked sweet potato",
+      "safe": "Safe",
+      "category": "Vegetables",
+      "benefits": "Excellent source of beta-carotene, vitamins, and energy. Hens love the soft texture.",
+      "caution": "Cook thoroughly. Raw sweet potato is harder to digest."
+    },
+    {
+      "food": "Cabbage (raw)",
+      "safe": "Safe",
+      "category": "Vegetables",
+      "benefits": "Great enrichment — hang a whole cabbage for pecking fun. Nutritious and hydrating.",
+      "caution": "Can cause gas in very large amounts. Fine in normal treat quantities."
+    },
+    {
+      "food": "Raspberries / blackberries",
+      "safe": "Safe",
+      "category": "Fruits",
+      "benefits": "Rich in antioxidants and vitamin C. Small size makes them easy, no-prep treats.",
+      "caution": "Fine as regular treats in moderation."
+    },
+    {
+      "food": "Grapes (halved)",
+      "safe": "Safe",
+      "category": "Fruits",
+      "benefits": "Chickens love grapes; rich in natural sugars for quick energy.",
+      "caution": "Halve to prevent choking. High sugar — limit to a few per bird."
+    },
+    {
+      "food": "Citrus (oranges, lemons)",
+      "safe": "Caution",
+      "category": "Fruits",
+      "benefits": "Not toxic, but most chickens avoid citrus due to strong scent.",
+      "caution": "High acid content may reduce calcium absorption and interfere with laying. Limit or avoid."
+    },
+    {
+      "food": "Raw eggs",
+      "safe": "Caution",
+      "category": "Protein",
+      "benefits": "Nutritious but risky.",
+      "caution": "Can encourage egg-eating behavior in the flock. Always cook eggs before feeding."
+    },
+    {
+      "food": "Salty foods (chips, crackers)",
+      "safe": "Caution",
+      "category": "Snacks",
+      "benefits": "None.",
+      "caution": "Chickens cannot handle high sodium. Salt toxicity can cause excessive thirst, kidney damage."
+    },
+    {
+      "food": "Sugary treats (cake, candy)",
+      "safe": "Caution",
+      "category": "Snacks",
+      "benefits": "None.",
+      "caution": "No nutritional benefit; can cause obesity and displace nutritious feed. Avoid entirely."
+    },
+    {
+      "food": "Bread (white/plain)",
+      "safe": "Caution",
+      "category": "Grains",
+      "benefits": "Chickens enjoy it but it is nutritionally empty.",
+      "caution": "Minimal only — fills crop without nutrition. Moldy bread is toxic (never feed mold)."
+    },
+    {
+      "food": "Iceberg lettuce",
+      "safe": "Caution",
+      "category": "Vegetables",
+      "benefits": "Mostly water; low nutritional value compared to dark leafy greens.",
+      "caution": "Large amounts cause watery droppings. Prefer romaine, kale, or chard instead."
+    },
+    {
+      "food": "Avocado",
+      "safe": "Avoid",
+      "category": "Toxic",
+      "benefits": "None — do not feed.",
+      "caution": "Contains persin — a fungicidal toxin that causes myocardial necrosis and death in birds."
+    },
+    {
+      "food": "Chocolate",
+      "safe": "Avoid",
+      "category": "Toxic",
+      "benefits": "None — do not feed.",
+      "caution": "Theobromine and caffeine are toxic to chickens. Even small amounts can be fatal."
+    },
+    {
+      "food": "Onions (raw or cooked)",
+      "safe": "Avoid",
+      "category": "Toxic",
+      "benefits": "None — do not feed.",
+      "caution": "Contain thiosulfates that cause hemolytic anemia in poultry. All alliums (garlic in large amounts) carry risk."
+    },
+    {
+      "food": "Garlic (large amounts)",
+      "safe": "Caution",
+      "category": "Herbs",
+      "benefits": "Small amounts (crushed in water) may support immune function.",
+      "caution": "Large amounts can cause hemolytic anemia similar to onions. Small supplemental doses only."
+    },
+    {
+      "food": "Raw dried beans",
+      "safe": "Avoid",
+      "category": "Toxic",
+      "benefits": "None when raw.",
+      "caution": "Contains phytohemagglutinin (PHA) — a lectin that is highly toxic to chickens. Always cook beans thoroughly before offering."
+    },
+    {
+      "food": "Green/unripe tomatoes",
+      "safe": "Avoid",
+      "category": "Toxic",
+      "benefits": "None.",
+      "caution": "Contain solanine, a glycoalkaloid toxic to chickens. Only ripe red tomatoes are safe."
+    },
+    {
+      "food": "Tomato leaves and stems",
+      "safe": "Avoid",
+      "category": "Toxic",
+      "benefits": "None.",
+      "caution": "Part of the nightshade family — all green parts contain solanine. Keep tomato plants fenced away from the flock."
+    },
+    {
+      "food": "Green/raw potatoes",
+      "safe": "Avoid",
+      "category": "Toxic",
+      "benefits": "None when green or raw.",
+      "caution": "Green skin and sprouts contain solanine. Cooked, peeled potato is safe in small amounts."
+    },
+    {
+      "food": "Rhubarb (leaves especially)",
+      "safe": "Avoid",
+      "category": "Toxic",
+      "benefits": "None.",
+      "caution": "Leaves contain very high levels of oxalic acid, which is toxic and potentially fatal. Stalks also have some oxalic acid."
+    },
+    {
+      "food": "Nightshade leaves",
+      "safe": "Avoid",
+      "category": "Toxic",
+      "benefits": "None.",
+      "caution": "Entire nightshade plant (leaves, unripe berries) is toxic. Keep chickens away from nightshade plants in the garden."
+    },
+    {
+      "food": "Moldy food (any)",
+      "safe": "Avoid",
+      "category": "Toxic",
+      "benefits": "None.",
+      "caution": "Mold produces mycotoxins that damage the liver and immune system. Never feed any food showing mold."
+    },
+    {
+      "food": "Caffeine (coffee, tea)",
+      "safe": "Avoid",
+      "category": "Toxic",
+      "benefits": "None.",
+      "caution": "Caffeine is toxic to birds; can cause heart arrhythmia. Keep coffee grounds out of the compost if chickens access it."
+    },
+    {
+      "food": "Alcohol",
+      "safe": "Avoid",
+      "category": "Toxic",
+      "benefits": "None.",
+      "caution": "Toxic even in very small amounts. Never offer fermented foods intended for human consumption."
+    }
+  ],
+  "note": "This guide covers common foods only. When in doubt, leave it out. Always ensure clean fresh water is available — especially when feeding dry or salty treats."
+}

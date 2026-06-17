@@ -1,0 +1,139 @@
+<style>
+.hatch-calc{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.hatch-calc-head{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem}
+.hatch-calc-body{padding:20px}
+.hc-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:16px}
+.hc-label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)}
+.hc-label input,.hc-label select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.hc-label input:focus,.hc-label select:focus{outline:none;border-color:var(--accent,#c2410c);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#c2410c) 20%,transparent)}
+.hc-results{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.rc{background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center}
+.rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)}
+.rv{display:block;font-size:1.4rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.15;margin:2px 0}
+.rs{display:block;font-size:11.5px;color:var(--muted,#6b6860)}
+.hc-timeline{margin-top:20px;padding:16px 18px;background:var(--surface2,#f5f2ec);border-radius:12px}
+.hc-timeline-title{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted,#6b6860);margin-bottom:12px}
+.hc-steps{display:flex;align-items:flex-start;gap:0;flex-wrap:wrap}
+.hc-step{display:flex;flex-direction:column;align-items:center;flex:1;min-width:80px;text-align:center}
+.hc-step-dot{width:14px;height:14px;border-radius:50%;background:var(--accent,#c2410c);margin-bottom:6px;flex-shrink:0}
+.hc-step-line{height:2px;background:color-mix(in srgb,var(--accent,#c2410c) 40%,transparent);flex:1;margin-top:6px;align-self:flex-start}
+.hc-step-connector{display:flex;align-items:center;width:100%}
+.hc-step-label{font-size:11px;font-weight:600;color:var(--text,#1a1a18)}
+.hc-step-date{font-size:12px;color:var(--accent,#c2410c);font-weight:700;margin-top:2px}
+.hc-step-day{font-size:10.5px;color:var(--muted,#6b6860);margin-top:1px}
+.hc-conditions{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#c2410c) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#c2410c) 35%,transparent);font-size:.9rem;line-height:1.6}
+.hc-conditions b{color:var(--accent,#c2410c)}
+.hc-cond-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:8px;margin-top:8px}
+.hc-cond-item{font-size:13px}
+.hc-note{margin:16px 0 0;font-size:12px;color:var(--stone,#a09c94);line-height:1.5}
+.hc-empty{padding:20px;text-align:center;color:var(--muted,#6b6860);font-size:14px}
+@media(max-width:560px){.rv{font-size:1.2rem}.hc-steps{gap:4px}}
+</style>
+
+<div class="hatch-calc">
+  <div class="hatch-calc-head">🥚 Egg Incubation &amp; Hatch Date Calculator</div>
+  <div class="hatch-calc-body">
+    <div class="hc-grid">
+      <label class="hc-label">Species
+        <select id="hc-species">
+          <option value="chicken|21">Chicken (21 days)</option>
+          <option value="duck|28">Duck (28 days)</option>
+          <option value="goose|32">Goose (28–35 days, avg 32)</option>
+          <option value="turkey|28">Turkey (28 days)</option>
+          <option value="quail|18">Quail (17–18 days)</option>
+          <option value="guinea|27">Guinea Fowl (26–28 days, avg 27)</option>
+        </select>
+      </label>
+      <label class="hc-label">Date Eggs Set in Incubator
+        <input type="date" id="hc-date">
+      </label>
+    </div>
+
+    <div id="hc-output-area">
+      <div class="hc-empty">Select a species and set date to see your hatch schedule.</div>
+    </div>
+
+    <div class="hc-conditions">
+      <b>Incubation Conditions Reminder</b>
+      <div class="hc-cond-grid">
+        <div class="hc-cond-item">🌡️ <b>Temperature:</b> 99.5°F forced air / 101.5°F still air</div>
+        <div class="hc-cond-item">💧 <b>Humidity days 1–18:</b> 45–55%</div>
+        <div class="hc-cond-item">💧 <b>Humidity lockdown:</b> 65–70%</div>
+        <div class="hc-cond-item">🔄 <b>Turning:</b> 3–5× daily until lockdown</div>
+      </div>
+    </div>
+
+    <p class="hc-note">⚠️ Hatch dates are estimates. Individual eggs may hatch a day early or late. Do not open the incubator during lockdown — humidity loss can cause chicks to become stuck in the shell.</p>
+  </div>
+</div>
+
+<script>
+(function(){
+  var speciesSel = document.getElementById('hc-species');
+  var dateSel    = document.getElementById('hc-date');
+  var outputArea = document.getElementById('hc-output-area');
+
+  // Set today's date as default
+  var today = new Date();
+  dateSel.value = today.toISOString().slice(0,10);
+
+  function fmt(d){
+    return d.toLocaleDateString('en-US', {month:'short', day:'numeric', year:'numeric'});
+  }
+  function addDays(d, n){
+    var r = new Date(d); r.setDate(r.getDate()+n); return r;
+  }
+
+  function calc(){
+    var parts = speciesSel.value.split('|');
+    var speciesName = speciesSel.options[speciesSel.selectedIndex].text;
+    var days = parseInt(parts[1]);
+    var setStr = dateSel.value;
+    if(!setStr || !days){ outputArea.innerHTML='<div class="hc-empty">Select species and set date to calculate.</div>'; return; }
+
+    var setDate  = new Date(setStr + 'T12:00:00');
+    var candleDate = addDays(setDate, 7);
+    // Lockdown = 3 days before hatch
+    var lockdownDate = addDays(setDate, days - 3);
+    var hatchDate = addDays(setDate, days);
+
+    var html = '<div class="hc-results">';
+    html += '<div class="rc"><span class="rl">Set Date</span><span class="rv">'+fmt(setDate)+'</span><span class="rs">Day 0</span></div>';
+    html += '<div class="rc"><span class="rl">First Candling</span><span class="rv">'+fmt(candleDate)+'</span><span class="rs">Day 7 — check fertility</span></div>';
+    html += '<div class="rc"><span class="rl">Lockdown</span><span class="rv">'+fmt(lockdownDate)+'</span><span class="rs">Day '+(days-3)+' — stop turning</span></div>';
+    html += '<div class="rc"><span class="rl">Expected Hatch</span><span class="rv">'+fmt(hatchDate)+'</span><span class="rs">Day '+days+'</span></div>';
+    html += '</div>';
+
+    // Timeline
+    html += '<div class="hc-timeline">';
+    html += '<div class="hc-timeline-title">Incubation Timeline — '+speciesName+'</div>';
+    html += '<div class="hc-steps">';
+
+    var steps = [
+      {label:'Set', date:setDate, day:'Day 0'},
+      {label:'Candle', date:candleDate, day:'Day 7'},
+      {label:'Lockdown', date:lockdownDate, day:'Day '+(days-3)},
+      {label:'Hatch!', date:hatchDate, day:'Day '+days}
+    ];
+
+    steps.forEach(function(s, i){
+      html += '<div class="hc-step">';
+      html += '<div class="hc-step-dot"></div>';
+      html += '<div class="hc-step-label">'+s.label+'</div>';
+      html += '<div class="hc-step-date">'+fmt(s.date)+'</div>';
+      html += '<div class="hc-step-day">'+s.day+'</div>';
+      html += '</div>';
+      if(i < steps.length - 1){
+        html += '<div style="flex:1;height:2px;background:color-mix(in srgb,var(--accent,#c2410c) 35%,transparent);margin-top:7px;align-self:flex-start"></div>';
+      }
+    });
+
+    html += '</div></div>';
+    outputArea.innerHTML = html;
+  }
+
+  speciesSel.addEventListener('change', calc);
+  dateSel.addEventListener('input', calc);
+  calc();
+})();
+</script>

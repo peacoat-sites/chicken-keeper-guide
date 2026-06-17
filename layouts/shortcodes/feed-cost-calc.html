@@ -1,0 +1,81 @@
+<div class="fc-wrap" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">Flock Feed Cost Calculator</div>
+  <div style="padding:20px">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Number of Chickens
+        <input id="fc-hens" type="number" min="1" max="500" value="6" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s" onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'" onblur="this.style.borderColor='var(--border-strong)';this.style.boxShadow='none'" oninput="fcCalc()">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Type of Feed
+        <select id="fc-type" onchange="fcSetPrice()" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="18" selected>Layer pellets ($18/50lb)</option>
+          <option value="20">Chick starter ($20/50lb)</option>
+          <option value="19">Grower feed ($19/50lb)</option>
+          <option value="15">Scratch grains ($15/50lb)</option>
+          <option value="35">Organic layer ($35/50lb)</option>
+        </select>
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Price per 50lb Bag ($)
+        <input id="fc-price" type="number" min="5" max="200" step="0.5" value="18" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s" onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'" onblur="this.style.borderColor='var(--border-strong)';this.style.boxShadow='none'" oninput="fcCalc()">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Treats/Supplements ($/mo)
+        <input id="fc-treats" type="number" min="0" max="200" step="1" value="5" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s" onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'" onblur="this.style.borderColor='var(--border-strong)';this.style.boxShadow='none'" oninput="fcCalc()">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Avg Eggs/Week (optional)
+        <input id="fc-eggs" type="number" min="0" max="1000" step="1" placeholder="e.g. 24" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s" onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'" onblur="this.style.borderColor='var(--border-strong)';this.style.boxShadow='none'" oninput="fcCalc()">
+      </label>
+    </div>
+    <div id="fc-results" style="margin-top:4px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px">
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Monthly Feed Cost</span>
+          <span id="fc-monthly" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Annual Feed Cost</span>
+          <span id="fc-annual" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Bags per Month</span>
+          <span id="fc-bags" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+        </div>
+        <div id="fc-cost-doz-card" style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center;display:none">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Cost per Dozen</span>
+          <span id="fc-cost-doz" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+        </div>
+      </div>
+      <div id="fc-callout" style="margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.5">A flock of 6 hens typically costs $35-55/month to feed, producing about 2 dozen eggs/week - roughly $0.75-1.25/dozen.</div>
+    </div>
+  </div>
+</div>
+<script>
+function fcSetPrice(){
+  var sel=document.getElementById('fc-type');
+  document.getElementById('fc-price').value=sel.value;
+  fcCalc();
+}
+function fcCalc(){
+  var hens=parseInt(document.getElementById('fc-hens').value)||6;
+  var price=parseFloat(document.getElementById('fc-price').value)||18;
+  var treats=parseFloat(document.getElementById('fc-treats').value)||5;
+  var eggs=parseFloat(document.getElementById('fc-eggs').value)||0;
+  var lbsPerMonth=hens*7.5;
+  var bagsPerMonth=lbsPerMonth/50;
+  var feedCost=bagsPerMonth*price;
+  var totalMonthly=feedCost+treats;
+  var annual=totalMonthly*12;
+  document.getElementById('fc-monthly').textContent='$'+totalMonthly.toFixed(2);
+  document.getElementById('fc-annual').textContent='$'+annual.toFixed(0);
+  document.getElementById('fc-bags').textContent=bagsPerMonth.toFixed(1);
+  if(eggs>0){
+    var dozPerYear=eggs/12*52;
+    var costPerDoz=annual/dozPerYear;
+    document.getElementById('fc-cost-doz').textContent='$'+costPerDoz.toFixed(2);
+    document.getElementById('fc-cost-doz-card').style.display='block';
+    document.getElementById('fc-callout').innerHTML='Your <strong>'+hens+' chickens</strong> eat about <strong>'+lbsPerMonth.toFixed(0)+' lbs of feed/month</strong> (<strong>'+bagsPerMonth.toFixed(1)+' bags</strong>). Total cost with treats: <strong>$'+totalMonthly.toFixed(2)+'/month</strong> ($'+annual.toFixed(0)+'/year). At '+eggs+' eggs/week, your cost per dozen is <strong>$'+costPerDoz.toFixed(2)+'</strong>.';
+  } else {
+    document.getElementById('fc-cost-doz-card').style.display='none';
+    document.getElementById('fc-callout').innerHTML='Your <strong>'+hens+' chickens</strong> eat about <strong>'+lbsPerMonth.toFixed(0)+' lbs of feed/month</strong> (<strong>'+bagsPerMonth.toFixed(1)+' 50lb bags</strong>). Total monthly cost with treats: <strong>$'+totalMonthly.toFixed(2)</strong> ($'+annual.toFixed(0)+'/year). Enter eggs/week above to see cost-per-dozen.';
+  }
+}
+window.addEventListener('DOMContentLoaded',fcCalc);
+</script>

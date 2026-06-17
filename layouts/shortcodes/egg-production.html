@@ -1,0 +1,86 @@
+<div class="ep-wrap" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">Flock Egg Production Estimator</div>
+  <div style="padding:20px">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Number of Laying Hens
+        <input id="ep-hens" type="number" min="1" max="500" value="6" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s" onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'" onblur="this.style.borderColor='var(--border-strong)';this.style.boxShadow='none'">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Breed
+        <select id="ep-breed" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="300">Leghorn (300 eggs/yr)</option>
+          <option value="265" selected>Rhode Island Red (265/yr)</option>
+          <option value="225">Plymouth Rock (225/yr)</option>
+          <option value="225">Sussex (225/yr)</option>
+          <option value="275">Australorp (275/yr)</option>
+          <option value="175">Orpington (175/yr)</option>
+          <option value="240">Easter Egger (240/yr)</option>
+          <option value="110">Silkie (110/yr)</option>
+          <option value="140">Brahma (140/yr)</option>
+          <option value="200">Mixed flock / other (200/yr)</option>
+        </select>
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Hen Age
+        <select id="ep-age" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="0">Chicks (not laying)</option>
+          <option value="0.3">Pullets 5-6 months (starting soon)</option>
+          <option value="1.0" selected>Peak (1-2 years)</option>
+          <option value="0.75">Year 2-3 (75% of peak)</option>
+          <option value="0.5">Year 3+ (50% of peak)</option>
+        </select>
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Season
+        <select id="ep-season" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="1.0" selected>Spring / Summer (peak)</option>
+          <option value="0.75">Fall (declining)</option>
+          <option value="0.4">Winter (low - no supplemental light)</option>
+        </select>
+      </label>
+    </div>
+    <button onclick="epCalc()" style="margin-top:18px;width:100%;padding:13px;background:var(--accent);color:#fff;border:none;border-radius:10px;font-size:16px;font-weight:700;cursor:pointer;font-family:inherit">Estimate Egg Production</button>
+    <div id="ep-results" style="display:none;margin-top:4px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px">
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Eggs per Day</span>
+          <span id="ep-day" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Eggs per Week</span>
+          <span id="ep-week" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Eggs per Month</span>
+          <span id="ep-month" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Dozens per Month</span>
+          <span id="ep-dozens" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+        </div>
+      </div>
+      <div id="ep-callout" style="margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.5">Supplemental lighting (14-16 hrs/day) can maintain winter production - add a timer to your coop light.</div>
+      <p style="margin:16px 0 0;font-size:12px;color:var(--stone)">Individual hens vary. Stress, diet, health, and daylight hours all affect production. These are estimates based on breed averages.</p>
+    </div>
+  </div>
+</div>
+<script>
+function epCalc(){
+  var hens=parseInt(document.getElementById('ep-hens').value)||6;
+  var breedRate=parseFloat(document.getElementById('ep-breed').value);
+  var ageMult=parseFloat(document.getElementById('ep-age').value);
+  var seasonMult=parseFloat(document.getElementById('ep-season').value);
+  var annualPerHen=breedRate*ageMult*seasonMult;
+  var perDay=annualPerHen/365*hens;
+  var perWeek=Math.round(perDay*7*10)/10;
+  var perMonth=Math.round(perDay*30.4*10)/10;
+  var dozens=Math.round(perMonth/12*10)/10;
+  document.getElementById('ep-day').textContent=perDay.toFixed(1);
+  document.getElementById('ep-week').textContent=perWeek;
+  document.getElementById('ep-month').textContent=perMonth;
+  document.getElementById('ep-dozens').textContent=dozens;
+  if(ageMult===0){
+    document.getElementById('ep-callout').innerHTML='Your chicks are not laying yet. Most hens begin laying at 18-22 weeks (4.5-5.5 months) depending on breed.';
+  } else {
+    document.getElementById('ep-callout').innerHTML='Estimated annual total: <strong>'+Math.round(annualPerHen/365*hens*365)+' eggs</strong> from your flock of <strong>'+hens+' hens</strong>. <em>Tip: supplemental lighting (14-16 hrs/day) can significantly boost winter production.</em>';
+  }
+  document.getElementById('ep-results').style.display='block';
+}
+</script>

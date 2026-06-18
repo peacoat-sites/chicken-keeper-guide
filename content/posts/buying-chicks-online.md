@@ -32,9 +32,9 @@ I'll be honest: the first time I ordered chicks online, I thought I was being re
 <div class="value-module">
   <div class="vm-head">Hatchery Comparison: Price, Minimums, Policies</div>
   <div class="vm-body">
-    <p class="vm-intro">These five major online hatcheries differ significantly in minimum orders, shipping costs, and guarantee policies—factors that can swing your total cost by $50 or more.</p>
+    <p class="vm-intro">These five major online hatcheries differ significantly in minimum orders, shipping costs, and guarantee policies-factors that can swing your total cost by $50 or more.</p>
     <table><thead><tr><th>Hatchery</th><th>Typical Chick Price</th><th>Minimum Order</th><th>Shipping (Continental US)</th><th>Live Arrival Guarantee</th><th>Best For</th></tr></thead><tbody><tr><td>Murray McMurray</td><td>$4–$15</td><td>3 chicks (with heat pack)</td><td>$35–$50</td><td>Full refund or credit</td><td>Wide breed selection, heritage varieties</td></tr><tr><td>Meyer Hatchery</td><td>$4–$12</td><td>3 chicks (any season)</td><td>$30–$45</td><td>Refund or reship</td><td>Small orders, beginner-friendly policies</td></tr><tr><td>Cackle Hatchery</td><td>$3–$10</td><td>3 chicks (15 in cold months)</td><td>$25–$40</td><td>Credit toward next order</td><td>Budget-conscious, rare heritage breeds</td></tr><tr><td>Hoover's Hatchery</td><td>$3–$8</td><td>15 chicks (standard)</td><td>Often included in price</td><td>Refund or credit</td><td>Larger flocks, farm supply store stock</td></tr><tr><td>Greenfire Farms</td><td>$25–$100+</td><td>Varies by breed (often 6+)</td><td>$50–$75</td><td>Case-by-case</td><td>Rare imports, exhibition-quality genetics</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 

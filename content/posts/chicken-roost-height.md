@@ -36,7 +36,7 @@ Let me give you the full picture.
   <div class="vm-body">
     <p class="vm-intro">Use this table to match roost height to your specific breeds, accounting for both their flying ability and landing impact risk.</p>
     <table><thead><tr><th>Breed Category</th><th>Example Breeds</th><th>Adult Weight Range</th><th>Recommended Roost Height</th><th>Max Safe Drop</th><th>Notes</th></tr></thead><tbody><tr><td>Bantam/Feather-footed</td><td>Silkies, Bantam Cochins, Sebrights</td><td>1–2 lbs</td><td>12–18 in</td><td>24 in</td><td>Poor fliers; provide ramp if over 18 in</td></tr><tr><td>Standard Light</td><td>Leghorns, Andalusians, Anconas</td><td>4–5 lbs</td><td>36–48 in</td><td>54 in</td><td>Agile fliers; will prefer highest available perch</td></tr><tr><td>Standard Medium</td><td>Easter Eggers, Australorps, Rhode Island Reds</td><td>5–7 lbs</td><td>24–36 in</td><td>42 in</td><td>Good balance of mobility and weight</td></tr><tr><td>Standard Heavy</td><td>Buff Orpingtons, Wyandottes, Plymouth Rocks</td><td>7–9 lbs</td><td>18–24 in</td><td>30 in</td><td>Bumblefoot risk increases above 30 in drop</td></tr><tr><td>Giant/Extra Heavy</td><td>Brahmas, Jersey Giants, Cochins</td><td>9–12 lbs</td><td>12–18 in</td><td>24 in</td><td>Consider ladder ramp; avoid hard flooring below roost</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 

@@ -25,7 +25,6 @@ author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
 
 ---
-
 Organic chicken feed costs more than conventional. Sometimes a lot more. And if you've just bought your first 50-pound bag of Scratch and Peck Feeds Cluckin' Good Organic Layer Mash for $42 versus the $18 Dumor bag sitting right next to it at Tractor Supply, you might be wondering whether you just made a very expensive rookie mistake.
 
 Here's what I tell people when they ask me that question: it depends on why you're keeping chickens in the first place.
@@ -38,11 +37,11 @@ The USDA organic certification for poultry feed means the grains and ingredients
 
 I see people conflate "organic" with "better feed" all the time, and those are genuinely different things. A poorly formulated organic feed can underperform a well-formulated conventional one. What you're paying for with the organic label is how the inputs were grown, not how carefully the nutritionist designed the ration.
 
-That said, there are real reasons to care about that distinction. If you're selling eggs at a farmers market and your customers care about pesticide residues, organic feed matters to your brand. If you're feeding chickens that are also providing meat for your family and you have concerns about what accumulates in fat tissue, organic feed is a reasonable choice. If you're just trying to keep laying hens in the backyard and you eat the eggs yourself with no particular feelings about conventional ag, you might decide the price gap isn't worth it to you. All of those are defensible positions.
+But there are real reasons to care about that distinction. If you're selling eggs at a farmers market and your customers care about pesticide residues, organic feed matters to your brand. If you're feeding chickens that are also providing meat for your family and you have concerns about what accumulates in fat tissue, organic feed is a reasonable choice. If you're just trying to keep laying hens in the backyard and you eat the eggs yourself with no particular feelings about conventional agriculture, you might decide the price gap isn't worth it to you. All of those are defensible positions.
 
 ## What I Actually Look for in a Feed Label (Organic or Not)
 
-Before I care about the organic certification, I want to see the protein percentage and the ingredient list. For laying hens, you want 16-18% protein. Some feeds go higher, but honestly anything above 18% for a standard laying hen is overkill and probably a waste of money. Below 16% and you'll see it in your shells, which get thin and fragile, and in overall egg production.
+Before I care about the organic certification, I want to see the protein percentage and the ingredient list. Laying hens need 16-18% protein. Some feeds go higher, but anything above 18% for a standard laying hen is honestly overkill and probably a waste of money. Below 16% and you'll see it in your shells, which get thin and fragile, and in overall egg production.
 
 The ingredient list should lead with a whole grain or grain meal. Corn, wheat, peas, soybean meal, and fish meal are all normal and fine. What I don't want to see is the first three ingredients being byproduct fractions or filler grains with the actual protein source buried halfway down the list.
 
@@ -54,19 +53,17 @@ Modesto Milling is another brand worth knowing. They do certified organic pellet
 
 A standard laying hen eats roughly a quarter pound of feed per day. A backyard flock of six hens eats about 10-11 pounds of feed per week. At $18 for 50 pounds of conventional pellets, you're spending about $4 a week on feed. At $42 for 50 pounds of organic, you're spending about $9.25 a week. Over a year, that's the difference between roughly $208 and $481 for those six hens.
 
-Whether $273 a year matters to you is a personal question. For some people that's nothing. For some people that's the difference between the flock being financially viable or not.
+Whether $273 a year matters to you is a personal question.
 
-One thing that genuinely helps is supplementing with fermented feed. I ferment a portion of my flock's organic grain ration by soaking it in water for 3-4 days until it gets that slightly sour, bubbly smell. Fermented feed improves digestibility, which means your birds extract more nutrition from the same amount of feed. My own observation, over multiple fermentation trials with my current flock of 11, is that consumption drops by about 15-20% when I'm consistently offering fermented grain alongside dry pellets. That's real money.
-
-A simple [food-grade 5-gallon bucket](https://amzn.to/3example) is all you need to start fermenting. Nothing fancy.
+One thing that genuinely helps is supplementing with fermented feed. I ferment a portion of my flock's organic grain ration by soaking it in water for 3-4 days until it gets that slightly sour, bubbly smell. Fermented feed improves digestibility, which means your birds extract more nutrition from the same amount of feed. My own observation, over multiple fermentation trials with my current flock of 11, is that consumption drops by about 15-20% when I'm consistently offering fermented grain alongside dry pellets. That's real money. A simple [food-grade 5-gallon bucket](https://amzn.to/3example) is all you need to start fermenting.
 
 ## Does Organic Feed Actually Produce Better Eggs?
 
-The research here is genuinely mixed, and I'll be straight with you: most studies comparing organic versus conventional egg nutrition show small or inconsistent differences when the hens are managed the same way otherwise. A 2010 Penn State study did find higher omega-3s and more vitamin D in pasture-raised eggs, but the variable there was pasture access and sunlight, not feed certification.
+The research here is genuinely mixed. Most studies comparing organic versus conventional egg nutrition show small or inconsistent differences when the hens are managed the same way otherwise. A 2010 Penn State study did find higher omega-3s and more vitamin D in pasture-raised eggs, but the variable there was pasture access and sunlight, not feed certification.
 
 The honest answer is that what your hens eat from the ground, how much sunlight they get, and how much space they have probably affects your egg quality more than whether the corn in their pellets was grown with synthetic nitrogen. A hen on cheap conventional feed with good pasture access will likely produce better eggs than a hen on premium organic feed locked in a run with no grass.
 
-Where I do think organic feed makes a difference is in what it doesn't contain. Fewer pesticide residues in the feed means fewer in the eggs, even if the numbers are small. That matters more to some people than others. I'm not going to tell you it should matter to you.
+Where I do think organic feed makes a difference is in what it doesn't contain. Fewer pesticide residues in the feed means fewer in the eggs, even if the numbers are small. That matters more to some people than others, and I'm not going to tell you it should matter to you.
 
 ## Storing Feed So You Don't Throw Money Away
 
@@ -75,8 +72,5 @@ One thing people underestimate is how quickly organic feed can go rancid or grow
 I store all feed in a metal galvanized trash can with a tight lid. [A 31-gallon Behrens can](https://amzn.to/3example) holds about 50 pounds of pellets with room to spare and keeps rodents out completely. I buy no more than a 2-3 week supply at a time in summer. In winter I can stretch to a month. This matters even more with mash and crumble forms, which have more surface area exposed to air and moisture.
 
 If your feed smells musty, oily-rancid, or just "off," don't feed it. Aflatoxin from moldy grain is a real problem and can cause liver damage in your birds.
-
----
-
 
 *Photo: [Павел Гавриков](https://www.pexels.com/@79376109) via Pexels*

@@ -24,7 +24,6 @@ faqs:
   - q: "Why does my Silkie keep going broody even when there are no eggs?"
     a: "Broodiness in Silkies is a deeply ingrained hormonal response, not a rational evaluation of whether eggs are present. They'll sit on empty nests, golf balls, pine cones, whatever's there. To break the cycle, move the hen to a wire-bottomed broody-breaker cage for 3 to 5 days: the airflow under her cools her underside and interrupts the hormonal loop. It works, though some persistent hens need a second round."
 ---
-
 Nobody warns you that Silkies are basically the golden retrievers of the chicken world until you've already got three of them sleeping in a pile on your lap while you're trying to read. Friendly, gentle, completely unbothered by children, and absolutely useless in a mixed flock where anything with a peck order instinct exists. That combination is either perfect or a disaster, depending on what you actually want from backyard chickens.
 
 Let me give you the real picture.
@@ -33,15 +32,15 @@ Let me give you the real picture.
 
 Silkies are small. Not bantam-tiny, but light: typically 2 to 3 pounds for a standard Silkie, under 2 for the true bantam variety. Their signature is that fiber-like plumage, which lacks the barbicels that give normal feathers their flat, interlocking structure. The result looks like fur, feels like fur, and acts like fur in rain, which is where the problems start.
 
-They come in white, black, blue, buff, partridge, splash, and a handful of rarer colors. The crest on their heads is dramatic enough that it blocks their vision, which is charming until a hawk arrives. They've also got five toes instead of four, feathered feet, dark skin and bones, turquoise earlobes, and a walnut comb that's low and wide. Visually, they read as "definitely a chicken, but someone customized it."
+You'll find them in white, black, blue, buff, partridge, splash, and a handful of rarer colors. The crest on their heads is dramatic enough that it blocks their vision, which is charming until a hawk arrives. They've also got five toes instead of four, feathered feet, dark skin and bones, turquoise earlobes, and a walnut comb that's low and wide. Visually, they read as "definitely a chicken, but someone customized it."
 
 Personality-wise: they're genuinely calm. Not just compared to, say, a Leghorn. Calm in an absolute sense. I've seen roosters that were genuinely pleasant. Hens that let toddlers carry them around a yard without a single squawk. That calmness is consistent enough across the breed that you can actually count on it, which you can't say about most breeds.
 
 ## Egg Production: Manage Your Expectations
 
-Here's where some hatchery descriptions go soft. Silkies are not egg layers in any meaningful production sense. You'll get roughly 100 to 120 small, cream-colored eggs per year from a good layer. Compare that to a Black Sex-Link doing 280 or a Rhode Island Red hitting 250, and you see the gap. If eggs are the point, Silkies are the wrong breed.
+Here's where some hatchery descriptions go soft. Silkies are not egg layers in any meaningful production sense. You'll get roughly 100 to 120 small, cream-colored eggs per year from a good layer. A Black Sex-Link does 280. A Rhode Island Red hits 250. The gap is real. If eggs are the point, Silkies are the wrong breed.
 
-What Silkies *are* exceptional at is going broody. Relentlessly, enthusiastically, almost aggressively broody. This is a feature or a flaw based entirely on your goals. If you want to hatch eggs, including eggs from other breeds or even ducks, a Silkie hen is one of the best surrogate mothers you can find. They'll sit for weeks without complaint, rarely abandoning the nest, and they're attentive mothers once chicks hatch. I've used Silkie hens to hatch Marans eggs when I didn't want to run an incubator in the summer heat. Works great.
+What Silkies *are* exceptional at is going broody. Relentlessly, enthusiastically, almost aggressively broody. This is a feature or a flaw based entirely on your goals. Want to hatch eggs, including eggs from other breeds or even ducks? A Silkie hen is one of the best surrogate mothers you can find. They'll sit for weeks without complaint, rarely abandoning the nest, and they're attentive mothers once chicks hatch. I've used Silkie hens to hatch Marans eggs when I didn't want to run an incubator in the summer heat. Works great.
 
 If you just want eggs, all that broodiness means your hen is sitting on an empty nest instead of laying, and she'll do this multiple times a year. You can break a broody hen, but it takes consistency and time, and Silkies are stubborn about it.
 
@@ -74,8 +73,5 @@ Silkies are more susceptible to Marek's disease than many other breeds, so vacci
 Lice and mites are a more pressing concern with Silkies than most breeds because the thick plumage is ideal habitat for parasites. Check the skin under the fluff around the vent area every few weeks. I use Elector PSP when I find an infestation: about $55 for a 6oz bottle, and it works fast without the residue issues of permethrin-based products. The [Tilly's Nest Organic Coop Refresher](https://www.amazon.com/s?k=organic+coop+refresher+chickens&tag=contentportfo-20) or food-grade diatomaceous earth in dust bath areas helps as ongoing prevention.
 
 A good nesting box setup matters too. I like the [Precision Pet Excelsior Nesting Pads](https://www.amazon.com/s?k=excelsior+nesting+pads+chickens&tag=contentportfo-20) for Silkies specifically because they stay drier than pine shavings and are easier on those feathered feet.
-
----
-
 
 *Photo: [Marius-Laurentiu Butan](https://www.pexels.com/@marius-laurentiu-butan-98487327) via Pexels*

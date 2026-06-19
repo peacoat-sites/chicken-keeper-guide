@@ -24,7 +24,6 @@ faqs:
   - q: "Why does my coop smell worse in winter even when I clean it regularly?"
     a: "Almost always ventilation. People close up coops in winter to retain heat, which traps moisture and ammonia inside. Make sure your upper vents stay open year-round. Chickens can handle cold air; they cannot handle ammonia concentrations above about 25 parts per million, and the levels inside a closed winter coop can get much higher than that."
 ---
-
 My neighbor knocked on my fence one Saturday morning and asked, very politely, if something had died in my yard. Nothing had died. That was just my coop after a wet week in May, six hens, and a bedding change I'd put off for too long.
 
 If you've ever had that moment, you already know: chicken smell is not a mystery. You know exactly what's causing it. The harder question is how to actually stay ahead of it without spending every weekend shoveling or buying products that don't work.
@@ -35,7 +34,7 @@ Here's what ten years of trial, error, and genuinely embarrassing neighbor conve
 
 Ammonia is the main villain here, and it comes specifically from the breakdown of uric acid in chicken droppings. Not the droppings themselves, technically, but the bacterial process that follows. This matters because it means a coop can look clean and still reek if moisture and bacteria are present. I've seen coops with fresh shavings that smelled terrible because they were damp, and older coops with messy litter that barely registered because they were dry and well-ventilated.
 
-Ventilation does not mean "open the window." What most people don't realize is that chickens produce an enormous amount of moisture through respiration and droppings overnight. A small closed coop with six hens generates enough humidity by morning to keep that litter damp all day, and damp litter is where the smell lives. You need cross-ventilation, ideally at the roofline where hot humid air escapes, not just a pop door at ground level. This is the single change that's made the biggest difference in my own coops over the years.
+Ventilation does not mean "open the window." Most people don't realize that chickens produce an enormous amount of moisture through respiration and droppings overnight. A small closed coop with six hens generates enough humidity by morning to keep that litter damp all day, and damp litter is where the smell lives. You need cross-ventilation, ideally at the roofline where hot humid air escapes, not just a pop door at ground level. This is the single change that's made the biggest difference in my own coops over the years.
 
 If your coop smells bad in winter because you've blocked the vents to "keep them warm," that's the problem. Chickens handle cold far better than people expect. They cannot handle ammonia buildup, and neither can your lungs.
 
@@ -59,7 +58,7 @@ One product I've actually found useful: Coop Recuperate by Rooster Booster, whic
 
 Chickens spend roughly eight hours a day on the roost. All their overnight droppings land in the same spot, and that spot generates more ammonia per square foot than anywhere else in the coop.
 
-A poop board is a removable tray or shelf positioned directly under the roost. I use white vinyl flooring cut to size and set into a simple wooden tray. Every morning, I scrape the droppings off with a paint scraper into a bucket. Takes two minutes. Goes right to the compost bin.
+A poop board is a removable tray or shelf positioned directly under the roost. I use white vinyl flooring cut to size and set into a simple wooden tray. Every morning, I scrape the droppings off with a paint scraper into a bucket. Two minutes. Goes right to the compost bin.
 
 This one change eliminated about 70% of the ammonia smell in my coop. Not an exaggeration. The rest of the litter barely needs attention because the biggest source of nitrogen is removed before it ever touches it.
 
@@ -69,7 +68,7 @@ You can also line your poop board with Sweet PDZ Coop Refresher, a zeolite-based
 
 Odor sprays and enzyme cleaners marketed for coops are mostly a waste of money if you haven't addressed moisture and carbon balance first. They're treating a symptom. Same with baking soda, which is mildly useful as an occasional add-in but won't do anything meaningful if your litter is wet and your ventilation is bad.
 
-Straw is not my preferred bedding. It mats, it holds moisture, and it composts too fast for my taste in a deep litter setup. Pine shavings stay loose and dry far longer. Hemp bedding is genuinely good but it runs $25 to $40 a bag depending on the brand, which adds up fast across a full season.
+Straw is not my preferred bedding. It mats, it holds moisture, and it composts too fast for deep litter setups. Pine shavings stay loose and dry far longer. Hemp bedding is genuinely good but it runs $25 to $40 a bag depending on the brand, which adds up fast across a full season.
 
 Also: overcrowding is a smell problem. If you have eight birds in a 4x6 coop, no management system will keep up. The standard advice of 4 square feet per bird inside is a floor, not a goal.
 
@@ -80,8 +79,5 @@ High heat accelerates bacterial breakdown and ammonia production. What smells fi
 I also move to a partial deep litter in summer, meaning I keep the layer thinner (around 4 to 6 inches) and spot-clean more often rather than letting it build. The composting heat that's an asset in winter becomes a liability when ambient temperatures are already in the 90s.
 
 Shade and airflow around the outside of the coop matter here too. A coop baking in direct sun gets hotter inside, which makes everything worse faster.
-
----
-
 
 *Photo: [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646) via Pexels*

@@ -25,12 +25,11 @@ author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
 
 ---
-
 You buy three gorgeous Buff Orpingtons from a reputable breeder, bring them home, and put them straight into the flock. Two weeks later, half your birds are sneezing. A month after that, you've lost two hens you'd had for four years. This happens constantly, and it's almost always preventable. Quarantine isn't a formality you perform when you're feeling cautious. It's the most important biosecurity practice in backyard chicken keeping, and most people either skip it entirely or do it wrong.
 
 ## Why Quarantine Actually Matters (And What You're Really Protecting Against)
 
-New birds carry pathogens your existing flock has never encountered. Your flock may carry pathogens the new birds haven't encountered. Neither group looks sick because they've built immunity to their own resident bugs. The moment you mix them, you're combining two different microbial environments and everyone pays the price.
+New birds carry pathogens your existing flock has never encountered. Your flock may carry pathogens the new birds haven't encountered. Neither group looks sick because they've built immunity to their own resident bugs. Mix them together, and you're combining two different microbial environments. Everyone pays the price.
 
 The diseases that spread this way aren't minor inconveniences. Marek's disease, Mycoplasma gallisepticum (the respiratory infection most backyard keepers call "MG"), infectious bronchitis, laryngotracheitis, and coccidiosis are all candidates. Some of these are manageable. Some are fatal. A few, like MG, will make your birds chronic carriers for life, meaning even recovered birds can infect new additions years later.
 
@@ -55,7 +54,7 @@ A basic [poultry waterer](https://www.amazon.com/s?k=poultry+waterer&tag=content
 
 The standard recommendation you'll see is 30 days. That's the floor, not the target. Thirty days catches most common illnesses. Forty-five to sixty days catches the rest and is what I personally use when I'm bringing in birds from any source I haven't worked with before.
 
-The reasoning: many respiratory pathogens have incubation periods of 4 to 14 days, but birds under stress can suppress symptoms until they stabilize in a new environment. A bird that looks perfect on day 10 may start showing signs by day 25 once stress hormones settle and latent infections surface.
+Here's why: many respiratory pathogens have incubation periods of 4 to 14 days, but birds under stress can suppress symptoms until they stabilize in a new environment. A bird that looks perfect on day 10 may start showing signs by day 25 once stress hormones settle and latent infections surface.
 
 If you bought from a swap meet, auction, or a random Craigslist listing: go 45 days minimum. If you bought from a NPIP-certified flock you've sourced from before: 30 days is defensible. If you're rehoming birds that came from an unknown history: 60 days, no exceptions.
 
@@ -101,14 +100,11 @@ Move new birds into the main coop at night. Hens reorganize pecking order more c
 
 **Visiting quarantine birds last, not first.** If you care for your main flock and then go check on quarantine birds, you're moving potential pathogens in the right direction, from unknown birds toward your established flock. Reverse the order. Quarantine birds get checked after the main flock, or you change clothes and shoes between visits.
 
-**Ending quarantine early because "they look fine."** Looking fine is not the same as being fine. Stick to the timeline you set at the start.
+**Ending quarantine early because they look fine.** Looking fine is not the same as being fine. Stick to the timeline you set at the start.
 
-**Quarantining in a space that shares ventilation with the main coop.** Two coops with a shared roof but open eaves count as shared airspace. Seen this end badly more than once.
+**Quarantining in a space that shares ventilation with the main coop.** Two coops with a shared roof but open eaves count as shared airspace. I've seen this end badly more than once.
 
 **Skipping the parasite check.** Mites and lice don't cause dramatic illness, so people discount them. But a heavy mite load stresses birds, suppresses immunity, causes anemia, and will spread to your entire flock within days of integration. [Poultry dust or permethrin spray](https://www.amazon.com/s?k=poultry+permethrin+dust&tag=contentportfo-20) on arrival is cheap insurance.
-
----
-
 
 ---
 

@@ -25,16 +25,15 @@ author_title: "Homestead Writer"
 author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
 
 ---
-
 Most people start with three chickens. Then they go to pick them up, see all those fluffy little faces, and come home with six. I've watched it happen more times than I can count, and honestly, I've done it myself. What starts as a sensible, practical decision turns into what the chicken community affectionately calls "chicken math," and before you know it you're pricing out a second coop in the parking lot of Tractor Supply. So before you get swept up in the cuteness, let's talk numbers in a real, grounded way so you can make a decision you won't regret, whether you're starting from scratch or expanding an existing flock.
 
 ## Why the "Just Get a Few" Instinct Often Backfires
 
-Chickens are flock animals. They have a social hierarchy, they need companionship, and a single chicken is a stressed, unhappy chicken. Two chickens is better, but it's still a precarious setup because if one dies, the survivor is suddenly alone. Disease, predators, accidents, and plain old age will take birds from you over the years, and a small flock shrinks fast.
+Chickens are flock animals. They have a social hierarchy, they need companionship, and a single chicken is a stressed, unhappy chicken. Two chickens is better, but it's still precarious because if one dies, the survivor is suddenly alone. Disease, predators, accidents, and plain old age will take birds from you over the years, and a small flock shrinks fast.
 
-The sweet spot most experienced keepers land on is a minimum of three birds, but realistically four or five gives you more stability. With four hens, you can lose one and still have a functioning little flock while you decide whether to add more. With two, that same loss is a crisis.
+Most experienced keepers land on a minimum of three birds, but realistically four or five gives you actual stability. With four hens, you can lose one and still have a functioning little group while you decide whether to add more. With two, that same loss is a crisis.
 
-I'd also encourage you to think about what "a few chickens" actually produces. Three standard-size laying hens in their prime will give you roughly 15 to 18 eggs per week. That's more than most single people or couples can eat, and it means you'll have plenty to share with neighbors or family. If you're feeding a household of four or more, you'll probably want six to eight hens to keep up without rationing eggs.
+Here's what really matters though: three standard-size laying hens in their prime will give you roughly 15 to 18 eggs per week. That's more than most single people or couples can eat, which means plenty to share with neighbors or family. If you're feeding a household of four or more, you'll probably want six to eight hens to keep up without rationing eggs.
 
 ## The Real Factors That Should Drive Your Number
 
@@ -61,7 +60,7 @@ Here's a simple breakdown to work from:
 | 4 people | 20 to 24 | 5 to 6 | 6 to 8 |
 | 6 people | 30+ | 7 to 9 | 9 to 12 |
 
-Remember that laying hens slow down in winter (shorter days reduce production unless you add a supplemental light in the coop), during molting, and as they age. After year two, production typically drops 15 to 20 percent per year. Keeping a few birds from different age groups helps smooth out those production gaps.
+Laying hens slow down in winter (shorter days reduce production unless you add a supplemental light in the coop), during molting, and as they age. After year two, production typically drops 15 to 20 percent per year. Keeping a few birds from different age groups helps smooth out those production gaps.
 
 ## A Step-by-Step Way to Land on Your Number
 
@@ -79,7 +78,7 @@ Rather than guessing, walk through this process before you order chicks or head 
 
 **Step 6: Verify local rules.** Before you finalize anything, call or email your local planning or zoning office. Ask specifically about the maximum number of hens allowed and whether roosters are permitted on your lot size.
 
-If you're still on the fence about breed selection alongside quantity, [Storey's Guide to Raising Chickens](https://www.amazon.com/dp/1612129552?tag=contentportfo-20) is one of the most practical references I've ever used. It covers breeds, flock sizing, feeding, and health in a way that's actually readable and grounded in real-world keeping.
+[Storey's Guide to Raising Chickens](https://www.amazon.com/dp/1612129552?tag=contentportfo-20) is one of the most practical references I've ever used if you're still figuring out breed selection. It covers breeds, flock sizing, feeding, and health in a way that's actually readable and grounded in real-world keeping.
 
 ## What Happens When You Get It Wrong
 
@@ -100,9 +99,6 @@ Get your coop ready, including bedding, a proper feeder, and a waterer that won'
 If you're brooding chicks rather than starting with pullets, you'll also need a brooder setup with a heat source for the first six weeks. A [Brinsea EcoGlow brooder](https://www.amazon.com/dp/B004K8MKGY?tag=contentportfo-20) is safer and more energy-efficient than a heat lamp, which is a genuine fire risk in coops and garages.
 
 Have everything dialed in before day one. It makes a real difference.
-
----
-
 
 ---
 

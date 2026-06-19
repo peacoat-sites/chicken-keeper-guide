@@ -25,14 +25,11 @@ author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
 
 ---
-
 One of my hens sounded like a tiny accordion last October. That wet, rattling wheeze coming out of a bird that had been perfectly fine the week before is something you don't forget. If you're reading this because you heard something similar today, or because one of your girls has a puffy eye or a runny nose, I want you to take a breath. You're not a bad chicken keeper. This happens to everyone eventually, and what you do in the next 24 to 48 hours matters a lot.
 
 Respiratory illness is probably the most common health problem backyard flock owners contact me about. It's also one of the most confusing, because the symptoms overlap wildly between a handful of very different diseases. A rattling cough could be Mycoplasma gallisepticum. It could be Infectious Bronchitis. It could be Aspergillosis if they got into moldy bedding. Knowing which one you're dealing with changes everything, including whether antibiotics will help at all.
 
-Let me walk you through what I actually do when I see these signs, what's likely, what's serious, and where people tend to go wrong.
-
----
+I'm going to walk you through what I actually do when I see these signs, what's likely, what's serious, and where people tend to go wrong.
 
 ## What You're Probably Seeing (And What It Means)
 
@@ -48,21 +45,17 @@ Here's how I triage it in my own yard.
 
 **Gasping, especially in young birds, or birds that look like they're stretching their necks to breathe.** This is the one that should make you move fast. Gapeworm can cause gasping (you can sometimes see the worms by looking down the bird's throat with a flashlight), but in vaccinated or adult birds, Newcastle Disease is the nightmare scenario. True virulent Newcastle is reportable to the USDA. If birds are dying rapidly and gasping, call your state veterinarian's office before doing anything else.
 
----
-
 ## The Mistake Most People Make First
 
 Grabbing whatever antibiotic they have on hand and dosing the whole flock.
 
-I understand why. It feels like doing something. It feels responsible. But antibiotics do nothing against viral diseases, which cover probably 60 to 70 percent of backyard respiratory cases. And overusing them contributes to resistance, which matters if you ever have a bacterial infection you genuinely need to treat.
+I understand why. It feels like doing something. It feels responsible. But antibiotics do nothing against viral diseases, which probably account for 60 to 70 percent of backyard respiratory cases. And overusing them contributes to resistance, which matters if you ever have a bacterial infection you genuinely need to treat.
 
 The two antibiotics most commonly used for respiratory illness in backyard chickens are Tylosin (sold as Tylan 50 injectable or Tylan Soluble powder) and Oxytetracycline (sold as Duramycin or Terramycin). Tylosin is specifically good for Mycoplasma. Oxytetracycline has broader spectrum use but weaker Mycoplasma coverage.
 
 [Tylan Soluble Powder is available on Amazon](https://www.amazon.com/s?k=tylan+soluble+powder+poultry) and I've used it directly, dissolved in drinking water. Note that as of late 2023, there are new FDA rules under VFD (Veterinary Feed Directive) regulations affecting how some of these drugs can be obtained. Depending on your state, you may need a vet relationship to get them. This is worth knowing before you're in a crisis.
 
 What I'd actually recommend: call a poultry vet before you dose. Even a 20-minute phone consult can save you from treating the wrong thing. Many university extension programs also have poultry diagnostic labs that will test a swab or, in the worst case, a deceased bird for surprisingly reasonable prices. The UC Davis California Animal Health and Food Safety lab, for example, charges around $60 to $80 for a basic respiratory panel. Your state's land-grant university almost certainly has something similar.
-
----
 
 ## Environment Is Doing More Work Than You Think
 
@@ -74,9 +67,7 @@ Deep litter that isn't turned, coops without adequate cross-ventilation, too man
 
 My personal minimum: 4 square feet per bird inside the coop, ventilation gaps at the roofline (not at bird height, where drafts hit directly), and litter that I'm turning at least twice a week in wet weather. I like pine shavings over straw because they dry faster and compact less. In winter I add a product called Sweet PDZ (a zeolite mineral sold in feed stores and [on Amazon](https://www.amazon.com/s?k=sweet+pdz+coop+refresher)) under the roost bars to absorb ammonia. It genuinely works.
 
-Also worth saying: mold is a separate problem. Aspergillosis, the fungal respiratory infection, comes from moldy feed or bedding and doesn't spread bird-to-bird. It also doesn't respond to standard antibiotics. If you see birds with neurological signs combined with gasping, and you've recently had wet bedding or questionable feed, mold is worth considering. It's often fatal and very hard to treat.
-
----
+Mold is a separate problem worth mentioning. Aspergillosis, the fungal respiratory infection, comes from moldy feed or bedding and doesn't spread bird-to-bird. It also doesn't respond to standard antibiotics. If you see birds with neurological signs combined with gasping, and you've recently had wet bedding or questionable feed, mold is worth considering. It's often fatal and very hard to treat.
 
 ## When to Separate, When to Treat, When to Cull
 
@@ -87,9 +78,6 @@ If you catch one sick bird early, isolation can slow spread. Set up a hospital a
 But if three birds are already symptomatic, you're probably past the containment stage. The flock has been exposed. At that point, focus on supporting everyone: keep feeders and waterers clean (I run a weak bleach rinse on waterers every other day during an outbreak), improve ventilation, reduce stress from overcrowding or extreme cold, and make the call on whether to treat.
 
 Culling is hard to talk about. I'm not going to pretend it isn't. But some diseases, especially Marek's and severe Newcastle, and sometimes Coryza in a flock that keeps cycling through reinfection, reach a point where the kindest and most practical thing is a hard decision. I've made that call. I've also kept birds alive through illness who went on to lay for two more years. You learn to read each situation.
-
----
-
 
 ---
 

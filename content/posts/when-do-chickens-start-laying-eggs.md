@@ -25,14 +25,13 @@ author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
 
 ---
-
 You've been feeding, watering, and caring for your pullets for months. You check the nesting boxes every morning with that mix of hope and mild disappointment. Then one Tuesday, there it is: a small, slightly odd-shaped egg sitting in the corner of the coop. The wait is finally over. If you're still in the waiting phase, understanding exactly what drives that first egg can make the whole experience a lot less frustrating.
 
 ## The Average Age When Chickens Start Laying
 
 Most backyard chickens lay their first egg somewhere between 18 and 24 weeks of age. That's the honest range, not the optimistic one you'll sometimes see on feed store signage. A few breeds can surprise you as early as 16 weeks, while others, particularly large or heritage breeds, won't lay until they're closer to 28 or even 32 weeks old.
 
-Breed is the single biggest variable. Production-focused breeds like the Leghorn or Golden Comet are bred specifically to lay early and lay often. A Leghorn pullet hitting 16 to 17 weeks and dropping her first egg is completely normal. Compare that to a Brahma or a Jersey Giant, which are large dual-purpose birds that mature slowly. If you have a flock of mixed breeds, don't be surprised if some hens are laying reliably for six weeks before their flockmates even start. If you're still choosing your flock, our guide to the [best egg laying chickens](/best-egg-laying-chickens/) breaks down which breeds consistently perform and when you can realistically expect production to start.
+Breed is the single biggest variable. Production-focused breeds like the Leghorn or Golden Comet are built specifically to lay early and lay often. A Leghorn pullet hitting 16 to 17 weeks and dropping her first egg is completely normal. A Brahma or Jersey Giant, though? Those are large dual-purpose birds that mature slowly. You might see some hens in your flock laying reliably for six weeks before their flockmates even start. If you're still choosing your birds, our guide to the [best egg laying chickens](/best-egg-laying-chickens/) breaks down which breeds consistently perform and when you can realistically expect production to start.
 
 Season also plays a major role. Laying is triggered by light. Pullets need roughly 14 to 16 hours of daylight to kick-start their reproductive cycle. A chick hatched in early spring will often reach laying age right as daylight hours are long and strong, making for a smooth transition. A pullet that hits 18 weeks in late October might stall until spring, even if she's biologically ready, because there simply isn't enough light to trigger ovulation.
 
@@ -40,21 +39,21 @@ Season also plays a major role. Laying is triggered by light. Pullets need rough
 
 The weeks right before that first egg arrive with some clear signals if you know what to look for.
 
-Watch the comb and wattles closely. As a pullet approaches laying age, estrogen production ramps up and the comb grows noticeably larger and turns a deeper, more vivid red. A pale, small comb on a 20-week-old pullet is a sign she's not there yet. A bright red, full comb is a very reliable indicator that eggs are coming within a week or two.
+Watch the comb and wattles closely. As a pullet approaches laying age, estrogen production ramps up and the comb grows noticeably larger and turns a deeper, more vivid red. A pale, small comb on a 20-week-old pullet is a sign she's not there yet. A bright red, full comb means eggs are coming within a week or two.
 
 She'll start squatting. This is one of the most definitive pre-laying behaviors. When you reach down toward a pullet and she drops low to the ground, spreads her wings slightly, and holds still, that's a submissive mating posture. It means she's sexually mature. Some people call it the "squat." Once you see consistent squatting, expect eggs within 7 to 10 days.
 
-She'll also get nosy about the nesting boxes. Young pullets ignore them completely. Pre-laying hens will hop in, scratch around, and hop back out. They're scouting. You might see a hen sitting in an empty nesting box for 20 minutes and walking away with nothing to show for it. That behavior is completely normal and it means she's practicing.
+She'll also get nosy about the nesting boxes. Young pullets ignore them completely. Pre-laying hens will hop in, scratch around, and hop back out. They're scouting. You might see a hen sitting in an empty nesting box for 20 minutes and walking away with nothing to show for it. That's completely normal and it means she's practicing.
 
-The pelvis bones will widen. You can actually check this by gently pressing your fingers between the two pointed pelvic bones on either side of the vent. In a non-laying hen, these bones are close together, often less than one finger-width apart. In a hen ready to lay or actively laying, there's enough space for two or three finger-widths. It sounds a little odd, but once you've felt the difference it becomes a reliable check.
+Check the pelvis bones too. You can gently press your fingers between the two pointed pelvic bones on either side of the vent. In a non-laying hen, these bones are close together, often less than one finger-width apart. In a hen ready to lay or actively laying, there's enough space for two or three finger-widths. It sounds odd, but once you've felt the difference it becomes a reliable check.
 
 ## What Those First Eggs Actually Look Like
 
-Don't expect perfection from a brand-new layer. First eggs are often small, sometimes dramatically so. A standard laying hen might eventually produce a 55- to 60-gram egg, but her first attempts might clock in at 30 to 35 grams, which is closer to a peewee or small grade.
+Don't expect perfection from a brand-new layer. First eggs are often small, sometimes dramatically so. A standard laying hen might eventually produce a 55- to 60-gram egg, but her first attempts might clock in at 30 to 35 grams, closer to a peewee or small grade.
 
 Shell quality can be inconsistent early on. You might get a soft-shelled egg, a shell-less egg that's essentially just a membrane, or an egg with an unusual surface texture. Double yolkers are also common in new layers because the hormonal system is still calibrating. The ovulation cycle occasionally releases two yolks too close together and they end up packaged into one shell.
 
-Give a new layer about 4 to 6 weeks to normalize. By that point most pullets are producing consistent, properly sized eggs with good shell quality. If problems like soft shells persist beyond that window, it's usually a calcium deficiency. Make sure you're offering oyster shell free-choice as a calcium supplement separate from layer feed. Don't rely on feed alone to meet calcium needs during peak laying.
+Give a new layer about 4 to 6 weeks to normalize. Most pullets are producing consistent, properly sized eggs with good shell quality by then. If problems like soft shells persist beyond that window, it's usually a calcium deficiency. Make sure you're offering oyster shell free-choice as a calcium supplement separate from layer feed. Don't rely on feed alone to meet calcium needs during peak laying.
 
 ## Factors That Delay or Disrupt the First Egg
 
@@ -100,9 +99,6 @@ Getting hens to use the nesting boxes rather than random corners of the coop or 
 | Jersey Giant | 28 to 32 weeks | 150 to 180 eggs |
 
 If you're choosing breeds specifically for egg production and want something that lays reliably without a long wait, you'll want to look at [friendly chicken breeds](/friendly-chicken-breeds/) alongside production stats, since temperament matters in a backyard setting. Easter Eggers are a particularly popular choice for beginners who want colorful eggs and a docile bird. You can read more about them in our dedicated [Easter Egger chickens](/easter-egger-chickens/) profile.
-
----
-
 
 ---
 

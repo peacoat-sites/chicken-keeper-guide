@@ -24,7 +24,6 @@ faqs:
   - q: "Where can I buy quality bantam chicks?"
     a: "Hatcheries like Meyer Hatchery and Cackle Hatchery carry a decent bantam selection and ship small orders. For rarer true bantams like Rosecombs or Dutch Bantams, breeders found through the American Bantam Association or local poultry clubs will get you far better stock than a hatchery will. Quality matters more with bantams than people realize, especially for breeds where type (physical conformation) affects things like crest visibility and feathered-foot soundness."
 ---
-
 Most people assume bantams are just miniature chickens for kids and small backyards, cute but not particularly useful. I thought the same thing until I started keeping them seriously about six years ago. What I discovered is that a few of these breeds will outperform full-size hens in ways that genuinely surprised me, and some of them are genuinely difficult birds that nobody warns you about until your rooster has already drawn blood.
 
 Let me give you the real picture.
@@ -78,8 +77,5 @@ The research here is mixed, honestly, and so is my own experience. I've had bant
 My most successful mixed flocks have been bantam roosters with bantam hens housed together, adjacent to standard hens with shared run space but separate sleeping areas. That way the bantams have a retreat that the larger birds can't crowd them out of.
 
 If you want to run a fully mixed flock, Cochins, Silkies, and d'Uccles tend to integrate better than Old English Game or Seramas. And always introduce bantams at night, same as any new bird.
-
----
-
 
 *Photo: [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646) via Pexels*

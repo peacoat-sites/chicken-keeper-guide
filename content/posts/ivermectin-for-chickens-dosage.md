@@ -24,7 +24,6 @@ faqs:
   - q: "Can I treat a sick or underweight bird?"
     a: "Use caution here. Ivermectin is processed by the liver, and a bird that's already compromised may not clear it as efficiently. If a bird is visibly ill, underweight, or molting heavily, consult an avian vet before treating. The parasite burden may itself be contributing to the bird's condition, so doing nothing isn't obviously safer, but dosing a compromised bird without guidance isn't either."
 ---
-
 Most people end up on this page because something is wrong with their flock and they're not sure what, or they found mites on a bird and panicked, or someone in their chicken group told them "just use ivermectin" without explaining how. You might be wondering whether it's even safe, whether it affects your eggs, how much to actually give, and why the bottle in front of you doesn't say anything about chickens. All of that is completely reasonable.
 
 Here's what I tell people who are new to this: ivermectin works, it's widely used by backyard keepers, and the dosing is more forgiving than you'd think once you understand the basics. But there are a few things worth getting straight before you pull the plunger.
@@ -61,7 +60,7 @@ A practical note: most people eyeball a small drop on the skin for standard-size
 
 **Ivermectin paste (1.87%):** This one requires more math and more care. At 1.87%, you need roughly 0.1 mg/kg orally, which for a 2 kg bird is 0.2 mg total. That's about 0.01 mL of the paste. Very small amount. I don't use this method routinely because of how easy it is to get wrong and how variable absorption is orally in birds.
 
-**Repeat dosing:** For mites, treat once, then repeat in 10 to 14 days to catch any eggs that hatched after the first treatment. That second dose is not optional if you want to actually clear the infestation. For internal parasites, a single treatment followed by a second dose 14 days later is standard.
+**Repeat dosing:** For mites, treat once, then repeat in 10 to 14 days to catch any eggs that hatched after the first treatment. That second dose isn't optional if you want to actually clear the infestation. For internal parasites, a single treatment followed by a second dose 14 days later is standard.
 
 ## The Egg Withdrawal Question
 
@@ -75,12 +74,9 @@ If you're selling eggs or giving them to people who are immune-compromised or pr
 
 ## A Contrarian Take Worth Hearing
 
-A lot of online guides push ivermectin as the first-line treatment for every flock health problem involving crawling things. I'd push back on that. If you're seeing lice specifically (flat, yellowish, fast-moving), permethrin-based dust or spray is actually more targeted and doesn't require an egg withdrawal of the same magnitude. Permethrin is not absorbed systemically in the same way.
+A lot of online guides push ivermectin as the first-line treatment for every flock health problem involving crawling things. I'd push back on that. If you're seeing lice specifically (flat, yellowish, fast-moving), permethrin-based dust or spray is actually more targeted and doesn't require an egg withdrawal of the same magnitude. Permethrin isn't absorbed systemically in the same way.
 
 Ivermectin earns its place when you're dealing with mites (which live partly on the bird's blood and benefit from a systemic treatment), scaly leg mites in particular (where topical treatments alone often fail), or confirmed internal parasites. Using it for every lice case is like swatting flies with a sledgehammer. It works, but you're running unnecessary egg withdrawal periods.
-
----
-
 
 ---
 

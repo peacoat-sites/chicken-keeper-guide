@@ -25,64 +25,55 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 
 ---
-
-You crack open an egg from your backyard flock and the shell crumbles in your fingers before you can even get it into the pan. Frustrating, right? Thin, fragile eggshells are one of the most common complaints among backyard chicken keepers, and the fix is almost always the same: your hens need more calcium. Specifically, they need oyster shell. It's a small, cheap addition to your flock management routine that can make a dramatic difference, and yet a surprising number of chicken owners either skip it entirely or use it wrong.
-
----
+You crack open an egg from your backyard flock and the shell crumbles in your fingers before you can even get it into the pan. Thin, fragile eggshells are one of the most common complaints among backyard chicken keepers, and there's almost always the same culprit: calcium deficiency. The fix? Oyster shell. It's cheap, it's simple, and it works, yet a surprising number of chicken owners either skip it entirely or get it wrong.
 
 ## What Is Oyster Shell and Why Do Chickens Need It?
 
-Oyster shell is exactly what it sounds like: crushed shells from oysters, processed into small, gritty pieces that chickens can consume. It's sold by most feed stores and online retailers, often in 5-pound bags up to 50-pound sacks. The key ingredient is calcium carbonate, which makes up roughly 96% of oyster shell's composition.
+Oyster shell is crushed shells from oysters, processed into small, gritty pieces. You'll find it at most feed stores and online, sold in 5-pound bags up to 50-pound sacks. The active ingredient is calcium carbonate, which makes up about 96% of the product.
 
-Here's the thing about egg production: each egg a hen lays contains about 2 grams of calcium in the shell alone. A laying hen needs around 4 grams of calcium per day to produce properly formed eggs. Standard layer feed typically provides about 3.5 to 4 grams of calcium, but that number drops when hens eat inconsistently, when feed quality varies, or when production is high. High-producing breeds like Leghorns or ISA Browns laying 300-plus eggs a year put enormous strain on their calcium reserves.
+Here's the calcium math: each egg contains roughly 2 grams of calcium in the shell alone. A laying hen needs around 4 grams daily to produce properly formed eggs. Standard layer feed typically supplies 3.5 to 4 grams, but that drops when hens eat inconsistently, when feed quality varies, or when production is high. A Leghorn or ISA Brown laying 300-plus eggs a year puts enormous strain on calcium reserves.
 
-When dietary calcium can't keep up, the hen's body pulls calcium from her own bones. That's not a metaphor. You can end up with a flock that's producing eggs but slowly depleting skeletal calcium, which leads to brittle bones, mobility problems, and a condition called "cage layer fatigue" even in free-range hens. Oyster shell is the safety net that prevents that from happening.
+When dietary calcium falls short, the hen's body pulls it from her own bones. This isn't theoretical. You end up with a flock producing eggs while slowly depleting skeletal calcium, which leads to brittle bones, mobility problems, and a condition called "cage layer fatigue", even in free-range birds. Oyster shell is the safety net that stops this from happening.
 
-Oyster shell is also not the same as grit, and the two are frequently confused. Grit is insoluble (usually granite or flint) and sits in the gizzard to grind up food. Oyster shell is soluble and gets absorbed as a nutrient. They serve completely different purposes, and [understanding grit for chickens](/grit-for-chickens/) separately from oyster shell will save you a lot of confusion.
-
----
+One thing people constantly mix up: oyster shell isn't the same as grit. Grit is insoluble (usually granite or flint) and stays in the gizzard to grind food. Oyster shell is soluble and gets absorbed as a nutrient. They serve completely different purposes, and [understanding grit for chickens](/grit-for-chickens/) separately will save you confusion.
 
 ## Signs Your Hens Are Calcium Deficient
 
-Before we get into how to feed oyster shell, it helps to know what calcium deficiency actually looks like. Thin shells are the most obvious sign, but there are others.
+Thin shells are obvious, but calcium deficiency shows up in other ways too.
 
-**Thin or soft shells.** Eggs that crack easily on the counter, flex when you hold them, or have a papery texture are classic signs. You might also notice pits or rough spots on the shell surface.
+**Thin or soft shells.** Eggs that crack easily on the counter, flex when you hold them, or have a papery texture. You might see pits or rough spots on the surface.
 
-**Shell-less eggs.** These "rubber eggs" have the membrane but no hard shell at all. An occasional soft egg isn't a crisis, but if it's happening more than once or twice a week from the same bird, calcium is almost certainly the issue.
+**Shell-less eggs.** These "rubber eggs" have the membrane but no hard shell. One soft egg isn't a crisis. If it's happening more than once or twice a week from the same bird, calcium is almost certainly the problem.
 
-**Egg eating.** Hens sometimes break and eat their own eggs. While this can be a behavioral habit, it often starts because thin shells crack accidentally and the hen discovers the yolk inside. Thin shells invite the behavior.
+**Egg eating.** Hens sometimes break and eat their own eggs. While this can become a behavioral habit, it often starts because thin shells crack accidentally and the hen discovers the yolk inside. Weak shells invite the problem.
 
-**Lethargy or lameness.** Advanced calcium deficiency shows up in the body, not just the eggs. A hen that's moving stiffly, reluctant to walk, or spending unusual time sitting may be dealing with depleted bone calcium.
+**Lethargy or lameness.** Advanced calcium deficiency shows up in movement, not just eggs. A hen moving stiffly, reluctant to walk, or spending unusual time sitting may have depleted bone calcium.
 
-**Decreased production.** Hens under calcium stress often reduce laying. Their bodies protect themselves by producing fewer eggs rather than continuing to strip bone calcium.
+**Decreased production.** Calcium-stressed hens often reduce laying. Their bodies protect themselves by producing fewer eggs rather than continuing to strip bone calcium.
 
-If you're seeing any of these signs in your flock, check out what you're feeding them overall. Our [chicken feed types explained](/chicken-feed-types-explained/) guide is a good place to audit your current feeding program before adding supplements.
-
----
+If you're seeing any of these in your flock, audit what you're feeding overall. Our [chicken feed types explained](/chicken-feed-types-explained/) guide is a good place to start before adding supplements.
 
 ## How to Feed Oyster Shell: A Step-by-Step Approach
 
-The good news is that adding oyster shell to your flock's routine is genuinely simple. The approach that works best for most backyard flocks is free-choice supplementation, meaning you offer it separately so each hen can self-regulate her intake.
+The good news: this is genuinely simple. The best approach for most backyard flocks is free-choice supplementation. You offer it separately so each hen can self-regulate her intake.
 
-**Step 1: Get a dedicated container.** A small hanging feeder, a rubber dish, or even a recycled plastic container works fine. Keep it separate from the main feed. I've used everything from a clip-on rabbit feeder to a ceramic flower pot saucer with good results.
+**Step 1: Get a dedicated container.** A small hanging feeder, a rubber dish, or even a recycled plastic container works. Keep it separate from main feed. I've used everything from a clip-on rabbit feeder to a ceramic flower pot saucer with good results.
 
-**Step 2: Place it in an accessible spot.** Put it inside the coop or in a covered section of the run where it won't get soaked by rain. Wet oyster shell can clump and grow mold if it sits for too long.
+**Step 2: Place it somewhere accessible.** Put it inside the coop or in a covered section of the run where it won't get soaked by rain. Wet oyster shell can clump and grow mold.
 
-**Step 3: Fill it and leave it.** That's really it. Don't mix it into the feed unless you have a specific reason to. When oyster shell is mixed into feed, some hens eat too much and others get none. Free-choice lets each bird take what she needs.
+**Step 3: Fill it and leave it.** Don't mix it into the feed unless you have a specific reason to. When mixed, some hens eat too much and others get none. Free-choice lets each bird take what she needs.
 
-**Step 4: Replenish when it runs low.** Check it every few days. A small flock of 4-6 hens might go through half a cup a week during peak laying. More active layers will consume more.
+**Step 4: Replenish when it runs low.** Check every few days. A small flock of 4-6 hens might go through half a cup a week during peak laying. Heavy layers consume more.
 
-**Step 5: Keep roosters in mind.** If you have males in your flock, don't worry too much about them eating oyster shell. They'll typically ignore it. But if you're concerned, you can use a feeder that requires hens to reach up slightly, which roosters are less likely to do by habit.
+**Step 5: Keep roosters in mind.** If you have males, don't stress about them eating oyster shell. They'll typically ignore it. But if you're concerned, use a feeder that requires hens to reach up slightly, roosters are less likely to do this by habit.
 
-**Step 6: Don't stress about exact amounts.** The self-regulating system works because hens are surprisingly good at sensing what their bodies need. A hen in peak lay will eat more oyster shell than a hen taking a winter break.
+**Step 6: Don't stress about exact amounts.** The self-regulating system works because hens are surprisingly good at sensing what their bodies need. A hen in peak lay eats more oyster shell than one taking a winter break.
 
-[Coarse oyster shell](https://www.amazon.com/s?k=oyster+shell+for+chickens&tag=contentportfo-20) is available from most farm supply stores and online retailers. A 50-pound bag typically runs $15 to $25 and lasts a small flock most of a season. (Disclosure: we may earn a small commission on Amazon purchases.)
-
----
+[Coarse oyster shell](https://www.amazon.com/s?k=oyster+shell+for+chickens&tag=contentportfo-20) is available from most farm supply stores and online retailers. A 50-pound bag typically costs $15 to $25 and lasts a small flock most of the season. (Disclosure: we may earn a small commission on Amazon purchases.)
 
 ## Oyster Shell vs. Crushed Eggshells: Which One Wins?
 
-A lot of backyard keepers ask whether they can just save and feed back their own eggshells instead of buying oyster shell. It's a fair question, and the answer is: yes, but with conditions.
+A lot of backyard keepers ask whether they can just save and feed back their own eggshells instead of buying oyster shell. It's fair to ask, and the answer is: yes, with conditions.
 
 | Feature | Oyster Shell | Crushed Eggshells |
 |--------|-------------|------------------|
@@ -94,31 +85,26 @@ A lot of backyard keepers ask whether they can just save and feed back their own
 | Availability | Year-round from stores | Depends on your usage rate |
 | Solubility | Excellent | Good |
 
-Crushed eggshells can absolutely work as a calcium supplement, but you need to prepare them properly. Rinse the shells, bake them at 250°F for about 10 minutes to kill bacteria, and crush them finely enough that hens don't associate them with whole eggs. Coarsely broken shells that still look like eggs can encourage egg eating. The baking step kills any traces of Salmonella and removes the smell.
+Crushed eggshells can work as a calcium supplement, but you need to prepare them properly. Rinse the shells, bake them at 250°F for about 10 minutes to kill bacteria, and crush them finely enough that hens don't associate them with whole eggs. Coarsely broken shells that still look like eggs can encourage egg eating. The baking step kills any Salmonella traces and removes the smell.
 
-For most people with small flocks, buying oyster shell is just easier and more reliable. But if you have a large flock and you're producing a lot of eggshells, combining both is a perfectly reasonable approach.
-
----
+For most people with small flocks, buying oyster shell is just easier and more reliable. But if you have a large flock producing plenty of shells, combining both is a reasonable approach.
 
 ## When to Start, When to Stop, and Special Circumstances
 
-Most hens start laying between 18 and 24 weeks old, depending on breed. You should have oyster shell available by the time your pullets approach laying age, which is usually around 16-18 weeks for faster-maturing breeds. There's no harm in offering it earlier, but they won't really need it until production begins.
+Most hens start laying between 18 and 24 weeks old, depending on breed. Have oyster shell available by the time pullets approach laying age, usually around 16-18 weeks for faster-maturing breeds. There's no harm in offering it earlier, but they won't really need it until production begins.
 
-**During molt.** When hens go through their annual molt, they stop laying and their calcium needs drop significantly. Some keepers remove the oyster shell during molt, but leaving it available doesn't cause harm since hens simply stop eating as much. I've found it easier to just leave it out year-round.
+**During molt.** When hens go through their annual molt, they stop laying and calcium needs drop significantly. Some keepers remove the oyster shell during molt, but leaving it available doesn't cause harm, hens simply stop eating as much. I've found it easier to just leave it out year-round.
 
-**Older hens.** As hens age past 3-4 years, shell quality often declines naturally. Extra calcium can help, but it won't fully reverse age-related changes to the shell gland. Managing expectations here is important.
+**Older hens.** As hens age past 3-4 years, shell quality often declines naturally. Extra calcium can help, but it won't fully reverse age-related changes to the shell gland. Manage expectations here.
 
-**High-production breeds.** If you're keeping breeds like Leghorns, Golden Comets, or ISA Browns that are bred for extraordinary egg output, they'll benefit more noticeably from oyster shell than heritage breeds with moderate production. Our [best egg laying chickens](/best-egg-laying-chickens/) guide covers these high-output breeds in more detail.
+**High-production breeds.** Leghorns, Golden Comets, and ISA Browns bred for extraordinary egg output benefit more noticeably from oyster shell than heritage breeds with moderate production. Our [best egg laying chickens](/best-egg-laying-chickens/) guide covers these high-output breeds in more detail.
 
-**Hot weather.** Hens often reduce feed intake during heat waves, which means they're getting less calcium from layer feed. Keeping oyster shell available becomes even more important in summer.
+**Hot weather.** Hens often reduce feed intake during heat waves, which means less calcium from layer feed. Keeping oyster shell available becomes even more important in summer.
 
 **Broodies and chicks.** Don't give oyster shell or high-calcium supplements to chicks under 16 weeks. Their kidneys aren't equipped to handle the calcium load. Use chick starter, which has age-appropriate calcium levels. Once they transition to layer feed, add oyster shell on the side.
 
 ---
 
-
----
-
-Oyster shell isn't glamorous, but it's one of the simplest and most effective things you can do for your laying flock. A properly stocked oyster shell feeder costs almost nothing to maintain, takes ten seconds to refill, and can be the difference between beautiful, strong-shelled eggs and a frustrating parade of cracked disasters. Get a small container, fill it up, and let your hens do the rest.
+Oyster shell isn't glamorous, but it's one of the simplest and most effective things you can do for a laying flock. A properly stocked oyster shell feeder costs almost nothing to maintain, takes ten seconds to refill, and can be the difference between beautiful, strong-shelled eggs and a frustrating parade of cracked disasters.
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

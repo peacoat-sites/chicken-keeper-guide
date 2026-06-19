@@ -25,10 +25,7 @@ author_title: "Homestead Writer"
 author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
 
 ---
-
-Most backyard chicken keepers discover the same thing within their first few weeks: those birds will eat almost anything. A wilted head of lettuce tossed into the run disappears in under two minutes, and suddenly you're standing at your kitchen counter wondering what else from the compost bucket is fair game. The good news is that kitchen scraps can genuinely supplement your flock's diet, stretch your feed budget, and give your hens something to stay active and engaged. The catch is that a few common kitchen items can make chickens seriously ill, and some can even kill them. Knowing the difference isn't complicated, but it does matter.
-
----
+Most backyard chicken keepers figure out the same thing in their first few weeks: those birds will eat almost anything. A wilted head of lettuce tossed into the run disappears in under two minutes, and suddenly you're standing at your kitchen counter wondering what else from the compost bucket is fair game. The good news is that kitchen scraps can genuinely supplement your flock's diet, stretch your feed budget, and give your hens something to stay active and engaged. The catch is that a few common kitchen items can make chickens seriously ill, and some can even kill them. Knowing the difference isn't complicated, but it does matter.
 
 ## What Chickens Can Eat From Your Kitchen (The Good List)
 
@@ -41,8 +38,6 @@ The list of safe, beneficial kitchen scraps is long, and most of it is stuff you
 **Cooked grains and starches** are genuinely useful. Plain cooked rice, oatmeal, pasta, bread, and cooked potatoes can supplement your flock's energy intake, especially in winter. Keep portions reasonable since these are calorie-dense but nutrient-poor. A handful per bird is plenty. Avoid heavily salted or seasoned versions.
 
 **Protein scraps** are where things get interesting. Chickens are not strictly vegetarian animals. In nature, they eat insects, worms, and small lizards without hesitation. Cooked meat, cooked fish, scrambled eggs, hard-boiled eggs, and plain yogurt are all beneficial and high in protein. Egg scraps can feel strange to feed back to your hens, but they won't recognize cooked egg as eggs, and the protein is excellent, especially during molt.
-
----
 
 ## The No-Go List: Kitchen Scraps That Can Harm Your Flock
 
@@ -60,8 +55,6 @@ A few items on this list might surprise you.
 
 **Raw dry beans** contain phytohaemagglutinin, a lectin that's extremely toxic to chickens. Even a small number of raw kidney beans can kill a bird. Cooked beans are completely safe.
 
----
-
 ## How to Feed Scraps the Right Way
 
 Feeding scraps is simple, but a few habits make a real difference.
@@ -75,8 +68,6 @@ Feeding scraps is simple, but a few habits make a real difference.
 **Step 4: Use a separate feeding spot.** Throwing scraps directly onto bare ground can contaminate the soil with bacteria over time. A flat tray, a shallow rubber pan, or even a large flat rock works well and makes cleanup easy. You can find durable poultry feeding trays on [Amazon](https://www.amazon.com/s?k=poultry+feed+tray&tag=contentportfo-20) that hold up well in a run environment. (Our site may earn a small commission on purchases.)
 
 **Step 5: Offer grit if needed.** Chickens that free range pick up small stones naturally. Confined birds need access to insoluble grit to help their gizzard grind down fibrous or starchy foods. If you're regularly feeding scraps and your birds aren't ranging, keep a container of chick or hen grit available free-choice.
-
----
 
 ## Quick Reference: Common Kitchen Scraps at a Glance
 
@@ -98,8 +89,6 @@ Feeding scraps is simple, but a few habits make a real difference.
 | Salty snack foods | Avoid | Salt toxicity risk |
 | Citrus | Use caution | Small amounts OK, limit frequency |
 
----
-
 ## The Benefits You'll Actually Notice
 
 Beyond the obvious perk of reducing food waste, feeding kitchen scraps well has a few real-world payoffs.
@@ -111,10 +100,5 @@ Egg yolk color can actually improve with greens. Hens eating a lot of dark leafy
 Feed costs do go down, modestly. You're unlikely to cut your feed bill in half, but if you're consistent about feeding appropriate scraps, you'll use less purchased feed over time. For small flocks, this might save $5 to $10 per month. Not life-changing, but not nothing either.
 
 For those just getting started, understanding what your flock can eat is part of a bigger picture. If you're new to keeping chickens, the [Backyard Chickens For Beginners guide](/backyard-chickens-for-beginners/) covers the essentials of feeding, housing, and flock management in plain language. And if you're still figuring out which breeds to get, some breeds are notably more food-motivated and adventurous with new treats than others. Breeds like Easter Eggers, Rhode Island Reds, and Australorps tend to be enthusiastic eaters. You can compare options in our rundown of [the best egg-laying chicken breeds](/best-egg-laying-chickens/).
-
----
-
-
----
 
 Feeding kitchen scraps to your chickens is one of the most satisfying parts of backyard poultry keeping. You reduce waste, your birds get enrichment and variety, and those eggs can take on a deeper, richer color you'll actually notice. Keep the no-fly list in mind, stick to the 10 percent guideline, and clean up leftovers promptly. Do those three things and you've got a system that works well for both you and your flock for years to come.

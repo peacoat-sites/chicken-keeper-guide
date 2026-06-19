@@ -25,22 +25,17 @@ author_title: "Homestead Writer"
 author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
 
 ---
-
 There's a smell that every chicken keeper knows. You open the coop door on a warm morning, and it hits you like a wall: ammonia, damp shavings, and something that falls somewhere between a barn and a locker room. If your eyes are watering before you even step inside, the coop is overdue for a serious clean. I've been there more times than I can count, and after 12 years of keeping chickens, I've learned that coop cleaning isn't just about comfort. It's one of the most direct things you do to protect your flock's health.
-
----
 
 ## Why Coop Cleanliness Matters More Than You Think
 
 Respiratory disease is one of the top killers of backyard chickens. And most of it starts on the ground beneath their feet.
 
-Chicken manure breaks down into ammonia. At concentrations as low as 10 to 25 parts per million, ammonia irritates the mucous membranes of chickens' eyes and respiratory tracts. That irritation opens the door to Mycoplasma, E. coli, and a whole list of pathogens that will absolutely take advantage of a weakened bird. You can't smell ammonia until it hits around 5 ppm. By the time your nose catches it, your birds have already been breathing a higher concentration for hours.
+Chicken manure breaks down into ammonia. At concentrations as low as 10 to 25 parts per million, ammonia irritates the mucous membranes of chickens' eyes and respiratory tracts. That irritation opens the door to Mycoplasma, E. coli, and a whole list of pathogens that'll absolutely take advantage of a weakened bird. You can't smell ammonia until it hits around 5 ppm. By the time your nose catches it, your birds have already been breathing a higher concentration for hours.
 
-That's the part most people skip over in coop-cleaning articles. It's not just about aesthetics or smell. A dirty coop is an active health hazard, and the damage happens quietly before you notice anything's wrong.
+That's the part most people skip over in coop-cleaning articles. It's not about aesthetics or smell. A dirty coop is an active health hazard, and the damage happens quietly before you notice anything's wrong.
 
-Beyond respiratory risk, wet litter breeds coccidia, the protozoan parasite responsible for coccidiosis, which can wipe out a batch of young birds fast. Rodents move into deep, undisturbed litter. Mites and lice find harboring spots in cracks and corners that never get addressed. A regular, thorough cleaning routine addresses all of that at once.
-
----
+Wet litter breeds coccidia, the protozoan parasite responsible for coccidiosis, which can wipe out a batch of young birds fast. Rodents move into deep, undisturbed litter. Mites and lice find harboring spots in cracks and corners that never get addressed. A regular, thorough cleaning routine addresses all of that at once.
 
 ## What You'll Need Before You Start
 
@@ -69,8 +64,6 @@ Getting set up before you open that coop door makes the whole job faster and les
 - Fresh nesting box material, like these [Precision Pet nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads) that are easy to swap out
 
 Coops with wooden floors can't always handle a full wet wash, which I'll cover below. Know your coop construction before you commit to a method.
-
----
 
 ## How to Clean a Chicken Coop: Step by Step
 
@@ -106,11 +99,9 @@ A light dusting of food-grade DE along the floor edges, in nesting boxes, and on
 **Step 10: Add fresh bedding and reassemble.**
 Four to six inches of pine shavings on the floor. Fresh material in nesting boxes. Clean, refilled waterers and feeders back in place. Your birds are going to love you.
 
----
-
 ## Deep Clean vs. Regular Maintenance: Knowing the Difference
 
-Not every cleaning session needs to be the full production above. Here's a practical breakdown of what different levels of cleaning look like and when to do them.
+Not every cleaning session needs to be the full production above. Here's what different levels look like and when to do them.
 
 | Cleaning Type | Frequency | Time Required | What It Covers |
 |---|---|---|---|
@@ -123,36 +114,29 @@ Daily spot cleaning is the habit that keeps the full deep clean manageable. I sp
 
 A simple [droppings board](https://www.amazon.com/s?k=chicken+droppings+board) or even a piece of plywood slid under the roost collects the bulk of overnight manure and makes this daily task much faster.
 
----
-
 ## Cleaning Nesting Boxes, Waterers, and Feeders
 
-These three things get overlooked in a lot of coop-cleaning guides, and they absolutely should not be.
+These three things get overlooked in a lot of coop-cleaning guides, and they absolutely shouldn't be.
 
-**Nesting boxes** harbor mites like nothing else in the coop. The dark, warm, undisturbed corners are ideal mite habitat. When you do your full clean, scrub every surface of each nesting box, let them dry, dust lightly with DE, and add fresh material. Washable nesting box pads are a real time-saver here because you can just pull them out, rinse them off, and put them back instead of scooping out straw every time.
+**Nesting boxes** harbor mites like nothing else. The dark, warm, undisturbed corners are ideal mite habitat. When you do your full clean, scrub every surface of each box, let them dry, dust lightly with DE, and add fresh material. Washable nesting box pads are a real time-saver here because you can just pull them out, rinse them off, and put them back instead of scooping out straw every time.
 
 **Waterers** should be rinsed and scrubbed every three to four days minimum, and more often in summer. Algae, biofilm, and bacteria build up fast in warm water. A tablespoon of apple cider vinegar per gallon is a common additive that helps slow biofilm growth and has some anecdotal immune benefits, though the science is mixed on the latter. I use a [nipple-style waterer system](https://www.amazon.com/s?k=chicken+nipple+waterer) that stays cleaner than open pans because the birds aren't stepping in it.
 
 **Feeders** get moldy. Especially in humid climates or if any moisture gets in. Empty and scrub feeders monthly. Let them dry completely before refilling. I use a hanging tube feeder that limits moisture exposure and reduces waste.
 
----
-
 ## Common Mistakes That Make Coop Cleaning Harder
 
-After a decade-plus of this, I've made all of these at one point.
+After a decade-plus of this, I've made all of these.
 
-**Cleaning too infrequently and then expecting a fast fix.** Litter that's been ignored for months takes serious time and effort to address. When ammonia smell becomes the reason you finally act, you're already behind.
+**Cleaning too infrequently and then expecting a fast fix.** Litter that's been ignored for months takes serious time and effort. When ammonia smell becomes the reason you finally act, you're already behind.
 
-**Using bleach improperly.** Bleach is not a good first-choice disinfectant for coops. It's corrosive to wood, extremely hard on respiratory tracts if residue remains, and it breaks down quickly in the presence of organic material, meaning it's largely ineffective if you haven't already scrubbed the surface clean. If you use it, dilute to 1:30, apply to pre-cleaned surfaces, and rinse thoroughly. Or just use Oxine instead.
+**Using bleach improperly.** Bleach isn't a good first-choice disinfectant for coops. It's corrosive to wood, extremely hard on respiratory tracts if residue remains, and it breaks down quickly in the presence of organic material, meaning it's largely ineffective if you haven't already scrubbed clean. Dilute to 1:30 if you use it, apply to pre-cleaned surfaces, and rinse thoroughly. Or skip it and use Oxine instead.
 
 **Putting birds back in before the coop is dry.** I know it feels fine. It isn't. Wet litter is coccidiosis waiting to happen.
 
 **Skipping the roost bar.** The underside of the roost bar is the single dirtiest surface in most coops. If you're only cleaning one thing, clean that.
 
-**Not protecting yourself.** Dried manure dust carries Salmonella, Campylobacter, Histoplasma (a fungal infection from dried droppings), and other things you do not want to inhale or get in your eyes. Wear the respirator. Every time.
-
----
-
+**Not protecting yourself.** Dried manure dust carries Salmonella, Campylobacter, Histoplasma (a fungal infection from dried droppings), and other things you don't want to inhale or get in your eyes. Wear the respirator. Every single time.
 
 ---
 

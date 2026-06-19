@@ -25,7 +25,6 @@ author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
 
 ---
-
 If you walked out to the coop this morning and found one of your hens puffed up like a football, sitting flat on the nest box and making that low, rattling growl when you reached toward her, you already know something has shifted. She's not laying. She's barely eating or drinking. And if you have other hens, she may be hogging a nest box that everyone else needs. You've got a broody hen on your hands, and whether you want to let her hatch eggs or not, you need to understand what's happening in her body and what your options actually are.
 
 ## What Brooding Actually Is (and Why It's Hard to Stop)
@@ -36,13 +35,13 @@ When a hen goes broody, her prolactin levels spike. That hormone suppresses ovul
 
 This is why simply removing the eggs doesn't fix the problem. The eggs aren't causing the broodiness. The hormone is. You can clear out every egg under her and she'll sit on an empty nest box for days, sometimes weeks. I've seen hens go broody in a nest box with absolutely nothing in it, which always catches first-time keepers off guard.
 
-Some breeds go broody far more readily than others. Silkies are practically professional brooders. Buff Orpingtons, Cochins, Brahmas, and Sussex hens have strong broody tendencies. Production breeds like Leghorns and most commercial hybrids have had the broodiness largely selected out of them. If you've got a heritage breed or a mixed flock with any of those broody-prone genetics, expect to deal with this at least once.
+Some breeds go broody far more readily than others. Silkies are practically professional brooders. Buff Orpingtons, Cochins, Brahmas, and Sussex hens have strong broody tendencies. Production breeds like Leghorns and most commercial hybrids have had the broodiness largely selected out of them. If you've got a heritage breed or a mixed flock with any of those genetics in the mix, expect to deal with this at least once.
 
-The practical consequences of an unbroken broody hen are real. She can lose significant body weight in a matter of days because broody hens eat and drink very little. She's also more vulnerable to mites and lice since she's not dust bathing or moving around normally. And every day she sits, she's not laying, which for backyard keepers usually means she's costing you eggs with no return.
+The practical consequences are real. She can lose significant body weight in days because broody hens eat and drink very little. She's also more vulnerable to mites and lice since she's not dust bathing or moving around normally. And every day she sits, she's not laying, which for backyard keepers usually means she's costing you eggs with no return.
 
 ## How to Know You're Dealing With a Broody (Not a Sick Hen)
 
-You might be wondering if what you're seeing is actually broodiness or something else. The signs are pretty distinctive once you know what to look for.
+A broody hen and a sick hen look completely different if you know what to watch for.
 
 A broody hen will:
 
@@ -59,17 +58,17 @@ One more thing to check: broody hens typically only leave the nest once a day to
 
 ## Your Options: Let Her Hatch, Redirect Her, or Break It
 
-Before jumping straight to breaking broodiness, it's worth spending two minutes deciding what you actually want to do, because you have real options.
+Before jumping straight to breaking broodiness, it's worth spending two minutes deciding what you actually want to do, because you have real options here.
 
 **Let her hatch eggs.** If you have a rooster and fertilized eggs, a broody hen is a free incubator and mother hen. This is genuinely one of the more rewarding things you can experience in backyard chicken keeping. She'll do almost all the work. The tradeoff is 21 days of a non-laying hen and the reality of potentially hatching cockerels you'll need to rehome or process.
 
 **Give her fertile eggs from elsewhere.** If you don't have a rooster, some hatcheries and local breeders sell fertilized hatching eggs. You can slip them under her within the first day or two of broodiness and let her do her thing.
 
-**Break the broodiness.** If you don't want chicks, can't have a rooster, or you're concerned about her health, this is the path. Done correctly and promptly, it works well. The longer you wait, the harder it gets.
+**Break the broodiness.** If you don't want chicks, can't have a rooster, or you're concerned about her health, this is the path. Done right and quickly, it works well. The longer you wait, the harder it gets.
 
 ## How to Break a Broody Hen: Step-by-Step
 
-Here's what I tell people when they want to break broodiness without causing unnecessary stress to the bird. The most effective method is the broody breaker cage, sometimes called a "jail" in chicken-keeping circles. It sounds harsh. It isn't. Here's how it works and why.
+Here's what actually works. The most effective method is the broody breaker cage, sometimes called a "jail" in chicken-keeping circles. It sounds harsh. It isn't. Here's how it works and why.
 
 **What you'll need:**
 - A wire-bottomed cage (a dog crate with a wire floor works perfectly)
@@ -86,12 +85,12 @@ Here's what I tell people when they want to break broodiness without causing unn
 
 **Step 5: Release and observe.** Let her back into the flock and watch to see if she heads straight for the nest box. If she does, put her back in the cage for another day or two. Most hens break within four days. Some stubborn individuals take a full week.
 
-**A few things that don't work well:**
+**What doesn't work:**
 
 - Repeatedly removing her from the nest box and letting her go back. She'll just return.
 - Blocking off the nest boxes. This stresses the whole flock.
 - Ice packs under the hen. Cold water or ice in the nest can theoretically help cool her belly, but it's inconsistent and messy in practice.
-- "Dunking" her underside in cold water. This is an old folk remedy. Some people swear by it. I've never found it reliably effective and it adds unnecessary handling stress.
+- "Dunking" her underside in cold water. Some people swear by this old folk remedy. I've never found it reliably effective, and it adds unnecessary handling stress.
 
 ## Protecting Her Health While She's Broody (or Breaking)
 
@@ -105,14 +104,11 @@ Also make sure the nest box area is clean when you return her. If you're breakin
 
 ## Why Some Hens Go Broody Repeatedly
 
-You might be wondering why the same hen keeps going broody season after season while your other hens never do. The honest answer is that broodiness is largely genetic, and some individual hens simply have a stronger hormonal trigger than others.
+Some hens go broody three or four times a year while your other hens never do. The honest answer is that broodiness is largely genetic, and some individual hens simply have a stronger hormonal trigger than others.
 
-If you have a hen who goes broody three or four times a year and you're consistently having to break her, that's worth factoring into your flock planning. She's spending significant time out of production and potentially stressing herself with repeated weight loss cycles. Some keepers with reliably broody hens choose to rotate hatches intentionally so the broodiness works for them instead of against them.
+If you've got one of these reliably broody birds and you're consistently having to break her, that's worth factoring into your flock planning. She's spending significant time out of production and potentially stressing herself with repeated weight loss cycles. Some keepers with reliably broody hens choose to rotate hatches intentionally so the broodiness works for them instead of against them.
 
 There's no permanent cure for a broody-prone hen. Hormonal implants exist in a veterinary context but are completely impractical for backyard use. What you can do is catch it early, break it efficiently with the cage method, and go into each spring and summer knowing which hen in your flock is most likely to go sit.
-
----
-
 
 ---
 

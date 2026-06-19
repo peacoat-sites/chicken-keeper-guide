@@ -25,22 +25,21 @@ author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
 
 ---
-
 Picture this: you're sitting in a lawn chair on a Saturday morning, coffee in hand, and a fluffy golden hen hops up onto your knee like she owns the place. She tilts her head, blinks at you with one amber eye, and settles in. That's not a fantasy. That's a Tuesday for people who keep the right breeds. Not every chicken is going to follow you around the yard like a golden retriever, and honestly, some breeds would rather eat your shoelaces than sit in your lap. But if you're choosing your first flock, adding birds to an existing one, or specifically want hens that your kids can handle, breed selection matters more than almost anything else.
 
 ## Why Breed Matters More Than You Think
 
-A lot of new chicken keepers assume any chicken can become friendly with enough handling. And yes, handling from hatch absolutely helps. But genetics set the floor. I've raised Leghorns that were handled every single day from day one, and at six months old they were still sprinting away from me like I was a fox. Contrast that with a Buff Orpington chick who practically falls asleep in your hand the first time you pick her up. Temperament is largely baked in.
+Most new chicken keepers figure any chicken can become friendly with enough handling. And yes, handling from hatch helps. But genetics set the floor. I've raised Leghorns that were handled every single day from day one, and at six months old they were still sprinting away from me like I was a fox. A Buff Orpington chick? She practically falls asleep in your hand the first time you pick her up. Temperament is largely baked in before you ever get them home.
 
-Breed also affects how chickens interact with children, with each other, and with other pets. Some breeds are flighty and high-strung, which translates to stress for you and the birds. Others are calm, curious, and surprisingly interactive. If you want a flock that's a genuine pleasure to be around rather than just a source of eggs, start with breeds that are predisposed to gentleness.
+Breed also changes how chickens interact with children, with each other, and with other pets. Some are flighty and high-strung, which creates stress for you and the birds. Others are calm, curious, and surprisingly interactive. If you want a flock that's an actual pleasure to be around rather than just a source of eggs, start with breeds that are naturally gentle.
 
-There's also a practical side: friendly breeds tend to be easier to catch, easier to health-check, and easier to treat if something goes wrong. After twelve years of wrangling chickens, I can tell you that getting a docile hen into a carrier for a vet visit is a five-minute job. Chasing a panicked flighty breed around a run? That's a cardio workout and a headache.
+There's also a selfish reason to care: friendly breeds are easier to catch, easier to health-check, and easier to treat when something goes wrong. After twelve years of wrangling chickens, I can tell you that getting a docile hen into a carrier for a vet visit takes five minutes. Chasing a panicked flighty breed around the run? That's cardio and a headache.
 
 ## The Top Friendly Chicken Breeds (And What Makes Each One Special)
 
 **Buff Orpington**
 
-Buff Orpingtons are the golden retrievers of the chicken world. Big, fluffy, calm, and genuinely interested in people. They're consistently ranked as one of the top family-friendly breeds, and in my experience that reputation is fully earned. They go broody fairly often, which can slow down egg production, but a broody Buff is also one of the most patient, dedicated mothers you'll see. They lay about 200-280 light brown eggs per year and are cold-hardy, which matters if you're anywhere north of Georgia.
+Buff Orpingtons are the golden retrievers of the chicken world. Big, fluffy, calm, and genuinely interested in people. They're consistently ranked as one of the top family-friendly breeds, and that reputation holds up. They go broody fairly often, which slows egg production, but a broody Buff is also one of the most patient, dedicated mothers you'll see. They lay about 200-280 light brown eggs per year and are cold-hardy, which matters if you're anywhere north of Georgia.
 
 **Speckled Sussex**
 
@@ -48,7 +47,7 @@ Speckled Sussex are curious birds. I mean that literally: they will investigate 
 
 **Salmon Faverolle**
 
-If you want a chicken that looks like it belongs in a fairy tale and acts like a therapy animal, get a Salmon Faverolle. They have fluffy muffs and beards, feathered feet, and an incredibly gentle disposition. They can sometimes get picked on in mixed flocks because they're so docile, so keep that in mind if you're integrating them with more assertive breeds. They lay around 150-200 pinkish-cream eggs per year.
+If you want a chicken that looks like it belongs in a fairy tale and acts like a therapy animal, get a Salmon Faverolle. Fluffy muffs, beards, feathered feet, and an incredibly gentle disposition. They can get picked on in mixed flocks because they're so docile, so keep that in mind if you're integrating them with more assertive breeds. They lay around 150-200 pinkish-cream eggs per year.
 
 **Silkie**
 
@@ -60,7 +59,7 @@ Australorps are probably the breed I recommend most often to new keepers who wan
 
 **Easter Egger**
 
-Easter Eggers aren't technically a breed in the purist sense, they're a hybrid/mixed bird that carries the blue-egg gene from Araucana or Ameraucana ancestry. But they deserve a spot on this list because their temperaments tend to be friendly and curious, they lay gorgeous blue, green, or olive eggs, and they're wildly popular with families for good reason. Every one looks slightly different, which adds to the fun.
+Easter Eggers aren't technically a breed in the purist sense. They're a hybrid that carries the blue-egg gene from Araucana or Ameraucana ancestry. But they deserve a spot on this list because their temperaments tend to be friendly and curious, they lay gorgeous blue, green, or olive eggs, and they're wildly popular with families for good reason. Every one looks slightly different, which adds to the fun.
 
 ## Comparing the Top Picks: A Quick Reference Table
 
@@ -75,17 +74,17 @@ Here's a side-by-side look at the friendliest breeds so you can match them to yo
 | Australorp | Calm, hardy | 250-300 | Brown | Yes | Very good |
 | Easter Egger | Friendly, curious | 200-280 | Blue/green/olive | Yes | Excellent |
 
-If egg production is your priority alongside friendliness, Australorps or Buff Orpingtons are your best bet. If you're buying chickens primarily as pets or for a children's experience, Silkies and Salmon Faverolles are hard to beat.
+If egg production is your priority alongside friendliness, Australorps or Buff Orpingtons win. If you're buying chickens primarily as pets or for a children's experience, Silkies and Salmon Faverolles are hard to beat.
 
 ## How to Raise Friendly Chickens: Practical Steps From Day One
 
 Breed sets the foundation, but how you raise your birds from hatch through adulthood either reinforces or undermines that natural temperament. Here's what actually works.
 
-**Step 1: Start handling at 2-3 days old.** As soon as chicks are steady on their feet and eating well, start picking them up for short sessions. Even two minutes per chick per day makes a measurable difference. Talk to them while you handle them. Your voice becomes part of the experience.
+**Step 1: Start handling at 2-3 days old.** As soon as chicks are steady on their feet and eating well, start picking them up for short sessions. Two minutes per chick per day makes a measurable difference. Talk to them while you handle them. Your voice becomes part of the experience.
 
 **Step 2: Use food as a trust-building tool.** Hand-feed treats from day one. Mealworms are gold. Chicks that learn your hand means food rather than threat are far more likely to approach you voluntarily as adults. I keep a small bag of dried mealworms in my pocket pretty much constantly during the brooding phase.
 
-**Step 3: Don't chase.** This sounds obvious but it's the mistake most people make. Chasing chickens teaches them you're a predator. If a chick or pullet moves away from you, let them. Crouch down, hold still, offer a treat, and let them come to you. It takes longer initially but builds lasting trust.
+**Step 3: Don't chase.** Chasing chickens teaches them you're a predator. If a chick or pullet moves away from you, let them. Crouch down, hold still, offer a treat, and let them come to you. It takes longer initially but builds lasting trust.
 
 **Step 4: Create positive associations with the coop and run.** Spend time sitting inside or near their space without trying to catch or handle them. Just be present. Chickens are social and they'll acclimate to your presence faster than you'd expect if you're just hanging out quietly.
 
@@ -99,7 +98,7 @@ For feeders and waterers that make daily management easier, I've had great resul
 
 If you're mixing breeds, a little forethought goes a long way. Friendly doesn't always mean compatible. Putting a docile Silkie in with a flock of Rhode Island Reds can result in the Silkie getting bullied badly, because RIRs are assertive and Silkies don't really push back.
 
-The general rule is to pair similar temperaments. Buff Orpingtons, Australorps, Speckled Sussex, and Easter Eggers all coexist well together because they're in roughly the same temperament tier: friendly but not pushover, curious but not aggressive. Salmon Faverolles and Silkies do better with other gentle breeds or in smaller breed-specific flocks.
+The general rule is to pair similar temperaments. Buff Orpingtons, Australorps, Speckled Sussex, and Easter Eggers all coexist well together because they're in roughly the same tier: friendly but not pushover, curious but not aggressive. Salmon Faverolles and Silkies do better with other gentle breeds or in smaller breed-specific flocks.
 
 Watch the pecking order closely during the first two weeks after integration. Some tension is completely normal. Sustained bullying where one bird is being excluded from food or water, or showing injuries, is not normal and needs intervention. A temporary physical divider inside the run so birds can see each other without contact is one of the most effective tools for smooth integration.
 
@@ -107,9 +106,6 @@ If you're adding new birds to an existing flock, [adding extra feeders and water
 
 ---
 
-
----
-
-There's something genuinely good about a flock of chickens that trusts you. It makes the whole experience more rewarding, the daily chores more enjoyable, and the inevitable hard parts, like treating a sick bird or culling a suffering one, just a little more manageable when you've built a real relationship with your animals. Start with a friendly breed, handle them early and consistently, feed them well, and give them space to thrive. You might end up with a hen on your knee before you know it.
+There's something genuinely good about a flock of chickens that trusts you. It makes the whole experience more rewarding, the daily chores more enjoyable, and the hard parts, like treating a sick bird or culling a suffering one, just a little more manageable when you've built a real relationship with your animals. Start with a friendly breed, handle them early and consistently, feed them well, and give them space to thrive. You might end up with a hen on your knee before you know it.
 
 *Photo: [TIVASEE .](https://www.pexels.com/@tivasee-17374727) via Pexels*

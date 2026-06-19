@@ -25,7 +25,6 @@ author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
 
 ---
-
 You buy six pullets from a local farm. They're healthy, active, eating well. Three months later, one of them can't stand up. Her legs are splayed, she's losing weight, and her eye looks gray and misshapen. You call the farm. They say it's probably "just a vitamin deficiency." It isn't. It's Marek's disease, and by the time that first bird goes down, the virus has likely been circulating through your flock for weeks.
 
 Marek's disease is one of the most misunderstood, misdiagnosed, and under-discussed diseases in backyard chicken keeping. Most people hear about it once, assume the vaccine handles everything, and move on. That assumption gets birds killed.
@@ -34,7 +33,7 @@ Marek's disease is one of the most misunderstood, misdiagnosed, and under-discus
 
 ## What Marek's Disease Actually Is
 
-Marek's disease is caused by a highly contagious herpesvirus, *Meleagris gallopavo* herpesvirus, more precisely classified as Gallid alphaherpesvirus 2. It's a tumor-causing virus. That distinction matters because people often confuse it with respiratory illness or nutritional deficiencies, both of which look nothing like the nerve and organ damage Marek's causes.
+Marek's disease is caused by a highly contagious herpesvirus, *Gallid alphaherpesvirus 2*. It's a tumor-causing virus, and that distinction matters because people constantly confuse it with respiratory illness or nutritional deficiencies, neither of which looks anything like the nerve and organ damage Marek's causes.
 
 The virus attacks the peripheral nervous system, which is why you see paralysis. It also forms lymphoid tumors on internal organs, the eyes, and skin. The classic presentation is a bird with one leg stretched forward and one back, a posture chicken keepers sometimes call "the splits." But Marek's has multiple forms, and some of them don't look like paralysis at all.
 
@@ -45,44 +44,44 @@ The virus attacks the peripheral nervous system, which is why you see paralysis.
 - **Ocular:** The iris turns gray and irregular. The pupil may become an uneven slit instead of round. Birds eventually go blind.
 - **Cutaneous (skin):** Enlarged feather follicles and skin tumors, usually visible after plucking.
 
-The virus spreads through dander and feather dust, not direct contact with feces or blood. That's why it's so hard to contain. Infected dust particles become airborne, settle on surfaces, and remain infectious for months, sometimes longer than a year, in dry environments. If a Marek's-positive bird ever lived in your coop, the virus is probably still there.
+Here's what makes it such a management nightmare: the virus spreads through dander and feather dust, not direct contact with feces or blood. That's why it's nearly impossible to contain. Infected dust particles become airborne, settle on surfaces, and remain infectious for months, sometimes longer than a year, in dry environments. If a Marek's-positive bird ever lived in your coop, the virus is almost certainly still there.
 
 ---
 
 ## The Vaccine: What It Does and Doesn't Do
 
-This is where a lot of people get burned. The Marek's vaccine does not prevent infection. It prevents tumor formation and clinical disease in vaccinated birds. Vaccinated birds can still contract and shed the virus. They just don't usually get sick from it.
+This is where a lot of people get burned. The Marek's vaccine does not prevent infection. Full stop. It prevents tumor formation and clinical disease in vaccinated birds. Vaccinated birds can still contract and shed the virus. They just don't usually get sick from it.
 
-The vaccine is given as a single subcutaneous injection at hatch, typically in the neck or leg. Hatcheries that vaccinate do it on day one because the window matters. A bird exposed to the virus before the vaccine takes effect (immunity builds over about two weeks post-vaccination) may not be protected.
+The vaccine is given as a single subcutaneous injection at hatch, typically in the neck or leg. Hatcheries that vaccinate do it on day one because timing matters. A bird exposed to the virus before the vaccine takes effect (immunity builds over about two weeks post-vaccination) may not be protected.
 
-This is why buying vaccinated chicks from a reputable hatchery is worthwhile, but it's not a guarantee your flock won't encounter problems:
+This is why buying vaccinated chicks from a reputable hatchery is worth doing, but it's not insurance against problems:
 
 1. Birds must be vaccinated at or just after hatch for full efficacy.
 2. Exposure too early after vaccination can overwhelm developing immunity.
-3. Some strains of Marek's are more virulent than others. The vv+ (very virulent plus) strains can break through vaccine protection in some cases.
+3. Some strains of Marek's are more virulent than others. The vv+ (very virulent plus) strains can break through vaccine protection in certain cases.
 4. Backyard flocks frequently contain unvaccinated birds acquired from local farms, swaps, or private sales.
 
-If you've ever mixed vaccinated hatchery birds with unvaccinated birds from a small local flock, you've created exactly the scenario where Marek's can cause visible losses.
+If you've ever mixed vaccinated hatchery birds with unvaccinated birds from a small local flock, you've created exactly the scenario where Marek's causes visible losses.
 
-Hatcheries like Meyer Hatchery and Cackle Hatchery offer vaccination as a standard service or low-cost add-on. If you're ordering chicks, it's worth paying for. If you're sourcing locally, ask specifically whether the birds were vaccinated at hatch, not just "vaccinated at some point."
+Hatcheries like Meyer Hatchery and Cackle Hatchery offer vaccination as a standard service or low-cost add-on. If you're ordering chicks, it's worth the expense. If you're sourcing locally, ask specifically whether the birds were vaccinated at hatch, not just "vaccinated at some point."
 
 ---
 
 ## Recognizing Marek's Before You Lose More Birds
 
-By the time one bird shows symptoms, the virus has already been in your flock. The question becomes: how many others are infected and what can you do right now.
+By the time one bird shows symptoms, the virus has already been in your flock. The real question becomes: how many others are infected, and what do you do right now?
 
-**Signs to watch for, roughly in order of how obvious they are:**
+**Signs to watch for, roughly in order of obviousness:**
 
 1. Progressive leg weakness or sudden inability to stand, no trauma involved
 2. One leg extended forward, one back (the "Marek's split")
 3. Drooping or paralyzed wing
 4. Gray or cloudy iris, irregular pupil shape
-5. Weight loss despite a normal appetite
+5. Weight loss despite normal appetite
 6. Sudden death in otherwise healthy-appearing birds (visceral form)
 7. Enlarged, pale feather follicles on the skin
 
-Marek's typically hits birds between 6 weeks and 30 weeks of age. It can appear outside that window, but if you're seeing neurological symptoms in a pullet between 3 and 7 months old, Marek's is your first suspect until proven otherwise.
+Marek's typically hits birds between 6 weeks and 30 weeks of age. It can show up outside that window, but if you're seeing neurological symptoms in a pullet between 3 and 7 months old, Marek's is your first suspect until proven otherwise.
 
 The differential diagnosis matters. Marek's gets confused with:
 
@@ -103,9 +102,9 @@ There's no treatment for Marek's disease. That's the hard truth. Once a bird is 
 1. **Isolate symptomatic birds immediately.** It won't stop the spread (the virus is already everywhere), but it reduces stress on sick birds and prevents injury from flockmates.
 2. **Provide supportive care.** Keep downed birds in a warm, dry space. Offer water and feed within reach. Some birds stabilize and live for months with good care. Others decline quickly.
 3. **Don't add new unvaccinated birds.** Your environment is now a permanent Marek's-positive site. Any new bird should arrive vaccinated at hatch and be kept isolated for at least two weeks before joining the flock.
-4. **Do not move dander, bedding, or equipment off your property without sanitizing it.** You can spread the virus to a neighbor's birds.
+4. **Do not move dander, bedding, or equipment off your property without sanitizing it.** You'll spread the virus to a neighbor's birds.
 5. **Consider your culling threshold honestly.** A bird that can't reach food or water, is being bullied or injured, or is in obvious distress deserves euthanasia. Letting a chicken suffer for weeks because you can't bring yourself to cull is a care failure, not a kindness.
-6. **Deep clean when practical, but don't expect to sterilize the environment.** The virus survives so long in dust and feather particles that total elimination is essentially impossible without completely replacing the coop. Thorough cleaning, good ventilation, and sunlight exposure help reduce load over time.
+6. **Deep clean when practical, but don't expect to sterilize the environment.** The virus survives so long in dust and feather particles that total elimination is essentially impossible without completely replacing the coop. Thorough cleaning, good ventilation, and sunlight exposure help reduce the load over time.
 7. **Document which birds came from which source.** If all your sick birds came from the same farm or hatchery, that's useful information for future purchasing decisions and potentially worth reporting.
 
 For supportive care supplies, a vitamin-electrolyte supplement like [Sav-A-Chick electrolytes](https://www.amazon.com/s?k=sav-a-chick+electrolytes&tag=contentportfo-20) can help stressed or weakened birds, though it won't affect the virus itself. *(This site may earn a commission on qualifying purchases.)*
@@ -132,10 +131,7 @@ Genetic resistance is an underappreciated factor. Certain breeds and strains hav
 
 If you're building a backyard flock from scratch and want something reasonably hardy, start with production breeds from reputable hatcheries rather than exhibition-quality birds from breeders specializing in show stock.
 
-For a deeper understanding of poultry disease management, Gail Damerow's [*The Merck Veterinary Manual for Poultry*](https://www.amazon.com/s?k=gail+damerow+chicken+health+handbook&tag=contentportfo-20) is the resource I'd recommend keeping on your shelf. Her *Chicken Health Handbook* covers Marek's diagnostics and flock management better than anything else written for backyard keepers. *(This site may earn a commission on qualifying purchases.)*
-
----
-
+For a deeper understanding of poultry disease management, Gail Damerow's [*Chicken Health Handbook*](https://www.amazon.com/s?k=gail+damerow+chicken+health+handbook&tag=contentportfo-20) covers Marek's diagnostics and flock management better than anything else written for backyard keepers. It's worth keeping on your shelf. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 

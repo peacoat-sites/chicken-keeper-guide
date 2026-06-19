@@ -25,12 +25,11 @@ author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
 
 ---
-
-You walk out to the coop one morning, lift the nesting box lid, and find nothing. Not one egg. Yesterday there were four. The day before, five. You check again in the afternoon, just in case. Still nothing. If this sounds familiar, you're not alone, and you're also not doing anything wrong. Hens stop laying for more reasons than most beginners expect, and the frustrating part is that several of those reasons can be happening at the same time. Let me walk you through what's actually going on.
+You walk out to the coop one morning, lift the nesting box lid, and find nothing. Not one egg. Yesterday there were four. The day before, five. You check again in the afternoon, just to be sure. Still nothing. If this sounds familiar, you're not alone, and you're also not doing anything wrong. Hens stop laying for more reasons than most beginners expect, and here's the frustrating part: several of those reasons can be happening at the same time.
 
 ## Light Is the Most Underestimated Factor in Your Flock
 
-Here's what I tell people first: your hen's reproductive system is controlled almost entirely by light. Specifically, by the number of daylight hours she perceives each day. When day length drops below roughly 14 hours of light, her pituitary gland gets the signal to slow or stop egg production. This is why late fall and winter cause a dramatic drop in laying for most flocks, even when nothing else has changed.
+Your hen's reproductive system is controlled almost entirely by light. Specifically, by the number of daylight hours she perceives each day. When day length drops below roughly 14 hours of light, her pituitary gland gets the signal to slow or stop egg production. This is why late fall and winter cause a dramatic drop in laying for most flocks, even when nothing else has changed.
 
 The breeds most sensitive to this are also, ironically, some of the most popular ones. Leghorns, Rhode Island Reds, and Plymouth Rocks will all slow down significantly once you get below 12 hours of daylight. Easter Eggers and Ameraucanas tend to be a little more forgiving, but they're not immune.
 
@@ -50,9 +49,9 @@ Don't be surprised if a hen who molts in October doesn't come back into full pro
 
 ## Age, Stress, and the Things You Can't See From the Outside
 
-A hen's peak laying years are her first two to three. After that, production declines. A two-year-old Buff Orpington who was laying 5 eggs a week might be down to 3 by year three, and down to 1 or 2 by year four. She may skip weeks entirely by year five. This isn't a sudden stop, but it can feel like one if you weren't tracking her output closely.
+A hen's peak laying years are her first two to three. After that, production declines. A two-year-old Buff Orpington who was laying 5 eggs a week might be down to 3 by year three, and down to 1 or 2 by year four. She may skip weeks entirely by year five. It's not a sudden stop, but it can feel like one if you weren't tracking her output closely.
 
-Stress is a massive and often overlooked trigger for egg-laying disruption. And the list of stressors is longer than most people expect:
+Stress is a massive and often overlooked trigger for egg-laying disruption. The list of stressors is longer than most people expect:
 
 - A new chicken added to the flock
 - A predator scare (even one the chickens survived unharmed)
@@ -104,8 +103,6 @@ Before you assume she stopped laying, check your entire yard. Hens who free-rang
 **Step 7: Give it two weeks**
 Unless you see signs of illness or distress, give a healthy-looking hen two weeks before escalating. A lot of laying disruptions are temporary and self-resolving.
 
----
-
 ## A Quick Comparison: Common Causes at a Glance
 
 | Cause | Typical Duration | Eggs Return? | Action Needed |
@@ -118,11 +115,6 @@ Unless you see signs of illness or distress, give a healthy-looking hen two week
 | Internal laying | Months, progressive | Often no | Supportive care, vet consult |
 | Lice or mites | Weeks | Yes, after treatment | Treat birds and coop |
 | Illness/respiratory | Weeks to months | Often partially | Vet consult, isolation |
-
----
-
-
----
 
 The honest truth about keeping chickens is that egg production is a moving target. Light, age, health, stress, season, and biology are all pulling in different directions at once. A hen who laid reliably for two years isn't broken just because she stopped last week. Work through the possibilities methodically, give her what she needs, and most of the time she'll come back around. And if she doesn't, well, that's what retirement looks like for a chicken who's earned it.
 

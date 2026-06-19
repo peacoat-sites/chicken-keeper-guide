@@ -25,16 +25,15 @@ author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
 
 ---
-
-A brand-new hen from a production breed can lay up to 300 eggs in her first year. That's nearly an egg a day, almost every single day, for twelve months straight. If you've just brought home your first flock and you're expecting that kind of output from every bird, every year, you're in for a surprise. Egg production is way more variable than most beginners expect, and understanding what drives it will save you a lot of frustration standing at an empty nesting box.
+A brand-new hen from a production breed can lay up to 300 eggs in her first year. That's nearly an egg a day, almost every single day, for twelve months straight. If you've just brought home your first flock expecting that kind of output from every bird, every year, you're about to be disappointed. Egg production is way more variable than most beginners expect, and understanding what drives it will save you from standing at an empty nesting box wondering what went wrong.
 
 ## What Determines How Often a Chicken Lays
 
-The single biggest factor is light. Hens need roughly 14 to 16 hours of light per day to maintain peak production. Their bodies detect light through the eye, which triggers the hypothalamus, which signals the pituitary gland to release the hormones that start the ovulation cycle. No light signal, no egg.
+Light is the single biggest factor. Hens need roughly 14 to 16 hours of light per day to maintain peak production. Their bodies detect light through the eye, which triggers the hypothalamus, which signals the pituitary gland to release the hormones that start the ovulation cycle. No light signal, no egg.
 
-A hen's reproductive cycle takes about 24 to 26 hours from start to finish. She ovulates, the yolk travels down the oviduct picking up albumen (egg white), membranes, and then the shell, and finally the finished egg is laid. Because that cycle runs slightly longer than 24 hours, a hen who lays at 8 a.m. on Monday will typically lay at 9 or 10 a.m. on Tuesday, and a bit later each day after that. Eventually she'll skip a day entirely and "reset." This is completely normal.
+A hen's reproductive cycle takes about 24 to 26 hours from start to finish: ovulation, then the yolk travels down the oviduct picking up albumen (egg white), membranes, and finally the shell, and the finished egg gets laid. Because that cycle runs slightly longer than 24 hours, a hen who lays at 8 a.m. on Monday will typically lay at 9 or 10 a.m. on Tuesday, and a bit later each day after that. Eventually she'll skip a day entirely and "reset." This is completely normal.
 
-Breed matters enormously too. A production Leghorn or a Golden Comet is bred specifically to convert feed into eggs as efficiently as possible. Heritage breeds like Dominiques or Buckeyes are more modest layers. Ornamental breeds like Silkies or Polish might give you 2 to 3 eggs a week on a good week. If consistent egg production is your goal, knowing your breed before you buy is half the battle. You can compare options in our guide to the [best egg laying chickens](/best-egg-laying-chickens/).
+Breed matters enormously too. A production Leghorn or a Golden Comet is bred specifically to convert feed into eggs as efficiently as possible. Heritage breeds like Dominiques or Buckeyes are more modest layers. Ornamental breeds like Silkies or Polish might give you 2 to 3 eggs a week on a good week. Knowing your breed before you buy is half the battle if consistent egg production is your goal. You can compare options in our guide to the [best egg laying chickens](/best-egg-laying-chickens/).
 
 ## Egg Production by Age: What to Expect Year by Year
 
@@ -42,7 +41,7 @@ Age has a dramatic and predictable effect on laying frequency.
 
 **Pullets (under 1 year):** Most hens start laying between 18 and 24 weeks, though some breeds like Australorps can start as early as 16 weeks and slower breeds like Jersey Giants might take 6 months or more. The first eggs are often small and irregular. You might find a tiny pullet egg, a double-yolker, or even a soft-shelled egg while her system calibrates. Give her a few weeks and things usually even out.
 
-**Year 1:** Peak production. Well-bred layers hit their stride here. A Leghorn can realistically deliver 280 to 320 eggs in her first laying year. Most good layers average somewhere between 200 and 280.
+**Year 1:** Peak production happens here. Well-bred layers hit their stride. A Leghorn can realistically deliver 280 to 320 eggs in her first laying year. Most good layers average somewhere between 200 and 280.
 
 **Year 2:** Production typically drops 15 to 20 percent compared to year one. Your hens will still lay consistently, just not quite as often.
 
@@ -54,7 +53,7 @@ Age has a dramatic and predictable effect on laying frequency.
 
 Walk out to your coop in December and you might find nothing. Walk out in June and the boxes are stacked. That's light at work.
 
-In late summer, as days get shorter, hens sense the change and begin winding down production. Many backyard flocks drop to almost nothing through December and January. Come February, as daylight creeps back past 12 hours, things pick back up organically.
+In late summer, as days get shorter, hens sense the change and begin winding down production. Many backyard flocks drop to almost nothing through December and January. Come February, as daylight creeps back past 12 hours, things pick back up on their own.
 
 Some keepers add supplemental light in winter, using a simple 40 to 60-watt bulb (or LED equivalent) on a timer to bring the total light exposure up to 14 to 16 hours. This keeps hens producing through the short days. There's a legitimate debate about whether this is good practice long-term, since it uses up a hen's finite supply of follicles faster. But for backyard flocks where eggs are the point, many people do it with no obvious harm.
 
@@ -64,7 +63,7 @@ Cold temperatures alone don't stop egg production, but extreme cold can slow it 
 
 ## Why Your Hen Suddenly Stopped Laying
 
-This is the question I get more than almost any other. One day you're getting 6 eggs from 6 hens, the next day you're getting 2. Here's a working checklist of the most common causes:
+This is the question I get more than almost any other. One day you're getting 6 eggs from 6 hens, the next day you're getting 2. Here's a working checklist of the most common causes.
 
 **Step-by-step troubleshooting guide:**
 
@@ -106,24 +105,19 @@ If you're just getting started and want a flock that balances temperament and pr
 
 You can't make a hen lay more eggs than her biology allows, but you can absolutely remove the obstacles that cause her to lay fewer.
 
-**Feed quality is non-negotiable.** Layer feed with 16 to 18 percent protein is the baseline. During molt, switch to a higher-protein grower or flock raiser (around 20 percent) to help feathers come back faster. A [feeder like this one on Amazon](https://www.amazon.com/s?k=chicken+layer+feeder) that minimizes waste pays for itself quickly.
+Feed quality is non-negotiable. Layer feed with 16 to 18 percent protein is the baseline. During molt, switch to a higher-protein grower or flock raiser (around 20 percent) to help feathers come back faster. A [feeder like this one on Amazon](https://www.amazon.com/s?k=chicken+layer+feeder) that minimizes waste pays for itself quickly.
 
-**Calcium matters.** Shells are mostly calcium. If hens don't get enough, they'll either lay thin-shelled eggs or stop laying altogether. Crushed oyster shell offered free-choice in a separate dish (not mixed into feed) lets each hen regulate her own intake. You'll also want to make sure your birds have access to [grit](/grit-for-chickens/) for proper digestion of any whole grains or scratch.
+Shells are mostly calcium. If hens don't get enough, they'll either lay thin-shelled eggs or stop laying altogether. Crushed oyster shell offered free-choice in a separate dish (not mixed into feed) lets each hen regulate her own intake. You'll also want to make sure your birds have access to [grit](/grit-for-chickens/) for proper digestion of any whole grains or scratch.
 
-**Keep the nest boxes clean and private.** Hens are more likely to use nesting boxes that feel safe and comfortable. Dirty boxes get avoided. Replace bedding regularly and consider nesting box pads designed for easy cleanup. Crowded boxes, where multiple hens compete for the same spot, cause stress and egg-eating behaviors.
+Keep the nest boxes clean and private. Hens are more likely to use nesting boxes that feel safe and comfortable. Dirty boxes get avoided. Replace bedding regularly and consider nesting box pads designed for easy cleanup. Crowded boxes, where multiple hens compete for the same spot, cause stress and egg-eating behaviors.
 
-**Water availability is huge.** Laying requires a significant amount of water. A hen drinking inadequate water will slow laying within 24 hours. In winter, a heated waterer like [this one on Amazon](https://www.amazon.com/s?k=heated+chicken+waterer) keeps water from freezing and production from tanking.
+Laying requires a significant amount of water. A hen drinking inadequate water will slow laying within 24 hours. In winter, a heated waterer like [this one on Amazon](https://www.amazon.com/s?k=heated+chicken+waterer) keeps water from freezing and production from tanking.
 
-**Protect the flock from predator stress.** A coyote circling the run at 2 a.m. might not get a single bird, but the stress on the flock is real and measurable. Good [chicken coop predator protection](/chicken-coop-predator-protection/) is as much about production as it is about safety.
-
----
-
+Protect the flock from predator stress. A coyote circling the run at 2 a.m. might not get a single bird, but the stress on the flock is real and measurable. Good [chicken coop predator protection](/chicken-coop-predator-protection/) is as much about production as it is about safety.
 
 ---
 
 Understanding the rhythm of your hens makes the whole experience more enjoyable and a lot less stressful. Once you stop expecting constant output and start reading the signals, like shorter days, feather loss, or a change in behavior, you'll work with your flock instead of against it. Most laying slowdowns have a real cause and a real solution. A little attention goes a long way.
-
----
 
 ---
 
@@ -132,4 +126,3 @@ Understanding the rhythm of your hens makes the whole experience more enjoyable 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-

@@ -25,8 +25,7 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 
 ---
-
-Imagine cracking open an egg from your backyard flock, only to notice that your hens have been laying thin-shelled, brittle eggs for the past two weeks. You've checked their feed, confirmed they're getting enough calcium, and still can't figure out what's wrong. There's a good chance the answer is sitting right under your nose: your chickens don't have access to proper grit, and their digestive systems are struggling to break down the nutrients they need. It sounds almost too simple, but grit is one of the most overlooked essentials in backyard chicken care, and skipping it can quietly wreck your flock's health.
+You crack open an egg from your backyard flock and notice something wrong: thin shells, brittle, cracking under the slightest pressure. For two weeks now. You've checked the feed. Calcium levels look fine. You've watched them eat. Nothing obvious is broken. The answer's probably sitting right under your nose: your chickens don't have access to proper grit, and their digestive systems are quietly falling apart. It sounds almost too simple to matter, but grit is one of the most overlooked essentials in backyard chicken care, and skipping it can wreck your flock's health before you realize what happened.
 
 ## What Exactly Is Grit and Why Do Chickens Need It?
 
@@ -38,11 +37,11 @@ Wild birds naturally pick up grit as they forage across soil and gravel. A chick
 
 ## The Two Types of Grit: Insoluble vs. Soluble
 
-This is where a lot of new chicken keepers get confused. There are two completely different products sold as "grit," and they serve two completely different purposes. Using the wrong one thinking you've covered both bases is a very common mistake.
+This is where new chicken keepers usually get tripped up. There are two completely different products sold as "grit," and they do completely different things. Using the wrong one thinking you've covered your bases is a very common mistake.
 
-**Insoluble grit** is what we've been describing above. It's granite grit, flint grit, or similar hard stone products that do not dissolve in the gizzard. They stay there and do their grinding work. This is true digestive grit. The most widely available commercial version is granite grit, typically sold in different sizes graded for chicks, growers, and adults.
+**Insoluble grit** is what we've been describing. Granite grit, flint grit, similar hard stone products that don't dissolve in the gizzard. They stay there and do their grinding work. This is true digestive grit. Most commercial versions are granite grit, typically sold in different sizes graded for chicks, growers, and adults.
 
-**Soluble grit** is usually crushed oyster shell or limestone. This type does dissolve in the digestive tract and releases calcium. It's essential for laying hens who need calcium to build eggshells, but it does not function as grinding grit. Oyster shell dissolves too quickly to stay in the gizzard and provide mechanical grinding action.
+**Soluble grit** is usually crushed oyster shell or limestone. This type dissolves in the digestive tract and releases calcium. It's essential for laying hens who need calcium to build eggshells, but it does not function as grinding grit. Oyster shell dissolves too quickly to stay in the gizzard and provide mechanical grinding action.
 
 Think of it this way: oyster shell feeds the bird, granite grit works for the bird. You need both, but for different reasons, and they shouldn't be substituted for each other.
 
@@ -59,9 +58,9 @@ Here's a practical guide:
 | 8 to 16 weeks | Grower grit (medium) | Transition size for pullets |
 | 16 weeks and older | Adult/hen grit (coarse) | Granite pieces around 2 to 4 mm |
 
-For adult birds, you're looking for granite grit where individual pieces are roughly the size of a sunflower seed kernel. Pieces that are significantly larger than that can be hard to swallow, and pieces that are too fine pass through the gizzard before they do much good.
+For adult birds, you're looking for granite grit where individual pieces are roughly the size of a sunflower seed kernel. Pieces that are significantly larger can be hard to swallow, and pieces that are too fine pass through the gizzard before they do much good.
 
-Popular commercial brands include Manna Pro Poultry Grit and Scratch and Peck Feeds Cluckin' Good Grit. Both are widely available online and at most farm stores. A [quality poultry grit product on Amazon](https://www.amazon.com/s?k=poultry+grit+for+chickens) can be a convenient option if you don't have a local feed store nearby, and prices are typically reasonable for the bag sizes offered.
+Popular commercial brands include Manna Pro Poultry Grit and Scratch and Peck Feeds Cluckin' Good Grit. Both are widely available online and at most farm stores. A [quality poultry grit product on Amazon](https://www.amazon.com/s?k=poultry+grit+for+chickens) can be convenient if you don't have a local feed store nearby, and prices are typically reasonable for the bag sizes offered.
 
 ## How Much Grit to Offer and How to Feed It
 
@@ -73,7 +72,7 @@ A few practical steps to get this right:
 
 2. **Place it in the coop or covered run.** Wet grit clumps and can go moldy. Keep the container dry and refill it about once a week or whenever it runs low.
 
-3. **Start from day one with chicks.** If you're feeding your chicks anything other than commercial chick crumble (which is already finely ground), they need access to chick grit immediately. Offering scrambled eggs, meal worms, or greens to baby chicks without grit is a recipe for a pasty, impacted gizzard.
+3. **Start from day one with chicks.** If you're feeding your chicks anything other than commercial chick crumble (which is already finely ground), they need access to chick grit immediately. Offering scrambled eggs, mealworms, or greens to baby chicks without grit is a recipe for a pasty, impacted gizzard.
 
 4. **Offer oyster shell separately.** Keep oyster shell in its own container next to the grit. Hens will take what they need. Roosters and non-laying birds typically ignore it, which is actually ideal since too much calcium can stress their kidneys.
 
@@ -87,7 +86,7 @@ Most of the time, a grit deficiency doesn't announce itself dramatically. It's a
 
 **Poor feed conversion** is often the first sign. If your chickens seem to be eating normally but losing body condition or laying fewer eggs, digestive efficiency could be the issue. Partially digested food means fewer calories and nutrients actually reaching the bloodstream.
 
-**Sour crop or impacted crop** can sometimes be connected to grit deficiency. Without proper gizzard function, fibrous material like long grass clippings can ball up and cause blockages. This is especially true for birds given access to lawn clippings without adequate grit.
+**Sour crop or impacted crop** can sometimes connect to grit deficiency. Without proper gizzard function, fibrous material like long grass clippings can ball up and cause blockages. This is especially true for birds given access to lawn clippings without adequate grit.
 
 **Thin or soft eggshells** sometimes occur even when oyster shell is being offered, because the hen can't efficiently process the calcium from her feed if her digestive system isn't functioning well. Grit and calcium work as a team.
 
@@ -103,12 +102,9 @@ The rule is simple: if a chick eats anything other than commercially formulated 
 
 Parakeet grit or very fine chick grit (sometimes called starter grit) works well for the first few weeks. Spread a small pinch directly on the brooder floor for the first few days so chicks can peck at it naturally. Once they know what it is, switch to a small shallow dish.
 
-One thing to avoid: products labeled as "grit" that contain added calcium or salt. These are not appropriate for young chicks. Read the label carefully and buy plain granite or flint grit without additives.
+One thing to avoid: products labeled as "grit" that contain added calcium or salt. These aren't appropriate for young chicks. Read the label carefully and buy plain granite or flint grit without additives.
 
 For anyone setting up a first flock, your coop setup matters just as much as your feed and grit routine. Check out our [free chicken coop plans](/chicken-coop-plans-free/) if you're still in the building phase, and make sure your run and coop design makes it easy to keep grit dry and accessible.
-
----
-
 
 ---
 

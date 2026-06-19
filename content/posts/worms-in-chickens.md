@@ -25,10 +25,9 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 
 ---
+You've got a layer standing apart from the flock, tail drooping, looking thin even though she's eating fine. No respiratory issues. No visible mites. You worm her on a hunch, and two weeks later she's back to laying and acting normal. I've watched this play out in my own flock more times than I'd like to admit, and every time it reminds me of something uncomfortable: internal parasites are probably the most underdiagnosed health problem in backyard chickens, and most keepers don't catch it until the bird is already struggling.
 
-You find one of your best layers standing off by herself, tail drooping, looking thin despite the fact that she's eating like normal. No respiratory symptoms. No mites you can see. You worm her on a hunch, and two weeks later she's back to laying and acting like herself. That scenario has played out in my flock more times than I'd like to admit, and every time it reminds me of the same uncomfortable truth: internal parasites are probably the most underdiagnosed health problem in backyard chickens, and most keepers don't catch it until the bird is already in rough shape.
-
-I'll be honest, I spent my first few years keeping chickens the way a lot of people do. I cleaned the coop, watched for mites, fed a good layer pellet, and figured I had things covered. Worms felt like a farm problem, not a backyard problem. Then I had a fecal float done on three of my hens out of curiosity, and two of them came back positive for roundworms. They looked completely fine. That was the wake-up call that sent me down a long road of reading, asking vets a lot of questions, and paying much closer attention to what was actually going on inside my birds.
+I'll be direct about my own mistakes. I spent my first few years with chickens the way a lot of people do: cleaned the coop, watched for mites, fed a decent layer pellet, and figured I had things covered. Worms felt like a farm problem, not a backyard thing. Then I had a fecal float done on three hens out of curiosity, and two of them came back positive for roundworms. They looked completely fine. That one test sent me down a long road of reading, interrogating vets, and paying much closer attention to what was actually happening inside my birds.
 
 ---
 
@@ -36,9 +35,9 @@ I'll be honest, I spent my first few years keeping chickens the way a lot of peo
 
 Not all chicken worms are the same, and the distinction matters because different worms do different kinds of damage and respond differently to treatment.
 
-**Roundworms (Ascaridia galli)** are the most common internal parasite in backyard flocks. They're large, can reach several inches long, and live in the small intestine. Heavy infestations cause weight loss, pale combs, reduced egg production, and sometimes diarrhea. In severe cases, especially in young birds, they can cause an intestinal blockage.
+**Roundworms (Ascaridia galli)** are the most common internal parasite in backyard flocks. They're large, can reach several inches long, and live in the small intestine. Heavy infestations cause weight loss, pale combs, reduced egg production, and sometimes diarrhea. In severe cases, especially in young birds, they can block the intestines.
 
-**Cecal worms (Heterakis gallinarum)** live in the ceca, the two blind pouches branching off the large intestine. They rarely cause serious direct harm on their own. The danger is that they carry *Histomonas meleagridis*, the organism that causes blackhead disease. If you also keep turkeys, this matters enormously. Blackhead can devastate a turkey flock, and chickens are the reservoir host.
+**Cecal worms (Heterakis gallinarum)** live in the ceca, the two blind pouches branching off the large intestine. They rarely cause serious direct harm on their own. The real danger is that they carry *Histomonas meleagridis*, the organism that causes blackhead disease. If you also keep turkeys, this matters enormously. Blackhead can devastate a turkey flock, and chickens are the reservoir host.
 
 **Capillary worms (capillary species, often called hairworms)** are thin as a thread and easy to miss. They can live in the crop, esophagus, or intestines depending on the species. Crop capillaria cause birds to lose weight, look unthrifty, and sometimes develop a swollen or impacted crop. These are nasty because the damage they do can be severe before you even know they're there.
 
@@ -52,7 +51,7 @@ What surprised me when I really got into this was how asymptomatic a significant
 
 ## How Chickens Get Infected
 
-The life cycles vary, but the short answer is: mostly from the ground, and mostly from other chickens.
+The life cycles vary, but here's the short answer: mostly from the ground, and mostly from other chickens.
 
 Roundworms and cecal worms spread through a direct fecal-oral route. An infected bird passes eggs in her droppings. Those eggs contaminate the soil, feeder area, or bedding. Another bird pecks around, ingests eggs, and the cycle continues. Roundworm eggs can survive in soil for years under the right conditions. If you've ever had worms in your flock and haven't taken steps to break the cycle, you can assume the ground is still contaminated.
 
@@ -66,7 +65,7 @@ New birds are another major vector. I don't care how healthy a bird looks when y
 
 ## Diagnosing Worms: What Actually Works
 
-Here's where I'll push back on the "treat everything routinely" approach that some keepers take. Routine worming without knowing what you're dealing with is better than ignoring the problem, but it's not ideal. Different wormers target different parasites, and you're better off knowing what you have.
+Here's where I'll push back on the "treat everything routinely" approach that some keepers take. Routine worming without knowing what you're dealing with is better than ignoring the problem entirely, but it's not ideal. Different wormers target different parasites, and you're better off knowing what you have.
 
 **Fecal flotation** is the gold standard for a backyard keeper. You collect fresh droppings from several birds, mix them in a flotation solution (zinc sulfate is common), and a technician examines the sample under a microscope. It will tell you whether eggs are present and what type. Many poultry vets, university extension offices, and even some online mail-in services offer this. [Merck Veterinary Manual](https://www.merckvetmanual.com) has a good overview of how fecal flotation works if you want to understand the process.
 
@@ -123,7 +122,7 @@ If you suspect or confirm a worm issue, here's the approach I'd take, based on w
 
 ## Prevention: What Actually Moves the Needle
 
-I'll be honest: you can't fully prevent worms if your birds have access to soil. What you can do is reduce the burden and catch problems early.
+You can't fully prevent worms if your birds have access to soil. What you can do is reduce the burden and catch problems early.
 
 Pasture rotation is the single most effective tool, and it's free if you have the space. Giving a pasture area a 3 to 6 month rest dramatically reduces the infective egg population in the soil. Even rotating between two sections helps.
 
@@ -133,11 +132,8 @@ Diatomaceous earth comes up constantly in chicken-keeping circles. The evidence 
 
 Fermented feed has shown some interesting preliminary results in reducing parasite loads, possibly because of its effect on gut microbiome and pH. I'd call this promising but not proven at the scale that justifies treating it as a primary control strategy.
 
-The best tool you have is your eyes and a relationship with a poultry vet. Know your birds individually well enough to spot the bird that's not quite right. That early catch is the difference between a mild infection you treat and clear, and a serious infestation that has caused lasting damage.
+The best tool you have is your eyes and a relationship with a poultry vet. Know your birds individually well enough to spot the one that's not quite right. That early catch is the difference between a mild infection you treat and clear, and a serious infestation that has caused lasting damage.
 
 ---
 
-
----
-
-Worms are one of those problems that feels invisible until it isn't, and by the time the signs are obvious, you've usually got a bird that's been struggling for weeks. The best thing I ever did for my flock's health was start doing routine fecal floats, not because I always found something, but because the times I did, I caught it early enough to handle it cleanly. Know what's normal for each of your birds, get a fecal float done if something seems off, find a vet who actually knows poultry, and don't let the lack of FDA-approved products make you feel like your options are zero. They're not. You just have to do the work.
+Worms are invisible until they aren't, and by the time the signs are obvious, you've usually got a bird that's been struggling for weeks. The best thing I ever did for my flock's health was start doing routine fecal floats, not because I always found something, but because the times I did, I caught it early enough to handle it cleanly. Know what's normal for each of your birds, get a fecal float done if something seems off, find a vet who actually knows poultry, and don't let the lack of FDA-approved products make you feel like your options are zero. They're not.

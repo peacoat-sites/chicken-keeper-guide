@@ -25,30 +25,29 @@ author_title: "Homestead Writer"
 author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
 
 ---
-
-A raccoon can open a simple hook-and-eye latch in under 60 seconds. I've watched it happen on my trail cam footage, and I'm still a little impressed by the dexterity, even after losing three hens to that same raccoon before I figured out what was going on. That one night cost me a Buff Orpington I'd raised from a chick and two of my best laying Australorps. Predator protection isn't a "nice to have" for backyard chickens. It's the whole ballgame.
+A raccoon can open a simple hook-and-eye latch in under 60 seconds. I've watched it happen on my trail cam footage, and I'm still a little impressed by the dexterity, even after losing three hens to that same raccoon before I figured out what was going on. That one night cost me a Buff Orpington I'd raised from a chick and two of my best laying Australorps. Predator protection isn't optional for backyard chickens. It's the difference between keeping a flock and feeding the neighborhood wildlife.
 
 ## Know Your Enemy: Which Predators Are Actually Coming for Your Flock
 
 Before you spend a dime on hardware, you need to understand who you're building against. Different predators call for different defenses, and a setup that stops a fox won't necessarily stop a weasel.
 
-Raccoons are probably the most common and most underestimated threat. They're intelligent, strong, and shockingly patient. They'll work a latch for ten minutes if they think there's food on the other side. They also reach through wire and grab chickens, pulling them against the mesh until they can tear pieces off. It's gruesome, and it happens with standard chicken wire if the openings are large enough.
+Raccoons are probably the most common threat, and people vastly underestimate them. They're intelligent, strong, and shockingly patient. They'll work a latch for ten minutes if they think there's food on the other side. They also reach through wire and grab chickens, pulling them against the mesh until they can tear pieces off. It's gruesome, and it happens constantly with standard chicken wire if the openings are large enough.
 
 Foxes are fast and mostly strike at dawn or dusk. They dig under fencing, squeeze through gaps, and will snatch a bird and be gone before you even know something happened. If you're finding feathers scattered across a wide area with no body, fox is usually your culprit.
 
-Opossums and skunks are opportunists. They're more interested in eggs than birds, but they'll kill chicks and sick or weak hens. Weasels and mink are a different level of terrifying. A single weasel can kill an entire flock in one night, often killing far more than it eats. They can squeeze through a hole the size of a quarter, which makes them uniquely difficult to exclude.
+Opossums and skunks are opportunists. They're more interested in eggs than birds, but they'll kill chicks and sick or weak hens. Weasels and mink operate on a completely different level. A single weasel can kill an entire flock in one night, often killing far more than it eats. They can squeeze through a hole the size of a quarter, which makes them uniquely hard to keep out.
 
 Hawks and owls take birds during the day and night respectively. Aerial predators are easy to overlook when you're focused on ground threats. If you free-range and find birds missing with no sign of a struggle or body, look up.
 
-Dogs, both stray and neighbor-owned, kill more backyard chickens than most people realize. They often kill for the chase rather than food, leaving carnage but not consuming the birds. It's a harder conversation to have with a neighbor, but it's a real threat.
+Dogs, strays and neighbor-owned alike, kill more backyard chickens than most people realize. They often kill for the chase rather than food, leaving carnage but not consuming the birds. It's an awkward conversation to have with a neighbor, but it's a real threat.
 
-Knowing what's in your area changes everything. Set up a trail cam near your coop before you do anything else if you're not sure. I use a basic Bushnell model and check it every morning. You'll know within a week what you're up against.
+Knowing what's actually in your area changes everything. Set up a trail cam near your coop before doing anything else if you're not sure. I use a basic Bushnell model and check it every morning. You'll know within a week what you're up against.
 
 ## Hardware Cloth Is Non-Negotiable
 
-Let's settle this debate right now: chicken wire is not predator-proof. It never was. Chicken wire was designed to keep chickens in, not to keep predators out. The wire is thin, the hexagonal openings are large, and a motivated raccoon or dog will push right through it or tear it open.
+Chicken wire is not predator-proof. It never was. Chicken wire was designed to keep chickens in, not predators out. The wire is thin, the hexagonal openings are huge, and a motivated raccoon or dog will push right through it or tear it open.
 
-What you actually need is hardware cloth, also called welded wire mesh. For most backyard setups, 1/2-inch galvanized hardware cloth is the gold standard. It's rigid, the openings are small enough to exclude even weasels, and it holds up to physical attacks. For areas where you're only worried about larger predators like foxes and raccoons, 1-inch hardware cloth can work, but I'd spend the extra money on the 1/2-inch and not think about it again.
+What you actually need is hardware cloth, also called welded wire mesh. For most backyard setups, 1/2-inch galvanized hardware cloth is the gold standard. It's rigid, the openings are small enough to exclude even weasels, and it holds up to physical attacks. For areas where you're only worried about larger predators like foxes and raccoons, 1-inch hardware cloth can work, but spend the extra money on the 1/2-inch and stop thinking about it.
 
 Secure hardware cloth with staples AND screws with washers. Staples alone pull out over time, especially where animals are pushing against the wire. Overlap seams by at least 2 inches and secure the overlap with zip ties in addition to staples.
 
@@ -58,7 +57,7 @@ Anywhere you have ventilation openings, cover them with hardware cloth instead o
 
 ## Closing the Ground: Aprons, Skirts, and Buried Wire
 
-Aerial attacks and reaching through wire get most of the attention, but digging predators are responsible for a huge number of flock losses. Foxes, coyotes, dogs, and even raccoons will dig under a fence to get in. The solution is a buried wire apron, and it's one of the most effective improvements you can make.
+Aerial attacks and reaching through wire get most of the attention. Digging predators are responsible for a huge number of flock losses though. Foxes, coyotes, dogs, and even raccoons will dig under a fence to get in. The solution is a buried wire apron, and it's one of the most effective improvements you can make.
 
 There are two approaches:
 
@@ -70,9 +69,9 @@ I've used both methods and personally prefer the horizontal apron for retrofitti
 
 ## Locking Up: Latches, Doors, and Nighttime Routine
 
-Most predator attacks happen at night. This sounds obvious, but the implications are worth spelling out. A coop that's properly locked at night is dramatically safer than one with a simple latch or, worse, a door propped closed with a rock.
+Most predator attacks happen at night. This sounds obvious, but the implications matter. A coop that's properly locked at night is dramatically safer than one with a simple latch or, worse, a door propped closed with a rock.
 
-For latches, you need something with multiple steps to open, because raccoons can figure out single-action latches given enough time and motivation. Carabiner-style clips added to a barrel bolt work well. A true two-step latch like a locking slide bolt with a pin through the hasp is even better. I use a padlock on my main coop door during spring and summer when predator activity is highest around here. It feels like overkill until the night it isn't.
+For latches, you need something with multiple steps to open, because raccoons can figure out single-action latches given enough time and motivation. Carabiner-style clips added to a barrel bolt work well. A true two-step latch like a locking slide bolt with a pin through the hasp is even better. I use a padlock on my main coop door during spring and summer when predator activity is highest around here. It feels excessive until the night it isn't.
 
 Automatic coop doors have been one of the best investments I've made in 12 years of keeping chickens. A good automatic door closes at dusk and opens at dawn without you having to be there, which means your birds are locked up safely even on nights when you forget or arrive home late. The [ChickenGuard](https://www.amazon.com/s?k=chickenguard+automatic+coop+door&tag=contentportfo-20) and the [Omlet Automatic Door](https://www.amazon.com/s?k=omlet+automatic+chicken+coop+door&tag=contentportfo-20) are both solid options with good track records. Expect to spend $150 to $250 for a reliable unit, and consider it cheap insurance against a $0 latch that fails.
 
@@ -80,7 +79,7 @@ Check your coop for gaps regularly. Seasonal temperature changes cause wood to e
 
 ## Step-by-Step: Predator-Proofing Your Existing Coop
 
-If you already have a coop and need to harden it without rebuilding from scratch, here's a practical sequence that works in the real world:
+If you already have a coop and need to harden it without rebuilding from scratch, here's a practical sequence:
 
 **Step 1: Audit every gap.** Get down on your hands and knees and look at every inch of the coop structure. Any gap larger than 1/2 inch needs attention. Use a quarter coin as a reference since weasels can get through openings that size.
 
@@ -108,9 +107,6 @@ If you already have a coop and need to harden it without rebuilding from scratch
 | Electric Poultry Net | Ground predators | $150-300 per 160 ft | Medium | Excellent for free-rangers |
 | Motion-Activated Lights | Nocturnal predators | $20-60 | Low | Works better in some areas than others |
 | Solid Roof on Run | Hawks, owls | $100-500 | Medium-High | Only complete solution for aerial threats |
-
-
----
 
 Predator-proofing a coop isn't a one-time project. It's an ongoing relationship between you and whatever wildlife shares your area. A setup that works for three years can fail when a new, bolder predator moves into the territory, or when a board rots loose and creates a gap you didn't notice. Walk your coop perimeter regularly, stay curious about what's happening at night, and don't let a run of good luck make you complacent. Your birds are depending on you to take this seriously, and the good news is that with the right materials and a little attention, you can keep them genuinely safe.
 

@@ -25,14 +25,13 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 
 ---
-
 You've done your research, you've watched the YouTube videos, and you've already mentally named a few of your future hens. Now you're staring at your backyard trying to figure out the actual number you can keep without running into trouble with your neighbor, your city code enforcement officer, or your own sanity. It's a more complicated question than it looks, and the answer you'll find on most hatchery websites, "get at least three," leaves out about 90% of what you actually need to know.
 
 ## The Number Nobody Can Give You Without Knowing Four Things First
 
 I've talked to hundreds of people at this stage, and here's what I tell them every time: there is no universal answer to how many chickens you can have. The number that works for you depends on four things, and you need to think through all of them before you order a single chick.
 
-**Your local ordinances.** This is where you start. Not with square footage math, not with breed selection. Call your city or county planning office, or pull up your municipality's code online and search "poultry" or "livestock." What you're looking for is whether chickens are permitted at all, whether roosters are banned (they are in the vast majority of residential zones), and whether there's a hard cap on the number of birds. In suburban areas, caps of three to six hens are extremely common. Some cities allow up to twelve. A few have no cap at all. Some require a permit, a fee, or a minimum lot size. One woman I know built a beautiful coop for ten hens before she found out her township allowed four. She had to rehome six birds she had already grown attached to.
+**Your local ordinances.** Start here. Not with square footage math, not with breed selection. Call your city or county planning office, or pull up your municipality's code online and search "poultry" or "livestock." What you're looking for is whether chickens are permitted at all, whether roosters are banned (they are in the vast majority of residential zones), and whether there's a hard cap on the number of birds. In suburban areas, caps of three to six hens are extremely common. Some cities allow up to twelve. A few have no cap at all. Some require a permit, a fee, or a minimum lot size. One woman I know built a beautiful coop for ten hens before she found out her township allowed four. She had to rehome six birds she had already grown attached to.
 
 **Your lot size and setback requirements.** Even if ordinances allow chickens, they often require the coop to be a certain distance from property lines, neighboring homes, or your own house. A 50-foot setback on a quarter-acre lot can eliminate most of the places you'd want to put a coop.
 
@@ -53,7 +52,7 @@ Here's a more useful framework:
 | Free range or large run | 4 sq ft indoor | 50+ sq ft or unlimited | The outdoor space compensates enormously |
 | Heavy breeds (Orpingtons, Brahmas) | 6-8 sq ft | 15-20 sq ft | Larger bodies need more room to move comfortably |
 
-A standard 8x8 coop, which is what a lot of people build or buy, gives you 64 square feet of interior space. At 4 square feet per bird, that's 16 birds. But don't stock 16 birds in an 8x8 coop. You'll be dealing with ammonia buildup, respiratory illness, and flock aggression problems within weeks. In my experience, that same 8x8 coop keeps 8 to 10 birds comfortably, which leaves room for roost bars, a feeder, and air circulation that actually works.
+A standard 8x8 coop, which is what a lot of people build or buy, gives you 64 square feet of interior space. At 4 square feet per bird, that's 16 birds. But don't stock 16 birds in an 8x8 coop. You'll be dealing with ammonia buildup, respiratory illness, and flock aggression within weeks. That same 8x8 coop keeps 8 to 10 birds comfortably, which leaves room for roost bars, a feeder, and air circulation that actually works.
 
 Nesting boxes are a separate calculation. The standard recommendation is one box per four to five hens. Don't over-box either. If you have too many nest boxes, some hens will sleep in them and soil them, which creates egg hygiene problems. A flock of eight hens does fine with two good-quality boxes lined with quality nesting pads. I've used [Farm Innovators nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20) for years and they're easy to swap out and keep clean. *(This site may earn a commission on qualifying purchases.)*
 
@@ -63,7 +62,7 @@ Here's something almost nobody warns you about upfront: the number of chickens y
 
 Chickens establish a pecking order. That's real, not a figure of speech. In a flock that's too small, say two or three birds, one hen can be relentlessly targeted by another with no way to escape. The victim has nowhere to hide and no allies. Three birds is often cited as a minimum, but I think five to six is a more stable starting point. There are enough birds to distribute the social pressure and enough movement in the hierarchy that no single bird gets singled out continuously.
 
-On the upper end, very large backyard flocks, anything over twenty birds in a contained run, start to develop a different problem: the pecking order becomes unstable because the birds can't all know each other well enough. You get more aggression, more injuries, more stress. If you want a larger flock, a bigger and more complex space with multiple feeding stations helps significantly.
+On the upper end, very large backyard flocks over twenty birds in a contained run start to develop a different problem: the pecking order becomes unstable because the birds can't all know each other well enough. You get more aggression, more injuries, more stress. If you want a larger flock, a bigger and more complex space with multiple feeding stations helps significantly.
 
 You might be wondering what to do if you want to add birds later. Adding to an established flock is always disruptive. New birds should be quarantined for at least 30 days before introduction and then introduced slowly, ideally by placing them in a visible but separated area so the flocks can see each other without contact. Even then, expect a few weeks of reshuffling and some conflict. I always say: if you think you want six chickens, start with six, not three that you plan to add to later.
 
@@ -109,9 +108,6 @@ If you're ready to make an actual decision, here's how I'd walk you through it:
 **Step 5: Ask yourself what you're keeping chickens for.** Eggs only? Start with five or six good layers. A mix of eggs and experience? Six to eight birds gives you enough variety and enough production to keep things interesting. If you're thinking show birds or rare breeds, start small and learn the breeds before scaling up.
 
 **Step 6: Order slightly fewer than your max.** Leave yourself room. You may want to add a bird later. You may lose one to illness or predation. Stocking to your absolute maximum from day one leaves no flexibility.
-
----
-
 
 ---
 

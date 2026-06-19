@@ -25,32 +25,25 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 
 ---
-
 Most new chicken keepers walk into the feed store, grab whatever bag has a chicken on the label, and call it done. I did the same thing my first year. Then I watched my Rhode Island Reds go through a rough molt, my egg production crater in November, and my rooster develop a limp I later traced back to a calcium-phosphorus imbalance. Twelve years and 200-plus birds later, I can tell you that what you put in that feeder matters far more than most people realize. Chickens aren't complicated, but they're not as forgiving as the "just toss them scratch" advice would have you believe.
-
----
 
 ## The Foundation: Commercial Layer Feed and Why It's Non-Negotiable
 
-Let's start with the backbone of every laying hen's diet: a quality commercial layer feed. This should make up 85 to 90 percent of what your birds eat. Not because I'm beholden to the feed industry, but because a good layer feed is formulated to hit very specific nutritional targets that are genuinely hard to replicate any other way.
+Start here. A quality commercial layer feed should make up 85 to 90 percent of what your birds eat. Not because I'm beholden to the feed industry, but because a good layer feed hits very specific nutritional targets that are genuinely hard to replicate any other way.
 
-A standard layer feed contains 16 to 18 percent protein, which is enough to support consistent egg production in most breeds. It also delivers calcium at around 3.5 to 4 percent, which is what your hens need to produce eggs with strong shells day after day. Without adequate calcium, a hen pulls it directly from her own bones. Do that long enough and you've got a bird with serious skeletal problems.
+A standard layer feed contains 16 to 18 percent protein, which supports consistent egg production in most breeds. It also delivers calcium at around 3.5 to 4 percent, which is what your hens need to produce eggs with strong shells day after day. Without adequate calcium, a hen pulls it directly from her own bones. Do that long enough and you've got a bird with serious skeletal problems.
 
-There are three main forms: crumble, pellet, and mash. Pellets are my go-to. They produce less waste, are harder for birds to fling out of the feeder, and hold up better in a covered feeder like the [RentACoop Automatic Chicken Feeder](https://www.amazon.com/s?k=rentacoop+automatic+chicken+feeder) (affiliate link). Mash gets wet and disgusting fast. Crumble works fine for younger birds or smaller bantam breeds but tends to crumble into powder at the bottom of the bag, which birds waste enthusiastically.
+Three main forms exist: crumble, pellet, and mash. Pellets are my go-to. They produce less waste, are harder for birds to fling out of the feeder, and hold up better in a covered feeder like the [RentACoop Automatic Chicken Feeder](https://www.amazon.com/s?k=rentacoop+automatic+chicken+feeder) (affiliate link). Mash gets wet and disgusting fast. Crumble works fine for younger birds or smaller bantam breeds but tends to crumble into powder at the bottom of the bag, which birds waste enthusiastically.
 
 One thing people miss: layer feed is specifically for laying hens. Don't feed it to chicks under 18 weeks. The calcium levels are too high for developing kidneys. And don't feed it to roosters long-term if you can avoid it. Same reason. More on that in a minute.
 
----
-
 ## Chicks and Pullets: Getting the First 18 Weeks Right
 
-Baby chicks need starter feed, and this is where the protein conversation gets serious. Chick starter runs 20 to 24 percent protein because those little bodies are building muscle, bone, and organ tissue at a rate they'll never match again in their lives. Skimp on protein in the brooder and you'll see feather picking, slow development, and birds that never quite reach their genetic potential.
+Baby chicks need starter feed, and this is where the protein conversation gets serious. Chick starter runs 20 to 24 percent protein because those little bodies are building muscle, bone, and organ tissue at a rate they'll never match again. Skimp on protein in the brooder and you'll see feather picking, slow development, and birds that never quite reach their genetic potential.
 
-You'll see both medicated and unmedicated starter on the shelf. Medicated starter contains amprolium, which helps prevent coccidiosis, a intestinal parasite that kills a lot of chicks, especially in warm, damp conditions. If your chicks came from a hatchery and were vaccinated for Marek's disease but not cocci, medicated starter is worth using. If you hatched your own eggs and your birds weren't vaccinated, some vets recommend unmedicated starter paired with a clean, dry brooder. Honestly, for most backyard keepers buying chicks in spring, medicated starter is fine and probably prevents a lot of heartbreak.
+You'll see both medicated and unmedicated starter on the shelf. Medicated starter contains amprolium, which helps prevent coccidiosis, an intestinal parasite that kills a lot of chicks, especially in warm, damp conditions. If your chicks came from a hatchery and were vaccinated for Marek's disease but not cocci, medicated starter is worth using. If you hatched your own eggs and your birds weren't vaccinated, some vets recommend unmedicated starter paired with a clean, dry brooder. Honestly, for most backyard keepers buying chicks in spring, medicated starter is fine and probably prevents a lot of heartbreak.
 
 Around 8 to 10 weeks, transition to a grower feed, which steps the protein back to around 18 percent. Hold here until your pullets reach laying age, roughly 18 to 20 weeks depending on the breed. Then switch to layer feed. Don't rush it. I've seen people switch their pullets to layer too early thinking it would speed up laying. It doesn't. It just stresses their kidneys.
-
----
 
 ## Treats, Scraps, and What You Can Feed From the Kitchen
 
@@ -74,8 +67,6 @@ Things to avoid:
 
 The 10 percent rule is real. Treats and scraps should not exceed 10 percent of your birds' total daily intake. Every bite of treat is a bite they're not taking of balanced feed. That math catches up with you over time, especially in egg production and feather quality.
 
----
-
 ## Grit, Oyster Shell, and the Supplements Worth Using
 
 Two things every chicken keeper needs to have on hand, and many don't: grit and oyster shell.
@@ -88,8 +79,6 @@ For roosters and non-laying birds, a separate feeder of all-flock feed (around 1
 
 Probiotics and electrolytes are worth having in your supply cabinet for times of stress: shipping, heat waves, illness recovery, or a particularly brutal molt. I use [Rooster Booster Vitamins & Electrolytes](https://www.amazon.com/s?k=rooster+booster+vitamins+electrolytes) (affiliate link) dissolved in water a few days per week during summer. It's not something birds need year-round, but it makes a real difference during challenging periods.
 
----
-
 ## Seasonal Feeding Adjustments That Actually Matter
 
 Chickens' nutritional needs shift with the seasons, and most guides gloss right over this.
@@ -100,11 +89,9 @@ In summer, feed consumption often drops because birds are hot and not inclined t
 
 During molt, which typically happens in fall and can last 8 to 16 weeks, bump your protein. Feathers are about 85 percent protein. A molting hen is not laying, and she's putting everything into regrowing her coat. Switch to a 20 percent protein flock raiser or grower feed temporarily, add a few tablespoons of dried mealworms daily, and ease off treats that dilute protein intake. Birds come out of molt faster and in better condition when you support them this way.
 
----
-
 ## Feeding Schedule and Quantities: A Practical Breakdown
 
-A lot of new keepers ask how much to feed. Here's a simple framework:
+A lot of new keepers ask how much to feed. Here's what actually works:
 
 | Bird Type | Daily Feed Intake | Notes |
 |---|---|---|
@@ -114,12 +101,9 @@ A lot of new keepers ask how much to feed. Here's a simple framework:
 | Adult rooster | 0.25 to 0.30 lbs | Higher if free-ranging |
 | Bantam hen | 0.10 to 0.15 lbs | Half of standard hen roughly |
 
-For most backyard flocks, free-choice feeding works fine. Fill the feeder, keep it clean and dry, and let birds self-regulate. The one exception is if you have obese birds or breeds prone to over-eating, some production Cochins and very docile breeds can get chunky fast. If your hens are waddling and laying soft-shelled eggs, check the feed but also check whether they're getting too much scratch or corn.
+For most backyard flocks, free-choice feeding works fine. Fill the feeder, keep it clean and dry, and let birds self-regulate. The one exception is if you have obese birds or breeds prone to over-eating. Some production Cochins and very docile breeds can get chunky fast. If your hens are waddling and laying soft-shelled eggs, check the feed but also check whether they're getting too much scratch or corn.
 
-Fresh water is not a separate topic. It's part of feeding. A hen who can't access clean water will reduce feed intake within hours. A good [poultry waterer](https://www.amazon.com/s?k=chicken+waterer+automatic) (affiliate link) that stays clean and doesn't tip over is one of the best investments in the coop.
-
----
-
+Fresh water is critical. A hen who can't access clean water will reduce feed intake within hours. A good [poultry waterer](https://www.amazon.com/s?k=chicken+waterer+automatic) (affiliate link) that stays clean and doesn't tip over is one of the best investments you can make in the coop.
 
 ---
 

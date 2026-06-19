@@ -25,62 +25,61 @@ author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
 
 ---
-
-Most new chicken keepers walk into a feed store for the first time, stare at a wall of bags labeled "starter," "grower," "layer," "flock raiser," and "finisher," and walk out with whatever bag has the prettiest rooster on it. It happens more than you'd think. Getting the feed wrong doesn't always cause an obvious disaster right away, but over time it can mean poor egg production, weak shells, slow growth, feather problems, and birds that just look a little rough around the edges. Understanding what's actually in those bags, and why it matters, is one of the most practical things you can do for your flock.
+Most new chicken keepers walk into a feed store for the first time, stare at a wall of bags labeled "starter," "grower," "layer," "flock raiser," and "finisher," and leave with whatever has the prettiest rooster on the label. It happens more than you'd think. The wrong feed won't always cause an obvious crisis right away, but over months it'll show up as poor egg production, weak shells, slow growth, rough feathering, and birds that just look tired. Understanding what's actually in those bags is one of the most practical moves you can make for your flock.
 
 ## The Basics: What Chicken Feed Is Actually Made Of
 
-Chicken feed isn't just grain. Commercial poultry feed is a formulated blend designed to hit specific nutritional targets depending on the life stage and purpose of the bird. The core ingredients typically include corn, soybean meal, wheat middlings, and a vitamin/mineral premix. Some feeds also include limestone (for calcium), fish meal or dried insects for extra protein, and synthetic methionine, an amino acid chickens can't produce on their own in sufficient quantities.
+Chicken feed isn't just grain. Commercial poultry feed is a formulated blend built to hit specific nutritional targets based on the bird's age and purpose. The core usually comes down to corn, soybean meal, wheat middlings, and a vitamin/mineral premix. Some feeds throw in limestone for calcium, fish meal or dried insects for extra protein, and synthetic methionine, an amino acid chickens can't make in sufficient quantities on their own.
 
-The key numbers to pay attention to on any feed label are protein percentage, calcium percentage, and phosphorus percentage. A bag of layer feed typically runs 16% protein and around 3.5-4% calcium. A chick starter runs 18-22% protein and very low calcium, usually under 1%. Those differences aren't arbitrary. Excess calcium in young birds can damage kidneys before they're developed enough to process it. Insufficient protein in laying hens leads to poor feather condition and reduced egg output. The numbers matter.
+The key numbers on any feed label: protein percentage, calcium percentage, and phosphorus percentage. Layer feed typically runs 16% protein and around 3.5-4% calcium. Chick starter runs 18-22% protein and minimal calcium, usually under 1%. Those gaps aren't arbitrary. Excess calcium in young birds can wreck their kidneys before the organs are developed enough to handle it. Laying hens that don't get enough protein end up with shabby feathers and drops in egg output. The numbers actually matter.
 
-Feed also comes in different physical forms. Crumbles are broken-up pellets, sized for younger birds or birds that struggle with larger pieces. Pellets are compressed cylinders, usually about half an inch long, and are the most efficient form because birds waste less of it. Mash is finely ground and uncompressed. It's the oldest form and tends to produce the most waste since chickens sift through it and fling the parts they don't want. Most experienced keepers gravitate toward pellets for adult birds.
+Feed also comes in different physical forms. Crumbles are pellets broken into smaller pieces, sized for younger birds. Pellets are compressed cylinders, usually about half an inch long, and waste less than other forms. Mash is finely ground and uncompressed, the oldest option, and chickens pick through it, flinging the parts they don't want. Most experienced keepers go pellets for adult birds.
 
 ## Breaking Down the Feed Types by Life Stage
 
-This is where the confusion really starts. Here's how the main feed types map to life stages:
+This is where most people get lost.
 
-**Chick Starter (0-8 weeks):** High protein, usually 18-22%, with no added calcium. Medicated versions contain amprolium, which helps prevent coccidiosis, a protozoan infection that kills young chicks. Non-medicated starter is fine if your chicks were vaccinated for coccidiosis at the hatchery. Using medicated feed on vaccinated chicks won't harm them, but it partially counteracts the vaccine. If you ordered from a hatchery that vaccinates by default, ask before buying medicated feed.
+**Chick Starter (0-8 weeks):** High protein, usually 18-22%, with zero added calcium. Medicated versions contain amprolium to prevent coccidiosis, a protozoan infection that kills young chicks. Non-medicated starter works fine if your chicks were vaccinated at the hatchery. Using medicated feed on vaccinated chicks won't hurt them, but it partially undermines the vaccine. If you ordered from a hatchery that vaccinates by default, ask before you buy medicated feed.
 
-**Grower or Developer Feed (8-18 weeks):** Protein drops slightly, around 16-18%, and calcium stays low. This is the "awkward teenager" phase of feed. Some keepers skip a dedicated grower and just extend starter, which works fine. Others use a "flock raiser" style feed through this phase and beyond.
+**Grower or Developer Feed (8-18 weeks):** Protein dips to around 16-18%, calcium stays low. This is the awkward teenager phase. Some keepers skip it and just extend starter, which works. Others use flock raiser style feed through this phase and beyond.
 
-**Layer Feed (18 weeks and up, or when laying begins):** This is what most backyard keepers are most familiar with. Protein is typically 16%, calcium jumps to 3.5-4%, and it's formulated to support ongoing egg production. Don't start layer feed too early. Pullets fed layer feed before they begin laying are getting calcium their kidneys aren't ready to handle.
+**Layer Feed (18 weeks and up, or when laying begins):** This is what most backyard keepers know best. Protein sits around 16%, calcium jumps to 3.5-4%, and it's built for ongoing egg production. Don't start layer feed too early. Pullets fed layer feed before they lay are getting calcium their kidneys can't process yet.
 
-**Flock Raiser or All-Flock Feed:** This is a 20% protein feed with moderate calcium, usually around 1%. It's designed to feed mixed flocks: roosters, hens of various ages, meat birds, ducks, and turkeys all at once. If you use flock raiser with laying hens, you'll need to offer oyster shell separately in a free-choice container so laying hens can self-regulate their calcium intake. Many keepers, myself included, find this system more flexible and less stressful than managing multiple feed types.
+**Flock Raiser or All-Flock Feed:** 20% protein with moderate calcium, usually around 1%. It's designed to feed mixed flocks: roosters, hens of various ages, meat birds, ducks, turkeys all in one go. Use flock raiser with laying hens, and you'll need to offer oyster shell separately in a free-choice container so they self-regulate calcium. I find this system more flexible and less stressful than juggling multiple feed types.
 
-**Meat Bird Feed / Broiler Finisher:** These are high-protein, high-calorie feeds for Cornish Cross or other fast-growing meat breeds. Protein often hits 22-24% in the starter phase and stays high throughout. The goal is maximum weight gain in 8-10 weeks, so the nutritional profile is quite different from laying bird feed. Don't use these on your backyard layers unless you want some very round chickens.
+**Meat Bird Feed / Broiler Finisher:** High protein, high calories, for Cornish Cross or similar fast-growing breeds. Protein often hits 22-24% in starter and stays high throughout. The goal is maximum weight gain in 8-10 weeks, so the nutritional profile looks nothing like laying bird feed. Don't use this on backyard layers unless you want some genuinely round chickens.
 
 ## Organic, Non-GMO, and Specialty Feed Options
 
-The organic and non-GMO chicken feed market has grown significantly in the last decade. Organic feeds must use ingredients grown without synthetic pesticides or fertilizers and can't contain GMOs. Non-GMO feeds skip genetically modified ingredients but may not meet the full USDA organic standard. These feeds typically cost 30-60% more than conventional options.
+Organic and non-GMO chicken feed has exploded in the last decade. Organic feeds use ingredients grown without synthetic pesticides or fertilizers and contain no GMOs. Non-GMO feeds skip genetically modified ingredients but may not meet the full USDA organic standard. Expect to pay 30-60% more than conventional.
 
-Whether that premium is worth it depends on your goals. Organic feed doesn't automatically produce more nutritious eggs, though there's some evidence that pasture-raised birds with varied diets produce eggs with better omega-3 profiles and higher vitamin D. If your flock free-ranges on healthy pasture, that probably matters more than whether their base feed is organic.
+Whether that premium makes sense depends on what you're after. Organic feed doesn't automatically produce more nutritious eggs, though some evidence suggests pasture-raised birds with varied diets produce eggs with better omega-3 profiles and higher vitamin D. If your flock free-ranges on solid pasture, that probably matters more than whether their base feed is certified organic.
 
-Some specialty feeds are worth mentioning. Fermented feed is a practice, not a product: you soak feed in water for 2-3 days to encourage beneficial bacteria growth. Fermented feed improves gut health, reduces feed waste by about 20%, and can boost egg production. It's cheap and effective. High-protein "molt support" feeds contain 18-20% protein and are designed to help hens recover faster during annual molts. You can also make your own using a standard layer feed with extra protein sources added.
+A few specialty feeds deserve attention. Fermented feed is a practice, not a product: you soak feed in water for 2-3 days to grow beneficial bacteria. It improves gut health, cuts feed waste by about 20%, and can boost egg production. It's cheap and actually works. High-protein molt support feeds run 18-20% protein and help hens recover faster during their annual molt. You can make your own with standard layer feed plus extra protein sources mixed in.
 
 ## Supplements, Treats, and What Not to Feed
 
-Oyster shell and grit are two separate supplements that get confused constantly. Oyster shell is calcium. Laying hens need it for shell formation, and it should always be available free-choice in a separate container. Don't mix it into the feed. Let hens self-regulate because some need more than others. Grit is small stone particles that sit in the gizzard and help grind up food. Chickens that free-range pick up grit naturally. Confined birds need it offered separately, especially if they're eating whole grains, scratch, or anything other than processed pellets.
+Oyster shell and grit confuse people constantly. Oyster shell is calcium. Laying hens need it for shell formation, and it should sit in a separate container available free-choice. Don't mix it into the feed. Let hens regulate their own intake because needs vary. Grit is small stone that sits in the gizzard and grinds up food. Free-ranging chickens pick up grit naturally. Confined birds need it offered separately, especially if they eat whole grains, scratch, or anything besides processed pellets.
 
-Scratch grains deserve a special note. Scratch is mostly cracked corn and grains, and it's essentially candy for chickens. It's low in protein, low in nutrients, and high in carbohydrates. Treats, including scratch, should make up no more than 10% of a chicken's daily diet. Overfeeding scratch is one of the fastest ways to dilute your flock's nutritional intake and watch egg production drop.
+Scratch grains are worth flagging. It's mostly cracked corn and grains, basically chicken candy. Low protein, low nutrients, high carbs. Treats, scratch included, should stay under 10% of a chicken's daily diet. Overfeeding scratch is one of the fastest ways to tank your flock's nutrition and watch egg production crater.
 
-Foods to avoid entirely: raw beans (contain hemagglutinin, which is toxic), avocado (persin is toxic to birds), very salty foods, moldy feed of any kind, and green potato skins (solanine). Citrus and onions are often cited as problematic, but the evidence is mixed. I'd skip them just to be safe.
+Avoid completely: raw beans (contain hemagglutinin, which is toxic), avocado (persin is toxic to birds), very salty foods, moldy feed, and green potato skins (solanine). Citrus and onions show up on a lot of "no" lists, but the evidence is sketchy. I'd skip them to be safe.
 
 ## Feed Storage and Quality Control
 
-Chicken feed goes stale, gets moldy, and attracts pests faster than most people expect. A 50-pound bag of feed should ideally be used within 6-8 weeks of milling, which is the date stamped on most bags. After that, vitamins begin to degrade. Heat and humidity accelerate this. In a hot, humid summer barn, a bag of feed can develop mold within two weeks if it's stored improperly.
+Chicken feed goes stale, moldy, and attracts pests faster than most people expect. A 50-pound bag should be used within 6-8 weeks of the milling date stamped on it. After that, vitamins start degrading. Heat and humidity make it worse. In a hot, humid summer barn, a bag can develop mold in two weeks with poor storage.
 
-Use airtight metal or heavy-duty plastic containers. Galvanized metal trash cans work well and are rodent-resistant. Plastic bins can work but rodents chew through them. Keep feed off the ground and away from walls. Check every bag when you open it: it should smell faintly sweet and grain-like. Off smells, clumping, or any visible mold mean the feed should be discarded. Feeding moldy grain can cause aspergillosis, a serious respiratory fungal infection with a high mortality rate.
+Use airtight metal or heavy-duty plastic containers. Galvanized trash cans work great and resist rodents. Plastic bins can work but rodents chew through them. Store feed off the ground and away from walls. Open every bag: it should smell faintly sweet and grain-like. Off smells, clumping, or visible mold means throw it out. Moldy grain causes aspergillosis, a serious respiratory fungal infection with a high mortality rate.
 
-Buy in quantities you can realistically use within 4-6 weeks. Buying in bulk saves money but only if you can actually maintain quality.
+Buy what you can realistically use in 4-6 weeks. Bulk buying saves money only if you can keep quality steady.
 
 ## Feed Amounts: How Much Do Chickens Actually Eat?
 
-A standard laying hen eats roughly a quarter pound of feed per day, about 1.5 cups of pellets. A flock of 6 hens will go through around 10-11 pounds of feed per week. That's a useful baseline, but it varies a lot based on season, breed size, and how much the birds free-range.
+A standard laying hen eats roughly a quarter pound of feed per day, about 1.5 cups of pellets. Six hens go through around 10-11 pounds per week. That's a useful baseline, but it swings based on season, breed size, and how much they free-range.
 
-In winter, birds eat more to maintain body heat, sometimes 20-30% more than in summer. In summer, heat suppresses appetite, so you might see feed consumption drop. Larger breeds like [Buff Orpingtons or Plymouth Rocks](/dual-purpose-chicken-breeds/) eat more than bantams or lighter Mediterranean breeds. Birds that free-range on good pasture supplement their diet enough to reduce feed consumption noticeably.
+Winter birds eat more to stay warm, sometimes 20-30% more than summer. Heat cuts appetite, so feed consumption drops when temps rise. Larger breeds like [Buff Orpingtons or Plymouth Rocks](/dual-purpose-chicken-breeds/) eat more than bantams or light Mediterranean breeds. Birds that free-range well supplement enough to noticeably reduce feed consumption.
 
-Most backyard keepers use a free-choice feeder, keeping it filled at all times. This works fine for layers. Meat birds and broilers should be managed differently since free-choice feeding of high-protein broiler feed can cause growth problems in some strains. A good [poultry feeder](https://www.amazon.com/s?k=chicken+feeder&tag=contentportfo-20) that reduces waste and keeps feed dry is one of the most practical investments you can make. Wet feed spoils quickly and wastes money fast.
+Most backyard keepers use free-choice feeders, keeping them filled. This works for layers. Meat birds and broilers need different management since free-choice feeding of high-protein broiler feed can cause growth problems in some strains. A good [poultry feeder](https://www.amazon.com/s?k=chicken+feeder&tag=contentportfo-20) that cuts waste and keeps feed dry is probably the most practical investment you'll make. Wet feed spoils fast and bleeds money.
 
 ---
 
@@ -98,9 +97,6 @@ Most backyard keepers use a free-choice feeder, keeping it filled at all times. 
 
 ---
 
-
----
-
-If you're just getting started with your flock, figuring out feed is one of the first real decisions you'll make. Get the life-stage match right, keep your feed fresh, don't overdo the scratch, and you're already ahead of a lot of people. Pair good feed management with solid [coop ventilation](/chicken-coop-ventilation/) and a smart setup from the beginning, and your birds will show you the results in their feathers, energy, and egg production. Feed is probably the most controllable variable you have. Use that to your advantage.
+Get the life-stage match right. Keep your feed fresh. Don't overdo the scratch. You're already ahead of most people. Pair solid feed management with good [coop ventilation](/chicken-coop-ventilation/) and a smart setup from the start, and your birds will show it. Better feathers, more energy, better egg production. Feed is probably the most controllable variable you have.
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

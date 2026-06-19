@@ -25,10 +25,7 @@ author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
 
 ---
-
 The first time I held a Buff Orpington pullet, I thought someone had handed me a loaf of warm bread. She was round, dense, impossibly soft, and completely unfazed by being picked up by a stranger. That calm temperament isn't an accident. It's been bred into this bird for over a century, and it's exactly why Orpingtons remain one of the most popular backyard breeds in the world despite never winning any egg-laying contests.
-
----
 
 ## What Makes an Orpington an Orpington
 
@@ -38,31 +35,25 @@ Today the Orpington comes in four recognized American Poultry Association colors
 
 The physical profile is distinctive. Orpingtons carry a massive amount of feathering on a medium-to-large body, which makes them look even bigger than they are. A standard hen typically weighs between 7 and 8 pounds. Roosters top out around 10 pounds. The feathers lay close and fluffy rather than sleek, and the bird carries itself upright with a curved back and full, round tail. The comb is a single comb, small to medium, and the face is red with reddish bay eyes. Everything about the silhouette says "substantial."
 
----
-
 ## Temperament and Flock Dynamics
 
-Let me be blunt about something: Orpingtons are not good defenders of themselves. They're gentle to a fault. In a mixed flock, that can be a real problem. I kept a trio of Buff Orpington hens with some Rhode Island Reds years ago, and the Reds bullied them relentlessly at the feeder. The Orpingtons lost weight before I caught on. Now I either keep them with other docile breeds like Cochins, Brahmas, or Sussex, or I make sure there are enough feeders spread around the coop and run that lower-ranking birds can eat without being harassed.
+Here's the hard truth: Orpingtons are terrible at defending themselves. They're gentle to a fault, and in a mixed flock, that becomes a real liability. I kept a trio of Buff Orpington hens with some Rhode Island Reds years ago, and the Reds bullied them relentlessly at the feeder. The Orpingtons lost weight before I caught on. Now I either keep them with other docile breeds like Cochins, Brahmas, or Sussex, or I make sure there are enough feeders spread around the coop and run that lower-ranking birds can eat without being harassed.
 
-That gentleness, though, is exactly what makes them spectacular with children and beginner keepers. They tolerate handling with a patience that most breeds simply don't have. I've watched kids as young as four carry Buff Orpington hens around a yard without the bird so much as squawking. They go broody regularly, and when they do, they're some of the most dedicated and gentle mothers you'll find. If you want a hen to hatch and raise chicks, an Orpington is a top-tier choice.
+That gentleness, though? It's what makes them spectacular with children and beginner keepers. They tolerate handling with a patience that most breeds simply don't have. I've watched kids as young as four carry Buff Orpington hens around a yard without the bird so much as squawking. They go broody regularly, and when they do, they're some of the most dedicated and gentle mothers you'll find. If you want a hen to hatch and raise chicks, an Orpington is a top-tier choice.
 
-Roosters tend to follow the breed's temperament. Most Orpington roosters I've met are calmer than, say, a production Rhode Island Red rooster. That said, a rooster is still a rooster. I've met friendly Orpington cockerels that turned aggressive at sexual maturity, so don't let the breed's reputation make you drop your guard entirely.
+Most Orpington roosters follow the breed's temperament. They're calmer than, say, a production Rhode Island Red rooster. That said, a rooster is still a rooster. I've met friendly Orpington cockerels that turned aggressive at sexual maturity, so don't let the breed's reputation make you drop your guard entirely.
 
 They're not particularly flighty. They rarely try to escape a fenced run, and they're content to free-range without wandering too far from home. That predictability makes daily management much less stressful.
 
----
-
 ## Egg Production: What to Realistically Expect
 
-Orpingtons are classified as dual-purpose birds, but let's be honest: if you're keeping them primarily for eggs, you're accepting a trade-off. A healthy Buff Orpington hen will lay somewhere between 150 and 200 large, light brown eggs per year. Compare that to a production Leghorn pushing 280 to 300 eggs annually, and you can see the gap clearly. 
+Orpingtons are classified as dual-purpose birds, but let's be honest: if you're keeping them primarily for eggs, you're accepting a trade-off. A healthy Buff Orpington hen will lay somewhere between 150 and 200 large, light brown eggs per year. Compare that to a production Leghorn pushing 280 to 300 eggs annually, and you can see the gap clearly.
 
-What Orpingtons do bring to the table is consistency in cold weather. Their heavy feathering insulates them beautifully, and many keepers report continued laying through winter months when thinner-feathered breeds slow down significantly. I've had Buff Orpington hens laying steadily in temperatures below 20°F while my Easter Eggers took the season off entirely.
+What Orpingtons bring to the table is consistency in cold weather. Their heavy feathering insulates them beautifully, and many keepers report continued laying through winter months when thinner-feathered breeds slow down significantly. I've had Buff Orpington hens laying steadily in temperatures below 20°F while my Easter Eggers took the season off entirely.
 
 The broodiness factor cuts both ways. An Orpington hen that goes broody stops laying for the duration of the brood, and it can take weeks for her to break. If you're tracking egg production closely, that's a hit you need to plan for. On the other hand, that broodiness is priceless if you want naturally hatched chicks.
 
 Pullets typically start laying around 19 to 24 weeks of age. That's later than high-production breeds that come online at 16 to 18 weeks, but it's not unusual for heavier breeds. Once they hit their stride in their first full laying year, production is steady and reliable.
-
----
 
 ## Care, Housing, and Feeding Requirements
 
@@ -70,13 +61,11 @@ Orpingtons don't need a fancy setup, but they do need enough space. Because of t
 
 Nesting boxes should be sized appropriately. Standard 12x12 inch boxes are fine for most chickens, but Orpingtons are big birds. A 14x14 inch box gives them room to turn around comfortably and encourages clean laying habits. I use washable nesting box pads to keep things tidy and reduce the chance of dirty eggs. [These nesting box pads on Amazon](https://www.amazon.com/s?k=chicken+nesting+box+pads) make cleanup fast, and your nest stays dry between full cleanings. (This site may earn a commission on qualifying purchases.)
 
-Roost bars should be lower than you might use for lighter breeds. Orpingtons are heavy and can injure their feet and legs jumping down from a high roost. I keep my roost bars no higher than 18 to 24 inches off the ground for big breeds. Bumblefoot, a staple infection in the foot pad, is more common in heavy birds that repeatedly land hard. Low roosts and good bedding go a long way toward prevention.
+Roost bars should be lower than you might use for lighter breeds. Orpingtons are heavy and can injure their feet and legs jumping down from a high roost. I keep my roost bars no higher than 18 to 24 inches off the ground for big breeds. Bumblefoot, a common infection in the foot pad, is more frequent in heavy birds that repeatedly land hard. Low roosts and good bedding go a long way toward prevention.
 
 Feeding is straightforward. A quality layer pellet with 16% protein covers the basics for laying hens. I supplement with oyster shell on the side and offer scratch grains as a cold-weather treat, not as a dietary staple. Too much scratch and too little protein leads to fat hens with thin-shelled eggs. If you're mixing flocks of different ages, an all-flock feed with separate calcium supplementation is more practical. [Manna Pro Layena Plus](https://www.amazon.com/s?k=manna+pro+layena+layer+pellets) is a reliable option I've used for years. (This site may earn a commission on qualifying purchases.)
 
 Water access is non-negotiable. Orpingtons' heavy feathering means you need to check that their face feathering isn't getting saturated and chilled around waterers in cold weather. A nipple waterer keeps things cleaner and drier than an open pan. [Horizontal nipple waterers](https://www.amazon.com/s?k=chicken+nipple+waterer) are my go-to for keeping bedding dry and water clean. (This site may earn a commission on qualifying purchases.)
-
----
 
 ## Step-by-Step: Setting Up for a New Orpington Flock
 
@@ -100,8 +89,6 @@ If you're adding Orpingtons to an existing flock, use a see-through divider for 
 **Step 6: Monitor weight and condition.**
 Weigh your hens a few times a year. A Buff Orpington hen creeping above 9 pounds is likely getting too little activity and too many treats. Trim back scratch grains and make sure the run encourages movement.
 
----
-
 ## Breed Comparison: Orpingtons vs. Common Alternatives
 
 | Feature | Buff Orpington | Barred Plymouth Rock | Australorp | Cochin |
@@ -114,10 +101,7 @@ Weigh your hens a few times a year. A Buff Orpington hen creeping above 9 pounds
 | Beginner friendly | Excellent | Excellent | Excellent | Good |
 | Dual-purpose | Yes | Yes | Lean | Yes |
 
-The Australorp is worth mentioning here because it's basically what you get if you want Orpington-adjacent temperament with significantly better egg production. Australorps were developed in Australia using Orpington stock, and the world record for hen-day egg production, 364 eggs in 365 days, belongs to an Australorp. If someone tells me they love everything about Orpingtons but wish for more eggs, I point them toward Australorps.
-
----
-
+The Australorp deserves a second look. It's basically what you get if you want Orpington-adjacent temperament with significantly better egg production. Australorps were developed in Australia using Orpington stock, and the world record for hen-day egg production, 364 eggs in 365 days, belongs to an Australorp. If someone tells me they love everything about Orpingtons but wish for more eggs, I point them toward Australorps.
 
 ---
 

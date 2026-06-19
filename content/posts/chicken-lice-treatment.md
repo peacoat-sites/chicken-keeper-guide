@@ -25,44 +25,43 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 
 ---
-
-If you picked up one of your hens this week and noticed tiny, fast-moving specks scrambling through the feathers near her vent, you're probably feeling a mix of panic and disgust right now. Take a breath. Lice on chickens are incredibly common, they don't infest humans, and with the right treatment you can clear them up within two to three weeks. What trips most people up isn't finding the lice, it's not understanding the lifecycle, skipping the second treatment, or using a product that simply doesn't work on the species they have. Let's fix all of that.
+If you picked up one of your hens this week and noticed tiny, fast-moving specks scrambling through the feathers near her vent, you're probably feeling a mix of panic and disgust. Take a breath. Lice on chickens are incredibly common, they don't infest humans, and with the right treatment you can clear them up within two to three weeks. What trips most people up isn't finding the lice, it's not understanding the lifecycle, skipping the second treatment, or using a product that simply doesn't work on the species they have.
 
 ---
 
 ## How to Actually Identify Chicken Lice (And Confirm That's What You're Dealing With)
 
-Chicken lice are chewing insects, not bloodsuckers like mites. They spend their entire life on the bird, feeding on dead skin cells, feather debris, and skin secretions. They don't survive long off the host, which is both good news and bad news. Good because your coop isn't likely to be a reservoir the way it would be with red mites. Bad because it means birds are constantly reinfesting each other through direct contact.
+Chicken lice are chewing insects, not bloodsuckers like mites. They spend their entire life on the bird, feeding on dead skin cells, feather debris, and skin secretions. They don't survive long off the host, which cuts both ways. Good news: your coop isn't likely to be a reservoir the way it would be with red mites. Bad news: birds are constantly reinfesting each other through direct contact.
 
-Here's what I tell people to look for: part the feathers around the vent, under the wings, and at the base of the neck. Chicken lice are pale yellow to tan, about 2 to 3 millimeters long, and they move fast. If you see something and it races away from the light, that's almost certainly lice. If it moves slowly or doesn't move at all, you might be looking at mites, dirt, or feather debris.
+Here's what to look for. Part the feathers around the vent, under the wings, and at the base of the neck. Chicken lice are pale yellow to tan, about 2 to 3 millimeters long, and they move fast, if you see something race away from the light, that's almost certainly lice. If it moves slowly or doesn't move at all, you're probably looking at mites, dirt, or feather debris.
 
-The other giveaway is eggs, called nits. Lice glue their egg clusters to the base of the feather shaft, usually in dense clumps of 50 to 300 eggs. The clusters are white to cream-colored and won't brush off easily. This is different from mites, which don't lay eggs on feathers.
+The other giveaway is eggs, called nits. Lice glue their egg clusters to the base of the feather shaft in dense clumps of 50 to 300 eggs. They're white to cream-colored and won't brush off. Mites don't lay eggs on feathers at all.
 
-The most common species you'll encounter in backyard flocks are the chicken body louse (*Menacanthus stramineus*), the shaft louse (*Menopon gallinae*), and the fluff louse (*Goniocotes gallinae*). Body lice are the most damaging and most frequently misidentified. If your hens are losing condition, dropping egg production, and scratching constantly, body lice are often the culprit even before you've spotted them.
+The most common species in backyard flocks are the chicken body louse (*Menacanthus stramineus*), the shaft louse (*Menopon gallinae*), and the fluff louse (*Goniocotes gallinae*). Body lice are the most damaging and most frequently misidentified. If your hens are losing condition, dropping egg production, and scratching constantly, body lice are often responsible even before you've spotted them.
 
 ---
 
 ## Why Your Chickens Got Lice (And Why It's Not Your Fault)
 
-New birds are the single biggest vector. I've brought in pullets from what looked like a clean, well-managed flock and had lice in my pen within two weeks. You can do everything right and still deal with this. That said, there are situations that make flocks more vulnerable.
+New birds are the single biggest vector. I've brought pullets from what looked like a clean, well-managed flock and had lice in my pen within two weeks. You can do everything right and still deal with this.
 
-Overcrowded coops accelerate spread because birds are in constant physical contact. Hens that can't dustbathe regularly lose one of their primary natural defenses. Wild birds, especially sparrows and starlings roosting near or inside your coop, can introduce lice. Even moving used equipment from one area to another can carry the occasional egg cluster.
+That said, some situations make flocks more vulnerable. Overcrowded coops accelerate spread because birds live in constant physical contact. Hens that can't dustbathe regularly lose one of their primary natural defenses. Wild birds, especially sparrows and starlings roosting near or inside your coop, can introduce lice. Even moving used equipment from one area to another can carry egg clusters.
 
-Poor nutrition doesn't cause lice, but it does make infestations worse. A hen who's already run down from a protein-deficient diet or a heavy laying schedule is going to show signs of lice damage much faster than a bird in peak condition. If you're seeing significant feather damage and skin irritation, I'd look hard at your feed quality alongside the treatment.
+Poor nutrition doesn't cause lice, but it makes infestations worse. A hen already run down from a protein-deficient diet or a heavy laying schedule will show signs of lice damage much faster than a bird in peak condition. If you're seeing significant feather damage and skin irritation, look hard at your feed quality alongside the treatment.
 
 ---
 
 ## Treating Chicken Lice: Your Real Options
 
-This is where I see the most confusion. The internet is full of advice ranging from good to genuinely useless, and people often waste time and money on things that don't work.
+This is where confusion explodes. The internet is full of advice ranging from good to genuinely useless, and people waste time and money on things that don't work.
 
-**Permethrin dust and sprays** are the workhorses of lice treatment for backyard flocks. A 0.25% permethrin poultry dust applied directly to the bird, focusing on the vent area, under the wings, the neck, and the back, works well. You can get a reliable permethrin poultry dust on Amazon (our site may earn a commission on purchases). Pyrethrin-based products also work but tend to have shorter residual activity.
+**Permethrin dust and sprays** are the workhorses. A 0.25% permethrin poultry dust applied directly to the bird, focusing on the vent area, under the wings, the neck, and the back, works well. You can get reliable permethrin poultry dust on Amazon (our site may earn a commission on purchases). Pyrethrin-based products also work but have shorter residual activity.
 
-**Spinosad** is another excellent option, especially if you want something with organic approval. It's available in liquid form and some premixed sprays. It works through contact and ingestion and has a good safety profile for birds.
+**Spinosad** is another excellent option, especially if you want something with organic approval. It's available in liquid form and some premixed sprays, works through contact and ingestion, and has a good safety profile for birds.
 
-**Ivermectin** is controversial for layers because it's not approved for use in laying hens in the United States, and there's no established withdrawal period for eggs. I mention it because you'll see it recommended constantly online. Use it if you want, but understand the regulatory situation.
+**Ivermectin** is controversial for layers because it's not approved for use in laying hens in the United States, and there's no established withdrawal period for eggs. You'll see it recommended constantly online. Use it if you want, but understand the regulatory situation.
 
-**Diatomaceous earth** is not a reliable treatment for active lice infestations. It works as a mild deterrent in dustbathing areas and can help reduce populations over time, but if you have a confirmed infestation, DE alone will leave your birds suffering for months.
+**Diatomaceous earth** is not reliable for active lice infestations. It works as a mild deterrent in dustbathing areas and can help reduce populations over time, but if you have confirmed lice, DE alone will leave your birds suffering for months.
 
 ### Step-by-Step Treatment Protocol
 
@@ -73,7 +72,7 @@ This is where I see the most confusion. The internet is full of advice ranging f
 - Clean out the coop completely. Remove all litter, scrub surfaces, and let everything dry before adding fresh bedding.
 
 **Day 7:**
-- Check all birds again. Lice numbers should be dropping but you'll likely still see some activity.
+- Check all birds again. Lice numbers should be dropping but you'll likely still see activity.
 - Retreat if you see live lice or if egg clusters are still present.
 
 **Day 14:**
@@ -81,19 +80,19 @@ This is where I see the most confusion. The internet is full of advice ranging f
 - Examine every bird again after treatment.
 
 **Day 21:**
-- Final check. If you're still seeing live lice at this point, something is being missed. Either you have a bird you can't catch, wild bird exposure is continuing, or you need to switch products.
+- Final check. If you're still seeing live lice, something is being missed. Either you have a bird you can't catch, wild bird exposure is continuing, or you need to switch products.
 
 ---
 
 ## Treating the Coop and Environment
 
-Because lice spend their lives on birds rather than in the environment, coop treatment is less critical than it is for red mites. But it's not something to skip entirely.
+Because lice spend their lives on birds rather than in the environment, coop treatment is less critical than with red mites. But don't skip it.
 
-Lice can survive 24 to 48 hours off a host, and eggs on feather debris in the coop can hatch and reinfest birds quickly. When you clean the coop during treatment, remove and dispose of all bedding. Don't compost it and put it directly back in the run. Spraying the coop interior walls, roost bars, and nesting boxes with a diluted permethrin solution after cleaning adds a layer of protection.
+Lice can survive 24 to 48 hours off a host, and eggs on feather debris in the coop can hatch and reinfest birds quickly. When you clean the coop during treatment, remove and dispose of all bedding. Don't compost it and put it directly back in the run. Spraying the coop interior walls, roost bars, and nesting boxes with a diluted permethrin solution after cleaning adds protection.
 
 Nesting box pads are worth replacing at treatment time. Fresh pads reduce the debris lice can hide in. I like [liner-style nesting pads on Amazon](https://www.amazon.com) that can be swapped out easily (our site may earn a commission).
 
-Providing a good dustbathing area year-round is your best long-term prevention. A box or pit filled with dry dirt or a mixture of sand and wood ash gives hens what they need to keep parasite populations down naturally. Some people add food-grade diatomaceous earth to the dustbath mix as a maintenance measure.
+A good dustbathing area is your best long-term prevention. A box or pit filled with dry dirt or a mixture of sand and wood ash gives hens what they need to keep parasite populations down naturally. Some people add food-grade diatomaceous earth to the dustbath mix as a maintenance measure.
 
 ---
 
@@ -119,11 +118,8 @@ Check your birds monthly during coop cleanings. It takes 30 seconds to flip a he
 
 Quarantine new birds for at least 30 days before adding them to your flock, and examine them closely during that window. Even if you don't see lice on arrival day, some may be present at very low levels. A 30-day quarantine gives enough time for a small population to become visible.
 
-I also recommend keeping a small supply of permethrin dust on hand year-round. [Durvet Permethrin Dust](https://www.amazon.com) is one option I've used consistently (our site may earn a commission). Finding lice on a Sunday evening is a lot less stressful when you already have what you need in the barn.
+Keep a small supply of permethrin dust on hand year-round. [Durvet Permethrin Dust](https://www.amazon.com) is one option I've used consistently (our site may earn a commission). Finding lice on a Sunday evening is a lot less stressful when you already have what you need in the barn.
 
 ---
 
-
----
-
-Dealing with lice is one of those unavoidable realities of keeping chickens, and once you've been through it once with a clear protocol in hand, it stops being scary. The birds who matter most to you are resilient, and a well-executed two-week treatment will get your flock back to comfortable, productive, and healthy. You've got this.
+Dealing with lice is one of those unavoidable realities of keeping chickens. Once you've been through it once with a clear protocol, it stops being scary. The birds who matter most to you are resilient, and a well-executed two-week treatment will get your flock back to comfortable, productive, and healthy.

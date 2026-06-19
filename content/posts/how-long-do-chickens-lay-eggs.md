@@ -25,12 +25,11 @@ author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
 
 ---
-
 A hen that laid an egg every single day for her first two years can suddenly drop to just a handful of eggs per month, and many backyard flock owners are completely blindsided when it happens. Understanding *why* that shift occurs, and how long you can realistically expect your hens to produce, saves you from frustration, helps you plan your flock rotation, and honestly makes you a better chicken keeper overall.
 
 ## The Egg-Laying Lifespan: What to Realistically Expect
 
-Chickens don't lay eggs forever, and the decline isn't a straight line. A hen is born with every egg follicle she'll ever have, roughly 2,000 potential eggs packed into her ovaries from day one. That's the ceiling. She'll never produce more than that number, and most hens never get anywhere close to it.
+Chickens don't lay eggs forever. A hen is born with every egg follicle she'll ever have, roughly 2,000 potential eggs packed into her ovaries from day one. That's the ceiling. She'll never produce more than that number, and most hens never get anywhere close to it.
 
 Here's how the typical laying lifespan breaks down:
 
@@ -53,13 +52,13 @@ If you're choosing breeds with longevity in mind, check out our guide to the [be
 The drop-off isn't random. Several specific factors trigger reduced production or cause it to stop altogether.
 
 **Molting**
-Every fall, hens go through a molt: they shed their old feathers and grow new ones. The process takes 8 to 16 weeks, and during that time most hens stop laying entirely. The body redirects protein from egg production to feather regrowth. This is normal, not a problem. Once the molt is done and day length stabilizes, laying resumes.
+Every fall, hens go through a molt: they shed their old feathers and grow new ones. The process takes 8 to 16 weeks, and during that time most hens stop laying entirely. The body redirects protein from egg production to feather regrowth. Once the molt is done and day length stabilizes, laying resumes.
 
 **Shortened Daylight**
 Hens need 14 to 16 hours of light per day to maintain peak laying. As days shorten in fall and winter, the pineal gland registers fewer light hours and signals the reproductive system to slow down. This is why production tanks in November and picks back up in February or March, often with no other changes to management. Many keepers add a simple 40-watt bulb on a timer in the coop to maintain artificial day length through winter.
 
 **Age and Depleted Follicles**
-As mentioned, hens are born with a finite number of egg follicles. High-production commercial hybrids burn through follicles faster because they're engineered to lay almost every day. Heritage breeds lay less frequently, which means their follicle supply lasts longer. This is one reason a Dominique or a Buckeye might still give you occasional eggs at age six, while a production Red might be done by four.
+High-production commercial hybrids burn through follicles faster because they're engineered to lay almost every day. Heritage breeds lay less frequently, which means their follicle supply lasts longer. This is one reason a Dominique or a Buckeye might still give you occasional eggs at age six, while a production Red might be done by four.
 
 **Stress**
 A hen under stress stops laying. Heat above 95 degrees Fahrenheit, a predator attack, a sudden change in flock dynamics, overcrowding, or a disruption in routine can all tank production. I've seen a flock drop to almost nothing for two weeks after a raccoon got into the coop at night, even though no birds were physically harmed. The fear alone was enough.
@@ -76,7 +75,7 @@ Not all hens are built the same. Production breeds like Leghorns, Golden Comets,
 
 Heritage breeds, dual-purpose birds, and some of the calmer docile breeds lay fewer eggs per year but distribute that output over more years. A Plymouth Rock, for example, might average 200 eggs per year but hold around 150 eggs per year through age five. Compared to a production hybrid that gave you 300 in year one and 80 in year four, the Rock's consistency has real value.
 
-Here's a quick comparison of common breeds and their realistic laying windows:
+Here's how common breeds stack up:
 
 | Breed | Year 1 Avg (eggs/yr) | Year 3 Avg (eggs/yr) | Productive Years |
 |---|---|---|---|
@@ -92,7 +91,7 @@ If you're still picking your starting flock, our [best chicken breeds for beginn
 
 ## How to Maximize the Productive Years Your Hens Have
 
-You can't stop the biological clock, but you can absolutely extend how long your hens lay at a decent rate. Here's a practical list of what actually moves the needle:
+You can't stop the biological clock, but you can absolutely extend how long your hens lay at a decent rate. Here's what actually moves the needle:
 
 **1. Feed layer pellets as the base diet (not scratch)**
 Layer feed should make up at least 80 to 90 percent of your hens' diet. Scratch is a treat, not a staple. Offer a separate dish of oyster shell free-choice so laying hens can regulate their own calcium intake.
@@ -130,9 +129,6 @@ Signs that something else might be going on:
 - Other flock members showing similar symptoms at the same time
 
 If you're seeing the second set of signs, don't just wait it out. A quick vet visit or at minimum a call to a poultry extension line is the right move.
-
----
-
 
 ---
 

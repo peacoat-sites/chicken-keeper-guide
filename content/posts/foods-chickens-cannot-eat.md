@@ -25,40 +25,39 @@ author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
 
 ---
-
-Imagine you're cleaning out the kitchen, you spot a bowl of leftover guacamole, and you think, "Hey, the chickens will love this." It seems harmless enough. But that guacamole contains avocado, and avocado contains a fungicidal toxin called persin that can cause respiratory distress, weakness, and heart failure in chickens, sometimes within 24 to 48 hours. Every year, well-meaning flock keepers accidentally harm their birds with "healthy" scraps from the kitchen. Knowing exactly what to keep out of the feed dish isn't just good practice. It can save lives.
+You're standing at the kitchen counter with leftover guacamole in one hand and the chicken run in sight. Perfect snack for the flock, right? Wrong. That avocado contains persin, a fungicidal toxin that can stop a chicken's heart within 24 to 48 hours. Every year, well-meaning keepers accidentally poison their birds with scraps they thought were safe. The good news: it's completely preventable if you know what actually belongs in the feed dish.
 
 ## The Toxic Foods That Can Kill Chickens
 
-Some foods don't just cause an upset stomach. They can seriously injure or kill a chicken, and the effects can come on fast. Here's what you need to know about the genuinely dangerous stuff.
+Some foods don't just upset the stomach. They kill fast, and the margin for error is basically zero.
 
-**Avocado** is one of the most important to avoid entirely. The flesh, skin, and pit all contain persin. There's no safe portion size here. Even small amounts can cause labored breathing, weakness, and sudden death.
+**Avocado** is non-negotiable. The flesh, skin, and pit all contain persin. There's no safe amount. Even a small piece can trigger labored breathing, weakness, and sudden death.
 
-**Nightshade family plants** are another major hazard. This includes green tomatoes, tomato leaves, potato leaves, ripe and unripe eggplant leaves, and all parts of the belladonna plant. Ripe red tomatoes are fine in moderation, but the green parts and unripe fruit contain solanine, which causes digestive upset, tremors, and can be fatal in large enough doses. If your chickens free range near a vegetable garden, this is something you need to actively manage.
+**Nightshade plants** are another major threat. Green tomatoes, tomato leaves, potato leaves, eggplant leaves (ripe or not), and belladonna all contain solanine. Ripe red tomatoes are fine in moderation, but anything green or unripe is dangerous. If your chickens free range near a vegetable garden, you need to actively manage this.
 
-**Raw dried beans** deserve special attention because so many people don't realize the danger. Uncooked kidney beans, in particular, contain phytohaemagglutinin (PHA), a lectin that is extraordinarily toxic to chickens. As few as three or four raw kidney beans have been documented killing an adult chicken. Even soaking doesn't fully neutralize PHA. The beans must be fully cooked at a rolling boil for at least 10 minutes to destroy the compound. Canned beans are safe because they've been heat-processed.
+**Raw dried beans**, especially kidney beans, are deceptively deadly. They contain phytohaemagglutinin (PHA), a lectin so toxic to chickens that three or four raw kidney beans have been documented killing an adult bird. Soaking doesn't neutralize it. You need a rolling boil for at least 10 minutes to destroy the compound. Canned beans are safe because they've already been heat-processed.
 
-**Rhubarb** contains oxalic acid, especially in the leaves. It can cause kidney failure in birds. Some keepers report hens occasionally pecking at rhubarb without immediate issues, but that's not a reason to test it. The leaves are definitively toxic.
+**Rhubarb leaves** contain oxalic acid that can trigger kidney failure. Some keepers report their hens have pecked at rhubarb without immediate problems, but that's not permission to test it. The leaves are definitively toxic.
 
-**Chocolate and caffeine** contain theobromine and methylxanthines respectively, both of which disrupt a bird's heart rate and can cause seizures. Dark chocolate is especially dangerous. The dose matters here, but there's genuinely no reason to ever give a chicken chocolate or coffee grounds.
+**Chocolate and caffeine** contain theobromine and methylxanthines, both of which disrupt heart rate and can cause seizures. Dark chocolate is especially dangerous. Honestly, there's no reason to ever give a chicken chocolate or used coffee grounds.
 
 ## Foods That Cause Problems Without Being Immediately Fatal
 
-This category doesn't get as much attention, but it matters. Some foods won't kill a chicken outright, but they'll cause chronic health problems, drop egg production, taint the flavor of eggs, or create long-term organ damage.
+This category gets less attention but it matters just as much. Some foods won't kill a chicken outright, but they'll cause chronic health problems, tank egg production, taint the taste of eggs, or create long-term organ damage.
 
-**Onions, garlic, and chives** (in large quantities) contain thiosulfate, which damages red blood cells and can cause hemolytic anemia over time. Small amounts, especially cooked, are generally tolerated. But chickens that regularly receive large quantities of onion scraps can develop pale combs, lethargy, and reduced laying. There's also strong evidence that too much garlic can give eggs an off-flavor. Use it sparingly if at all.
+**Onions, garlic, and chives** in large quantities contain thiosulfate, which damages red blood cells and causes hemolytic anemia over time. Small amounts, especially cooked, are usually tolerated. But chickens that regularly get large quantities of onion scraps develop pale combs, lethargy, and reduced laying. There's also solid evidence that too much garlic can make eggs taste off. Use it sparingly or skip it.
 
-**Salty foods** are a real problem that often gets overlooked. Chickens have very low sodium tolerance compared to mammals. A few pretzels might seem harmless, but a diet high in salt causes excessive thirst, diarrhea, wet droppings, and in severe cases, kidney damage and death. Don't give your flock processed snacks, chips, salted crackers, or anything with visible salt.
+**Salty foods** are a real problem that often gets overlooked. Chickens have very low sodium tolerance. A few pretzels might seem harmless, but a diet high in salt causes excessive thirst, diarrhea, and in severe cases, kidney damage. Don't give your flock processed snacks, chips, or anything with visible salt.
 
-**Moldy or spoiled food** of any kind is a no. Mold produces mycotoxins, compounds that attack the liver, suppress immunity, and cause neurological damage. This applies to moldy bread, old scratch grain that got wet, or any produce that's started to rot. The rule is simple: if you wouldn't eat it yourself, don't throw it to the chickens. When in doubt, compost it elsewhere.
+**Moldy or spoiled food** of any kind is out. Mold produces mycotoxins that attack the liver, suppress immunity, and damage the nervous system. This applies to moldy bread, old scratch grain that got wet, or any produce that's rotting. Simple rule: if you wouldn't eat it, don't feed it to your chickens. Compost it elsewhere.
 
-**Raw eggs** might seem ironic given what chickens produce, but feeding raw eggs to hens can teach them to associate eggs with food, which leads to egg-eating behavior in the nest box. Hard-boiled eggs are a different story and are actually a great protein-rich treat.
+**Raw eggs** seem ironic given what chickens produce, but feeding them raw eggs teaches hens to associate eggs with food. That leads straight to egg-eating in the nest box. Hard-boiled eggs are different and actually make a great protein-rich treat.
 
-**Citrus fruits** are debated. They won't cause acute toxicity, but citrus is high in Vitamin C (which chickens produce on their own) and contains compounds that can interfere with calcium absorption and potentially disrupt the laying cycle. Many keepers avoid it out of caution, especially during peak laying season.
+**Citrus fruits** are debated among keepers. They won't cause acute toxicity, but citrus is high in Vitamin C (chickens make their own) and contains compounds that can interfere with calcium absorption and potentially disrupt laying. Many keepers avoid it during peak laying season out of caution.
 
 ## A Quick Reference: Safe vs. Unsafe Foods
 
-This comparison gives you a fast at-a-glance guide for the scraps most likely to cross your path.
+This comparison gives you a fast at-a-glance guide for the scraps most likely to end up in your coop.
 
 | Food | Safe for Chickens? | Notes |
 |---|---|---|
@@ -81,11 +80,11 @@ This comparison gives you a fast at-a-glance guide for the scraps most likely to
 | Corn | Yes | Good scratch ingredient in moderation |
 | Dried mealworms | Yes | High protein treat |
 
-One note on apple seeds: the seeds contain amygdalin, which breaks down into cyanide. A few seeds probably won't hurt an adult bird, but it's easy enough to just core the apple and avoid the issue entirely.
+Apple seeds contain amygdalin, which breaks down into cyanide. A few seeds probably won't hurt an adult bird, but it's easy enough to just core the apple and skip the risk.
 
 ## How to Safely Give Kitchen Scraps to Your Flock
 
-Giving scraps is one of the joys of keeping chickens, and there's plenty you can share safely. You just need a system.
+Giving scraps is one of the best parts of keeping chickens, and there's plenty you can share safely. You just need a system.
 
 1. **Check the list before you toss.** Keep a short list of dangerous foods posted near your kitchen compost bin. Avocado, raw beans, chocolate, onions in large amounts, rhubarb, and moldy anything. That covers 90% of accidental poisonings.
 
@@ -95,25 +94,22 @@ Giving scraps is one of the joys of keeping chickens, and there's plenty you can
 
 4. **Remove uneaten scraps within a few hours.** Food left in the run ferments and attracts rodents, flies, and other pests. It also grows mold quickly in warm weather. Offer small amounts and remove the rest before nightfall.
 
-5. **Avoid processed or heavily seasoned foods.** Plain cooked pasta, plain rice, steamed vegetables. The simpler the better. Spices, sauces, butter, and heavy seasoning can all cause digestive issues and aren't appropriate for birds.
+5. **Avoid processed or heavily seasoned foods.** Plain cooked pasta, plain rice, steamed vegetables. The simpler the better. Spices, sauces, butter, and heavy seasoning can all cause digestive issues.
 
-6. **Watch for reactions.** If you've introduced a new scrap food and you notice lethargy, loose droppings, reduced appetite, or neurological symptoms like head shaking or loss of balance, remove that food immediately and contact a poultry vet. Time matters.
+6. **Watch for reactions.** If you've introduced a new scrap and notice lethargy, loose droppings, reduced appetite, or neurological symptoms like head shaking or loss of balance, remove that food immediately and contact a poultry vet. Time matters.
 
 ## What Happens in the Coop and Run Also Matters
 
 Food safety isn't just about what you intentionally offer. Your chickens are omnivores with curious beaks, and they'll peck at things you never intended them to eat.
 
-If your coop is next to a garden, check what's planted near the fence line. Many ornamental plants are toxic: foxglove, oleander, hemlock, yew, azalea, and rhododendron can all cause serious problems if your flock accesses them while free ranging. I've seen keepers with gorgeous flower gardens lose birds because a determined hen worked her way through a gap in the fence. Good [chicken coop predator protection](/chicken-coop-predator-protection/) also means keeping chickens contained away from hazardous plants.
+If your coop is next to a garden, check what's planted near the fence line. Many ornamental plants are toxic: foxglove, oleander, hemlock, yew, azalea, and rhododendron can all cause serious problems if your flock gets to them while free ranging. I've seen keepers with beautiful flower gardens lose birds because a determined hen worked her way through a gap in the fence. Good [chicken coop predator protection](/chicken-coop-predator-protection/) also means keeping chickens contained away from hazardous plants.
 
-Bedding materials can also be a source of mold. Wet or compacted bedding in the coop grows mold colonies that chickens will peck at. Review your bedding routine and consider whether your current material is working. There are good breakdowns of the options available in our article on [chicken coop bedding options](/chicken-coop-bedding-options/).
+Bedding materials can also be a source of mold. Wet or compacted bedding grows mold colonies that chickens will peck at. Check your bedding routine and consider whether your current material is working. Our article on [chicken coop bedding options](/chicken-coop-bedding-options/) breaks down the options available.
 
-Standing water in feeders and waterers can grow algae and bacteria that affect the digestive system. A good [poultry waterer with a nipple system](https://www.amazon.com/s?k=chicken+nipple+waterer&tag=contentportfo-20) keeps water cleaner and reduces contamination. It's a simple upgrade that makes a real difference.
-
----
-
+Standing water in feeders and waterers grows algae and bacteria that affect the digestive system. A good [poultry waterer with a nipple system](https://www.amazon.com/s?k=chicken+nipple+waterer&tag=contentportfo-20) keeps water cleaner and reduces contamination. It's a simple upgrade that makes a real difference.
 
 ---
 
-Feeding chickens well doesn't require a chemistry degree, but it does require a bit of ongoing attention. The most common dangerous mistakes come from assuming that what's healthy for humans is healthy for birds, or from not checking before tossing kitchen scraps into the run. Build the habit of a quick mental check before offering anything new, keep the coop environment clean, and stick to a quality feed as the foundation. Your flock will reward you with better health, better eggs, and a lot fewer vet calls.
+Feeding chickens well doesn't require a chemistry degree. It requires a quick mental check before offering anything new. Build the habit, keep the coop clean, stick to a quality feed as your foundation, and your flock will reward you with better health, better eggs, and a lot fewer vet calls.
 
 *Photo: [Emma Cate](https://www.pexels.com/@emmacate) via Pexels*

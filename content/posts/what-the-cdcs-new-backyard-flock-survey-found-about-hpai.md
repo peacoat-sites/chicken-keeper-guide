@@ -13,28 +13,29 @@ author_bio: "Mike Carter has built custom chicken coops for hundreds of clients 
 slug: "what-the-cdcs-new-backyard-flock-survey-found-about-hpai"
 affiliate_disclosure: false
 ---
+If you've got a backyard flock right now, you might be wondering whether all the HPAI news is something you actually need to pay attention to or just background noise from the commercial poultry industry. I get it. Most of us got into backyard chickens specifically because we wanted something small, personal, and manageable. But a CDC survey published in MMWR on May 14, 2026 is worth sitting with, because what it found is a genuine gap between how aware backyard flock owners think they are and how prepared they actually are.
 
-If you've got a backyard flock right now, you might be wondering whether all the HPAI news is something you actually need to pay attention to or just background noise from the commercial poultry industry. I get it. Most of us got into backyard chickens specifically because we wanted something small, personal, and manageable. But a CDC survey published in MMWR on May 14, 2026 is worth sitting with, because what it found is a genuine gap between how aware backyard flock owners think they are and how prepared they actually are. The numbers matter. As HPAI continues rolling through flocks across the U.S. this spring, and with two of the three fatal human H5N1 cases since March 2024 tied directly to backyard flock exposure, this is the summer to close that gap.
+The numbers matter. As HPAI continues rolling through flocks across the U.S. this spring, and with two of the three fatal human H5N1 cases since March 2024 tied directly to backyard flock exposure, this is the summer to close that gap.
 
 ## What the Survey Actually Found
 
 The CDC surveyed 638 backyard flock owners across 48 states between July and December 2025. Almost everyone, 94%, had heard of avian influenza. That sounds reassuring until you look at the next number: only 32% could correctly identify *all* the signs of HPAI in birds. That's fewer than one in three.
 
-Here's what I tell people when those numbers land: knowing a disease exists is not the same as knowing what it looks like on a Tuesday morning when you're doing your walk-through. Nearly half of respondents knew sudden death was a sign, which is the most dramatic indicator, but missed things like reduced egg production, difficulty breathing, and neurological symptoms. Thirteen percent said they didn't know any signs at all. Those are the people most likely to lose an entire flock before they realize something is wrong, and most likely to handle sick or dead birds without taking any precautions.
+Here's what lands when those numbers hit: knowing a disease exists isn't the same as knowing what it looks like on a Tuesday morning when you're doing your walk-through. Nearly half of respondents knew sudden death was a sign, which is the most dramatic indicator. But they missed things like reduced egg production, difficulty breathing, and neurological symptoms. Thirteen percent said they didn't know any signs at all. Those are the people most likely to lose an entire flock before they realize something's wrong, and most likely to handle sick or dead birds without taking any precautions.
 
-The CIDRAP reporting on this survey from May 15, 2026 put it plainly: if you can't recognize the early signs, you can't report early. And early reporting is how you protect your remaining birds, your neighbors' flocks, and frankly yourself.
+The CIDRAP reporting on this survey from May 15, 2026 put it plainly: if you can't recognize the early signs, you can't report early. Early reporting is how you protect your remaining birds, your neighbors' flocks, and frankly yourself.
 
 ## The Signs You Need to Know Cold
 
-Let me be specific, because vague awareness doesn't help you in the moment. HPAI in backyard chickens can look like several things happening at once or in quick succession. Sudden death with no prior symptoms is the one most people know. But the signs that precede it, or that appear in the birds that haven't died yet, include:
+Let me be specific, because vague awareness doesn't help you in the moment. HPAI in backyard chickens can look like several things happening at once or in quick succession:
 
-Labored or open-mouth breathing. Discharge from the eyes or nostrils. Swelling around the head, neck, or eyes. Combs and wattles turning dark purple or blue. Birds standing hunched, unresponsive, or stumbling. A sharp drop in egg production, sometimes overnight. Eggs that are soft-shelled or misshapen.
+Sudden death with no prior symptoms is the one most people know. But the signs that precede it, or show up in the birds that haven't died yet, include labored or open-mouth breathing, discharge from the eyes or nostrils, swelling around the head or neck or eyes, combs and wattles turning dark purple or blue, birds standing hunched and unresponsive or stumbling, a sharp drop in egg production (sometimes overnight), and eggs that are soft-shelled or misshapen.
 
 Any one of these alone might have another explanation. Multiple signs together, especially alongside sudden deaths, should send you straight to your state veterinarian or the USDA's reporting line, not to Google. The CDC researchers were direct: education of backyard flock owners regarding signs and symptoms of avian influenza can help flock owners keep their flocks, themselves, and their families healthy. That's not boilerplate. Two people are dead.
 
 ## The Wild Bird Problem Nobody Has Solved
 
-Fifty-four percent of survey respondents said wild birds could access their flock or its food and water. I'll be honest: I've been in that category at various points in my keeping life, and it's genuinely hard to prevent in certain yard setups. But that number is alarming given where we are right now with HPAI.
+Fifty-four percent of survey respondents said wild birds could access their flock or its food and water. I've been in that category at various points in my keeping life, and it's genuinely hard to prevent in certain yard setups. But that number is alarming given where we are right now with HPAI.
 
 Iowa recorded its fifth and sixth backyard flock HPAI detections of 2026 by early April, according to Sentient Media's March 2026 coverage of the ongoing spring migration risk. Wisconsin saw over 4 million birds affected across commercial and backyard flocks in a single 30-day period. Wild waterfowl are the primary reservoir for H5N1, and spring migration is still moving birds north through the Midwest and Great Plains. If your feeders, waterers, or ranging area are accessible to wild birds right now, that's the most direct risk factor you can actually control.
 
@@ -44,7 +45,7 @@ Practical steps that don't require a full coop rebuild: move feeders and waterer
 
 Seventy-one percent of survey respondents said they had no veterinarian to consult about their flock. This is one of the structural problems with backyard poultry keeping in the U.S. that doesn't get talked about enough. Poultry-savvy vets are scarce. Most small animal practices won't see chickens, and the ones that will often have limited diagnostic capability for respiratory diseases.
 
-You might be wondering what you're supposed to do about that. Here's what I tell people: start with your state's department of agriculture, not a private vet. Every state has an animal health division with poultry contacts, and most have free or low-cost testing for suspected HPAI cases. The USDA APHIS also operates a wildlife hotline specifically for reporting sick or dead wild birds. These are public infrastructure resources that exist precisely because private vet access is so uneven, and most backyard keepers have never used them or don't know they exist.
+You might be wondering what you're supposed to do about that. Start with your state's department of agriculture, not a private vet. Every state has an animal health division with poultry contacts, and most have free or low-cost testing for suspected HPAI cases. The USDA APHIS also operates a wildlife hotline specifically for reporting sick or dead wild birds. These are public infrastructure resources that exist precisely because private vet access is so uneven, and most backyard keepers have never used them or don't know they exist.
 
 Find your state's reporting contact now, before you need it. Write it on a sticky note inside the coop door. The middle of a disease event is not when you want to be searching.
 
@@ -52,7 +53,7 @@ Find your state's reporting contact now, before you need it. Write it on a stick
 
 The human risk from backyard flocks is real but manageable with consistent habits. The three H5N1 cases in backyard flock owners since March 2024 appear to have involved direct, unprotected exposure to sick or dead birds. You don't need to live in fear of your chickens. You need to handle sick or dead birds with gloves and eye protection, wash your hands and change clothes after handling a bird you're concerned about, and never let children handle dead birds or birds showing symptoms.
 
-H5N1 does not spread easily from birds to people, and there's currently no evidence of sustained human-to-human transmission. But two deaths is two deaths, and both of those people were doing something most backyard keepers do without thinking: dealing with a sick or dead bird without full precautions.
+H5N1 doesn't spread easily from birds to people, and there's currently no evidence of sustained human-to-human transmission. But two deaths is two deaths, and both of those people were doing something most backyard keepers do without thinking: dealing with a sick or dead bird without full precautions.
 
 The good news, if there is any, is that the CDC survey exists and was published. That means the agencies tracking this are paying attention to backyard flocks specifically, not just commercial operations. The knowledge gap is documented. Now it just needs to close.
 

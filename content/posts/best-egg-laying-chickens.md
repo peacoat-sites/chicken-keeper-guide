@@ -25,8 +25,7 @@ author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
 
 ---
-
-If you've ever stood in front of a feed store bin of chicks, heart rate climbing, trying to remember which breed your neighbor swore by, you know the feeling. Six breeds stare up at you, all fluffy and identical in their peeping chaos, and you need to make a decision that will shape your next five years of egg production. Getting it wrong doesn't ruin your life, but getting it right means pulling a dozen eggs from the nest box every single morning without fail. That difference is real, and it starts with breed selection.
+If you've ever stood in front of a feed store bin of chicks, heart rate climbing, trying to remember which breed your neighbor swore by, you know the feeling. Six breeds stare up at you, all fluffy and identical in their peeping chaos, and you need to make a decision that'll shape your next five years of egg production. Getting it wrong doesn't ruin your life, but getting it right means pulling a dozen eggs from the nest box every single morning without fail. That difference is real, and it starts with breed selection.
 
 ## What "Best Layer" Actually Means (And Why It's Not One Size Fits All)
 
@@ -41,21 +40,27 @@ I keep chickens in the Pacific Northwest where we get cold, wet winters with sho
 Here are the breeds I've kept, observed, or both, that genuinely deliver on egg production.
 
 **ISA Brown (and other Production Red Sex-Links)**
+
 These are the workhorses of the backyard flock. ISA Browns, Red Stars, Golden Comets, they're all commercial-style sex-link hybrids bred specifically to pump out eggs. Expect 300 to 320 eggs per year in year one. The catch: they burn bright and burn fast. By year three, many keepers notice significant production drops, and these hens are more prone to reproductive issues like internal laying and egg yolk peritonitis as they age. If you want maximum eggs for two to three years, these are your birds. Just go in with realistic expectations about their long-term health.
 
 **Leghorn**
+
 The White Leghorn is the gold standard of egg production in commercial settings. They lay large white eggs at a rate of 280 to 320 annually and they do it efficiently, meaning they eat less feed per egg than heavier breeds. The downside is personality. Leghorns are flighty, skittish, and loud. They're not lap chickens. They're also poor in cold climates because their large single combs are susceptible to frostbite. If you're in a mild climate and don't care about a friendly flock, Leghorns deliver.
 
 **Rhode Island Red**
+
 The Rhode Island Red is probably the most forgiving breed on this list. They lay 250 to 300 brown eggs per year, they're cold-hardy, they tolerate heat reasonably well, and their temperament is generally calm. I've kept RIRs for years and they're consistently the birds I recommend to people who want solid production without drama. They'll free range, they'll do fine in a run, and they don't throw big personality fits.
 
 **Plymouth Rock (Barred Rock)**
+
 Barred Rocks lay around 200 to 280 brown eggs per year, which sounds modest compared to ISA Browns, but these hens lay steadily for four or five years instead of burning out. They're dual-purpose birds with good size, calm personalities, and real cold hardiness. I've had Barred Rock hens still laying at age four when my sex-links had basically retired. If longevity matters to you, consider this trade-off seriously.
 
 **Sussex**
+
 Speckled Sussex hens are underrated in the egg department. They'll give you 200 to 250 light brown eggs annually, but more importantly they're curious, friendly, and active foragers. They do well in cold climates and their temperament makes them excellent birds for families with children. Egg production isn't flashy, but consistency is solid and these hens tend to stay productive longer than hybrid breeds.
 
 **Australorp**
+
 The Australorp holds the world record for egg laying: one hen laid 364 eggs in 365 days in an Australian trial in the 1920s. Modern Australorps won't hit that, but 250 to 300 eggs annually is realistic. They're big, calm, cold-hardy birds with glossy black feathers that shine green in sunlight. I've never met an Australorp I didn't like. They're gentle, adaptable, and reliable. Highly recommend for both beginners and experienced keepers.
 
 ## Side-by-Side Breed Comparison
@@ -77,7 +82,7 @@ No breed is perfect across every column. That's why most experienced keepers run
 
 Breed potential means nothing if the fundamentals aren't right. I've seen flocks of Leghorns barely scraping 200 eggs per year because of management gaps that were entirely fixable.
 
-**Light.** Hens need 14 to 16 hours of light per day to lay consistently. In winter, that means supplemental lighting. A simple timer-controlled coop light can make a dramatic difference. I use a basic LED bulb on a timer set to run from 4 a.m. until natural sunrise, topping up the light hours without disrupting the hens' nighttime rest. [A programmable outlet timer](https://www.amazon.com/s?k=programmable+outlet+timer+chicken+coop&tag=contentportfo-20) costs almost nothing and pays for itself in eggs within a week.
+**Light.** Hens need 14 to 16 hours of light per day to lay consistently. In winter, that means supplemental lighting. A simple timer-controlled coop light can make a dramatic difference. I use a basic LED bulb on a timer set to run from 4 a.m. until natural sunrise, topping up the light hours without disrupting the hens' nighttime rest. A [programmable outlet timer](https://www.amazon.com/s?k=programmable+outlet+timer+chicken+coop&tag=contentportfo-20) costs almost nothing and pays for itself in eggs within a week.
 
 **Nutrition.** Layer feed with 16 to 18 percent protein keeps production strong. Drop below that and you'll notice it. Scratch grains are a treat, not a diet. I see keepers overfeeding scratch constantly and then wondering why production tanks in winter. Keep treats under 10 percent of the daily diet.
 
@@ -96,6 +101,5 @@ The strategy that works best in my experience is staggering. Get chicks in early
 A mixed-breed flock also gives you a buffer. Your ISA Browns carry production in years one and two while your Barred Rocks and Australorps warm up. By year three, when the ISA Browns are slowing down, the dual-purpose breeds are in their reliable middle-production years.
 
 For a family needing a dozen eggs a day, I'd suggest six to eight hens minimum, with some variation in breed and age. Factor in that not every hen lays every day even at peak, and you'll rarely have 100 percent of your flock laying simultaneously.
-
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

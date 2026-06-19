@@ -14,20 +14,19 @@ author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
 
 ---
-
 The first spring I let my chickens into the vegetable garden unsupervised, I lost an entire bed of seedlings in about twenty minutes. Six Rhode Island Reds, completely content, scratching up every last row of newly planted lettuce and spinach I'd spent a weekend preparing. I stood there watching them and felt genuinely stupid. The idea had seemed so elegant: chickens eat bugs, chickens fertilize soil, everyone wins. What I hadn't thought through was that chickens don't distinguish between a pest and a plant.
 
 That experience cost me a season of salad greens. It also started a decade-long experiment in figuring out how to actually make chickens and a vegetable garden coexist in a way that benefits both.
 
-The short version: it's absolutely possible, and the benefits are real. But the timing and the management have to be deliberate, or you'll just be feeding your flock on your food.
+It's absolutely possible. The benefits are real. But the timing and the management have to be deliberate, or you'll just be feeding your flock on your food.
 
 ## The Real Benefits (And What People Exaggerate)
 
 Chickens genuinely do improve garden soil over time. Their manure is high in nitrogen, and their scratching breaks up compacted ground and works organic material into the top few inches. I've watched the texture of my raised beds improve year after year in sections where I've rotated chickens through in the off-season. That part isn't marketing.
 
-The pest control angle is real too, but more selective than people suggest. Chickens are excellent at catching grasshoppers, beetles, earwigs, and grubs. They'll clean up squash bugs given the chance. I've had readers email me saying chickens ended a Japanese beetle problem that had plagued them for years. What they won't do is act like a precision tool. A chicken foraging in your tomato bed will absolutely eat tomato hornworm larvae, and will also eat your tomatoes and your basil and your pepper transplants.
+The pest control angle is real too, but more selective than people suggest. Chickens are excellent at catching grasshoppers, beetles, earwigs, and grubs. They'll clean up squash bugs given the chance. I've had readers email me saying chickens ended a Japanese beetle problem that had plagued them for years. What they won't do is act like a precision tool. A chicken foraging in your tomato bed will absolutely eat tomato hornworm larvae, and will also eat your tomatoes and your basil and your pepper transplants. Same bird, same foraging session, total chaos.
 
-What most people don't realize is that the weed control benefit is also overstated. Chickens will scratch up and eat some weeds, but they're selective about it. Creeping charlie, dandelions, clover, grass seeds: yes. Established thistle or anything with deep tap roots: they'll ignore it and scratch up your mulch instead.
+The weed control benefit gets oversold too. Chickens will scratch up and eat some weeds, but they're selective about it. Creeping charlie, dandelions, clover, grass seeds: yes. Established thistle or anything with deep tap roots: they'll ignore it and scratch up your mulch instead.
 
 ## Timing Is Everything
 
@@ -37,7 +36,7 @@ Early spring, before you've planted anything, is prime time. Let the birds into 
 
 The fall window is even better in some ways. After your last harvest, chickens can work through spent plants, clean up fallen fruit (which would otherwise harbor disease and pests over winter), and start breaking down any crop debris you don't want to compost separately. I leave mine in the garden from first frost through December, and they do more useful work in those two months than any amount of hand-raking would.
 
-The danger zone is the active growing season, from transplant through harvest. During those months, chickens and an unprotected vegetable garden are enemies.
+During the active growing season, from transplant through harvest, chickens and an unprotected vegetable garden are enemies.
 
 ## How to Partition Your Space
 
@@ -64,8 +63,6 @@ Heavy-laying breeds like Leghorns and Production Reds scratch more aggressively 
 One thing to plan for: a flock of six chickens can deposit a significant amount of manure in a concentrated space in a short time. That's a benefit, until it's not. If you're using your garden as supplemental ranging space over the growing season (near the beds but not in them), watch for nitrogen burn on plants near their favorite hangout spots. I've lost border plants this way more than once.
 
 If you want to be more precise about it, chicken manure averages around 1.1% nitrogen by weight in fresh form. Composted, it's one of the best soil amendments you can use. The [USDA's guide to using poultry manure in gardens](https://www.amazon.com/s?k=chicken+manure+compost+garden) offers more detail than I can fit here, and there are good books like *The Regenerative Garden* by Stephanie Rose that cover the fertility piece well (Amazon affiliate link, site earns a small commission).
-
----
 
 ### FAQ
 

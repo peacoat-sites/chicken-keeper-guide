@@ -25,7 +25,6 @@ author_title: "Homestead Writer"
 author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
 
 ---
-
 You did everything right. The coop is clean, the water is fresh, the feed is stocked, and then one October morning you walk out to collect eggs and find almost nothing in the nest boxes. Meanwhile your hens look like they lost a fight with a leaf blower. Feathers everywhere. Bare patches on necks and backs. They look terrible and you're getting maybe one egg every few days from a flock that was cranking out a dozen. Most people panic and start troubleshooting the wrong things. The real answer is simpler and more frustrating: your hens are molting, and there's not a whole lot you can do to speed it up.
 
 ## What Actually Happens During a Molt
@@ -34,23 +33,23 @@ A molt is a full feather replacement cycle. Chickens lose old feathers and grow 
 
 What surprised me the first time I went through this was how dramatic it looks. A healthy molt on a Barred Rock or Rhode Island Red in full swing looks like the chicken is dissolving. You'll see bare skin on the neck, breast, and back. You'll find feathers piled in corners of the coop like someone emptied a pillow. Some birds drop feathers fast and regrow them in 6 to 8 weeks. Others take a slow, gradual approach that drags on for 4 to 6 months. The fast molters are generally considered better production birds because they get the whole thing over with and return to laying sooner.
 
-The molt typically starts at the head and neck, then moves down the breast and back, then to the wings, and finally to the tail. If you watch closely, you can track the progression. The new feathers grow in as "pin feathers," which are actually blood-filled shafts. Handle molting hens gently. Those pin feathers are sensitive, and grabbing a hen roughly during a hard molt can cause real discomfort or even bleeding.
+The molt typically starts at the head and neck, then moves down the breast and back, then to the wings, and finally to the tail. Watch closely and you can track the progression. The new feathers grow in as "pin feathers," which are actually blood-filled shafts. Handle molting hens gently. Those pin feathers are sensitive, and grabbing a hen roughly during a hard molt can cause real discomfort or even bleeding.
 
 ## Why Egg Production Drops So Hard
 
 I'll be honest: the first time I lost 90% of my flock's egg production for two months straight, I was convinced something was wrong. It felt like too much. But the math makes sense once you understand what's happening nutritionally.
 
-Feathers are approximately 85% protein. Growing a full coat of new feathers is a massive protein demand. At the same time, egg production requires significant protein, calcium, and energy. The hen's body is not equipped to do both efficiently, so it makes a trade. Egg production essentially shuts down. Some hens will lay an occasional egg during molt, especially early on or near the end when the new feathers are mostly grown in, but you shouldn't count on it.
+Feathers are approximately 85% protein. Growing a full coat of new feathers is a massive protein demand. At the same time, egg production requires significant protein, calcium, and energy. The hen's body can't do both efficiently, so it makes a trade. Egg production essentially shuts down. Some hens will lay an occasional egg during molt, especially early on or near the end when the new feathers are mostly grown in, but don't count on it.
 
-What this means practically: if you're keeping chickens partly for food production, you need to plan around molting. A flock of 8 hens might go from producing 5 to 6 eggs per day down to 0 to 2 eggs per day for 6 to 10 weeks. That's real. And it happens right as days are getting shorter, which adds another layer of production suppression even after the molt finishes, unless you're using supplemental lighting.
+Here's what this means practically: if you're keeping chickens partly for food production, you need to plan around molting. A flock of 8 hens might go from producing 5 to 6 eggs per day down to 0 to 2 eggs per day for 6 to 10 weeks. That's real. And it happens right as days are getting shorter, which adds another layer of production suppression even after the molt finishes, unless you're using supplemental lighting.
 
-The research here is mixed on whether adding artificial light during molt helps or hurts. Some sources say keeping the light cycle stable prevents the molt trigger from firing as strongly. Others suggest that trying to suppress a molt entirely with artificial light causes stress and can shorten a hen's overall laying career. My personal approach has been to let the molt happen naturally in fall and use supplemental lighting starting in late October to stabilize the winter photoperiod at around 14 to 16 hours of light per day, which helps with post-molt recovery laying.
+The research here is mixed on whether adding artificial light during molt helps or hurts. Some sources say keeping the light cycle stable prevents the molt trigger from firing as strongly. Others suggest that trying to suppress a molt entirely with artificial light causes stress and can shorten a hen's overall laying career. My approach has been to let the molt happen naturally in fall and use supplemental lighting starting in late October to stabilize the winter photoperiod at around 14 to 16 hours of light per day, which helps with post-molt recovery laying.
 
 ## How to Feed Molting Hens (This Is Where Most People Get It Wrong)
 
 The biggest mistake I see with molting chickens is continuing to feed layer pellets at the same rate and calling it a day. Layer feed is formulated around 16% protein, which is fine for active laying but genuinely insufficient for a bird rebuilding her entire coat.
 
-During molt, you want to bump protein intake significantly. The target most poultry nutritionists suggest is 20% to 22% protein. You can get there a few different ways:
+During molt, you want to bump protein intake significantly. Most poultry nutritionists suggest aiming for 20% to 22% protein. You can get there a few different ways:
 
 **Switch to a higher-protein feed.** Flock raiser or grower feed runs around 20% protein and is the cleanest swap. You'll lose some of the calcium supplementation from layer feed, so put out a separate oyster shell feeder so hens can self-regulate calcium intake once they return to laying.
 
@@ -95,11 +94,6 @@ This is why commercial egg operations cull hens after 12 to 18 months. It's also
 I'll be honest: I keep older hens longer than strictly makes economic sense. A 3-year-old Buff Orpington who lays 3 eggs a week is still a contributing flock member and an experienced bird who helps keep younger hens calm. But if you're keeping chickens primarily for egg production, it's worth knowing that each molt marks a step down in productivity, not a reset.
 
 What the molt does provide is a kind of biological reset for health. Hens that come out of a full, clean molt often look better than they have all year. New feather growth is glossy and full. Birds that had worn, broken feathers from rooster activity or pecking issues come out looking completely renewed. There's something genuinely satisfying about watching a hen that looked rough in September walk out of the coop in November with a perfect new coat.
-
----
-
-
----
 
 The molt is one of those parts of chicken keeping that tests your patience more than your skills. You can optimize the nutrition, manage the environment, and do everything right, and you're still going to go weeks without eggs from birds that look like they belong in a horror movie. But when a hen you've watched go from scraggly mess to fully feathered-out walks through the coop door in November looking like she just stepped out of a show ring, it's one of the more quietly satisfying things about keeping chickens. The eggs come back. They always do.
 

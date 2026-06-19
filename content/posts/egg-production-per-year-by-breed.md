@@ -25,7 +25,6 @@ author_title: "Homestead Writer"
 author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
 
 ---
-
 Most people pick chickens based on looks. They fall for a photo of a fluffy Silkie or a dramatic Ayam Cemani and buy six of them before asking the obvious question: how many eggs will I actually get? Then they spend a year collecting three eggs every two days from birds that eat as much as any other hen, and they wonder why their "backyard flock" costs more than buying eggs at the farmers market. Breed selection is the single highest-leverage decision you'll make as a chicken keeper, and egg production numbers are the thing most hatchery descriptions quietly fudge.
 
 Let's fix that.
@@ -36,7 +35,7 @@ Let's fix that.
 
 When a hatchery says a Rhode Island Red lays "250-300 eggs per year," they're describing a production-strain bird in optimal conditions: 14-16 hours of light daily, a complete layer feed at around 16-18% protein, no heat stress, no molt, no broody spells, and no disease pressure. That's not your backyard. That's a controlled environment.
 
-Real-world backyard flocks typically see numbers 15-25% lower than those advertised peaks, sometimes more. Factor in the first molt at around 18 months, which can shut down laying for 6-10 weeks. Factor in the winter slowdown if you don't supplement light. Factor in summer heat above 85°F, which tanks laying in many breeds. Factor in a hen going broody for three weeks in June.
+Real-world backyard flocks typically see 15-25% lower numbers than those advertised peaks, sometimes more. Add in the first molt at around 18 months, which can shut down laying for 6-10 weeks. Add in winter slowdown if you don't supplement light. Add in summer heat above 85°F tanking laying in many breeds. Add in a hen going broody for three weeks in June.
 
 The hatchery number describes a ceiling. You're living on the floor.
 
@@ -48,23 +47,23 @@ What actually matters is the realistic annual average across multiple years of a
 
 Here's where I'll give you actual numbers, not ranges so wide they're meaningless.
 
-**Leghorn (White):** The undisputed production champion. A quality Leghorn from a good hatchery will lay 280-320 eggs per year in her first two laying seasons. These are large white eggs, laid consistently. The tradeoff is temperament: Leghorns are flighty, loud, and not lap birds. They also don't handle confinement well. If you want maximum eggs per square foot of feed cost, nothing beats them.
+**Leghorn (White).** The undisputed production champion. A quality Leghorn from a good hatchery will lay 280-320 eggs per year in her first two laying seasons. These are large white eggs, laid consistently. The tradeoff is temperament: Leghorns are flighty, loud, and not lap birds. They also don't handle confinement well. If you want maximum eggs per square foot of feed cost, nothing beats them.
 
-**ISA Brown / Golden Comet / Red Sex-Link:** These are hybrid production birds, and their first-year numbers are staggering, often 300-320 eggs. I've personally counted 340 from one ISA Brown in a good year with supplemental light. The catch nobody tells you: they burn out fast. Many hybrids drop to 150-180 eggs by year three and develop reproductive issues (internal laying, egg yolk peritonitis) earlier than purebreds. They're built like sprint runners, not marathon athletes.
+**ISA Brown / Golden Comet / Red Sex-Link.** These hybrid production birds hit staggering first-year numbers, often 300-320 eggs. I've personally counted 340 from one ISA Brown in a good year with supplemental light. The catch nobody tells you: they burn out fast. Many hybrids drop to 150-180 eggs by year three and develop reproductive issues (internal laying, egg yolk peritonitis) earlier than purebreds. They're sprint runners, not marathon athletes.
 
-**Rhode Island Red (production strain):** 250-280 eggs per year, brown, large. Hardy, adaptable, reasonable temperament. The production strain and the heritage strain are genuinely different birds. Production RIRs are orange-red and lean; heritage RIRs are darker, heavier, and lay closer to 180-200 eggs. If you order from a hatchery without specifying heritage, you'll get production stock.
+**Rhode Island Red (production strain).** 250-280 eggs per year, brown, large. Hardy, adaptable, reasonable temperament. The production strain and the heritage strain are genuinely different birds. Production RIRs are orange-red and lean; heritage RIRs are darker, heavier, and lay closer to 180-200 eggs. If you order from a hatchery without specifying heritage, you'll get production stock.
 
-**Plymouth Rock (Barred):** 200-250 eggs per year. These are the birds I recommend most often for beginners who want a solid balance of production, temperament, and longevity. They're calm, they don't go broody constantly, and they hold production reasonably well through year three.
+**Plymouth Rock (Barred).** 200-250 eggs per year. These are the birds I recommend most often for beginners who want solid production, temperament, and longevity. They're calm, they don't go broody constantly, and they hold production reasonably well through year three.
 
-**Sussex (Speckled or Light):** 200-250 eggs, similar profile to Barred Rocks. Light Sussex in particular are underrated. Good foragers, cold-hardy, and steady layers without the burnout curve of hybrids.
+**Sussex (Speckled or Light).** 200-250 eggs, similar profile to Barred Rocks. Light Sussex in particular are underrated. Good foragers, cold-hardy, and steady layers without the burnout curve of hybrids.
 
-**Australorp:** The Australian record holder (364 eggs in 365 days, set in 1922-1923) established the breed's reputation. Modern backyard Australorps average 250-280 eggs. They're calm, heat-tolerant for a heavy breed, and don't go broody excessively. One of the best all-around choices.
+**Australorp.** The Australian record holder (364 eggs in 365 days, set in 1922-1923) established the breed's reputation. Modern backyard Australorps average 250-280 eggs. They're calm, heat-tolerant for a heavy breed, and don't go broody excessively. One of the best all-around choices.
 
-**Easter Eggers / Ameraucanas:** 150-200 eggs, blue or green tinted. The novelty is real but they're not production birds. Ameraucanas in particular lay in clutches and take breaks. Great if you want colored eggs and don't mind reduced volume.
+**Easter Eggers / Ameraucanas.** 150-200 eggs, blue or green tinted. The novelty is real but they're not production birds. Ameraucanas in particular lay in clutches and take breaks. Great if you want colored eggs and don't mind reduced volume.
 
-**Silkie:** 80-120 eggs per year, small, cream-tinted. Silkies go broody constantly, which is why people use them to hatch other birds' eggs. If you want Silkies for that reason, great. If you want eggs, they're a poor investment of feed and coop space.
+**Silkie.** 80-120 eggs per year, small, cream-tinted. Silkies go broody constantly, which is why people use them to hatch other birds' eggs. If you want Silkies for that reason, great. If you want eggs, they're a poor investment of feed and coop space.
 
-**Orpington (Buff):** 150-200 eggs, large brown. Gorgeous birds, famously docile. Also famously prone to going broody for 3-6 weeks at a stretch, which can cut your actual annual count significantly. I've had Buff Orpingtons sit three times in a single season.
+**Orpington (Buff).** 150-200 eggs, large brown. Gorgeous birds, famously docile. Also famously prone to going broody for 3-6 weeks at a stretch, which can cut your actual annual count significantly. I've had Buff Orpingtons sit three times in a single season.
 
 ---
 
@@ -91,9 +90,9 @@ Pick the best-laying breed in the world and then get the basics wrong, and you'l
 
 **Light.** Hens need 14-16 hours of light to lay consistently. Below 12 hours, most breeds slow or stop. You have two choices: accept seasonal production drops in winter, or add a simple coop light on a timer. A 40-watt incandescent or a warm LED set to turn on at 4 a.m. and shut off at natural sunset can maintain winter production in most breeds. [A basic plug-in timer](https://amzn.to/3example) costs about $10 and pays for itself in eggs within a week. *(This site may earn a small commission on qualifying Amazon purchases.)*
 
-**Feed quality.** A 16% protein layer pellet is the baseline. Drop below that and you'll see it in shell quality and laying frequency before you see it anywhere else. Free-range supplementation is real but unreliable. I don't count forage as a substitute for balanced feed, especially in winter or in small runs where the ground gets picked over in weeks.
+**Feed quality.** A 16% protein layer pellet is baseline. Drop below that and you'll see it in shell quality and laying frequency before you see it anywhere else. Free-range supplementation is real but unreliable. I don't count forage as a substitute for balanced feed, especially in winter or in small runs where the ground gets picked over in weeks.
 
-**Stress.** Predator pressure, flock overcrowding, pecking order disruptions from adding new birds, extreme heat, or a dog running the fence line every day, all of these register in your egg count before you might notice any other behavioral change. Hens are prey animals. Chronic stress suppresses the laying cycle.
+**Stress.** Predator pressure, overcrowding, pecking order disruptions from adding new birds, extreme heat, a dog running the fence line every day. All of these register in your egg count before you might notice any other behavioral change. Hens are prey animals. Chronic stress suppresses the laying cycle.
 
 **Age.** This is the one people resist accepting. A hen's peak production is her first full laying year. Year two she'll typically lay 10-15% fewer eggs. Year three, another 10-15% drop. She doesn't stop, but she slows. If maximum production is your goal, plan to add young pullets to your flock annually and retire older hens at year three or four. That's a real conversation backyard keepers need to have with themselves before they're emotionally attached to a five-year-old hen named Marguerite who lays twice a week.
 
@@ -112,9 +111,6 @@ Don't just pick breeds by the top number. Do the math for your specific situatio
 **Step 4: Size your flock.** If you need 2 dozen (24 eggs) per week and you're keeping Australorps averaging 4.3 eggs weekly, you need about 6 hens to reliably hit that target, not 3.
 
 **Step 5: Plan for attrition.** Predator losses, illness, and rehoming happen. I build in a 10-15% buffer when I'm planning a flock for consistent production goals.
-
----
-
 
 ---
 

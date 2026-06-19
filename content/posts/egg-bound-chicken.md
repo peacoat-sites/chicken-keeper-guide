@@ -25,116 +25,102 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 
 ---
-
-Your hen is squatting in the nesting box, straining, puffed up like a football, and nothing is coming out. She's been there for hours. Most chicken-keeping guides at this point tell you to "consult a vet" and leave you hanging. That's not enough when it's Sunday evening, the nearest avian vet is 45 minutes away, and your hen is deteriorating. Egg binding is one of the few chicken emergencies where the right home intervention, done quickly, can genuinely save a life. The wrong move, or no move at all, kills the bird. Here's what you actually need to know.
-
----
+Your hen's been squatting in the nesting box for hours, puffed up like a football, straining hard, and nothing's coming out. Most guides tell you to call a vet and that's it. Useless advice when it's Sunday night, the nearest avian vet is 45 minutes away, and your bird is getting worse by the hour. Egg binding is one of the few chicken emergencies where the right move at home, done fast, actually saves a life. The wrong move kills her. Here's what you need to know.
 
 ## What Egg Binding Is (and Why It Happens More Than You'd Think)
 
-An egg-bound hen has an egg stuck in her oviduct that she can't pass on her own. The egg is physically present, the muscles are contracting, but nothing moves. If the egg isn't out within 24 to 48 hours, she'll die. Pressure on the kidneys and nerves causes paralysis, toxicity builds, and it goes fast.
+An egg-bound hen has an egg stuck in her oviduct that her body can't push out. The muscles are trying, the egg is there, but nothing moves. Without intervention, she'll die in 24 to 48 hours. Pressure on her kidneys and nerves causes paralysis, toxicity builds up, and the decline is sudden.
 
-It's more common than most keepers realize, especially in high-production breeds. Production Reds, California Whites, and hatchery-stock Leghorns are bred for output over longevity. Their bodies are essentially running hot all the time. The more eggs a hen produces, the more opportunities for something to go wrong in the pipeline.
+It's way more common than most backyard keepers realize. Production Reds, California Whites, and hatchery Leghorns are bred for maximum output. Their bodies run hot all the time. The more eggs a hen produces, the more chances something breaks down in the pipeline.
 
-Common causes include:
+Here's what causes it:
 
-- **Calcium deficiency.** Without adequate calcium, the muscles of the oviduct can't contract properly. This is the biggest one. If you're not offering oyster shell free-choice, separate from layer feed, fix that today.
-- **Large or abnormal eggs.** Double-yolkers, soft-shelled eggs, or eggs with irregular shapes can get stuck mechanically.
-- **Obesity.** Fat hens have poor muscle tone. Silkies and heavy breeds on unrestricted high-calorie feed are at higher risk.
-- **Cold temperatures.** Muscles contract less effectively when a hen is chilled.
-- **Young pullets laying too early.** A 16-week-old Australorp who starts laying before her body is fully ready is a candidate for binding.
+- **Calcium deficiency.** Without enough calcium, the oviduct muscles won't contract properly. This is the biggest culprit. If you're not offering oyster shell free-choice, separate from layer feed, change that today.
+- **Large or oddly shaped eggs.** Double-yolkers, soft-shelled eggs, or eggs with bumpy shells can get stuck physically.
+- **Obesity.** Fat hens have weak muscles. Silkies and heavy breeds fed unlimited scratch are sitting ducks for this.
+- **Cold weather.** Muscles work worse when a hen's chilled.
+- **Pullets laying too young.** A 16-week-old Australorp who starts before her body's ready is prime material for binding.
 
-I've seen egg binding hit experienced, healthy-looking hens with zero warning. It's not always a husbandry failure. But calcium and body condition are the two factors you control most directly.
-
----
+I've seen it hit seemingly healthy, well-managed hens with zero warning. It's not always something you did wrong. But calcium and body condition are the two things you actually control.
 
 ## How to Recognize an Egg-Bound Hen
 
-Speed matters here. The sooner you identify it, the better the outcome. The tricky part is that a few other conditions look similar, and treating the wrong problem wastes time.
+Speed changes everything. The faster you catch it, the better she does. The catch is that a few other conditions look similar, and wasting time on the wrong diagnosis kills her.
 
-**Classic signs of egg binding:**
+**What egg binding looks like:**
 
-- Sitting in or near the nesting box for several hours without producing an egg
-- Penguin posture: standing upright with tail pointing down, abdomen low
-- Straining or pumping motions with the vent
-- Puffed feathers, lethargy, loss of interest in food
-- A firm, swollen abdomen, especially toward the vent
-- Walking stiffly or reluctantly, sometimes with a wide-legged stance
+- Sitting in or near the nest for hours with no egg appearing
+- Penguin posture: standing upright, tail down, abdomen low to the ground
+- Straining or pumping at the vent
+- Puffed feathers, lethargy, zero interest in eating
+- A hard, swollen belly especially near the vent
+- Stiff walking or reluctance to move, sometimes with legs spread wide
 
-The definitive check: put on a nitrile glove, lubricate your finger with vegetable oil or KY jelly, and gently insert it about an inch into the vent. If she's egg-bound, you'll often feel the egg within that distance. You shouldn't have to go deep. If you feel something hard, round, and smooth, that's your answer.
+The real test: put on a nitrile glove, lube your finger with vegetable oil or KY jelly, and gently push about an inch into the vent. If she's egg-bound, you'll feel the egg right there. You don't need to go deep. A hard, round, smooth object is your answer.
 
-What you might confuse it with:
+Things you might mistake it for:
 
-- **Ascites (water belly):** Abdomen is fluid-filled and squishy, not hard. No straining at the vent.
-- **Vent prolapse:** Tissue is protruding from the vent, pink or red. Different problem, different treatment.
-- **Peritonitis:** Often involves a doughy or lumpy abdomen, usually with a sicker-looking bird over a longer timeline.
-- **Salpingitis:** Chronic internal laying with a swollen, painful abdomen. No egg to feel near the vent.
+- **Ascites:** Belly is full of fluid and feels squishy, not hard. No straining.
+- **Vent prolapse:** Tissue sticks out from the vent, red or pink. Different problem entirely.
+- **Peritonitis:** A doughy or lumpy abdomen, usually with a sicker bird and a longer history.
+- **Salpingitis:** Chronic internal laying with a swollen, sore belly. No egg near the vent.
 
-If you're not sure, treat for egg binding first. The initial steps won't harm a bird with a different condition.
-
----
+When in doubt, treat for egg binding first. The early steps won't hurt a hen with something else.
 
 ## Step-by-Step Home Treatment for an Egg-Bound Hen
 
-This is the part that matters most if you're dealing with this right now. Work through these steps in order and don't skip the timing.
+This is where it counts most if you're dealing with this right now. Do these in order and don't skip steps.
 
 **Step 1: Warm soak (20 to 30 minutes)**
-Fill a basin with warm water, around 102 to 104°F, deep enough to cover her vent and lower abdomen. Hold her gently in the water. Many hens relax noticeably. The warmth loosens the muscles of the oviduct and can reduce swelling. Keep the water warm by adding more as it cools.
+Fill a container with warm water at 102 to 104°F, deep enough to cover her vent and lower belly. Hold her in it gently. Most hens visibly relax. The warmth loosens the oviduct muscles and can ease swelling. Keep adding warm water as it cools.
 
 **Step 2: Lubricate the vent**
-After the soak, apply a generous amount of vegetable oil, mineral oil, or KY jelly around and just inside the vent. This reduces friction and can help the egg move. Do this gently. You are not trying to pull anything.
+After the soak, coat the vent and just inside it generously with vegetable oil, mineral oil, or KY jelly. This cuts friction and can help the egg move. Do it carefully. You're not trying to pull anything out.
 
 **Step 3: Calcium supplementation**
-Give her liquid calcium gluconate if you have it. Poultry Nutri-Drench or a crushed calcium carbonate tablet dissolved in a small amount of water works if you don't. The muscle contractions need calcium to function. This step is not optional.
+Give her liquid calcium gluconate if you have it on hand. Poultry Nutri-Drench or crushed calcium carbonate dissolved in water works fine otherwise. The oviduct muscles need calcium to work. This step isn't optional.
 
-**Step 4: Warm, dark, quiet confinement**
-Put her in a warm area, 80 to 85°F, away from the flock. A dog crate with a heat lamp positioned to one side works well. Darkness reduces stress and stimulates relaxation. Leave her for an hour or two.
+**Step 4: Warm, dark, quiet space**
+Confine her somewhere warm, 80 to 85°F, away from the flock. A dog crate with a heat lamp to one side is perfect. Dark reduces stress and triggers relaxation. Leave her alone for an hour or two.
 
-**Step 5: Repeat the soak**
-Do another warm soak 2 to 3 hours after the first. Some hens pass the egg between soaks. Some need two or three cycles.
+**Step 5: Another warm soak**
+Do a second soak 2 to 3 hours after the first. Some hens pass the egg between soaks. Others need two or three rounds.
 
-**Step 6: Watch the clock**
-If she hasn't passed the egg within 12 hours of your intervention starting, or if she's worsening (going limp, cold to the touch, trembling), you need a vet. At that point, a vet may need to manually extract the egg or, in extreme cases, needle-aspirate it to collapse it for removal.
+**Step 6: Count the hours**
+If she hasn't passed the egg within 12 hours of starting treatment, or if she's getting worse (going limp, cold, trembling), get to a vet. At that point a vet may need to pull the egg out manually or collapse it with a needle so it can be removed.
 
-**What not to do:** Don't try to manually push on the abdomen to "squeeze" the egg out. You risk rupturing it internally. A broken egg inside a hen causes yolk peritonitis, which is often fatal even with treatment.
-
----
+**Don't do this:** Never press on the abdomen to squeeze the egg out. You could rupture it inside her. A broken egg causes yolk peritonitis, which kills even with treatment.
 
 ## When Home Treatment Isn't Enough
 
-Some situations go beyond what a warm bath and calcium can fix. Knowing when to escalate is as important as knowing the home steps.
+Some cases go past what a warm bath and calcium can fix. Knowing when to stop trying at home is as crucial as knowing how to try.
 
-Get to an avian vet if:
+Get a vet immediately if:
 
-- She's been egg-bound for more than 24 hours before you found her
-- She's completely limp, cold, or unresponsive
-- She's passed bloody discharge without the egg
-- The egg appears to have broken internally (sudden worsening after seeming slightly better is a red flag)
-- She's had a prolapsed vent alongside the binding
+- She's been stuck longer than 24 hours before you found her
+- She's completely limp, cold, or not responding
+- She's bleeding from the vent but no egg came out
+- The egg broke inside her (sudden decline after a brief improvement is a warning sign)
+- She has a prolapsed vent along with the binding
 
-Avian vets can administer oxytocin or calcium gluconate by injection, which is far more effective than oral supplementation for a bird in crisis. They can also safely remove a stuck or broken egg under controlled conditions.
+Avian vets can inject oxytocin or calcium, which works way faster than anything you give by mouth in a crisis situation. They can also remove a stuck or broken egg safely.
 
-If you don't have an avian vet nearby, call ahead. Many regular vets will treat poultry in emergencies if you explain the situation clearly. A general practice vet with experience in small animals can handle an egg-bound hen better than no vet at all.
-
----
+No avian vet nearby? Call ahead anyway. Many regular vets treat poultry emergencies if you explain it clearly. A general practice vet with small animal experience beats no vet at all.
 
 ## Prevention: What to Do Before It Happens Again
 
-If she survives, or if you want to protect your other hens, prevention is straightforward but specific.
+If she makes it, or if you want to protect your other hens, prevention is simple but has to be specific.
 
-**Calcium, always.** Layer feed alone doesn't cut it for high-production hens. Offer oyster shell in a separate container, free-choice, every single day. Hens self-regulate; they take what they need. [Manna Pro Oyster Shell](https://www.amazon.com/s?k=manna+pro+oyster+shell) is widely available and effective. (This site may earn a commission on purchases through links.)
+**Calcium every day.** Layer feed by itself isn't enough for hens in high production. Leave oyster shell out in a separate container, free-choice, always available. Hens know how much they need and eat accordingly. [Manna Pro Oyster Shell](https://www.amazon.com/s?k=manna+pro+oyster+shell) is easy to find and works. (This site may earn a commission on purchases through links.)
 
-**Manage body condition.** You should be able to feel the keel bone but not see it. If your hen is round and plump with no keel definition, cut back on scratch grains and treats. Obesity is a real risk factor and most backyard keepers overfeed scratch.
+**Body condition matters.** You should feel the keel bone but not see it clearly. If your hen looks round and squishy with no keel definition, cut back on scratch and treats. Obesity is a real risk and most backyard setups overfeed scratch.
 
-**Light management.** Artificial lighting to force year-round production increases the rate of reproductive issues. If you're running lights, limit exposure to 14 to 16 hours total per day and give your hens a natural winter break if possible.
+**Watch the light.** Year-round artificial light pushes hens hard and increases reproductive issues. If you use lights, stick to 14 to 16 hours total per day. Give your flock a natural winter break if you can.
 
-**Breed selection.** If you've had repeated binding issues, reconsider breed choice. [Black Australorps](https://www.mypetchicken.com/chicken-breeds/Black-Australorp), Dominiques, and Buckeyes lay well but aren't pushed to the metabolic extreme of production strains. You'll get fewer eggs per year but healthier birds over a longer life.
+**Pick better breeds.** Stuck with repeated binding problems? Switch breeds. [Black Australorps](https://www.mypetchicken.com/chicken-breeds/Black-Australorp), Dominiques, and Buckeyes lay steadily but aren't bred to the extreme of production strains. Fewer eggs per year, but healthier birds over their whole lives.
 
-**Vitamin D and overall nutrition.** Hens confined to a covered run with no access to sunlight can develop vitamin D deficiency, which affects calcium metabolism. Either provide outdoor time or supplement with a poultry vitamin product like [Rooster Booster](https://www.amazon.com/s?k=rooster+booster+poultry+vitamins). (Commission disclosure applies.)
-
----
-
+**Vitamin D and sun.** Hens stuck under a covered run with no direct sunlight can become vitamin D deficient, which tanks calcium metabolism. Either get them outside or use a supplement like [Rooster Booster](https://www.amazon.com/s?k=rooster+booster+poultry+vitamins). (Commission disclosure applies.)
 
 ---
 
-Egg binding is one of those situations where the difference between a hen who makes it and one who doesn't comes down almost entirely to how fast you recognize it and how confidently you act. Keep liquid calcium in your first aid kit, know how to do a warm soak, and don't wait until morning to intervene. The hens who survive are the ones with keepers who were ready.
+Egg binding comes down to recognition and speed. The hens that live are the ones whose keepers spotted it fast and acted without hesitation. Stock liquid calcium in your kit, learn how to do a warm soak, and don't wait for morning. That's the difference.

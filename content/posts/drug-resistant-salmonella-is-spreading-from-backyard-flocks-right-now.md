@@ -69,3 +69,12 @@ Stay current with the CDC investigation page. This situation has been moving fas
 - [CDC Announces Salmonella Outbreak in 13 States Linked to Backyard Poultry, CDC Newsroom](https://www.cdc.gov/media/releases/2026/2026-cdc-announces-salmonella-outbreak-in-13-states-linked-to-backyard-poultry-take-steps-to-protect.html) (April 23, 2026)
 
 *Photo: [Jennifer Murray](https://www.pexels.com/@jennifer-murray-402778) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+

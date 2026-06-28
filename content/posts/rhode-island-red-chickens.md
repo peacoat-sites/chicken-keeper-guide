@@ -90,6 +90,15 @@ The RIR sits in a sweet spot: near the top of the production charts with more ca
 
 ## Health Issues Specific to Rhode Island Reds
 
+## Sources
+
+- [Manna Pro Layer Pellets](https://www.amazon.com/s?k=manna+pro+layer+pellets)
+- [A sturdy poultry waterer like this Harris Farms model](https://www.amazon.com/s?k=harris+farms+poultry+waterer)
+- [quality nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads)
+- [Vetericyn Plus Poultry Care Spray](https://www.amazon.com/s?k=vetericyn+poultry+spray)
+- [Brett Jordan](https://www.pexels.com/@brettjordan)
+
+
 RIRs are generally a healthy breed. They don't carry the genetic issues you see in heavily modified breeds, but they're not bulletproof.
 
 **Marek's Disease.** Order vaccinated chicks. Non-negotiable for any breed, but especially if you're buying from a hatchery and adding birds to an existing flock. Most hatcheries vaccinate by default. Confirm before you order.

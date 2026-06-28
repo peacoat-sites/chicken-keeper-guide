@@ -91,6 +91,12 @@ For most people with small flocks, buying oyster shell is just easier and more r
 
 ## When to Start, When to Stop, and Special Circumstances
 
+## Sources
+
+- [Coarse oyster shell](https://www.amazon.com/s?k=oyster+shell+for+chickens&tag=contentportfo-20)
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+
+
 Most hens start laying between 18 and 24 weeks old, depending on breed. Have oyster shell available by the time pullets approach laying age, usually around 16-18 weeks for faster-maturing breeds. There's no harm in offering it earlier, but they won't really need it until production begins.
 
 **During molt.** When hens go through their annual molt, they stop laying and calcium needs drop significantly. Some keepers remove the oyster shell during molt, but leaving it available doesn't cause harm, hens simply stop eating as much. I've found it easier to just leave it out year-round.

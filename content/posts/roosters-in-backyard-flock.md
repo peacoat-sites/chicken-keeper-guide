@@ -93,6 +93,13 @@ A few breeds are so hardwired for aggression that no amount of correct handling 
 
 ## The Noise Question, Honestly Addressed
 
+## Sources
+
+- [Hen saddles on Amazon](https://www.amazon.com/s?k=hen+saddles+for+chickens)
+- [Rooster no-crow collars on Amazon](https://www.amazon.com/s?k=no+crow+rooster+collar)
+- [Sóc Năng Động](https://www.pexels.com/@soc-nang-d-ng-2150345854)
+
+
 Roosters crow. A lot. Peak crowing is pre-dawn through mid-morning, but they don't stop there. Many crow in response to any loud noise, any change in light (passing headlights), any disturbance in the flock. I clocked my current rooster crowing 40+ times between 5:15 and 8 a.m. one morning in spring.
 
 There are "no-crow" rooster collars that work by limiting how fully the crop can expand, which softens and shortens the crow. They genuinely do reduce volume. [Rooster no-crow collars on Amazon](https://www.amazon.com/s?k=no+crow+rooster+collar) run about $12-18 for a set. They're not cruel if fitted correctly, meaning snug but not tight, and you should check them regularly. They don't eliminate crowing. They reduce it to something more like a hoarse bark. Whether that's enough depends entirely on how close your neighbors are.

@@ -101,6 +101,15 @@ Roosters change everything. A good rooster acts as a stabilizer. He breaks up fi
 
 ## When and How to Actually Intervene
 
+## Sources
+
+- [Blu-Kote antiseptic spray](https://www.amazon.com/s?k=blu-kote+poultry&tag=contentportfo-20)
+- [Wider roost bars](https://www.amazon.com/s?k=chicken+roost+bar&tag=contentportfo-20)
+- [chicken toys or treat dispensers](https://www.amazon.com/s?k=chicken+treat+dispenser&tag=contentportfo-20)
+- [Hen saddles](https://www.amazon.com/s?k=hen+saddle+chicken&tag=contentportfo-20)
+- [Peepers, also called blinders](https://www.amazon.com/s?k=chicken+peepers+anti+pecking&tag=contentportfo-20)
+
+
 You don't need to intervene every time a hen pecks another hen. If you do, you'll drive yourself crazy and you'll interfere with the natural stabilization process. But some situations absolutely require action.
 
 **Remove the injured bird.** Any bird with a bloody wound comes out of the flock, gets treated, and stays separate until fully healed. Reintroducing her is a whole process, treat it like introducing a new bird because her rank has effectively reset.

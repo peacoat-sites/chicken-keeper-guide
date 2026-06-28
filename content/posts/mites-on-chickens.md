@@ -91,6 +91,14 @@ Some practical additions that help going forward:
 
 ## When It's Worse Than You Think: Anemia and Secondary Problems
 
+## Sources
+
+- [Durvet Permethrin 10%](https://www.amazon.com/s?k=permethrin+poultry+dust&tag=contentportfo-20)
+- [Elector PSP](https://www.amazon.com/s?k=elector+psp+poultry&tag=contentportfo-20)
+- [Scalex Mite & Lice Spray](https://www.amazon.com/s?k=scalex+poultry+mite+spray&tag=contentportfo-20)
+- [vitamin supplement like Rooster Booster](https://www.amazon.com/s?k=rooster+booster+poultry+vitamins&tag=contentportfo-20)
+
+
 This is the part most beginner guides skip, and it matters. Both northern fowl mite and red mite feed on blood. A heavy infestation can cause serious anemia, especially in young birds, small breeds, or birds that were already stressed. Signs of anemia in chickens: pale or white comb and wattles, lethargy, loss of appetite, decreased egg production, and in severe cases, death.
 
 If you have a bird that's showing these signs alongside a heavy mite load, she needs supportive care in addition to mite treatment. Get her somewhere warm and quiet. Offer high-protein feed, scrambled eggs, or mealworms to help her rebuild. You can add poultry vitamins and electrolytes to the water. A [vitamin supplement like Rooster Booster](https://www.amazon.com/s?k=rooster+booster+poultry+vitamins&tag=contentportfo-20) can help during recovery. If the bird is very weak or you're not seeing improvement in 48-72 hours, call an avian vet. Sometimes anemia gets severe enough that a bird needs more intervention than home care can provide.

@@ -96,6 +96,13 @@ Move new birds into the main coop at night. Hens reorganize pecking order more c
 
 ## Common Quarantine Mistakes That Defeat the Whole Point
 
+## Sources
+
+- [poultry waterer](https://www.amazon.com/s?k=poultry+waterer&tag=contentportfo-20)
+- [hanging feeder](https://www.amazon.com/s?k=hanging+poultry+feeder&tag=contentportfo-20)
+- [Poultry dust or permethrin spray](https://www.amazon.com/s?k=poultry+permethrin+dust&tag=contentportfo-20)
+
+
 **Using the same tools without cleaning them.** A waterer you fill for quarantine birds, then bring back to the main coop without washing, is a direct contamination pathway. Dedicated equipment per area, always.
 
 **Visiting quarantine birds last, not first.** If you care for your main flock and then go check on quarantine birds, you're moving potential pathogens in the right direction, from unknown birds toward your established flock. Reverse the order. Quarantine birds get checked after the main flock, or you change clothes and shoes between visits.

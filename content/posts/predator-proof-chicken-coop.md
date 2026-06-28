@@ -90,6 +90,14 @@ For nighttime, owls are a genuine threat, particularly great horned owls, which 
 
 ## Comparison: Common Run Materials
 
+## Sources
+
+- [this roll of 1/2-inch hardware cloth on Amazon](https://www.amazon.com/s?k=1%2F2+inch+hardware+cloth+galvanized)
+- [Double-locking coop latches like these](https://www.amazon.com/s?k=raccoon+proof+chicken+coop+latch)
+- [Solar-powered automatic coop doors](https://www.amazon.com/s?k=automatic+chicken+coop+door+solar)
+- [Lilly Grace](https://www.pexels.com/@lilly-grace-944249302)
+
+
 | Material | Stops Diggers | Stops Weasels | Stops Raccoons | Durability | Cost |
 |---|---|---|---|---|---|
 | Chicken Wire | No | No | Barely | Low | $ |

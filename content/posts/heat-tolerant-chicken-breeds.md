@@ -59,6 +59,12 @@ The lists floating around the internet often include breeds that are "okay" in h
 
 ## The Management Side You Can't Ignore
 
+## Sources
+
+- [horizontal nipple waterer system](https://www.amazon.com/s?k=chicken+horizontal+nipple+waterer)
+- [Robert So](https://www.pexels.com/@robertkso)
+
+
 Even the best heat-tolerant breed will struggle if your setup fights against them.
 
 Shade first. Permanent shade from trees or shade cloth (I've used 70% black shade cloth from Amazon, roughly $30-40 for a 10x12 panel) matters more than almost any single breed choice. A Leghorn in a shadeless run will suffer. A Rhode Island Red in deep shade with good airflow will do better than you'd expect.

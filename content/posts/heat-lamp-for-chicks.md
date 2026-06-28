@@ -84,6 +84,15 @@ I also put a smoke detector in any building where I run a brooder. This costs $1
 
 ## Week-by-Week Practical Guide
 
+## Sources
+
+- [Brinsea EcoGlow Safety 600](https://www.amazon.com/dp/B07BVZQD5X?tag=contentportfo-20)
+- [Zoo Med Ceramic Heat Emitter](https://www.amazon.com/dp/B0002AQCLO?tag=contentportfo-20)
+- [40-gallon Rubbermaid stock tank](https://www.amazon.com/dp/B000EVOSE4?tag=contentportfo-20)
+- [ThermoPro TP50](https://www.amazon.com/dp/B01H1R0K68?tag=contentportfo-20)
+- [Bayco SL-300 Clamp Lamp](https://www.amazon.com/dp/B00002N6LL?tag=contentportfo-20)
+
+
 **Week 1:** Set lamp so the warm zone hits 95°F. Use paper towels over pine shavings for the first 3 days so chicks learn to eat from the feeder rather than scratch at bedding. I use a [1-quart chick waterer](https://www.amazon.com/dp/B001E0FDDI?tag=contentportfo-20) with marbles in the tray for the first few days to prevent drowning.
 
 **Week 2:** Raise the lamp 2-3 inches or switch to a lower-wattage bulb. Target temp drops to 90°F. Chicks will start feathering on the wing tips and you'll notice them ranging further from the heat source.

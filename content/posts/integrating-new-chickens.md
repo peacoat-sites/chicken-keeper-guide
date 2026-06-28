@@ -98,6 +98,14 @@ Pullets under 16 weeks are small enough that adult hens can cause real damage. I
 
 ## What to Do When It's Not Going Well
 
+## Sources
+
+- [A heavy-duty wire dog crate](https://www.amazon.com/s?k=heavy+duty+wire+dog+crate&tag=contentportfo-20)
+- [horizontal nipple waterer](https://www.amazon.com/s?k=horizontal+nipple+waterer+chicken&tag=contentportfo-20)
+- [Blu-Kote antiseptic spray](https://www.amazon.com/s?k=blu+kote+spray+poultry&tag=contentportfo-20)
+- [Nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
+
+
 Sometimes you do everything right and integration still goes sideways. Here's how to handle the most common problems.
 
 **One bird is being targeted by everyone.** Usually this means she's visually different, is ill, or is simply very low-status. If she's healthy and has no injuries, try isolating the most aggressive hen instead of the victim. Removing the top hen and reintroducing her after a few days knocks her down a peg in the hierarchy, which can reset the dynamic. [Blu-Kote antiseptic spray](https://www.amazon.com/s?k=blu+kote+spray+poultry&tag=contentportfo-20) can cover wounds and disguise the red color that triggers continued pecking while you manage the situation.

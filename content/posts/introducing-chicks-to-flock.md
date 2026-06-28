@@ -97,6 +97,13 @@ Roosters complicate things. A calm, attentive rooster will sometimes actively sh
 
 ## When to Step In (and When to Let It Play Out)
 
+## Sources
+
+- [Little Giant galvanized hanging feeders](https://amzn.to/3feedlink)
+- [Vetericyn Poultry Care spray](https://amzn.to/3vetlink)
+- [Sound Designer S.K Pramanik](https://www.pexels.com/@sound-designer-s-k-pramanik-785950771)
+
+
 This is genuinely the hardest judgment call in the whole process, and I won't pretend there's a clean rule.
 
 Pecking that produces a small superficial wound is painful to watch but survivable. Pecking that draws blood and doesn't stop is an emergency because of what comes next. Chickens are attracted to the color red with a fervor that's almost Pavlovian, and once a wound is visible, you're no longer dealing with a social dispute, you're dealing with a feeding frenzy.

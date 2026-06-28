@@ -114,6 +114,13 @@ Twelve years in, the thing I've come to believe is that no single bedding choice
 
 ### FAQ
 
+## Sources
+
+- [Nesting Box Pads on Amazon](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
+- [Small Pet Select Hemp Bedding](https://www.amazon.com/s?k=hemp+chicken+bedding&tag=contentportfo-20)
+- [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646)
+
+
 **Which bedding is best for chickens?**
 It depends on your setup, climate, and management style. Pine shavings offer the best balance of cost, absorbency, and ease for most backyard keepers. The deep litter method with pine shavings and occasional supplements works well in moderate climates. Straw excels in cold regions. Sand is great if you're willing to scoop actively and don't need winter insulation. There's no universally "best" option, only the best option for your specific situation.
 

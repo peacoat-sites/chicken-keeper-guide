@@ -85,6 +85,12 @@ Getting hens to use the nesting boxes rather than random corners of the coop or 
 
 ## Breed-by-Breed Comparison: Expected Laying Age
 
+## Sources
+
+- [Precision Pet Excelsior Nesting Pads](https://www.amazon.com/s?k=excelsior+nesting+box+pads&tag=contentportfo-20)
+- [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283)
+
+
 | Breed | Expected First Egg | Annual Egg Production |
 |---|---|---|
 | Leghorn | 16 to 18 weeks | 280 to 320 eggs |

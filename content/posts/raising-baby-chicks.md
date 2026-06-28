@@ -73,6 +73,13 @@ One thing almost nobody mentions: the coop air quality matters more during the t
 
 ## The Breed Question (and Why It Matters Earlier Than You Think)
 
+## Sources
+
+- [Brinsea EcoGlow on Amazon](https://www.amazon.com/s?k=Brinsea+EcoGlow+brooder)
+- [Horizontal chicken nipple waterers on Amazon](https://www.amazon.com/s?k=horizontal+chicken+nipple+waterers)
+- [Duygu](https://www.pexels.com/@duygugungor)
+
+
 You can't raise chicks well without knowing something about what they're going to become, because breeds differ in surprising ways even at the chick stage.
 
 Buff Orpingtons are calm, grow fast, and make excellent first-time birds. Rhode Island Reds are curious and vigorous but can be bullies in a mixed flock from very early on. Easter Eggers are flighty and will absolutely roost on top of your brooder lamp fixture by week two if you give them the chance. Cornish Cross meat chicks need a completely different management approach: lower protein after week three, limited access to feed for 12 hours a day to prevent leg and heart problems, and a tighter processing window. Don't mix Cornish Cross with laying breeds in the same brooder unless you enjoy chaos.

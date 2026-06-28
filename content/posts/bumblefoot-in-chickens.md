@@ -113,6 +113,13 @@ Oral antibiotics for bumblefoot typically run 7 to 14 days. The vet may culture 
 
 ## Preventing Bumblefoot Before It Starts
 
+## Sources
+
+- [Vetericyn Plus Poultry Care Spray](https://www.amazon.com/s?k=vetericyn+poultry+spray)
+- [Vetrap 4-inch rolls](https://www.amazon.com/s?k=vetrap+bandage+4+inch)
+- [vet finder tool](https://www.aav.org/search/custom.asp?id=1803)
+
+
 Prevention is genuinely easier than treatment, and most of it comes down to coop management that's good for your flock across the board.
 
 **Roost design:** Use 2x4 lumber laid flat, with the 4-inch side up. This lets the chicken's toes wrap around naturally while their foot pads rest flat. Sand the roost smooth. Set roost height at 18 to 24 inches for heavy breeds, up to 36 inches for lighter ones. Provide ramps or steps if needed.

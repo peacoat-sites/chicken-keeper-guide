@@ -94,6 +94,12 @@ For birds who've lost significant feathering from being pecked, a hen saddle (al
 
 ## The Things That Actually Reduce Aggression Long-Term
 
+## Sources
+
+- [Justiniano Adriano](https://www.pexels.com/@justinianoadriano)
+- same. Aggressive
+
+
 More space is the single highest-impact change you can make. If you can expand the run, do it before anything else.
 
 Beyond space, boredom-busting matters more than most people realize. A flock with a varied environment is a calmer flock. I hang a head of cabbage from the run wire every few days. I scatter scratch grains in a deep layer of leaves or wood chips so they spend an hour doing what they were born to do. Flock blocks, like the ones from Purina (the 25 lb. version is usually around $15), keep birds occupied and also reduce feather-pecking. These aren't fancy. They just work.

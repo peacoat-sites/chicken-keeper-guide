@@ -66,6 +66,13 @@ If you want to be more precise about it, chicken manure averages around 1.1% nit
 
 ### FAQ
 
+## Sources
+
+- [USDA's guide to using poultry manure in gardens](https://www.amazon.com/s?k=chicken+manure+compost+garden)
+- [Friede Dia](https://www.pexels.com/@friededia)
+- here is mixed enough that cautious people reasonably err toward longer wait time
+
+
 #### Can chickens eat vegetable garden scraps and trimmings?
 
 Yes, and most kitchen scraps from your garden are great for them: melon rinds, corn husks, tomato tops, carrot peels, leafy greens. Skip anything in the nightshade family in large quantities, raw potatoes, and onion skins in excess. Chickens are less delicate about food than the internet suggests, but a few things genuinely can cause problems.

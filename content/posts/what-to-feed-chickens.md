@@ -91,6 +91,15 @@ During molt, which typically happens in fall and can last 8 to 16 weeks, bump yo
 
 ## Feeding Schedule and Quantities: A Practical Breakdown
 
+## Sources
+
+- [RentACoop Automatic Chicken Feeder](https://www.amazon.com/s?k=rentacoop+automatic+chicken+feeder)
+- [Manna Pro Poultry Grit](https://www.amazon.com/s?k=manna+pro+poultry+grit)
+- [hanging feeder cup](https://www.amazon.com/s?k=chicken+oyster+shell+feeder)
+- [Rooster Booster Vitamins & Electrolytes](https://www.amazon.com/s?k=rooster+booster+vitamins+electrolytes)
+- [poultry waterer](https://www.amazon.com/s?k=chicken+waterer+automatic)
+
+
 A lot of new keepers ask how much to feed. Here's what actually works:
 
 | Bird Type | Daily Feed Intake | Notes |

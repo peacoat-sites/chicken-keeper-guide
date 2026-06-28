@@ -65,6 +65,12 @@ The documents are clear. The board said no. You got turned down. You still have 
 
 ## Building the Case That Changes Minds
 
+## Sources
+
+- [Mohan Nannapaneni](https://www.pexels.com/@mnannapaneni)
+- Needs Approval People
+
+
 If you're pitching to an HOA board, presentation beats logic every time. These are usually volunteers skeptical of anything new. Your job is making chickens seem boring and manageable.
 
 Breed choice matters. Buff Orpingtons are calm and quiet. Easter Eggers are quiet and those colored eggs actually persuade skeptical neighbors. Skip Leghorns and production breeds if you're trying to stay under the radar. Three to four hens give you steady eggs without a manure nightmare. The OverEZ Large Chicken Coop (about $400 to $500 on Amazon) looks like a cedar garden shed, not a farm structure. Aesthetics count.

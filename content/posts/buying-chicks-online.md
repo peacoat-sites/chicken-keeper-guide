@@ -86,6 +86,13 @@ When chicks land, dip each beak in water before setting them down. This sounds o
 
 ## The Stuff the Hatchery Website Won't Say
 
+## Sources
+
+- [Brinsea EcoGlow brooder plate](https://www.amazon.com/s?k=brinsea+ecoglow+brooder&tag=contentportfo-20)
+- [chick feeder and waterer set](https://www.amazon.com/s?k=chick+feeder+waterer+set&tag=contentportfo-20)
+- [DΛVΞ GΛRCIΛ](https://www.pexels.com/@davegarcia)
+
+
 A few things I learned the hard way:
 
 Hatchery birds are production-selected. Even heritage breed names can be misleading. A "Barred Plymouth Rock" from a large hatchery isn't the same genetics as one from a preservation breeder. It'll still lay well and be friendly, but if you want true heritage conformation for shows or breeding, you need specialty breeders, not hatcheries.

@@ -85,6 +85,12 @@ Most backyard keepers use free-choice feeders, keeping them filled. This works f
 
 ## Comparison Table: Feed Types at a Glance
 
+## Sources
+
+- [poultry feeder](https://www.amazon.com/s?k=chicken+feeder&tag=contentportfo-20)
+- [cottonbro studio](https://www.pexels.com/@cottonbro)
+
+
 | Feed Type | Age/Use | Protein % | Calcium % | Notes |
 |---|---|---|---|---|
 | Chick Starter (Medicated) | 0-8 weeks | 18-22% | < 1% | Contains amprolium; skip if vaccinated |

@@ -92,6 +92,15 @@ A good [poultry health reference like The Chicken Health Handbook](https://www.a
 
 ## Setting Up for Success Before the Birds Arrive
 
+## Sources
+
+- [Storey's Guide to Raising Chickens](https://www.amazon.com/dp/1612129552?tag=contentportfo-20)
+- [poultry health reference like The Chicken Health Handbook](https://www.amazon.com/dp/1612120113?tag=contentportfo-20)
+- [hanging feeder like this one](https://www.amazon.com/dp/B00004RA0J?tag=contentportfo-20)
+- [nipple waterer or horizontal nipple setup](https://www.amazon.com/dp/B07K5MCRML?tag=contentportfo-20)
+- [Brinsea EcoGlow brooder](https://www.amazon.com/dp/B004K8MKGY?tag=contentportfo-20)
+
+
 Once you know your number, set up before the birds come home. This sounds obvious, but I can't count how many people I've talked to who ordered chicks before the coop was finished and ended up with a cardboard box situation in the garage for three weeks longer than planned.
 
 Get your coop ready, including bedding, a proper feeder, and a waterer that won't tip over or foul easily. For small flocks, a simple [hanging feeder like this one](https://www.amazon.com/dp/B00004RA0J?tag=contentportfo-20) keeps feed clean and cuts waste dramatically. A [nipple waterer or horizontal nipple setup](https://www.amazon.com/dp/B07K5MCRML?tag=contentportfo-20) keeps water much cleaner than an open bowl, especially in a coop where birds scratch bedding everywhere.

@@ -92,6 +92,14 @@ Skip the sugar-water recommendation you'll still see on old chicken forum posts.
 
 ### FAQ
 
+## Sources
+
+- [Little Giant Gallon Chick Waterer and Feeder Set](https://www.amazon.com/s?k=little+giant+chick+feeder)
+- [Manna Pro Chick Grit](https://www.amazon.com/s?k=manna+pro+chick+grit)
+- [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283)
+- genuinely doesn't show meaningful differences in bird health outcomes between or
+
+
 #### How long do I feed chick starter?
 
 Feed starter from hatch until around 8 weeks minimum. Many people run starter all the way to 16-18 weeks without any issue, which is fine. The main thing to avoid is switching to layer feed before birds are sexually mature and actively laying, because the high calcium will stress developing kidneys.

@@ -91,6 +91,12 @@ Feeding scraps is simple, but a few habits make a real difference.
 
 ## The Benefits You'll Actually Notice
 
+## Sources
+
+- [Amazon](https://www.amazon.com/s?k=poultry+feed+tray&tag=contentportfo-20)
+- suggests high amounts can interfere with calcium absorption
+
+
 Beyond the obvious perk of reducing food waste, feeding kitchen scraps well has a few real-world payoffs.
 
 Behavior and enrichment are the big ones. Chickens are intelligent birds and get bored in confined spaces. Tossing in a variety of scraps, especially things with different textures like corn cobs, whole grapes, or a halved pumpkin, gives them hours of pecking activity. I've seen flocks with regular scrap access show noticeably less feather-pecking and fewer squabbles, simply because they have more to do.

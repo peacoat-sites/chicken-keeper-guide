@@ -71,6 +71,11 @@ Moldy food is the other category people skip over entirely. Mold produces mycoto
 
 ## Treats That Actually Do a Job
 
+## Sources
+
+- [Avinash reddy Kosna](https://www.pexels.com/@avinash-reddy-kosna-227061)
+
+
 Some treats pull double duty, and those are the ones worth keeping on hand.
 
 Fermented feed is technically a food, not a treat, but a lot of keepers introduce it as an add-on and their hens treat it like one. Fermenting your regular layer feed for 3-4 days (just water, a jar, and time) increases nutrient bioavailability and adds beneficial bacteria. I saw a noticeable improvement in shell quality and overall flock energy the first winter I did this consistently.

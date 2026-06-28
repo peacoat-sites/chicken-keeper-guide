@@ -59,6 +59,12 @@ One more thing that catches people off guard: when you add new hens, the box dyn
 
 ## Communal Boxes: A Contrarian Take
 
+## Sources
+
+- [Premier 1's plastic nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=)
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+
+
 Most advice you'll read is about individual cubbies, and that is what works best for most backyard setups. But I'll say this: large communal nesting boxes, basically one long trough-style box instead of individual cubbies, work surprisingly well for calm, same-age flocks.
 
 I ran a 48-inch open communal box for a flock of eight Sussex for almost two years. No drama. Multiple hens would lay simultaneously, side by side, no dividers needed. The tradeoff is that one broody hen can block more real estate in a communal setup, and if you've got a bossy hen, she'll claim the whole thing. Know your flock.

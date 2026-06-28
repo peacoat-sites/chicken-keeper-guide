@@ -96,6 +96,14 @@ For feeders and waterers that make daily management easier, I've had great resul
 
 ## Mixed Flocks: Pairing Friendly Breeds Together
 
+## Sources
+
+- [horizontal nipple waterers](https://www.amazon.com/s?k=horizontal+nipple+chicken+waterer&tag=contentportfo-20)
+- [hanging feeders](https://www.amazon.com/s?k=hanging+chicken+feeder&tag=contentportfo-20)
+- [adding extra feeders and waterers](https://www.amazon.com/s?k=chicken+feeder+set&tag=contentportfo-20)
+- [TIVASEE .](https://www.pexels.com/@tivasee-17374727)
+
+
 If you're mixing breeds, a little forethought goes a long way. Friendly doesn't always mean compatible. Putting a docile Silkie in with a flock of Rhode Island Reds can result in the Silkie getting bullied badly, because RIRs are assertive and Silkies don't really push back.
 
 The general rule is to pair similar temperaments. Buff Orpingtons, Australorps, Speckled Sussex, and Easter Eggers all coexist well together because they're in roughly the same tier: friendly but not pushover, curious but not aggressive. Salmon Faverolles and Silkies do better with other gentle breeds or in smaller breed-specific flocks.

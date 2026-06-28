@@ -81,6 +81,14 @@ If you're building from scratch, [a solid resource like Storey's Guide to Raisin
 
 ## Don't Forget the Run: Coop Size and Outdoor Space Work Together
 
+## Sources
+
+- [nesting box pads like these](https://www.amazon.com/s?k=chicken+nesting+box+pads)
+- [a solid resource like Storey's Guide to Raising Chickens](https://www.amazon.com/s?k=storey%27s+guide+to+raising+chickens)
+- [Automatic coop door openers](https://www.amazon.com/s?k=automatic+chicken+coop+door+opener)
+- [cottonbro studio](https://www.pexels.com/@cottonbro)
+
+
 The coop size question can't be answered honestly without talking about the run. These two spaces are a system, not independent units.
 
 The generally accepted minimum for a run is 10 square feet per bird for standard breeds. In practice, I find that 15 to 20 square feet per bird is where you start to see genuinely healthy, low-stress outdoor behavior. Birds scratch properly, establish a pecking order without constant fighting, and actually forage instead of just pacing.

@@ -90,6 +90,14 @@ This category blindsides people the most because it often hits your best layers.
 
 ## A Practical Step-by-Step Sick Bird Assessment
 
+## Sources
+
+- [Elector PSP](https://www.amazon.com/s?k=Elector+PSP+poultry+mites&tag=contentportfo-20)
+- [nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
+- [The Chicken Health Handbook by Gail Damerow](https://www.amazon.com/s?k=Chicken+Health+Handbook+Gail+Damerow&tag=contentportfo-20)
+- [Weder Soares Dos Santos](https://www.pexels.com/@weder-soares-dos-santos-202980724)
+
+
 When you find a bird that's "off," don't panic. Work through this systematically before you reach for a treatment or call a vet.
 
 **Step 1: Isolate her.** Separate the sick bird from the flock immediately. This protects other birds and lets you observe her without competition stress.

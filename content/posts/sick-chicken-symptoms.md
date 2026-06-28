@@ -90,6 +90,13 @@ Acting fast matters. Here's what I do every time I spot a bird who doesn't look 
 
 ## The Diseases Most Backyard Keepers Don't Prepare For
 
+## Sources
+
+- [Rooster Booster Poultry Cell](https://www.amazon.com/s?k=rooster+booster+poultry+cell&tag=contentportfo-20)
+- [The Chicken Health Handbook by Gail Damerow](https://www.amazon.com/s?k=chicken+health+handbook+gail+damerow&tag=contentportfo-20)
+- [cute 嘟](https://www.pexels.com/@cute-340348698)
+
+
 I spent the first three years keeping chickens completely unprepared for Marek's Disease. Nobody talks about it on the glossy hatchery pages. Marek's is a herpesvirus that spreads through dander and dust, present in virtually every flock environment, and causes leg paralysis, vision loss, and tumors. Vaccination at hatch is standard prevention, and most hatcheries do vaccinate, but it's not 100% protective. It suppresses symptoms but doesn't prevent infection. If you're buying from a farm store or local breeder, ask specifically about vaccination status.
 
 Egg yolk peritonitis is another blindsider. A hen's ovulation goes sideways and yolk material ends up in the abdominal cavity instead of the oviduct. The abdomen fills with fluid and infected material. She looks like a penguin, stands upright with a swollen belly, often has a greenish pallor to her comb. The prognosis is poor. I've lost two birds to it, both production-oriented breeds (a Golden Comet and an ISA Brown) bred to lay heavily. High-production breeds really are more prone to reproductive disorders. It's a real trade-off worth understanding before you stock your flock.

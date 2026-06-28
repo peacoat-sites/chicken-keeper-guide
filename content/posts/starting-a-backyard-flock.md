@@ -97,6 +97,15 @@ If you're starting with day-old chicks from a hatchery or feed store, the first 
 
 ## Common Health Issues and When to Worry
 
+## Sources
+
+- [Run Chicken Automatic Door](https://www.amazon.com/s?k=automatic+chicken+coop+door&tag=contentportfo-20)
+- [Precision Pet Nesting Box Pads](https://www.amazon.com/s?k=nesting+box+pads+chickens&tag=contentportfo-20)
+- [Horizontal nipple waterers](https://www.amazon.com/s?k=horizontal+nipple+chicken+waterer&tag=contentportfo-20)
+- [Brinsea EcoGlow](https://www.amazon.com/s?k=brinsea+ecoglow+brooder&tag=contentportfo-20)
+- [Storey's Guide to Raising Chickens by Gail Damerow](https://www.amazon.com/s?k=storey%27s+guide+to+raising+chickens&tag=contentportfo-20)
+
+
 You don't need to be a veterinarian to keep healthy chickens, but knowing what to watch for saves birds.
 
 **Respiratory symptoms** (rattling breath, gurgling, nasal discharge) can indicate Mycoplasma gallisepticum or other respiratory infections. Separate the bird immediately to prevent spread. Tylan 50 injectable or Duramycin in water are commonly used, though consulting a vet is always better when available.

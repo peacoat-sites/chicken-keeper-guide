@@ -126,6 +126,15 @@ These three things get overlooked in a lot of coop-cleaning guides, and they abs
 
 ## Common Mistakes That Make Coop Cleaning Harder
 
+## Sources
+
+- [Oxine AH](https://www.amazon.com/s?k=oxine+ah+poultry+disinfectant)
+- [Tractor Supply's VetRx](https://www.amazon.com/s?k=vetrx+poultry)
+- [Precision Pet nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads)
+- [droppings board](https://www.amazon.com/s?k=chicken+droppings+board)
+- [nipple-style waterer system](https://www.amazon.com/s?k=chicken+nipple+waterer)
+
+
 After a decade-plus of this, I've made all of these.
 
 **Cleaning too infrequently and then expecting a fast fix.** Litter that's been ignored for months takes serious time and effort. When ammonia smell becomes the reason you finally act, you're already behind.

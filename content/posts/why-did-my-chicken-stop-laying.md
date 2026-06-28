@@ -105,6 +105,14 @@ Unless you see signs of illness or distress, give a healthy-looking hen two week
 
 ## A Quick Comparison: Common Causes at a Glance
 
+## Sources
+
+- [Manna Pro Dried Mealworms](https://www.amazon.com/s?k=manna+pro+dried+mealworms+chickens)
+- [Elector PSP](https://www.amazon.com/s?k=elector+psp+chickens)
+- [Sunrise/sunset calculators](https://www.timeanddate.com/sun/)
+- [ROMAN ODINTSOV](https://www.pexels.com/@roman-odintsov)
+
+
 | Cause | Typical Duration | Eggs Return? | Action Needed |
 |---|---|---|---|
 | Seasonal light reduction | Ongoing through winter | Yes, with more light or spring | Add supplemental lighting or wait |

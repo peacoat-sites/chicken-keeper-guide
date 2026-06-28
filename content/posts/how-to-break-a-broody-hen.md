@@ -104,6 +104,14 @@ Also make sure the nest box area is clean when you return her. If you're breakin
 
 ## Why Some Hens Go Broody Repeatedly
 
+## Sources
+
+- [Dried mealworms](https://www.amazon.com/s?k=dried+mealworms+for+chickens)
+- [Poultry dust](https://www.amazon.com/s?k=poultry+dust+mites)
+- [nesting pad](https://www.amazon.com/s?k=chicken+nesting+box+pads)
+- [Thobane Innocent](https://www.pexels.com/@thobane-innocent-2879418)
+
+
 Some hens go broody three or four times a year while your other hens never do. The honest answer is that broodiness is largely genetic, and some individual hens simply have a stronger hormonal trigger than others.
 
 If you've got one of these reliably broody birds and you're consistently having to break her, that's worth factoring into your flock planning. She's spending significant time out of production and potentially stressing herself with repeated weight loss cycles. Some keepers with reliably broody hens choose to rotate hatches intentionally so the broodiness works for them instead of against them.

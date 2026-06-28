@@ -95,6 +95,12 @@ Two or three chicks integrating alone are more vulnerable than a group of six or
 
 ## One Thing That Throws Off Your Timeline Completely
 
+## Sources
+
+- [Harris Farms Portable Chicken Coop](https://amzn.to/example)
+- [Mahmoud Yahyaoui](https://www.pexels.com/@mahmoud-yahyaoui)
+
+
 Late fall or winter hatching. If you hatched or bought chicks in October or November, everything above still applies in terms of feathering and temperature, but the math just doesn't work out the same way. You might have fully feathered birds at 7-8 weeks in December, with nighttime temps in the 20s.
 
 You've got two reasonable paths: keep a heat source running in the coop until spring, or extend the indoor brooder period. I've done both. Extending the brooder is a miserable experience by week ten because the birds are big, they're loud, and the dust is extraordinary. Running a low-wattage flat panel heater in a well-insulated coop (something like the Cozy Products CL Cozy safe chicken coop heater, around $50) is the more practical solution for most people.

@@ -67,6 +67,13 @@ Don't expect chickens to replace any serious pest management program. Think of t
 
 ## Soil fertility: the part people undersell
 
+## Sources
+
+- [chicken tractor](https://amzn.to/example)
+- [Raised bed hoops and netting systems](https://amzn.to/example)
+- [Jahangir Parvez](https://www.pexels.com/@jahangir-parvez-2155365464)
+
+
 This is actually where garden-chicken integration pays its biggest dividends, and most articles gloss over it.
 
 Chicken manure is high in nitrogen, roughly 1.1 percent by weight, which is significantly higher than horse or cow manure. It's also hot: fresh chicken manure applied directly to plant roots will burn them. But when it's worked into soil two to four weeks before planting, or when it's been composted first, it's genuinely excellent fertility input.

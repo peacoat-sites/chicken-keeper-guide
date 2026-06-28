@@ -102,6 +102,15 @@ I've made most of these myself.
 
 ## Enrichment and Run Management: Making Smaller Spaces Work Harder
 
+## Sources
+
+- [Vetericyn wound spray](https://www.amazon.com/s?k=vetericyn+poultry+spray)
+- [Quality hardware cloth](https://www.amazon.com/s?k=hardware+cloth+half+inch+chicken+run)
+- [UV-blocking shade cloth](https://www.amazon.com/s?k=shade+cloth+for+chicken+run)
+- [Horizontal nipple waterers](https://www.amazon.com/s?k=chicken+nipple+waterer)
+- [Sarah-Claude Lévesque St-Louis](https://www.pexels.com/@sarah-claude-levesque-st-louis-156920272)
+
+
 Not everyone has a quarter acre for a chicken run. Suburban and urban keepers work with genuine physical constraints. Smart management can stretch your square footage meaningfully.
 
 Rotating access is one of the best tools. Build two smaller sections side by side and alternate which section the flock uses. One side rests, grass recovers, ground dries out, and your birds always have a healthier environment than a single static run could provide.

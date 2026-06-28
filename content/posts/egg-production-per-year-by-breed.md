@@ -100,6 +100,12 @@ Pick the best-laying breed in the world and then get the basics wrong, and you'l
 
 ## How to Calculate What Your Flock Will Actually Produce
 
+## Sources
+
+- [A basic plug-in timer](https://amzn.to/3example)
+- [Klaus Nielsen](https://www.pexels.com/@klaus-nielsen)
+
+
 Don't just pick breeds by the top number. Do the math for your specific situation.
 
 **Step 1: Decide your target.** How many eggs per week does your household use? Two adults cooking regularly might go through 1.5-2 dozen per week. A family of four, maybe 3 dozen.

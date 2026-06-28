@@ -122,6 +122,13 @@ If you suspect or confirm a worm issue, here's the approach I'd take, based on w
 
 ## Prevention: What Actually Moves the Needle
 
+## Sources
+
+- [Merck Veterinary Manual](https://www.merckvetmanual.com)
+- here is a little frustrating for backyard keepers in the United States
+- here is mixed at best
+
+
 You can't fully prevent worms if your birds have access to soil. What you can do is reduce the burden and catch problems early.
 
 Pasture rotation is the single most effective tool, and it's free if you have the space. Giving a pasture area a 3 to 6 month rest dramatically reduces the infective egg population in the soil. Even rotating between two sections helps.

@@ -74,6 +74,11 @@ Also: overcrowding is a smell problem. If you have eight birds in a 4x6 coop, no
 
 ## Summer Is a Different Animal
 
+## Sources
+
+- [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646)
+
+
 High heat accelerates bacterial breakdown and ammonia production. What smells fine in February can get genuinely unpleasant by July. In summer I add bedding more frequently, turn it more often, and clean the poop board twice a day on the hottest weeks.
 
 I also move to a partial deep litter in summer, meaning I keep the layer thinner (around 4 to 6 inches) and spot-clean more often rather than letting it build. The composting heat that's an asset in winter becomes a liability when ambient temperatures are already in the 90s.

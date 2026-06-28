@@ -71,6 +71,13 @@ Don't put fresh manure on anything you're actively eating.
 
 ## The Deep Litter Method and Its Fertilizer Implications
 
+## Sources
+
+- [Espoma Organic Chicken Manure](https://www.amazon.com/s?k=espoma+chicken+manure&tag=contentportfo-20)
+- [Greta Hoffman](https://www.pexels.com/@greta-hoffman)
+- on compost tea is mixed as to whether it adds meaningful microbial diversity
+
+
 If you're not using deep litter in your coop, you might want to reconsider, at least partially because of what it does for your end product. Instead of cleaning the coop weekly, you add fresh bedding on top of old and let microbial activity in the litter break down the manure in place. By the time you do a full coop clean once or twice a year, what comes out is already partly composted, much lower in ammonia, and easier to handle.
 
 I run 6 to 8 inches of pine shavings in my main coop and add a fresh layer every few weeks. The litter I pull out in spring barely smells and goes straight onto the garden beds or into a secondary compost pile to finish. It's a different material than fresh wet manure, more manageable in every way.

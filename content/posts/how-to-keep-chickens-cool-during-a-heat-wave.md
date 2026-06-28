@@ -82,6 +82,12 @@ About misters: they're excellent in the desert southwest. In Georgia in August, 
 
 ## Feeding Strategy During a Heat Wave
 
+## Sources
+
+- [Harris Farms Galvanized Poultry Waterer](https://www.amazon.com/s?k=harris+farms+galvanized+poultry+waterer)
+- [Durvet Vitamins & Electrolytes](https://www.amazon.com/s?k=durvet+poultry+electrolytes)
+
+
 Digesting feed generates body heat. The fermentation of a heavy grain diet produces real metabolic warmth, which is why you want to adjust feeding during extreme heat.
 
 Don't cut feed entirely, but shift the timing. Feed your flock in the early morning and late evening when temps are lower. Avoid putting out a full feeder at noon during a 100-degree day. Pull layer pellets during the hottest hours if birds aren't eating anyway.

@@ -85,6 +85,12 @@ Some foods should never make it into the scraps bucket regardless of portion siz
 
 ## Step-by-Step: Setting Up a Daily Feeding Routine That Works
 
+## Sources
+
+- [Grandpa's Feeders Automatic Chicken Feeder](https://www.amazon.com/dp/B08N5PFLTK?tag=contentportfo-20)
+- their flocks consuming 20 to 30 percent less commercial feed
+
+
 Getting consistent with feeding pays off quickly in flock health and egg production. Here's how to dial it in.
 
 **Step 1: Establish a baseline.** For one week, measure exactly how much feed you put into the feeder each day and weigh what's left at the same time the next morning. The difference is your flock's actual daily consumption. Do this when there are no unusual variables: no heat wave, no molt, no new birds.

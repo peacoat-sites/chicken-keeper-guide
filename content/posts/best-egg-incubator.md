@@ -61,6 +61,13 @@ The [Brinsea Mini Advance](https://www.amazon.com/s?k=brinsea+mini+advance+incub
 
 ## The Setup Details People Get Wrong
 
+## Sources
+
+- [Brinsea Mini Advance](https://www.amazon.com/s?k=brinsea+mini+advance+incubator&tag=contentportfo-20)
+- [egg turner for HovaBator](https://www.amazon.com/s?k=hovabator+egg+turner&tag=contentportfo-20)
+- [Jahra Tasfia Reza](https://www.pexels.com/@jahratreza)
+
+
 Run your incubator empty for 24 hours before you set eggs. Monitor the temperature at multiple points if possible. Find out where your hot spots are. This seems obvious but I'd say 40% of people skip this and then wonder why hatch rates are poor.
 
 Placement matters more than guides admit. Keep it away from windows (direct sun will spike temps), away from HVAC vents, and in a room with consistent ambient temperature. My first incubator sat next to a drafty November window and I couldn't figure out why temperature kept swinging. It wasn't the incubator.

@@ -62,6 +62,11 @@ This scale question is the one most new keepers aren't prepared for. If your gar
 
 ## The Waiting Period Before Application
 
+## Sources
+
+- [Bruna Fossile](https://www.pexels.com/@bruna-fossile-183845208)
+
+
 Finished, cured compost can generally go on garden beds any time. The USDA National Organic Program guidelines call for a 90-day minimum between application of composted manure and harvest on crops where the edible part doesn't contact the soil (corn, tomatoes, peppers), and 120 days for root crops or anything with soil contact. Those timelines assume the compost reached proper temperatures. If you've done a proper hot compost, you're covered. If you cold composted, be more conservative and apply in fall for spring planting.
 
 Raw or partially composted manure on vegetable beds is the mistake I'd most want readers to avoid. The burn risk is real. The pathogen risk is real. A bad experience in year one turns people off from a practice that would otherwise serve them for decades.

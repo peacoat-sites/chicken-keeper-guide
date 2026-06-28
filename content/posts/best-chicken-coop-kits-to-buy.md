@@ -72,6 +72,15 @@ Most people skip this part because they're excited to get their chicks settled. 
 
 ## What Size Do You Actually Need?
 
+## Sources
+
+- [You can check current pricing on Amazon here.](https://www.amazon.com/s?k=OverEZ+Large+Chicken+Coop&tag=contentportfo-20)
+- [Thompson's WaterSeal](https://www.amazon.com/s?k=thompsons+waterseal+wood+stain&tag=contentportfo-20)
+- [barrel bolt locks](https://www.amazon.com/s?k=barrel+bolt+latch+heavy+duty&tag=contentportfo-20)
+- [adjustable vent covers](https://www.amazon.com/s?k=chicken+coop+vent+cover&tag=contentportfo-20)
+- [Nesting box pads like these from Hentastic or RentACoop](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
+
+
 People underestimate this every time. Go one size up from what you think you need, because you will add birds. It's called chicken math and it's real. You start with four Buff Orpingtons and then a friend is selling Easter Eggers and suddenly you're short on space.
 
 If you want 3–4 birds long-term: grab the Pets Imperial Clarence or something similar in the $350–$450 range.

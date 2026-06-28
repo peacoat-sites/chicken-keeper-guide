@@ -55,6 +55,11 @@ I'd push back on one popular belief specifically: that you can predict sex by be
 
 ## What Actually Helps When You're Watching Chicks Grow
 
+## Sources
+
+- [Lauren Heaton](https://www.pexels.com/@lauren-heaton-76106296)
+
+
 If you're hatching your own eggs or buying straight-run chicks, you're waiting for secondary sex characteristics to develop. By 3-4 weeks, cockerels in most breeds will start showing slightly thicker legs, a more upright posture, and early comb development that's pinker and larger than the pullets'. By 6-8 weeks it becomes fairly obvious in most dual-purpose breeds like Rhode Island Reds, Plymouth Rocks, and Wyandottes.
 
 Silkies and a few other breeds are genuinely difficult even at 12 weeks. I've seen experienced keepers get Silkie sexes wrong at 3 months. If you want Silkie hens and can't tolerate any roosters, buy DNA-sexed birds or sex-link hybrids. The Silkie situation is its own special chaos.

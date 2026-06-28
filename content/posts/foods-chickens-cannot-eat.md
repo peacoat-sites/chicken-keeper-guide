@@ -100,6 +100,13 @@ Giving scraps is one of the best parts of keeping chickens, and there's plenty y
 
 ## What Happens in the Coop and Run Also Matters
 
+## Sources
+
+- [poultry waterer with a nipple system](https://www.amazon.com/s?k=chicken+nipple+waterer&tag=contentportfo-20)
+- [Emma Cate](https://www.pexels.com/@emmacate)
+- their hens have pecked at rhubarb without immediate problems
+
+
 Food safety isn't just about what you intentionally offer. Your chickens are omnivores with curious beaks, and they'll peck at things you never intended them to eat.
 
 If your coop is next to a garden, check what's planted near the fence line. Many ornamental plants are toxic: foxglove, oleander, hemlock, yew, azalea, and rhododendron can all cause serious problems if your flock gets to them while free ranging. I've seen keepers with beautiful flower gardens lose birds because a determined hen worked her way through a gap in the fence. Good [chicken coop predator protection](/chicken-coop-predator-protection/) also means keeping chickens contained away from hazardous plants.

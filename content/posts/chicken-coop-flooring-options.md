@@ -69,6 +69,12 @@ What surprised me when I first committed to the method properly was how warm the
 
 ## Rubber Stall Mats: Underrated, Underused
 
+## Sources
+
+- [Thanh Lâm](https://www.pexels.com/@thanh-lam-822158566)
+- breeds for weeks
+
+
 I want to make a case for rubber stall mats as a base layer in coops with existing concrete or compacted gravel floors. The 4x6-foot, 3/4-inch mats sold for horse stalls at Tractor Supply run about $55 each currently. They're heavy (around 100 pounds per mat), which is actually a feature since they don't shift, they insulate the floor from cold, and they're easy on feet.
 
 On top of the mat you still run bedding. But the mat prevents the "cold slab" problem that makes concrete coops so uncomfortable in winter, and it gives you a cleanable base that you can pull out and scrub with a stiff brush twice a year. I've got two of these in my third coop, which has a poured concrete floor from the structure's previous life as a small equipment shed. The birds visibly prefer that space in February.

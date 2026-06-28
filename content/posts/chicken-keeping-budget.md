@@ -61,6 +61,12 @@ Nesting pads are a legitimately useful small expense. [Precision Pet Excelsior N
 
 ## Annual Cost Summary for a Six-Hen Flock
 
+## Sources
+
+- [Precision Pet Excelsior Nesting Pads](https://www.amazon.com/s?k=excelsior+nesting+pads+chickens&tag=contentportfo-20)
+- [Lukas Kaufmann](https://www.pexels.com/@lukas-kaufmann-2160154225)
+
+
 Rough annual totals, after startup:
 
 - Feed and oyster shell: $650 to $900

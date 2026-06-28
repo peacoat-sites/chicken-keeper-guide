@@ -96,6 +96,11 @@ If you're new to raising chickens or still building out your setup, our guide on
 
 ## Grit for Baby Chicks: Getting It Right from the Start
 
+## Sources
+
+- [quality poultry grit product on Amazon](https://www.amazon.com/s?k=poultry+grit+for+chickens)
+
+
 Chicks are where grit mistakes tend to have the most immediate consequences. A gizzard impaction in a three-week-old chick can kill it within 24 to 48 hours, and by the time you notice something is wrong, it can be very difficult to treat.
 
 The rule is simple: if a chick eats anything other than commercially formulated crumble, it needs access to appropriately sized grit. Commercial starter crumble is ground so fine that the chick's developing gizzard can handle it without additional help. The moment you introduce treats, ranging from a piece of watermelon to a handful of mealworms to a torn-up dandelion leaf, grit becomes necessary.

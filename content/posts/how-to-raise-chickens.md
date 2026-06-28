@@ -99,6 +99,15 @@ Build a relationship with a vet who sees poultry before you need one urgently. N
 
 ## Managing Your Flock Day-to-Day
 
+## Sources
+
+- [radiant heat plate](https://www.amazon.com/s?k=chick+brooder+heating+plate)
+- [small chick feeder](https://www.amazon.com/s?k=chick+feeder)
+- [one-quart chick waterer](https://www.amazon.com/s?k=chick+waterer)
+- [nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads)
+- [The Chicken Chick's Guide to Backyard Chickens](https://www.amazon.com/s?k=chicken+chick+guide+backyard+chickens)
+
+
 The daily rhythm of chicken keeping is honestly one of its best parts. It grounds you. Five minutes in the morning and five minutes at night is enough on most days.
 
 **Morning routine:**

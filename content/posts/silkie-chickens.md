@@ -66,6 +66,14 @@ Keeping Silkies in a separate, dedicated pen is the cleaner solution and the one
 
 ## Health and Grooming
 
+## Sources
+
+- [Tilly's Nest Organic Coop Refresher](https://www.amazon.com/s?k=organic+coop+refresher+chickens&tag=contentportfo-20)
+- [Precision Pet Excelsior Nesting Pads](https://www.amazon.com/s?k=excelsior+nesting+pads+chickens&tag=contentportfo-20)
+- [Marius-Laurentiu Butan](https://www.pexels.com/@marius-laurentiu-butan-98487327)
+- definitely a chicken, but someone customized it. Personality
+
+
 The crest needs periodic trimming. Let it grow unchecked and your hen can't see well enough to find her food and water reliably, let alone spot danger. A small pair of poultry scissors and a straight trim across the front of the crest every few months is enough. Some people find this distressing aesthetically. Do it anyway.
 
 Silkies are more susceptible to Marek's disease than many other breeds, so vaccination at hatch matters. If you're buying from a local breeder, ask specifically about Marek's vaccination. Hatcheries like Cackle and Meyer routinely vaccinate, but backyard breeders sometimes skip it.

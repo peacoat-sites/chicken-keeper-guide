@@ -113,6 +113,13 @@ For supportive care supplies, a vitamin-electrolyte supplement like [Sav-A-Chick
 
 ## Prevention: Building a Flock That Can Weather Marek's
 
+## Sources
+
+- [Sav-A-Chick electrolytes](https://www.amazon.com/s?k=sav-a-chick+electrolytes&tag=contentportfo-20)
+- [*Chicken Health Handbook*](https://www.amazon.com/s?k=gail+damerow+chicken+health+handbook&tag=contentportfo-20)
+- [Quang Nguyen Vinh](https://www.pexels.com/@quang-nguyen-vinh-222549)
+
+
 The most important thing you can do happens before you ever buy a bird.
 
 **Biosecurity checklist for Marek's prevention:**

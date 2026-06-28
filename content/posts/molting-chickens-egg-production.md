@@ -87,6 +87,15 @@ This timeline assumes a flock of standard laying breeds in a climate with real s
 
 ## Setting Realistic Expectations for Post-Molt Production
 
+## Sources
+
+- [Storey's Guide to Raising Chickens](https://www.amazon.com/Storeys-Guide-Raising-Chickens-4th/dp/1612120retrospect)
+- [food-grade diatomaceous earth](https://www.amazon.com/s?k=food+grade+diatomaceous+earth+poultry)
+- [washable nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads)
+- [Brandie Robbins](https://www.pexels.com/@brandie)
+- here is mixed on whether adding artificial light during molt helps or hurts
+
+
 Here's something hatchery websites don't tell you clearly: a hen's laying capacity decreases with each molt. First-year pullets lay the most eggs they'll ever lay. After the first molt, production drops by roughly 15 to 20%. After the second molt, it drops again. By year three or four, you're looking at some heritage breeds producing 40 to 60% of their first-year peak.
 
 This is why commercial egg operations cull hens after 12 to 18 months. It's also why your decision about whether to keep aging hens is a real one with real tradeoffs.

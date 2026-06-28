@@ -75,6 +75,12 @@ Fresh water, access to grit if they're free-ranging, and a coop with adequate ve
 
 ## Sourcing ISA Browns
 
+## Sources
+
+- [Manna Pro Oyster Shell](https://www.amazon.com/Manna-Pro-Crushed-Oyster-Shell/dp/B0002DJPLU?tag=contentportfo-20)
+- [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283)
+
+
 You'll find them at most major hatcheries: Cackle Hatchery, Meyer Hatchery, Hoover's Hatchery. Tractor Supply Co. stocks them seasonally as well. Quality is generally consistent across sources because the genetics are so standardized, though I'd still lean toward a hatchery that vaccinates for Marek's disease as a baseline. It's an easy thing to ask when you're ordering.
 
 ---

@@ -67,6 +67,15 @@ Where I do think organic feed makes a difference is in what it doesn't contain. 
 
 ## Storing Feed So You Don't Throw Money Away
 
+## Sources
+
+- [Their Naturally Free Organic Layer Feed runs around $45-50 for 25 pounds](https://amzn.to/3example)
+- [food-grade 5-gallon bucket](https://amzn.to/3example)
+- [A 31-gallon Behrens can](https://amzn.to/3example)
+- [Павел Гавриков](https://www.pexels.com/@79376109)
+- here is genuinely mixed
+
+
 One thing people underestimate is how quickly organic feed can go rancid or grow mold, especially in summer. Because organic feeds don't use synthetic preservatives, the fats in the grain oxidize faster. A 50-pound bag of organic layer feed left in a hot garage for six weeks is a 50-pound bag of garbage.
 
 I store all feed in a metal galvanized trash can with a tight lid. [A 31-gallon Behrens can](https://amzn.to/3example) holds about 50 pounds of pellets with room to spare and keeps rodents out completely. I buy no more than a 2-3 week supply at a time in summer. In winter I can stretch to a month. This matters even more with mash and crumble forms, which have more surface area exposed to air and moisture.

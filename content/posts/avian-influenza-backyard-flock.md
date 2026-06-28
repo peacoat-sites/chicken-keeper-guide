@@ -73,6 +73,11 @@ That's exactly why prevention is worth the effort.
 
 ## What About the Risk to Humans?
 
+## Sources
+
+- [Magali Guimarães](https://www.pexels.com/@magali-guimaraes-3411930)
+
+
 The current H5N1 strain has shown the ability to infect humans in a small number of cases, primarily people with direct, prolonged contact with infected birds or raw poultry products. As of 2026, there is no confirmed evidence of sustained human-to-human transmission. The risk to a backyard keeper who handles healthy birds normally is considered low by public health agencies.
 
 That said, if your birds are showing symptoms, wear a well-fitted N95 mask, eye protection, and gloves when you're around them. Avoid touching your face. Wash your hands thoroughly. These aren't overcautions. They're sensible precautions given what we know right now, and they cost you very little.

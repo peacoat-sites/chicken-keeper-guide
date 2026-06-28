@@ -92,6 +92,14 @@ Scratch grain is fine as a winter treat and does generate some metabolic heat as
 
 ## Comparison: Supplemental Light vs. Winter Rest
 
+## Sources
+
+- [Black Soldier Fly Grubs](https://amzn.to/3example1)
+- [outlet timer like this one](https://amzn.to/3example2)
+- [Farm Innovators Heated Poultry Drinker](https://amzn.to/3example3)
+- [Kadir Polat](https://www.pexels.com/@kadir-polat-304109907)
+
+
 | Factor | Supplemental Light | Natural Winter Rest |
 |---|---|---|
 | Egg production | Maintains 70-90% of peak | Drops to near zero for 6-12 weeks |

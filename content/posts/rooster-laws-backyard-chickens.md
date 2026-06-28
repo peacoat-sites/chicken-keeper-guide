@@ -66,6 +66,15 @@ A few options that actually work.
 
 ### Frequently Asked Questions
 
+## Sources
+
+- [Municode.com](https://library.municode.com)
+- [@ Prestige by Nature](https://www.pexels.com/@prestige-by-nature-1116200106)
+- Livestock. Talk
+- before the chicks arrived
+- and roosters are legal where you are
+
+
 #### Can I keep a rooster if I have a backyard chicken permit?
 
 Not necessarily. Many cities issue permits specifically for hens only. Read the permit language carefully; it will usually say "female chickens" or "laying hens" and explicitly exclude roosters. Assuming your hen permit covers a rooster is one of the most common mistakes I see.

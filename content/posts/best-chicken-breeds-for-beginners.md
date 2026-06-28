@@ -103,6 +103,14 @@ Print this out and tape it to your brooder. These numbers reflect real-world bac
 
 ## Setting Your New Flock Up for Success
 
+## Sources
+
+- [Brinsea EcoGlow brooder](https://www.amazon.com/s?k=brinsea+ecoglow+brooder&tag=contentportfo-20)
+- [Purina Flock Raiser](https://www.amazon.com/s?k=purina+flock+raiser&tag=contentportfo-20)
+- [Excelsior nesting pads](https://www.amazon.com/s?k=excelsior+nesting+box+pads+chickens&tag=contentportfo-20)
+- [Laura Alessia](https://www.pexels.com/@laualessia)
+
+
 Choosing the right breed is step one. What you do next determines whether those birds thrive.
 
 **Step 1: Source your chicks carefully.** Hatcheries like Meyer Hatchery, Cackle Hatchery, and Murray McMurray are reliable sources with good breed stock. Your local feed store chicks are often unlabeled or mislabeled, which defeats the whole purpose of selecting a specific breed.

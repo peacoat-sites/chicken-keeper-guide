@@ -69,6 +69,11 @@ Around day 18, she'll go into "lockdown" mode on her own. She'll barely leave th
 
 ## The Hatch and What Comes Right After
 
+## Sources
+
+- [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646)
+
+
 Day 21 is the target, but don't panic if nothing happens until day 23. Cooler ambient temps slow development. Eggs set at slightly different times can stagger the hatch by a day or two.
 
 Resist the urge to help chicks out of the shell. I know how hard that is to watch. But intervening in a hatch almost always causes more harm than letting a struggling chick take its time. The only exception is a chick that has been "pipped" (broken through the shell) for more than 24 hours with zero progress. That's worth a careful, very slow assist.

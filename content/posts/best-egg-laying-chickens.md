@@ -94,6 +94,15 @@ Breed potential means nothing if the fundamentals aren't right. I've seen flocks
 
 ## Building Your Flock for Year-Round Production
 
+## Sources
+
+- [programmable outlet timer](https://www.amazon.com/s?k=programmable+outlet+timer+chicken+coop&tag=contentportfo-20)
+- [nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
+- [heated poultry waterer](https://www.amazon.com/s?k=heated+chicken+waterer&tag=contentportfo-20)
+- [dried mealworms](https://www.amazon.com/s?k=dried+mealworms+chickens&tag=contentportfo-20)
+- [cottonbro studio](https://www.pexels.com/@cottonbro)
+
+
 If consistent egg supply matters to you, don't put all your eggs in one basket, literally. Running a single breed means your entire flock molts on roughly the same schedule, goes off lay in winter at the same time, and ages out together.
 
 The strategy that works best in my experience is staggering. Get chicks in early spring, then add a second small batch in late summer. This way you'll almost always have hens in active lay, because the younger group is often ramping up just as the older group hits molt.

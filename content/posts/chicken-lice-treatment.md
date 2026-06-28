@@ -112,6 +112,12 @@ Regardless of which product you choose, the two-treatment protocol matters more 
 
 ## Protecting Your Flock Going Forward
 
+## Sources
+
+- [liner-style nesting pads on Amazon](https://www.amazon.com)
+- [Durvet Permethrin Dust](https://www.amazon.com)
+
+
 Lice will always be a possibility if you keep chickens. Wild birds are nearly impossible to exclude entirely. New birds, even from reputable sources, can carry lice. The goal isn't to achieve a zero-risk environment, it's to catch problems early and treat them quickly before birds lose significant condition.
 
 Check your birds monthly during coop cleanings. It takes 30 seconds to flip a hen over and look at her vent. If you develop the habit of doing this every time you clean nesting boxes, you'll catch lice within days of introduction instead of weeks.

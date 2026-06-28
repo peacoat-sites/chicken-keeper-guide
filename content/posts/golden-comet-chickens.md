@@ -67,6 +67,13 @@ Lice and mites are universal chicken problems. But high-production hens that are
 
 ## Is a Golden Comet Right for Your Flock?
 
+## Sources
+
+- [something like this Grandpa's Best hanging feeder setup](https://www.amazon.com/s?k=chicken+oyster+shell+feeder)
+- [Elector PSP](https://www.amazon.com/s?k=elector+psp+chickens)
+- [Jean Marc Pampuch](https://www.pexels.com/@rubis)
+
+
 Depends entirely on what you want.
 
 You need reliable eggs right now? Golden Comets are hard to beat. They're cheap to buy ($3 to $5 as day-old chicks from most hatcheries, including Murray McMurray and Meyer Hatchery), they start laying fast, and they produce heavily for two solid years.

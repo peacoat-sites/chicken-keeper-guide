@@ -88,6 +88,13 @@ For supplies, good-quality nesting pads and proper waterers make a real differen
 
 ## Feeding Cold Hardy Breeds Through Winter
 
+## Sources
+
+- [Nesting box pads like these](https://amzn.to/3example1)
+- [heated poultry waterer](https://amzn.to/3example2)
+- [Nida Kurt](https://www.pexels.com/@nida-kurt-5079840)
+
+
 Calories are warmth. It's that simple. Birds in cold weather need more feed energy to maintain body temperature, and you need to make sure your feeding setup supports that.
 
 Increase scratch grains, particularly cracked corn, in the late afternoon when it's cold. Corn has a higher thermogenic effect than other feeds, meaning it generates more body heat as it's metabolized. It's not a complete diet, but a small afternoon scatter of cracked corn gives birds something to generate heat from overnight.

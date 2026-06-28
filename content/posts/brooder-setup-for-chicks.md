@@ -85,6 +85,15 @@ Small batches are trickier than people expect. A batch of three to five chicks s
 
 ## The Week-by-Week Reality
 
+## Sources
+
+- [Premier 1 Brinsea Cozy Safe Clamp Lamp](https://www.amazon.com/s?k=ceramic+brooder+heat+lamp+clamp)
+- [Brinsea EcoGlow Safety 20A](https://www.amazon.com/s?k=Brinsea+EcoGlow+Safety+20A)
+- [Tractor Supply store-brand pine shavings](https://www.amazon.com/s?k=pine+shavings+for+chicken+brooder)
+- [Little Giant 1-Quart Chick Feeder](https://www.amazon.com/s?k=little+giant+chick+feeder+1+quart)
+- [1-gallon plastic model](https://www.amazon.com/s?k=1+gallon+chick+waterer)
+
+
 Week one: check for pasty butt every single day. Manure gets stuck to the vent opening, blocks it up, kills the chick within a day or two. Clean it off gently with warm water and a cotton ball. It's more common in shipped chicks, probably stress-related.
 
 Week two: wing and tail feathers come in, they get mobile, they try flying. Low-sided containers become escape hazards. Add a wire top now.

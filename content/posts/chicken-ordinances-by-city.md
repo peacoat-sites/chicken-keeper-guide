@@ -84,6 +84,11 @@ If you're already out of compliance, here's what you can actually do:
 
 ## City-by-City Comparison: What to Expect by Municipality Type
 
+## Sources
+
+- [Steven Van Elk](https://www.pexels.com/@steven-van-elk-9757164)
+
+
 This isn't a comprehensive database, but it gives you a realistic framework for what to expect based on where you live.
 
 | Municipality Type | Typical Hen Limit | Roosters | Permit Required | Notes |

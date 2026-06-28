@@ -91,6 +91,14 @@ One thing specific to Easter Eggers: because they carry Araucana heritage, a sma
 
 ## Easter Egger vs. Ameraucana vs. Araucana: Quick Comparison
 
+## Sources
+
+- [Brinsea EcoGlow](https://amzn.to/3EcoGlow)
+- [RentACoop Nesting Box Pads](https://amzn.to/RentACoopPad)
+- [Vet-Rx Poultry Remedy](https://amzn.to/VetRxPoultry)
+- [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283)
+
+
 | Feature | Easter Egger | Ameraucana | Araucana |
 |---|---|---|---|
 | APA Recognized Breed | No | Yes | Yes |

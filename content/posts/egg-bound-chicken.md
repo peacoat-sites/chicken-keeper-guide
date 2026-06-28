@@ -109,6 +109,13 @@ No avian vet nearby? Call ahead anyway. Many regular vets treat poultry emergenc
 
 ## Prevention: What to Do Before It Happens Again
 
+## Sources
+
+- [Manna Pro Oyster Shell](https://www.amazon.com/s?k=manna+pro+oyster+shell)
+- [Black Australorps](https://www.mypetchicken.com/chicken-breeds/Black-Australorp)
+- [Rooster Booster](https://www.amazon.com/s?k=rooster+booster+poultry+vitamins)
+
+
 If she makes it, or if you want to protect your other hens, prevention is simple but has to be specific.
 
 **Calcium every day.** Layer feed by itself isn't enough for hens in high production. Leave oyster shell out in a separate container, free-choice, always available. Hens know how much they need and eat accordingly. [Manna Pro Oyster Shell](https://www.amazon.com/s?k=manna+pro+oyster+shell) is easy to find and works. (This site may earn a commission on purchases through links.)

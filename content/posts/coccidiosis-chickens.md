@@ -107,6 +107,12 @@ Here's the practical cleanup sequence:
 
 ## Prevention: What Actually Works Long-Term
 
+## Sources
+
+- [Rooster Booster Poultry Cell](https://www.amazon.com/s?k=rooster+booster+poultry+cell&tag=contentportfo-20)
+- [horizontal nipple waterers](https://www.amazon.com/s?k=chicken+nipple+waterer&tag=contentportfo-20)
+
+
 Here's the honest truth: you probably can't prevent exposure, and you probably shouldn't try.
 
 What you want is a flock that builds immunity through controlled low-level exposure. Not one that encounters *Eimeria* for the first time as stressed adults.

@@ -74,6 +74,12 @@ If you're selling eggs or giving them to people who are immune-compromised or pr
 
 ## A Contrarian Take Worth Hearing
 
+## Sources
+
+- [Durvet Ivermectin Pour-On](https://www.amazon.com/s?k=durvet+ivermectin+pour-on&tag=contentportfo-20)
+- [Thành Đỗ](https://www.pexels.com/@dothanhyb)
+
+
 A lot of online guides push ivermectin as the first-line treatment for every flock health problem involving crawling things. I'd push back on that. If you're seeing lice specifically (flat, yellowish, fast-moving), permethrin-based dust or spray is actually more targeted and doesn't require an egg withdrawal of the same magnitude. Permethrin isn't absorbed systemically in the same way.
 
 Ivermectin earns its place when you're dealing with mites (which live partly on the bird's blood and benefit from a systemic treatment), scaly leg mites in particular (where topical treatments alone often fail), or confirmed internal parasites. Using it for every lice case is like swatting flies with a sledgehammer. It works, but you're running unnecessary egg withdrawal periods.

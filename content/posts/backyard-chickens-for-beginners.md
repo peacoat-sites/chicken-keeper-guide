@@ -86,6 +86,15 @@ One more thing: grit. Chickens don't have teeth. They need small stones in their
 
 ## Keeping Your Flock Healthy
 
+## Sources
+
+- [Brinsea EcoGlow](https://www.amazon.com/s?k=brinsea+ecoglow+brooder&tag=contentportfo-20)
+- [Purina Flock Raiser](https://www.amazon.com/s?k=purina+flock+raiser+chick+starter&tag=contentportfo-20)
+- [roll-out nesting box pad](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
+- [chicken feeder](https://www.amazon.com/s?k=hanging+chicken+feeder&tag=contentportfo-20)
+- [galvanized poultry waterer](https://www.amazon.com/s?k=galvanized+chicken+waterer&tag=contentportfo-20)
+
+
 Most chicken health problems are preventable with good management. Dirty coops, overcrowding, and poor ventilation cause more deaths and illness than disease outbreaks do.
 
 Clean the coop regularly. I use the deep litter method in winter: start with 4 to 6 inches of bedding, add a fresh layer every week or two, and do a full cleanout in spring. The composting process generates a small amount of heat, which helps in cold climates. In warm months I clean more frequently to keep ammonia levels down.

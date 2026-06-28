@@ -101,6 +101,14 @@ Check every joint and corner on the exterior. A half-inch gap near a vent might 
 
 ## Common Mistakes and How to Avoid Them
 
+## Sources
+
+- [nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
+- [Harris Farms Hanging Poultry Feeder](https://www.amazon.com/s?k=harris+farms+hanging+poultry+feeder&tag=contentportfo-20)
+- [nipple waterer system](https://www.amazon.com/s?k=chicken+nipple+waterer&tag=contentportfo-20)
+- [Ivan Babydov](https://www.pexels.com/@babydov)
+
+
 | Mistake | Why It Matters | The Fix |
 |---|---|---|
 | Too little ventilation | Respiratory illness, ammonia buildup, frostbite | At least 1 sq ft of venting per 10 sq ft of floor space |

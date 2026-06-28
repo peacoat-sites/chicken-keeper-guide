@@ -72,6 +72,14 @@ For feeders, smaller bantams sometimes struggle with standard trough feeders if 
 
 ## Mixing Bantams with Standard Breeds
 
+## Sources
+
+- [These wool nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
+- [gravity tube feeder](https://www.amazon.com/s?k=chicken+tube+feeder+bantam&tag=contentportfo-20)
+- [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646)
+- here is mixed
+
+
 The research here is mixed, honestly, and so is my own experience. I've had bantam hens integrate fine with standard flocks and I've had them bullied to the point of feather loss and injury. The main variable is flock dynamics and space. If you've got pushy breeds in your standard flock, like Rhode Island Reds or production birds who've established a rigid pecking order, adding bantams can go badly.
 
 My most successful mixed flocks have been bantam roosters with bantam hens housed together, adjacent to standard hens with shared run space but separate sleeping areas. That way the bantams have a retreat that the larger birds can't crowd them out of.

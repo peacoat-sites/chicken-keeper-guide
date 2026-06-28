@@ -96,6 +96,12 @@ For coop designs from the ground up, browse [chicken coop plans free](/chicken-c
 
 ## Troubleshooting: When Hens Won't Use Their Boxes
 
+## Sources
+
+- [these nesting box pads on Amazon](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
+- [Thái Trường Giang](https://www.pexels.com/@tieugiang007)
+
+
 Floor laying is the most common complaint. Usually it's boxes that are too bright, too exposed, placed too high (some hens won't bother jumping), or introduced before hens learned to use them. Ceramic eggs or golf balls in the box is one of the oldest tricks and it actually works. Hens see them, check them out, and connect the spot with laying.
 
 Broody hens camping in boxes is another headache. A broody hen sits in one box all day, blocking other hens from getting in. If you're not hatching, you need to break her broodiness by moving her repeatedly, cutting her nesting access, or using a broody cage.

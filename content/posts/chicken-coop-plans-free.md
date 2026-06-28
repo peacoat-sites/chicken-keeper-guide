@@ -107,6 +107,14 @@ That whole process takes maybe an hour and has saved me from two bad builds and 
 
 ## The Gear You'll Want Before Your Flock Moves In
 
+## Sources
+
+- [Storey's Guide to Raising Chickens](https://www.amazon.com/Storeys-Guide-Raising-Chickens-4th/dp/1612129277)
+- [Hentastic Nesting Pads](https://www.amazon.com/s?k=chicken+nesting+box+pads)
+- [RentACoop Automatic Waterer](https://www.amazon.com/s?k=rentacoop+chicken+waterer)
+- [Sergei Starostin](https://www.pexels.com/@sejio402)
+
+
 The coop itself is only part of it. Before your birds arrive, you need working water, a feeder, and proper bedding.
 
 For waterers, I've moved almost entirely to horizontal nipple systems. They stay clean, reduce spilled bedding, and cut down on algae dramatically. Something like the [RentACoop Automatic Waterer](https://www.amazon.com/s?k=rentacoop+chicken+waterer) connects to a bucket or a standard garden hose and largely eliminates the daily chore of refreshing a traditional fount. In winter you'll still need a heated base or a submersible heater in the bucket, but it's still easier than hauling water every day. *(This site may earn a commission on qualifying purchases.)*

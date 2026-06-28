@@ -67,6 +67,12 @@ I'll be honest: if winter production is your main goal, heritage breeds make thi
 
 ## The Welfare Debate
 
+## Sources
+
+- [Pongpoonat Rungrueng](https://www.pexels.com/@14saill)
+- here is mixed on whether you should supplement light for hens going through thei
+
+
 Some keepers refuse to add supplemental lighting on the grounds that it's "unnatural." I respect the position but don't share it. Hens in a coop in Virginia are already living an unnatural life in a dozen ways, including being fed a formulated diet, protected from predators, and housed in artificial structures. The argument that light supplementation specifically crosses some welfare line doesn't hold up to scrutiny for me.
 
 That said, the concern about shortened productive lifespan has some merit. A hen has a finite number of eggs she'll ever produce. Running her year-round does pull from that total faster than a seasonal production cycle. For people keeping hens primarily as pets who happen to lay eggs, the math on that might look different than for someone running a serious backyard operation. Know what you're optimizing for.

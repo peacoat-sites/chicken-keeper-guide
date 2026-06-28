@@ -94,6 +94,13 @@ For nesting boxes, [quality nesting pads](https://www.amazon.com/s?k=chicken+nes
 
 ## The Real Economics of a Dual Purpose Flock
 
+## Sources
+
+- [RentACoop Automatic Chicken Feeder](https://www.amazon.com/s?k=automatic+chicken+feeder+gravity)
+- [quality nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads)
+- [Andrew Swarga](https://www.pexels.com/@andrew-swarga-87684510)
+
+
 People ask whether keeping chickens actually saves money. The honest answer is it depends entirely on management. A poorly managed flock where you feed 15 birds all winter and process zero is an expensive hobby. A well-managed dual-purpose flock produces real food value.
 
 Take Plymouth Rocks as an example. Start with 25 straight-run chicks in April. By fall you've got roughly 12 pullets and 13 cockerels. Process 11 cockerels at 18 weeks (keep one as a breeder rooster if you want to hatch your own). At an average dressed weight of 4.5 pounds each, that's roughly 49 pounds of chicken in your freezer. At $6 per pound for pasture-raised chicken at a farmers market, that's $295 in meat value from birds you raised.

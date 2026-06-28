@@ -107,6 +107,15 @@ You don't need a custom-built coop to get this right. Some of the best-ventilate
 
 ## How to Tell If Your Ventilation Is Working
 
+## Sources
+
+- [*City Chicks*](https://www.amazon.com/City-Chicks-Micro-flock-Management-Self-Reliance/dp/0963092545?tag=contentportfo-20)
+- [Pine shavings](https://www.amazon.com/s?k=pine+shavings+chicken+coop&tag=contentportfo-20)
+- [Harvey Ussery's book](https://www.amazon.com/Small-Scale-Poultry-Flock-Harvey/dp/160358536X?tag=contentportfo-20)
+- [digital hygrometer](https://www.amazon.com/s?k=digital+hygrometer+thermometer&tag=contentportfo-20)
+- [Urban Roots](https://www.pexels.com/@urban-roots-2030955047)
+
+
 Your nose and eyes are your best tools. You don't need fancy equipment.
 
 **Ammonia test:** Walk into your coop first thing in the morning before you've cleaned it or opened it up. Crouch down to roost height and breathe in. If your eyes water or you smell ammonia clearly, your birds have been breathing that all night. Fix it today.

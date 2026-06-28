@@ -1,0 +1,70 @@
+{
+  "breeds": {
+    "Leghorn": {
+      "annual_eggs": 320,
+      "color": "white",
+      "size": "medium",
+      "description": "Best layers, extremely productive"
+    },
+    "Rhode Island Red": {
+      "annual_eggs": 260,
+      "color": "brown",
+      "size": "large",
+      "description": "Reliable, cold-hardy"
+    },
+    "Araucana": {
+      "annual_eggs": 250,
+      "color": "blue/green",
+      "size": "medium",
+      "description": "Unique egg color, friendly"
+    },
+    "Sussex": {
+      "annual_eggs": 250,
+      "color": "brown",
+      "size": "large",
+      "description": "Curious, active foragers"
+    },
+    "Australorp": {
+      "annual_eggs": 250,
+      "color": "brown",
+      "size": "large",
+      "description": "Calm, broody tendency"
+    },
+    "Wyandotte": {
+      "annual_eggs": 240,
+      "color": "brown",
+      "size": "large",
+      "description": "Cold-hardy, broody"
+    },
+    "Buff Orpington": {
+      "annual_eggs": 200,
+      "color": "brown",
+      "size": "large",
+      "description": "Friendly, broody, dual-purpose"
+    },
+    "Silkie": {
+      "annual_eggs": 150,
+      "color": "cream",
+      "size": "small",
+      "description": "Broody, great mothers, fluffy"
+    },
+    "Polish": {
+      "annual_eggs": 200,
+      "color": "white",
+      "size": "medium",
+      "description": "Ornamental, flighty"
+    }
+  },
+  "peak_production_years": "1-2",
+  "annual_decline": "8-10%",
+  "cold_hardy_best": [
+    "Leghorn",
+    "Rhode Island Red",
+    "Wyandotte"
+  ],
+  "broodiness_high": [
+    "Buff Orpington",
+    "Silkie",
+    "Wyandotte"
+  ]
+}

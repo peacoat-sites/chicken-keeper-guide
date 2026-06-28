@@ -1,0 +1,11 @@
+<div class="egg-production-guide">
+{{- $data := site.Data.egg_production -}}
+<table style="width:100%; border-collapse:collapse; font-size:0.9em;">
+<thead><tr style="background:#f5f5f5;"><th style="padding:8px; border:1px solid #ddd;">Breed</th><th style="padding:8px; border:1px solid #ddd;">Annual Eggs</th><th style="padding:8px; border:1px solid #ddd;">Egg Color</th><th style="padding:8px; border:1px solid #ddd;">Size</th><th style="padding:8px; border:1px solid #ddd;">Notes</th></tr></thead>
+<tbody>
+{{- range $breed, $data := $data.breeds }}
+<tr><td style="padding:8px; border:1px solid #ddd;"><strong>{{ $breed }}</strong></td><td style="padding:8px; border:1px solid #ddd; text-align:center;"><strong>{{ $data.annual_eggs }}</strong></td><td style="padding:8px; border:1px solid #ddd;">{{ $data.color }}</td><td style="padding:8px; border:1px solid #ddd;">{{ $data.size }}</td><td style="padding:8px; border:1px solid #ddd;">{{ $data.description }}</td></tr>
+{{- end }}
+</tbody>
+</table>
+</div>

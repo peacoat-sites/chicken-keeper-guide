@@ -1,5 +1,6 @@
 ---
 title: "Egg Production by Chicken Breed (2026): Annual Yield Comparison"
+image: "https://images.pexels.com/photos/34000202/pexels-photo-34000202.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 description: "USDA chicken breed productivity data. Leghorn 320 eggs/year vs Silkie 150. Choose layers, dual-purpose, or ornamental based on your goals."
 author: "Sarah Chen"
 author_slug: "sarah-chen"

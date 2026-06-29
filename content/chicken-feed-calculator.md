@@ -5,6 +5,7 @@ slug: "chicken-feed-cost-calculator"
 description: "Calculate your monthly and annual chicken feed costs by flock size and feed type. See cost per dozen eggs to understand the real economics of backyard chickens."
 categories: ["Flock Management"]
 author: "Ellen Barker"
+image: "https://images.pexels.com/photos/32653692/pexels-photo-32653692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Backyard chickens are deeply rewarding, but anyone who tells you they are cheaper than buying eggs from the store is probably not accounting for all the costs. Feed is the largest ongoing expense, and understanding it accurately helps you make better decisions about flock size, feed type, and whether to prioritize production efficiency or other values like animal welfare or organic inputs.

@@ -13,6 +13,7 @@ faqs:
     a: "Safe kitchen scraps include cooked vegetables, plain cooked rice or pasta, fruit (except citrus and avocado), cooked meat and fish (plain), scrambled eggs, and plain yogurt. Avoid anything salty, sugary, or moldy."
   - q: "Can chickens eat tomatoes?"
     a: "Ripe red tomatoes are safe for chickens. Green or unripe tomatoes, and all tomato leaves and stems, contain solanine and must be avoided."
+image: "https://images.pexels.com/photos/32653692/pexels-photo-32653692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 One of the most enjoyable parts of keeping backyard chickens is sharing treats from the garden and kitchen. Chickens are enthusiastic omnivores that will sprint across the yard for a handful of blueberries or a dish of scrambled eggs. But not everything humans eat is safe for poultry, and a few common foods are genuinely toxic.

@@ -13,6 +13,7 @@ faqs:
     a: "You need at least 2 nesting boxes for 6 chickens. The rule of thumb is one box for every 4 hens, though hens often prefer to share a favorite box."
   - q: "Does coop size change for cold climates?"
     a: "Yes. In cold climates, chickens spend more time inside, so you should add a 20% buffer to the minimum interior square footage to prevent overcrowding during winter."
+image: "https://images.pexels.com/photos/19972937/pexels-photo-19972937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Designing or buying a chicken coop is one of the most important decisions a backyard keeper makes. Get the sizing right and your hens will be healthy, calm, and productive. Get it wrong and you are looking at feather pecking, disease spread, and stressed birds that lay poorly.

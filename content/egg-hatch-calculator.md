@@ -15,6 +15,7 @@ faqs:
     a: "Lockdown is the final 3 days before the expected hatch date. You stop turning the eggs, raise humidity to 65-70%, and do not open the incubator until hatching is complete."
   - q: "What temperature should an egg incubator be set to?"
     a: "For a forced-air incubator set the temperature to 99.5 degrees Fahrenheit. For a still-air incubator (no fan) the temperature should be slightly higher at 101.5 degrees Fahrenheit."
+image: "https://images.pexels.com/photos/10691027/pexels-photo-10691027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Hatching your own eggs is one of the most rewarding experiences in backyard poultry keeping. Watching a chick pip through its shell after 21 days of careful incubation never gets old. But successful hatching requires precise timing — knowing exactly when to candle, when to stop turning eggs, and when to expect chicks to arrive.

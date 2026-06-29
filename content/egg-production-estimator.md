@@ -5,6 +5,7 @@ slug: "chicken-egg-production-calculator"
 description: "Estimate your backyard chicken flock's weekly and monthly egg production by breed, age, and season. See how many dozens you can expect and plan your flock size."
 categories: ["Flock Management"]
 author: "Ellen Barker"
+image: "https://images.pexels.com/photos/2255825/pexels-photo-2255825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 One of the most common questions new chicken keepers ask is: how many eggs will I actually get? The answer depends on several factors that interact in ways that aren't always obvious. Breed matters enormously - a Leghorn can lay nearly three times as many eggs per year as a Silkie. Hen age is equally critical, since production peaks in the first year then declines significantly. And season creates dramatic swings, with winter production sometimes dropping to 40 percent of summer levels without supplemental lighting.

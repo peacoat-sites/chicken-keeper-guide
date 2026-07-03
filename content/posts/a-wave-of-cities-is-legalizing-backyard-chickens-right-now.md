@@ -11,7 +11,9 @@ author_slug: "carol-thompson"
 author_title: "Homestead Writer"
 author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
 slug: "a-wave-of-cities-is-legalizing-backyard-chickens-right-now"
-affiliate_disclosure: false, Something shifted this spring. I've been keeping chickens for a decade, and I've watched legalization efforts crawl through city councils at a pace that would make a broody hen look productive. But right now, in June 2026, more cities are actively debating or passing backyard chicken ordinances than at any point I can remember. Five municipalities in a single month. That's not a trend. That's a wave.
+affiliate_disclosure: false
+---
+Something shifted this spring. I've been keeping chickens for a decade, and I've watched legalization efforts crawl through city councils at a pace that would make a broody hen look productive. But right now, in June 2026, more cities are actively debating or passing backyard chicken ordinances than at any point I can remember. Five municipalities in a single month. That's not a trend. That's a wave.
 
 If you've been waiting to see whether your city might follow suit, or you just got a notice that your neighbor is pushing for an ordinance change, this is the moment to pay attention.
 

@@ -11,7 +11,9 @@ author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
 slug: "egg-prices-crashed-39-is-your-backyard-flock-still-worth-it"
-affiliate_disclosure: false, The price shock that drove thousands of people to buy baby chicks in 2025 has officially reversed. USDA data shows retail egg prices fell 39.2% year-over-year by April 2026, and the national average for a dozen Grade A large eggs hit $2.19 in May 2026, according to BLS figures tracked by FRED. That's a long way from the $5 to $6 cartons that were emptying grocery shelves eighteen months ago. In chicken-keeping forums and local Facebook groups, the same question is surfacing constantly: does a backyard flock still make financial sense?
+affiliate_disclosure: false
+---
+The price shock that drove thousands of people to buy baby chicks in 2025 has officially reversed. USDA data shows retail egg prices fell 39.2% year-over-year by April 2026, and the national average for a dozen Grade A large eggs hit $2.19 in May 2026, according to BLS figures tracked by FRED. That's a long way from the $5 to $6 cartons that were emptying grocery shelves eighteen months ago. In chicken-keeping forums and local Facebook groups, the same question is surfacing constantly: does a backyard flock still make financial sense?
 
 The honest answer is: it depends on why you started one, and whether you're willing to do real math instead of comfortable math.
 

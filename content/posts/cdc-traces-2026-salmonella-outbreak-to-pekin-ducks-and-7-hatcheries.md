@@ -11,7 +11,9 @@ author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
 slug: "cdc-traces-2026-salmonella-outbreak-to-pekin-ducks-and-7-hatcheries"
-affiliate_disclosure: false, If you picked up ducklings or chicks from a farm store this spring and you've got kids under five in the house, stop and read this before you do anything else.
+affiliate_disclosure: false
+---
+If you picked up ducklings or chicks from a farm store this spring and you've got kids under five in the house, stop and read this before you do anything else.
 
 The CDC is currently tracking one of the more complicated backyard poultry Salmonella situations in recent memory. As of late June 2026, 513 people across 42 states have gotten sick from five simultaneous Salmonella strains, all linked to backyard poultry purchased in spring 2026. Five strains at once: Enteritidis, Indiana, Infantis, Mbandaka, and Saintpaul. That's not a single contaminated batch from one bad hatchery. That's a supply chain problem, and it's ongoing.
 

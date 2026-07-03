@@ -9,16 +9,16 @@ tags: ["broody", "behavior"]
 slug: "broody-hen-behavior"
 affiliate_disclosure: false
 faqs:
-  - q: "How long will a broody hen sit if nothing hatches?"
-    a: "Most hens will sit for 21 days (the incubation period) and then break on their own when nothing hatches. Some will reset and try again, extending the cycle to 6 to 8 weeks. Heavily broody breeds like Silkies and Cochins are most likely to cycle back through. If she's been sitting for more than 4 weeks on infertile eggs, it's worth intervening."
-  - q: "Will a broody hen lose too much weight to be healthy?"
-    a: "She'll lose weight, but a healthy hen who entered broodiness in good condition and has access to food and water daily will typically recover within 2 to 3 weeks of resuming normal activity. Watch for a very pale or shrunken comb, weakness, or inability to walk normally. Those are signs she needs to be pulled off the nest regardless of your plans."
-  - q: "Can I give a broody hen eggs from another breed to hatch?"
-    a: "Yes. She doesn't know or care what breed the eggs are. I've had Buff Orpingtons successfully hatch Marans eggs, Cream Legbar eggs, and once a batch of duck eggs (the duck imprinting situation afterward was chaotic, fair warning). The only limit is clutch size relative to her body size. A standard hen can reliably cover 10 to 12 large eggs or up to 15 small bantam eggs."
-  - q: "My broody won't leave the nest to eat. What should I do?"
-    a: "Physically remove her once a day and place her in front of food and water. Some hens are so committed they won't break the loop voluntarily. Hold her near the water and dip her beak lightly if needed. If she's been sitting for over 48 hours without eating or drinking, this daily intervention is necessary, not optional. A hen who becomes too weak to stand is a serious problem."
-  - q: "Can two hens share a broody nest?"
-    a: "Sometimes they try, and it's usually a disaster. Two hens crammed onto a shared nest means eggs roll around, temperatures fluctuate, and one hen usually ends up displaced. If you want to run two broodies simultaneously, give them separate nest boxes at least 18 inches apart. You can also slip chicks under a second broody who's been sitting the same amount of time, which works better than shared incubation."
+ - q: "How long will a broody hen sit if nothing hatches?"
+ a: "Most hens will sit for 21 days (the incubation period) and then break on their own when nothing hatches. Some will reset and try again, extending the cycle to 6 to 8 weeks. Heavily broody breeds like Silkies and Cochins are most likely to cycle back through. If she's been sitting for more than 4 weeks on infertile eggs, it's worth intervening."
+ - q: "Will a broody hen lose too much weight to be healthy?"
+ a: "She'll lose weight, but a healthy hen who entered broodiness in good condition and has access to food and water daily will typically recover within 2 to 3 weeks of resuming normal activity. Watch for a very pale or shrunken comb, weakness, or inability to walk normally. Those are signs she needs to be pulled off the nest regardless of your plans."
+ - q: "Can I give a broody hen eggs from another breed to hatch?"
+ a: "Yes. She doesn't know or care what breed the eggs are. I've had Buff Orpingtons successfully hatch Marans eggs, Cream Legbar eggs, and once a batch of duck eggs (the duck imprinting situation afterward was chaotic, fair warning). The only limit is clutch size relative to her body size. A standard hen can reliably cover 10 to 12 large eggs or up to 15 small bantam eggs."
+ - q: "My broody won't leave the nest to eat. What should I do?"
+ a: "Physically remove her once a day and place her in front of food and water. Some hens are so committed they won't break the loop voluntarily. Hold her near the water and dip her beak lightly if needed. If she's been sitting for over 48 hours without eating or drinking, this daily intervention is necessary, not optional. A hen who becomes too weak to stand is a serious problem."
+ - q: "Can two hens share a broody nest?"
+ a: "Sometimes they try, and it's usually a disaster. Two hens crammed onto a shared nest means eggs roll around, temperatures fluctuate, and one hen usually ends up displaced. If you want to run two broodies simultaneously, give them separate nest boxes at least 18 inches apart. You can also slip chicks under a second broody who's been sitting the same amount of time, which works better than shared incubation."
 author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
@@ -31,12 +31,12 @@ Most articles will tell you she "wants to hatch eggs" and offer you three vague 
 
 
 <div class="value-module">
-  <div class="vm-head">Broodiness Likelihood by Breed</div>
-  <div class="vm-body">
-    <p class="vm-intro">Breed genetics largely determine whether you'll deal with broody hens annually, occasionally, or almost never-here's how common breeds stack up.</p>
-    <table><thead><tr><th>Breed</th><th>Broodiness Level</th><th>Typical Frequency</th><th>Breaking Difficulty</th><th>Notes</th></tr></thead><tbody><tr><td>Silkie</td><td>Very High</td><td>3–6 times/year</td><td>Hard</td><td>Will brood in any season; often used to hatch other breeds' eggs</td></tr><tr><td>Cochin</td><td>Very High</td><td>2–4 times/year</td><td>Hard</td><td>Dedicated sitters but poor foragers while broody</td></tr><tr><td>Orpington</td><td>High</td><td>1–3 times/year</td><td>Moderate</td><td>Good mothers; buff variety broodiest</td></tr><tr><td>Brahma</td><td>High</td><td>1–2 times/year</td><td>Moderate</td><td>Large body covers more eggs but can accidentally crush chicks</td></tr><tr><td>Wyandotte</td><td>Moderate</td><td>1–2 times/year</td><td>Moderate</td><td>Varies by individual; silver-laced less broody than others</td></tr><tr><td>Australorp</td><td>Moderate</td><td>0–2 times/year</td><td>Easy–Moderate</td><td>Production strains less broody than heritage lines</td></tr><tr><td>Plymouth Rock</td><td>Low–Moderate</td><td>0–1 times/year</td><td>Easy</td><td>Barred variety rarely broody; buff more prone</td></tr><tr><td>Easter Egger</td><td>Low</td><td>Rare</td><td>Easy</td><td>Mixed genetics means unpredictable; most don't brood</td></tr><tr><td>Rhode Island Red</td><td>Very Low</td><td>Rare</td><td>Easy</td><td>Production breeding eliminated trait in most lines</td></tr><tr><td>Leghorn</td><td>Almost None</td><td>Extremely rare</td><td>Very Easy</td><td>Bred for eggs only; broodiness nearly eliminated</td></tr><tr><td>ISA Brown/Production Red</td><td>None</td><td>Never</td><td>N/A</td><td>Commercial hybrids; trait completely bred out</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Broodiness Likelihood by Breed</div>
+ <div class="vm-body">
+ <p class="vm-intro">Breed genetics largely determine whether you'll deal with broody hens annually, occasionally, or almost never-here's how common breeds stack up.</p>
+ <table><thead><tr><th>Breed</th><th>Broodiness Level</th><th>Typical Frequency</th><th>Breaking Difficulty</th><th>Notes</th></tr></thead><tbody><tr><td>Silkie</td><td>Very High</td><td>3–6 times/year</td><td>Hard</td><td>Will brood in any season; often used to hatch other breeds' eggs</td></tr><tr><td>Cochin</td><td>Very High</td><td>2–4 times/year</td><td>Hard</td><td>Dedicated sitters but poor foragers while broody</td></tr><tr><td>Orpington</td><td>High</td><td>1–3 times/year</td><td>Moderate</td><td>Good mothers; buff variety broodiest</td></tr><tr><td>Brahma</td><td>High</td><td>1–2 times/year</td><td>Moderate</td><td>Large body covers more eggs but can accidentally crush chicks</td></tr><tr><td>Wyandotte</td><td>Moderate</td><td>1–2 times/year</td><td>Moderate</td><td>Varies by individual; silver-laced less broody than others</td></tr><tr><td>Australorp</td><td>Moderate</td><td>0–2 times/year</td><td>Easy–Moderate</td><td>Production strains less broody than heritage lines</td></tr><tr><td>Plymouth Rock</td><td>Low–Moderate</td><td>0–1 times/year</td><td>Easy</td><td>Barred variety rarely broody; buff more prone</td></tr><tr><td>Easter Egger</td><td>Low</td><td>Rare</td><td>Easy</td><td>Mixed genetics means unpredictable; most don't brood</td></tr><tr><td>Rhode Island Red</td><td>Very Low</td><td>Rare</td><td>Easy</td><td>Production breeding eliminated trait in most lines</td></tr><tr><td>Leghorn</td><td>Almost None</td><td>Extremely rare</td><td>Very Easy</td><td>Bred for eggs only; broodiness nearly eliminated</td></tr><tr><td>ISA Brown/Production Red</td><td>None</td><td>Never</td><td>N/A</td><td>Commercial hybrids; trait completely bred out</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Brooding Actually Is (And Why It Happens)

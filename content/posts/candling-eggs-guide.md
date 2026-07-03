@@ -13,16 +13,16 @@ author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most o
 slug: "candling-eggs-guide"
 affiliate_disclosure: false
 faqs:
-  - q: "When is the best time to candle eggs for the first time?"
-    a: "Day 7 is the earliest reliable point for most chicken eggs. Before that, you're likely to miss early development and accidentally discard viable eggs. If you're working with dark-shelled eggs like Marans, wait until day 10 for your first candle."
-  - q: "Can you candle eggs too much?"
-    a: "Yes, though the risk is often overstated. Each time you handle eggs you risk cooling them, jostling the embryo, or introducing contamination from your hands. I limit myself to three candling sessions per incubation: day 7, day 14, and day 18. More than that offers diminishing information."
-  - q: "What does a dead egg look like when candled?"
-    a: "A dead egg usually shows a blood ring (a ring of red without branching vessels), a completely clear interior with no visible development, or a dark, cloudy interior without defined vessel structure. If the embryo has died later in incubation, you'll often see a detached dark mass and no movement."
-  - q: "Do I need a special candler or will a flashlight work?"
-    a: "A bright LED flashlight works fine for white or light-colored eggs. For dark-shelled eggs, a focused candler like the Brinsea Spot Check or Magicfly makes a significant difference. The key is minimizing ambient light, so whatever you use, candle in a completely dark room."
-  - q: "Should I candle eggs that were shipped in the mail?"
-    a: "Yes, but wait 24 hours after the eggs arrive and have rested upright before candling. Shipped eggs often have damaged or detached air cells from transit. Candling them right away just shows you disruption from shipping, not development status. Candle again at day 7 to get a real read."
+ - q: "When is the best time to candle eggs for the first time?"
+ a: "Day 7 is the earliest reliable point for most chicken eggs. Before that, you're likely to miss early development and accidentally discard viable eggs. If you're working with dark-shelled eggs like Marans, wait until day 10 for your first candle."
+ - q: "Can you candle eggs too much?"
+ a: "Yes, though the risk is often overstated. Each time you handle eggs you risk cooling them, jostling the embryo, or introducing contamination from your hands. I limit myself to three candling sessions per incubation: day 7, day 14, and day 18. More than that offers diminishing information."
+ - q: "What does a dead egg look like when candled?"
+ a: "A dead egg usually shows a blood ring (a ring of red without branching vessels), a completely clear interior with no visible development, or a dark, cloudy interior without defined vessel structure. If the embryo has died later in incubation, you'll often see a detached dark mass and no movement."
+ - q: "Do I need a special candler or will a flashlight work?"
+ a: "A bright LED flashlight works fine for white or light-colored eggs. For dark-shelled eggs, a focused candler like the Brinsea Spot Check or Magicfly makes a significant difference. The key is minimizing ambient light, so whatever you use, candle in a completely dark room."
+ - q: "Should I candle eggs that were shipped in the mail?"
+ a: "Yes, but wait 24 hours after the eggs arrive and have rested upright before candling. Shipped eggs often have damaged or detached air cells from transit. Candling them right away just shows you disruption from shipping, not development status. Candle again at day 7 to get a real read."
 ---
 
 Nobody warns you that candling looks completely different at day 7 than it does at day 14, and the first time I held a flashlight up to a mystery egg, I genuinely couldn't tell if I was looking at a living embryo or just a yolk casting a shadow. I candled the whole clutch wrong. Pulled two eggs I shouldn't have, tossed them in the compost, and only realized my mistake when I found a fully-formed chick inside one of them. That was early in my chicken-keeping years, and I've never quite gotten over it.

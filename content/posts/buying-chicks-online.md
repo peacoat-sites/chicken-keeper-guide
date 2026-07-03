@@ -9,16 +9,16 @@ tags: ["buying", "chicks", "online"]
 slug: "buying-chicks-online"
 affiliate_disclosure: false
 faqs:
-  - q: "Is it safe to ship chicks through the mail?"
-    a: "Yes, with some caveats. Day-old chicks can survive 48-72 hours without food or water because they absorb the yolk before hatching. USPS Priority Mail Express is fast enough in most cases, but delays happen. Ordering in mild weather and arranging a post office pickup dramatically improves survival rates."
-  - q: "What's the minimum number of chicks I can order?"
-    a: "Most major hatcheries like Meyer Hatchery allow orders of 3 chicks with a heat pack included. Murray McMurray has also moved toward small minimums in recent years. Avoid ordering fewer than 3 during cold months unless the hatchery specifically guarantees it with thermal packaging."
-  - q: "How do I know if a hatchery is reputable?"
-    a: "Check for NPIP certification first, which you can verify through the USDA APHIS website. Then look for clear refund or replacement policies for dead-on-arrival chicks. Reviews on BackyardChickens.com forums are genuinely useful here because people post real experiences, including the bad ones."
-  - q: "What do I do if chicks arrive dead or dying?"
-    a: "Photograph everything before removing birds from the box. Contact the hatchery immediately, usually within 24 to 48 hours of arrival. Reputable hatcheries like Meyer, Murray McMurray, and Cackle will reship or refund losses. Most have specific claim windows, so don't wait."
-  - q: "Can I order chicks year-round?"
-    a: "Technically yes, but I wouldn't order in the middle of winter unless you're in a mild climate. Cold transit conditions are brutal on shipped chicks. Late March through May and again in September are the sweet spots for most of the country. Plus, spring chicks raised through summer are laying before their first winter."
+ - q: "Is it safe to ship chicks through the mail?"
+ a: "Yes, with some caveats. Day-old chicks can survive 48-72 hours without food or water because they absorb the yolk before hatching. USPS Priority Mail Express is fast enough in most cases, but delays happen. Ordering in mild weather and arranging a post office pickup dramatically improves survival rates."
+ - q: "What's the minimum number of chicks I can order?"
+ a: "Most major hatcheries like Meyer Hatchery allow orders of 3 chicks with a heat pack included. Murray McMurray has also moved toward small minimums in recent years. Avoid ordering fewer than 3 during cold months unless the hatchery specifically guarantees it with thermal packaging."
+ - q: "How do I know if a hatchery is reputable?"
+ a: "Check for NPIP certification first, which you can verify through the USDA APHIS website. Then look for clear refund or replacement policies for dead-on-arrival chicks. Reviews on BackyardChickens.com forums are genuinely useful here because people post real experiences, including the bad ones."
+ - q: "What do I do if chicks arrive dead or dying?"
+ a: "Photograph everything before removing birds from the box. Contact the hatchery immediately, usually within 24 to 48 hours of arrival. Reputable hatcheries like Meyer, Murray McMurray, and Cackle will reship or refund losses. Most have specific claim windows, so don't wait."
+ - q: "Can I order chicks year-round?"
+ a: "Technically yes, but I wouldn't order in the middle of winter unless you're in a mild climate. Cold transit conditions are brutal on shipped chicks. Late March through May and again in September are the sweet spots for most of the country. Plus, spring chicks raised through summer are laying before their first winter."
 author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
@@ -29,12 +29,12 @@ I'll be honest: the first time I ordered chicks online, I thought I was being re
 
 
 <div class="value-module">
-  <div class="vm-head">Hatchery Comparison: Price, Minimums, Policies</div>
-  <div class="vm-body">
-    <p class="vm-intro">These five major online hatcheries differ significantly in minimum orders, shipping costs, and guarantee policies-factors that can swing your total cost by $50 or more.</p>
-    <table><thead><tr><th>Hatchery</th><th>Typical Chick Price</th><th>Minimum Order</th><th>Shipping (Continental US)</th><th>Live Arrival Guarantee</th><th>Best For</th></tr></thead><tbody><tr><td>Murray McMurray</td><td>$4–$15</td><td>3 chicks (with heat pack)</td><td>$35–$50</td><td>Full refund or credit</td><td>Wide breed selection, heritage varieties</td></tr><tr><td>Meyer Hatchery</td><td>$4–$12</td><td>3 chicks (any season)</td><td>$30–$45</td><td>Refund or reship</td><td>Small orders, beginner-friendly policies</td></tr><tr><td>Cackle Hatchery</td><td>$3–$10</td><td>3 chicks (15 in cold months)</td><td>$25–$40</td><td>Credit toward next order</td><td>Budget-conscious, rare heritage breeds</td></tr><tr><td>Hoover's Hatchery</td><td>$3–$8</td><td>15 chicks (standard)</td><td>Often included in price</td><td>Refund or credit</td><td>Larger flocks, farm supply store stock</td></tr><tr><td>Greenfire Farms</td><td>$25–$100+</td><td>Varies by breed (often 6+)</td><td>$50–$75</td><td>Case-by-case</td><td>Rare imports, exhibition-quality genetics</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Hatchery Comparison: Price, Minimums, Policies</div>
+ <div class="vm-body">
+ <p class="vm-intro">These five major online hatcheries differ significantly in minimum orders, shipping costs, and guarantee policies-factors that can swing your total cost by $50 or more.</p>
+ <table><thead><tr><th>Hatchery</th><th>Typical Chick Price</th><th>Minimum Order</th><th>Shipping (Continental US)</th><th>Live Arrival Guarantee</th><th>Best For</th></tr></thead><tbody><tr><td>Murray McMurray</td><td>$4–$15</td><td>3 chicks (with heat pack)</td><td>$35–$50</td><td>Full refund or credit</td><td>Wide breed selection, heritage varieties</td></tr><tr><td>Meyer Hatchery</td><td>$4–$12</td><td>3 chicks (any season)</td><td>$30–$45</td><td>Refund or reship</td><td>Small orders, beginner-friendly policies</td></tr><tr><td>Cackle Hatchery</td><td>$3–$10</td><td>3 chicks (15 in cold months)</td><td>$25–$40</td><td>Credit toward next order</td><td>Budget-conscious, rare heritage breeds</td></tr><tr><td>Hoover's Hatchery</td><td>$3–$8</td><td>15 chicks (standard)</td><td>Often included in price</td><td>Refund or credit</td><td>Larger flocks, farm supply store stock</td></tr><tr><td>Greenfire Farms</td><td>$25–$100+</td><td>Varies by breed (often 6+)</td><td>$50–$75</td><td>Case-by-case</td><td>Rare imports, exhibition-quality genetics</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Why People Order Online in the First Place

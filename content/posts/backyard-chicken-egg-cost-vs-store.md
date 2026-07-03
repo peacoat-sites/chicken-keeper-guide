@@ -9,16 +9,16 @@ tags: ["backyard", "chicken", "cost", "store"]
 slug: "backyard-chicken-egg-cost-vs-store"
 affiliate_disclosure: false
 faqs:
-  - q: "How much does it cost per dozen to raise your own eggs?"
-    a: "Realistically, $5 to $8 per dozen when you account for feed, bedding, and amortized startup costs under normal conditions. It can go higher if you have losses, vet bills, or a low-production flock."
-  - q: "Do backyard eggs actually taste better than store-bought?"
-    a: "Yes, noticeably, if your hens have genuine outdoor access and a varied diet. The difference is most obvious in the yolk: darker color, richer flavor, firmer texture. Hens confined to a small run eating only commercial feed will produce eggs closer to grocery store quality."
-  - q: "How many hens do I need to supply eggs for a family of four?"
-    a: "Four to six hens will supply a moderately egg-eating family year-round, accounting for seasonal production drops. Six gives you a buffer for molt periods and the occasional non-layer."
-  - q: "Are backyard eggs healthier than grocery store eggs?"
-    a: "The research here is mixed but leans toward yes for pasture-raised conditions. A 2010 study out of Penn State found eggs from hens with pasture access had 2x more omega-3 fatty acids, 3x more vitamin D, and 7x more beta-carotene than conventional eggs. Whether that translates to meaningful health differences over time is harder to say."
-  - q: "What happens to egg production in winter?"
-    a: "Most breeds slow down or stop laying when daylight drops below 14 hours, typically November through January in northern climates. Adding a simple 40-watt bulb on a timer to extend 'daylight' to 14-16 hours keeps most hens laying. Some keepers skip the light and let hens rest; it's not harmful, just means no eggs for a couple months."
+ - q: "How much does it cost per dozen to raise your own eggs?"
+ a: "Realistically, $5 to $8 per dozen when you account for feed, bedding, and amortized startup costs under normal conditions. It can go higher if you have losses, vet bills, or a low-production flock."
+ - q: "Do backyard eggs actually taste better than store-bought?"
+ a: "Yes, noticeably, if your hens have genuine outdoor access and a varied diet. The difference is most obvious in the yolk: darker color, richer flavor, firmer texture. Hens confined to a small run eating only commercial feed will produce eggs closer to grocery store quality."
+ - q: "How many hens do I need to supply eggs for a family of four?"
+ a: "Four to six hens will supply a moderately egg-eating family year-round, accounting for seasonal production drops. Six gives you a buffer for molt periods and the occasional non-layer."
+ - q: "Are backyard eggs healthier than grocery store eggs?"
+ a: "The research here is mixed but leans toward yes for pasture-raised conditions. A 2010 study out of Penn State found eggs from hens with pasture access had 2x more omega-3 fatty acids, 3x more vitamin D, and 7x more beta-carotene than conventional eggs. Whether that translates to meaningful health differences over time is harder to say."
+ - q: "What happens to egg production in winter?"
+ a: "Most breeds slow down or stop laying when daylight drops below 14 hours, typically November through January in northern climates. Adding a simple 40-watt bulb on a timer to extend 'daylight' to 14-16 hours keeps most hens laying. Some keepers skip the light and let hens rest; it's not harmful, just means no eggs for a couple months."
 author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
@@ -32,12 +32,12 @@ It doesn't pay off. Not financially. That's what every dreamy "grow your own foo
 ---
 
 <div class="value-module">
-  <div class="vm-head">Backyard vs Store Eggs: 3-Year Cost Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">This table breaks down actual costs over three years, the typical productive lifespan of a laying flock, so you can see where the money really goes.</p>
-    <table><thead><tr><th>Cost Category</th><th>Backyard Flock (6 hens)</th><th>Store-Bought Equivalent</th></tr></thead><tbody><tr><td>Startup (coop, feeder, waterer, chicks)</td><td>$300–$600</td><td>$0</td></tr><tr><td>Feed (36 months × $22–$25/mo)</td><td>$792–$900</td><td>$0</td></tr><tr><td>Supplements &amp; bedding (36 months)</td><td>$180–$360</td><td>$0</td></tr><tr><td>Misc. (vet supplies, repairs, electricity)</td><td>$100–$200</td><td>$0</td></tr><tr><td><strong>Total 3-Year Cost</strong></td><td><strong>$1,372–$2,060</strong></td><td><strong>$0 (eggs only below)</strong></td></tr><tr><td>Eggs produced (3 years, accounting for seasonal decline)</td><td>~900 dozen</td><td>-</td></tr><tr><td><strong>Cost per dozen (backyard)</strong></td><td><strong>$1.52–$2.29</strong></td><td>-</td></tr><tr><td>Store eggs: conventional (avg $2.50/doz)</td><td>-</td><td>$2,250 for 900 doz</td></tr><tr><td>Store eggs: pasture-raised (avg $6/doz)</td><td>-</td><td>$5,400 for 900 doz</td></tr><tr><td><strong>3-Year Savings vs Conventional</strong></td><td colspan="2"><strong>+$190 to +$878 (backyard cheaper)</strong></td></tr><tr><td><strong>3-Year Savings vs Pasture-Raised</strong></td><td colspan="2"><strong>+$3,340 to +$4,028 (backyard much cheaper)</strong></td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Backyard vs Store Eggs: 3-Year Cost Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">This table breaks down actual costs over three years, the typical productive lifespan of a laying flock, so you can see where the money really goes.</p>
+ <table><thead><tr><th>Cost Category</th><th>Backyard Flock (6 hens)</th><th>Store-Bought Equivalent</th></tr></thead><tbody><tr><td>Startup (coop, feeder, waterer, chicks)</td><td>$300–$600</td><td>$0</td></tr><tr><td>Feed (36 months × $22–$25/mo)</td><td>$792–$900</td><td>$0</td></tr><tr><td>Supplements &amp; bedding (36 months)</td><td>$180–$360</td><td>$0</td></tr><tr><td>Misc. (vet supplies, repairs, electricity)</td><td>$100–$200</td><td>$0</td></tr><tr><td><strong>Total 3-Year Cost</strong></td><td><strong>$1,372–$2,060</strong></td><td><strong>$0 (eggs only below)</strong></td></tr><tr><td>Eggs produced (3 years, accounting for seasonal decline)</td><td>~900 dozen</td><td>-</td></tr><tr><td><strong>Cost per dozen (backyard)</strong></td><td><strong>$1.52–$2.29</strong></td><td>-</td></tr><tr><td>Store eggs: conventional (avg $2.50/doz)</td><td>-</td><td>$2,250 for 900 doz</td></tr><tr><td>Store eggs: pasture-raised (avg $6/doz)</td><td>-</td><td>$5,400 for 900 doz</td></tr><tr><td><strong>3-Year Savings vs Conventional</strong></td><td colspan="2"><strong>+$190 to +$878 (backyard cheaper)</strong></td></tr><tr><td><strong>3-Year Savings vs Pasture-Raised</strong></td><td colspan="2"><strong>+$3,340 to +$4,028 (backyard much cheaper)</strong></td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Your Eggs Actually Cost to Produce

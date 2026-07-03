@@ -9,16 +9,16 @@ tags: ["chicken", "manure", "fertilizer"]
 slug: "chicken-manure-fertilizer"
 affiliate_disclosure: false
 faqs:
-  - q: "Can I use chicken manure from meat birds (broilers) the same way I use layer manure?"
-    a: "Yes, with one caveat: broiler operations often involve higher stocking densities and different bedding practices, so the manure can be wetter and hotter. Compost it the same way, but be prepared for a more aggressive initial phase. The nutrient content is comparable."
-  - q: "How long does chicken manure take to compost safely?"
-    a: "An actively managed hot compost pile (turning every 7 to 10 days, pile temperature hitting 130°F or above) can produce finished compost in 45 to 60 days. A passive pile in cooler weather can take 6 months or more. When in doubt, give it more time."
-  - q: "Is composted chicken manure safe for vegetable gardens?"
-    a: "Yes, fully composted chicken manure is widely used on vegetable gardens and is approved for certified organic production. The key word is 'fully composted.' If it still smells strongly of ammonia, it needs more time."
-  - q: "Can too much chicken manure hurt my garden?"
-    a: "Absolutely. Over-application builds up phosphorus and potassium levels in soil over time, which can create nutrient imbalances and make it harder for plants to take up other minerals. If you're spreading hundreds of pounds per small bed every single year, it's worth getting a soil test every two or three years. Your local cooperative extension office usually does them for $15 to $25."
-  - q: "My chicken manure smells terrible. What am I doing wrong?"
-    a: "Strong ammonia smell usually means too much nitrogen with not enough carbon, or the pile is too wet. Add dry brown material (straw, wood shavings, dry leaves) and turn it to introduce oxygen. If you're storing fresh manure before composting, keep it covered to reduce moisture and contain odors."
+ - q: "Can I use chicken manure from meat birds (broilers) the same way I use layer manure?"
+ a: "Yes, with one caveat: broiler operations often involve higher stocking densities and different bedding practices, so the manure can be wetter and hotter. Compost it the same way, but be prepared for a more aggressive initial phase. The nutrient content is comparable."
+ - q: "How long does chicken manure take to compost safely?"
+ a: "An actively managed hot compost pile (turning every 7 to 10 days, pile temperature hitting 130°F or above) can produce finished compost in 45 to 60 days. A passive pile in cooler weather can take 6 months or more. When in doubt, give it more time."
+ - q: "Is composted chicken manure safe for vegetable gardens?"
+ a: "Yes, fully composted chicken manure is widely used on vegetable gardens and is approved for certified organic production. The key word is 'fully composted.' If it still smells strongly of ammonia, it needs more time."
+ - q: "Can too much chicken manure hurt my garden?"
+ a: "Absolutely. Over-application builds up phosphorus and potassium levels in soil over time, which can create nutrient imbalances and make it harder for plants to take up other minerals. If you're spreading hundreds of pounds per small bed every single year, it's worth getting a soil test every two or three years. Your local cooperative extension office usually does them for $15 to $25."
+ - q: "My chicken manure smells terrible. What am I doing wrong?"
+ a: "Strong ammonia smell usually means too much nitrogen with not enough carbon, or the pile is too wet. Add dry brown material (straw, wood shavings, dry leaves) and turn it to introduce oxygen. If you're storing fresh manure before composting, keep it covered to reduce moisture and contain odors."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Homestead Writer"
@@ -33,12 +33,12 @@ But here's where most people go wrong, and I made this mistake myself the first 
 
 
 <div class="value-module">
-  <div class="vm-head">Fresh vs. Composted Application Guide</div>
-  <div class="vm-body">
-    <p class="vm-intro">Choosing the right application method depends on your timeline, bedding type, and what you're growing-here's a practical decision matrix.</p>
-    <table><caption>Chicken Manure Application Methods by Situation</caption><thead><tr><th>Situation</th><th>Recommended Method</th><th>Minimum Wait Before Planting Edibles</th><th>Key Considerations</th></tr></thead><tbody><tr><td>Pure manure (wire floor collection), spring planting</td><td>Hot compost first (pile must reach 130–150°F)</td><td>90–120 days after composting complete</td><td>Turn pile 3–5 times; moisture should feel like wrung sponge</td></tr><tr><td>Deep litter with pine shavings (C:N ~25:1)</td><td>Direct fall application or short compost</td><td>60–90 days overwinter</td><td>Already partially composted; till into top 6 inches</td></tr><tr><td>Straw-based deep litter (C:N ~30:1)</td><td>Direct fall application</td><td>90 days overwinter</td><td>Straw breaks down slower; apply heavier layer</td></tr><tr><td>Mid-season side-dressing on established plants</td><td>Fully finished compost only (dark, earthy smell)</td><td>Apply immediately but keep 3–4 inches from stems</td><td>Never use fresh; nitrogen burn risk highest on leafy greens</td></tr><tr><td>Fruit trees and perennial beds</td><td>Aged compost as surface mulch ring</td><td>No wait if composted; 120 days if raw</td><td>Keep 12 inches from trunk; apply in early spring</td></tr><tr><td>Root vegetables (carrots, radishes, potatoes)</td><td>Previous-season compost only</td><td>120+ days (USDA NOP standard)</td><td>Pathogen risk highest for soil-contact crops</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Fresh vs. Composted Application Guide</div>
+ <div class="vm-body">
+ <p class="vm-intro">Choosing the right application method depends on your timeline, bedding type, and what you're growing-here's a practical decision matrix.</p>
+ <table><caption>Chicken Manure Application Methods by Situation</caption><thead><tr><th>Situation</th><th>Recommended Method</th><th>Minimum Wait Before Planting Edibles</th><th>Key Considerations</th></tr></thead><tbody><tr><td>Pure manure (wire floor collection), spring planting</td><td>Hot compost first (pile must reach 130–150°F)</td><td>90–120 days after composting complete</td><td>Turn pile 3–5 times; moisture should feel like wrung sponge</td></tr><tr><td>Deep litter with pine shavings (C:N ~25:1)</td><td>Direct fall application or short compost</td><td>60–90 days overwinter</td><td>Already partially composted; till into top 6 inches</td></tr><tr><td>Straw-based deep litter (C:N ~30:1)</td><td>Direct fall application</td><td>90 days overwinter</td><td>Straw breaks down slower; apply heavier layer</td></tr><tr><td>Mid-season side-dressing on established plants</td><td>Fully finished compost only (dark, earthy smell)</td><td>Apply immediately but keep 3–4 inches from stems</td><td>Never use fresh; nitrogen burn risk highest on leafy greens</td></tr><tr><td>Fruit trees and perennial beds</td><td>Aged compost as surface mulch ring</td><td>No wait if composted; 120 days if raw</td><td>Keep 12 inches from trunk; apply in early spring</td></tr><tr><td>Root vegetables (carrots, radishes, potatoes)</td><td>Previous-season compost only</td><td>120+ days (USDA NOP standard)</td><td>Pathogen risk highest for soil-contact crops</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Why Chicken Manure Is Actually a Big Deal

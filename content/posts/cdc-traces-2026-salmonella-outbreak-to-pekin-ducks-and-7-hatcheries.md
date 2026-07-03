@@ -11,10 +11,7 @@ author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
 slug: "cdc-traces-2026-salmonella-outbreak-to-pekin-ducks-and-7-hatcheries"
-affiliate_disclosure: false
----
-
-If you picked up ducklings or chicks from a farm store this spring and you've got kids under five in the house, stop and read this before you do anything else.
+affiliate_disclosure: false, If you picked up ducklings or chicks from a farm store this spring and you've got kids under five in the house, stop and read this before you do anything else.
 
 The CDC is currently tracking one of the more complicated backyard poultry Salmonella situations in recent memory. As of late June 2026, 513 people across 42 states have gotten sick from five simultaneous Salmonella strains, all linked to backyard poultry purchased in spring 2026. Five strains at once: Enteritidis, Indiana, Infantis, Mbandaka, and Saintpaul. That's not a single contaminated batch from one bad hatchery. That's a supply chain problem, and it's ongoing.
 
@@ -59,9 +56,9 @@ The broader situation, five strains, seven hatcheries, ducks in the spotlight fo
 ## Sources
 
 - [CDC Investigation Update: Salmonella Outbreaks Linked to Backyard Poultry (Saintpaul, April 2026)](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/investigation.html) (May–June 2026, ongoing updates)
-- [Your Backyard Chickens Could Make Your Child Seriously Ill, CDC Warns Families ,  Medical Daily](https://www.medicaldaily.com/backyard-chickens-salmonella-outbreak-2026-children-warning-cdc-475799) (June 25, 2026)
-- [Outbreak Numbers Related to Backyard Poultry Flocks Rising Quickly ,  Food Safety News](https://www.foodsafetynews.com/2026/05/outbreak-numbers-related-to-backyard-poultry-flocks-rising-quickly/) (May 27, 2026)
-- [CDC UPDATE: Ongoing Salmonella Outbreaks Linked to Backyard Poultry Sickens 150 More People ,  CDC Newsroom](https://www.cdc.gov/media/releases/2026/2026-update-ongoing-salmonella-outbreaks-linked-to-backyard-poultry-sickens-150-more-people-with-over.html) (May 14, 2026)
-- [US Salmonella Outbreaks Linked to Backyard Poultry ,  The Poultry Site](https://www.thepoultrysite.com/news/2026/05/us-salmonella-outbreaks-linked-to-backyard-poultry) (May 15, 2026)
+- [Your Backyard Chickens Could Make Your Child Seriously Ill, CDC Warns Families , Medical Daily](https://www.medicaldaily.com/backyard-chickens-salmonella-outbreak-2026-children-warning-cdc-475799) (June 25, 2026)
+- [Outbreak Numbers Related to Backyard Poultry Flocks Rising Quickly , Food Safety News](https://www.foodsafetynews.com/2026/05/outbreak-numbers-related-to-backyard-poultry-flocks-rising-quickly/) (May 27, 2026)
+- [CDC UPDATE: Ongoing Salmonella Outbreaks Linked to Backyard Poultry Sickens 150 More People , CDC Newsroom](https://www.cdc.gov/media/releases/2026/2026-update-ongoing-salmonella-outbreaks-linked-to-backyard-poultry-sickens-150-more-people-with-over.html) (May 14, 2026)
+- [US Salmonella Outbreaks Linked to Backyard Poultry , The Poultry Site](https://www.thepoultrysite.com/news/2026/05/us-salmonella-outbreaks-linked-to-backyard-poultry) (May 15, 2026)
 
 *Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*

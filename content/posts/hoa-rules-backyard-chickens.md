@@ -13,16 +13,16 @@ author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry hea
 slug: "hoa-rules-backyard-chickens"
 affiliate_disclosure: false
 faqs:
-  - q: "Can an HOA legally ban backyard chickens even if my city allows them?"
-    a: "In most states, yes. HOAs are private contracts, and they can impose restrictions stricter than local zoning allows. There are exceptions in a handful of states where specific legislation limits HOA authority over food production, so it's worth checking your state's current laws before assuming you have no recourse."
-  - q: "What if my HOA rules are silent on chickens?"
-    a: "Silence is actually your friend here. If the documents don't explicitly prohibit chickens, you're operating in gray territory, and you may be able to keep hens without formal approval, or you can proactively request approval to get it in writing. Get a legal opinion before you assume you're fully in the clear."
-  - q: "Can I fight an HOA fine for keeping chickens?"
-    a: "You can contest it, yes. The process usually involves a formal hearing with the board. If you believe the rule was applied selectively (they're ignoring a neighbor who does the same thing) or was improperly adopted, an HOA attorney can help you make that argument. Selective enforcement is a genuine defense in many states."
-  - q: "What breeds are best for staying under the radar in an HOA neighborhood?"
-    a: "Buff Orpingtons, Easter Eggers, Australorps, and Silkies are all relatively quiet and manageable. Avoid Leghorns, Guinea fowl (not chickens, but people ask), and most Mediterranean breeds, which tend to be vocal and flighty. No rooster, full stop, if you're in any kind of suburban situation."
-  - q: "Do I need a permit from both my city and my HOA?"
-    a: "Possibly both, and they're completely separate processes. Your city or county may require a permit or just have an ordinance you need to comply with. Your HOA may have its own approval requirement layered on top. Passing one doesn't mean you've satisfied the other, and that confusion trips people up more than anything else."
+ - q: "Can an HOA legally ban backyard chickens even if my city allows them?"
+ a: "In most states, yes. HOAs are private contracts, and they can impose restrictions stricter than local zoning allows. There are exceptions in a handful of states where specific legislation limits HOA authority over food production, so it's worth checking your state's current laws before assuming you have no recourse."
+ - q: "What if my HOA rules are silent on chickens?"
+ a: "Silence is actually your friend here. If the documents don't explicitly prohibit chickens, you're operating in gray territory, and you may be able to keep hens without formal approval, or you can proactively request approval to get it in writing. Get a legal opinion before you assume you're fully in the clear."
+ - q: "Can I fight an HOA fine for keeping chickens?"
+ a: "You can contest it, yes. The process usually involves a formal hearing with the board. If you believe the rule was applied selectively (they're ignoring a neighbor who does the same thing) or was improperly adopted, an HOA attorney can help you make that argument. Selective enforcement is a genuine defense in many states."
+ - q: "What breeds are best for staying under the radar in an HOA neighborhood?"
+ a: "Buff Orpingtons, Easter Eggers, Australorps, and Silkies are all relatively quiet and manageable. Avoid Leghorns, Guinea fowl (not chickens, but people ask), and most Mediterranean breeds, which tend to be vocal and flighty. No rooster, full stop, if you're in any kind of suburban situation."
+ - q: "Do I need a permit from both my city and my HOA?"
+ a: "Possibly both, and they're completely separate processes. Your city or county may require a permit or just have an ordinance you need to comply with. Your HOA may have its own approval requirement layered on top. Passing one doesn't mean you've satisfied the other, and that confusion trips people up more than anything else."
 ---
 Thirty-one percent of U.S. homeowners live under some kind of HOA. If you're one of them and you want chickens, that percentage either means nothing to you or it's the only thing standing between you and your first flock. I've helped a lot of people work through this over the years, and here's what I'll tell you straight: most advice out there treats HOA rules like they're carved in stone. They're not. But they're also way messier than a simple yes or no.
 

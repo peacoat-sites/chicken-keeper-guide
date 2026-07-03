@@ -9,16 +9,16 @@ tags: ["bumblefoot", "chickens"]
 slug: "bumblefoot-in-chickens"
 affiliate_disclosure: false
 faqs:
-  - q: "Can bumblefoot go away on its own without treatment?"
-    a: "Very early-stage bumblefoot, where there's just a small surface scab and no swelling, occasionally resolves if you fix the underlying cause (like a rough roost) and the bird's immune system handles it. But this is not something to count on. In most cases, the infection doesn't go away without intervention. It progresses. Treat it when you find it."
-  - q: "Is bumblefoot contagious to other chickens?"
-    a: "Not directly. Staphylococcus aureus is common in the environment and on the skin of healthy birds, but it only causes infection when it gets into a wound. You don't need to quarantine a bird with bumblefoot to protect the rest of the flock, though isolating for treatment purposes makes a lot of practical sense."
-  - q: "Do I have to cut out the core to treat bumblefoot?"
-    a: "For Tier 1 cases, no. Soaking, topical antibiotics, and consistent clean bandaging is often enough to resolve early-stage cases without any cutting. For Tier 2 cases with an established plug, removing the core gives you a much better chance of success because antibiotics have a hard time penetrating the dense caseous material."
-  - q: "Can I use human antibiotics to treat bumblefoot?"
-    a: "Some people do use fish antibiotics or medications from farm supply stores, and I understand the appeal when vets are hard to find or expensive. But without a proper diagnosis and sensitivity test, you risk using the wrong antibiotic, under-dosing, or contributing to antibiotic resistance. For severe cases, please see a vet. For mild cases, topical antibiotic ointment without a prescription is appropriate and effective."
-  - q: "What does bumblefoot look like in the early stages?"
-    a: "Early bumblefoot typically looks like a small, round, dark or black scab on the foot pad, specifically on the ball of the foot. The scab might be anywhere from the size of a BB to a pea. The surrounding tissue looks mostly normal with minimal or no swelling. The chicken may not even be limping yet. This is exactly the stage you want to catch it."
+ - q: "Can bumblefoot go away on its own without treatment?"
+ a: "Very early-stage bumblefoot, where there's just a small surface scab and no swelling, occasionally resolves if you fix the underlying cause (like a rough roost) and the bird's immune system handles it. But this is not something to count on. In most cases, the infection doesn't go away without intervention. It progresses. Treat it when you find it."
+ - q: "Is bumblefoot contagious to other chickens?"
+ a: "Not directly. Staphylococcus aureus is common in the environment and on the skin of healthy birds, but it only causes infection when it gets into a wound. You don't need to quarantine a bird with bumblefoot to protect the rest of the flock, though isolating for treatment purposes makes a lot of practical sense."
+ - q: "Do I have to cut out the core to treat bumblefoot?"
+ a: "For Tier 1 cases, no. Soaking, topical antibiotics, and consistent clean bandaging is often enough to resolve early-stage cases without any cutting. For Tier 2 cases with an established plug, removing the core gives you a much better chance of success because antibiotics have a hard time penetrating the dense caseous material."
+ - q: "Can I use human antibiotics to treat bumblefoot?"
+ a: "Some people do use fish antibiotics or medications from farm supply stores, and I understand the appeal when vets are hard to find or expensive. But without a proper diagnosis and sensitivity test, you risk using the wrong antibiotic, under-dosing, or contributing to antibiotic resistance. For severe cases, please see a vet. For mild cases, topical antibiotic ointment without a prescription is appropriate and effective."
+ - q: "What does bumblefoot look like in the early stages?"
+ a: "Early bumblefoot typically looks like a small, round, dark or black scab on the foot pad, specifically on the ball of the foot. The scab might be anywhere from the size of a BB to a pea. The surrounding tissue looks mostly normal with minimal or no swelling. The chicken may not even be limping yet. This is exactly the stage you want to catch it."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Homestead Writer"
@@ -31,12 +31,12 @@ Bumblefoot sounds manageable until you're actually dealing with it. Mild cases r
 
 
 <div class="value-module">
-  <div class="vm-head">Bumblefoot Severity Staging Guide</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this grading system to assess severity and determine appropriate treatment response for each stage.</p>
-    <table><thead><tr><th>Grade</th><th>Visual Signs</th><th>What's Happening Inside</th><th>Treatment Approach</th><th>Urgency Window</th></tr></thead><tbody><tr><td>Grade 1 (Early)</td><td>Small pink/red spot or thin scab less than 5mm; minimal swelling; no limping</td><td>Superficial infection; bacteria contained near skin surface</td><td>Epsom salt soaks (15 min 2x daily), apply antibiotic ointment, bandage, address roost/flooring cause</td><td>Treat within 3-5 days for best outcomes</td></tr><tr><td>Grade 2 (Moderate)</td><td>Dark scab 5-10mm; noticeable swelling around pad; slight limping; hen still active</td><td>Infection walled off with caseous (cheesy) core forming; tissue damage contained to pad</td><td>Soak, surgical removal of kernel/plug, flush wound, pack with antibiotic, wrap with vet wrap; recheck every 2 days</td><td>Treat within 1 week; delays increase Grade 3 risk</td></tr><tr><td>Grade 3 (Severe)</td><td>Scab greater than 10mm; significant swelling extending beyond pad; obvious limping; reduced activity</td><td>Deep infection reaching tendons; multiple pockets of pus possible; tissue necrosis beginning</td><td>Surgical debridement required; oral antibiotics likely needed; consider veterinary consultation</td><td>Immediate action; bone/joint involvement possible within days</td></tr><tr><td>Grade 4 (Advanced)</td><td>Swelling into leg/toes; black tissue; hen reluctant to stand; systemic illness signs (lethargy, appetite loss)</td><td>Bone infection (osteomyelitis); sepsis risk; permanent structural damage likely</td><td>Veterinary care essential; amputation may be necessary; euthanasia consideration if suffering</td><td>Emergency; prognosis guarded to poor</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Bumblefoot Severity Staging Guide</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this grading system to assess severity and determine appropriate treatment response for each stage.</p>
+ <table><thead><tr><th>Grade</th><th>Visual Signs</th><th>What's Happening Inside</th><th>Treatment Approach</th><th>Urgency Window</th></tr></thead><tbody><tr><td>Grade 1 (Early)</td><td>Small pink/red spot or thin scab less than 5mm; minimal swelling; no limping</td><td>Superficial infection; bacteria contained near skin surface</td><td>Epsom salt soaks (15 min 2x daily), apply antibiotic ointment, bandage, address roost/flooring cause</td><td>Treat within 3-5 days for best outcomes</td></tr><tr><td>Grade 2 (Moderate)</td><td>Dark scab 5-10mm; noticeable swelling around pad; slight limping; hen still active</td><td>Infection walled off with caseous (cheesy) core forming; tissue damage contained to pad</td><td>Soak, surgical removal of kernel/plug, flush wound, pack with antibiotic, wrap with vet wrap; recheck every 2 days</td><td>Treat within 1 week; delays increase Grade 3 risk</td></tr><tr><td>Grade 3 (Severe)</td><td>Scab greater than 10mm; significant swelling extending beyond pad; obvious limping; reduced activity</td><td>Deep infection reaching tendons; multiple pockets of pus possible; tissue necrosis beginning</td><td>Surgical debridement required; oral antibiotics likely needed; consider veterinary consultation</td><td>Immediate action; bone/joint involvement possible within days</td></tr><tr><td>Grade 4 (Advanced)</td><td>Swelling into leg/toes; black tissue; hen reluctant to stand; systemic illness signs (lethargy, appetite loss)</td><td>Bone infection (osteomyelitis); sepsis risk; permanent structural damage likely</td><td>Veterinary care essential; amputation may be necessary; euthanasia consideration if suffering</td><td>Emergency; prognosis guarded to poor</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Bumblefoot Actually Is (And Why It Happens)

@@ -11,10 +11,7 @@ author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
 slug: "drug-resistant-salmonella-is-surging-in-backyard-flocks-right-now"
-affiliate_disclosure: false
----
-
-If you got your chickens or ducks in the last six months, stop and read this. The CDC is currently investigating eight simultaneous multistate Salmonella outbreaks tied to backyard poultry contact, and as of June 8, 2026, that means 513 people sick across 43 states and a U.S. territory, 134 hospitalizations, and one death in Washington state. What makes this different from the usual spring poultry outbreak story is the drug resistance angle. Some of the strains circulating right now don't respond to first-line antibiotics, which changes the risk calculus for anyone who keeps birds and has young kids or immunocompromised people in the house.
+affiliate_disclosure: false, If you got your chickens or ducks in the last six months, stop and read this. The CDC is currently investigating eight simultaneous multistate Salmonella outbreaks tied to backyard poultry contact, and as of June 8, 2026, that means 513 people sick across 43 states and a U.S. territory, 134 hospitalizations, and one death in Washington state. What makes this different from the usual spring poultry outbreak story is the drug resistance angle. Some of the strains circulating right now don't respond to first-line antibiotics, which changes the risk calculus for anyone who keeps birds and has young kids or immunocompromised people in the house.
 
 ## This Is Not the Same Old Salmonella Warning
 
@@ -60,11 +57,11 @@ This is a situation that deserves to be taken seriously without descending into 
 
 ## Sources
 
-- [CDC – Salmonella Outbreaks Linked to Backyard Poultry](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/index.html) (June 17, 2026)
-- [CDC – Investigation Update: Salmonella Outbreaks, April 2026](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/investigation.html) (June 8, 2026)
-- [CDC Newsroom – UPDATE: Ongoing Salmonella Outbreaks Linked to Backyard Poultry](https://www.cdc.gov/media/releases/2026/2026-update-ongoing-salmonella-outbreaks-linked-to-backyard-poultry-sickens-150-more-people-with-over.html) (May 14, 2026)
-- [Medscape – Drug-Resistant Salmonella Points to Risk of Backyard Poultry](https://www.medscape.com/viewarticle/drug-resistant-salmonella-points-risk-backyard-poultry-2026a1000dtz) (April 30, 2026)
-- [Reader's Digest – If 2026 Was the Year You Were Starting Backyard Chickens, We Have Bad News](https://www.rd.com/article/safety-backyard-chickens/) (May 2026)
+- [CDC, Salmonella Outbreaks Linked to Backyard Poultry](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/index.html) (June 17, 2026)
+- [CDC, Investigation Update: Salmonella Outbreaks, April 2026](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/investigation.html) (June 8, 2026)
+- [CDC Newsroom, UPDATE: Ongoing Salmonella Outbreaks Linked to Backyard Poultry](https://www.cdc.gov/media/releases/2026/2026-update-ongoing-salmonella-outbreaks-linked-to-backyard-poultry-sickens-150-more-people-with-over.html) (May 14, 2026)
+- [Medscape, Drug-Resistant Salmonella Points to Risk of Backyard Poultry](https://www.medscape.com/viewarticle/drug-resistant-salmonella-points-risk-backyard-poultry-2026a1000dtz) (April 30, 2026)
+- [Reader's Digest, If 2026 Was the Year You Were Starting Backyard Chickens, We Have Bad News](https://www.rd.com/article/safety-backyard-chickens/) (May 2026)
 
 *Photo: [Rahime Gül](https://www.pexels.com/@rahimegul) via Pexels*
 
@@ -74,5 +71,5 @@ This is a situation that deserves to be taken seriously without descending into 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

@@ -9,16 +9,16 @@ tags: ["chicken", "water", "requirements"]
 slug: "chicken-water-requirements"
 affiliate_disclosure: false
 faqs:
-  - q: "How long can a chicken survive without water?"
-    a: "Under cool conditions, a healthy adult hen might survive 48 hours without water, but she'll be in distress well before that. In summer heat above 90°F, organ damage can begin in under 24 hours. Chicks are even more vulnerable and can decline within 6 to 12 hours. Always treat water access as the top priority in your daily coop check."
-  - q: "Can chickens drink from a puddle or rainwater?"
-    a: "They will, and usually without any ill effects. Rainwater collected in a clean container is fine. Puddles are riskier because they can harbor parasites and bacteria, especially if other animals have access to the same area. Don't go out of your way to stop it, but don't rely on puddles as a water source."
-  - q: "How do I stop chickens from spilling or tipping their waterer?"
-    a: "Raise the waterer to back height and hang it if possible. A hanging waterer wobbles rather than tipping. If you use a ground waterer, place it on a flat, stable rubber mat. Switching to a nipple or cup drinker system eliminates most spilling issues entirely."
-  - q: "Do I need to add anything to my chickens' water?"
-    a: "Plain, clean water is sufficient for a healthy flock. During heat stress, poultry electrolytes are genuinely helpful. A tablespoon of raw apple cider vinegar per gallon is a low-risk addition many keepers use for mild probiotic support. Skip anything that isn't specifically formulated for poultry or approved for your situation."
-  - q: "Why are my chickens drinking so much water suddenly?"
-    a: "A sudden spike in water consumption can signal heat stress, illness, high-salt feed, or the onset of laying in pullets. If temperatures have risen, that's likely the answer. If the weather is normal and intake is still unusually high, check for other symptoms like lethargy or runny droppings and consider whether a vet consult makes sense."
+ - q: "How long can a chicken survive without water?"
+ a: "Under cool conditions, a healthy adult hen might survive 48 hours without water, but she'll be in distress well before that. In summer heat above 90°F, organ damage can begin in under 24 hours. Chicks are even more vulnerable and can decline within 6 to 12 hours. Always treat water access as the top priority in your daily coop check."
+ - q: "Can chickens drink from a puddle or rainwater?"
+ a: "They will, and usually without any ill effects. Rainwater collected in a clean container is fine. Puddles are riskier because they can harbor parasites and bacteria, especially if other animals have access to the same area. Don't go out of your way to stop it, but don't rely on puddles as a water source."
+ - q: "How do I stop chickens from spilling or tipping their waterer?"
+ a: "Raise the waterer to back height and hang it if possible. A hanging waterer wobbles rather than tipping. If you use a ground waterer, place it on a flat, stable rubber mat. Switching to a nipple or cup drinker system eliminates most spilling issues entirely."
+ - q: "Do I need to add anything to my chickens' water?"
+ a: "Plain, clean water is sufficient for a healthy flock. During heat stress, poultry electrolytes are genuinely helpful. A tablespoon of raw apple cider vinegar per gallon is a low-risk addition many keepers use for mild probiotic support. Skip anything that isn't specifically formulated for poultry or approved for your situation."
+ - q: "Why are my chickens drinking so much water suddenly?"
+ a: "A sudden spike in water consumption can signal heat stress, illness, high-salt feed, or the onset of laying in pullets. If temperatures have risen, that's likely the answer. If the weather is normal and intake is still unusually high, check for other symptoms like lethargy or runny droppings and consider whether a vet consult makes sense."
 author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
@@ -29,12 +29,12 @@ A chicken can go without food for several days and survive. Without water? You'r
 
 
 <div class="value-module">
-  <div class="vm-head">Daily Water Needs by Flock Size</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this reference table to size your waterer capacity for both normal conditions and peak summer heat, ensuring your flock never runs dry.</p>
-    <table><thead><tr><th>Flock Size</th><th>Normal Daily Need (70°F)</th><th>Hot Weather Need (95°F+)</th><th>Minimum Waterer Size</th><th>Recommended Waterer Size</th></tr></thead><tbody><tr><td>4 hens</td><td>0.25–0.5 gal</td><td>0.5–1 gal</td><td>1 gallon</td><td>2 gallons</td></tr><tr><td>6 hens</td><td>0.4–0.75 gal</td><td>0.75–1.5 gal</td><td>2 gallons</td><td>3 gallons</td></tr><tr><td>10 hens</td><td>0.6–1.25 gal</td><td>1.25–2.5 gal</td><td>3 gallons</td><td>5 gallons</td></tr><tr><td>15 hens</td><td>0.9–1.9 gal</td><td>1.9–3.75 gal</td><td>5 gallons</td><td>5 gallons (refill 2×/day) or dual waterers</td></tr><tr><td>25 hens</td><td>1.5–3.1 gal</td><td>3.1–6.25 gal</td><td>5 gallons</td><td>Two 5-gallon waterers or auto-fill system</td></tr></tbody><tfoot><tr><td colspan="5"><strong>Sizing rule:</strong> Recommended capacity = 2× hot-weather daily need, so you have a full-day buffer if you can't refill until evening.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Daily Water Needs by Flock Size</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this reference table to size your waterer capacity for both normal conditions and peak summer heat, ensuring your flock never runs dry.</p>
+ <table><thead><tr><th>Flock Size</th><th>Normal Daily Need (70°F)</th><th>Hot Weather Need (95°F+)</th><th>Minimum Waterer Size</th><th>Recommended Waterer Size</th></tr></thead><tbody><tr><td>4 hens</td><td>0.25–0.5 gal</td><td>0.5–1 gal</td><td>1 gallon</td><td>2 gallons</td></tr><tr><td>6 hens</td><td>0.4–0.75 gal</td><td>0.75–1.5 gal</td><td>2 gallons</td><td>3 gallons</td></tr><tr><td>10 hens</td><td>0.6–1.25 gal</td><td>1.25–2.5 gal</td><td>3 gallons</td><td>5 gallons</td></tr><tr><td>15 hens</td><td>0.9–1.9 gal</td><td>1.9–3.75 gal</td><td>5 gallons</td><td>5 gallons (refill 2×/day) or dual waterers</td></tr><tr><td>25 hens</td><td>1.5–3.1 gal</td><td>3.1–6.25 gal</td><td>5 gallons</td><td>Two 5-gallon waterers or auto-fill system</td></tr></tbody><tfoot><tr><td colspan="5"><strong>Sizing rule:</strong> Recommended capacity = 2× hot-weather daily need, so you have a full-day buffer if you can't refill until evening.</td></tr></tfoot></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## How Much Water Do Chickens Actually Need?

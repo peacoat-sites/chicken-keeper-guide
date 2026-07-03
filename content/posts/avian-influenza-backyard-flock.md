@@ -13,16 +13,16 @@ author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most o
 slug: "avian-influenza-backyard-flock"
 affiliate_disclosure: false
 faqs:
-  - q: "How do I know if avian influenza is near my flock?"
-    a: "The USDA APHIS keeps an updated map of confirmed HPAI detections, both commercial and backyard. Checking it every few weeks during migration seasons is a reasonable habit. Your state department of agriculture often sends out alerts, and joining your state's poultry keeper association email list is one of the most practical things you can do."
-  - q: "Can I vaccinate my backyard flock against avian influenza?"
-    a: "There is no HPAI vaccine currently approved for general use in backyard flocks in the United States. USDA has been conducting research and limited trials, but as of 2026 it's not something you can order and administer yourself. If that changes, it will be widely reported in poultry-keeping circles."
-  - q: "Do I have to report a sick or dead bird to the government?"
-    a: "You're not legally required to report individual sick birds, but if you suspect HPAI based on the symptoms described above, you should contact your state veterinarian anyway. Reporting protects your neighbors and your community, and it gets you access to official testing and, if it comes to it, the indemnity program."
-  - q: "Is it safe to eat eggs from my flock during an HPAI outbreak nearby?"
-    a: "Cooking eggs to safe internal temperatures (the yolk and white should be fully cooked) kills influenza viruses. The risk from eating your own backyard eggs during a regional outbreak, assuming your birds appear healthy, is considered very low. That said, if your birds are showing symptoms, don't collect eggs, and definitely don't eat them."
-  - q: "Will my flock naturally survive HPAI if they're young and healthy?"
-    a: "No. Highly pathogenic avian influenza does not spare healthy, well-fed birds. This isn't like a basic respiratory illness where a strong bird might fight it off. HPAI mortality in affected flocks is typically very high, often approaching 100%. There is no 'waiting it out.'"
+ - q: "How do I know if avian influenza is near my flock?"
+ a: "The USDA APHIS keeps an updated map of confirmed HPAI detections, both commercial and backyard. Checking it every few weeks during migration seasons is a reasonable habit. Your state department of agriculture often sends out alerts, and joining your state's poultry keeper association email list is one of the most practical things you can do."
+ - q: "Can I vaccinate my backyard flock against avian influenza?"
+ a: "There is no HPAI vaccine currently approved for general use in backyard flocks in the United States. USDA has been conducting research and limited trials, but as of 2026 it's not something you can order and administer yourself. If that changes, it will be widely reported in poultry-keeping circles."
+ - q: "Do I have to report a sick or dead bird to the government?"
+ a: "You're not legally required to report individual sick birds, but if you suspect HPAI based on the symptoms described above, you should contact your state veterinarian anyway. Reporting protects your neighbors and your community, and it gets you access to official testing and, if it comes to it, the indemnity program."
+ - q: "Is it safe to eat eggs from my flock during an HPAI outbreak nearby?"
+ a: "Cooking eggs to safe internal temperatures (the yolk and white should be fully cooked) kills influenza viruses. The risk from eating your own backyard eggs during a regional outbreak, assuming your birds appear healthy, is considered very low. That said, if your birds are showing symptoms, don't collect eggs, and definitely don't eat them."
+ - q: "Will my flock naturally survive HPAI if they're young and healthy?"
+ a: "No. Highly pathogenic avian influenza does not spare healthy, well-fed birds. This isn't like a basic respiratory illness where a strong bird might fight it off. HPAI mortality in affected flocks is typically very high, often approaching 100%. There is no 'waiting it out.'"
 ---
 
 If you're reading this, there's a good chance your local chicken-keeping group just blew up with scary news, or your neighbor lost their flock, or you saw a headline and typed "avian flu backyard chickens" into Google at 11pm. I know that feeling. The first time a case was confirmed in my county, I walked out to my coop before I even finished reading the article. You want to know if your birds are at risk, what you can actually do, and whether you should be worried.

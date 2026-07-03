@@ -13,16 +13,16 @@ author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting wi
 slug: "chicken-keeping-budget"
 affiliate_disclosure: false
 faqs:
-  - q: "How much does it cost to start a backyard flock from scratch?"
-    a: "Budget $500 to $1,500 for startup depending on whether you build or buy your coop and whether you start with chicks or pullets. The coop is the biggest variable. Don't skip quality hardware cloth regardless of what else you economize on."
-  - q: "Is it cheaper to raise chickens for eggs than to buy eggs at the store?"
-    a: "No, almost never. Annual costs for a six-hen flock typically run $1,000 to $1,500, which puts your per-dozen cost well above grocery store prices. Backyard eggs make sense for quality and satisfaction, not for savings."
-  - q: "What's the biggest unexpected cost new chicken keepers face?"
-    a: "Predator damage and health crises. A single raccoon attack can wipe out a flock, and replacing six hens plus repairing a compromised coop is easily a $300 to $500 setback. Spend the money upfront on coop security and it stays a hypothetical."
-  - q: "Can I reduce feed costs by free-ranging my flock?"
-    a: "Yes, meaningfully. Hens with access to quality pasture can reduce feed consumption by 20 to 30 percent in good grazing months. That's roughly $100 to $200 in annual savings for a small flock, though it comes with increased predator exposure if your yard isn't secured."
-  - q: "How much should I budget for chicken health care each year?"
-    a: "For a small flock of six to eight birds with no major illness, $150 to $200 covers a stocked medicine cabinet and routine supplies. A single vet visit can add $100 to $200 on top of that. Some years are fine; some years aren't. The keepers who think ahead and stock basic supplies before they're needed spend less overall."
+ - q: "How much does it cost to start a backyard flock from scratch?"
+ a: "Budget $500 to $1,500 for startup depending on whether you build or buy your coop and whether you start with chicks or pullets. The coop is the biggest variable. Don't skip quality hardware cloth regardless of what else you economize on."
+ - q: "Is it cheaper to raise chickens for eggs than to buy eggs at the store?"
+ a: "No, almost never. Annual costs for a six-hen flock typically run $1,000 to $1,500, which puts your per-dozen cost well above grocery store prices. Backyard eggs make sense for quality and satisfaction, not for savings."
+ - q: "What's the biggest unexpected cost new chicken keepers face?"
+ a: "Predator damage and health crises. A single raccoon attack can wipe out a flock, and replacing six hens plus repairing a compromised coop is easily a $300 to $500 setback. Spend the money upfront on coop security and it stays a hypothetical."
+ - q: "Can I reduce feed costs by free-ranging my flock?"
+ a: "Yes, meaningfully. Hens with access to quality pasture can reduce feed consumption by 20 to 30 percent in good grazing months. That's roughly $100 to $200 in annual savings for a small flock, though it comes with increased predator exposure if your yard isn't secured."
+ - q: "How much should I budget for chicken health care each year?"
+ a: "For a small flock of six to eight birds with no major illness, $150 to $200 covers a stocked medicine cabinet and routine supplies. A single vet visit can add $100 to $200 on top of that. Some years are fine; some years aren't. The keepers who think ahead and stock basic supplies before they're needed spend less overall."
 ---
 
 Most budget guides for backyard chickens treat the startup cost like a one-time event and then wave vaguely at "ongoing feed expenses." That's not a budget. That's a sales pitch with numbers attached. Let me give you the actual picture, including the costs that blindsided me in year one, the ones that creep up every year, and where you can genuinely cut corners versus where doing so will cost you more later.

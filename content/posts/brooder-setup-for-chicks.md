@@ -9,16 +9,16 @@ tags: ["brooder", "setup", "chicks"]
 slug: "brooder-setup-for-chicks"
 affiliate_disclosure: false
 faqs:
-  - q: "How warm does a brooder need to be for baby chicks?"
-    a: "The heat source itself should allow chicks to reach about 95°F in the first week if they choose to, dropping roughly 5°F per week. More usefully: watch your chicks. If they're spread out and active, the temperature is right. Huddled under the lamp means too cold; spread to the walls means too hot."
-  - q: "Can I use a regular light bulb as a heat source in a brooder?"
-    a: "A standard LED or incandescent bulb won't produce enough heat for a brooder. You need either a 250-watt infrared heat bulb in a ceramic socket or a purpose-built brooder plate like the Brinsea EcoGlow. Don't cut corners on this one; chilled chicks die fast."
-  - q: "How long do chicks need to stay in the brooder?"
-    a: "Most chicks are ready to move to a coop or outdoor pen around 6-8 weeks of age, once they're fully feathered. The transition depends more on outside temperatures than on age. Don't move chicks to an unheated outdoor space if nighttime temps are dropping below 50°F."
-  - q: "What do I do if a chick won't eat or drink?"
-    a: "Gently dip its beak into the water and then the feed once or twice. Sometimes shipped chicks are stressed and need a prompt. If a chick stays lethargic and uninterested after 24 hours, separate it from the flock and observe closely. A chick that's not eating or drinking by day two is in real trouble and often doesn't recover, but isolation prevents it from getting trampled."
-  - q: "Is medicated chick starter necessary?"
-    a: "Not universally. It's worth using if your chicks weren't vaccinated for coccidiosis, which is common with hatchery birds that only received Marek's vaccine. If your chicks were vaccinated specifically for coccidiosis, skip the medicated feed since amprolium can interfere with the vaccine building immunity. When in doubt, ask your hatchery directly."
+ - q: "How warm does a brooder need to be for baby chicks?"
+ a: "The heat source itself should allow chicks to reach about 95°F in the first week if they choose to, dropping roughly 5°F per week. More usefully: watch your chicks. If they're spread out and active, the temperature is right. Huddled under the lamp means too cold; spread to the walls means too hot."
+ - q: "Can I use a regular light bulb as a heat source in a brooder?"
+ a: "A standard LED or incandescent bulb won't produce enough heat for a brooder. You need either a 250-watt infrared heat bulb in a ceramic socket or a purpose-built brooder plate like the Brinsea EcoGlow. Don't cut corners on this one; chilled chicks die fast."
+ - q: "How long do chicks need to stay in the brooder?"
+ a: "Most chicks are ready to move to a coop or outdoor pen around 6-8 weeks of age, once they're fully feathered. The transition depends more on outside temperatures than on age. Don't move chicks to an unheated outdoor space if nighttime temps are dropping below 50°F."
+ - q: "What do I do if a chick won't eat or drink?"
+ a: "Gently dip its beak into the water and then the feed once or twice. Sometimes shipped chicks are stressed and need a prompt. If a chick stays lethargic and uninterested after 24 hours, separate it from the flock and observe closely. A chick that's not eating or drinking by day two is in real trouble and often doesn't recover, but isolation prevents it from getting trampled."
+ - q: "Is medicated chick starter necessary?"
+ a: "Not universally. It's worth using if your chicks weren't vaccinated for coccidiosis, which is common with hatchery birds that only received Marek's vaccine. If your chicks were vaccinated specifically for coccidiosis, skip the medicated feed since amprolium can interfere with the vaccine building immunity. When in doubt, ask your hatchery directly."
 author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
@@ -31,12 +31,12 @@ If you're setting up a brooder for the first time, or even if you've done it bef
 
 
 <div class="value-module">
-  <div class="vm-head">Brooder Heat Gradient Setup by Week</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this table to set your heat source height and monitor chick behavior, the gradient matters more than hitting exact numbers.</p>
-    <table><thead><tr><th>Chick Age</th><th>Warm Zone Target</th><th>Cool Zone Target</th><th>Typical Heat Lamp Height</th><th>Chick Behavior Check</th></tr></thead><tbody><tr><td>Days 1–7</td><td>95°F (35°C)</td><td>80–85°F (27–29°C)</td><td>18–20 inches</td><td>Scattered evenly = correct; huddled under lamp = too cold; pressed against walls = too hot</td></tr><tr><td>Days 8–14</td><td>90°F (32°C)</td><td>75–80°F (24–27°C)</td><td>20–24 inches</td><td>Active exploration, brief naps under lamp, eating/drinking freely</td></tr><tr><td>Days 15–21</td><td>85°F (29°C)</td><td>70–75°F (21–24°C)</td><td>24–28 inches</td><td>Spending less time under heat, wing feathers developing</td></tr><tr><td>Days 22–28</td><td>80°F (27°C)</td><td>65–70°F (18–21°C)</td><td>28–32 inches</td><td>Mostly feathered, may avoid heat source during day</td></tr><tr><td>Days 29–35</td><td>75°F (24°C)</td><td>60–65°F (16–18°C)</td><td>32+ inches or off during day</td><td>Body feathers nearly complete, heat only needed if below 60°F ambient</td></tr><tr><td>Week 6+</td><td>70°F or ambient</td><td>Ambient temp</td><td>Supplemental only if below 55°F</td><td>Fully feathered, ready for coop transition in mild weather</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Brooder Heat Gradient Setup by Week</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this table to set your heat source height and monitor chick behavior, the gradient matters more than hitting exact numbers.</p>
+ <table><thead><tr><th>Chick Age</th><th>Warm Zone Target</th><th>Cool Zone Target</th><th>Typical Heat Lamp Height</th><th>Chick Behavior Check</th></tr></thead><tbody><tr><td>Days 1–7</td><td>95°F (35°C)</td><td>80–85°F (27–29°C)</td><td>18–20 inches</td><td>Scattered evenly = correct; huddled under lamp = too cold; pressed against walls = too hot</td></tr><tr><td>Days 8–14</td><td>90°F (32°C)</td><td>75–80°F (24–27°C)</td><td>20–24 inches</td><td>Active exploration, brief naps under lamp, eating/drinking freely</td></tr><tr><td>Days 15–21</td><td>85°F (29°C)</td><td>70–75°F (21–24°C)</td><td>24–28 inches</td><td>Spending less time under heat, wing feathers developing</td></tr><tr><td>Days 22–28</td><td>80°F (27°C)</td><td>65–70°F (18–21°C)</td><td>28–32 inches</td><td>Mostly feathered, may avoid heat source during day</td></tr><tr><td>Days 29–35</td><td>75°F (24°C)</td><td>60–65°F (16–18°C)</td><td>32+ inches or off during day</td><td>Body feathers nearly complete, heat only needed if below 60°F ambient</td></tr><tr><td>Week 6+</td><td>70°F or ambient</td><td>Ambient temp</td><td>Supplemental only if below 55°F</td><td>Fully feathered, ready for coop transition in mild weather</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Container Itself: More Important Than You Think

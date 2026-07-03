@@ -11,10 +11,7 @@ author_slug: "carol-thompson"
 author_title: "Homestead Writer"
 author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
 slug: "h5n1-can-kill-your-cat-what-backyard-flock-owners-must-know"
-affiliate_disclosure: false
----
-
-Most coverage of H5N1 and backyard flocks focuses on your chickens dying. That's real, but it's only half the story. On June 25, 2026, a University of Queensland veterinary expert published a warning that cuts closer to home: H5N1 can infect and kill your cat. Then in May 2026, the CDC documented the first case of a human contracting H5N1 through exposure to an infected domestic cat. The transmission chain now reads: wild bird to backyard flock to cat to person. If you keep chickens and you have a cat, you are sitting at the center of that chain.
+affiliate_disclosure: false, Most coverage of H5N1 and backyard flocks focuses on your chickens dying. That's real, but it's only half the story. On June 25, 2026, a University of Queensland veterinary expert published a warning that cuts closer to home: H5N1 can infect and kill your cat. Then in May 2026, the CDC documented the first case of a human contracting H5N1 through exposure to an infected domestic cat. The transmission chain now reads: wild bird to backyard flock to cat to person. If you keep chickens and you have a cat, you are sitting at the center of that chain.
 
 ## The Cat Problem Nobody's Talking About
 
@@ -64,8 +61,8 @@ Most backyard keepers got into this for the eggs, the connection to food, and th
 
 ## Sources
 
-- [Bird flu is deadly for backyard chickens – and even cats. A vet expert explains](https://theconversation.com/bird-flu-is-deadly-for-backyard-chickens-and-even-cats-a-vet-expert-explains-286137) (June 25, 2026)
-- [Bird flu is deadly for backyard chickens ,  and even cats (Phys.org reprint)](https://phys.org/news/2026-06-bird-flu-deadly-backyard-chickens.html) (June 28, 2026)
+- [Bird flu is deadly for backyard chickens, and even cats. A vet expert explains](https://theconversation.com/bird-flu-is-deadly-for-backyard-chickens-and-even-cats-a-vet-expert-explains-286137) (June 25, 2026)
+- [Bird flu is deadly for backyard chickens , and even cats (Phys.org reprint)](https://phys.org/news/2026-06-bird-flu-deadly-backyard-chickens.html) (June 28, 2026)
 - [Avian influenza in pets and backyard flocks | AVMA](https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza/avian-influenza-companion-animals) (2026, ongoing)
 - [Survey: A third of US backyard flock owners don't know signs of avian flu | CIDRAP](https://www.cidrap.umn.edu/avian-influenza-bird-flu/survey-third-us-backyard-flock-owners-don-t-know-signs-symptoms-avian-flu) (May 16, 2026)
 - [If 2026 Was Going to Be the Year You Started Raising Backyard Chickens, We Have Bad News | Reader's Digest](https://www.rd.com/article/safety-backyard-chickens/) (May 2026)

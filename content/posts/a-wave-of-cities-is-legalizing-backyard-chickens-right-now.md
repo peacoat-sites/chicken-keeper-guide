@@ -11,20 +11,18 @@ author_slug: "carol-thompson"
 author_title: "Homestead Writer"
 author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
 slug: "a-wave-of-cities-is-legalizing-backyard-chickens-right-now"
-affiliate_disclosure: false
----
-Something shifted this spring. I've been keeping chickens for a decade, and I've watched legalization efforts crawl through city councils at a pace that would make a broody hen look productive. But right now, in June 2026, more cities are actively debating or passing backyard chicken ordinances than at any point I can remember. Five municipalities in a single month. That's not a trend. That's a wave.
+affiliate_disclosure: false, Something shifted this spring. I've been keeping chickens for a decade, and I've watched legalization efforts crawl through city councils at a pace that would make a broody hen look productive. But right now, in June 2026, more cities are actively debating or passing backyard chicken ordinances than at any point I can remember. Five municipalities in a single month. That's not a trend. That's a wave.
 
 If you've been waiting to see whether your city might follow suit, or you just got a notice that your neighbor is pushing for an ordinance change, this is the moment to pay attention.
 
 
 <div class="value-module">
-  <div class="vm-head">Backyard Chicken Ordinance Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">Here's how the five cities currently debating or passing backyard chicken rules stack up on the key restrictions that matter most to prospective flock owners.</p>
-    <table><thead><tr><th>City, State</th><th>Max Hens Allowed</th><th>Minimum Lot Size</th><th>Roosters</th><th>Coop Setback</th><th>Permit Required</th></tr></thead><tbody><tr><td>Edgewater, FL</td><td>Not yet specified</td><td>Standard residential</td><td>Banned</td><td>TBD in final reading</td><td>Expected</td></tr><tr><td>Stuart, FL</td><td>4</td><td>Standard residential</td><td>Banned</td><td>TBD (June 22 vote)</td><td>Likely</td></tr><tr><td>Westminster, CO</td><td>6 (standard) / 30 (2+ acres)</td><td>None / 2+ acres for expanded limit</td><td>Likely banned on standard lots</td><td>Existing rules apply</td><td>Yes (existing)</td></tr><tr><td>Paxton, IL</td><td>Under review</td><td>Under review</td><td>Under review</td><td>Under review</td><td>Under review</td></tr><tr><td>Rapid City, SD</td><td>6</td><td>Standard residential</td><td>Banned</td><td>10 ft from property line (typical)</td><td>Yes</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Backyard Chicken Ordinance Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">Here's how the five cities currently debating or passing backyard chicken rules stack up on the key restrictions that matter most to prospective flock owners.</p>
+ <table><thead><tr><th>City, State</th><th>Max Hens Allowed</th><th>Minimum Lot Size</th><th>Roosters</th><th>Coop Setback</th><th>Permit Required</th></tr></thead><tbody><tr><td>Edgewater, FL</td><td>Not yet specified</td><td>Standard residential</td><td>Banned</td><td>TBD in final reading</td><td>Expected</td></tr><tr><td>Stuart, FL</td><td>4</td><td>Standard residential</td><td>Banned</td><td>TBD (June 22 vote)</td><td>Likely</td></tr><tr><td>Westminster, CO</td><td>6 (standard) / 30 (2+ acres)</td><td>None / 2+ acres for expanded limit</td><td>Likely banned on standard lots</td><td>Existing rules apply</td><td>Yes (existing)</td></tr><tr><td>Paxton, IL</td><td>Under review</td><td>Under review</td><td>Under review</td><td>Under review</td><td>Under review</td></tr><tr><td>Rapid City, SD</td><td>6</td><td>Standard residential</td><td>Banned</td><td>10 ft from property line (typical)</td><td>Yes</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What's Actually Happening Right Now

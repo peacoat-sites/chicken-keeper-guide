@@ -15,7 +15,7 @@ Pick the wrong breed and you'll get 150 eggs/year. Pick the right one and you'll
 
 That's the difference between having enough eggs for your family vs. having enough to sell.
 
-This guide breaks down egg production by breed using USDA data—so you can match your flock to your actual goals.
+This guide breaks down egg production by breed using USDA data, so you can match your flock to your actual goals.
 
 {{< egg-production-guide >}}
 
@@ -49,5 +49,5 @@ These breeds won't shut down in winter the way Mediterranean breeds do.
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 

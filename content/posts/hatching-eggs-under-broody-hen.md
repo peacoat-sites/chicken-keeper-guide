@@ -13,16 +13,16 @@ author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry hea
 slug: "hatching-eggs-under-broody-hen"
 affiliate_disclosure: false
 faqs:
-  - q: "How do I know if my broody hen will be a good mother?"
-    a: "Past behavior is the best indicator, but even a first-time broody can be excellent. The hens that stay calm, stay tight on the nest, and don't constantly get up are generally the best mothers. Flighty, nervous hens tend to abandon the nest under stress or accidentally trample chicks."
-  - q: "Can I put store-bought eggs under a broody hen?"
-    a: "No. Store-bought eggs are unfertilized and won't develop. You need eggs from a flock that includes a rooster, or you need to order fertilized hatching eggs from a reputable seller. Look for sellers who have active feedback on sites like eBay or specialty hatcheries like Meyer Hatchery or Cackle Hatchery."
-  - q: "What do I do if the broody hen abandons the nest partway through incubation?"
-    a: "Act fast. You've got roughly 20 to 30 minutes before eggs cool to a point that causes damage. Move the eggs to an incubator if you have one. If you don't, a Styrofoam incubator like the HovaBator Genesis 1588 (around $90 to $110) can save the hatch. Whether you can get her back on the nest depends entirely on why she quit. Predator scare, heat stress, and harassment from other hens are recoverable causes."
-  - q: "Will the mama hen protect the chicks from the rest of the flock?"
-    a: "A determined broody hen is genuinely scary when she's defending chicks. Most hens will back off. That said, I always keep the broody and chicks separated from the main flock for at least the first two weeks, because even a well-intentioned hen can accidentally step on a chick, and roosters can be rough. Reintegration is easier than a chick funeral."
-  - q: "Should I candle the eggs under a broody?"
-    a: "You don't have to, but I recommend at least one candling at day 7 to pull clear eggs. Infertile or very early-quit eggs that stay in the nest can eventually rot and crack, contaminating the rest of the clutch. It takes five minutes and can save the entire hatch."
+ - q: "How do I know if my broody hen will be a good mother?"
+ a: "Past behavior is the best indicator, but even a first-time broody can be excellent. The hens that stay calm, stay tight on the nest, and don't constantly get up are generally the best mothers. Flighty, nervous hens tend to abandon the nest under stress or accidentally trample chicks."
+ - q: "Can I put store-bought eggs under a broody hen?"
+ a: "No. Store-bought eggs are unfertilized and won't develop. You need eggs from a flock that includes a rooster, or you need to order fertilized hatching eggs from a reputable seller. Look for sellers who have active feedback on sites like eBay or specialty hatcheries like Meyer Hatchery or Cackle Hatchery."
+ - q: "What do I do if the broody hen abandons the nest partway through incubation?"
+ a: "Act fast. You've got roughly 20 to 30 minutes before eggs cool to a point that causes damage. Move the eggs to an incubator if you have one. If you don't, a Styrofoam incubator like the HovaBator Genesis 1588 (around $90 to $110) can save the hatch. Whether you can get her back on the nest depends entirely on why she quit. Predator scare, heat stress, and harassment from other hens are recoverable causes."
+ - q: "Will the mama hen protect the chicks from the rest of the flock?"
+ a: "A determined broody hen is genuinely scary when she's defending chicks. Most hens will back off. That said, I always keep the broody and chicks separated from the main flock for at least the first two weeks, because even a well-intentioned hen can accidentally step on a chick, and roosters can be rough. Reintegration is easier than a chick funeral."
+ - q: "Should I candle the eggs under a broody?"
+ a: "You don't have to, but I recommend at least one candling at day 7 to pull clear eggs. Infertile or very early-quit eggs that stay in the nest can eventually rot and crack, contaminating the rest of the clutch. It takes five minutes and can save the entire hatch."
 ---
 
 You've probably got a hen sitting tight in a nesting box right now, puffed up like a volleyball, glaring at you every time you reach under her. Maybe she's been there three days, maybe a week, and you're trying to figure out whether to let this play out or break her. Here's what I tell people in that exact moment: if she's genuinely broody and you want more chicks, let her work. A good broody hen is one of the most reliable, low-intervention ways to hatch eggs that exists. She'll do things no Brinsea incubator can replicate.

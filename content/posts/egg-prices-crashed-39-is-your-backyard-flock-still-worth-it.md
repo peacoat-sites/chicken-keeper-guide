@@ -11,10 +11,7 @@ author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
 slug: "egg-prices-crashed-39-is-your-backyard-flock-still-worth-it"
-affiliate_disclosure: false
----
-
-The price shock that drove thousands of people to buy baby chicks in 2025 has officially reversed. USDA data shows retail egg prices fell 39.2% year-over-year by April 2026, and the national average for a dozen Grade A large eggs hit $2.19 in May 2026, according to BLS figures tracked by FRED. That's a long way from the $5 to $6 cartons that were emptying grocery shelves eighteen months ago. In chicken-keeping forums and local Facebook groups, the same question is surfacing constantly: does a backyard flock still make financial sense?
+affiliate_disclosure: false, The price shock that drove thousands of people to buy baby chicks in 2025 has officially reversed. USDA data shows retail egg prices fell 39.2% year-over-year by April 2026, and the national average for a dozen Grade A large eggs hit $2.19 in May 2026, according to BLS figures tracked by FRED. That's a long way from the $5 to $6 cartons that were emptying grocery shelves eighteen months ago. In chicken-keeping forums and local Facebook groups, the same question is surfacing constantly: does a backyard flock still make financial sense?
 
 The honest answer is: it depends on why you started one, and whether you're willing to do real math instead of comfortable math.
 
@@ -53,10 +50,10 @@ Feed quality matters more than most beginners realize. A 16 to 18% protein layer
 The price crash is real, and anyone pretending it doesn't change the calculus for new flock decisions isn't being straight with you. But the people who build flocks around food resilience, genuine quality, and the satisfaction of doing something themselves don't need egg prices to stay high to justify what they're doing. They were never betting on $6 eggs lasting forever.
 
 ## Sources
-- [USDA ERS Food Price Outlook – Summary Findings](https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings) (May 22, 2026)
+- [USDA ERS Food Price Outlook, Summary Findings](https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings) (May 22, 2026)
 - [USDA ERS Poultry & Eggs Market Outlook](https://www.ers.usda.gov/topics/animal-products/poultry-eggs/market-outlook) (May 19, 2026)
-- [FRED / BLS – Average Price: Eggs, Grade A, Large, U.S. City Average](https://fred.stlouisfed.org/series/APU0000708111) (June 2026, May 2026 data)
-- [KCRG – Bird flu confirmed in Washington County backyard flock, Iowa's fifth case in 2026](https://www.kcrg.com/2026/03/03/bird-flu-confirmed-washington-county-backyard-flock-iowas-fifth-case-2026/) (March 3, 2026)
-- [Trading Economics – US Egg Prices Historical Data](https://tradingeconomics.com/commodity/eggs-us) (April 22, 2026)
+- [FRED / BLS, Average Price: Eggs, Grade A, Large, U.S. City Average](https://fred.stlouisfed.org/series/APU0000708111) (June 2026, May 2026 data)
+- [KCRG, Bird flu confirmed in Washington County backyard flock, Iowa's fifth case in 2026](https://www.kcrg.com/2026/03/03/bird-flu-confirmed-washington-county-backyard-flock-iowas-fifth-case-2026/) (March 3, 2026)
+- [Trading Economics, US Egg Prices Historical Data](https://tradingeconomics.com/commodity/eggs-us) (April 22, 2026)
 
 *Photo: [Nimit N](https://www.pexels.com/@nimitclix) via Pexels*

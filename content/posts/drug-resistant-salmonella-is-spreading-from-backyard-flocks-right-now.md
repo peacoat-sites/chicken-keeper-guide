@@ -11,10 +11,7 @@ author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 slug: "drug-resistant-salmonella-is-spreading-from-backyard-flocks-right-now"
-affiliate_disclosure: false
----
-
-If you picked up baby chicks from a feed store or hatchery this spring, you need to read this. Right now, the CDC is tracking 513 sick people across 42 states and a U.S. territory in active Salmonella outbreaks tied directly to backyard poultry, with 53 hospitalizations and one death already confirmed in Washington state. This isn't a story about a few unlucky families who didn't wash their hands. This is the largest and most medically alarming backyard poultry outbreak I've seen get this level of CDC attention, and what makes it genuinely different from past spring flare-ups is the drug resistance baked into these strains.
+affiliate_disclosure: false, If you picked up baby chicks from a feed store or hatchery this spring, you need to read this. Right now, the CDC is tracking 513 sick people across 42 states and a U.S. territory in active Salmonella outbreaks tied directly to backyard poultry, with 53 hospitalizations and one death already confirmed in Washington state. This isn't a story about a few unlucky families who didn't wash their hands. This is the largest and most medically alarming backyard poultry outbreak I've seen get this level of CDC attention, and what makes it genuinely different from past spring flare-ups is the drug resistance baked into these strains.
 
 ## What's Actually Circulating in Your Flock Right Now
 
@@ -76,5 +73,5 @@ Stay current with the CDC investigation page. This situation has been moving fas
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

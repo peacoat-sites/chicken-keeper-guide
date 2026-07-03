@@ -14,15 +14,15 @@ slug: "chicken-waterer-review"
 affiliate_disclosure: false
 faqs:
  - q: "What's the best chicken waterer for a small backyard flock of 4-6 hens?"
- a: "A 3- to 5-gallon food-grade bucket with 4-6 horizontal nipples is the best all-around choice. It stays clean, costs about $15-20 to build yourself, and requires minimal maintenance compared to open gravity waterers."
+   a: "A 3- to 5-gallon food-grade bucket with 4-6 horizontal nipples is the best all-around choice. It stays clean, costs about $15-20 to build yourself, and requires minimal maintenance compared to open gravity waterers."
  - q: "How often do I need to refill a chicken waterer?"
- a: "For 6-8 standard-size laying hens in moderate weather, a 3-gallon waterer needs refilling every 2-3 days. In summer heat or with larger breeds, plan on daily checks. Nipple systems from a garden hose connection eliminate refilling entirely."
+   a: "For 6-8 standard-size laying hens in moderate weather, a 3-gallon waterer needs refilling every 2-3 days. In summer heat or with larger breeds, plan on daily checks. Nipple systems from a garden hose connection eliminate refilling entirely."
  - q: "Do nipple waterers work in freezing temperatures?"
- a: "Not without help. Nipple tips freeze at around 28°F. A submersible bucket heater (around $20) paired with a thermostat outlet solves this for most climates. Foam pipe insulation wrapped around the nipple shank adds extra protection in very hard freezes."
+   a: "Not without help. Nipple tips freeze at around 28°F. A submersible bucket heater (around $20) paired with a thermostat outlet solves this for most climates. Foam pipe insulation wrapped around the nipple shank adds extra protection in very hard freezes."
  - q: "Why are my chickens not using the new waterer?"
- a: "Almost always a height problem or an unfamiliarity problem. The nipples should sit at the birds' eye level or slightly above. For unfamiliarity, remove the old waterer for 2-3 hours during the warmest part of the day. Hunger-driven exploration will get them there fast. Do not leave them without water overnight."
+   a: "Almost always a height problem or an unfamiliarity problem. The nipples should sit at the birds' eye level or slightly above. For unfamiliarity, remove the old waterer for 2-3 hours during the warmest part of the day. Hunger-driven exploration will get them there fast. Do not leave them without water overnight."
  - q: "Is apple cider vinegar actually good to add to chicken water?"
- a: "Mildly beneficial at best, not a cure-all. A tablespoon per gallon lowers the water's pH slightly, which slows biofilm growth and may support gut flora. There's no strong research showing dramatic health benefits in otherwise healthy flocks. Don't use it with metal waterers since it accelerates corrosion."
+   a: "Mildly beneficial at best, not a cure-all. A tablespoon per gallon lowers the water's pH slightly, which slows biofilm growth and may support gut flora. There's no strong research showing dramatic health benefits in otherwise healthy flocks. Don't use it with metal waterers since it accelerates corrosion."
 ---
 
 Most chicken waterer reviews compare products on looks and price and leave out the part where your flock of eight goes thirsty for six hours because a nipple froze solid in January. That's the gap I'm filling here.

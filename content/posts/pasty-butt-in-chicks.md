@@ -14,15 +14,15 @@ slug: "pasty-butt-in-chicks"
 affiliate_disclosure: false
 faqs:
  - q: "Can pasty butt kill a chick?"
- a: "Yes, absolutely. A fully sealed vent prevents the chick from defecating. Waste backs up, toxins build, and the chick dies within 24-48 hours if not cleared. It sounds minor; it isn't."
+   a: "Yes, absolutely. A fully sealed vent prevents the chick from defecating. Waste backs up, toxins build, and the chick dies within 24-48 hours if not cleared. It sounds minor; it isn't."
  - q: "Is pasty butt contagious?"
- a: "No. It's not an infection. One chick pasting up doesn't mean others will, though if your whole brooder is affected, that's a signal that something environmental (temperature, feed, hydration) is wrong for all of them."
+   a: "No. It's not an infection. One chick pasting up doesn't mean others will, though if your whole brooder is affected, that's a signal that something environmental (temperature, feed, hydration) is wrong for all of them."
  - q: "Why does my chick keep getting pasty butt every day?"
- a: "Daily recurrence usually means the brooder temperature is off or the chick is under ongoing stress. Check your thermometer placement, make sure the heat source is working properly, and confirm chicks have constant access to clean water. A single chick recurring when others aren't may have an underlying health issue."
+   a: "Daily recurrence usually means the brooder temperature is off or the chick is under ongoing stress. Check your thermometer placement, make sure the heat source is working properly, and confirm chicks have constant access to clean water. A single chick recurring when others aren't may have an underlying health issue."
  - q: "Should I use apple cider vinegar in the water to prevent it?"
- a: "The evidence is weak. ACV has real uses in chicken keeping, but preventing pasty butt specifically isn't well-supported. Proper temperature and electrolytes during the first 72 hours are better-documented interventions. Use ACV if you want, but don't rely on it as your prevention strategy."
+   a: "The evidence is weak. ACV has real uses in chicken keeping, but preventing pasty butt specifically isn't well-supported. Proper temperature and electrolytes during the first 72 hours are better-documented interventions. Use ACV if you want, but don't rely on it as your prevention strategy."
  - q: "At what age can I stop checking vents?"
- a: "Practically speaking, after two weeks with most chicks. With shipped chicks I'd say 10-14 days minimum before you back off the twice-daily checks. After three weeks, pasty butt is rare enough that you only need to check if a chick is behaving oddly."
+   a: "Practically speaking, after two weeks with most chicks. With shipped chicks I'd say 10-14 days minimum before you back off the twice-daily checks. After three weeks, pasty butt is rare enough that you only need to check if a chick is behaving oddly."
 ---
 
 Pasty butt kills chicks. Not dramatically, not slowly, wait, actually, pretty slowly, and that's part of why it catches new keepers off guard. The chick looks fine, then a little sluggish, then suddenly it's dead, and you're standing there wondering what happened. What happened was a hardened cap of dried feces sealed the vent shut, backed up the digestive tract, and that was that.

@@ -14,15 +14,15 @@ slug: "pullet-vs-cockerel-identification"
 affiliate_disclosure: false
 faqs:
  - q: "Why did my hatchery get the sex wrong?"
- a: "Vent sexing at one day old is accurate about 95% of the time, but 5% error rate means roughly one wrong bird per 20-chick order. Hatcheries that process thousands of chicks daily can't catch every mistake, and they typically refund the cost of a few birds per season because they accept this as normal industry loss."
+   a: "Vent sexing at one day old is accurate about 95% of the time, but 5% error rate means roughly one wrong bird per 20-chick order. Hatcheries that process thousands of chicks daily can't catch every mistake, and they typically refund the cost of a few birds per season because they accept this as normal industry loss."
  - q: "Can I tell the difference between a pullet and cockerel at hatch?"
- a: "Not reliably without training. Vent sexing requires expertise that takes months to develop. The visual differences, comb, wattles, tail feathers, don't show up until 3 to 4 weeks of age minimum."
+   a: "Not reliably without training. Vent sexing requires expertise that takes months to develop. The visual differences, comb, wattles, tail feathers, don't show up until 3 to 4 weeks of age minimum."
  - q: "Is a cockerel better for breeding if I want to hatch chicks?"
- a: "One rooster can fertilize all the eggs from 8 to 10 hens, so you don't need more than one unless you're breeding separately. A cockerel will absolutely breed when he matures, but choose him based on the traits you want in your flock, not just the fact that he exists."
+   a: "One rooster can fertilize all the eggs from 8 to 10 hens, so you don't need more than one unless you're breeding separately. A cockerel will absolutely breed when he matures, but choose him based on the traits you want in your flock, not just the fact that he exists."
  - q: "What if I'm raising rare or heritage breeds where sexing is harder?"
- a: "Take photos at regular intervals and compare birds side by side. Behavioral cues (mounting, aggressive posturing) are often your clearest signal in unusual breeds by 7 to 8 weeks. Keep detailed notes if you're hatching repeatedly, you'll start seeing patterns specific to your genetics."
+   a: "Take photos at regular intervals and compare birds side by side. Behavioral cues (mounting, aggressive posturing) are often your clearest signal in unusual breeds by 7 to 8 weeks. Keep detailed notes if you're hatching repeatedly, you'll start seeing patterns specific to your genetics."
  - q: "Can I tell if a cockerel is going to be aggressive before he's fully grown?"
- a: "To some degree. Young roosters that already bully siblings heavily or jump at your hand frequently tend to stay aggressive. Gentler cockerels sometimes mellow slightly as they mature, but a jerk at 6 weeks is usually a jerk at 6 months."
+   a: "To some degree. Young roosters that already bully siblings heavily or jump at your hand frequently tend to stay aggressive. Gentler cockerels sometimes mellow slightly as they mature, but a jerk at 6 weeks is usually a jerk at 6 months."
 ---
 
 # Pullet vs Cockerel Identification

@@ -14,15 +14,15 @@ slug: "sexing-baby-chicks"
 affiliate_disclosure: false
 faqs:
  - q: "Can I learn to vent sex my own chicks?"
- a: "Technically yes, but practically speaking, it's not worth attempting without hands-on training from an experienced sexer. The technique requires pressure and positioning that's easy to get wrong, and a mistake can injure or kill a chick. For a backyard flock, DNA testing or buying sex-links is a better path."
+   a: "Technically yes, but practically speaking, it's not worth attempting without hands-on training from an experienced sexer. The technique requires pressure and positioning that's easy to get wrong, and a mistake can injure or kill a chick. For a backyard flock, DNA testing or buying sex-links is a better path."
  - q: "Why did I get a rooster when I ordered all pullets?"
- a: "Hatchery sexing is accurate, not perfect. Vent sexing runs roughly 90-95% accuracy, so in a typical order of 10-15 chicks, getting one or two wrong-sex birds is within normal range. Most reputable hatcheries will credit or refund for sexing errors if you report them promptly, so check the policy before you call."
+   a: "Hatchery sexing is accurate, not perfect. Vent sexing runs roughly 90-95% accuracy, so in a typical order of 10-15 chicks, getting one or two wrong-sex birds is within normal range. Most reputable hatcheries will credit or refund for sexing errors if you report them promptly, so check the policy before you call."
  - q: "What age can I reliably tell a pullet from a cockerel by looking?"
- a: "For most common breeds (Rhode Island Reds, Barred Rocks, Buff Orpingtons), 6-8 weeks is usually enough to make a confident call based on comb size, leg thickness, and early saddle feather development. Some slow-feathering or crested breeds take until 12-16 weeks."
+   a: "For most common breeds (Rhode Island Reds, Barred Rocks, Buff Orpingtons), 6-8 weeks is usually enough to make a confident call based on comb size, leg thickness, and early saddle feather development. Some slow-feathering or crested breeds take until 12-16 weeks."
  - q: "Do roosters develop differently if they're a sex-link breed?"
- a: "Sex-link hybrids like Black Sex-Links or Red Sex-Links are color-sorted at hatch, so you'd typically never receive a male if you ordered pullets of those breeds, since hatcheries can sort them with near-perfect accuracy. The color difference is genetic and visible from day one."
+   a: "Sex-link hybrids like Black Sex-Links or Red Sex-Links are color-sorted at hatch, so you'd typically never receive a male if you ordered pullets of those breeds, since hatcheries can sort them with near-perfect accuracy. The color difference is genetic and visible from day one."
  - q: "Is it worth paying for DNA sexing on backyard chicks?"
- a: "For most people adding a few standard hens, no. But if you've hatched a rare breed chick you're already attached to, or you're in a strict no-rooster zone with HOA consequences, or you're working with Silkies or other notoriously hard-to-sex breeds, the $20-25 per bird is genuinely worth it for the certainty."
+   a: "For most people adding a few standard hens, no. But if you've hatched a rare breed chick you're already attached to, or you're in a strict no-rooster zone with HOA consequences, or you're working with Silkies or other notoriously hard-to-sex breeds, the $20-25 per bird is genuinely worth it for the certainty."
 ---
 
 Every spring, someone in one of my local chicken groups posts a photo of their "all-hen" order from a hatchery, and there's a rooster standing right in the middle of the picture. You can almost feel the disappointment through the screen. They did everything right. They ordered pullets. They paid the extra sexing fee. And still.

@@ -14,15 +14,15 @@ slug: "chick-vaccinations"
 affiliate_disclosure: false
 faqs:
  - q: "Do I need to vaccinate chicks I buy from a feed store?"
- a: "Feed store chicks typically come from large hatcheries that do vaccinate for Marek's, but you should ask the store directly which hatchery supplies them and whether Marek's vaccination is included. Don't assume; ask for documentation if you can get it."
+   a: "Feed store chicks typically come from large hatcheries that do vaccinate for Marek's, but you should ask the store directly which hatchery supplies them and whether Marek's vaccination is included. Don't assume; ask for documentation if you can get it."
  - q: "Can I vaccinate chicks that are already a week or two old?"
- a: "For Marek's, the window is ideally within 24 hours of hatch. After that, any exposure to the virus in the environment can outpace immunity development. Some vets will still vaccinate older chicks as a precaution, but effectiveness drops significantly past the first few days of life."
+   a: "For Marek's, the window is ideally within 24 hours of hatch. After that, any exposure to the virus in the environment can outpace immunity development. Some vets will still vaccinate older chicks as a precaution, but effectiveness drops significantly past the first few days of life."
  - q: "Is it safe to mix vaccinated and unvaccinated chicks?"
- a: "For most vaccines, yes. With Marek's, the specific risk is introducing unvaccinated birds to ground that's been contaminated by previously infected birds. Vaccinated birds can shed the virus without getting sick, so unvaccinated birds in the same environment are at real risk."
+   a: "For most vaccines, yes. With Marek's, the specific risk is introducing unvaccinated birds to ground that's been contaminated by previously infected birds. Vaccinated birds can shed the virus without getting sick, so unvaccinated birds in the same environment are at real risk."
  - q: "Can I vaccinate layer hens for anything once they're adults?"
- a: "Some vaccines, like Newcastle LaSota, can be given to adults as boosters. Marek's vaccination of adults offers minimal benefit since the protection window is at hatch. Your avian vet can guide you on what's worth doing for an established flock."
+   a: "Some vaccines, like Newcastle LaSota, can be given to adults as boosters. Marek's vaccination of adults offers minimal benefit since the protection window is at hatch. Your avian vet can guide you on what's worth doing for an established flock."
  - q: "Does the Marek's vaccine wear off?"
- a: "The research suggests HVT-based Marek's vaccines provide lifelong protection when administered correctly at hatch, but 'correctly' is the key word. Poor administration technique, storing the reconstituted vaccine too long before use, or exposing it to heat can all compromise efficacy. If you're doing it yourself, follow the diluent instructions precisely and work fast once the vial is reconstituted."
+   a: "The research suggests HVT-based Marek's vaccines provide lifelong protection when administered correctly at hatch, but 'correctly' is the key word. Poor administration technique, storing the reconstituted vaccine too long before use, or exposing it to heat can all compromise efficacy. If you're doing it yourself, follow the diluent instructions precisely and work fast once the vial is reconstituted."
 ---
 
 Most backyard chicken keepers I've talked to fall into one of two camps: they either vaccinate everything religiously, or they've never vaccinated a single chick and figure they'll deal with problems if they come. I spent a long time in that second camp. Then I lost 11 birds to Marek's disease in a single spring, and my perspective changed pretty fast.

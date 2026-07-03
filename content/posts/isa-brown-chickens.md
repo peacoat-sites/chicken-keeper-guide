@@ -14,15 +14,15 @@ slug: "isa-brown-chickens"
 affiliate_disclosure: false
 faqs:
  - q: "How long do ISA Brown chickens live?"
- a: "Most ISA Browns live 3-5 years, but many don't reach that upper range without health complications. Reproductive issues including internal laying and egg yolk peritonitis are common after year two. It's not unusual for productive keepers to lose birds to these causes before age three."
+   a: "Most ISA Browns live 3-5 years, but many don't reach that upper range without health complications. Reproductive issues including internal laying and egg yolk peritonitis are common after year two. It's not unusual for productive keepers to lose birds to these causes before age three."
  - q: "Do ISA Browns go broody?"
- a: "Rarely. The broodiness instinct has been largely bred out of commercial hybrids like ISA Browns. If you want to hatch eggs or raise chicks naturally, you'll need a different breed, or you'll need to incubate artificially."
+   a: "Rarely. The broodiness instinct has been largely bred out of commercial hybrids like ISA Browns. If you want to hatch eggs or raise chicks naturally, you'll need a different breed, or you'll need to incubate artificially."
  - q: "Are ISA Browns good for beginners?"
- a: "Yes, genuinely. They're forgiving, calm, easy to handle, and their egg production is immediately rewarding for new keepers. Just go in knowing about the lifespan trade-off so you're not blindsided later."
+   a: "Yes, genuinely. They're forgiving, calm, easy to handle, and their egg production is immediately rewarding for new keepers. Just go in knowing about the lifespan trade-off so you're not blindsided later."
  - q: "Can ISA Browns free range?"
- a: "They can and often love it. They're not particularly flighty or escape-prone. Standard predator precautions apply, and like any free-ranging bird they'll need a secure, covered run or constant supervision in areas with aerial predator pressure."
+   a: "They can and often love it. They're not particularly flighty or escape-prone. Standard predator precautions apply, and like any free-ranging bird they'll need a secure, covered run or constant supervision in areas with aerial predator pressure."
  - q: "Do ISA Browns lay in winter?"
- a: "Better than most breeds. They'll slow down, especially once they've hit their first molt, but with 14-16 hours of supplemental light they'll maintain reasonable production through winter. Don't expect summer numbers, but you won't be eggless either."
+   a: "Better than most breeds. They'll slow down, especially once they've hit their first molt, but with 14-16 hours of supplemental light they'll maintain reasonable production through winter. Don't expect summer numbers, but you won't be eggless either."
 ---
 
 If you've spent any time on chicken forums or at a farm supply store in spring, you've almost certainly run into someone who swears by ISA Browns. And if you're here, you're probably trying to figure out whether the hype is real or whether you're about to fall for the chicken equivalent of a used car sales pitch.

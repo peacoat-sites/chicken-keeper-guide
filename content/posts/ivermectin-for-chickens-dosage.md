@@ -14,15 +14,15 @@ slug: "ivermectin-for-chickens-dosage"
 affiliate_disclosure: false
 faqs:
  - q: "Is ivermectin safe for all chicken breeds?"
- a: "Generally yes, though there's less data on ornamental breeds with unusual genetics. Silkies, Polish, and other crested breeds don't seem to have documented sensitivity issues, but I always recommend starting with the lowest effective dose when you're treating a breed you haven't treated before."
+   a: "Generally yes, though there's less data on ornamental breeds with unusual genetics. Silkies, Polish, and other crested breeds don't seem to have documented sensitivity issues, but I always recommend starting with the lowest effective dose when you're treating a breed you haven't treated before."
  - q: "Can I use Ivomec 1% injectable solution without actually injecting it?"
- a: "Yes, this is exactly how most keepers use it. You apply it topically to the skin, usually at the base of the neck. Despite the word 'injectable' on the label, the solution absorbs well through skin and this is standard off-label practice in backyard poultry keeping."
+   a: "Yes, this is exactly how most keepers use it. You apply it topically to the skin, usually at the base of the neck. Despite the word 'injectable' on the label, the solution absorbs well through skin and this is standard off-label practice in backyard poultry keeping."
  - q: "How do I know if the treatment actually worked?"
- a: "For mites, check the base of feathers around the vent and under the wings 7 days after treatment. You should see a significant reduction. If the infestation is still heavy after the second treatment cycle, you may be dealing with a resistance issue or a reinfection from the coop environment (which ivermectin doesn't touch, you need to treat the coop separately with permethrin)."
+   a: "For mites, check the base of feathers around the vent and under the wings 7 days after treatment. You should see a significant reduction. If the infestation is still heavy after the second treatment cycle, you may be dealing with a resistance issue or a reinfection from the coop environment (which ivermectin doesn't touch, you need to treat the coop separately with permethrin)."
  - q: "What's the best syringe to use for measuring small doses?"
- a: "A 1 mL insulin syringe marked in 0.01 mL increments is what you want. You can find them at most pharmacies without a prescription, or in packs of 100 on Amazon for around $10 to $12. Don't try to eyeball doses with a large-barrel syringe."
+   a: "A 1 mL insulin syringe marked in 0.01 mL increments is what you want. You can find them at most pharmacies without a prescription, or in packs of 100 on Amazon for around $10 to $12. Don't try to eyeball doses with a large-barrel syringe."
  - q: "Can I treat a sick or underweight bird?"
- a: "Use caution here. Ivermectin is processed by the liver, and a bird that's already compromised may not clear it as efficiently. If a bird is visibly ill, underweight, or molting heavily, consult an avian vet before treating. The parasite burden may itself be contributing to the bird's condition, so doing nothing isn't obviously safer, but dosing a compromised bird without guidance isn't either."
+   a: "Use caution here. Ivermectin is processed by the liver, and a bird that's already compromised may not clear it as efficiently. If a bird is visibly ill, underweight, or molting heavily, consult an avian vet before treating. The parasite burden may itself be contributing to the bird's condition, so doing nothing isn't obviously safer, but dosing a compromised bird without guidance isn't either."
 ---
 Most people end up on this page because something is wrong with their flock and they're not sure what, or they found mites on a bird and panicked, or someone in their chicken group told them "just use ivermectin" without explaining how. You might be wondering whether it's even safe, whether it affects your eggs, how much to actually give, and why the bottle in front of you doesn't say anything about chickens. All of that is completely reasonable.
 

@@ -14,15 +14,15 @@ slug: "adding-light-for-winter-egg-production"
 affiliate_disclosure: false
 faqs:
  - q: "How many hours of light do chickens need to lay eggs in winter?"
- a: "Most hens need at least 14 hours of light per day to maintain egg production. There's no meaningful benefit beyond 16 hours, and going over that threshold can actually cause other issues. Aim for 14 to 16 hours total, combining natural daylight and supplemental light."
+   a: "Most hens need at least 14 hours of light per day to maintain egg production. There's no meaningful benefit beyond 16 hours, and going over that threshold can actually cause other issues. Aim for 14 to 16 hours total, combining natural daylight and supplemental light."
  - q: "Will a regular LED bulb work for chicken coop lighting?"
- a: "Yes, as long as it's a warm-spectrum bulb in the 2700K to 3000K range. Avoid daylight or cool-white LEDs (5000K and above). Intensity is more important than the bulb type; a 25 to 40-watt actual draw is sufficient for most backyard coops under 100 square feet."
+   a: "Yes, as long as it's a warm-spectrum bulb in the 2700K to 3000K range. Avoid daylight or cool-white LEDs (5000K and above). Intensity is more important than the bulb type; a 25 to 40-watt actual draw is sufficient for most backyard coops under 100 square feet."
  - q: "Is it better to add light in the morning or evening?"
- a: "Morning is better. Evening light ends abruptly when the timer shuts off, which can strand hens away from the roost in sudden darkness. Morning supplemental light allows natural dusk to serve as the going-to-roost signal, which is much less disruptive for the flock."
+   a: "Morning is better. Evening light ends abruptly when the timer shuts off, which can strand hens away from the roost in sudden darkness. Morning supplemental light allows natural dusk to serve as the going-to-roost signal, which is much less disruptive for the flock."
  - q: "Will supplemental light hurt my chickens?"
- a: "There's no evidence that properly managed supplemental lighting harms hen health. The one legitimate concern is that it may shorten a hen's productive laying years by accelerating the use of her finite egg supply. For most backyard keepers, that tradeoff is acceptable, but it's worth understanding before you start."
+   a: "There's no evidence that properly managed supplemental lighting harms hen health. The one legitimate concern is that it may shorten a hen's productive laying years by accelerating the use of her finite egg supply. For most backyard keepers, that tradeoff is acceptable, but it's worth understanding before you start."
  - q: "My hens still aren't laying after two weeks of supplemental light. What's wrong?"
- a: "Check a few things: are they getting a full 14 hours of combined light? Are they eating a quality layer feed with adequate protein (16% or higher)? Have they recently finished or are they still in the middle of a molt? Some breeds, especially heritage and dual-purpose breeds, take four to six weeks to respond, and a few won't respond meaningfully at all regardless of lighting."
+   a: "Check a few things: are they getting a full 14 hours of combined light? Are they eating a quality layer feed with adequate protein (16% or higher)? Have they recently finished or are they still in the middle of a molt? Some breeds, especially heritage and dual-purpose breeds, take four to six weeks to respond, and a few won't respond meaningfully at all regardless of lighting."
 ---
 
 Most people think you just screw in a light bulb and wait for eggs. I thought the same thing my first winter keeping chickens, and I ended up with a flock of confused, sleep-deprived hens, a too-bright coop that stressed them out, and exactly zero improvement in production for about three weeks. So let me tell you what actually works, because the advice floating around most forums is vague enough to be useless.

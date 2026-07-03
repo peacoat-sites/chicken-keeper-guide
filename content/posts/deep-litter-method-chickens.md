@@ -14,15 +14,15 @@ slug: "deep-litter-method-chickens"
 affiliate_disclosure: false
 faqs:
  - q: "How deep should the litter actually get before I clean it out?"
- a: "Most experienced keepers aim for 6 to 12 inches before doing a full cleanout. Deeper than 12 inches doesn't add much and can start to develop anaerobic pockets at the bottom. If yours is under 6 inches, it probably hasn't had enough time to fully develop the microbial community."
+   a: "Most experienced keepers aim for 6 to 12 inches before doing a full cleanout. Deeper than 12 inches doesn't add much and can start to develop anaerobic pockets at the bottom. If yours is under 6 inches, it probably hasn't had enough time to fully develop the microbial community."
  - q: "Can I use deep litter in a small backyard coop with just 4 or 5 chickens?"
- a: "Yes, though smaller flocks produce less manure, which means less nitrogen to feed the microbial process. You'll want to manage carbon additions carefully and may find the litter stays drier and decomposes more slowly than in a larger flock situation. It still works; it just takes a bit longer to really get going."
+   a: "Yes, though smaller flocks produce less manure, which means less nitrogen to feed the microbial process. You'll want to manage carbon additions carefully and may find the litter stays drier and decomposes more slowly than in a larger flock situation. It still works; it just takes a bit longer to really get going."
  - q: "Does deep litter attract pests or rodents?"
- a: "It can, if you let it build moisture or store supplemental feed inside the coop. The litter itself isn't particularly attractive to rodents, but warm, moist piles near a food source are. Keep feed in sealed metal containers and manage moisture, and it's not a notable problem compared to any other coop setup."
+   a: "It can, if you let it build moisture or store supplemental feed inside the coop. The litter itself isn't particularly attractive to rodents, but warm, moist piles near a food source are. Keep feed in sealed metal containers and manage moisture, and it's not a notable problem compared to any other coop setup."
  - q: "My litter smells like ammonia. What do I do right now?"
- a: "Add a layer of dry carbon material (shavings or straw) immediately, then stir the whole thing thoroughly with a fork. Scatter a cup of barn lime across the surface. Check your ventilation and make sure you're not trapping moisture. If it's a wet season and the coop is humid, open additional ventilation temporarily even at the cost of some cold air."
+   a: "Add a layer of dry carbon material (shavings or straw) immediately, then stir the whole thing thoroughly with a fork. Scatter a cup of barn lime across the surface. Check your ventilation and make sure you're not trapping moisture. If it's a wet season and the coop is humid, open additional ventilation temporarily even at the cost of some cold air."
  - q: "Is deep litter safe during summer heat?"
- a: "It's workable, but summer is when it requires the most active management. Heat accelerates decomposition, which can spike ammonia faster if the carbon-to-nitrogen balance tips. Stir more often, add carbon more frequently, and prioritize strong ventilation through the hot months. Some keepers do a full cleanout in spring specifically to start fresh before summer stress."
+   a: "It's workable, but summer is when it requires the most active management. Heat accelerates decomposition, which can spike ammonia faster if the carbon-to-nitrogen balance tips. Stir more often, add carbon more frequently, and prioritize strong ventilation through the hot months. Some keepers do a full cleanout in spring specifically to start fresh before summer stress."
 ---
 
 Most chicken-keeping guides describe the deep litter method like it's a passive miracle: throw down some shavings, let the chickens scratch around, and nature does the rest. That's not wrong, exactly, but it leaves out enough that first-timers end up with a wet, ammonia-reeking coop by February and no idea what went sideways.

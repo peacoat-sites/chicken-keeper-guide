@@ -11,9 +11,7 @@ author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
 slug: "why-cities-are-loosening-backyard-chicken-rules-in-2026"
-affiliate_disclosure: false
----
-Something shifted in city halls this spring. Not a slow policy drift, but a visible scramble driven by one thing: egg prices. Stuart, Florida commissioners advanced a backyard chicken proposal on June 10, 2026. Edgewater, Florida passed its first reading unanimously on June 1. Westminster, Colorado votes on June 22 to expand flock limits significantly. Kentucky's HB 276 cleared the House in February to stop cities from banning small backyard flocks outright. These aren't scattered incidents. They're a cluster, and they're happening because HPAI-driven egg price volatility finally made backyard hens a kitchen-table political issue instead of just a hobby-farmer ask.
+affiliate_disclosure: false, Something shifted in city halls this spring. Not a slow policy drift, but a visible scramble driven by one thing: egg prices. Stuart, Florida commissioners advanced a backyard chicken proposal on June 10, 2026. Edgewater, Florida passed its first reading unanimously on June 1. Westminster, Colorado votes on June 22 to expand flock limits significantly. Kentucky's HB 276 cleared the House in February to stop cities from banning small backyard flocks outright. These aren't scattered incidents. They're a cluster, and they're happening because HPAI-driven egg price volatility finally made backyard hens a kitchen-table political issue instead of just a hobby-farmer ask.
 
 If you've been waiting for your city to change its rules, this is the moment to pay attention.
 

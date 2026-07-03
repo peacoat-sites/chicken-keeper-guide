@@ -11,10 +11,7 @@ author_slug: "carol-thompson"
 author_title: "Homestead Writer"
 author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
 slug: "what-the-cdc-h5n1-survey-revealed-about-backyard-flock-owners"
-affiliate_disclosure: false
----
-
-If you're keeping backyard chickens right now, you might be wondering whether H5N1 is something you actually need to worry about or just another thing the news is blowing out of proportion. I get it. Every few years there's a new headline about bird flu, and most of the time your flock is fine. But a CDC survey published in the *Morbidity and Mortality Weekly Report* in May 2026 stopped me cold, because the data shows something specific and uncomfortable: the majority of backyard flock owners don't know what they're looking for, at a moment when not knowing has already cost people their lives.
+affiliate_disclosure: false, If you're keeping backyard chickens right now, you might be wondering whether H5N1 is something you actually need to worry about or just another thing the news is blowing out of proportion. I get it. Every few years there's a new headline about bird flu, and most of the time your flock is fine. But a CDC survey published in the *Morbidity and Mortality Weekly Report* in May 2026 stopped me cold, because the data shows something specific and uncomfortable: the majority of backyard flock owners don't know what they're looking for, at a moment when not knowing has already cost people their lives.
 
 The survey pulled responses from 638 backyard flock owners across 48 states, conducted between July and December 2025. Only 32% of respondents could correctly identify all the signs of H5N1 infection in birds. Thirteen percent said they didn't know the signs at all. Meanwhile, three of the 71 human H5N1 cases reported in the U.S. since March 2024 have been linked to backyard flocks, and two of those cases were fatal. This isn't hypothetical risk. It's already happened, and the people it happened to were probably a lot like you.
 
@@ -56,10 +53,10 @@ The backyard flock community has always figured things out by sharing hard-won k
 
 ## Sources
 
-- [The CDC Surveyed Backyard Flock Owners About H5N1. The Knowledge Gaps Are a Problem – MyVetCandy](https://www.myvetcandy.com/news/2026/5/15/the-cdc-surveyed-backyard-flock-owners-about-h5n1-the-knowledge-gaps-are-a-problem) (May 15, 2026)
-- [Survey: A Third of US Backyard Flock Owners Don't Know Signs, Symptoms of Avian Flu – CIDRAP](https://www.cidrap.umn.edu/avian-influenza-bird-flu/survey-third-us-backyard-flock-owners-don-t-know-signs-symptoms-avian-flu) (May 16, 2026)
+- [The CDC Surveyed Backyard Flock Owners About H5N1. The Knowledge Gaps Are a Problem, MyVetCandy](https://www.myvetcandy.com/news/2026/5/15/the-cdc-surveyed-backyard-flock-owners-about-h5n1-the-knowledge-gaps-are-a-problem) (May 15, 2026)
+- [Survey: A Third of US Backyard Flock Owners Don't Know Signs, Symptoms of Avian Flu, CIDRAP](https://www.cidrap.umn.edu/avian-influenza-bird-flu/survey-third-us-backyard-flock-owners-don-t-know-signs-symptoms-avian-flu) (May 16, 2026)
 - [CDC MMWR: Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://www.cdc.gov/mmwr/volumes/75/wr/mm7518a2.htm) (May 14, 2026)
-- [Bird Flu Detected in Iowa Backyard Chicken Flocks as Migration Raises Risk – Sentient Media](https://sentientmedia.org/bird-flu-detected-in-iowa-backyard-chicken-flocks/) (March 23, 2026)
-- [CDC Backyard Poultry Survey Results Webinar – OSU Poultry Team](https://u.osu.edu/poultry/2026/05/14/cdc-backyard-poultry-survey-results-webinar-on-may-21-2026-noon/) (May 14, 2026)
+- [Bird Flu Detected in Iowa Backyard Chicken Flocks as Migration Raises Risk, Sentient Media](https://sentientmedia.org/bird-flu-detected-in-iowa-backyard-chicken-flocks/) (March 23, 2026)
+- [CDC Backyard Poultry Survey Results Webinar, OSU Poultry Team](https://u.osu.edu/poultry/2026/05/14/cdc-backyard-poultry-survey-results-webinar-on-may-21-2026-noon/) (May 14, 2026)
 
 *Photo: [Lilly Grace](https://www.pexels.com/@lilly-grace-944249302) via Pexels*

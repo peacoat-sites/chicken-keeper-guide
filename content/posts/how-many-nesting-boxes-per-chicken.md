@@ -13,16 +13,16 @@ author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry hea
 slug: "how-many-nesting-boxes-per-chicken"
 affiliate_disclosure: false
 faqs:
-  - q: "How many nesting boxes do I need for 6 chickens?"
-    a: "Two boxes is the minimum I'd go with, but three is better. Six hens doesn't sound like many until they all want to lay in the same two hours, and a third box costs almost nothing compared to the floor-laying habit you'll be breaking later."
-  - q: "Can you have too many nesting boxes?"
-    a: "Not really, within reason. A few extra boxes don't confuse hens. The one downside of a lot of boxes is that some never get used and become attractive spots for hens to sleep and poop in at night. Keep the unused boxes visually distinct or blocked off until you actually need them."
-  - q: "Why are my hens all using the same nesting box when there are plenty of others?"
-    a: "This is completely normal and one of the more maddening things about chickens. They follow each other's scent and behavior cues. Using a fake ceramic nesting egg placed in the less-popular boxes can help redirect traffic. It doesn't always work, but it helps more often than not."
-  - q: "What's the best nesting box material for a backyard coop?"
-    a: "Untreated pine shavings are my default. Straw looks nice but harbors mites more readily and compresses into a wet mess faster. For a low-maintenance upgrade, molded plastic nesting pads like the ones from Precision Pet or Little Giant slip out for quick cleaning and keep eggs cleaner than loose bedding alone."
-  - q: "Do nesting boxes need to be dark?"
-    a: "Darker is better. Hens are instinctively drawn to covered, enclosed spaces to lay. If your boxes are in direct light, draping a piece of burlap or canvas over the front opening so it hangs loose makes a real difference in how quickly new hens take to them."
+ - q: "How many nesting boxes do I need for 6 chickens?"
+ a: "Two boxes is the minimum I'd go with, but three is better. Six hens doesn't sound like many until they all want to lay in the same two hours, and a third box costs almost nothing compared to the floor-laying habit you'll be breaking later."
+ - q: "Can you have too many nesting boxes?"
+ a: "Not really, within reason. A few extra boxes don't confuse hens. The one downside of a lot of boxes is that some never get used and become attractive spots for hens to sleep and poop in at night. Keep the unused boxes visually distinct or blocked off until you actually need them."
+ - q: "Why are my hens all using the same nesting box when there are plenty of others?"
+ a: "This is completely normal and one of the more maddening things about chickens. They follow each other's scent and behavior cues. Using a fake ceramic nesting egg placed in the less-popular boxes can help redirect traffic. It doesn't always work, but it helps more often than not."
+ - q: "What's the best nesting box material for a backyard coop?"
+ a: "Untreated pine shavings are my default. Straw looks nice but harbors mites more readily and compresses into a wet mess faster. For a low-maintenance upgrade, molded plastic nesting pads like the ones from Precision Pet or Little Giant slip out for quick cleaning and keep eggs cleaner than loose bedding alone."
+ - q: "Do nesting boxes need to be dark?"
+ a: "Darker is better. Hens are instinctively drawn to covered, enclosed spaces to lay. If your boxes are in direct light, draping a piece of burlap or canvas over the front opening so it hangs loose makes a real difference in how quickly new hens take to them."
 ---
 
 Three nesting boxes for twenty hens. That's what I started with, back when I was convinced the "one box per four to five birds" guideline was just hatchery marketing. It wasn't. I spent two weeks watching my poor Barred Rocks queue up like they were waiting at the DMV, and one particularly determined hen started laying on the coop floor in protest. Lesson learned the expensive way.

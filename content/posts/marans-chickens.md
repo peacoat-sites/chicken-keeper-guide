@@ -13,16 +13,16 @@ author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting wi
 slug: "marans-chickens"
 affiliate_disclosure: false
 faqs:
-  - q: "Do Marans eggs really taste different from other eggs?"
-    a: "Not because of the shell color, no. The flavor comes from diet and foraging opportunities, same as any breed. A pasture-raised Marans egg tastes exceptional because of what the hen eats, not the pigment on the shell."
-  - q: "How dark do Marans eggs actually get?"
-    a: "It depends heavily on genetics and time of year. A well-bred Black Copper Marans will hit 6-7 on the standard color scale during peak laying in spring. Hatchery birds from undifferentiated lines often land in the 3-4 range, which is noticeably brown but not the dramatic chocolate you see in photos."
-  - q: "Are Marans good for beginners?"
-    a: "Honestly, they're fine for beginners who do their homework, but I'd call them intermediate rather than beginner birds. They're not fragile, but they're also not forgiving of poor sourcing decisions, and they won't produce what you bought them for if the genetics aren't there to begin with."
-  - q: "How many eggs will a Marans hen lay per week?"
-    a: "Plan for 3-4 eggs per week, or roughly 150-200 per year. They slow down significantly in winter without supplemental lighting, and production typically tapers after year two, faster than high-production hybrid breeds."
-  - q: "Can Marans chickens free-range?"
-    a: "Yes, and they genuinely thrive with access to pasture. They're not particularly flighty, which makes them easier to manage in an open range setup than some lighter breeds. Just be aware they're a heavier bird that predators notice, so solid perimeter fencing or a guardian animal is worth the investment."
+ - q: "Do Marans eggs really taste different from other eggs?"
+ a: "Not because of the shell color, no. The flavor comes from diet and foraging opportunities, same as any breed. A pasture-raised Marans egg tastes exceptional because of what the hen eats, not the pigment on the shell."
+ - q: "How dark do Marans eggs actually get?"
+ a: "It depends heavily on genetics and time of year. A well-bred Black Copper Marans will hit 6-7 on the standard color scale during peak laying in spring. Hatchery birds from undifferentiated lines often land in the 3-4 range, which is noticeably brown but not the dramatic chocolate you see in photos."
+ - q: "Are Marans good for beginners?"
+ a: "Honestly, they're fine for beginners who do their homework, but I'd call them intermediate rather than beginner birds. They're not fragile, but they're also not forgiving of poor sourcing decisions, and they won't produce what you bought them for if the genetics aren't there to begin with."
+ - q: "How many eggs will a Marans hen lay per week?"
+ a: "Plan for 3-4 eggs per week, or roughly 150-200 per year. They slow down significantly in winter without supplemental lighting, and production typically tapers after year two, faster than high-production hybrid breeds."
+ - q: "Can Marans chickens free-range?"
+ a: "Yes, and they genuinely thrive with access to pasture. They're not particularly flighty, which makes them easier to manage in an open range setup than some lighter breeds. Just be aware they're a heavier bird that predators notice, so solid perimeter fencing or a guardian animal is worth the investment."
 ---
 
 Those eggs will change you. I don't mean that in some overwrought way. I mean you'll crack your first dark Marans egg into a bowl next to a store-bought egg and genuinely pause. The yolk is richer, the shell is the color of bittersweet chocolate, and you'll understand immediately why people build entire flocks around this one breed.

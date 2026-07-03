@@ -13,25 +13,25 @@ author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most o
 slug: "pasty-butt-in-chicks"
 affiliate_disclosure: false
 faqs:
-  - q: "Can pasty butt kill a chick?"
-    a: "Yes, absolutely. A fully sealed vent prevents the chick from defecating. Waste backs up, toxins build, and the chick dies within 24-48 hours if not cleared. It sounds minor; it isn't."
-  - q: "Is pasty butt contagious?"
-    a: "No. It's not an infection. One chick pasting up doesn't mean others will, though if your whole brooder is affected, that's a signal that something environmental (temperature, feed, hydration) is wrong for all of them."
-  - q: "Why does my chick keep getting pasty butt every day?"
-    a: "Daily recurrence usually means the brooder temperature is off or the chick is under ongoing stress. Check your thermometer placement, make sure the heat source is working properly, and confirm chicks have constant access to clean water. A single chick recurring when others aren't may have an underlying health issue."
-  - q: "Should I use apple cider vinegar in the water to prevent it?"
-    a: "The evidence is weak. ACV has real uses in chicken keeping, but preventing pasty butt specifically isn't well-supported. Proper temperature and electrolytes during the first 72 hours are better-documented interventions. Use ACV if you want, but don't rely on it as your prevention strategy."
-  - q: "At what age can I stop checking vents?"
-    a: "Practically speaking, after two weeks with most chicks. With shipped chicks I'd say 10-14 days minimum before you back off the twice-daily checks. After three weeks, pasty butt is rare enough that you only need to check if a chick is behaving oddly."
+ - q: "Can pasty butt kill a chick?"
+ a: "Yes, absolutely. A fully sealed vent prevents the chick from defecating. Waste backs up, toxins build, and the chick dies within 24-48 hours if not cleared. It sounds minor; it isn't."
+ - q: "Is pasty butt contagious?"
+ a: "No. It's not an infection. One chick pasting up doesn't mean others will, though if your whole brooder is affected, that's a signal that something environmental (temperature, feed, hydration) is wrong for all of them."
+ - q: "Why does my chick keep getting pasty butt every day?"
+ a: "Daily recurrence usually means the brooder temperature is off or the chick is under ongoing stress. Check your thermometer placement, make sure the heat source is working properly, and confirm chicks have constant access to clean water. A single chick recurring when others aren't may have an underlying health issue."
+ - q: "Should I use apple cider vinegar in the water to prevent it?"
+ a: "The evidence is weak. ACV has real uses in chicken keeping, but preventing pasty butt specifically isn't well-supported. Proper temperature and electrolytes during the first 72 hours are better-documented interventions. Use ACV if you want, but don't rely on it as your prevention strategy."
+ - q: "At what age can I stop checking vents?"
+ a: "Practically speaking, after two weeks with most chicks. With shipped chicks I'd say 10-14 days minimum before you back off the twice-daily checks. After three weeks, pasty butt is rare enough that you only need to check if a chick is behaving oddly."
 ---
 
-Pasty butt kills chicks. Not dramatically, not slowly -- wait, actually, pretty slowly, and that's part of why it catches new keepers off guard. The chick looks fine, then a little sluggish, then suddenly it's dead, and you're standing there wondering what happened. What happened was a hardened cap of dried feces sealed the vent shut, backed up the digestive tract, and that was that.
+Pasty butt kills chicks. Not dramatically, not slowly, wait, actually, pretty slowly, and that's part of why it catches new keepers off guard. The chick looks fine, then a little sluggish, then suddenly it's dead, and you're standing there wondering what happened. What happened was a hardened cap of dried feces sealed the vent shut, backed up the digestive tract, and that was that.
 
 Most coverage treats this like a minor nuisance you wipe away once and forget. That's wrong. Pasty butt (technically "pasting up" or vent pasting) can recur daily in a stressed or chilled brooder. Left unchecked for even 24 hours in a very young chick, it's fatal. Treat it seriously without panicking, because it's also completely manageable if you know what you're doing.
 
 ## What's Actually Causing It
 
-The three main culprits are chilling, diet changes, and stress -- usually from shipping or brooder temperature swings.
+The three main culprits are chilling, diet changes, and stress, usually from shipping or brooder temperature swings.
 
 Shipped chicks are the highest-risk population. They arrive dehydrated and stressed, their digestive systems are in shock, and they get pasted up at significantly higher rates than chicks hatched locally or under a broody hen. I've ordered chicks from Cackle Hatchery and Meyer Hatchery multiple times; in both cases, roughly 20-30% of shipped day-olds had at least mild pasting within the first 48 hours. Hatchery-bought local pickups? Almost zero.
 
@@ -57,15 +57,15 @@ Check vents twice a day for the first week of life. Morning and evening. Takes a
 
 Pasty butt almost never occurs after three weeks of age. Once chicks are eating vigorously, moving around actively, and the brooder temperature is appropriate, it largely stops being a concern. I've never seen it in a bird older than four weeks.
 
-The time to escalate is when a chick is pasting more than once per day, is lethargic, or won't eat or drink. At that point the cause is probably something beyond normal adjustment stress -- possibly illness, possibly a temperature problem in the brooder. Check the brooder setup before assuming the worst.
+The time to escalate is when a chick is pasting more than once per day, is lethargic, or won't eat or drink. At that point the cause is probably something beyond normal adjustment stress, possibly illness, possibly a temperature problem in the brooder. Check the brooder setup before assuming the worst.
 
 ## Prevention: What Actually Helps
 
-Brooder temperature accuracy is the single highest-leverage fix. Not probiotics, not ACV, not electrolytes -- temperature. Get that right first.
+Brooder temperature accuracy is the single highest-leverage fix. Not probiotics, not ACV, not electrolytes, temperature. Get that right first.
 
 That said, I do add Sav-A-Chick electrolyte and vitamin packets (about $6 for a 3-pack at Tractor Supply) to the water for the first 72 hours with shipped chicks. The research on this is mixed enough that I won't claim it definitively prevents pasting, but it supports hydration in stressed birds and costs almost nothing.
 
-Probiotics have a better evidence base. A 2020 study in *Poultry Science* (Mountzouris et al., referenced below) found that probiotic supplementation improved gut microbiota stability in broiler chicks under stress conditions. I use Rooster Booster Poultry Cell or plain chick probiotic powder mixed into feed for the first week. No, I can't give you a number on how much it reduces pasting specifically -- I don't have controlled data from my own flock on that -- but the gut health logic holds up.
+Probiotics have a better evidence base. A 2020 study in *Poultry Science* (Mountzouris et al., referenced below) found that probiotic supplementation improved gut microbiota stability in broiler chicks under stress conditions. I use Rooster Booster Poultry Cell or plain chick probiotic powder mixed into feed for the first week. No, I can't give you a number on how much it reduces pasting specifically, I don't have controlled data from my own flock on that, but the gut health logic holds up.
 
 One thing almost no one mentions: feeder design. Chicks that can't easily access feed eat erratically, which stresses the digestive system. Use a proper chick feeder with small ports, not an open dish they can walk in and contaminate. The Little Giant plastic chick feeders (around $8) are unglamorous but they work. Open dishes invite mess, wet feed, and stressed chicks hunting for food.
 

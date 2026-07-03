@@ -11,9 +11,7 @@ author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
 slug: "what-the-cdcs-new-backyard-flock-survey-found-about-hpai"
-affiliate_disclosure: false
----
-If you've got a backyard flock right now, you might be wondering whether all the HPAI news is something you actually need to pay attention to or just background noise from the commercial poultry industry. I get it. Most of us got into backyard chickens specifically because we wanted something small, personal, and manageable. But a CDC survey published in MMWR on May 14, 2026 is worth sitting with, because what it found is a genuine gap between how aware backyard flock owners think they are and how prepared they actually are.
+affiliate_disclosure: false, If you've got a backyard flock right now, you might be wondering whether all the HPAI news is something you actually need to pay attention to or just background noise from the commercial poultry industry. I get it. Most of us got into backyard chickens specifically because we wanted something small, personal, and manageable. But a CDC survey published in MMWR on May 14, 2026 is worth sitting with, because what it found is a genuine gap between how aware backyard flock owners think they are and how prepared they actually are.
 
 The numbers matter. As HPAI continues rolling through flocks across the U.S. this spring, and with two of the three fatal human H5N1 cases since March 2024 tied directly to backyard flock exposure, this is the summer to close that gap.
 
@@ -59,9 +57,9 @@ The good news, if there is any, is that the CDC survey exists and was published.
 
 ## Sources
 
-- [CDC MMWR – Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://www.cdc.gov/mmwr/volumes/75/wr/mm7518a2.htm) (May 14, 2026)
-- [CIDRAP – Survey: A third of US backyard flock owners don't know signs, symptoms of avian flu](https://www.cidrap.umn.edu/avian-influenza-bird-flu/survey-third-us-backyard-flock-owners-don-t-know-signs-symptoms-avian-flu) (May 15, 2026)
-- [MyVetCandy – The CDC Surveyed Backyard Flock Owners About H5N1. The Knowledge Gaps Are a Problem](https://www.myvetcandy.com/news/2026/5/15/the-cdc-surveyed-backyard-flock-owners-about-h5n1-the-knowledge-gaps-are-a-problem) (May 15, 2026)
-- [Sentient Media – Bird Flu Detected in Iowa Backyard Chicken Flocks as Migration Raises Risk](https://sentientmedia.org/bird-flu-detected-in-iowa-backyard-chicken-flocks/) (March 23, 2026)
+- [CDC MMWR, Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks](https://www.cdc.gov/mmwr/volumes/75/wr/mm7518a2.htm) (May 14, 2026)
+- [CIDRAP, Survey: A third of US backyard flock owners don't know signs, symptoms of avian flu](https://www.cidrap.umn.edu/avian-influenza-bird-flu/survey-third-us-backyard-flock-owners-don-t-know-signs-symptoms-avian-flu) (May 15, 2026)
+- [MyVetCandy, The CDC Surveyed Backyard Flock Owners About H5N1. The Knowledge Gaps Are a Problem](https://www.myvetcandy.com/news/2026/5/15/the-cdc-surveyed-backyard-flock-owners-about-h5n1-the-knowledge-gaps-are-a-problem) (May 15, 2026)
+- [Sentient Media, Bird Flu Detected in Iowa Backyard Chicken Flocks as Migration Raises Risk](https://sentientmedia.org/bird-flu-detected-in-iowa-backyard-chicken-flocks/) (March 23, 2026)
 
 *Photo: [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283) via Pexels*

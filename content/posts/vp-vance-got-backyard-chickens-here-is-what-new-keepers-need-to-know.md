@@ -11,10 +11,7 @@ author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
 slug: "vp-vance-got-backyard-chickens-here-is-what-new-keepers-need-to-know"
-affiliate_disclosure: false
----
-
-You probably saw the headline last week and thought, "Wait, the Vice President is keeping chickens?" Yes. On June 9, 2026, JD Vance had a custom Victorian-style chicken coop installed at the Naval Observatory, complete with 12 baby chicks he says he'll care for personally. The coop was built by Carolina Coops, a family-owned business out of Creedmoor, North Carolina, that's been doing this since 2008, and it was designed to match the Queen Anne Victorian architecture of Number One Observatory Circle. Nobody paid for it with tax dollars. Carolina Coops donated it. The whole thing is, frankly, kind of delightful.
+affiliate_disclosure: false, You probably saw the headline last week and thought, "Wait, the Vice President is keeping chickens?" Yes. On June 9, 2026, JD Vance had a custom Victorian-style chicken coop installed at the Naval Observatory, complete with 12 baby chicks he says he'll care for personally. The coop was built by Carolina Coops, a family-owned business out of Creedmoor, North Carolina, that's been doing this since 2008, and it was designed to match the Queen Anne Victorian architecture of Number One Observatory Circle. Nobody paid for it with tax dollars. Carolina Coops donated it. The whole thing is, frankly, kind of delightful.
 
 But here's what I'm watching: every time something like this goes mainstream, a wave of people decide to start a flock, and a big chunk of them make the same expensive, heartbreaking mistakes that were completely avoidable. The American Pet Products Association now counts roughly 11 million U.S. households keeping backyard chickens. That number keeps climbing. If the Vance story pushed you over the edge into finally doing this, I want you to go in with your eyes open.
 

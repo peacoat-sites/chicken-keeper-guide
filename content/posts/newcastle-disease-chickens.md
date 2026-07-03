@@ -13,16 +13,16 @@ author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry hea
 slug: "newcastle-disease-chickens"
 affiliate_disclosure: false
 faqs:
-  - q: "Can humans get Newcastle disease from chickens?"
-    a: "Yes, but it's mild. Newcastle disease can cause a brief, self-limiting conjunctivitis (red, irritated eyes) in people who handle infected birds or live vaccines without eye protection. It resolves on its own and doesn't cause serious illness in humans. Wear safety glasses when vaccinating with live Newcastle products."
-  - q: "How long does the Newcastle virus survive in the environment?"
-    a: "In cool, moist conditions with organic material (like litter or feathers), the virus can survive for several weeks. Direct sunlight and heat kill it relatively quickly. Disinfectants containing quaternary ammonium compounds or sodium hypochlorite (diluted bleach) are effective on hard surfaces when used correctly."
-  - q: "Is there a treatment for Newcastle disease?"
-    a: "No specific antiviral treatment exists. Supportive care (maintaining hydration, warmth, reducing stress) can help mildly affected birds, but there's nothing that clears the virus. For velogenic strains, humane euthanasia of affected and exposed birds is typically required by law."
-  - q: "My chicken has a twisted neck. Is it Newcastle disease?"
-    a: "Not necessarily. Wry neck (torticollis) has several causes in backyard chickens: vitamin E and selenium deficiency, head trauma, Marek's disease, and inner ear infections. Velogenic Newcastle would almost always include other signs (respiratory distress, sudden deaths in other birds) alongside the twisted neck. That said, get a vet involved quickly rather than guessing."
-  - q: "What's the difference between Newcastle disease and infectious bronchitis?"
-    a: "Both cause respiratory signs in chickens and can cause egg production drops. Infectious bronchitis is a coronavirus (IBV) and tends to affect egg quality significantly (wrinkled shells, watery albumin) without the neurological signs that typify velogenic Newcastle. Lab testing is the only reliable way to tell them apart definitively."
+ - q: "Can humans get Newcastle disease from chickens?"
+ a: "Yes, but it's mild. Newcastle disease can cause a brief, self-limiting conjunctivitis (red, irritated eyes) in people who handle infected birds or live vaccines without eye protection. It resolves on its own and doesn't cause serious illness in humans. Wear safety glasses when vaccinating with live Newcastle products."
+ - q: "How long does the Newcastle virus survive in the environment?"
+ a: "In cool, moist conditions with organic material (like litter or feathers), the virus can survive for several weeks. Direct sunlight and heat kill it relatively quickly. Disinfectants containing quaternary ammonium compounds or sodium hypochlorite (diluted bleach) are effective on hard surfaces when used correctly."
+ - q: "Is there a treatment for Newcastle disease?"
+ a: "No specific antiviral treatment exists. Supportive care (maintaining hydration, warmth, reducing stress) can help mildly affected birds, but there's nothing that clears the virus. For velogenic strains, humane euthanasia of affected and exposed birds is typically required by law."
+ - q: "My chicken has a twisted neck. Is it Newcastle disease?"
+ a: "Not necessarily. Wry neck (torticollis) has several causes in backyard chickens: vitamin E and selenium deficiency, head trauma, Marek's disease, and inner ear infections. Velogenic Newcastle would almost always include other signs (respiratory distress, sudden deaths in other birds) alongside the twisted neck. That said, get a vet involved quickly rather than guessing."
+ - q: "What's the difference between Newcastle disease and infectious bronchitis?"
+ a: "Both cause respiratory signs in chickens and can cause egg production drops. Infectious bronchitis is a coronavirus (IBV) and tends to affect egg quality significantly (wrinkled shells, watery albumin) without the neurological signs that typify velogenic Newcastle. Lab testing is the only reliable way to tell them apart definitively."
 ---
 
 Most backyard flock owners have never seen a case of Newcastle disease in person. I hadn't either, for the first six years I kept chickens. Then a neighbor two miles down the road lost 40 birds in eight days, and I spent a very anxious week watching my hens for symptoms I'd only read about. That experience changed how seriously I take biosecurity.

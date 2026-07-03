@@ -13,16 +13,16 @@ author_bio: "Sarah Mills runs a small permaculture homestead where chickens are 
 slug: "vet-care-for-chickens"
 affiliate_disclosure: false
 faqs:
-  - q: "How do I find an avian vet who treats chickens specifically?"
-    a: "Start with the Association of Avian Veterinarians member directory at aav.org. Call before you go and ask specifically how much of their exotic/avian caseload is poultry. Your state's agricultural extension office is also a surprisingly good referral resource, especially in rural areas."
-  - q: "Is it worth spending money on vet care for a $20 chicken?"
-    a: "Often yes, but the math changes when you think flock-wide instead of per-bird. Diagnosing one sick bird can protect the rest of your flock, especially for infectious diseases. A necropsy on a dead bird is almost always worth the $20 to $75 cost for the information it gives you."
-  - q: "What vaccinations do backyard chickens actually need?"
-    a: "Marek's disease is the baseline, and most hatchery birds arrive vaccinated. If you're hatching your own or buying from swaps, confirm it. Newcastle/infectious bronchitis combo vaccines are worth discussing with your vet if you're in a region with heavy poultry density or you show birds. Current recommendations (as of June 2026) haven't changed dramatically, but regional HPAI risk is worth a conversation with your vet."
-  - q: "Can I treat my chickens at home without a vet?"
-    a: "For many common issues, yes. Lice and mites, minor wounds, sour crop caught early, and mild respiratory symptoms without spreading are all manageable at home with proper products. But neurological symptoms, egg binding that isn't resolving, rapidly spreading illness, or any unexplained death should involve a professional."
-  - q: "What is a fecal float and does my flock need one?"
-    a: "A fecal float is a simple lab test that identifies internal parasite eggs in a dropping sample. It costs $25 to $50 and tells you exactly which parasites you're dealing with, if any. I do one every spring. Treating without knowing what you're treating for wastes money and can contribute to resistance over time."
+ - q: "How do I find an avian vet who treats chickens specifically?"
+ a: "Start with the Association of Avian Veterinarians member directory at aav.org. Call before you go and ask specifically how much of their exotic/avian caseload is poultry. Your state's agricultural extension office is also a surprisingly good referral resource, especially in rural areas."
+ - q: "Is it worth spending money on vet care for a $20 chicken?"
+ a: "Often yes, but the math changes when you think flock-wide instead of per-bird. Diagnosing one sick bird can protect the rest of your flock, especially for infectious diseases. A necropsy on a dead bird is almost always worth the $20 to $75 cost for the information it gives you."
+ - q: "What vaccinations do backyard chickens actually need?"
+ a: "Marek's disease is the baseline, and most hatchery birds arrive vaccinated. If you're hatching your own or buying from swaps, confirm it. Newcastle/infectious bronchitis combo vaccines are worth discussing with your vet if you're in a region with heavy poultry density or you show birds. Current recommendations (as of June 2026) haven't changed dramatically, but regional HPAI risk is worth a conversation with your vet."
+ - q: "Can I treat my chickens at home without a vet?"
+ a: "For many common issues, yes. Lice and mites, minor wounds, sour crop caught early, and mild respiratory symptoms without spreading are all manageable at home with proper products. But neurological symptoms, egg binding that isn't resolving, rapidly spreading illness, or any unexplained death should involve a professional."
+ - q: "What is a fecal float and does my flock need one?"
+ a: "A fecal float is a simple lab test that identifies internal parasite eggs in a dropping sample. It costs $25 to $50 and tells you exactly which parasites you're dealing with, if any. I do one every spring. Treating without knowing what you're treating for wastes money and can contribute to resistance over time."
 ---
 
 Most chicken keepers don't call a vet until something is already very wrong. I get it. I was the same way for the first few years. My flock got respiratory symptoms, I Googled for two hours, ordered Tylan 50 from the feed store, and hoped for the best. Sometimes it worked. Sometimes I lost a bird I could have saved if I'd had a vet relationship already in place.

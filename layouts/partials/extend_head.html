@@ -97,3 +97,9 @@
 }
 </script>
 {{- end }}
+
+{{/* title-font */}}
+{{- if eq .Section "posts" }}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Vollkorn:opsz,wght@10..36,700;10..36,800&display=swap">
+<style>.post-title{font-family:'Vollkorn', Georgia, serif;letter-spacing:-.015em}</style>
+{{- end }}

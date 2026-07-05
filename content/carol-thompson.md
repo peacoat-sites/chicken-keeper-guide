@@ -2,6 +2,7 @@
 title: "Carol Thompson"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Homestead Writer"

@@ -1,5 +1,6 @@
 ---
 title: "Chicken Egg Production Calculator: How Many Eggs Will Your Flock Lay?"
+hide_title: true
 date: 2026-06-10
 slug: "chicken-egg-production-calculator"
 description: "Estimate your backyard chicken flock's weekly and monthly egg production by breed, age, and season. See how many dozens you can expect and plan your flock size."

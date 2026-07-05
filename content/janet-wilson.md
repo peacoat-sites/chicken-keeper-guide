@@ -2,6 +2,7 @@
 title: "Janet Wilson"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"

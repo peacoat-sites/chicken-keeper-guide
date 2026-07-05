@@ -2,6 +2,7 @@
 title: "Mike Carter"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"

@@ -1,5 +1,6 @@
 ---
 title: "About Chicken Keeper Guide"
+hide_title: true
 date: 2026-01-01
 draft: false
 description: "About Chicken Keeper Guide,  meet Ellen Barker, a decade-long backyard chicken keeper writing practical poultry guides."

@@ -1,5 +1,6 @@
 ---
 title: "Egg Incubation Calculator: Hatch Date, Candling & Lockdown Schedule"
+hide_title: true
 date: "2026-06-10"
 slug: "egg-incubation-calculator"
 author: "Ellen Barker"

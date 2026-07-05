@@ -101,3 +101,12 @@
 {{/* title-font */}}
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Vollkorn:opsz,wght@10..36,700;10..36,800&display=swap">
 <style>:root{--serif:'Vollkorn', Georgia, serif}.post-title{letter-spacing:-.015em}</style>
+<style>
+.hero-authority {
+  --hero-c1: {{ .Site.Params.hero_color_1 | default "#0f172a" }};
+  --hero-c2: {{ .Site.Params.hero_color_2 | default "#1e3a8a" }};
+  --hero-c3: {{ .Site.Params.hero_color_3 | default "#c9a84c" }};
+  --hero-c4: {{ .Site.Params.hero_color_4 | default "#1a2744" }};
+}
+</style>
+<!-- Hero gradient CSS variables from config (2026-07-05) -->

@@ -1,5 +1,6 @@
 ---
 title: "Backyard Chicken Breed Comparison Chart"
+hide_title: true
 date: 2026-01-01
 draft: false
 description: "Compare 16 popular backyard chicken breeds by egg production, egg color, temperament, cold-hardiness, and broodiness to pick the right flock for you."

@@ -2,6 +2,7 @@
 title: "Sarah Mills"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"

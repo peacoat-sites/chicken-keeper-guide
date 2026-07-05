@@ -1,5 +1,6 @@
 ---
 title: "Chicken Feed Cost Calculator: What Does It Really Cost to Keep Chickens?"
+hide_title: true
 date: 2026-06-10
 slug: "chicken-feed-cost-calculator"
 description: "Calculate your monthly and annual chicken feed costs by flock size and feed type. See cost per dozen eggs to understand the real economics of backyard chickens."

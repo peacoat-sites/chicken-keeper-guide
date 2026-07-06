@@ -7,6 +7,7 @@ description: "About Chicken Keeper Guide,  meet Ellen Barker, a decade-long back
 layout: "about-page"
 author_slug: "carol-thompson"
 author_name: "Chicken Keeper Guide"
+person_name: "Ellen Barker"
 ---
 
 ## About Chicken Keeper Guide

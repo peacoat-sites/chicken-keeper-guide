@@ -4,7 +4,9 @@ hide_title: true
 date: 2026-01-01
 draft: false
 description: "About Chicken Keeper Guide,  meet Ellen Barker, a decade-long backyard chicken keeper writing practical poultry guides."
----
+layout: "about-page"
+author_slug: "chicken-keeper-guide"
+author_name: "Chicken Keeper Guide"---
 
 ## About Chicken Keeper Guide
 

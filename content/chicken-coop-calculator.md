@@ -6,7 +6,6 @@ slug: "chicken-coop-size-calculator"
 author: "Ellen Barker"
 categories: ["Coop Building"]
 description: "Use our free chicken coop size calculator to find the minimum and recommended square footage for your flock, plus nesting boxes and roost bar length."
-image: ""
 faqs:
   - q: "How much space does a chicken need in a coop?"
     a: "The general rule is 4 square feet per bird inside the coop and 10 square feet per bird in the outdoor run. For large breeds like Jersey Giants, allow 6 square feet inside."

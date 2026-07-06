@@ -6,7 +6,6 @@ slug: "egg-incubation-calculator"
 author: "Ellen Barker"
 categories: ["Hatching Eggs"]
 description: "Free egg incubation calculator for chickens, ducks, quail, turkeys, and more. Get your hatch date, first candling date, and lockdown day in seconds."
-image: ""
 faqs:
   - q: "How long does it take for a chicken egg to hatch?"
     a: "Chicken eggs typically hatch in 21 days from when they are set in the incubator. Some eggs may hatch a day early or late — this is normal."

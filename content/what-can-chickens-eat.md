@@ -5,7 +5,6 @@ slug: "what-can-chickens-eat"
 author: "Ellen Barker"
 categories: ["Chicken Feed"]
 description: "A searchable, filterable guide to 50+ foods chickens can eat, foods to avoid, and toxic foods that can kill your flock. Updated with vet-reviewed safety notes."
-image: ""
 faqs:
   - q: "Can chickens eat avocado?"
     a: "No. Avocado contains persin, a fungicidal toxin that causes myocardial necrosis (heart muscle damage) in birds. Even small amounts can be fatal. Never feed any part of an avocado to chickens."

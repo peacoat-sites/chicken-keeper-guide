@@ -21,8 +21,8 @@ faqs:
    a: "Yes, but with adjustments. Ventilation in winter is crucial because moisture and ammonia accumulate faster in a closed coop. You may not be able to do a full wet wash in freezing temperatures since the coop won't dry properly. A thorough dry clean, removing all litter and adding a heavy fresh layer, along with a light diatomaceous earth treatment, gets you through until conditions allow a proper wet deep clean. Don't let winter be an excuse to let months go by without addressing litter buildup."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
-author_title: "Homestead Writer"
-author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+author_title: "Backyard Poultry Keeper"
+author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 
 ---
 There's a smell that every chicken keeper knows. You open the coop door on a warm morning, and it hits you like a wall: ammonia, damp shavings, and something that falls somewhere between a barn and a locker room. If your eyes are watering before you even step inside, the coop is overdue for a serious clean. I've been there more times than I can count, and after 12 years of keeping chickens, I've learned that coop cleaning isn't just about comfort. It's one of the most direct things you do to protect your flock's health.

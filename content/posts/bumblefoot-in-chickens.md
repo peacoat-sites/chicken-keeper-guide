@@ -21,8 +21,8 @@ faqs:
    a: "Early bumblefoot typically looks like a small, round, dark or black scab on the foot pad, specifically on the ball of the foot. The scab might be anywhere from the size of a BB to a pea. The surrounding tissue looks mostly normal with minimal or no swelling. The chicken may not even be limping yet. This is exactly the stage you want to catch it."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
-author_title: "Homestead Writer"
-author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+author_title: "Backyard Poultry Keeper"
+author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 
 ---
 You notice your Buff Orpington limping near the feeder one morning. She's still eating, still bossy with the other hens, but something's off. You pick her up, flip her over, and there it is: a hard, dark scab on the ball of her foot, surrounded by swollen, angry-looking tissue. That's bumblefoot. And if you caught it at this stage, you're lucky, a lot of people don't notice until the swelling has worked its way up into the leg and things get much more serious.

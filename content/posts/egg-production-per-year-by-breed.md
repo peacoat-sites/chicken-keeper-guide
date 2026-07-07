@@ -21,8 +21,8 @@ faqs:
    a: "Yes, and most backyard keepers do. Just don't expect your ornamental birds to pull their weight in the egg basket and then be surprised when the math doesn't add up. Keep a mental ledger: if two of your six hens are Silkies and one is a Bantam Cochin, you effectively have three production birds. Plan accordingly."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
-author_title: "Homestead Writer"
-author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+author_title: "Backyard Poultry Keeper"
+author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 
 ---
 Most people pick chickens based on looks. They fall for a photo of a fluffy Silkie or a dramatic Ayam Cemani and buy six of them before asking the obvious question: how many eggs will I actually get? Then they spend a year collecting three eggs every two days from birds that eat as much as any other hen, and they wonder why their "backyard flock" costs more than buying eggs at the farmers market. Breed selection is the single highest-leverage decision you'll make as a chicken keeper, and egg production numbers are the thing most hatchery descriptions quietly fudge.

@@ -21,8 +21,8 @@ faqs:
     a: "Look first at whether anything in the flock composition changed: a bird died, you added someone, a bird started laying or stopped, a predator scared them. Also look at the season. Spring specifically kicks off hormonal shifts in hens that can restart pecking order disputes that were settled. If nothing obvious changed, get a close look at both birds for signs of illness or injury. A sick bird often gets targeted, and the sick bird will sometimes preemptively attack to defend herself before she can be driven down."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
-author_title: "Homestead Writer"
-author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+author_title: "Backyard Poultry Keeper"
+author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 
 ---
 Someone in a Facebook group I follow posted a photo last week of her arm with three long scratches on it, and the caption just said "Day 47 of owning a rooster." Forty-seven comments, all some version of "same."

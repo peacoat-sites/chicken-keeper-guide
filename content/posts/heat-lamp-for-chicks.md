@@ -21,8 +21,8 @@ faqs:
     a: "The theory is that red light reduces pecking because chicks see blood less clearly. The honest answer is that the evidence is anecdotal and the effect is probably minor in a properly managed brooder with appropriate stocking density. Ceramic heat emitters (no light at all) are a better choice if you want to reduce stress and let chicks sleep normally."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
-author_title: "Homestead Writer"
-author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+author_title: "Backyard Poultry Keeper"
+author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 
 ---
 Three chicks died in my first brooder before I figured out what I was actually doing wrong. Not from cold. From heat. I'd set up a 250-watt red heat lamp about 18 inches above the bedding, figured that was "about right" based on a quick Google search, and watched my little flock of straight-run Easter Eggers pile into one corner and pant for two days before I connected the dots. By the time I got the temperature right, I'd already lost three.

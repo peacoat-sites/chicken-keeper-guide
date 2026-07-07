@@ -21,8 +21,8 @@ faqs:
     a: "Yes. If your chickens aren't free-ranging on natural ground, they need access to insoluble grit (granite grit, not oyster shell, which is calcium, not grit) to grind up anything that isn't crumble or pellet. A small dish of Manna Pro Poultry Grit left out free-choice is cheap insurance. I learned this one the hard way when a hen got impacted crop from eating too much fibrous material without enough grit available."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
-author_title: "Homestead Writer"
-author_bio: "Carol Thompson has kept backyard chickens for 15 years, starting with a small flock of four and eventually managing over 30 birds on a half-acre suburban property. She learned through the school of hard knocks: predator attacks, respiratory illness, molting mystery, and the endless question of why egg production drops in winter. At Chicken Keeper Guide, she writes from genuine experience and real mistakes."
+author_title: "Backyard Poultry Keeper"
+author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 
 ---
 Most chicken keepers I know started giving treats with the best intentions and accidentally turned their flock into a bunch of picky, nutritionally-compromised divas. I did it too. My first year with chickens, I was tossing scratch grains, bread crusts, and leftover pasta like I was running a bed and breakfast. My hens were thrilled. Their egg production? Not so much.

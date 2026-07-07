@@ -2,26 +2,45 @@
   {
     "label": "Breed Comparison",
     "url": "/chicken-breed-comparison/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "breed"
+    ]
   },
   {
     "label": "Coop Size Calc",
     "url": "/chicken-coop-size-calculator/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "coop",
+      "size"
+    ]
   },
   {
     "label": "Feed Cost Calc",
     "url": "/chicken-feed-cost-calculator/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "feed",
+      "cost"
+    ]
   },
   {
     "label": "Egg Incubation Calc",
     "url": "/egg-incubation-calculator/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "egg",
+      "incubation"
+    ]
   },
   {
     "label": "Egg Production Calc",
     "url": "/chicken-egg-production-calculator/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "egg",
+      "production"
+    ]
   }
 ]

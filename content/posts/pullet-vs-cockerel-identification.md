@@ -25,8 +25,6 @@ faqs:
    a: "To some degree. Young roosters that already bully siblings heavily or jump at your hand frequently tend to stay aggressive. Gentler cockerels sometimes mellow slightly as they mature, but a jerk at 6 weeks is usually a jerk at 6 months."
 ---
 
-# Pullet vs Cockerel Identification
-
 I'll be honest: this is the question that haunted my first year of chicken keeping. I ordered six "pullets" from a hatchery in April, and by August, I had four teenage girls and two increasingly aggressive roosters. The hatchery's response was basically "whoops, sexing errors happen," which is true, but it doesn't help when you're staring down a bird with wattles the size of grapes and a tail that's starting to curve like a question mark.
 
 The thing is, early-stage sexing isn't actually that hard once you know what you're looking at. It's just that nobody explains it clearly until you're already frustrated. So let's talk about what actually separates a female chicken from a male, when you can start telling them apart, and why the industry gets it wrong more often than anyone admits.

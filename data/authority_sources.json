@@ -1,0 +1,22 @@
+[
+ {
+  "name": "USDA",
+  "url": "https://www.usda.gov/",
+  "note": "Agriculture and food safety"
+ },
+ {
+  "name": "Penn State Extension — Poultry",
+  "url": "https://extension.psu.edu/",
+  "note": "University poultry guidance"
+ },
+ {
+  "name": "USDA APHIS",
+  "url": "https://www.aphis.usda.gov/",
+  "note": "Avian health and biosecurity"
+ },
+ {
+  "name": "FDA",
+  "url": "https://www.fda.gov/",
+  "note": "Egg and food safety"
+ }
+]

@@ -3,11 +3,11 @@ title: "About Chicken Keeper Guide"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About Chicken Keeper Guide,  meet Ellen Barker, a decade-long backyard chicken keeper writing practical poultry guides."
+description: "About Chicken Keeper Guide,  meet Carol Thompson, a decade-long backyard chicken keeper writing practical poultry guides."
 layout: "about-page"
 author_slug: "carol-thompson"
 author_name: "Chicken Keeper Guide"
-person_name: "Ellen Barker"
+person_name: "Carol Thompson"
 ---
 
 ## About Chicken Keeper Guide
@@ -16,11 +16,9 @@ Chicken Keeper Guide is a practical resource for backyard chicken owners,  from 
 
 ## Meet the Editor
 
-**Ellen Barker** is the editor behind Chicken Keeper Guide.
+**Carol Thompson** is the editor behind Chicken Keeper Guide.
 
-Ellen has kept backyard chickens for over a decade on her small hobby farm. She started with six hens in a borrowed coop and has since built multiple flocks, dealt with every common disease and predator issue, raised chicks from day-old to laying age, processed meat birds, and experimented with enough breed combinations to have strong opinions about all of them.
-
-She writes because the advice she found online when she started was often wrong, outdated, or written by people who had never actually kept chickens. Chicken Keeper Guide exists to be the resource she wished she’d had.
+Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care.
 
 ## What We Cover
 

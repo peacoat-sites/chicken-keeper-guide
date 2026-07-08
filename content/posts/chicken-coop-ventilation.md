@@ -1,5 +1,5 @@
 ---
-title: "Chicken Coop Ventilation"
+title: "Why Your Chicken Coop Needs Better Ventilation"
 date: 2026-05-28T22:28:01.199554+00:00
 draft: false
 description: "Discover how proper chicken coop ventilation keeps your flock healthy, prevents moisture buildup, and reduces ammonia. Learn the best tips for airflow all year "
@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 It's July, 94 degrees, and you open your coop door to find your hens panting with wings held out from their bodies. Or it's February, below freezing, and the walls are dripping with condensation. The litter smells sharp with ammonia even though you cleaned it three days ago. Both situations point to one thing: your coop can't breathe.
 

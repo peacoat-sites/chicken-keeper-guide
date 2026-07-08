@@ -1,5 +1,5 @@
 ---
-title: "How Much To Feed Chickens Per Day"
+title: "The Right Daily Feed Amount For Backyard Chickens"
 date: 2026-05-26T02:08:25.411516+00:00
 draft: false
 description: "Feeding chickens the right amount daily ensures healthy hens and optimal egg production. Learn proper portions, nutritional needs, and feeding schedules for you"
@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A flock of six hens can eat through a 50-pound bag of layer feed in about three weeks. Most new chicken keepers hear that number and immediately wonder: am I overfeeding? Underfeeding? Is that bag disappearing into the bedding or into actual chickens? Getting the daily feed amount right matters more than most people realize, because both overfeeding and underfeeding carry real consequences, from obesity and fatty liver disease to dropped egg production and feather loss.
 

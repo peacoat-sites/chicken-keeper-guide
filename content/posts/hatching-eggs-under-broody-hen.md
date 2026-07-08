@@ -1,5 +1,5 @@
 ---
-title: "Hatching Eggs Under Broody Hen"
+title: "Let Your Broody Hen Hatch Eggs Naturally"
 date: 2026-06-20T08:30:47.340015+00:00
 draft: false
 description: "Learn how to hatch eggs under a broody hen naturally. Discover breed selection, egg candling, nest setup, and chick care tips for a successful hatch."
@@ -23,7 +23,7 @@ faqs:
    a: "A determined broody hen is genuinely scary when she's defending chicks. Most hens will back off. That said, I always keep the broody and chicks separated from the main flock for at least the first two weeks, because even a well-intentioned hen can accidentally step on a chick, and roosters can be rough. Reintegration is easier than a chick funeral."
  - q: "Should I candle the eggs under a broody?"
    a: "You don't have to, but I recommend at least one candling at day 7 to pull clear eggs. Infertile or very early-quit eggs that stay in the nest can eventually rot and crack, contaminating the rest of the clutch. It takes five minutes and can save the entire hatch."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 You've probably got a hen sitting tight in a nesting box right now, puffed up like a volleyball, glaring at you every time you reach under her. Maybe she's been there three days, maybe a week, and you're trying to figure out whether to let this play out or break her. Here's what I tell people in that exact moment: if she's genuinely broody and you want more chicks, let her work. A good broody hen is one of the most reliable, low-intervention ways to hatch eggs that exists. She'll do things no Brinsea incubator can replicate.

@@ -1,5 +1,5 @@
 ---
-title: "How Often Do Chickens Lay Eggs"
+title: "Your Chicken's Laying Schedule: What To Expect"
 date: 2026-05-29T02:10:51.796641+00:00
 draft: false
 description: "Discover how often chickens lay eggs, factors affecting laying frequency, and tips to maximize egg production from your backyard flock."
@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A brand-new hen from a production breed can lay up to 300 eggs in her first year. That's nearly an egg a day, almost every single day, for twelve months straight. If you've just brought home your first flock expecting that kind of output from every bird, every year, you're about to be disappointed. Egg production is way more variable than most beginners expect, and understanding what drives it will save you from standing at an empty nesting box wondering what went wrong.
 

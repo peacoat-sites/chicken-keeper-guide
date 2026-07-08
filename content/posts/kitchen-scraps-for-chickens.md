@@ -1,5 +1,5 @@
 ---
-title: "Kitchen Scraps For Chickens"
+title: "Feed Your Chickens Kitchen Scraps the Right Way"
 date: 2026-05-21T10:12:25.956191+00:00
 draft: false
 description: "Kitchen scraps can be a nutritious and cost-effective way to feed your chickens. Learn which foods are safe, which to avoid, and how to prepare them properly."
@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most backyard chicken keepers figure out the same thing in their first few weeks: those birds will eat almost anything. A wilted head of lettuce tossed into the run disappears in under two minutes, and suddenly you're standing at your kitchen counter wondering what else from the compost bucket is fair game. The good news is that kitchen scraps can genuinely supplement your flock's diet, stretch your feed budget, and give your hens something to stay active and engaged. The catch is that a few common kitchen items can make chickens seriously ill, and some can even kill them. Knowing the difference isn't complicated, but it does matter.
 

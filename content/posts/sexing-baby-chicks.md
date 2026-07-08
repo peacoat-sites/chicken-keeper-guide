@@ -1,5 +1,5 @@
 ---
-title: "Sexing Baby Chicks"
+title: "How To Tell Male Chicks From Female Chicks"
 date: 2026-06-25T08:31:02.579560+00:00
 draft: false
 description: "Learn how to sex baby chicks using vent sexing, feather sexing, and visual clues to tell pullets from cockerels early after hatching."
@@ -23,7 +23,7 @@ faqs:
    a: "Sex-link hybrids like Black Sex-Links or Red Sex-Links are color-sorted at hatch, so you'd typically never receive a male if you ordered pullets of those breeds, since hatcheries can sort them with near-perfect accuracy. The color difference is genetic and visible from day one."
  - q: "Is it worth paying for DNA sexing on backyard chicks?"
    a: "For most people adding a few standard hens, no. But if you've hatched a rare breed chick you're already attached to, or you're in a strict no-rooster zone with HOA consequences, or you're working with Silkies or other notoriously hard-to-sex breeds, the $20-25 per bird is genuinely worth it for the certainty."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Every spring, someone in one of my local chicken groups posts a photo of their "all-hen" order from a hatchery, and there's a rooster standing right in the middle of the picture. You can almost feel the disappointment through the screen. They did everything right. They ordered pullets. They paid the extra sexing fee. And still.

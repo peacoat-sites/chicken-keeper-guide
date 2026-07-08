@@ -1,5 +1,5 @@
 ---
-title: "Heat Lamp For Chicks"
+title: "Keep Baby Chicks Warm: Best Heat Lamp Guide"
 date: 2026-06-03T14:09:49.538422+00:00
 draft: false
 description: "Keep baby chicks warm and healthy with the right heat lamp. Learn how to choose the best wattage, bulb type, and safe setup for your brooder."
@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Three chicks died in my first brooder before I figured out what I was actually doing wrong. Not from cold. From heat. I'd set up a 250-watt red heat lamp about 18 inches above the bedding, figured that was "about right" based on a quick Google search, and watched my little flock of straight-run Easter Eggers pile into one corner and pant for two days before I connected the dots. By the time I got the temperature right, I'd already lost three.
 

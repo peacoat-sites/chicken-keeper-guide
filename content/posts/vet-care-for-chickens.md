@@ -1,5 +1,5 @@
 ---
-title: "Vet Care For Chickens"
+title: "When Your Backyard Chicken Gets Sick: Finding A Vet"
 date: 2026-06-30T08:39:56.503106+00:00
 draft: false
 description: "Learn how to find a poultry vet, what to expect during chicken checkups, and how to keep your flock healthy with proper veterinary care."
@@ -23,7 +23,7 @@ faqs:
    a: "For many common issues, yes. Lice and mites, minor wounds, sour crop caught early, and mild respiratory symptoms without spreading are all manageable at home with proper products. But neurological symptoms, egg binding that isn't resolving, rapidly spreading illness, or any unexplained death should involve a professional."
  - q: "What is a fecal float and does my flock need one?"
    a: "A fecal float is a simple lab test that identifies internal parasite eggs in a dropping sample. It costs $25 to $50 and tells you exactly which parasites you're dealing with, if any. I do one every spring. Treating without knowing what you're treating for wastes money and can contribute to resistance over time."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most chicken keepers don't call a vet until something is already very wrong. I get it. I was the same way for the first few years. My flock got respiratory symptoms, I Googled for two hours, ordered Tylan 50 from the feed store, and hoped for the best. Sometimes it worked. Sometimes I lost a bird I could have saved if I'd had a vet relationship already in place.

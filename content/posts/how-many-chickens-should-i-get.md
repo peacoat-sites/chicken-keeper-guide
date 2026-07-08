@@ -1,5 +1,5 @@
 ---
-title: "How Many Chickens Should I Get"
+title: "The Right Flock Size For Your Backyard"
 date: 2026-05-24T20:47:34.252590+00:00
 draft: false
 description: "Find out how many chickens you really need based on your egg goals, available space, local laws, and flock dynamics to help you make the right choice."
@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people start with three chickens. Then they go to pick them up, see all those fluffy little faces, and come home with six. I've watched it happen more times than I can count, and honestly, I've done it myself. What starts as a sensible, practical decision turns into what the chicken community affectionately calls "chicken math," and before you know it you're pricing out a second coop in the parking lot of Tractor Supply. So before you get swept up in the cuteness, let's talk numbers in a real, grounded way so you can make a decision you won't regret, whether you're starting from scratch or expanding an existing flock.
 

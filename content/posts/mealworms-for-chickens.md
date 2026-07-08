@@ -1,5 +1,5 @@
 ---
-title: "Mealworms For Chickens"
+title: "Boost Chicken Health With Mealworms: A Feeding Guide"
 date: 2026-06-14T08:50:41.935939+00:00
 draft: false
 description: "Discover the benefits of feeding mealworms to chickens, including boosted protein, improved feather health, and tips for safe serving sizes your flock will love"
@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 My chickens would do anything for mealworms. Truly, anything. I once accidentally dropped a bag near the coop door and had six hens in a full sprint before the bag even hit the ground. That part's fun. What's less fun is realizing, a few months into keeping chickens, that you've been treating mealworms like a staple feed instead of what they actually are.
 

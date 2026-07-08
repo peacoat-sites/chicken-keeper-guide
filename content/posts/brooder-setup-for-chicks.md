@@ -1,5 +1,5 @@
 ---
-title: "Brooder Setup For Chicks"
+title: "Build The Perfect Brooder For Healthy Chicks"
 date: 2026-06-05T12:20:35.157968+00:00
 draft: false
 description: "Keep your chicks warm and healthy with the perfect brooder setup. Learn about heat lamps, bedding, feeders, waterers, and space requirements for happy chicks."

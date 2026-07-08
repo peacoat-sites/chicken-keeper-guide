@@ -1,5 +1,5 @@
 ---
-title: "Backyard Chickens For Beginners"
+title: "Start Raising Chickens: A Beginner's Complete Guide"
 date: 2026-05-28T22:45:10.780256+00:00
 draft: false
 description: "Learn how to raise backyard chickens with our beginner's guide. Discover essential tips on coops, feeding, breeds, and care to start your flock with confidence."
@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your neighbor shows up at your fence one Saturday morning holding a cardboard box with holes punched in the lid. Inside: six fluffy Buff Orpington chicks, peeping like crazy. She got them on impulse at the feed store, her landlord said absolutely not, and now she's looking at you with that face. That's how a lot of people get into chickens. Maybe that's you right now, staring at a box of chicks with zero idea what to do next. The good news is you're not in over your head. Chickens are genuinely one of the more forgiving livestock animals a beginner can start with, but they do have real needs, and getting those basics right in the first few months sets the tone for everything.
 

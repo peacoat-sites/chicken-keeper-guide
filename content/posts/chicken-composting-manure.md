@@ -1,5 +1,5 @@
 ---
-title: "Chicken Composting Manure"
+title: "Turn Your Chicken Manure Into Garden Gold"
 date: 2026-06-19T09:50:41.105190+00:00
 draft: false
 description: "Learn how to compost chicken manure properly to create rich fertilizer for your garden while eliminating harmful pathogens and odors."
@@ -23,7 +23,7 @@ faqs:
     a: "Pine shavings are the easiest because they do double duty as coop bedding and carbon material in the compost pile. Straw works too, but it tends to mat and slow decomposition if you're not shredding or breaking it up. Avoid cedar shavings; the natural oils can inhibit microbial activity in the pile."
   - q: "Can chicken manure compost attract pests?"
     a: "Yes, if you're not careful. Rats are the biggest issue. A fully enclosed bin with hardware cloth on the sides and bottom helps significantly. Burying kitchen scraps in the middle of the pile rather than leaving them on top, and keeping the pile moist enough to be actively hot, both reduce pest interest considerably."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Every spring I watch new chicken keepers do the same thing: they shovel the coop out, dump a pile of wet, ammonia-reeking shavings somewhere behind the garage, and figure they'll deal with it later. Then "later" becomes August, the pile is still matted and sour, and they're wondering why their tomatoes are dying after they spread it on the garden beds. Raw chicken manure will burn your plants to the roots. I've seen it happen with a single wheelbarrow load on an otherwise healthy raised bed. The good news? Turning that waste into finished compost isn't complicated. It just requires understanding a few things that nobody bothers to explain upfront.
 

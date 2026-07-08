@@ -1,5 +1,5 @@
 ---
-title: "What To Feed Chickens"
+title: "Feed Your Backyard Chickens Right: The Complete Guide"
 date: 2026-05-26T06:26:48.117830+00:00
 draft: false
 description: "Discover what to feed chickens for optimal health and egg production. Learn the best grains, vegetables, proteins, and foods to avoid for a happy, thriving floc"
@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most new chicken keepers walk into the feed store, grab whatever bag has a chicken on the label, and call it done. I did the same thing my first year. Then I watched my Rhode Island Reds go through a rough molt, my egg production crater in November, and my rooster develop a limp I later traced back to a calcium-phosphorus imbalance. Twelve years and 200-plus birds later, I can tell you that what you put in that feeder matters far more than most people realize. Chickens aren't complicated, but they're not as forgiving as the "just toss them scratch" advice would have you believe.
 

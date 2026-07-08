@@ -1,5 +1,5 @@
 ---
-title: "Golden Comet Chickens"
+title: "Golden Comets: The Egg-Laying Chicken Every Homesteader Needs"
 date: 2026-06-14T08:48:41.656650+00:00
 draft: false
 description: "Discover everything about Golden Comet chickens, including their friendly temperament, impressive egg-laying abilities, care requirements, and why they make ide"
@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most hatchery descriptions of Golden Comets read like they were written by someone who has never actually owned one. "Friendly, prolific layers", sure, technically accurate, but that sells them either too hard or not hard enough depending on what you actually need from a flock. Let me give you the real picture.
 

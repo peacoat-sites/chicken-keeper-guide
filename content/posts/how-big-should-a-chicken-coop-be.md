@@ -1,5 +1,5 @@
 ---
-title: "How Big Should A Chicken Coop Be"
+title: "The Right Chicken Coop Size For Your Flock"
 date: 2026-05-23T04:51:33.717776+00:00
 draft: false
 description: "Find out exactly how big your chicken coop should be with our easy sizing guide. Learn space requirements per bird to keep your flock healthy and happy."
@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-
+lastmod: 2026-07-08
 ---
 I've watched a perfectly friendly flock of Buff Orpingtons turn into feather-pulling, egg-eating chaos in the span of one winter. The coop was 4x6 feet. There were nine birds in it. Do the math and you'll understand everything that went wrong.
 

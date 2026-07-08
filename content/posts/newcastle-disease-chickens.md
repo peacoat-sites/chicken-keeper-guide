@@ -1,5 +1,5 @@
 ---
-title: "Newcastle Disease Chickens"
+title: "Protect Your Flock: Newcastle Disease Warning Signs"
 date: 2026-06-30T08:37:27.730124+00:00
 draft: false
 description: "Learn how Newcastle disease affects chickens, including key symptoms, transmission routes, prevention strategies, and what to do if your flock is infected."
@@ -23,7 +23,7 @@ faqs:
    a: "Not necessarily. Wry neck (torticollis) has several causes in backyard chickens: vitamin E and selenium deficiency, head trauma, Marek's disease, and inner ear infections. Velogenic Newcastle would almost always include other signs (respiratory distress, sudden deaths in other birds) alongside the twisted neck. That said, get a vet involved quickly rather than guessing."
  - q: "What's the difference between Newcastle disease and infectious bronchitis?"
    a: "Both cause respiratory signs in chickens and can cause egg production drops. Infectious bronchitis is a coronavirus (IBV) and tends to affect egg quality significantly (wrinkled shells, watery albumin) without the neurological signs that typify velogenic Newcastle. Lab testing is the only reliable way to tell them apart definitively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most backyard flock owners have never seen a case of Newcastle disease in person. I hadn't either, for the first six years I kept chickens. Then a neighbor two miles down the road lost 40 birds in eight days, and I spent a very anxious week watching my hens for symptoms I'd only read about. That experience changed how seriously I take biosecurity.

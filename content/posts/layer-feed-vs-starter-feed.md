@@ -1,5 +1,5 @@
 ---
-title: "Layer Feed Vs Starter Feed"
+title: "When To Switch Your Chickens From Starter Feed"
 date: 2026-05-27T06:36:41.758065+00:00
 draft: false
 description: "Layer feed vs starter feed: Compare nutrition, cost, and benefits of each poultry feed type to choose the best option for your flock's growth stage."
@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You picked up a bag of feed at the farm store, tossed it in the car, and drove home feeling like you had this chicken thing figured out. Then you get home and the label says "Starter" but your hens are 22 weeks old and laying their first eggs. Does it actually matter? Yes. Feeding the wrong formula at the wrong life stage can mean soft-shelled eggs, bone problems, stunted pullets, or kidney damage in young chicks. This isn't marketing fluff. It's nutrition science that directly affects your flock's health and [how many eggs you'll get](/how-much-to-feed-chickens-per-day/).
 

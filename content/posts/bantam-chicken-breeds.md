@@ -1,5 +1,5 @@
 ---
-title: "Bantam Chicken Breeds"
+title: "Best Bantam Chicken Breeds For Small Backyards"
 date: 2026-06-17T10:02:35.782960+00:00
 draft: false
 description: "Discover the most popular bantam chicken breeds, their unique traits, sizes, and temperaments to help you choose the perfect small chicken for your flock."
@@ -23,7 +23,7 @@ faqs:
     a: "Many bantam breeds have much stronger broody tendencies than modern production breeds. Silkies, Cochins, and d'Uccles are notorious for it. If you want to hatch eggs without an incubator, this is actually a feature. If you want consistent egg production, it's a management challenge you'll deal with repeatedly."
   - q: "Where can I buy quality bantam chicks?"
     a: "Hatcheries like Meyer Hatchery and Cackle Hatchery carry a decent bantam selection and ship small orders. For rarer true bantams like Rosecombs or Dutch Bantams, breeders found through the American Bantam Association or local poultry clubs will get you far better stock than a hatchery will. Quality matters more with bantams than people realize, especially for breeds where type (physical conformation) affects things like crest visibility and feathered-foot soundness."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people assume bantams are just miniature chickens for kids and small backyards, cute but not particularly useful. I thought the same thing until I started keeping them seriously about six years ago. What I discovered is that a few of these breeds will outperform full-size hens in ways that genuinely surprised me, and some of them are genuinely difficult birds that nobody warns you about until your rooster has already drawn blood.
 

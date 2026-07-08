@@ -1,5 +1,5 @@
 ---
-title: "Coccidiosis Chickens"
+title: "Stop Coccidiosis Before It Kills Your Flock"
 date: 2026-05-28T06:47:27.376062+00:00
 draft: false
 description: "Learn how to identify, treat, and prevent coccidiosis in chickens. Discover symptoms, causes, and effective management strategies to keep your flock healthy."
@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You walk out to the coop on a Tuesday morning and something just feels off. One of your pullets is hunched in the corner, fluffed up, not moving toward the feeder. You pick her up and she's lighter than she should be. Then you notice the droppings, bloody, rust-colored, or just watery and wrong. Your stomach drops. If you've never dealt with coccidiosis before, you might be wondering if she's going to make it, what you did wrong, and whether the rest of your flock is next. Here's what I tell people in that moment: you caught it. That matters. Coccidiosis moves fast, but it's also one of the most treatable diseases in backyard poultry if you act within the right window.
 

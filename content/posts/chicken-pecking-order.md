@@ -1,5 +1,5 @@
 ---
-title: "Chicken Pecking Order"
+title: "Why Your Chickens Fight For Pecking Order"
 date: 2026-05-26T23:59:33.041373+00:00
 draft: false
 description: "Discover how the chicken pecking order works, why it matters for flock health, and tips to reduce aggression and keep your chickens happy and stress-free."
@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You walked out to the coop one morning and found one of your hens huddled in the corner, feathers missing from her back, not moving toward the feeder. The other birds are acting completely normal. You're wondering if something attacked her overnight, or if she's sick. Then you watch for ten minutes and realize it's the big Buff Orpington doing it, the one you thought was gentle. That right there is the pecking order, and if you don't understand how it actually works, you'll keep treating symptoms while the real problem keeps going.
 

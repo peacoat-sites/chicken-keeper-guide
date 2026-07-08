@@ -1,5 +1,5 @@
 ---
-title: "Chicken Treats Healthy"
+title: "The Best Chicken Treats Your Flock Will Actually Eat"
 date: 2026-06-12T09:11:44.271340+00:00
 draft: false
 description: "Discover delicious and nutritious chicken treats your whole family will love. From baked bites to grilled snacks, enjoy healthy, protein-packed recipes guilt-fr"

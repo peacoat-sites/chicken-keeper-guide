@@ -1,5 +1,5 @@
 ---
-title: "Orpington Chickens"
+title: "Why Orpington Chickens Win Over Backyard Flocks"
 date: 2026-05-23T21:54:38.700979+00:00
 draft: false
 description: "Discover the friendly and docile Orpington chicken breed. Learn about their history, temperament, egg production, and why they make perfect backyard flock addit"
@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 The first time I held a Buff Orpington pullet, I thought someone had handed me a loaf of warm bread. She was round, dense, impossibly soft, and completely unfazed by being picked up by a stranger. That calm temperament isn't an accident. It's been bred into this bird for over a century, and it's exactly why Orpingtons remain one of the most popular backyard breeds in the world despite never winning any egg-laying contests.
 

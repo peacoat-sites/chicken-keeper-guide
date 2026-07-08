@@ -1,5 +1,5 @@
 ---
-title: "Adding Light For Winter Egg Production"
+title: "Winter Egg Production: The Light Strategy That Works"
 date: 2026-06-21T09:04:39.816326+00:00
 draft: false
 description: "Boost winter egg production by adding artificial light to your chicken coop. Learn how many hours hens need and the best lighting setup."
@@ -23,7 +23,7 @@ faqs:
    a: "There's no evidence that properly managed supplemental lighting harms hen health. The one legitimate concern is that it may shorten a hen's productive laying years by accelerating the use of her finite egg supply. For most backyard keepers, that tradeoff is acceptable, but it's worth understanding before you start."
  - q: "My hens still aren't laying after two weeks of supplemental light. What's wrong?"
    a: "Check a few things: are they getting a full 14 hours of combined light? Are they eating a quality layer feed with adequate protein (16% or higher)? Have they recently finished or are they still in the middle of a molt? Some breeds, especially heritage and dual-purpose breeds, take four to six weeks to respond, and a few won't respond meaningfully at all regardless of lighting."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people think you just screw in a light bulb and wait for eggs. I thought the same thing my first winter keeping chickens, and I ended up with a flock of confused, sleep-deprived hens, a too-bright coop that stressed them out, and exactly zero improvement in production for about three weeks. So let me tell you what actually works, because the advice floating around most forums is vague enough to be useless.

@@ -1,5 +1,5 @@
 ---
-title: "Chicken Feed Types Explained"
+title: "Which Chicken Feed Should You Choose? A Backyard Guide"
 date: 2026-05-27T02:40:51.957892+00:00
 draft: false
 description: "Discover the different types of chicken feed including starter, grower, and layer feeds. Learn which feed is best for your flock at each stage of life."
@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most new chicken keepers walk into a feed store for the first time, stare at a wall of bags labeled "starter," "grower," "layer," "flock raiser," and "finisher," and leave with whatever has the prettiest rooster on the label. It happens more than you'd think. The wrong feed won't always cause an obvious crisis right away, but over months it'll show up as poor egg production, weak shells, slow growth, rough feathering, and birds that just look tired. Understanding what's actually in those bags is one of the most practical moves you can make for your flock.
 

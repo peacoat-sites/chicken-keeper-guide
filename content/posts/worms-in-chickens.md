@@ -1,5 +1,5 @@
 ---
-title: "Worms In Chickens"
+title: "Stop Worm Infestations Before They Harm Your Flock"
 date: 2026-05-24T17:40:59.070699+00:00
 draft: false
 description: "Discover how to identify, treat, and prevent worms in chickens. Learn the signs of infection, best treatments, and tips to keep your flock healthy and thriving."
@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've got a layer standing apart from the flock, tail drooping, looking thin even though she's eating fine. [No respiratory issues](/respiratory-illness-chickens/). No visible mites. You worm her on a hunch, and two weeks later she's back to laying and acting normal. I've watched this play out in my own flock more times than I'd like to admit, and every time it reminds me of something uncomfortable: internal parasites are probably the most underdiagnosed health problem in backyard chickens, and most keepers don't catch it until the bird is already struggling.
 

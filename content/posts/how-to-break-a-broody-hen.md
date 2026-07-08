@@ -1,5 +1,5 @@
 ---
-title: "How To Break A Broody Hen"
+title: "Stop Your Broody Hen From Sitting: 5 Proven Methods"
 date: 2026-05-24T03:00:44.545772+00:00
 draft: false
 description: "Discover simple, humane methods to break a broody hen quickly and get her laying eggs again. Learn the most effective techniques every chicken keeper should kno"
@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you walked out to the coop this morning and found one of your hens puffed up like a football, sitting flat on the nest box and making that low, rattling growl when you reached toward her, you already know something has shifted. She's not laying. She's barely eating or drinking. And if you have other hens, she may be hogging a nest box that everyone else needs. You've got a broody hen on your hands, and whether you want to let her hatch eggs or not, you need to understand what's happening in her body and what your options actually are.
 

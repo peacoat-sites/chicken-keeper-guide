@@ -1,5 +1,5 @@
 ---
-title: "Rhode Island Red Chickens"
+title: "Rhode Island Reds: The Backyard Chicken Breed That Lays Year-Round"
 date: 2026-05-26T22:04:09.125718+00:00
 draft: false
 description: "Discover everything about Rhode Island Red chickens, from their hardy nature and egg-laying ability to care tips, history, and why they make ideal backyard bird"
@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Walk into almost any farm store during chick days and ask which breed beginners should start with. You'll walk out with a Rhode Island Red in your brooder box. After 12 years keeping chickens across 14 different breeds, I can tell you that reputation is earned. But I've also watched plenty of new keepers get blindsided by things nobody mentioned. Let's talk about the whole picture.
 

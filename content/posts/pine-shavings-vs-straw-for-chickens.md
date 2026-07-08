@@ -1,5 +1,5 @@
 ---
-title: "Pine Shavings Vs Straw For Chickens"
+title: "Straw Or Pine Shavings: Which Bedding Keeps Chickens Healthier"
 date: 2026-07-03T08:24:36.118306+00:00
 draft: false
 description: "Compare pine shavings vs straw bedding for chickens. Learn the pros, cons, cost, and health impacts of each option to choose the best coop litter."
@@ -23,7 +23,7 @@ faqs:
     a: "Not the fine/dust variety. Use larger-flake pine shavings or aspen, and even then, watch for chicks eating it. Most don't, but some do, and it can cause impaction. Straw is safer for chicks because it's too coarse to peck into their gullets easily."
   - q: "Can I use hay instead of straw?"
     a: "Not really. Hay has seeds and mold risk is higher. Straw is the hollow stalks left after grain is harvested, and it's cleaner. Hay is what you feed, straw is what you bed."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 I've kept chickens on pine shavings for eight years and straw for two, and I can tell you straight: most people pick wrong because they're listening to whoever yelled the loudest online, not because they've actually used both for a full year.

@@ -1,5 +1,5 @@
 ---
-title: "Chicken Roost Height"
+title: "How High Should Your Chicken Roost Really Be?"
 date: 2026-06-10T09:00:41.475872+00:00
 draft: false
 description: "Discover the ideal chicken roost height for happy, healthy hens. Learn how high to place roosting bars, spacing tips, and common mistakes to avoid in your coop."

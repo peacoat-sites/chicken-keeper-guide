@@ -1,5 +1,5 @@
 ---
-title: "Pullet Vs Cockerel Identification"
+title: "How to Tell Male and Female Chicks Apart"
 date: 2026-07-03T08:22:56.168808+00:00
 draft: false
 description: "Learn to distinguish between pullets and cockerels with our identification guide. Discover key physical and behavioral differences to accurately sex young chick"
@@ -23,7 +23,7 @@ faqs:
    a: "Take photos at regular intervals and compare birds side by side. Behavioral cues (mounting, aggressive posturing) are often your clearest signal in unusual breeds by 7 to 8 weeks. Keep detailed notes if you're hatching repeatedly, you'll start seeing patterns specific to your genetics."
  - q: "Can I tell if a cockerel is going to be aggressive before he's fully grown?"
    a: "To some degree. Young roosters that already bully siblings heavily or jump at your hand frequently tend to stay aggressive. Gentler cockerels sometimes mellow slightly as they mature, but a jerk at 6 weeks is usually a jerk at 6 months."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 I'll be honest: this is the question that haunted my first year of chicken keeping. I ordered six "pullets" from a hatchery in April, and by August, I had four teenage girls and two increasingly aggressive roosters. The hatchery's response was basically "whoops, sexing errors happen," which is true, but it doesn't help when you're staring down a bird with wattles the size of grapes and a tail that's starting to curve like a question mark.

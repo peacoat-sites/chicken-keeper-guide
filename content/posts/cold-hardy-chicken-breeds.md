@@ -1,5 +1,5 @@
 ---
-title: "Cold Hardy Chicken Breeds"
+title: "Best Cold Hardy Chicken Breeds For Winter Coops"
 date: 2026-05-22T08:08:39.929857+00:00
 draft: false
 description: "Discover the best cold hardy chicken breeds that thrive in winter weather. Learn which breeds handle freezing temps best for a healthy, productive backyard floc"
@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 It's February, 7 degrees outside, and you're trudging through a foot of snow to check on your flock. You get to the coop, slide open the door, and find your Leghorns huddled in a miserable pile, barely eating, and one has a blackened frostbitten comb. Meanwhile, your neighbor three doors down is out there with her Black Australorps and Rhode Island Reds, collecting eggs like it's a mild October morning. That's not luck. That's breed selection. If you're tired of nursing frost-damaged birds through every winter, or you're just starting out and want to get this right from day one, [choosing cold hardy breeds](/best-chicken-breeds-for-beginners/) is one of the most important decisions you'll make as a backyard keeper.
 

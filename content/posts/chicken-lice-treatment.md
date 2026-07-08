@@ -1,5 +1,5 @@
 ---
-title: "Chicken Lice Treatment"
+title: "Stop Lice From Destroying Your Flock: Treatment Guide"
 date: 2026-05-27T20:54:47.700165+00:00
 draft: false
 description: "Discover the best chicken lice treatment options to protect your flock. Learn how to identify, treat, and prevent lice infestations quickly and effectively."
@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you picked up one of your hens this week and noticed tiny, fast-moving specks scrambling through the feathers near her vent, you're probably feeling a mix of panic and disgust. Take a breath. Lice on chickens are incredibly common, they don't infest humans, and with the right treatment you can clear them up within two to three weeks. What trips most people up isn't finding the lice, it's not understanding the lifecycle, skipping the second treatment, or using a product that simply doesn't work on the species they have.
 

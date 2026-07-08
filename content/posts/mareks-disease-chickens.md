@@ -1,5 +1,5 @@
 ---
-title: "Marek'S Disease Chickens"
+title: "Stop Marek's Disease Before It Wipes Out Your Flock"
 date: 2026-05-23T22:28:25.896013+00:00
 draft: false
 description: "Marek's disease in chickens explained: causes, symptoms, prevention and vaccination tips to help protect your flock from this common and serious viral condition"
@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You buy six pullets from a local farm. They're healthy, active, eating well. Three months later, one of them can't stand up. Her legs are splayed, she's losing weight, and her eye looks gray and misshapen. You call the farm. They say it's probably "just a vitamin deficiency." It isn't. It's Marek's disease, and by the time that first bird goes down, the virus has likely been circulating through your flock for weeks.
 

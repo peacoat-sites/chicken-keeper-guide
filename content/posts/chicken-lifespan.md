@@ -1,5 +1,5 @@
 ---
-title: "Chicken Lifespan"
+title: "How Long Do Backyard Chickens Really Live?"
 date: 2026-07-04T08:05:08.170003+00:00
 draft: false
 description: "Discover how long chickens live, from backyard hens to wild birds. Learn what factors affect chicken lifespan and how to help your flock live longer."
@@ -23,7 +23,7 @@ faqs:
     a: "Predation accounts for a huge portion of backyard chicken deaths, particularly from foxes, raccoons, hawks, and neighbor dogs. Among birds who do reach old age, reproductive cancers and disorders are the leading cause of death in hens. Respiratory disease (often Mycoplasma-related) is also a significant cause in older birds."
   - q: "Is it worth taking an old chicken to the vet?"
     a: "That's a personal and financial call, but I'd say: yes, at least once, especially if you're not sure what's happening. A good avian vet can diagnose things you'd never identify on your own, and that information helps you make better decisions for the bird in front of you and your future flock. Expect to pay $50 to $150 for an avian vet visit depending on your area; it's not cheap, but a necropsy on a bird you've lost can be genuinely valuable if you have other hens at risk."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 My first flock of Black Australorps came from a local feed store in the spring of 2016, and I fully expected them to lay well for two or three years and then quietly retire. What I didn't expect was that one of those hens, a bird I called Marjorie, would still be following me around the yard a full decade later, completely egg-free since 2021 and absolutely unbothered about it.

@@ -1,5 +1,5 @@
 ---
-title: "Molting Chickens Egg Production"
+title: "Why Your Molting Chickens Stop Laying Eggs"
 date: 2026-05-24T05:08:13.844302+00:00
 draft: false
 description: "Discover how molting affects your chickens egg production, how long it lasts, and simple tips to support your flock and get them laying again faster."
@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You did everything right. The coop is clean, the water is fresh, the feed is stocked, and then one October morning you walk out to collect eggs and find almost nothing in the nest boxes. Meanwhile your hens look like they lost a fight with a leaf blower. Feathers everywhere. Bare patches on necks and backs. They look terrible and you're getting maybe one egg every few days from a flock that was cranking out a dozen. Most people panic and start troubleshooting the wrong things. The real answer is simpler and more frustrating: your hens are molting, and there's not a whole lot you can do to speed it up.
 

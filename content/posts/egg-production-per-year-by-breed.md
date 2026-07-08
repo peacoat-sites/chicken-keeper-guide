@@ -1,5 +1,5 @@
 ---
-title: "Egg Production Per Year By Breed"
+title: "Which Chicken Breeds Lay The Most Eggs Year-Round"
 date: 2026-05-25T12:09:18.854248+00:00
 draft: false
 description: "Discover which chicken breeds lay the most eggs per year. Compare top laying breeds, annual egg counts, and find the best hens for your backyard flock."
@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people pick chickens based on looks. They fall for a photo of a fluffy Silkie or a dramatic Ayam Cemani and buy six of them before asking the obvious question: how many eggs will I actually get? Then they spend a year collecting three eggs every two days from birds that eat as much as any other hen, and they wonder why their "backyard flock" costs more than buying eggs at the farmers market. Breed selection is the single highest-leverage decision you'll make as a chicken keeper, and egg production numbers are the thing most hatchery descriptions quietly fudge.
 

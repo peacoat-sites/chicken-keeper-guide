@@ -1,5 +1,5 @@
 ---
-title: "Respiratory Illness Chickens"
+title: "Spot Respiratory Disease Before It Spreads Through Your Flock"
 date: 2026-06-08T09:56:47.256894+00:00
 draft: false
 description: "Learn to identify and treat respiratory illness in chickens with expert tips on symptoms, causes, prevention, and the best treatments to keep your flock healthy"
@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 One of my hens sounded like a tiny accordion last October. That wet, rattling wheeze coming out of a bird that had been perfectly fine the week before is something you don't forget. If you're reading this because you heard something similar today, or because one of your girls has a puffy eye or a runny nose, I want you to take a breath. You're not a bad chicken keeper. This happens to everyone eventually, and what you do in the next 24 to 48 hours matters a lot.
 

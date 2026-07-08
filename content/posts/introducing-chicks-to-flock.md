@@ -1,5 +1,5 @@
 ---
-title: "Introducing Chicks To Flock"
+title: "How To Safely Introduce New Chicks To Your Flock"
 date: 2026-06-08T09:54:49.859484+00:00
 draft: false
 description: "Learn how to safely introduce chicks to your flock with our step-by-step guide. Reduce stress and pecking order issues for happy, healthy chickens."
@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people get the introduction wrong before the chicks even arrive. They read "keep them separate for a few weeks, then slowly introduce them" and think they've got it handled. What that advice skips: the *how* of that separation, what "slowly introduce" actually looks like in practice, and the very specific ways adult hens will make a young bird's life miserable if you rush it. I've watched a 12-week-old pullet get scalped in under three minutes by a hen she'd been "living next to" for a month. The fencing was the only thing separating them, which turned out to mean nothing at all once I opened the gate.
 

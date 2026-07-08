@@ -1,5 +1,5 @@
 ---
-title: "Chicken Coop Predator Protection"
+title: "Stop Losing Chickens: Build A Predator-Proof Coop"
 date: 2026-05-23T23:30:41.937914+00:00
 draft: false
 description: "Keep your flock safe with proven chicken coop predator protection tips. Learn how to secure your coop against foxes, raccoons, hawks, and more."
@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A raccoon can open a simple hook-and-eye latch in under 60 seconds. I've watched it happen on my trail cam footage, and I'm still a little impressed by the dexterity, even after losing three hens to that same raccoon before I figured out what was going on. That one night cost me a Buff Orpington I'd raised from a chick and two of my best laying Australorps. Predator protection isn't optional for backyard chickens. It's the difference between keeping a flock and feeding the neighborhood wildlife.
 

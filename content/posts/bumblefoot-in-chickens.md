@@ -1,5 +1,5 @@
 ---
-title: "Bumblefoot In Chickens"
+title: "Bumblefoot in Chickens: Recognize and Treat It Fast"
 date: 2026-05-26T18:58:20.140233+00:00
 draft: false
 description: "Discover the causes, symptoms, and treatments of bumblefoot in chickens. Learn how to spot this common foot infection early and keep your flock healthy."
@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-
+lastmod: 2026-07-08
 ---
 You notice your Buff Orpington limping near the feeder one morning. She's still eating, still bossy with the other hens, but something's off. You pick her up, flip her over, and there it is: a hard, dark scab on the ball of her foot, surrounded by swollen, angry-looking tissue. That's bumblefoot. And if you caught it at this stage, you're lucky, a lot of people don't notice until the swelling has worked its way up into the leg and things get much more serious.
 

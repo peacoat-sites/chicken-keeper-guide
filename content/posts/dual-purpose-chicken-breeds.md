@@ -1,5 +1,5 @@
 ---
-title: "Dual Purpose Chicken Breeds"
+title: "Best Dual-Purpose Chickens For Eggs And Meat"
 date: 2026-05-24T08:42:18.781611+00:00
 draft: false
 description: "Discover the best dual purpose chicken breeds that excel at both egg laying and meat production, perfect for backyard flocks and homesteaders seeking self-suffi"
@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 I had 17 chickens with nowhere to go.
 

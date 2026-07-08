@@ -1,5 +1,5 @@
 ---
-title: "Chicken Health Problems"
+title: "Why Your Backyard Chickens Get Sick: Signs and Solutions"
 date: 2026-05-21T11:43:47.120546+00:00
 draft: false
 description: "Learn to identify and treat common chicken health problems including respiratory infections, mites, worms, and more to keep your flock happy and thriving."

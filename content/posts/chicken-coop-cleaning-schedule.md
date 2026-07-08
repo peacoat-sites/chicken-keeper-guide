@@ -1,5 +1,5 @@
 ---
-title: "Chicken Coop Cleaning Schedule"
+title: "Keep Your Chicken Coop Clean: A Simple Monthly Schedule"
 date: 2026-07-07T08:38:23.142907+00:00
 draft: false
 description: "Keep your flock healthy with a simple chicken coop cleaning schedule. Learn daily, weekly, and monthly tasks to reduce odor and prevent disease."
@@ -23,7 +23,7 @@ faqs:
     a: "Eye bubbling (a bubble at the corner of the eye) in your birds is the canary-in-the-coal-mine symptom for ammonia irritation or early respiratory infection. You'll often see this before any other clinical sign. It's not always a disease. Sometimes it's just your coop's air quality. Fix the ventilation and bedding first before reaching for antibiotics."
   - q: "How do you clean a chicken coop in winter without freezing everything?"
     a: "Work on warmer days when temps are above freezing and you can let everything air-dry before nightfall. Skip wet disinfection on the coldest weeks and focus instead on stirring litter, adding dry shavings, and removing soiled patches. The twice-annual deep clean can be pushed to late fall (before freeze) and early spring (after thaw) rather than splitting it mid-winter."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most coop cleaning guides read like they were written by someone who has never smelled a wet litter box in August. They give you a vague "clean weekly" directive and move on. That's not a schedule. That's a suggestion that'll get your flock sick.

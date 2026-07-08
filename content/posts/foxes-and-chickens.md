@@ -1,5 +1,5 @@
 ---
-title: "Foxes And Chickens"
+title: "Protect Your Flock: Fox-Proof Your Chicken Coop"
 date: 2026-07-06T09:11:50.840157+00:00
 draft: false
 description: "Discover how foxes and chickens interact in the wild and on farms, plus practical tips to protect your flock from fox predators naturally."
@@ -23,7 +23,7 @@ faqs:
     a: "Yes. A yard fence that keeps your dogs in will not keep a fox out. Foxes clear a 6-foot fence easily and can squeeze under gaps a standard privacy fence has at ground level. Your outer yard fence may slow a fox down slightly; it won't stop one."
   - q: "Can foxes climb or jump into an open-top run?"
     a: "Red foxes can jump about 3 feet vertically and will scale structures with footholds. Gray foxes are legitimate climbers and can go up a 6-foot wire wall with no help from a post or corner. Any run with more than 4-foot walls and no top should be considered accessible to a motivated gray fox."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Three of my hens died on a Tuesday morning before I'd even had my coffee. I went out to let them out of the run and found feathers everywhere, a hole dug under the hardware cloth, and two Buff Orpingtons gone completely. The third was dead inside the coop. A fox had gotten under the apron, through a gap I thought was too small to matter, and done what foxes do.

@@ -1,5 +1,5 @@
 ---
-title: "Chicken Keeping Budget"
+title: "What It Really Costs To Raise Backyard Chickens"
 date: 2026-06-20T08:28:53.521219+00:00
 draft: false
 description: "Plan your chicken keeping budget with confidence. Discover realistic costs for coops, feed, healthcare, and supplies to raise happy, healthy hens."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, meaningfully. Hens with access to quality pasture can reduce feed consumption by 20 to 30 percent in good grazing months. That's roughly $100 to $200 in annual savings for a small flock, though it comes with increased predator exposure if your yard isn't secured."
  - q: "How much should I budget for chicken health care each year?"
    a: "For a small flock of six to eight birds with no major illness, $150 to $200 covers a stocked medicine cabinet and routine supplies. A single vet visit can add $100 to $200 on top of that. Some years are fine; some years aren't. The keepers who think ahead and stock basic supplies before they're needed spend less overall."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most budget guides for backyard chickens treat the startup cost like a one-time event and then wave vaguely at "ongoing feed expenses." That's not a budget. That's a sales pitch with numbers attached. Let me give you the actual picture, including the costs that blindsided me in year one, the ones that creep up every year, and where you can genuinely cut corners versus where doing so will cost you more later.

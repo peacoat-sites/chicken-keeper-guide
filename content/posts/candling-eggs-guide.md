@@ -1,5 +1,5 @@
 ---
-title: "Candling Eggs Guide"
+title: "When To Candle Chicken Eggs And What To Look For"
 date: 2026-06-29T09:57:33.963583+00:00
 draft: false
 description: "Learn how to candle eggs step by step to check fertility and development. Discover the best tools, timing, and techniques for successful egg candling."
@@ -23,7 +23,7 @@ faqs:
    a: "A bright LED flashlight works fine for white or light-colored eggs. For dark-shelled eggs, a focused candler like the Brinsea Spot Check or Magicfly makes a significant difference. The key is minimizing ambient light, so whatever you use, candle in a completely dark room."
  - q: "Should I candle eggs that were shipped in the mail?"
    a: "Yes, but wait 24 hours after the eggs arrive and have rested upright before candling. Shipped eggs often have damaged or detached air cells from transit. Candling them right away just shows you disruption from shipping, not development status. Candle again at day 7 to get a real read."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Nobody warns you that candling looks completely different at day 7 than it does at day 14, and the first time I held a flashlight up to a mystery egg, I genuinely couldn't tell if I was looking at a living embryo or just a yolk casting a shadow. I candled the whole clutch wrong. Pulled two eggs I shouldn't have, tossed them in the compost, and only realized my mistake when I found a fully-formed chick inside one of them. That was [early in my chicken-keeping years](/when-do-chickens-start-laying-eggs/), and I've never quite gotten over it.

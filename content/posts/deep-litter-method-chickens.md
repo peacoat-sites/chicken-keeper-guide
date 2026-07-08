@@ -1,5 +1,5 @@
 ---
-title: "Deep Litter Method Chickens"
+title: "The Deep Litter Method: Easier Chicken Coops"
 date: 2026-06-22T10:47:01.967536+00:00
 draft: false
 description: "Learn how the deep litter method works for chickens, including bedding choices, layering tips, moisture control, and how to build healthy compost in your coop."
@@ -23,7 +23,7 @@ faqs:
    a: "Add a layer of dry carbon material (shavings or straw) immediately, then stir the whole thing thoroughly with a fork. Scatter a cup of barn lime across the surface. Check your ventilation and make sure you're not trapping moisture. If it's a wet season and the coop is humid, open additional ventilation temporarily even at the cost of some cold air."
  - q: "Is deep litter safe during summer heat?"
    a: "It's workable, but summer is when it requires the most active management. Heat accelerates decomposition, which can spike ammonia faster if the carbon-to-nitrogen balance tips. Stir more often, add carbon more frequently, and prioritize strong ventilation through the hot months. Some keepers do a full cleanout in spring specifically to start fresh before summer stress."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most chicken-keeping guides describe the deep litter method like it's a passive miracle: throw down some shavings, let the chickens scratch around, and nature does the rest. That's not wrong, exactly, but it leaves out enough that first-timers end up with a wet, ammonia-reeking coop by February and no idea what went sideways.

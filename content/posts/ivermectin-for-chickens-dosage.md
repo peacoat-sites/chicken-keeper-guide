@@ -1,5 +1,5 @@
 ---
-title: "Ivermectin For Chickens Dosage"
+title: "Treating Chicken Parasites: The Right Ivermectin Dose"
 date: 2026-06-18T09:27:21.214882+00:00
 draft: false
 description: "Learn the correct ivermectin dosage for chickens, including application methods, safety tips, and how to treat mites and worms effectively."
@@ -23,7 +23,7 @@ faqs:
    a: "A 1 mL insulin syringe marked in 0.01 mL increments is what you want. You can find them at most pharmacies without a prescription, or in packs of 100 on Amazon for around $10 to $12. Don't try to eyeball doses with a large-barrel syringe."
  - q: "Can I treat a sick or underweight bird?"
    a: "Use caution here. Ivermectin is processed by the liver, and a bird that's already compromised may not clear it as efficiently. If a bird is visibly ill, underweight, or molting heavily, consult an avian vet before treating. The parasite burden may itself be contributing to the bird's condition, so doing nothing isn't obviously safer, but dosing a compromised bird without guidance isn't either."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people end up on this page because something is wrong with their flock and they're not sure what, or they found [mites on a bird](/mites-on-chickens/) and panicked, or someone in their chicken group told them "just use ivermectin" without explaining how. You might be wondering whether it's even safe, whether it affects your eggs, how much to actually give, and why the bottle in front of you doesn't say anything about chickens. All of that is completely reasonable.
 

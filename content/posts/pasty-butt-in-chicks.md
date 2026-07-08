@@ -1,5 +1,5 @@
 ---
-title: "Pasty Butt In Chicks"
+title: "How To Prevent And Treat Pasty Butt In Baby Chicks"
 date: 2026-07-01T08:57:10.737315+00:00
 draft: false
 description: "Learn what causes pasty butt in baby chicks, how to safely clean it, and simple steps to prevent this common but serious condition in your flock."
@@ -23,7 +23,7 @@ faqs:
    a: "The evidence is weak. ACV has real uses in chicken keeping, but preventing pasty butt specifically isn't well-supported. Proper temperature and electrolytes during the first 72 hours are better-documented interventions. Use ACV if you want, but don't rely on it as your prevention strategy."
  - q: "At what age can I stop checking vents?"
    a: "Practically speaking, after two weeks with most chicks. With shipped chicks I'd say 10-14 days minimum before you back off the twice-daily checks. After three weeks, pasty butt is rare enough that you only need to check if a chick is behaving oddly."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Pasty butt kills chicks. Not dramatically, not slowly, wait, actually, pretty slowly, and that's part of why it catches new keepers off guard. The chick looks fine, then a little sluggish, then suddenly it's dead, and you're standing there wondering what happened. What happened was a hardened cap of dried feces sealed the vent shut, backed up the digestive tract, and that was that.

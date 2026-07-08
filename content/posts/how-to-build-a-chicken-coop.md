@@ -1,5 +1,5 @@
 ---
-title: "How To Build A Chicken Coop"
+title: "Build Your First Chicken Coop: A Beginner's Guide"
 date: 2026-05-21T14:55:16.569293+00:00
 draft: false
 description: "Learn how to build a chicken coop with our step-by-step guide. Discover materials, tools, and expert tips to create a safe and comfortable home for your flock."
@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most first-time builders underestimate the square footage they'll need by half. You start planning for four hens, think a 4x4 coop sounds reasonable, and a year later you've got eight birds crammed into a space that smells like a locker room and looks like poultry chaos. I've watched it happen more times than I can count, and I've lived it myself with my very first build back in 2012. Getting the size right before you swing a single hammer is the single most important thing you can do, and it's just the beginning.
 

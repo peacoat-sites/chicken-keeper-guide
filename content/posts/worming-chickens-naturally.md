@@ -1,5 +1,5 @@
 ---
-title: "Worming Chickens Naturally"
+title: "Natural Worming Solutions For Healthier Backyard Chickens"
 date: 2026-06-12T09:09:57.452337+00:00
 draft: false
 description: "Discover safe, natural methods to worm your chickens using herbs, foods, and preventative strategies that protect your flock without harsh chemical dewormers."
@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most natural worming guides tell you to throw some pumpkin seeds at your flock and call it a day. That's not wrong exactly, but it's maybe 10% of the picture, and if your birds are carrying a heavy worm load, pumpkin seeds alone aren't going to cut it.
 

@@ -1,5 +1,5 @@
 ---
-title: "Aggressive Chickens"
+title: "Why Your Backyard Chickens Turn Aggressive"
 date: 2026-06-04T12:21:13.758126+00:00
 draft: false
 description: "Discover why chickens turn aggressive, what triggers their behavior, and how to calm or manage hostile hens and roosters to keep your flock peaceful and safe."

@@ -1,5 +1,5 @@
 ---
-title: "Chick Vaccinations"
+title: "Essential Vaccinations For Backyard Chicken Health"
 date: 2026-06-27T08:06:14.593102+00:00
 draft: false
 description: "Learn which vaccinations baby chicks need, when to give them, and how to protect your flock from common poultry diseases for a healthy, thriving backyard flock."
@@ -23,7 +23,7 @@ faqs:
    a: "Some vaccines, like Newcastle LaSota, can be given to adults as boosters. Marek's vaccination of adults offers minimal benefit since the protection window is at hatch. Your avian vet can guide you on what's worth doing for an established flock."
  - q: "Does the Marek's vaccine wear off?"
    a: "The research suggests HVT-based Marek's vaccines provide lifelong protection when administered correctly at hatch, but 'correctly' is the key word. Poor administration technique, storing the reconstituted vaccine too long before use, or exposing it to heat can all compromise efficacy. If you're doing it yourself, follow the diluent instructions precisely and work fast once the vial is reconstituted."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most backyard chicken keepers I've talked to fall into one of two camps: they either vaccinate everything religiously, or they've never vaccinated a single chick and figure they'll deal with problems if they come. I spent a long time in that second camp. Then I lost 11 birds to Marek's disease in a single spring, and my perspective changed pretty fast.

@@ -1,5 +1,5 @@
 ---
-title: "How To Clean Chicken Coop"
+title: "Keep Your Chicken Coop Clean: A Simple Weekly System"
 date: 2026-05-27T20:15:39.794079+00:00
 draft: false
 description: "Learn how to clean a chicken coop step by step. Discover the best tools, cleaning products, and schedules to keep your flock healthy and your coop odor-free."
@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 There's a smell that every chicken keeper knows. You open the coop door on a warm morning, and it hits you like a wall: ammonia, damp shavings, and something that falls somewhere between a barn and a locker room. If your eyes are watering before you even step inside, the coop is overdue for a serious clean. I've been there more times than I can count, and after 12 years of keeping chickens, I've learned that coop cleaning isn't just about comfort. It's one of the most direct things you do to protect your flock's health.
 

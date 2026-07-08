@@ -1,5 +1,5 @@
 ---
-title: "Chicken Coop Smell Control"
+title: "Stop Your Chicken Coop From Smelling Bad"
 date: 2026-06-17T10:00:46.654597+00:00
 draft: false
 description: "Eliminate chicken coop odors fast with proven ventilation, bedding, and cleaning tips that keep your flock healthy and your yard smelling fresh."
@@ -23,7 +23,7 @@ faqs:
     a: "Diatomaceous earth helps with parasites like mites, but it does very little for ammonia smell. It also creates a fine silica dust that's genuinely harmful to your birds' respiratory systems and yours if used heavily inside an enclosed coop. Use it sparingly and outdoors if at all."
   - q: "Why does my coop smell worse in winter even when I clean it regularly?"
     a: "Almost always ventilation. People close up coops in winter to retain heat, which traps moisture and ammonia inside. Make sure your upper vents stay open year-round. Chickens can handle cold air; they cannot handle ammonia concentrations above about 25 parts per million, and the levels inside a closed winter coop can get much higher than that."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 My neighbor knocked on my fence one Saturday morning and asked, very politely, if something had died in my yard. Nothing had died. That was just my coop after a wet week in May, six hens, and a bedding change I'd put off for too long.
 

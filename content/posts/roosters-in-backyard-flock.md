@@ -1,5 +1,5 @@
 ---
-title: "Roosters In Backyard Flock"
+title: "Why Roosters Matter In Your Backyard Flock"
 date: 2026-06-04T12:19:11.915227+00:00
 draft: false
 description: "Discover how to keep roosters in your backyard flock, from their benefits and behaviors to managing crowing and integrating them peacefully with hens."
@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Nobody warns you about the noise at 3 a.m.
 

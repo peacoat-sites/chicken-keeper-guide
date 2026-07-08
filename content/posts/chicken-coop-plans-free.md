@@ -1,5 +1,5 @@
 ---
-title: "Chicken Coop Plans Free"
+title: "Build Your First Chicken Coop With Free DIY Plans"
 date: 2026-05-23T19:56:08.352260+00:00
 draft: false
 description: "Build your own chicken coop with our free plans! Step-by-step guides for all skill levels, flock sizes, and budgets. Start saving money and housing hens today."
@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've got six chickens showing up in a box next day, no coop built, and you're standing in your backyard Googling "chicken coop plans free" on your phone while your kids are already naming the birds. I've been there. Not exactly that scenario, but close enough. Twelve years ago I cobbled together my first coop from a free plan I found online, a pile of salvaged wood, and about four times more frustration than I expected. What I wish someone had told me then is what I'm going to tell you now: free plans are genuinely useful, but only if you know how to pick the right one and what to watch out for before you ever swing a hammer.
 

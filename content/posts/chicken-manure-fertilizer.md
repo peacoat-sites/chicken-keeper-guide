@@ -1,5 +1,5 @@
 ---
-title: "Chicken Manure Fertilizer"
+title: "Turn Your Chicken Coop Waste Into Garden Gold"
 date: 2026-06-09T08:42:32.245468+00:00
 draft: false
 description: "Discover how chicken manure fertilizer enriches soil with essential nutrients, boosts plant growth, and improves garden yields naturally. Learn safe application"

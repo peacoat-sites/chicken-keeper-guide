@@ -1,5 +1,5 @@
 ---
-title: "Broody Hen Behavior"
+title: "When Your Hen Goes Broody: What Comes Next"
 date: 2026-05-23T23:06:11.490307+00:00
 draft: false
 description: "Learn how to identify broody hen behavior, what causes it, and how to manage or encourage it in your flock with practical tips for backyard chicken keepers."

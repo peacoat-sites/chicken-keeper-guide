@@ -1,5 +1,5 @@
 ---
-title: "Chicken Coop Flooring Options"
+title: "The Best Chicken Coop Flooring For Healthy Flocks"
 date: 2026-06-23T08:39:19.882098+00:00
 draft: false
 description: "Explore the best chicken coop flooring options including dirt, sand, concrete, and deep litter to keep your flock healthy, dry, and easy to clean."
@@ -23,7 +23,7 @@ faqs:
    a: "Concrete on its own, yes, it's a significant heat sink. But chickens don't sleep on the floor anyway, they sleep on roosts. The practical problem is that cold concrete encourages moisture condensation and can make bedding damp faster. Rubber stall mats or a generous deep litter system on top of concrete solves most of the cold floor issue."
  - q: "How often should I completely replace coop bedding?"
    a: "With deep litter managed correctly, once or twice a year is reasonable. With a standard spot-cleaning approach, most keepers do a full cleanout every 4-6 weeks depending on flock size and coop square footage. The honest trigger is ammonia smell at chicken-head height (crouch down and sniff). If you can smell it, the birds have been breathing it for a while already."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Nobody warns you about the floor. You research breeds for weeks, obsess over nesting box dimensions, argue with yourself about automatic waterers, and then you throw down some pine shavings on bare dirt and call it done. I did exactly this with my first coop in 2015. By the following spring I had a muddy, ammonia-soaked mess that took a full weekend to rehabilitate, and two hens with scaly leg mite problems I'm convinced were made worse by the damp conditions underfoot.

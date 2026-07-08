@@ -1,5 +1,5 @@
 ---
-title: "Chickens In Vegetable Garden"
+title: "Keep Chickens Out Of Your Vegetable Garden"
 date: 2026-06-11T09:20:07.203428+00:00
 draft: false
 description: "Discover how to use chickens in your vegetable garden to control pests, fertilize soil, and boost yields while keeping your plants safe from scratching and over"
@@ -12,7 +12,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 The first spring I let my chickens into the vegetable garden unsupervised, I lost an entire bed of seedlings in about twenty minutes. Six Rhode Island Reds, completely content, scratching up every last row of newly planted lettuce and spinach I'd spent a weekend preparing. I stood there watching them and felt genuinely stupid. The idea had seemed so elegant: chickens eat bugs, chickens fertilize soil, everyone wins. What I hadn't thought through was that chickens don't distinguish between a pest and a plant.
 

@@ -1,5 +1,5 @@
 ---
-title: "Chicken Ordinances By City"
+title: "Which Cities Allow Backyard Chickens: A Local Guide"
 date: 2026-06-02T12:52:23.082202+00:00
 draft: false
 description: "Find out if backyard chickens are allowed in your city. Explore local chicken ordinances, zoning laws, and flock size limits to stay compliant with your municip"
@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've found the perfect property. Decent yard, good sun exposure on the south side, neighbors far enough away that a rooster wouldn't be a diplomatic incident. You order six Rhode Island Red pullets, spend a weekend building a solid 4x8 coop, and then three weeks later a city code enforcement officer is standing at your gate. Turns out your municipality allows four hens maximum, no roosters, and your coop has to sit at least 25 feet from any residential structure. You're currently at 12 feet. This scenario plays out constantly. Almost always 100% preventable.
 

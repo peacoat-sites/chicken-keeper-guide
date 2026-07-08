@@ -1,5 +1,5 @@
 ---
-title: "Heat Tolerant Chicken Breeds"
+title: "Best Heat Tolerant Chicken Breeds For Hot Climates"
 date: 2026-06-11T09:22:01.707304+00:00
 draft: false
 description: "Discover the best heat tolerant chicken breeds for hot climates. Learn which hardy hens thrive in summer heat and keep producing eggs even during the hottest mo"
@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most chicken keepers learn about heat tolerance the hard way. I did. Summer of 2017, central Texas, 107°F in the shade, and I lost two [Rhode Island Red](/rhode-island-red-chickens/)s inside of a week despite fans, misters, frozen watermelons, and every intervention I'd read about online. What nobody told me was that the breed I'd chosen was quietly working against me from the start.
 

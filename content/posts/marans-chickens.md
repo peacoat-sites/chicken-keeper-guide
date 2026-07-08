@@ -1,5 +1,5 @@
 ---
-title: "Marans Chickens"
+title: "Why Maran Chickens Are Backyard Gold"
 date: 2026-07-02T08:22:18.434033+00:00
 draft: false
 description: "Discover Marans chickens, prized for their dark chocolate-brown eggs. Learn about their history, temperament, care needs, and why they're a favorite breed."
@@ -23,7 +23,7 @@ faqs:
    a: "Plan for 3-4 eggs per week, or roughly 150-200 per year. They slow down significantly in winter without supplemental lighting, and production typically tapers after year two, faster than high-production hybrid breeds."
  - q: "Can Marans chickens free-range?"
    a: "Yes, and they genuinely thrive with access to pasture. They're not particularly flighty, which makes them easier to manage in an open range setup than some lighter breeds. Just be aware they're a heavier bird that predators notice, so solid perimeter fencing or a guardian animal is worth the investment."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Those eggs will change you. I don't mean that in some overwrought way. I mean you'll crack your first dark Marans egg into a bowl next to a store-bought egg and genuinely pause. The yolk is richer, the shell is the color of bittersweet chocolate, and you'll understand immediately why people build entire flocks around this one breed.

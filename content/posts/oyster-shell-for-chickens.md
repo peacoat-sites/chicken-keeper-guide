@@ -1,5 +1,5 @@
 ---
-title: "Oyster Shell For Chickens"
+title: "Oyster Shell vs Limestone: Which Feeds Your Hens Better"
 date: 2026-05-28T13:38:11.769972+00:00
 draft: false
 description: "Oyster shell supplements support chicken bone health and eggshell strength. Learn about calcium benefits, proper dosing, and feeding guidelines for laying hens."
@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You crack open an egg from your backyard flock and the shell crumbles in your fingers before you can even get it into the pan. Thin, fragile eggshells are one of the most common complaints among backyard chicken keepers, and there's almost always the same culprit: calcium deficiency. The fix? Oyster shell. It's cheap, it's simple, and it works, yet a surprising number of chicken owners either skip it entirely or get it wrong.
 

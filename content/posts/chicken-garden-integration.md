@@ -1,5 +1,5 @@
 ---
-title: "Chicken Garden Integration"
+title: "Grow More Food: Design A Garden Your Chickens Will Love"
 date: 2026-06-26T08:35:13.304590+00:00
 draft: false
 description: "Learn how to integrate chickens into your garden to control pests, fertilize soil, and boost yields while keeping your plants protected and flock healthy."
@@ -23,7 +23,7 @@ faqs:
    a: "Woody perennials with established root systems, lavender, rosemary, hardy herbs generally, can tolerate short supervised visits. Soft-stemmed perennials, hostas, strawberries in active growth, anything newly established, are not safe. The scratch damage to root zones is often worse than the visible leaf damage."
  - q: "Do I need a rooster for this to work?"
    a: "No. Hens scratch, forage, and fertilize without any rooster involvement. A rooster adds noise and, depending on your municipality, legal complications. For garden integration purposes, a small all-hen flock is simpler and just as effective."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most chicken-and-garden advice boils down to "let your hens roam free and watch the magic happen." That advice will cost you your tomatoes, your lettuce, your newly planted perennials, and probably a few things you forgot you even cared about until they were gone. I learned this the hard way in my second year of keeping chickens, when I let a small flock of Australorps into my vegetable beds for "supervised scratching" and came back inside to get coffee. Ten minutes. My entire row of Swiss chard was shredded.

@@ -1,5 +1,5 @@
 ---
-title: "Chicken Coop Bedding Options"
+title: "The Best Chicken Coop Bedding for Happy, Healthy Hens"
 date: 2026-05-23T15:56:23.135918+00:00
 draft: false
 description: "Discover the best chicken coop bedding options to keep your flock healthy and comfortable. Compare straw, wood shavings, sand, and more to find the perfect fit."
@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 I once watched a fellow chicken keeper spend three weekends in a row completely stripping out her coop, scrubbing the floor, and reloading fresh pine shavings, only to have the smell return within days. The bedding wasn't failing her. Her management system was. After a quick chat and a switch to the [deep litter method](/deep-litter-method-chickens/), she went from weekly strip-outs to a full cleanout twice a year. That kind of shift is possible for most backyard keepers, but you have to understand your options first.
 

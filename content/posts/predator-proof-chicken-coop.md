@@ -1,5 +1,5 @@
 ---
-title: "Predator Proof Chicken Coop"
+title: "Build A Predator-Proof Chicken Coop Your Flock Will Thrive In"
 date: 2026-05-26T20:18:45.737426+00:00
 draft: false
 description: "Build a predator proof chicken coop to keep your flock safe. Learn the best materials, locks, and design tips to protect chickens from foxes, raccoons, and more"
@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 It happened on a Tuesday morning. I walked out to let my girls out for the day and found the coop door hanging open, feathers scattered across the run, and four of my best laying hens gone. A raccoon had figured out the simple barrel bolt I'd been using for two years. Just like that. If you've never experienced a predator attack, you might think I'm being dramatic. If you have, you know exactly the sick feeling I'm describing. Building a truly predator-proof chicken coop isn't about being paranoid. It's about understanding that every wild animal in your area is essentially running a nightly audit of your birds' security, looking for the one mistake you made.
 

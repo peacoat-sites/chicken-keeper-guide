@@ -1,5 +1,5 @@
 ---
-title: "Raising Baby Chicks"
+title: "Your First Baby Chicks: A Beginner's Care Guide"
 date: 2026-06-03T14:07:16.222351+00:00
 draft: false
 description: "Learn how to raise healthy baby chicks with expert tips on brooder setup, feeding, temperature control, and care essentials for your new flock."
@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 I killed six chicks my first year. Not all at once, but one by one, over about three weeks, and every single time I was convinced I was doing everything right. The brooder temperature was "about right." The water was clean. The feed was there. What I didn't understand yet is that baby chicks exist on a knife's edge for the first few weeks of their lives, and vague is the enemy.
 

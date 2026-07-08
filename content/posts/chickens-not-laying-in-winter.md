@@ -1,5 +1,5 @@
 ---
-title: "Chickens Not Laying In Winter"
+title: "Winter Egg Production: Why Your Chickens Stopped Laying"
 date: 2026-05-22T12:06:30.643467+00:00
 draft: false
 description: "Discover why your chickens stop laying eggs in winter and learn simple tips to boost production, including lighting, nutrition, and coop management strategies."
@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You go out to the coop on a cold December morning, lift the nesting box lid, and find exactly nothing. Again. Six hens. Reliable all spring and summer. And now it's been three weeks since you've seen more than one or two eggs on a good day. Something's wrong. Has to be.
 

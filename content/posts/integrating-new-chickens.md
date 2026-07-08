@@ -1,5 +1,5 @@
 ---
-title: "Integrating New Chickens"
+title: "How To Introduce New Chickens To Your Flock"
 date: 2026-05-29T19:59:31.856590+00:00
 draft: false
 description: "You quarantined your new birds. Now comes the hard part: safely introducing them to your flock without triggering bloody pecking-order fights."
@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You did everything right. You quarantined your new birds for the full 30 days, watched them closely for signs of illness, and now you're standing at your coop door with two nervous pullets in a cardboard box while six established hens stare back from the run like a gang that just claimed their corner. You let them all loose together and within 45 seconds one of your older girls has the newcomer pinned by the neck. You panic, separate everyone, and start Googling at midnight. If that's where you are right now, you're in exactly the right spot.
 

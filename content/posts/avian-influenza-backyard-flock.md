@@ -1,5 +1,5 @@
 ---
-title: "Avian Influenza Backyard Flock"
+title: "Protect Your Backyard Flock From Avian Influenza"
 date: 2026-06-24T08:34:48.405050+00:00
 draft: false
 description: "Learn how to protect your backyard flock from avian influenza with biosecurity tips, warning signs, and steps to keep your chickens safe."
@@ -23,6 +23,7 @@ faqs:
    a: "Cooking eggs to safe internal temperatures (the yolk and white should be fully cooked) kills influenza viruses. The risk from eating your own backyard eggs during a regional outbreak, assuming your birds appear healthy, is considered very low. That said, if your birds are showing symptoms, don't collect eggs, and definitely don't eat them."
  - q: "Will my flock naturally survive HPAI if they're young and healthy?"
    a: "No. Highly pathogenic avian influenza does not spare healthy, well-fed birds. This isn't like a basic respiratory illness where a strong bird might fight it off. HPAI mortality in affected flocks is typically very high, often approaching 100%. There is no 'waiting it out.'"
+lastmod: 2026-07-08
 ---
 
 If you're reading this, there's a good chance your local chicken-keeping group just blew up with scary news, or your neighbor lost their flock, or you saw a headline and typed "avian flu backyard chickens" into Google at 11pm. I know that feeling. The first time a case was confirmed in my county, I walked out to my coop before I even finished reading the article. You want to know if your birds are at risk, what you can actually do, and whether you should be worried.

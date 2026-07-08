@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 The first time I candled an egg from my Easter Egger pullet Juniper, I genuinely couldn't tell if I was looking at a blue egg or a green one. She'd laid something that split the difference so perfectly it looked teal under natural light, aqua under the kitchen fluorescent, and almost sage in the henhouse. That moment captures everything I love and everything that drives beginners slightly crazy about Easter Eggers: they're wonderfully unpredictable, endlessly variable, and somehow exactly what most backyard flocks need.
 
@@ -114,7 +114,7 @@ One thing specific to Easter Eggers: because they carry Araucana heritage, a sma
 | Tail | Present | Present | Rumpless (no tail) |
 | Ear Tufts | Sometimes | Never | Always |
 | Muffs/Beard | Often | Required | Absent |
-| Average Cost Per Chick | $3–6 | $15–25+ | $20–30+ |
+| Average Cost Per Chick | $3-6 | $15-25+ | $20-30+ |
 | Temperament | Friendly, variable | Calm, reserved | Variable, can be flighty |
 | Hatchery Availability | Widely available | Specialty only | Specialty only |
 

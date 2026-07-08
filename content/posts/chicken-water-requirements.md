@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A chicken can go without food for several days and survive. Without water? You're looking at 24 hours before serious damage begins, and in summer heat, it can be even less than that. Most backyard keepers learn this the hard way once, usually after a waterer gets knocked over or freezes solid overnight. The goal of this article is to make sure you never have to learn it that way.
 
@@ -32,7 +32,7 @@ A chicken can go without food for several days and survive. Without water? You'r
  <div class="vm-head">Daily Water Needs by Flock Size</div>
  <div class="vm-body">
  <p class="vm-intro">Use this reference table to size your waterer capacity for both normal conditions and peak summer heat, ensuring your flock never runs dry.</p>
- <table><thead><tr><th>Flock Size</th><th>Normal Daily Need (70°F)</th><th>Hot Weather Need (95°F+)</th><th>Minimum Waterer Size</th><th>Recommended Waterer Size</th></tr></thead><tbody><tr><td>4 hens</td><td>0.25–0.5 gal</td><td>0.5–1 gal</td><td>1 gallon</td><td>2 gallons</td></tr><tr><td>6 hens</td><td>0.4–0.75 gal</td><td>0.75–1.5 gal</td><td>2 gallons</td><td>3 gallons</td></tr><tr><td>10 hens</td><td>0.6–1.25 gal</td><td>1.25–2.5 gal</td><td>3 gallons</td><td>5 gallons</td></tr><tr><td>15 hens</td><td>0.9–1.9 gal</td><td>1.9–3.75 gal</td><td>5 gallons</td><td>5 gallons (refill 2×/day) or dual waterers</td></tr><tr><td>25 hens</td><td>1.5–3.1 gal</td><td>3.1–6.25 gal</td><td>5 gallons</td><td>Two 5-gallon waterers or auto-fill system</td></tr></tbody><tfoot><tr><td colspan="5"><strong>Sizing rule:</strong> Recommended capacity = 2× hot-weather daily need, so you have a full-day buffer if you can't refill until evening.</td></tr></tfoot></table>
+ <table><thead><tr><th>Flock Size</th><th>Normal Daily Need (70°F)</th><th>Hot Weather Need (95°F+)</th><th>Minimum Waterer Size</th><th>Recommended Waterer Size</th></tr></thead><tbody><tr><td>4 hens</td><td>0.25-0.5 gal</td><td>0.5-1 gal</td><td>1 gallon</td><td>2 gallons</td></tr><tr><td>6 hens</td><td>0.4-0.75 gal</td><td>0.75-1.5 gal</td><td>2 gallons</td><td>3 gallons</td></tr><tr><td>10 hens</td><td>0.6-1.25 gal</td><td>1.25-2.5 gal</td><td>3 gallons</td><td>5 gallons</td></tr><tr><td>15 hens</td><td>0.9-1.9 gal</td><td>1.9-3.75 gal</td><td>5 gallons</td><td>5 gallons (refill 2×/day) or dual waterers</td></tr><tr><td>25 hens</td><td>1.5-3.1 gal</td><td>3.1-6.25 gal</td><td>5 gallons</td><td>Two 5-gallon waterers or auto-fill system</td></tr></tbody><tfoot><tr><td colspan="5"><strong>Sizing rule:</strong> Recommended capacity = 2× hot-weather daily need, so you have a full-day buffer if you can't refill until evening.</td></tr></tfoot></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>

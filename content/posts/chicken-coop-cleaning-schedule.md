@@ -23,6 +23,7 @@ faqs:
     a: "Eye bubbling (a bubble at the corner of the eye) in your birds is the canary-in-the-coal-mine symptom for ammonia irritation or early respiratory infection. You'll often see this before any other clinical sign. It's not always a disease. Sometimes it's just your coop's air quality. Fix the ventilation and bedding first before reaching for antibiotics."
   - q: "How do you clean a chicken coop in winter without freezing everything?"
     a: "Work on warmer days when temps are above freezing and you can let everything air-dry before nightfall. Skip wet disinfection on the coldest weeks and focus instead on stirring litter, adding dry shavings, and removing soiled patches. The twice-annual deep clean can be pushed to late fall (before freeze) and early spring (after thaw) rather than splitting it mid-winter."
+lastmod: 2026-07-07
 ---
 
 Most coop cleaning guides read like they were written by someone who has never smelled a wet litter box in August. They give you a vague "clean weekly" directive and move on. That's not a schedule. That's a suggestion that'll get your flock sick.
@@ -47,7 +48,7 @@ The water container is the other daily non-negotiable. Algae and biofilm build i
 
 Once a week, do a real bedding assessment. You're not necessarily doing a full cleanout. You're deciding whether the deep litter is still functional or whether it's crossed into toxic.
 
-I run the deep litter method in my main 10x12 coop. The theory is sound: a thick layer of carbon material (pine shavings, straw, dry leaves) hosts beneficial microbes that break down manure and generate mild heat. The practice requires judgment. If the litter smells like ammonia, it's failing. Healthy deep litter smells like forest floor, earthy but not sharp.
+I run the [deep litter method](/deep-litter-method-chickens/) in my main 10x12 coop. The theory is sound: a thick layer of carbon material (pine shavings, straw, dry leaves) hosts beneficial microbes that break down manure and generate mild heat. The practice requires judgment. If the litter smells like ammonia, it's failing. Healthy deep litter smells like forest floor, earthy but not sharp.
 
 Weekly tasks:
 
@@ -95,6 +96,13 @@ Twice-annual cleaning also gives you a chance to assess whether your coop is act
 ---
 
 ## Real-World Numbers
+
+| Frequency | Task | Time | Purpose |
+| --- | --- | --- | --- |
+| Daily | Water check, nesting box bedding removal, health scan | 3-4 minutes | Prevent mold, algae, disease early detection |
+| Weekly | Litter assessment and stirring, roost bar wipe, feeder inspection | ~15-20 minutes | Manage ammonia levels, prevent respiratory issues |
+| Monthly | Full bedding removal, wall/ceiling sweep, roost scrape and disinfect | ~45 minutes | Deep sanitation, disease prevention |
+| Twice-yearly (Spring & Fall) | Complete disinfection, structural inspection, ventilation check | 2-3 hours | Eliminate pathogens, assess coop integrity |
 
 A few concrete examples from my own setup and from readers who've written in:
 

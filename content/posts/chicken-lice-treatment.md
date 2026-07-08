@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-
+lastmod: 2026-07-07
 ---
 If you picked up one of your hens this week and noticed tiny, fast-moving specks scrambling through the feathers near her vent, you're probably feeling a mix of panic and disgust. Take a breath. Lice on chickens are incredibly common, they don't infest humans, and with the right treatment you can clear them up within two to three weeks. What trips most people up isn't finding the lice, it's not understanding the lifecycle, skipping the second treatment, or using a product that simply doesn't work on the species they have.
 
@@ -31,7 +31,7 @@ If you picked up one of your hens this week and noticed tiny, fast-moving specks
 
 ## How to Actually Identify Chicken Lice (And Confirm That's What You're Dealing With)
 
-Chicken lice are chewing insects, not bloodsuckers like mites. They spend their entire life on the bird, feeding on dead skin cells, feather debris, and skin secretions. They don't survive long off the host, which cuts both ways. Good news: your coop isn't likely to be a reservoir the way it would be with red mites. Bad news: birds are constantly reinfesting each other through direct contact.
+Chicken lice are chewing insects, not bloodsuckers like mites. They spend their entire life on the bird, feeding on dead skin cells, feather debris, and skin secretions. They don't survive long off the host, which cuts both ways. Good news: your coop isn't likely to be a reservoir the way it would be with [red mites](/mites-on-chickens/). Bad news: birds are constantly reinfesting each other through direct contact.
 
 Here's what to look for. Part the feathers around the vent, under the wings, and at the base of the neck. Chicken lice are pale yellow to tan, about 2 to 3 millimeters long, and they move fast, if you see something race away from the light, that's almost certainly lice. If it moves slowly or doesn't move at all, you're probably looking at mites, dirt, or feather debris.
 
@@ -52,6 +52,14 @@ Poor nutrition doesn't cause lice, but it makes infestations worse. A hen alread
 ---
 
 ## Treating Chicken Lice: Your Real Options
+
+| Treatment Option | Active Ingredient | Approval Status for Layers | Residual Activity | Best Use Case |
+| --- | --- | --- | --- | --- |
+| Permethrin dust/spray | Permethrin 0.25% | Approved | Good | Primary treatment choice |
+| Pyrethrin products | Pyrethrin | Approved | Shorter | Alternative to permethrin |
+| Spinosad | Spinosad | Organic-approved | Good | Organic flocks, contact + ingestion |
+| Ivermectin | Ivermectin | Not approved for layers (US) | N/A | Use at own risk; no egg withdrawal established |
+| Diatomaceous earth | DE | N/A | Mild | Preventive only, not for active infestations |
 
 This is where confusion explodes. The internet is full of advice ranging from good to genuinely useless, and people waste time and money on things that don't work.
 

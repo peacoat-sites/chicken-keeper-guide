@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
 You go out to the coop on a Tuesday morning with your coffee, same as always, and one of your hens is just standing there. Not eating. Puffed up like a ball. Tail down. Every experienced chicken keeper knows that sick-bird posture, and if you're seeing it for the first time, your stomach drops. The problem is what comes next: you search online, you find seventeen different possibilities ranging from "she's a little cold" to "your whole flock is about to die," and you close the laptop more confused than when you opened it. That's what this article is for. Let's cut through the noise and talk about what's actually likely to be wrong, what you can do about it today, and when you genuinely need a vet.
 
@@ -40,9 +40,9 @@ You go out to the coop on a Tuesday morning with your coffee, same as always, an
 
 ## The Conditions You're Most Likely to Actually Encounter
 
-I've kept hens for ten years across three different properties, and the same problems show up over and over. Respiratory illness, digestive issues, external parasites, egg-laying complications, and coccidiosis. Those five cover probably 85% of what backyard keepers deal with. The dramatic stuff, Marek's disease, Avian Influenza, gets plenty of attention online. You should know about those. But they're not where most people spend their chicken-keeping energy.
+I've kept hens for ten years across three different properties, and the same problems show up over and over. Respiratory illness, digestive issues, external parasites, egg-laying complications, and coccidiosis. Those five cover probably 85% of what backyard keepers deal with. The dramatic stuff, [Marek's disease, Avian Influenza](/avian-influenza-backyard-flock/), gets plenty of attention online. You should know about those. But they're not where most people spend their chicken-keeping energy.
 
-**Respiratory illness** shows up constantly, especially in poorly ventilated coops or when you bring in new birds without quarantine. Mycoplasma gallisepticum, called MG or chronic respiratory disease, causes rattling breath, bubbling eyes, facial swelling, and a smell that's genuinely unmistakable once you've encountered it. Here's the brutal part: there's no cure. You can treat symptoms with antibiotics like Tylan (tylosin) or oxytetracycline, but a bird with MG stays a carrier for life. I skipped quarantine exactly once. It cost me an otherwise clean flock. That was expensive tuition.
+**Respiratory illness** shows up constantly, especially in poorly ventilated coops or when you bring in new birds without quarantine. Mycoplasma gallisepticum, called MG or chronic respiratory disease, causes rattling breath, bubbling eyes, facial swelling, and a smell that's genuinely unmistakable once you've encountered it. Here's the brutal part: there's no cure. You can treat symptoms with antibiotics like Tylan (tylosin) or oxytetracycline, but a bird with MG stays a carrier for life. I [skipped quarantine exactly once](/quarantine-new-chickens/). It cost me an otherwise clean flock. That was expensive tuition.
 
 **Infectious bronchitis** is a different respiratory disease caused by a coronavirus, and it moves through a flock with terrifying speed. Within 48 hours, one sneezing bird becomes an entire coop of rattling, gasping hens. Unlike MG, birds can actually recover from IB. But some end up with permanently damaged reproductive tracts that cause misshapen eggs or internal laying afterward.
 

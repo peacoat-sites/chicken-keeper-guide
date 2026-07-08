@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-
+lastmod: 2026-07-07
 ---
 Walk into almost any farm store during chick days and ask which breed beginners should start with. You'll walk out with a Rhode Island Red in your brooder box. After 12 years keeping chickens across 14 different breeds, I can tell you that reputation is earned. But I've also watched plenty of new keepers get blindsided by things nobody mentioned. Let's talk about the whole picture.
 
@@ -36,6 +36,15 @@ Here's why that history matters in practice: this breed was created by farmers w
 **Production Reds vs. Heritage Rhode Island Reds.** This is where most people get confused. Production Reds are what you'll find at farm stores. They've been selectively bred for maximum egg output, period. Expect 280 to 300 eggs per year from a good one. Heritage-type RIRs, bred closer to the original Standard, lay maybe 200 to 250 eggs annually but live longer, weigh more, and often have calmer dispositions. If you're ordering from Murray McMurray or Cackle, read the description. Many just list them as "Rhode Island Red" without saying which type you're actually getting.
 
 ## Egg Production and What to Realistically Expect
+
+| Characteristic | Production Reds | Heritage Rhode Island Reds |
+| --- | --- | --- |
+| Eggs per year | 280-300 | 200-250 |
+| Eggs per week | 5-6 | 4-5 |
+| Lifespan (productive years) | 2-3 years peak | 4-5 years |
+| Body weight | Standard | Heavier |
+| Temperament | More driven for production | Calmer, longer-lived |
+| Breeding focus | Maximum egg output | Original Standard traits |
 
 A Production Red pullet in her first year will typically hit 5 to 6 eggs per week. That's roughly 260 to 300 eggs annually. Heritage birds run closer to 4 to 5 per week. Either way, you're getting genuinely excellent production of large to extra-large brown eggs.
 
@@ -51,7 +60,7 @@ A few real things that cut into your egg count:
 
 ## Temperament: Friendly, But Not a Lap Bird
 
-I need to be straight with you here because the marketing around RIR temperament is misleading. They're not Buff Orpingtons. They won't squat down and let your six-year-old scoop them up without complaint. They're confident, sometimes bossy, and they tend to land near the top of the pecking order when mixed with gentler breeds.
+I need to be straight with you here because the marketing around RIR temperament is misleading. They're not [Buff Orpingtons](/orpington-chickens/). They won't squat down and let your six-year-old scoop them up without complaint. They're confident, sometimes bossy, and they tend to land near the top of the pecking order when mixed with gentler breeds.
 
 But they're not aggressive toward people. The hens, anyway. I've found that RIR hens handled frequently from chick age become genuinely friendly birds. They'll follow you around the yard, they're curious and alert, and they don't spook easily. That makes routine health checks much easier than with flightier breeds like Leghorns.
 

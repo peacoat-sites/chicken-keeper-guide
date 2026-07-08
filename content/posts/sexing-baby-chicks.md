@@ -23,6 +23,7 @@ faqs:
    a: "Sex-link hybrids like Black Sex-Links or Red Sex-Links are color-sorted at hatch, so you'd typically never receive a male if you ordered pullets of those breeds, since hatcheries can sort them with near-perfect accuracy. The color difference is genetic and visible from day one."
  - q: "Is it worth paying for DNA sexing on backyard chicks?"
    a: "For most people adding a few standard hens, no. But if you've hatched a rare breed chick you're already attached to, or you're in a strict no-rooster zone with HOA consequences, or you're working with Silkies or other notoriously hard-to-sex breeds, the $20-25 per bird is genuinely worth it for the certainty."
+lastmod: 2026-07-07
 ---
 
 Every spring, someone in one of my local chicken groups posts a photo of their "all-hen" order from a hatchery, and there's a rooster standing right in the middle of the picture. You can almost feel the disappointment through the screen. They did everything right. They ordered pullets. They paid the extra sexing fee. And still.
@@ -38,6 +39,13 @@ A day-old chick does not have obvious external sex organs. The difference betwee
 What most people don't realize is that "pullet" on a hatchery order form typically means 90% accuracy at best for the methods available, and some sources put that number lower for certain breeds. The hatchery industry standard hovers around 90-95% for vent sexing, which sounds good until you've ordered 12 chicks and two of them turn out wrong. That's not a failure. That's just math.
 
 ## The Four Real Methods, Ranked by Reliability
+
+| Method | Accuracy | Speed | Requirements | Best For |
+| --- | --- | --- | --- | --- |
+| Vent sexing | 90-95% | Slow | Professional training, years of experience | Commercial hatcheries |
+| Feather sexing | 98-99% | Fast | Sex-linked feathering gene present | Specific purpose-bred strains |
+| Color sexing | ~100% | Very fast | Sex-link hybrid breeds | Black/Red Sex-Links, reliability-focused keepers |
+| DNA sexing | 100% | 3-5 days | Lab processing ($19-25/bird) | Rare breeds, valuable birds, definitive answers |
 
 **Vent sexing** is what hatcheries use. A trained specialist gently everts the chick's cloaca and looks for a tiny bump that indicates a male. This takes years of training to do accurately without injuring the chick, and even experienced sexers work at accuracy rates in the 90-95% range. You are not going to learn this from a YouTube video. I mean that. The technique requires a specific feel that takes thousands of repetitions to develop, and a botched attempt can kill a chick. Don't try it at home on your backyard flock.
 
@@ -60,7 +68,7 @@ I'd push back on one popular belief specifically: that you can predict sex by be
 - [Lauren Heaton](https://www.pexels.com/@lauren-heaton-76106296)
 
 
-If you're hatching your own eggs or buying straight-run chicks, you're waiting for secondary sex characteristics to develop. By 3-4 weeks, cockerels in most breeds will start showing slightly thicker legs, a more upright posture, and early comb development that's pinker and larger than the pullets'. By 6-8 weeks it becomes fairly obvious in most dual-purpose breeds like Rhode Island Reds, Plymouth Rocks, and Wyandottes.
+If you're hatching your own eggs or [buying straight-run chicks](/buying-chicks-online/), you're waiting for secondary sex characteristics to develop. By 3-4 weeks, cockerels in most breeds will start showing slightly thicker legs, a more upright posture, and early comb development that's pinker and larger than the pullets'. By 6-8 weeks it becomes fairly obvious in most dual-purpose breeds like Rhode Island Reds, Plymouth Rocks, and Wyandottes.
 
 Silkies and a few other breeds are genuinely difficult even at 12 weeks. I've seen experienced keepers get Silkie sexes wrong at 3 months. If you want Silkie hens and can't tolerate any roosters, buy DNA-sexed birds or sex-link hybrids. The Silkie situation is its own special chaos.
 

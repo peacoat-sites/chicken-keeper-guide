@@ -23,6 +23,7 @@ faqs:
    a: "Yes, meaningfully. Hens with access to quality pasture can reduce feed consumption by 20 to 30 percent in good grazing months. That's roughly $100 to $200 in annual savings for a small flock, though it comes with increased predator exposure if your yard isn't secured."
  - q: "How much should I budget for chicken health care each year?"
    a: "For a small flock of six to eight birds with no major illness, $150 to $200 covers a stocked medicine cabinet and routine supplies. A single vet visit can add $100 to $200 on top of that. Some years are fine; some years aren't. The keepers who think ahead and stock basic supplies before they're needed spend less overall."
+lastmod: 2026-07-07
 ---
 
 Most budget guides for backyard chickens treat the startup cost like a one-time event and then wave vaguely at "ongoing feed expenses." That's not a budget. That's a sales pitch with numbers attached. Let me give you the actual picture, including the costs that blindsided me in year one, the ones that creep up every year, and where you can genuinely cut corners versus where doing so will cost you more later.
@@ -60,6 +61,22 @@ Do not cut here: hardware cloth gauge. Use 1/2-inch welded wire, not chicken wir
 Nesting pads are a legitimately useful small expense. [Precision Pet Excelsior Nesting Pads](https://www.amazon.com/s?k=excelsior+nesting+pads+chickens&tag=contentportfo-20) run about $20 for a pack of 10 and dramatically reduce egg breakage and cleaning time versus loose bedding. Small cost, real return. (Disclosure: this site may earn a commission on purchases.)
 
 ## Annual Cost Summary for a Six-Hen Flock
+
+| Cost Category | Low End | High End | Notes |
+| --- | --- | --- | --- |
+| Coop (DIY) | $200 | $400 | Materials only; labor is your own |
+| Coop (Quality Prefab) | $600 | $900 | Reputable suppliers like Ware Manufacturing |
+| Chicks (per bird) | $4 | $8 | Plus $30-$50 shipping minimum |
+| Pullets (per bird) | $15 | $35 | Skip brooder phase; local breeders |
+| Brooder Setup | $60 | $100 | Heat lamp, shavings, starter feed, container |
+| Feeders & Waterers | $40 | $80 | Quality galvanized equipment |
+| Startup Total (6-8 hens) | $500 | $1,500 | Varies by coop choice and chick vs. pullet |
+| Monthly Feed (6 hens) | $44 | $60 | Two 50-lb bags layer pellets |
+| Monthly Consumables (6 hens) | $55 | $75 | Feed, oyster shell, treats, scratch |
+| Annual Health Budget | $150 | $200 | Supplies and occasional consultation |
+| Starter Health Kit | $80 | $120 | Corid, VetRx, wound spray, vitamins, scale |
+| Bedding per Bag | - | $8 | Pine shavings; deep litter method saves further |
+| Nesting Pads (10-pack) | - | $20 | Reduces breakage and cleaning time |
 
 ## Sources
 

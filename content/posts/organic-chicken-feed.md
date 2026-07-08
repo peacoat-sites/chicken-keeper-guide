@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-
+lastmod: 2026-07-07
 ---
 Organic chicken feed costs more than conventional. Sometimes a lot more. And if you've just bought your first 50-pound bag of Scratch and Peck Feeds Cluckin' Good Organic Layer Mash for $42 versus the $18 Dumor bag sitting right next to it at Tractor Supply, you might be wondering whether you just made a very expensive rookie mistake.
 
@@ -41,7 +41,7 @@ But there are real reasons to care about that distinction. If you're selling egg
 
 ## What I Actually Look for in a Feed Label (Organic or Not)
 
-Before I care about the organic certification, I want to see the protein percentage and the ingredient list. Laying hens need 16-18% protein. Some feeds go higher, but anything above 18% for a standard laying hen is honestly overkill and probably a waste of money. Below 16% and you'll see it in your shells, which get thin and fragile, and in overall egg production.
+Before I care about the organic certification, I want to see the protein percentage and the ingredient list. [Laying hens need 16-18% protein](/how-much-to-feed-chickens-per-day/). Some feeds go higher, but anything above 18% for a standard laying hen is honestly overkill and probably a waste of money. Below 16% and you'll see it in your shells, which get thin and fragile, and in overall egg production.
 
 The ingredient list should lead with a whole grain or grain meal. Corn, wheat, peas, soybean meal, and fish meal are all normal and fine. What I don't want to see is the first three ingredients being byproduct fractions or filler grains with the actual protein source buried halfway down the list.
 
@@ -51,6 +51,12 @@ Modesto Milling is another brand worth knowing. They do certified organic pellet
 
 ## The Price Math Nobody Does Until They're Knee Deep in Feed Bills
 
+| Scenario | Feed Type | Cost per 50 lbs | Weekly Cost (6 hens) | Annual Cost (6 hens) |
+| --- | --- | --- | --- | --- |
+| Budget backyard flock | Conventional pellets | $18 | $4.00 | ~$208 |
+| Organic preference | Organic feed | $42 | $9.25 | ~$481 |
+| Price difference | - | $24 | $5.25 | ~$273 |
+
 A standard laying hen eats roughly a quarter pound of feed per day. A backyard flock of six hens eats about 10-11 pounds of feed per week. At $18 for 50 pounds of conventional pellets, you're spending about $4 a week on feed. At $42 for 50 pounds of organic, you're spending about $9.25 a week. Over a year, that's the difference between roughly $208 and $481 for those six hens.
 
 Whether $273 a year matters to you is a personal question.
@@ -59,7 +65,7 @@ One thing that genuinely helps is supplementing with fermented feed. I ferment a
 
 ## Does Organic Feed Actually Produce Better Eggs?
 
-The research here is genuinely mixed. Most studies comparing organic versus conventional egg nutrition show small or inconsistent differences when the hens are managed the same way otherwise. A 2010 Penn State study did find higher omega-3s and more vitamin D in pasture-raised eggs, but the variable there was pasture access and sunlight, not feed certification.
+The research here is genuinely mixed. Most studies comparing organic versus conventional egg nutrition show small or inconsistent differences when the hens are managed the same way otherwise. A 2010 Penn State study did find higher omega-3s and more vitamin D in [pasture-raised eggs](/what-to-feed-chickens/), but the variable there was pasture access and sunlight, not feed certification.
 
 The honest answer is that what your hens eat from the ground, how much sunlight they get, and how much space they have probably affects your egg quality more than whether the corn in their pellets was grown with synthetic nitrogen. A hen on cheap conventional feed with good pasture access will likely produce better eggs than a hen on premium organic feed locked in a run with no grass.
 

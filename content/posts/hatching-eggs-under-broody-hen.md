@@ -23,6 +23,7 @@ faqs:
    a: "A determined broody hen is genuinely scary when she's defending chicks. Most hens will back off. That said, I always keep the broody and chicks separated from the main flock for at least the first two weeks, because even a well-intentioned hen can accidentally step on a chick, and roosters can be rough. Reintegration is easier than a chick funeral."
  - q: "Should I candle the eggs under a broody?"
    a: "You don't have to, but I recommend at least one candling at day 7 to pull clear eggs. Infertile or very early-quit eggs that stay in the nest can eventually rot and crack, contaminating the rest of the clutch. It takes five minutes and can save the entire hatch."
+lastmod: 2026-07-07
 ---
 
 You've probably got a hen sitting tight in a nesting box right now, puffed up like a volleyball, glaring at you every time you reach under her. Maybe she's been there three days, maybe a week, and you're trying to figure out whether to let this play out or break her. Here's what I tell people in that exact moment: if she's genuinely broody and you want more chicks, let her work. A good broody hen is one of the most reliable, low-intervention ways to hatch eggs that exists. She'll do things no Brinsea incubator can replicate.
@@ -31,7 +32,16 @@ But there's real technique involved, and a few things that will quietly wreck yo
 
 ## Is She Actually Broody, or Just Weird?
 
-This matters more than it sounds. Some hens sit in the box for an hour after laying. Some camp out because another hen keeps using the same box. A truly broody hen will be there all day, every day. She'll flatten herself against the eggs when you approach, growl or peck, pull breast feathers out to expose her brood patch, and run back to the nest within minutes if you remove her.
+| Breed Type | Broodiness | Eggs Capacity | Notes |
+| --- | --- | --- | --- |
+| Silkie | Highly reliable | 6-7 eggs | Smaller frame, excellent sitter |
+| Cochin | Highly reliable | 10-12 eggs | Excellent maternal instinct |
+| Buff Orpington | Highly reliable | 10-12 eggs | Heritage breed, dependable |
+| Leghorn | Rarely broody | Not suitable | Production breed, broodiness bred out |
+| Commercial sex-links | Rarely broody | Not suitable | Production breed, broodiness bred out |
+| Standard breeds (general) | Variable | 10-12 eggs | One rooster per 8-10 hens for fertility |
+
+This matters more than it sounds. Some hens sit in the box for an hour after laying. Some camp out because another hen keeps using the same box. A [truly broody hen](/broody-hen-behavior/) will be there all day, every day. She'll flatten herself against the eggs when you approach, growl or peck, pull breast feathers out to expose her brood patch, and run back to the nest within minutes if you remove her.
 
 The real test is temperature. Slide your hand under her. If she feels like a furnace, she's broody.
 
@@ -63,7 +73,7 @@ Leave her alone. That's most of it.
 
 Check on her once a day. Make sure she's eating and drinking. A good broody will take one break per day, usually in the morning, for 15 to 30 minutes. She'll eat, drink, poop (broody hen poop is genuinely spectacular in size and odor), and get back on the nest. If she's not getting up at all in three or four days, lift her off yourself once a day and set her in front of food and water until she eats.
 
-Candling is optional under a broody, but I do it once at day 7 to pull clear (infertile) eggs and once at day 14 to remove any that have quit. Use a small LED flashlight in a dark space. Fertile, developing eggs will show a distinct spiderweb of blood vessels by day 7. Infertile eggs look clear. Quitters will show a dark ring or a scrambled mess. Rotting eggs can explode if they're left too long, and the contamination can kill viable embryos nearby.
+[Candling is optional](/candling-eggs-guide/) under a broody, but I do it once at day 7 to pull clear (infertile) eggs and once at day 14 to remove any that have quit. Use a small LED flashlight in a dark space. Fertile, developing eggs will show a distinct spiderweb of blood vessels by day 7. Infertile eggs look clear. Quitters will show a dark ring or a scrambled mess. Rotting eggs can explode if they're left too long, and the contamination can kill viable embryos nearby.
 
 Around day 18, she'll go into "lockdown" mode on her own. She'll barely leave the nest, and you'll sometimes hear her making soft, low clucks into the eggs. The embryos can hear her at this point and are responding. It's one of the more remarkable things I've seen in ten years of doing this.
 

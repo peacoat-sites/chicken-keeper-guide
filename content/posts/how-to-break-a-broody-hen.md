@@ -23,11 +23,21 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
 If you walked out to the coop this morning and found one of your hens puffed up like a football, sitting flat on the nest box and making that low, rattling growl when you reached toward her, you already know something has shifted. She's not laying. She's barely eating or drinking. And if you have other hens, she may be hogging a nest box that everyone else needs. You've got a broody hen on your hands, and whether you want to let her hatch eggs or not, you need to understand what's happening in her body and what your options actually are.
 
 ## What Brooding Actually Is (and Why It's Hard to Stop)
+
+| Breed | Broody Tendency | Egg Production Impact | Notes |
+| --- | --- | --- | --- |
+| Silkie | Very High | Frequently broody | Professional brooders |
+| Buff Orpington | High | Regular broodiness | Heritage breed trait |
+| Cochin | High | Regular broodiness | Heritage breed trait |
+| Brahma | High | Regular broodiness | Heritage breed trait |
+| Sussex | High | Regular broodiness | Heritage breed trait |
+| Leghorn | Low | Minimal broodiness | Production breed |
+| Commercial Hybrids | Low | Minimal broodiness | Broodiness selected out |
 
 Broodiness isn't stubbornness. It's a hormonal state, and that distinction matters a lot when you're trying to break it.
 
@@ -37,7 +47,7 @@ This is why simply removing the eggs doesn't fix the problem. The eggs aren't ca
 
 Some breeds go broody far more readily than others. Silkies are practically professional brooders. Buff Orpingtons, Cochins, Brahmas, and Sussex hens have strong broody tendencies. Production breeds like Leghorns and most commercial hybrids have had the broodiness largely selected out of them. If you've got a heritage breed or a mixed flock with any of those genetics in the mix, expect to deal with this at least once.
 
-The practical consequences are real. She can lose significant body weight in days because broody hens eat and drink very little. She's also more vulnerable to mites and lice since she's not dust bathing or moving around normally. And every day she sits, she's not laying, which for backyard keepers usually means she's costing you eggs with no return.
+The practical consequences are real. She can lose significant body weight in days because broody hens eat and drink very little. She's also more vulnerable to mites and lice since she's not dust bathing or moving around normally. And every day she sits, [she's not laying](/why-did-my-chicken-stop-laying/), which for backyard keepers usually means she's costing you eggs with no return.
 
 ## How to Know You're Dealing With a Broody (Not a Sick Hen)
 

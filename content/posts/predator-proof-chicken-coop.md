@@ -23,11 +23,22 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-
+lastmod: 2026-07-07
 ---
 It happened on a Tuesday morning. I walked out to let my girls out for the day and found the coop door hanging open, feathers scattered across the run, and four of my best laying hens gone. A raccoon had figured out the simple barrel bolt I'd been using for two years. Just like that. If you've never experienced a predator attack, you might think I'm being dramatic. If you have, you know exactly the sick feeling I'm describing. Building a truly predator-proof chicken coop isn't about being paranoid. It's about understanding that every wild animal in your area is essentially running a nightly audit of your birds' security, looking for the one mistake you made.
 
 ## Understanding What You're Actually Up Against
+
+| Predator | Primary Threat | Method | Defense Priority |
+| --- | --- | --- | --- |
+| Raccoon | Latch manipulation | Dexterous hands, patience | Two-action latches, locks |
+| Fox | Speed & brute force | Gaps, digging under runs | Hardware cloth, apron method |
+| Weasel/Mink | Mass killing | Squeeze through 1-inch gaps | Half-inch hardware cloth |
+| Opossum | Persistent predation | Slow methodical approach | Secure latches |
+| Hawk | Daytime predation | Open run exposure | Covered run/netting |
+| Owl | Nighttime predation | Open run exposure | Fully enclosed coop |
+| Coyote | Speed & digging | Larger diggers | Apron method, sturdy walls |
+| Domestic Dog | Varied attacks | Chewing, digging | Hardware cloth, apron method |
 
 Before you spend a dime on hardware, you need to know your enemies. And I mean that literally. The predators threatening your flock vary a lot by region, and so do their methods.
 

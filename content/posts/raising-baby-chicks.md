@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-
+lastmod: 2026-07-07
 ---
 I killed six chicks my first year. Not all at once, but one by one, over about three weeks, and every single time I was convinced I was doing everything right. The brooder temperature was "about right." The water was clean. The feed was there. What I didn't understand yet is that baby chicks exist on a knife's edge for the first few weeks of their lives, and vague is the enemy.
 
@@ -43,13 +43,21 @@ For bedding, I've tried everything. Pine shavings win. Not newspaper (too slippe
 
 ## Feed, Water, and the Mistakes That Cost You Birds
 
+| Item | Cost | Coverage/Duration | Notes |
+| --- | --- | --- | --- |
+| Pine shavings (bag) | ~$7 | 4-5 weeks for 10 chicks | Change wet spots daily, full replacement every 4-5 days |
+| Brinsea EcoGlow 20A | ~$80 | Up to 20 chicks | Contact heater, no fire risk, handles temperature drop naturally |
+| Sav-A-Chick electrolytes | ~$3 | First 48 hours | Recommended for shipped chicks |
+| Horizontal nipple waterers | ~$10 | Pack of 10 | Inexpensive long-term water solution |
+| Heat lamp + infrared bulb | Variable | Ongoing | Requires secure clamp and bungee-cord backup |
+
 Get chick starter with 18-20% protein. Whether you want medicated or unmedicated has been debated in backyard chicken forums since the early 2000s. Here's my honest take: if your chicks came from a hatchery and were vaccinated for Marek's, don't use medicated feed (it can interfere with the vaccine response). If they weren't vaccinated, medicated starter adds amprolium, which helps protect against coccidiosis. If you don't know, ask. It's a simple question.
 
 I've used Purina Flock Raiser or their Medicated Chick Starter most consistently. Reliable, available at Tractor Supply, and the nutrition profile is solid. Some people swear by organic or non-GMO feeds, and those are fine choices if you want them, but don't let anyone convince you that conventional chick starter is going to harm your birds. It won't.
 
 Water is where I see more mistakes than anywhere else.
 
-Baby chicks will drown in a standard waterer if the trough is too deep. They'll also soil their water within about four minutes of it being cleaned, and wet litter leads to pasty butt, respiratory issues, and coccidiosis pressure. For the first two weeks, use a one-quart mason jar waterer (the kind with the red base) and put clean marbles or pebbles in the trough. Seriously, it works. The chicks can still drink but can't fall in.
+Baby chicks will drown in a standard waterer if the trough is too deep. They'll also soil their water within about four minutes of it being cleaned, and wet litter leads to [pasty butt](/pasty-butt-in-chicks/), respiratory issues, and coccidiosis pressure. For the first two weeks, use a one-quart mason jar waterer (the kind with the red base) and put clean marbles or pebbles in the trough. Seriously, it works. The chicks can still drink but can't fall in.
 
 For the longer term, a nipple waterer keeps litter dramatically drier. [Horizontal chicken nipple waterers on Amazon](https://www.amazon.com/s?k=horizontal+chicken+nipple+waterers) are inexpensive, about $10 for a pack of 10, and you can drill them into the bottom of a PVC pipe or a bucket. Chicks typically figure out horizontal nipples by day two or three.
 
@@ -65,7 +73,7 @@ Check for pasty butt twice daily for the first week. This is when poop dries and
 
 ## Brooder to Coop: Getting the Timing Right
 
-People ask me all the time when chicks can go outside, and the answer is genuinely "it depends." Here's my working rule: fully feathered (no more fluffy down showing, real feathers covering the body) and nighttime temps above 50°F consistently. For most breeds, that's around six to eight weeks. Cold-hardy breeds like Plymouth Rocks or Wyandottes transition more easily than Mediterranean breeds like Leghorns or Anconas, which handle cold less gracefully.
+People ask me all the time [when chicks can go outside](/when-can-chicks-go-outside/), and the answer is genuinely "it depends." Here's my working rule: fully feathered (no more fluffy down showing, real feathers covering the body) and nighttime temps above 50°F consistently. For most breeds, that's around six to eight weeks. Cold-hardy breeds like Plymouth Rocks or Wyandottes transition more easily than Mediterranean breeds like Leghorns or Anconas, which handle cold less gracefully.
 
 Don't just open the door and shove them out. Move the brooder or a heat source into the coop for a few days if temperatures are iffy. Let them get used to the space before they're expected to regulate their own temperature in it. And if you're integrating into a flock with existing adult hens, that's a whole separate conversation with its own set of landmines. Short version: wait until the chicks are close to adult size before direct contact, and expect pecking order drama for two to three weeks.
 

@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-
+lastmod: 2026-07-07
 ---
 A hen refusing her nesting box isn't being stubborn. She's telling you something's broken. Maybe the box is too small, too bright, lacks privacy, or sits in the wrong spot, chickens have weirdly specific demands about where they'll lay. Fix this problem and you'll collect clean eggs from the same spots every morning. Mess it up and you're hunting eggs in corners, under feeders, and places you'd rather forget exist.
 
@@ -47,6 +47,13 @@ Height placement gets overlooked by beginners constantly. Mount boxes 18 to 24 i
 
 ## Materials, Bedding, and What Actually Stays Clean
 
+| Bedding Type | Absorbency | Cost | Replacement Frequency | Best For |
+| --- | --- | --- | --- | --- |
+| Pine shavings | High | Low | Frequent | Budget-conscious keepers |
+| Straw | Medium | Low | Regular | Hens that like arranging |
+| Hemp bedding | Very High | Higher | Infrequent | Long-lasting, mold-resistant |
+| Nesting box pads | High | Medium | Very quick swap | Minimal mess, cleanliness |
+
 Wood is the standard for DIY nesting boxes and works well when built right. Untreated pine or plywood does the job. Skip pressure-treated lumber, chemicals get absorbed by eggs over time. The problem with wood is it's porous and harbors mites, especially red mites that hide in cracks during the day and feed on hens at night.
 
 Metal and plastic boxes are cleaner, easier to maintain, and don't hide mites the same way. Roll-out nesting boxes let eggs gently slide to a collection tray after being laid. They cost more upfront but genuinely cut down on breakage and egg eating. Worth it if you're done hunting for eggs.
@@ -68,9 +75,9 @@ Hens want to feel hidden when they lay. It's instinct from wild ancestors who ha
 
 Put boxes on the darker, quieter coop wall. Adding a curtain, even just burlap or canvas strips, across the box front makes a huge difference. You'd be shocked how quickly hens start using a box once they have that tiny bit of cover.
 
-Boxes should be reachable from inside the coop but ideally have an external egg collection door you can open from outside. Reaching into a crowded coop every morning isn't pleasant, and an outside door keeps things clean and faster.
+Boxes should be reachable from inside the coop but ideally have an [external egg collection door](/how-to-build-a-chicken-coop/) you can open from outside. Reaching into a crowded coop every morning isn't pleasant, and an outside door keeps things clean and faster.
 
-Don't place boxes near the main door where winter drafts cut through, or directly under windows where summer sun floods in. Keep them away from the waterer. Water splashing plus bedding equals mold and ruined eggs.
+Don't place boxes near the main door where winter drafts cut through, or directly under windows where summer sun floods in. Keep them away from the waterer. Water splashing plus bedding equals [mold and ruined eggs](/chicken-coop-smell-control/).
 
 ## Step-by-Step: Setting Up Nesting Boxes the Right Way
 

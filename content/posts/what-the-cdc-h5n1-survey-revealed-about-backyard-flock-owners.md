@@ -12,6 +12,7 @@ author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 slug: "what-the-cdc-h5n1-survey-revealed-about-backyard-flock-owners"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 If you're keeping backyard chickens right now, you might be wondering whether H5N1 is something you actually need to worry about or just another thing the news is blowing out of proportion. I get it. Every few years there's a new headline about bird flu, and most of the time your flock is fine. But a CDC survey published in the *Morbidity and Mortality Weekly Report* in May 2026 stopped me cold, because the data shows something specific and uncomfortable: the majority of backyard flock owners don't know what they're looking for, at a moment when not knowing has already cost people their lives.
 
@@ -28,6 +29,14 @@ The problem is that some of these symptoms overlap with other diseases: Marek's,
 If you see multiple birds going down with neurological signs and high mortality in a short window, stop handling the birds without protection and contact your state veterinarian's office immediately. That's not overreacting. That's the protocol.
 
 ## The Wild Bird Problem Nobody Wants to Deal With
+
+| Finding | Percentage | Implication |
+| --- | --- | --- |
+| Backyard flock owners who could correctly identify all H5N1 signs | 32% | Majority lack critical identification skills |
+| Owners unaware of H5N1 signs | 13% | Knowledge gap extends to complete lack of awareness |
+| Flocks with wild bird access to food or water | 54% | Over half exposed to primary H5N1 reservoir |
+| Flock owners with no avian veterinarian | 71% | Diagnostic and advisory resources severely limited |
+| Households with at-risk members (age, pregnancy, immunocompromised) | 58% | Majority face elevated personal health risk |
 
 The survey found that 54% of backyard flock owners reported that wild birds could access their flock's food or water. That number should be a wake-up call, because wild waterfowl, particularly migratory ducks and geese, are the primary reservoir for H5N1. As CIDRAP reported in May 2026, this knowledge gap around exposure risk is one of the most actionable findings in the entire study.
 

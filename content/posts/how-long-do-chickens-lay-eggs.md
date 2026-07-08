@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
 A hen that laid an egg every single day for her first two years can suddenly drop to just a handful of eggs per month, and many backyard flock owners are completely blindsided when it happens. Understanding *why* that shift occurs, and how long you can realistically expect your hens to produce, saves you from frustration, helps you plan your flock rotation, and honestly makes you a better chicken keeper overall.
 
@@ -51,10 +51,10 @@ If you're choosing breeds with longevity in mind, check out our guide to the [be
 
 The drop-off isn't random. Several specific factors trigger reduced production or cause it to stop altogether.
 
-**Molting**
+**[Molting](/molting-chickens-egg-production/)**
 Every fall, hens go through a molt: they shed their old feathers and grow new ones. The process takes 8 to 16 weeks, and during that time most hens stop laying entirely. The body redirects protein from egg production to feather regrowth. Once the molt is done and day length stabilizes, laying resumes.
 
-**Shortened Daylight**
+**[Shortened Daylight](/adding-light-for-winter-egg-production/)**
 Hens need 14 to 16 hours of light per day to maintain peak laying. As days shorten in fall and winter, the pineal gland registers fewer light hours and signals the reproductive system to slow down. This is why production tanks in November and picks back up in February or March, often with no other changes to management. Many keepers add a simple 40-watt bulb on a timer in the coop to maintain artificial day length through winter.
 
 **Age and Depleted Follicles**
@@ -70,6 +70,16 @@ A hen producing an egg every day or two needs substantial calcium (for the shell
 Reproductive infections, egg yolk peritonitis, lice, mites, and internal parasites all affect production. If your hens' decline is sudden and accompanied by other symptoms, a vet check is worth the time.
 
 ## Breed Makes a Bigger Difference Than Most People Realize
+
+| Breed | Year 1 Avg (eggs/yr) | Year 3 Avg (eggs/yr) | Productive Years |
+|---|---|---|---|
+| Leghorn | 280-300 | 160-190 | 3-4 years |
+| ISA Brown / Golden Comet | 300-320 | 120-150 | 2-3 years |
+| Rhode Island Red | 250-270 | 160-180 | 4-5 years |
+| Plymouth Rock | 200-220 | 140-160 | 5-6 years |
+| Australorp | 240-260 | 150-170 | 4-5 years |
+| Sussex | 180-220 | 130-150 | 5-6 years |
+| Silkie | 80-120 | 60-90 | 4-5 years |
 
 Not all hens are built the same. Production breeds like Leghorns, Golden Comets, and ISA Browns are engineered for maximum output and will outlay almost any heritage breed in years one and two. But that intensity comes at a cost: they tend to age out of productive laying faster.
 

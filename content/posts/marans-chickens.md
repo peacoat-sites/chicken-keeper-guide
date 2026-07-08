@@ -23,6 +23,7 @@ faqs:
    a: "Plan for 3-4 eggs per week, or roughly 150-200 per year. They slow down significantly in winter without supplemental lighting, and production typically tapers after year two, faster than high-production hybrid breeds."
  - q: "Can Marans chickens free-range?"
    a: "Yes, and they genuinely thrive with access to pasture. They're not particularly flighty, which makes them easier to manage in an open range setup than some lighter breeds. Just be aware they're a heavier bird that predators notice, so solid perimeter fencing or a guardian animal is worth the investment."
+lastmod: 2026-07-07
 ---
 
 Those eggs will change you. I don't mean that in some overwrought way. I mean you'll crack your first dark Marans egg into a bowl next to a store-bought egg and genuinely pause. The yolk is richer, the shell is the color of bittersweet chocolate, and you'll understand immediately why people build entire flocks around this one breed.
@@ -39,9 +40,16 @@ Here's the part that surprises people: the color fades over a laying cycle. A he
 
 You might be wondering whether the eggs taste different. The shell color has no effect on flavor whatsoever. What does matter is feed quality and yolk pigmentation from foraging, which is true of any breed. A pasture-raised Marans egg from a hen eating bugs and grass tastes exceptional. A Marans egg from a hen eating cheap filler feed and standing on concrete will taste exactly like a mediocre store egg.
 
-A quick reality check on production: Marans are not high-output layers. Expect 150-200 eggs per year on average, roughly 3-4 per week. Compare that to a Leghorn or a Golden Comet at 280-300 per year. If volume is your priority, Marans are the wrong choice. If you want a dual-purpose bird that lays stunning eggs and also puts some weight on the table, they earn their keep.
+A quick reality check on production: Marans are not high-output layers. Expect 150-200 eggs per year on average, roughly 3-4 per week. Compare that to a Leghorn or a Golden Comet at 280-300 per year. If volume is your priority, Marans are the wrong choice. If you want a [dual-purpose bird](/dual-purpose-chicken-breeds/) that lays stunning eggs and also puts some weight on the table, they earn their keep.
 
 ## Breed Varieties: Which One Should You Actually Get?
+
+| Variety | Egg Color (Scale 1-9) | Annual Production | Cold Tolerance | Availability |
+| --- | --- | --- | --- | --- |
+| Black Copper Marans | 5-8 | 150-200 | Moderate | Common (U.S.) |
+| Cuckoo Marans | 4-5 | 150-200+ | Good | Most common overall |
+| Wheaten Marans | 5-7 | 150-200 | Moderate | Rare (U.S.) |
+| Blue Copper Marans | 5-7 | 150-200 | Moderate | Rare (U.S.) |
 
 This is where I see people get confused, because Marans come in several varieties and they are genuinely different birds in temperament, availability, and egg color.
 

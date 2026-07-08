@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-
+lastmod: 2026-07-07
 ---
 You walk out to the coop on a Tuesday morning, toss in the scratch, and one of your hens just... stands there. Doesn't run for the feed. Doesn't jockey for position like usual. She's puffed up, tail down, and when you pick her up she feels lighter than she should. Most new chicken keepers see that and think "she's probably just tired." I'll be honest: that hen might be 24 to 48 hours from dying. Chickens are prey animals. They hide illness aggressively, hardwired by evolution to avoid looking weak. By the time a chicken *looks* sick to an untrained eye, she's often been sick for days.
 
@@ -37,6 +37,20 @@ So build a baseline. Know what your individual birds look like when they're heal
 
 ## The Core Symptoms to Know, and What They Actually Mean
 
+| Symptom | Possible Causes | Urgency |
+| --- | --- | --- |
+| Puffed feathers, tail down | Infection, heat loss response | Monitor closely |
+| Pale or discolored comb | Anemia, dehydration, internal illness | High |
+| Purple or blue-tinged comb | Respiratory emergency | Immediate |
+| Labored breathing, rattling sounds | Mycoplasma, Infectious Bronchitis, Newcastle Disease, Aspergillosis, gapeworm | High |
+| Thick yellow discharge from eyes/nostrils | Bacterial or viral respiratory disease | High |
+| Full, hard crop (morning) | Impacted crop | High |
+| Large, squishy, sour-smelling crop | Sour crop (yeast overgrowth) | High |
+| Yellow-green droppings with lethargy | Liver disease, Marek's Disease | High |
+| Bloody droppings (birds under 12 weeks) | Coccidiosis | Immediate |
+| Leg paralysis, twisted neck | Marek's Disease, Newcastle Disease, nutritional deficiency | High |
+| Straining without egg production | Egg-bound | Immediate |
+
 Not all symptoms point to the same problem. Misreading them can cost you a bird. Here's what you're likely to see and what it actually means:
 
 **Puffed feathers with tail down:** This is the classic sick chicken posture. The bird is cold or trying to conserve heat, which is what a sick bird does when her body is fighting something. It's nonspecific, but always a red flag.
@@ -45,13 +59,13 @@ Not all symptoms point to the same problem. Misreading them can cost you a bird.
 
 **Pale or discolored comb:** A healthy laying hen has a bright red, plump comb. Pale pink or shrunken means anemia (often from lice or mites), dehydration, or serious internal illness. Purple or blue-tinged is a respiratory emergency. Separate that bird now.
 
-**Labored breathing, open-mouth breathing, rattling sounds:** These point to respiratory infection, and the list is long: Mycoplasma gallisepticum, Infectious Bronchitis, Newcastle Disease, Aspergillosis (from moldy bedding), or gapeworm. Don't assume it's minor.
+**Labored breathing, open-mouth breathing, rattling sounds:** These point to respiratory infection, and the list is long: Mycoplasma gallisepticum, Infectious Bronchitis, [Newcastle Disease](/newcastle-disease-chickens/), Aspergillosis (from moldy bedding), or gapeworm. Don't assume it's minor.
 
 **Discharge from eyes or nostrils:** Watery eyes alone can be dust irritation. Thick, foamy, or yellow discharge alongside respiratory sounds is almost certainly bacterial or viral respiratory disease.
 
 **Crop issues:** A full, hard crop in the morning (before eating) is impacted crop. A large, squishy, sour-smelling crop is sour crop, a yeast overgrowth. Both need treatment. Neither fixes itself.
 
-**Diarrhea or abnormal droppings:** Cecal droppings (dark brown, smelly, almost liquid) are normal. Watery, yellow-green, or bloody droppings are not. Yellow-green droppings with lethargy often indicate liver disease or Marek's Disease. Bloody droppings in birds under 12 weeks should trigger immediate coccidiosis treatment.
+**Diarrhea or abnormal droppings:** Cecal droppings (dark brown, smelly, almost liquid) are normal. Watery, yellow-green, or bloody droppings are not. Yellow-green droppings with lethargy often indicate liver disease or [Marek's Disease](/mareks-disease-chickens/). Bloody droppings in birds under 12 weeks should trigger immediate coccidiosis treatment.
 
 **Limping, twisted neck, or neurological symptoms:** Marek's Disease causes leg paralysis and is devastating in backyard flocks. Twisted neck (torticollis) can mean Newcastle Disease, vitamin E or selenium deficiency, or a head injury. A vet visit is the right call here.
 

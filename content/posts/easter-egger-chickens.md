@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
 The first time I candled an egg from my Easter Egger pullet Juniper, I genuinely couldn't tell if I was looking at a blue egg or a green one. She'd laid something that split the difference so perfectly it looked teal under natural light, aqua under the kitchen fluorescent, and almost sage in the henhouse. That moment captures everything I love and everything that drives beginners slightly crazy about Easter Eggers: they're wonderfully unpredictable, endlessly variable, and somehow exactly what most backyard flocks need.
 
@@ -39,13 +39,20 @@ The genetics work like this: the *Oocyan* gene, when paired with the gene for br
 
 Easter Eggers are, in my experience, one of the friendliest and most curious breeds you can keep. I've raised about 40 of them over the years across multiple flocks, and the pattern holds: they're bold without being aggressive, inquisitive without being flighty, and they integrate into mixed flocks better than most.
 
-They tend to sit somewhere in the middle of the pecking order. Rarely the bully, rarely the bottom. My current flock includes two Easter Eggers living alongside Rhode Island Reds, Barred Rocks, and a bossy Silver Laced Wyandotte named Margaret, and the Easter Eggers hold their own without causing drama.
+They tend to sit somewhere in the middle of the pecking order. Rarely the bully, rarely the bottom. My current flock includes two Easter Eggers living alongside [Rhode Island Reds, Barred Rocks](/barred-rock-chickens/), and a bossy Silver Laced Wyandotte named Margaret, and the Easter Eggers hold their own without causing drama.
 
 Where they really shine is with people. Juniper would follow me to the compost pile every single morning. Many Easter Eggers become genuinely tame with even modest handling as chicks. If you have kids, or if you're building a flock that doubles as something you actually want to enjoy, Easter Eggers fit the bill naturally.
 
 One honest caveat: they can be louder than you'd expect for their size. Not Leghorn-loud, but certainly vocal. If you're in a suburban situation with neighbors twenty feet away, keep that in mind.
 
 ## Egg Production: The Real Numbers
+
+| Metric | Easter Egger | Australorp | Plymouth Rock |
+| --- | --- | --- | --- |
+| Eggs per year | 200-280 | ~200-280 | ~200-280 |
+| Egg size | Medium to large | Medium to large | Medium to large |
+| Laying start age | 20-24 weeks | 18-24 weeks | 18-24 weeks |
+| Year 2+ production | ~150-170/year (year 4) | ~150-170/year | ~150-170/year |
 
 Here's where Easter Eggers earn their keep. A healthy Easter Egger pullet will typically start laying at 20 to 24 weeks, sometimes a bit later. Once they're in full production, expect roughly 200 to 280 eggs per year depending on the individual bird, feed quality, and lighting conditions. That puts them in the same tier as Australorps and Plymouth Rocks, which is impressive for a bird most people choose for novelty.
 

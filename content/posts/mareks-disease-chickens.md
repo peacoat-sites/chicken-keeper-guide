@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-
+lastmod: 2026-07-07
 ---
 You buy six pullets from a local farm. They're healthy, active, eating well. Three months later, one of them can't stand up. Her legs are splayed, she's losing weight, and her eye looks gray and misshapen. You call the farm. They say it's probably "just a vitamin deficiency." It isn't. It's Marek's disease, and by the time that first bird goes down, the virus has likely been circulating through your flock for weeks.
 
@@ -86,10 +86,10 @@ Marek's typically hits birds between 6 weeks and 30 weeks of age. It can show up
 The differential diagnosis matters. Marek's gets confused with:
 
 - **Vitamin E/selenium deficiency (encephalomalacia):** Similar paralysis but tends to affect the neck and head more, and responds to vitamin supplementation. Marek's does not.
-- **Newcastle disease:** Causes neurological signs but also involves respiratory symptoms and rapid flock-wide spread.
+- **[Newcastle disease](/newcastle-disease-chickens/):** Causes neurological signs but also involves respiratory symptoms and rapid flock-wide spread.
 - **Lymphoid leukosis:** Also a tumor-causing virus but occurs in older birds, usually over 16 weeks, and doesn't cause peripheral nerve damage.
 
-A state veterinary diagnostic lab can confirm Marek's through necropsy. If you lose a bird and you're not sure why, sending the body to your state lab is often free or low-cost and gives you a definitive answer. That information protects your whole flock going forward.
+A [state veterinary diagnostic lab](/vet-care-for-chickens/) can confirm Marek's through necropsy. If you lose a bird and you're not sure why, sending the body to your state lab is often free or low-cost and gives you a definitive answer. That information protects your whole flock going forward.
 
 ---
 

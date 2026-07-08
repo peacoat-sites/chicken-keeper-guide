@@ -23,11 +23,12 @@ faqs:
     a: "Some can be, especially hatchery-sourced birds. Heritage lines with deliberate temperament selection tend to produce calmer roosters. Socialization from a young age (handling regularly as chicks) makes a measurable difference. A rooster that's handled daily as a young bird is rarely a problem adult."
   - q: "Do Barred Rocks go broody?"
     a: "Occasionally, but they're not known as strong brooders. Production-line birds rarely go broody at all. If you want a hen who'll reliably hatch and raise chicks, look at Cochins or Silkies. A Barred Rock broody is a pleasant surprise, not something to count on."
+lastmod: 2026-07-07
 ---
 
 Barred Rocks are the chicken that converted me. I was a skeptical new keeper in 2015, convinced I wanted something exotic, something with personality and flair. A neighbor handed me three Barred Rock pullets almost apologetically, like she was giving me the basic option. Those three birds outlaid, outperformed, and outlasted every "interesting" breed I brought in over the next four years. So yes, I'm biased. But I'm biased because the data earned it.
 
-You might be wondering if Barred Rocks are just the vanilla choice, the safe pick for beginners who don't know better. Here's what I tell people: vanilla is underrated, and so are Barred Rocks. They're one of the most thoroughly road-tested dual-purpose breeds in North America, and if you're building a flock that actually produces, they belong in the conversation.
+You might be wondering if Barred Rocks are just the vanilla choice, the safe pick for beginners who don't know better. Here's what I tell people: vanilla is underrated, and so are Barred Rocks. They're one of the most thoroughly road-tested [dual-purpose breeds](/dual-purpose-chicken-breeds/) in North America, and if you're building a flock that actually produces, they belong in the conversation.
 
 ---
 
@@ -43,7 +44,18 @@ Temperament is where I need to be honest with you, because there's a wide spectr
 
 ## Egg Production: The Real Numbers
 
-Here's something that surprises people. Barred Rocks from a quality line will lay 4 to 5 large brown eggs per week during their prime, which works out to roughly 200 to 280 eggs per year. That's competitive with production breeds. They don't match a White Leghorn for sheer volume (those birds can hit 300+), but they do it while being twice as calm and, honestly, way more pleasant to keep.
+| Metric | Barred Rock | Easter Egger | White Leghorn |
+| --- | --- | --- | --- |
+| Eggs per week (peak) | 4-5 | ~3-4 | 5-6+ |
+| Eggs per year (peak) | 200-280 | ~150-200 | 300+ |
+| Hen weight | 6.5-7.5 lbs | 5-6 lbs | 4-5 lbs |
+| Rooster weight | 9+ lbs | 6-7 lbs | 5-6 lbs |
+| Feed per bird per day | 0.35-0.4 lbs | ~0.25 lbs | ~0.2 lbs |
+| Dressed cockerel weight (16-20 weeks) | 4-5.5 lbs | 2.5-3.5 lbs | 2-3 lbs |
+| Peak production window | Months 5-24 | Months 5-20 | Months 5-18 |
+| Cold tolerance | Excellent | Moderate | Moderate |
+
+Here's something that surprises people. Barred Rocks from a quality line will lay 4 to 5 large brown eggs per week during their prime, which works out to roughly 200 to 280 eggs per year. That's competitive with production breeds. They don't match a [White Leghorn](/best-egg-laying-chickens/) for sheer volume (those birds can hit 300+), but they do it while being twice as calm and, honestly, way more pleasant to keep.
 
 The peak production window is roughly months 5 through 24 of life. After that, you'll see a gradual taper, but many keepers report solid production through year three or four. My oldest Barred Rock hen (I called her Gravel) laid consistently through her third full laying season before slowing down, which I wasn't expecting.
 
@@ -55,7 +67,7 @@ One practical note: Barred Rocks are dual-purpose birds, meaning cockerels have 
 
 A standard 16% layer pellet works fine once your hens are in production. Before that, keep them on a chick starter (18 to 20% protein) through week 16 or so, then transition. I use Purina Layena or Nutrena Naturewise depending on what's priced better locally, and I haven't noticed a meaningful difference in production between the two. Oyster shell on the side, always. Free choice, separate container. Don't skip this.
 
-The thing nobody warns you about with Barred Rocks: they eat. A lot. These are big birds with big appetites, and if you're calculating feed costs based on Leghorn data, you'll be surprised. A flock of 6 Barred Rock hens will go through feed noticeably faster than 6 production-breed hens. I've tracked it: my BR hens average about 0.35 to 0.4 pounds of feed per day per bird, compared to roughly 0.25 pounds for my Easter Eggers. Over a month, for six birds, that's roughly an extra 9 pounds of feed. Not a budget-breaker, but real.
+The thing nobody warns you about with Barred Rocks: they eat. A lot. These are big birds with big appetites, and if you're calculating feed costs based on Leghorn data, you'll be surprised. A flock of 6 Barred Rock hens will go through feed noticeably faster than 6 production-breed hens. I've tracked it: my BR hens average about 0.35 to 0.4 pounds of feed per day per bird, compared to roughly 0.25 pounds for my [Easter Eggers](/easter-egger-chickens/). Over a month, for six birds, that's roughly an extra 9 pounds of feed. Not a budget-breaker, but real.
 
 They're also prone to getting chunky if they free-range less and the feed is always full. A fat hen is a poor layer. If your birds start looking like they're waddling, pull back on treats and make sure they have space to move.
 

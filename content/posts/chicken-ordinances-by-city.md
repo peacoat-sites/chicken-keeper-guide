@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-
+lastmod: 2026-07-07
 ---
 You've found the perfect property. Decent yard, good sun exposure on the south side, neighbors far enough away that a rooster wouldn't be a diplomatic incident. You order six Rhode Island Red pullets, spend a weekend building a solid 4x8 coop, and then three weeks later a city code enforcement officer is standing at your gate. Turns out your municipality allows four hens maximum, no roosters, and your coop has to sit at least 25 feet from any residential structure. You're currently at 12 feet. This scenario plays out constantly. Almost always 100% preventable.
 
@@ -44,7 +44,7 @@ Try this:
 1. Google "[city name] municipal code chickens" and "[city name] chicken ordinance 2024"
 2. Check your city or county's official .gov website directly, not third-party summaries
 3. Call your city's planning or zoning department, not animal control (they enforce rules, don't write them)
-4. Ask specifically: "What is the maximum number of hens permitted on a residential lot? Are roosters allowed? What are the setback requirements for poultry structures?"
+4. Ask specifically: "What is the [maximum number of hens permitted](/how-many-chickens-can-i-have/) on a residential lot? Are roosters allowed? What are the setback requirements for poultry structures?"
 5. Request the specific code section number in writing, via email if possible
 
 That last step matters more than people realize. If a code officer ever shows up, you want documentation that you asked the question and received an official answer. "Someone on the phone told me" protects absolutely nobody.
@@ -52,6 +52,15 @@ That last step matters more than people realize. If a code officer ever shows up
 A few cities worth knowing as reference points: Los Angeles allows up to 10 hens per residential lot with no permit required and a 35-foot setback from neighboring dwellings. Seattle allows up to 8 hens, no roosters, no permit needed. Denver allows up to 8 hens with a $25 annual permit. New York City allows hens (no number cap specified) but prohibits roosters under its health code. Austin allows unlimited hens on lots over 10,000 square feet, with restrictions on smaller lots. Chicago allows up to 50 hens with a permit in residential zones.
 
 ## The Variables That Actually Matter in Your Ordinance
+
+| City | Hen Limit | Roosters | Permit Required | Setback |
+| --- | --- | --- | --- | --- |
+| Los Angeles | 10 | No | No | 35 feet |
+| Seattle | 8 | No | No | Not specified |
+| Denver | 8 | Not specified | Yes ($25/year) | Not specified |
+| New York City | No cap | No | Not specified | Not specified |
+| Austin | Unlimited (10k+ sq ft lots) | Not specified | Not specified | Varies by lot size |
+| Chicago | 50 | Not specified | Yes | Not specified |
 
 When you pull up your municipal code, here's what you're actually looking for. Not all ordinances address every item, and gaps can work in your favor or create ambiguity that gets resolved against you.
 

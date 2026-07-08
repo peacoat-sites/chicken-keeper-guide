@@ -23,6 +23,7 @@ faqs:
    a: "Not necessarily. Wry neck (torticollis) has several causes in backyard chickens: vitamin E and selenium deficiency, head trauma, Marek's disease, and inner ear infections. Velogenic Newcastle would almost always include other signs (respiratory distress, sudden deaths in other birds) alongside the twisted neck. That said, get a vet involved quickly rather than guessing."
  - q: "What's the difference between Newcastle disease and infectious bronchitis?"
    a: "Both cause respiratory signs in chickens and can cause egg production drops. Infectious bronchitis is a coronavirus (IBV) and tends to affect egg quality significantly (wrinkled shells, watery albumin) without the neurological signs that typify velogenic Newcastle. Lab testing is the only reliable way to tell them apart definitively."
+lastmod: 2026-07-07
 ---
 
 Most backyard flock owners have never seen a case of Newcastle disease in person. I hadn't either, for the first six years I kept chickens. Then a neighbor two miles down the road lost 40 birds in eight days, and I spent a very anxious week watching my hens for symptoms I'd only read about. That experience changed how seriously I take biosecurity.
@@ -33,9 +34,15 @@ If you're reading this because you're worried about your flock right now, or bec
 
 ## What Newcastle Disease Actually Is
 
+| Newcastle Strain | Severity | Mortality Rate | Typical Signs | U.S. Status |
+| --- | --- | --- | --- | --- |
+| Lentogenic | Mild | Low | Mild sneezing, drop in production, or asymptomatic | Common; used in vaccines |
+| Mesogenic | Moderate | Moderate | Respiratory illness | Rare in U.S. |
+| Velogenic | Severe | Very high (can be 100% in 72 hours) | Sudden death, respiratory distress, neurological signs, egg production collapse | Rare; federal emergency |
+
 Newcastle disease is a viral respiratory and neurological illness caused by a paramyxovirus. Specifically, virulent strains of avian paramyxovirus serotype 1 (APMV-1). The name comes from Newcastle-upon-Tyne in England, where a 1926 outbreak was first described in the scientific literature.
 
-Here's the part that catches people off guard: not all Newcastle disease is the same. There are lentogenic strains (mild, often nearly asymptomatic), mesogenic strains (moderate respiratory illness), and velogenic strains (the catastrophic kind that can kill an entire flock in 72 hours). The velogenic form is what the USDA classifies as "virulent Newcastle disease" and what triggers federal quarantine protocols. The lentogenic strains? Widely used in live attenuated vaccines given to commercial broilers and layers every day across the country.
+Here's the part that catches people off guard: not all Newcastle disease is the same. There are lentogenic strains (mild, often nearly asymptomatic), mesogenic strains (moderate [respiratory illness](/respiratory-illness-chickens/)), and velogenic strains (the catastrophic kind that can kill an entire flock in 72 hours). The velogenic form is what the USDA classifies as "virulent Newcastle disease" and what triggers federal quarantine protocols. The lentogenic strains? Widely used in live attenuated vaccines given to commercial broilers and layers every day across the country.
 
 You might be wondering why you've heard the name and felt alarmed, but haven't heard of it killing local backyard flocks every spring. Lentogenic strains are genuinely common and mostly harmless. Velogenic strains are rare in the U.S. and treated as an agricultural emergency when they appear.
 
@@ -56,7 +63,7 @@ The symptoms vary significantly depending on the strain and the individual bird'
 
 Mild lentogenic infections might show only mild sneezing, a drop in production, or nothing visible at all. The bird recovers. You never know it happened.
 
-The neurological signs (twisting neck, circling, falling over) are among the most distinctive features of velogenic Newcastle and help distinguish it from Marek's disease, which also causes neurological symptoms. Marek's tends to cause leg paralysis in younger birds and progresses over weeks. Newcastle can disable a bird neurologically in days, often with concurrent respiratory signs.
+The neurological signs (twisting neck, circling, falling over) are among the most distinctive features of velogenic Newcastle and help distinguish it from [Marek's disease](/mareks-disease-chickens/), which also causes neurological symptoms. Marek's tends to cause leg paralysis in younger birds and progresses over weeks. Newcastle can disable a bird neurologically in days, often with concurrent respiratory signs.
 
 A backyard keeper in rural Georgia told me last year that she noticed her rooster holding his head sideways and assumed he'd gotten hurt sparring. By the time she called a vet two days later, three hens were dead. The twist: her flock tested negative for virulent Newcastle. It was Marek's. Which is exactly why you do not self-diagnose this.
 

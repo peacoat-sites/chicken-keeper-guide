@@ -23,6 +23,7 @@ faqs:
     a: "Predation accounts for a huge portion of backyard chicken deaths, particularly from foxes, raccoons, hawks, and neighbor dogs. Among birds who do reach old age, reproductive cancers and disorders are the leading cause of death in hens. Respiratory disease (often Mycoplasma-related) is also a significant cause in older birds."
   - q: "Is it worth taking an old chicken to the vet?"
     a: "That's a personal and financial call, but I'd say: yes, at least once, especially if you're not sure what's happening. A good avian vet can diagnose things you'd never identify on your own, and that information helps you make better decisions for the bird in front of you and your future flock. Expect to pay $50 to $150 for an avian vet visit depending on your area; it's not cheap, but a necropsy on a bird you've lost can be genuinely valuable if you have other hens at risk."
+lastmod: 2026-07-07
 ---
 
 My first flock of Black Australorps came from a local feed store in the spring of 2016, and I fully expected them to lay well for two or three years and then quietly retire. What I didn't expect was that one of those hens, a bird I called Marjorie, would still be following me around the yard a full decade later, completely egg-free since 2021 and absolutely unbothered about it.
@@ -35,6 +36,12 @@ Here's what I've learned over ten years of keeping birds through full lifespans,
 
 
 ## What Actually Determines How Long Your Chicken Lives
+
+| Breed Type | Typical Laying Years | Total Lifespan | Key Notes |
+| --- | --- | --- | --- |
+| Production Hybrids (ISA Brown, Golden Comet, Sex-links) | 1-3 years | 3-4 years | High early output (300+ eggs/year); prone to reproductive cancers and decline |
+| Heritage Breeds (Australorp, Dominique, Wyandotte, Buckeye, Java, Barred Rock) | 3-4 years | 6-12 years | Lower annual output; longer productive window; can live many years post-laying |
+| Roosters (Heritage) | N/A (non-laying) | 8-12 years | Often outlive hens; not subject to reproductive cycling stress |
 
 Genetics is the single biggest factor, and it's the one most backyard keepers underestimate. Production breeds like the ISA Brown, Golden Comet, or any "sex-link" hybrid are engineered for maximum egg output early in life. They can lay 300+ eggs in their first year. The biological cost of that output is real: their reproductive systems are under stress in a way that heritage breeds simply aren't, and they're significantly more prone to reproductive cancers, internal laying, and egg yolk peritonitis as they age. I've watched ISA Browns decline sharply around year three or four. Not all of them, but enough that I've stopped expecting those birds to become old ladies.
 

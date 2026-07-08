@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
 Most hatchery descriptions of Golden Comets read like they were written by someone who has never actually owned one. "Friendly, prolific layers", sure, technically accurate, but that sells them either too hard or not hard enough depending on what you actually need from a flock. Let me give you the real picture.
 
@@ -37,6 +37,13 @@ The coloring runs from reddish-gold to a warm buff, usually with white or cream 
 
 ## Egg Production: The Real Numbers
 
+| Breed/Type | Eggs Per Year | Start Laying | Lifespan/Production Years | Best For |
+| --- | --- | --- | --- | --- |
+| Golden Comet | 250-320 | 16-18 weeks | 2-3 years peak | Maximum eggs, short term |
+| Heritage breeds (Dominique, Buckeye) | Lower | 20-24 weeks | 5-6+ years | Longevity, self-sufficiency |
+| Australorp | High | ~18 weeks | 5-6+ years | Long-term production |
+| Speckled Sussex | High | ~18 weeks | 5-6+ years | Long-term production |
+
 Here's what draws most people in. Golden Comets regularly hit 250 to 320 eggs per year in their first two laying seasons. I've tracked this myself. One hen in my first flock logged 304 eggs in her first full year, which I verified because I had a small flock and was keeping records. That's almost an egg a day.
 
 Large brown eggs, consistent size, and they start early. Expect first eggs around 16 to 18 weeks, a solid month or two ahead of heritage breeds. A Dominique or a Buckeye won't lay until week 20 to 24, sometimes later.
@@ -47,13 +54,13 @@ If you want chickens that lay well at age five or six, pick Australorps or Speck
 
 ## Temperament and Flock Dynamics
 
-They're genuinely gentle birds. Not in the "won't peck you" way of Silkies, which are docile almost to a fault, but in a relaxed, confident way that makes flock management easy. They don't tend toward the vicious pecking order enforcement you get with some production breeds. I've introduced them to mixed flocks and they hold their own without being the aggressors.
+They're genuinely gentle birds. Not in the "won't peck you" way of [Silkies](/silkie-chickens/), which are docile almost to a fault, but in a relaxed, confident way that makes flock management easy. They don't tend toward the vicious pecking order enforcement you get with some production breeds. I've introduced them to mixed flocks and they hold their own without being the aggressors.
 
-They go broody rarely, which you either want or you don't. If you're trying to hatch eggs naturally, keep one Buff Orpington in the flock for that job. Golden Comets aren't interested.
+They go broody rarely, which you either want or you don't. If you're trying to hatch eggs naturally, keep one [Buff Orpington](/orpington-chickens/) in the flock for that job. Golden Comets aren't interested.
 
 Some people find them almost too calm. A couple of my hens were so unbothered by my presence that they'd squat in the doorway of the coop and refuse to move when I was trying to close up at dusk. Not a real problem, just something worth knowing.
 
-They handle confinement reasonably well, better than most active foragers like Leghorns or Easter Eggers. A well-designed run won't stress them out. That said, they do love to free-range if you can let them, and hens that get outdoor time seem to have better overall health in my experience.
+They handle confinement reasonably well, better than most active foragers like Leghorns or [Easter Eggers](/easter-egger-chickens/). A well-designed run won't stress them out. That said, they do love to free-range if you can let them, and hens that get outdoor time seem to have better overall health in my experience.
 
 ## Feed, Health, and the Stuff No One Mentions
 

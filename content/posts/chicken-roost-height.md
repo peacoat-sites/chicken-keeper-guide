@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
 Most chicken-keeping guides tell you to put roosts "18 inches off the ground" and call it a day. That number isn't wrong exactly, but it's incomplete in ways that'll cost you: broken toes, bumblefoot, a flock that refuses to use the roosts you built, or hens sleeping in the nesting boxes and fouling every egg you collect. Roost height is more nuanced than the hatchery FAQs let on. The right answer depends on your breed, your coop layout, and how your birds actually move.
 
@@ -67,7 +67,7 @@ Height without horizontal placement is half the job.
 
 Roosts should be the highest point in the coop. If a wall shelf, a feeder hook, or a ledge above a window is taller than your roosts, a bird will sleep there instead. I found my Australorp pullets roosting on top of the feeder bracket for three weeks straight, directly above the feed. Not ideal.
 
-Keep at least 12 inches of horizontal space per bird. 15 inches is better for large breeds. Crowding on the roost is one of the underrated causes of vent pecking because the bird below is stuck right at eye level with the vent of the bird above. Miserable situation.
+Keep at least 12 inches of horizontal space per bird. 15 inches is better for large breeds. Crowding on the roost is one of the underrated causes of [vent pecking](/how-many-nesting-boxes-per-chicken/) because the bird below is stuck right at eye level with the vent of the bird above. Miserable situation.
 
 The roost should sit 12 to 18 inches away from the wall so birds can actually balance without pressing their tail feathers against wood. Tail damage and mite infestations in the feathers often trace straight back to roosts built too tight to the wall.
 

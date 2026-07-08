@@ -9,6 +9,7 @@ date: 2026-06-28
 featured_depth: true
 categories: ["Chicken Care", "Homesteading", "Breed Guide"]
 keywords: ["egg production by breed", "best laying chicken breeds", "chicken productivity", "annual eggs per breed"]
+lastmod: 2026-07-07
 ---
 
 Pick the wrong breed and you'll get 150 eggs/year. Pick the right one and you'll get 320.
@@ -23,16 +24,24 @@ This guide breaks down egg production by breed using USDA data, so you can match
 
 Most hens peak in year 1-2. After year 2-3, production declines ~8-10% annually. By year 5, most are producing 50-60% of their peak.
 
-**Strategy:** If you want consistent eggs, plan to replace 1/3 of your flock every 2-3 years. Or keep older hens for brooding/dual-purpose meat.
+**Strategy:** If you want consistent eggs, plan to replace 1/3 of your flock every 2-3 years. Or keep [older hens for brooding](/broody-hen-behavior/)/dual-purpose meat.
 
 ## Cold-Hardy Breeds (Northern Climates)
+
+| Breed | Annual Eggs | Cold-Hardy | Broody | Best For |
+| --- | --- | --- | --- | --- |
+| Leghorn | 320 | Yes | No | Maximum volume |
+| Rhode Island Red | 260 | Yes | Moderate | Reliable year-round |
+| Wyandotte | 240 | Yes | Moderate | Cold climates |
+| Orpington | - | - | Yes | Temperament |
+| Silkie | - | - | Yes | Broodiness/hatching |
 
 If you're in snow country, pick breeds that produce year-round:
 - Leghorn (320 eggs, but not broody)
 - Rhode Island Red (260 eggs, reliable)
 - Wyandotte (240 eggs, cold-hardy)
 
-These breeds won't shut down in winter the way Mediterranean breeds do.
+These breeds [won't shut down in winter](/adding-light-for-winter-egg-production/) the way Mediterranean breeds do.
 
 ## Sources
 

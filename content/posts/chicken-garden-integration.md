@@ -23,6 +23,7 @@ faqs:
    a: "Woody perennials with established root systems, lavender, rosemary, hardy herbs generally, can tolerate short supervised visits. Soft-stemmed perennials, hostas, strawberries in active growth, anything newly established, are not safe. The scratch damage to root zones is often worse than the visible leaf damage."
  - q: "Do I need a rooster for this to work?"
    a: "No. Hens scratch, forage, and fertilize without any rooster involvement. A rooster adds noise and, depending on your municipality, legal complications. For garden integration purposes, a small all-hen flock is simpler and just as effective."
+lastmod: 2026-07-07
 ---
 
 Most chicken-and-garden advice boils down to "let your hens roam free and watch the magic happen." That advice will cost you your tomatoes, your lettuce, your newly planted perennials, and probably a few things you forgot you even cared about until they were gone. I learned this the hard way in my second year of keeping chickens, when I let a small flock of Australorps into my vegetable beds for "supervised scratching" and came back inside to get coffee. Ten minutes. My entire row of Swiss chard was shredded.
@@ -33,13 +34,22 @@ Chickens and gardens can genuinely work together. The key is accepting that chic
 
 The mistake most people make is treating this as a spatial problem. They build a pen, they have a garden, and they try to figure out how much overlap is acceptable. That framing is wrong. The right way to think about it is temporal.
 
-Chickens do their best garden work before you plant and after you harvest. During those windows, they're assets. They scratch up compacted soil, eat weed seeds, hunt grubs and larvae, and deposit nitrogen-rich manure. While crops are actively growing, they're a liability. They'll eat seedlings, dust-bathe in your amended soil, and strip leaves off anything within reach.
+Chickens do their best garden work before you plant and after you harvest. During those windows, they're assets. They scratch up compacted soil, eat weed seeds, hunt grubs and larvae, and deposit [nitrogen-rich manure](/chicken-manure-fertilizer/). While crops are actively growing, they're a liability. They'll eat seedlings, dust-bathe in your amended soil, and strip leaves off anything within reach.
 
 Rotational grazing for chickens works exactly like it does for larger livestock: divide the space, rotate the animals through, give each section recovery time. In practice, this means you want movable infrastructure rather than permanent runs. A [chicken tractor](https://amzn.to/example) or a portable electric net fence (Premier 1 makes a reliable 164-foot poultry net that runs around $170) lets you park the flock on a section of garden bed before you plant, let them work it for a week or two, then move them out. By the time you're ready to transplant, that bed is scratched, fertilized, and cleared of a surprising percentage of surface-crawling pests.
 
 I run three main garden sections on a rough seasonal rotation with my six-hen flock of Dominiques. Spring prep: hens go into the previous year's squash bed in late March while it's still empty. They spend two weeks cleaning up overwintered debris and working in the last of my compost. I plant that bed by mid-April, and the hens are nowhere near it until fall.
 
 ## Choosing the right breeds actually matters here
+
+| Breed Type | Scratch Intensity | Calm Temperament | Garden Suitability | Pest Hunting | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Leghorns (Mediterranean) | Very High | Low | Poor | Excellent | Aggressive, work soil to bare dirt, may breach barriers |
+| Sussex (Dual-Purpose) | Moderate | High | Excellent | Good | Calm, forage well, reliable layers |
+| Plymouth Rocks (Dual-Purpose) | Moderate | High | Excellent | Good | Calm, easier to redirect, reliable layers |
+| Orpingtons (Dual-Purpose) | Moderate | High | Good | Good | Calmer than Mediterranean breeds, scratch less frantically |
+| Bantams | Moderate | Moderate | Fair | Poor | Small footprint but less effective at hunting larger grubs |
+| Australorps (Heavy Breed) | Low | High | Good | Good | Heavy, rarely fly, useful for grub suppression |
 
 Lighter Mediterranean breeds, Leghorns especially, are aggressive and relentless scratchers. They'll work a bed down to bare dirt in ways that heavier breeds won't. That's useful if you want deep soil disturbance. It's catastrophic if they get into a bed you care about.
 

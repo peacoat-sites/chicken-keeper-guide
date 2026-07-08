@@ -23,9 +23,9 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-
+lastmod: 2026-07-07
 ---
-You picked up a bag of feed at the farm store, tossed it in the car, and drove home feeling like you had this chicken thing figured out. Then you get home and the label says "Starter" but your hens are 22 weeks old and laying their first eggs. Does it actually matter? Yes. Feeding the wrong formula at the wrong life stage can mean soft-shelled eggs, bone problems, stunted pullets, or kidney damage in young chicks. This isn't marketing fluff. It's nutrition science that directly affects your flock's health and how many eggs you'll get.
+You picked up a bag of feed at the farm store, tossed it in the car, and drove home feeling like you had this chicken thing figured out. Then you get home and the label says "Starter" but your hens are 22 weeks old and laying their first eggs. Does it actually matter? Yes. Feeding the wrong formula at the wrong life stage can mean soft-shelled eggs, bone problems, stunted pullets, or kidney damage in young chicks. This isn't marketing fluff. It's nutrition science that directly affects your flock's health and [how many eggs you'll get](/how-much-to-feed-chickens-per-day/).
 
 ## What Makes Starter Feed Different
 
@@ -49,9 +49,15 @@ This is where it gets serious. The high calcium in layer feed is appropriate for
 
 Going the other direction has its own problems. If you're feeding starter to a laying hen, she's getting almost no dietary calcium. You might crack open eggs and find paper-thin shells, or she'll start laying shell-less eggs. Internally, she's depleting her own skeletal calcium, which leads to egg binding as her muscles weaken and to long-term bone fragility.
 
-There's also a flock management reality that trips up a lot of people. If you're raising chicks and adults together, or if you have pullets transitioning to lay at different times, feeding one universal ration becomes tricky. The practical solution many experienced keepers use is to offer an all-flock or flock raiser feed (typically 18-20% protein) to everyone, and then provide free-choice oyster shell on the side. The laying hens will self-regulate and eat the oyster shell as they need it. Young birds generally won't bother with it. I've run mixed flocks this way for years and it works consistently well.
+There's also a flock management reality that trips up a lot of people. If you're raising chicks and adults together, or if you have pullets transitioning to lay at different times, feeding one universal ration becomes tricky. The practical solution many experienced keepers use is to offer an all-flock or flock raiser feed (typically 18-20% protein) to everyone, and then provide [free-choice oyster shell](/oyster-shell-for-chickens/) on the side. The laying hens will self-regulate and eat the oyster shell as they need it. Young birds generally won't bother with it. I've run mixed flocks this way for years and it works consistently well.
 
 ## Starter to Layer: How and When to Transition
+
+| Life Stage | Age | Protein % | Calcium % | Feed Type | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Chick | 0-6 weeks | 18-22% | ~1% | Starter (medicated or non-medicated) | Use medicated if chicks not vaccinated for coccidiosis |
+| Grower | 6-18 weeks | 16-18% | ~1% | Grower or Starter-Grower | Non-medicated; bridges to layer transition |
+| Pullet/Early Layer | 18+ weeks or first egg | 15-17% | 3.5-4.5% | Layer | Begin transition over 7-10 days; add free-choice oyster shell |
 
 Timing the transition matters. Most commercial layer feed companies recommend switching at 18 weeks, but there's a more accurate indicator: the onset of laying. Once you see your first eggs, those pullets are ready for layer feed. If your flock is mixed-age and some birds are laying at 18 weeks while others aren't until 22 weeks, that's another good argument for the all-flock plus oyster shell approach during the transition window.
 

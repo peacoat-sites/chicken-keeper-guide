@@ -23,6 +23,7 @@ faqs:
    a: "Almost always a height problem or an unfamiliarity problem. The nipples should sit at the birds' eye level or slightly above. For unfamiliarity, remove the old waterer for 2-3 hours during the warmest part of the day. Hunger-driven exploration will get them there fast. Do not leave them without water overnight."
  - q: "Is apple cider vinegar actually good to add to chicken water?"
    a: "Mildly beneficial at best, not a cure-all. A tablespoon per gallon lowers the water's pH slightly, which slows biofilm growth and may support gut flora. There's no strong research showing dramatic health benefits in otherwise healthy flocks. Don't use it with metal waterers since it accelerates corrosion."
+lastmod: 2026-07-07
 ---
 
 Most chicken waterer reviews compare products on looks and price and leave out the part where your flock of eight goes thirsty for six hours because a nipple froze solid in January. That's the gap I'm filling here.
@@ -32,6 +33,17 @@ I've run somewhere around a dozen different waterer setups over ten years, from 
 ---
 
 ## The Four Types Worth Knowing (And One to Skip)
+
+| Waterer Type | Typical Cost | Best For | Key Drawback |
+| --- | --- | --- | --- |
+| Galvanized gravity | $8-$14 | Mild weather, easy cleaning | Algae buildup, rusts at seams, awkward to fill |
+| Plastic gravity | ~$13 | Budget-conscious keepers | Scratches harbor bacteria over time |
+| Horizontal nipple | $8-$12 per 10 pack | Most backyard flocks | Requires setup; horizontal wins on coop dryness |
+| Vertical nipple | $8-$12 per 10 pack | Easier bird access | More dripping; wet bedding if poorly positioned |
+| Automatic float-valve | $12-$35 | Hands-off operation, hot summers | Risk of slow leaks flooding coop silently |
+| Ceramic decorative | varies | Pet chicken display | Fragile, expensive, unsanitary |
+| Heated base (metal waterer) | ~$35 | Winter use with gravity waterer | Electricity dependent; adds cost |
+| Submersible bucket heater | ~$20 | Nipple bucket systems | Nipple tips can freeze; needs foam insulation |
 
 **Galvanized gravity waterers.** The old standard. A 1-gallon version runs about $8 at Tractor Supply; the 3-gallon is around $14. They work fine in mild weather, they're easy to clean, and chickens understand them immediately. The problem is algae. Galvanized metal and sunlight are a perfect incubator for green slime, and once it builds up in the base, you're scrubbing it twice a week or you're serving your flock a petri dish. Also, they dent, they rust at the seams after a few seasons, and filling them requires flipping the whole thing upside down, which sounds trivial until your back disagrees.
 

@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-
+lastmod: 2026-07-07
 ---
 Most backyard chicken keepers figure out the same thing in their first few weeks: those birds will eat almost anything. A wilted head of lettuce tossed into the run disappears in under two minutes, and suddenly you're standing at your kitchen counter wondering what else from the compost bucket is fair game. The good news is that kitchen scraps can genuinely supplement your flock's diet, stretch your feed budget, and give your hens something to stay active and engaged. The catch is that a few common kitchen items can make chickens seriously ill, and some can even kill them. Knowing the difference isn't complicated, but it does matter.
 
@@ -67,7 +67,7 @@ Feeding scraps is simple, but a few habits make a real difference.
 
 **Step 4: Use a separate feeding spot.** Throwing scraps directly onto bare ground can contaminate the soil with bacteria over time. A flat tray, a shallow rubber pan, or even a large flat rock works well and makes cleanup easy. You can find durable poultry feeding trays on [Amazon](https://www.amazon.com/s?k=poultry+feed+tray&tag=contentportfo-20) that hold up well in a run environment. (Our site may earn a small commission on purchases.)
 
-**Step 5: Offer grit if needed.** Chickens that free range pick up small stones naturally. Confined birds need access to insoluble grit to help their gizzard grind down fibrous or starchy foods. If you're regularly feeding scraps and your birds aren't ranging, keep a container of chick or hen grit available free-choice.
+**Step 5: [Offer grit if needed](/grit-for-chickens/).** Chickens that free range pick up small stones naturally. Confined birds need access to insoluble grit to help their gizzard grind down fibrous or starchy foods. If you're regularly feeding scraps and your birds aren't ranging, keep a container of chick or hen grit available free-choice.
 
 ## Quick Reference: Common Kitchen Scraps at a Glance
 
@@ -90,6 +90,27 @@ Feeding scraps is simple, but a few habits make a real difference.
 | Citrus | Use caution | Small amounts OK, limit frequency |
 
 ## The Benefits You'll Actually Notice
+
+
+| Kitchen Scrap | Safe for Chickens | Notes |
+| --- | --- | --- |
+| Leafy greens (kale, spinach, chard, lettuce) | Yes | Raw or cooked; fast favorites |
+| Broccoli, cauliflower, cabbage | Yes | Can hang on string for enrichment |
+| Carrot peels, squash, pumpkin seeds, corn cobs | Yes | Raw or cooked |
+| Cooked sweet potato, beets, peas | Yes | Cooked preferred |
+| Onions, garlic, leeks | No | Large or frequent amounts cause hemolytic anemia |
+| Watermelon, strawberries, blueberries, grapes | Yes | High water content aids hydration |
+| Apple slices | Yes | Remove seeds first |
+| Citrus | Caution | Occasional small amounts only; may interfere with calcium absorption |
+| Cooked rice, oatmeal, pasta, bread, potatoes | Yes | Keep portions to a handful per bird |
+| Cooked meat, fish, eggs, yogurt | Yes | Excellent protein source |
+| Avocado (leaves, skin, pit) | No | Contains persin toxin; can cause death |
+| Raw or green potatoes | No | Contains solanine; cooked potatoes safe |
+| Tomato leaves | No | Contains solanine; ripe fruit safe |
+| Chocolate, caffeine | No | Toxic to chickens |
+| Salty or heavily processed foods | No | Causes salt toxicity |
+| Moldy food | No | May contain liver-damaging mycotoxins |
+| Raw dry beans | No | Phytohaemagglutinin is extremely toxic; cooked beans safe |
 
 ## Sources
 

@@ -12,6 +12,7 @@ author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 slug: "a-wave-of-cities-is-legalizing-backyard-chickens-right-now"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 Something shifted this spring. I've been keeping chickens for a decade, and I've watched legalization efforts crawl through city councils at a pace that would make a broody hen look productive. But right now, in June 2026, more cities are actively debating or passing backyard chicken ordinances than at any point I can remember. Five municipalities in a single month. That's not a trend. That's a wave.
 
@@ -41,7 +42,7 @@ The [Ford County Chronicle's coverage of Paxton](https://www.fordcountychronicle
 
 I've watched chicken advocates show up to city council meetings for years with pamphlets about educational benefits and sustainability. Polite applause, then nothing. What's actually moving the needle in 2026 is the price of eggs at the grocery store.
 
-City officials across these municipalities are citing the same two reasons for revisiting their ordinances: soaring grocery costs and a growing public desire for food self-sufficiency. Those aren't talking points from a backyard farming nonprofit. Those are the reasons council members are giving on the record. When a Buff Orpington in someone's backyard starts looking like a hedge against a $7 carton of eggs, the political math changes fast.
+City officials across these municipalities are citing the same two reasons for revisiting their ordinances: [soaring grocery costs](/egg-prices-crashed-39-is-your-backyard-flock-still-worth-it/) and a growing public desire for food self-sufficiency. Those aren't talking points from a backyard farming nonprofit. Those are the reasons council members are giving on the record. When a Buff Orpington in someone's backyard starts looking like a hedge against a $7 carton of eggs, the political math changes fast.
 
 This also changes how ordinances get written. When keeping chickens was a lifestyle choice, cities felt comfortable loading up the rules: permit fees, coop inspections, minimum lot sizes, neighbor notification requirements. When it's framed as food access, those barriers start looking harder to defend publicly. The Edgewater ordinance's framing of hens as "household pets for personal egg harvesting" is deliberate. It's designed to be difficult to oppose.
 
@@ -49,7 +50,7 @@ This also changes how ordinances get written. When keeping chickens was a lifest
 
 Here's where I have to be honest with you, because a bad ordinance can make your first year with chickens genuinely miserable.
 
-Four hens is a common starting number in new ordinances, and it's workable, but just barely. Four healthy laying hens, say Rhode Island Reds or Black Australorps, will give you roughly 3 to 4 eggs per day during peak season. That's enough for a household and some to share. But you're also one predator attack or illness away from being down to two birds, which produces almost nothing. Six is a better floor, and Westminster's move toward 30 for larger parcels is the kind of sensible scaling that shows someone actually thought it through.
+Four hens is a common starting number in new ordinances, and it's workable, but just barely. Four healthy laying hens, say Rhode Island Reds or Black Australorps, will give you roughly 3 to 4 eggs per day during peak season. That's enough for a household and some to share. But you're also [one predator attack or illness](/h5n1-can-kill-your-cat-what-backyard-flock-owners-must-know/) away from being down to two birds, which produces almost nothing. Six is a better floor, and Westminster's move toward 30 for larger parcels is the kind of sensible scaling that shows someone actually thought it through.
 
 Permit fees are the other thing to watch. I've seen cities charge $50 to $150 annually just to register a backyard flock. That's real money on top of feed, bedding, and coop costs. If your new ordinance requires an annual permit, find out exactly what that fee is before you build anything. Some cities quietly stop enforcing permit requirements after the first year. Some don't.
 

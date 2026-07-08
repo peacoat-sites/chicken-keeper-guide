@@ -23,11 +23,18 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-
+lastmod: 2026-07-07
 ---
 A flock of six hens in a 6x6 foot run. Looks fine on paper, right? That's 36 square feet, or 6 square feet per bird. You'll see that exact number on dozens of websites and it technically hits the minimum recommendation. But I've watched real flocks for twelve years, and I can tell you: a 6x6 run for six standard-size chickens will give you bare dirt, stressed birds, and a pecking order enforced with blood. Space matters more than beginners realize. Those minimums printed in guides? They're the bare minimum to survive, not thrive.
 
 ## How Much Space Does a Chicken Run Actually Need?
+
+| Flock Size | Minimum Recommended Run (10 sq ft/bird) | Comfortable Run (15 sq ft/bird) | Ideal if Confined Full-Time (20+ sq ft/bird) |
+|------------|------------------------------------------|----------------------------------|-----------------------------------------------|
+| 4 birds | 40 sq ft | 60 sq ft | 80+ sq ft |
+| 6 birds | 60 sq ft | 90 sq ft | 120+ sq ft |
+| 8 birds | 80 sq ft | 120 sq ft | 160+ sq ft |
+| 12 birds | 120 sq ft | 180 sq ft | 240+ sq ft |
 
 More than you think.
 
@@ -48,7 +55,7 @@ The variable nobody discusses enough is how often your birds actually get out. F
 
 Everyone focuses on pecking and aggression when they talk about space, and yes, overcrowding triggers those problems. But the damage goes deeper.
 
-Cramped runs compact the soil fast, turning it into a feces-heavy breeding ground. Coccidia, worms, bacteria, your birds are living in their own waste, scratching through it, pecking at it. Disease pressure climbs. You'll deworm more often, deal with respiratory issues from ammonia buildup in summer heat, and watch egg production drop as stress hormones kill your laying rates.
+Cramped runs compact the soil fast, turning it into a feces-heavy breeding ground. Coccidia, worms, bacteria, your birds are living in their own waste, scratching through it, pecking at it. Disease pressure climbs. You'll deworm more often, deal with respiratory issues from [ammonia buildup in summer heat](/chicken-coop-smell-control/), and watch egg production drop as stress hormones kill your laying rates.
 
 Look at feather condition. A hen with bare patches on her back or a ratty tail usually means one of two things: either a rooster or bully is the culprit, or the birds don't have room to get away from each other. Space solves the second problem entirely.
 

@@ -23,13 +23,19 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-
+lastmod: 2026-07-07
 ---
 You go out to collect eggs one morning and notice your best layer, the big Barred Rock who gives you an egg almost every single day, is sitting hunched in the corner of the nesting box looking miserable. You pick her up and part the feathers near her vent. What you see stops you cold: a gray, writhing mass of tiny insects packed so densely around the base of her feathers that the skin underneath looks raw and angry. That's northern fowl mite. And if you're seeing it on one bird, I promise you it's already on more of them.
 
 Mites are one of those problems that sneaks up on you fast, then punishes you hard for missing it. I've watched healthy flocks go anemic in under three weeks from a bad northern fowl mite infestation. I've seen red mites drain the life out of birds so gradually that the keeper didn't notice until egg production dropped by half and they had a hen die overnight. Mites aren't a minor nuisance. They're a genuine flock health threat, and the faster you understand what you're actually dealing with, the better your odds of coming out the other side without losing birds.
 
 ## The Two Mites You Actually Need to Know About
+
+| Mite Type | Location on Bird | Location in Coop | Inspection Timing | Primary Treatment |
+| --- | --- | --- | --- | --- |
+| Northern fowl mite | Vent, tail base, under wings (permanent resident) | N/A - lives on bird | Day or night | Permethrin dust/spray (repeat in 7-10 days) |
+| Red poultry mite | Feeds at night only | Roost bars, cracks, crevices, nesting box undersides | Night (1-2 hours after roost) | Permethrin or spinosad on coop surfaces + bird treatment |
+| Scaly leg mite | Leg scales | N/A - burrows under scales | Daytime in good light | Topical oil/sulfur application |
 
 There are dozens of mite species that can bother chickens, but two of them are responsible for the vast majority of serious infestations in backyard flocks: **northern fowl mite** (*Ornithonyssus sylviarum*) and **red poultry mite** (*Dermanyssus gallinae*). Knowing which one you have changes your treatment approach completely.
 
@@ -48,7 +54,7 @@ Most people do a quick visual check and move on. That's not enough.
 2. Part the feathers right around the vent and base of the tail. This is ground zero. Look for moving specks, eggs (which look like white or gray clumps stuck to feather shafts), or that dirty, matted appearance at the feather base.
 3. Check under the wings in the "armpits."
 4. Look at the skin on the breast and neck by blowing the feathers apart.
-5. Note the bird's comb color. Pale or whitish combs in a bird that should be bright red can mean anemia from blood-sucking parasites.
+5. Note the bird's comb color. [Pale or whitish combs](/sick-chicken-symptoms/) in a bird that should be bright red can mean anemia from blood-sucking parasites.
 
 **For red poultry mite:**
 1. Do this inspection at night, ideally 1-2 hours after the birds have gone to roost.
@@ -74,7 +80,7 @@ Let me save you some time here. A lot of people start with diatomaceous earth (D
 
 **Scaly leg mite** gets a different approach. Smother therapy is the standard: coat the legs with petroleum jelly, coconut oil, or a dedicated product like [Scalex Mite & Lice Spray](https://www.amazon.com/s?k=scalex+poultry+mite+spray&tag=contentportfo-20) every few days for several weeks. The idea is to suffocate the mites under the scales. Don't try to peel the scales off. They'll come clean on their own as new healthy scale grows in beneath. This takes months.
 
-**Ivermectin** is another option some keepers use, applied as drops on the skin or given orally. It's not labeled specifically for poultry in the US, so you're using it off-label, and there's a withdrawal period to consider if you're eating the eggs. If you're dealing with a severe infestation that's not responding to topical permethrin, talk to an avian vet about ivermectin. I've seen it work well when other methods haven't.
+**[Ivermectin](/ivermectin-for-chickens-dosage/)** is another option some keepers use, applied as drops on the skin or given orally. It's not labeled specifically for poultry in the US, so you're using it off-label, and there's a withdrawal period to consider if you're eating the eggs. If you're dealing with a severe infestation that's not responding to topical permethrin, talk to an avian vet about ivermectin. I've seen it work well when other methods haven't.
 
 ## Cleaning and Preventing Re-Infestation
 

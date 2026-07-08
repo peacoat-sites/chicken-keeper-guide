@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-
+lastmod: 2026-07-07
 ---
 Your hen's been squatting in the nesting box for hours, puffed up like a football, straining hard, and nothing's coming out. Most guides tell you to call a vet and that's it. Useless advice when it's Sunday night, the nearest avian vet is 45 minutes away, and your bird is getting worse by the hour. Egg binding is one of the few chicken emergencies where the right move at home, done fast, actually saves a life. The wrong move kills her. Here's what you need to know.
 
@@ -44,6 +44,14 @@ Here's what causes it:
 I've seen it hit seemingly healthy, well-managed hens with zero warning. It's not always something you did wrong. But calcium and body condition are the two things you actually control.
 
 ## How to Recognize an Egg-Bound Hen
+
+| Condition | Belly Feel | Straining | Egg at Vent | Key Difference |
+| --- | --- | --- | --- | --- |
+| Egg Binding | Hard, swollen | Yes | Yes, hard/round | Egg palpable inside vent |
+| Ascites | Squishy, fluid-filled | No | No | Abdominal fluid, not straining |
+| Vent Prolapse | N/A | Variable | Tissue protrudes | Red/pink tissue visible outside vent |
+| Peritonitis | Doughy, lumpy | No | No | Chronic history, sicker appearance |
+| Salpingitis | Swollen, sore | No | No | Chronic internal laying, no egg near vent |
 
 Speed changes everything. The faster you catch it, the better she does. The catch is that a few other conditions look similar, and wasting time on the wrong diagnosis kills her.
 
@@ -103,7 +111,7 @@ Get a vet immediately if:
 - The egg broke inside her (sudden decline after a brief improvement is a warning sign)
 - She has a prolapsed vent along with the binding
 
-Avian vets can inject oxytocin or calcium, which works way faster than anything you give by mouth in a crisis situation. They can also remove a stuck or broken egg safely.
+[Avian vets](/vet-care-for-chickens/) can inject oxytocin or calcium, which works way faster than anything you give by mouth in a crisis situation. They can also remove a stuck or broken egg safely.
 
 No avian vet nearby? Call ahead anyway. Many regular vets treat poultry emergencies if you explain it clearly. A general practice vet with small animal experience beats no vet at all.
 

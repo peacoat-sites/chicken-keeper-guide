@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-
+lastmod: 2026-07-07
 ---
 Most first-time builders underestimate the square footage they'll need by half. You start planning for four hens, think a 4x4 coop sounds reasonable, and a year later you've got eight birds crammed into a space that smells like a locker room and looks like poultry chaos. I've watched it happen more times than I can count, and I've lived it myself with my very first build back in 2012. Getting the size right before you swing a single hammer is the single most important thing you can do, and it's just the beginning.
 
@@ -40,6 +40,16 @@ Where you place the coop matters just as much as how big it is. Pick a spot with
 Think about yourself too. A door you have to crouch through gets old fast. An egg collection door that requires you to reach in shoulder-deep is annoying on a cold morning. Build it for yourself as much as for the birds.
 
 ## Materials: What to Build With and What to Skip
+
+| Component | Material | Notes |
+| --- | --- | --- |
+| Ground contact (base plates, skids) | Pressure-treated lumber | Durable; keeps rot away from untreated wood |
+| Walls and floors | Exterior-grade plywood (1/2" min, 5/8" ideal) | Holds up better than OSB in wet climates |
+| Ventilation openings, windows, run fencing | Hardware cloth (19-gauge, 1/2" mesh) | Keeps predators out; chicken wire alone is insufficient |
+| Interior framing | Untreated pine or fir | Safer for birds than pressure-treated chemicals |
+| Roofing | Metal panels | Lasts decades, sheds water cleanly, ~$40-70 per 6'×10' section |
+| Roosting bars | 2-4" wide, rounded lumber | Set 12-15" apart horizontally, 18-24" off floor |
+| Nesting boxes | Wood | 12×12" per box; one per 3-4 hens; mount 12-18" off floor |
 
 You've got a few real choices here: rough lumber, dimensional pine, treated lumber, or plywood with framing. Here's the honest breakdown.
 
@@ -69,7 +79,7 @@ Cut your wall studs from 2x4s, spacing them 16 inches on center. A shed-style ro
 
 **Step 4: Add ventilation**
 
-This is where most beginner builds fall short. Ventilation prevents respiratory disease, controls ammonia from droppings, and reduces moisture that causes frostbite in cold climates. You want 1 square foot of ventilation for every 10 square feet of floor space, at minimum. Put vents high on the walls near the roofline so cold drafts don't blow directly on roosting birds. Cover every opening with 1/2-inch hardware cloth.
+This is where most beginner builds fall short. Ventilation prevents respiratory disease, controls ammonia from droppings, and reduces moisture that causes frostbite in cold climates. You want 1 square foot of ventilation for every 10 square feet of floor space, at minimum. Put vents high on the walls near the roofline so cold drafts don't blow directly on roosting birds. Cover every opening with 1/2-inch [hardware cloth](/chicken-coop-predator-protection/).
 
 **Step 5: Sheath the exterior**
 
@@ -81,7 +91,7 @@ Cut 2x4 rafters and attach them to the top plates. Sheath with 1/2-inch plywood,
 
 **Step 7: Install interior features**
 
-Roosting bars should be 2-4 inches wide and rounded, set 12-15 inches apart horizontally and 18-24 inches off the floor. Chickens roost higher than their nesting boxes or they'll sleep in the boxes and soil them. A board below the roosts to catch droppings (a "poop board") makes cleanup dramatically easier and I'd never build without one now.
+Roosting bars should be 2-4 inches wide and rounded, set 12-15 inches apart horizontally and 18-24 inches off the floor. Chickens roost higher than their nesting boxes or they'll sleep in the boxes and soil them. A board below the roosts to catch droppings (a "[poop board](/chicken-coop-cleaning-schedule/)") makes cleanup dramatically easier and I'd never build without one now.
 
 Nesting boxes: one per 3-4 hens. A 12x12-inch box works for most standard breeds. Mount them 12-18 inches off the floor. Line them with [nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20) to keep eggs clean and reduce breakage.
 

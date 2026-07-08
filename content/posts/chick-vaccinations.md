@@ -23,6 +23,7 @@ faqs:
    a: "Some vaccines, like Newcastle LaSota, can be given to adults as boosters. Marek's vaccination of adults offers minimal benefit since the protection window is at hatch. Your avian vet can guide you on what's worth doing for an established flock."
  - q: "Does the Marek's vaccine wear off?"
    a: "The research suggests HVT-based Marek's vaccines provide lifelong protection when administered correctly at hatch, but 'correctly' is the key word. Poor administration technique, storing the reconstituted vaccine too long before use, or exposing it to heat can all compromise efficacy. If you're doing it yourself, follow the diluent instructions precisely and work fast once the vial is reconstituted."
+lastmod: 2026-07-07
 ---
 
 Most backyard chicken keepers I've talked to fall into one of two camps: they either vaccinate everything religiously, or they've never vaccinated a single chick and figure they'll deal with problems if they come. I spent a long time in that second camp. Then I lost 11 birds to Marek's disease in a single spring, and my perspective changed pretty fast.
@@ -53,7 +54,14 @@ For most backyard keepers in areas without a recent Newcastle outbreak and with 
 
 ## Coccidiosis: A Special Case
 
-This one operates differently. Cocci vaccines (the most common brand is Coccivac) work by exposing chicks to controlled doses of live oocysts, letting them build immunity gradually. The important thing to understand: if you vaccinate against coccidiosis, you cannot use medicated starter feed at the same time. Medicated starter contains amprolium, which interferes with coccidiosis vaccination by limiting the very exposure the vaccine depends on. A lot of people make this mistake.
+| Vaccine | Disease | Admin Method | Timing | Backyard Priority | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Rispens/HVT | Marek's | Subcutaneous | Within 24 hours of hatch | Essential | Prevents disease, not infection; birds can still shed virus |
+| LaSota, B1 | Newcastle Disease | Eye drop, drinking water, spray | Before show or exposure | Optional unless showing/exhibition | Reportable illness; optional for isolated flocks |
+| - | Infectious Bronchitis | Eye drop, drinking water, spray | Before show or exposure | Optional unless showing/exhibition | Mutates readily; vaccine strain may not match field strain |
+| Coccivac | Coccidiosis | Live oocyst exposure | Day-old chicks | Conditional | Incompatible with medicated starter feed; good management often sufficient |
+
+This one operates differently. Cocci vaccines (the most common brand is Coccivac) work by exposing chicks to controlled doses of live oocysts, letting them build immunity gradually. The important thing to understand: if you vaccinate against coccidiosis, you cannot use [medicated starter feed](/chick-starter-feed/) at the same time. Medicated starter contains amprolium, which interferes with coccidiosis vaccination by limiting the very exposure the vaccine depends on. A lot of people make this mistake.
 
 I'll be honest, for most backyard flocks on non-commercial ground that aren't under intense density pressure, good management (dry bedding, not overcrowding, gradual outdoor exposure) controls cocci about as well as vaccination does. But if you're brooding chicks on soil that's had chickens on it before, or you're dealing with recurring wet-bedding issues, the vaccine is worth considering.
 

@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-
+lastmod: 2026-07-07
 ---
 Most people figure out the real cost of backyard eggs the same way: they're standing in the feed store checkout line, staring at a $28 bag of layer pellets, doing math in their head that doesn't add up to "cheaper than the grocery store." Nobody warned them. Or if someone did, they said something vague like "it pays off in the long run," which is basically the chicken-keeping version of "it builds character."
 
@@ -50,7 +50,7 @@ A healthy hen in peak lay produces about 5 eggs per week during prime season. Si
 
 Then there's everything else. Oyster shell for calcium: $10 every few months. Bedding (pine shavings, straw, whatever): $5-$10 per month if you're doing deep litter in a mid-size coop. Grit, treats if you're that person, wormer a couple times yearly. The random bottle of Vetericyn when someone gets a wound. A heat lamp for winter in cold climates (plus the electricity bill).
 
-A realistic monthly operating cost for six hens lands somewhere between $35 and $55 depending on where you live, how you manage things, and whether anything goes sideways. Figure the middle: $45 per month for roughly 10 dozen eggs on a decent month. That's $4.50 per dozen in ongoing costs alone, not counting the startup.
+[A realistic monthly operating cost](/cost-of-raising-chickens/) for six hens lands somewhere between $35 and $55 depending on where you live, how you manage things, and whether anything goes sideways. Figure the middle: $45 per month for roughly 10 dozen eggs on a decent month. That's $4.50 per dozen in ongoing costs alone, not counting the startup.
 
 And you definitely spent something on startup.
 

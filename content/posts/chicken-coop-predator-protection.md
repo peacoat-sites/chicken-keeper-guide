@@ -23,11 +23,21 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-
+lastmod: 2026-07-07
 ---
 A raccoon can open a simple hook-and-eye latch in under 60 seconds. I've watched it happen on my trail cam footage, and I'm still a little impressed by the dexterity, even after losing three hens to that same raccoon before I figured out what was going on. That one night cost me a Buff Orpington I'd raised from a chick and two of my best laying Australorps. Predator protection isn't optional for backyard chickens. It's the difference between keeping a flock and feeding the neighborhood wildlife.
 
 ## Know Your Enemy: Which Predators Are Actually Coming for Your Flock
+
+| Predator | Primary Threat | Attack Pattern | Detection Signs |
+| --- | --- | --- | --- |
+| Raccoon | Chickens & eggs | Night, reaching through wire | Missing birds, torn wire, latches disturbed |
+| Fox | Chickens | Dawn/dusk | Scattered feathers, missing body |
+| Weasel/Mink | Entire flock | Night, mass killing | Multiple dead birds, small entry holes |
+| Opossum/Skunk | Eggs & chicks | Night, opportunistic | Missing eggs, dead chicks |
+| Hawk | Chickens | Daytime | Missing bird, no struggle signs |
+| Owl | Chickens | Nighttime | Missing bird, no struggle signs |
+| Dog | Chickens | Any time | Scattered carcasses, no consumption |
 
 Before you spend a dime on hardware, you need to understand who you're building against. Different predators call for different defenses, and a setup that stops a fox won't necessarily stop a weasel.
 
@@ -51,7 +61,7 @@ What you actually need is hardware cloth, also called welded wire mesh. For most
 
 Secure hardware cloth with staples AND screws with washers. Staples alone pull out over time, especially where animals are pushing against the wire. Overlap seams by at least 2 inches and secure the overlap with zip ties in addition to staples.
 
-Anywhere you have ventilation openings, cover them with hardware cloth instead of chicken wire or plastic mesh. I've seen plastic mesh on a coop that looked shredded like confetti after a raccoon spent one night working on it.
+[Anywhere you have ventilation openings](/chicken-coop-ventilation/), cover them with hardware cloth instead of chicken wire or plastic mesh. I've seen plastic mesh on a coop that looked shredded like confetti after a raccoon spent one night working on it.
 
 [Hardware cloth in various widths and lengths is available on Amazon](https://www.amazon.com/s?k=hardware+cloth+1%2F2+inch&tag=contentportfo-20), and buying in bulk rolls saves significant money per foot if you're covering a full run.
 

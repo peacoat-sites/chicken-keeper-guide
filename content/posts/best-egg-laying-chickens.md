@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-
+lastmod: 2026-07-07
 ---
 If you've ever stood in front of a feed store bin of chicks, heart rate climbing, trying to remember which breed your neighbor swore by, you know the feeling. Six breeds stare up at you, all fluffy and identical in their peeping chaos, and you need to make a decision that'll shape your next five years of egg production. Getting it wrong doesn't ruin your life, but getting it right means pulling a dozen eggs from the nest box every single morning without fail. That difference is real, and it starts with breed selection.
 
@@ -47,23 +47,32 @@ These are the workhorses of the backyard flock. ISA Browns, Red Stars, Golden Co
 
 The White Leghorn is the gold standard of egg production in commercial settings. They lay large white eggs at a rate of 280 to 320 annually and they do it efficiently, meaning they eat less feed per egg than heavier breeds. The downside is personality. Leghorns are flighty, skittish, and loud. They're not lap chickens. They're also poor in cold climates because their large single combs are susceptible to frostbite. If you're in a mild climate and don't care about a friendly flock, Leghorns deliver.
 
-**Rhode Island Red**
+**[Rhode Island Red](/rhode-island-red-chickens/)**
 
 The Rhode Island Red is probably the most forgiving breed on this list. They lay 250 to 300 brown eggs per year, they're cold-hardy, they tolerate heat reasonably well, and their temperament is generally calm. I've kept RIRs for years and they're consistently the birds I recommend to people who want solid production without drama. They'll free range, they'll do fine in a run, and they don't throw big personality fits.
 
-**Plymouth Rock (Barred Rock)**
+**Plymouth Rock ([Barred Rock](/barred-rock-chickens/))**
 
 Barred Rocks lay around 200 to 280 brown eggs per year, which sounds modest compared to ISA Browns, but these hens lay steadily for four or five years instead of burning out. They're dual-purpose birds with good size, calm personalities, and real cold hardiness. I've had Barred Rock hens still laying at age four when my sex-links had basically retired. If longevity matters to you, consider this trade-off seriously.
 
 **Sussex**
 
-Speckled Sussex hens are underrated in the egg department. They'll give you 200 to 250 light brown eggs annually, but more importantly they're curious, friendly, and active foragers. They do well in cold climates and their temperament makes them excellent birds for families with children. Egg production isn't flashy, but consistency is solid and these hens tend to stay productive longer than hybrid breeds.
+[Speckled Sussex](/sussex-chickens/) hens are underrated in the egg department. They'll give you 200 to 250 light brown eggs annually, but more importantly they're curious, friendly, and active foragers. They do well in cold climates and their temperament makes them excellent birds for families with children. Egg production isn't flashy, but consistency is solid and these hens tend to stay productive longer than hybrid breeds.
 
 **Australorp**
 
 The Australorp holds the world record for egg laying: one hen laid 364 eggs in 365 days in an Australian trial in the 1920s. Modern Australorps won't hit that, but 250 to 300 eggs annually is realistic. They're big, calm, cold-hardy birds with glossy black feathers that shine green in sunlight. I've never met an Australorp I didn't like. They're gentle, adaptable, and reliable. Highly recommend for both beginners and experienced keepers.
 
 ## Side-by-Side Breed Comparison
+
+| Breed | Eggs/Year | Egg Color | Cold Hardy | Temperament | Longevity |
+|---|---|---|---|---|---|
+| ISA Brown | 300-320 | Brown | Moderate | Friendly | 2-3 years peak |
+| White Leghorn | 280-320 | White | Poor | Flighty | 2-3 years peak |
+| Rhode Island Red | 250-300 | Brown | Good | Calm | 3-4 years |
+| Barred Rock | 200-280 | Brown | Excellent | Very Calm | 4-5 years |
+| Sussex | 200-250 | Light Brown | Good | Very Friendly | 3-4 years |
+| Australorp | 250-300 | Brown | Good | Gentle | 3-4 years |
 
 Here's a quick comparison of the top layers to help you sort through the options:
 

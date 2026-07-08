@@ -23,6 +23,7 @@ faqs:
    a: "Concrete on its own, yes, it's a significant heat sink. But chickens don't sleep on the floor anyway, they sleep on roosts. The practical problem is that cold concrete encourages moisture condensation and can make bedding damp faster. Rubber stall mats or a generous deep litter system on top of concrete solves most of the cold floor issue."
  - q: "How often should I completely replace coop bedding?"
    a: "With deep litter managed correctly, once or twice a year is reasonable. With a standard spot-cleaning approach, most keepers do a full cleanout every 4-6 weeks depending on flock size and coop square footage. The honest trigger is ammonia smell at chicken-head height (crouch down and sniff). If you can smell it, the birds have been breathing it for a while already."
+lastmod: 2026-07-07
 ---
 
 Nobody warns you about the floor. You research breeds for weeks, obsess over nesting box dimensions, argue with yourself about automatic waterers, and then you throw down some pine shavings on bare dirt and call it done. I did exactly this with my first coop in 2015. By the following spring I had a muddy, ammonia-soaked mess that took a full weekend to rehabilitate, and two hens with scaly leg mite problems I'm convinced were made worse by the damp conditions underfoot.
@@ -37,9 +38,18 @@ Here's the contrarian take I'll stand behind: a bare dirt floor is almost always
 
 The problems are layered. Dirt holds moisture, and moisture is the primary driver of coccidiosis, bumblefoot, and respiratory issues from ammonia buildup. Predators, especially rats and minks, can tunnel under a dirt floor in hours. I've watched a determined Norway rat dig under a 2x4 footer in a single night.
 
-If you're stuck with an existing dirt-floor coop, the minimum intervention is a hardware cloth apron buried 12 inches down and extending 12 inches outward, plus a thick deep litter system (more on that below) to create some biological distance between the birds and the ground. It's workable. It's just not what I'd build intentionally.
+If you're stuck with an existing dirt-floor coop, the minimum intervention is a hardware cloth apron buried 12 inches down and extending 12 inches outward, plus a thick [deep litter system](/deep-litter-method-chickens/) (more on that below) to create some biological distance between the birds and the ground. It's workable. It's just not what I'd build intentionally.
 
 ## Hardware Cloth vs. Welded Wire vs. Solid Floors
+
+| Flooring Type | Cost | Lifespan | Predator-Proof | Maintenance | Best For |
+| --- | --- | --- | --- | --- | --- |
+| Bare Dirt | Free | N/A | No (tunneling risk) | High (moisture, pathogens) | Not recommended |
+| Welded Wire/Hardware Cloth | Low-Medium | 5-7 years | Partial | Medium (foot checks needed) | Chicken tractors only |
+| Pressure-Treated Plywood | Medium | 8-10 years | Yes (with sealed joints) | Medium | Permanent backyard coops |
+| Plywood + Vinyl Overlay | Medium-High | 10+ years (plywood) | Yes | Low (easy spray cleaning) | Permanent coops (recommended) |
+| Concrete | High ($800-$1,200) | 20+ years | Yes | High (needs bedding, holds cold) | Large/commercial operations |
+| Concrete + Vinyl | Very High | 20+ years | Yes | Low | Premium permanent setups |
 
 Some coops, particularly elevated designs and tractor-style setups, use wire mesh as the actual floor. The idea is that manure drops through, ventilation is maximized, and cleaning is easy. In practice it's more complicated.
 
@@ -63,7 +73,7 @@ The method works like this: you start with 4-6 inches of carbon-rich bedding (pi
 
 Done incorrectly, you get a wet, anaerobic, ammonia-producing mat that's worse than just cleaning regularly.
 
-The things that kill a deep litter system: insufficient ventilation (you need much more than you think, even in winter), a waterer that drips or tips over, a floor space so small that the birds compact everything too quickly, and starting on bare dirt where moisture wicks up from below. On a sealed plywood or concrete floor, with a nipple waterer like the Harris Farms Hanging Drinker to eliminate spillage, and with good ridge or soffit ventilation, deep litter genuinely works well. I run it through the whole winter in zone 6b and ammonia is never an issue.
+The things that kill a deep litter system: insufficient ventilation (you need much more than you think, even in winter), a waterer that drips or tips over, a floor space so small that the birds compact everything too quickly, and starting on bare dirt where moisture wicks up from below. On a sealed plywood or concrete floor, with a nipple waterer like the Harris Farms Hanging Drinker to eliminate spillage, and with [good ridge or soffit ventilation](/chicken-coop-ventilation/), deep litter genuinely works well. I run it through the whole winter in zone 6b and ammonia is never an issue.
 
 What surprised me when I first committed to the method properly was how warm the coop stayed. Active decomposition generates real heat. Not enough to replace a heat lamp in extreme cold, but enough to take the edge off.
 

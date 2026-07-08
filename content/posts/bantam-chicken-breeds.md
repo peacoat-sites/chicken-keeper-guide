@@ -23,6 +23,7 @@ faqs:
     a: "Many bantam breeds have much stronger broody tendencies than modern production breeds. Silkies, Cochins, and d'Uccles are notorious for it. If you want to hatch eggs without an incubator, this is actually a feature. If you want consistent egg production, it's a management challenge you'll deal with repeatedly."
   - q: "Where can I buy quality bantam chicks?"
     a: "Hatcheries like Meyer Hatchery and Cackle Hatchery carry a decent bantam selection and ship small orders. For rarer true bantams like Rosecombs or Dutch Bantams, breeders found through the American Bantam Association or local poultry clubs will get you far better stock than a hatchery will. Quality matters more with bantams than people realize, especially for breeds where type (physical conformation) affects things like crest visibility and feathered-foot soundness."
+lastmod: 2026-07-07
 ---
 Most people assume bantams are just miniature chickens for kids and small backyards, cute but not particularly useful. I thought the same thing until I started keeping them seriously about six years ago. What I discovered is that a few of these breeds will outperform full-size hens in ways that genuinely surprised me, and some of them are genuinely difficult birds that nobody warns you about until your rooster has already drawn blood.
 
@@ -37,6 +38,15 @@ The size difference is more dramatic than most people picture. A typical large f
 Why does this matter practically? Feed costs, coop space requirements, egg size, and predator vulnerability all change substantially. A bantam eats roughly a third to half what a standard hen eats. That sounds great until you realize a hawk doesn't care how cute your Silkie is.
 
 ## The Breeds Worth Knowing
+
+| Breed | Size Category | Egg Production (annual) | Temperament | Best Use |
+| --- | --- | --- | --- | --- |
+| Silkie | True Bantam | 100-120 | Docile, broody | Brooding/hatching |
+| Belgian d'Uccle | True Bantam | Moderate | Personable, broody | Backyard pet/brooding |
+| Old English Game | True Bantam | Low | Aggressive, fearless | Free-range, self-sufficient |
+| Serama | True Bantam | Low-Moderate | Friendly | Small space, ornamental |
+| Dutch Bantam | True Bantam | ~200 | Active, not broody | Egg production |
+| Cochin Bantam | True Bantam | 100-150 | Very docile, broody | Brooding/pet |
 
 I'll be honest: not all bantams are worth your time, and the popular ones aren't always the best.
 
@@ -58,7 +68,7 @@ Here's where you need to be realistic. Bantam eggs are roughly half the size of 
 
 Laying frequency varies a lot by breed. Cochin bantams might give you 100-150 eggs a year. Dutch bantams can hit 200 in a good year. Silkies sit somewhere in the middle, around 100-120, but they go broody constantly which halts production for weeks at a stretch.
 
-The math on feed-to-egg productivity is actually not bad for the better laying bantam breeds, since their feed consumption is so much lower. But they don't replace standard layers if egg output is your primary goal. They complement them.
+The math on feed-to-egg productivity is actually not bad for the [better laying bantam breeds](/best-egg-laying-chickens/), since their feed consumption is so much lower. But they don't replace standard layers if egg output is your primary goal. They complement them.
 
 ## Coop and Housing Realities
 

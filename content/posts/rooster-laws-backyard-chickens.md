@@ -12,7 +12,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-
+lastmod: 2026-07-07
 ---
 My neighbor got a rooster by accident in 2021. Ordered a straight-run batch of Buff Orpingtons from Meyer Hatchery, and three of the six turned out to be cockerels. By the time those boys started crowing at 4:47 a.m., she'd already received two noise complaints and a letter from the city. She had to rehome all three within 10 days. The whole thing could have been avoided with about 20 minutes of research before the chicks arrived.
 
@@ -31,6 +31,13 @@ The only source you should trust is your actual municipal code. Go to [Municode.
 If you're in unincorporated rural area, you probably fall under county jurisdiction only, and many rural counties have no restrictions at all on roosters. Lot size often matters more than location in those cases.
 
 ## What the Ordinances Actually Say
+
+| Ordinance Type | Description | Common in | Enforcement |
+| --- | --- | --- | --- |
+| Flat Prohibition | "No rooster, male chicken, or cockerel shall be kept on any residential property" | Cities over 50,000 people | Clear violation; no gray area |
+| Noise/Nuisance Based | Hens legal; crowing treated as noise violation similar to barking dog | Denver, Colorado and similar cities | Complaint-triggered enforcement |
+| Lot-Size Based | Roosters permitted on parcels of 2+ acres; hens only on smaller lots | Semi-rural and transitional zoning areas | Determined by parcel size documentation |
+| Permit Systems | Rooster-friendly with permit requirements | Austin, Texas (subject to code changes) | Permit approval required before keeping rooster |
 
 Most suburban rooster bans are written one of three ways.
 
@@ -52,7 +59,7 @@ Read your HOA documents if you have one. This is where people get blindsided mos
 
 Talk to your immediate neighbors before you bring a rooster home. I know this feels unnecessary, especially if you're technically legal. But a rooster crowing at 5 a.m. is a social problem as much as a legal one, and a neighbor who feels consulted is far less likely to file a complaint than one who woke up to surprise noise. Bring them a dozen eggs. It works.
 
-Consider whether your setup is actually rooster-appropriate. A rooster in a small urban backyard with 4 hens is different from a rooster on half an acre with 15 hens. Roosters can be aggressive, they crow constantly (not just at dawn, that's a myth), and they're hard on hens if the ratio is off. One rooster per 8-12 hens is reasonable. Fewer hens and you'll have overbred, stressed birds with bare backs.
+Consider whether your setup is actually rooster-appropriate. A rooster in a small urban backyard with 4 hens is different from a rooster on half an acre with 15 hens. [Roosters can be aggressive](/aggressive-chickens/), they crow constantly (not just at dawn, that's a myth), and they're hard on hens if the ratio is off. One rooster per 8-12 hens is reasonable. Fewer hens and you'll have overbred, stressed birds with bare backs.
 
 ## When You're in a No-Rooster Zone and You Want One Anyway
 

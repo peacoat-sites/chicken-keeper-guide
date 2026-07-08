@@ -12,6 +12,7 @@ author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
 slug: "vp-vance-got-backyard-chickens-here-is-what-new-keepers-need-to-know"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 You probably saw the headline last week and thought, "Wait, the Vice President is keeping chickens?" Yes. On June 9, 2026, JD Vance had a custom Victorian-style chicken coop installed at the Naval Observatory, complete with 12 baby chicks he says he'll care for personally. The coop was built by Carolina Coops, a family-owned business out of Creedmoor, North Carolina, that's been doing this since 2008, and it was designed to match the Queen Anne Victorian architecture of Number One Observatory Circle. Nobody paid for it with tax dollars. Carolina Coops donated it. The whole thing is, frankly, kind of delightful.
 
@@ -27,6 +28,13 @@ Most municipalities that do allow chickens restrict you to hens only (roosters a
 
 ## A Good Coop Costs More Than You Think
 
+| Item | Budget Build (DIY) | Pre-Built Coop | Space Requirement |
+| --- | --- | --- | --- |
+| Cost | $200-$400 | $400-$800 | 4 sq ft interior per hen |
+| Material | Varies (user-owned tools) | Pre-fabricated | 10 sq ft run per hen |
+| Example (6 hens) | Lower cost if tools available | Ready to use | 24 sq ft inside, 60 sq ft run minimum |
+| Durability | Variable | Often fails in 2 years (budget models) | - |
+
 Carolina Coops builds beautiful structures. Their Victorian build for Vance is the kind of thing that ends up on Instagram. But most people don't need that, and what most people don't realize is that even a basic, functional coop that properly protects six hens is going to run you $400 to $800 if you buy pre-built, or $200 to $400 in materials if you build it yourself and already own tools.
 
 The cheap flat-pack coops on Amazon and Tractor Supply rated for "8 chickens" are almost universally undersized and built from thin plywood that warps in rain and splits in cold. I've seen them fall apart in under two years. The rule I use: budget four square feet of interior space per hen, and ten square feet of run space per hen, minimum. A flock of six needs at least 24 square feet inside and 60 outside. Most budget coops don't come close.
@@ -35,7 +43,7 @@ Predator protection is where new keepers get gutted, emotionally and financially
 
 ## Avian Flu Is Real and New Keepers Are Not Ready for It
 
-This part is uncomfortable but I'd rather tell you now. A May 2026 CDC survey of 638 backyard flock owners found that while 94% had heard of avian influenza, one in three didn't know the signs or symptoms. That's a significant knowledge gap, and it matters right now because HPAI, highly pathogenic avian influenza, was confirmed in backyard flocks in Iowa, Wisconsin, Georgia, and other states in early 2026. Spring wild bird migration is the primary way it spreads to backyard birds.
+This part is uncomfortable but I'd rather tell you now. A May 2026 CDC survey of 638 backyard flock owners found that while 94% had heard of [avian influenza](/what-the-cdcs-new-backyard-flock-survey-found-about-hpai/), one in three didn't know the signs or symptoms. That's a significant knowledge gap, and it matters right now because HPAI, highly pathogenic avian influenza, was confirmed in backyard flocks in Iowa, Wisconsin, Georgia, and other states in early 2026. Spring wild bird migration is the primary way it spreads to backyard birds.
 
 Symptoms to know: sudden death with no warning, respiratory distress, dramatic drop in egg production, swollen or discolored combs and wattles, and neurological signs like loss of coordination. If you see multiple birds sick or dead at the same time, call your state veterinarian, don't wait.
 

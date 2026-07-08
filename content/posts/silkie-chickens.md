@@ -23,6 +23,7 @@ faqs:
     a: "Silkie roosters are calmer and less aggressive than most rooster breeds, which sounds like a flaw for protection but actually makes them easier to manage around children. They'll still alert the flock to danger. They're just not going to fight off a raccoon the way a larger rooster might attempt to."
   - q: "Why does my Silkie keep going broody even when there are no eggs?"
     a: "Broodiness in Silkies is a deeply ingrained hormonal response, not a rational evaluation of whether eggs are present. They'll sit on empty nests, golf balls, pine cones, whatever's there. To break the cycle, move the hen to a wire-bottomed broody-breaker cage for 3 to 5 days: the airflow under her cools her underside and interrupts the hormonal loop. It works, though some persistent hens need a second round."
+lastmod: 2026-07-07
 ---
 Nobody warns you that Silkies are basically the golden retrievers of the chicken world until you've already got three of them sleeping in a pile on your lap while you're trying to read. Friendly, gentle, completely unbothered by children, and absolutely useless in a mixed flock where anything with a peck order instinct exists. That combination is either perfect or a disaster, depending on what you actually want from backyard chickens.
 
@@ -37,6 +38,15 @@ You'll find them in white, black, blue, buff, partridge, splash, and a handful o
 Personality-wise: they're genuinely calm. Not just compared to, say, a Leghorn. Calm in an absolute sense. I've seen roosters that were genuinely pleasant. Hens that let toddlers carry them around a yard without a single squawk. That calmness is consistent enough across the breed that you can actually count on it, which you can't say about most breeds.
 
 ## Egg Production: Manage Your Expectations
+
+| Breed | Eggs Per Year | Size | Temperament | Best For |
+| --- | --- | --- | --- | --- |
+| Silkie | 100-120 | 2-3 lbs | Calm, docile | Brooding, families, pets |
+| Black Sex-Link | 280 | 5-6 lbs | Active | Egg production |
+| Rhode Island Red | 250 | 6-8 lbs | Alert | Egg production |
+| Cochin | 150 | 8-10 lbs | Broody, docile | Brooding, mixed flocks |
+| Brahma | 150 | 10-12 lbs | Calm, large | Cold climates, mixed flocks |
+| Orpington | 200 | 8-10 lbs | Friendly, docile | Mixed flocks, eggs |
 
 Here's where some hatchery descriptions go soft. Silkies are not egg layers in any meaningful production sense. You'll get roughly 100 to 120 small, cream-colored eggs per year from a good layer. A Black Sex-Link does 280. A Rhode Island Red hits 250. The gap is real. If eggs are the point, Silkies are the wrong breed.
 
@@ -60,7 +70,7 @@ Silkies are at the bottom of almost every threat assessment. Their restricted vi
 
 Hawks are the main concern in most suburban settings. I've lost Silkies to red-tails that ignored my larger hens entirely. A covered run solves this, but free-ranging Silkies in open areas is genuinely risky in a way that a bigger, more alert breed isn't.
 
-In mixed flocks, Silkies get bullied. Not sometimes. Reliably. Their fluffiness obscures their posture, making them terrible communicators in chicken body language, and other breeds will peck them down the order fast. If you want to mix Silkies with other breeds, choose equally docile companions: Cochins, Brahmas, or Orpingtons tend to coexist without too much drama. Mixing them with Easter Eggers, Australorps, or production breeds usually ends with the Silkies hiding in corners and losing weight.
+In mixed flocks, Silkies get bullied. Not sometimes. Reliably. Their fluffiness obscures their posture, making them terrible communicators in chicken body language, and other breeds will peck them down the order fast. If you want to mix Silkies with other breeds, choose equally docile companions: [Cochins, Brahmas, or Orpingtons](/orpington-chickens/) tend to coexist without too much drama. Mixing them with Easter Eggers, Australorps, or production breeds usually ends with the Silkies hiding in corners and losing weight.
 
 Keeping Silkies in a separate, dedicated pen is the cleaner solution and the one I'd recommend if you're serious about the breed.
 

@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-
+lastmod: 2026-07-07
 ---
 You crack open an egg from your backyard flock and the shell crumbles in your fingers before you can even get it into the pan. Thin, fragile eggshells are one of the most common complaints among backyard chicken keepers, and there's almost always the same culprit: calcium deficiency. The fix? Oyster shell. It's cheap, it's simple, and it works, yet a surprising number of chicken owners either skip it entirely or get it wrong.
 
@@ -72,6 +72,16 @@ The good news: this is genuinely simple. The best approach for most backyard flo
 [Coarse oyster shell](https://www.amazon.com/s?k=oyster+shell+for+chickens&tag=contentportfo-20) is available from most farm supply stores and online retailers. A 50-pound bag typically costs $15 to $25 and lasts a small flock most of the season. (Disclosure: we may earn a small commission on Amazon purchases.)
 
 ## Oyster Shell vs. Crushed Eggshells: Which One Wins?
+
+| Feature | Oyster Shell | Crushed Eggshells |
+|--------|-------------|------------------|
+| Calcium content | ~96% calcium carbonate | ~90-95% calcium carbonate |
+| Particle size control | Consistent (coarse or fine) | Variable unless processed |
+| Cost | Low ($0.30-0.50/lb) | Free |
+| Disease risk | None | Potential if not heated |
+| Egg-eating association | None | Possible if shells recognized |
+| Availability | Year-round from stores | Depends on your usage rate |
+| Solubility | Excellent | Good |
 
 A lot of backyard keepers ask whether they can just save and feed back their own eggshells instead of buying oyster shell. It's fair to ask, and the answer is: yes, with conditions.
 

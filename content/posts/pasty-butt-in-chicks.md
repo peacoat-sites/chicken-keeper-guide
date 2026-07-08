@@ -23,6 +23,7 @@ faqs:
    a: "The evidence is weak. ACV has real uses in chicken keeping, but preventing pasty butt specifically isn't well-supported. Proper temperature and electrolytes during the first 72 hours are better-documented interventions. Use ACV if you want, but don't rely on it as your prevention strategy."
  - q: "At what age can I stop checking vents?"
    a: "Practically speaking, after two weeks with most chicks. With shipped chicks I'd say 10-14 days minimum before you back off the twice-daily checks. After three weeks, pasty butt is rare enough that you only need to check if a chick is behaving oddly."
+lastmod: 2026-07-07
 ---
 
 Pasty butt kills chicks. Not dramatically, not slowly, wait, actually, pretty slowly, and that's part of why it catches new keepers off guard. The chick looks fine, then a little sluggish, then suddenly it's dead, and you're standing there wondering what happened. What happened was a hardened cap of dried feces sealed the vent shut, backed up the digestive tract, and that was that.
@@ -53,9 +54,19 @@ Working example: A reader named Gretchen from central Ohio messaged me in April 
 
 ## How Often to Check, and When to Stop Worrying
 
+| Factor | Temperature | Timeline | Risk Level |
+| --- | --- | --- | --- |
+| Optimal brooder | 95°F week one, -5°F per week | First 3 weeks | Low |
+| Too cold | Below target | Ongoing | High |
+| Too hot | Above target | Ongoing | High |
+| Shipped chick vulnerability | Any | First 48 hours | High (20-30% affected) |
+| Post-adjustment window | 95°F maintained | Days 2-4 | Moderate |
+| Pasting risk age | N/A | After 3 weeks | Minimal |
+| Pasting risk age | N/A | After 4 weeks | Rare/none |
+
 Check vents twice a day for the first week of life. Morning and evening. Takes about two minutes per brooder box if you develop a rhythm. After day seven, daily checks are fine. After day ten for shipped chicks, you can scale back to checking only if a chick looks off.
 
-Pasty butt almost never occurs after three weeks of age. Once chicks are eating vigorously, moving around actively, and the brooder temperature is appropriate, it largely stops being a concern. I've never seen it in a bird older than four weeks.
+Pasty butt almost never occurs after three weeks of age. Once chicks are eating vigorously, moving around actively, and the [brooder temperature is appropriate](/brooder-setup-for-chicks/), it largely stops being a concern. I've never seen it in a bird older than four weeks.
 
 The time to escalate is when a chick is pasting more than once per day, is lethargic, or won't eat or drink. At that point the cause is probably something beyond normal adjustment stress, possibly illness, possibly a temperature problem in the brooder. Check the brooder setup before assuming the worst.
 

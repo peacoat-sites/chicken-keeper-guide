@@ -23,6 +23,7 @@ faqs:
     a: "Yes. A yard fence that keeps your dogs in will not keep a fox out. Foxes clear a 6-foot fence easily and can squeeze under gaps a standard privacy fence has at ground level. Your outer yard fence may slow a fox down slightly; it won't stop one."
   - q: "Can foxes climb or jump into an open-top run?"
     a: "Red foxes can jump about 3 feet vertically and will scale structures with footholds. Gray foxes are legitimate climbers and can go up a 6-foot wire wall with no help from a post or corner. Any run with more than 4-foot walls and no top should be considered accessible to a motivated gray fox."
+lastmod: 2026-07-07
 ---
 
 Three of my hens died on a Tuesday morning before I'd even had my coffee. I went out to let them out of the run and found feathers everywhere, a hole dug under the hardware cloth, and two Buff Orpingtons gone completely. The third was dead inside the coop. A fox had gotten under the apron, through a gap I thought was too small to matter, and done what foxes do.
@@ -43,13 +44,22 @@ The carry-off behavior is what really throws people. A fox will often take a bir
 
 ## The Hardware Cloth Non-Negotiation
 
-I'll be direct: if your run is covered in chicken wire, you have a decorative fence, not actual predator protection. Chicken wire (also called hexagonal wire netting) is designed to keep chickens in. It is not designed to keep predators out. A motivated fox will chew or pull through it.
+| Material | Gauge | Size | Use Case | Estimated Cost |
+| --- | --- | --- | --- | --- |
+| Hardware cloth | 19-gauge | 1/2-inch | Standard run walls, budget-friendly | $65-85 per 100 ft |
+| Hardware cloth | 16-gauge | 1/2-inch | High fox pressure areas, run walls | Higher cost, more durable |
+| Chicken wire | N/A | Hexagonal mesh | Not recommended for predator protection | Variable |
+| Welded wire | N/A | Variable | Run tops, large free-range areas | Less expensive than hardware cloth |
+| Deer netting | N/A | N/A | Run tops, large free-range areas | Budget option |
+| Automatic coop door | N/A | N/A | Timed/light-sensor closure | $150-180 |
+
+I'll be direct: if your run is covered in chicken wire, you have a decorative fence, not actual [predator protection](/chicken-coop-predator-protection/). Chicken wire (also called hexagonal wire netting) is designed to keep chickens in. It is not designed to keep predators out. A motivated fox will chew or pull through it.
 
 Hardware cloth is the answer. Specifically, 1/2-inch galvanized welded wire, 16 gauge or heavier. You can find the 100-foot rolls of 1/2-inch 19-gauge hardware cloth on Amazon for around $65-85 currently (July 2026 prices, though they fluctuate with steel costs). For your main run walls, I'd go 16-gauge if you're in an area with heavy fox pressure, even though it costs more and is harder to work with.
 
 The apron is where most people skip steps and regret it. An apron is a horizontal extension of your run's fencing that lies flat on the ground and extends outward 12-18 inches. You stake it down or bury it slightly. When a fox digs at the base of your run wall, it hits the apron and can't figure out to dig farther back. This one feature has stopped more digging attempts than almost anything else I've tested.
 
-Here's a concrete example of what that looks like in practice: A reader named Donna from rural Ohio emailed me last spring. She'd lost four birds in three weeks to what she suspected was a fox. She had chicken wire with no apron, a wooden coop with gaps at the roofline corners, and no covered run top. We went through her setup by email. She added a hardware cloth apron, replaced the lower 3 feet of her run walls with 16-gauge half-inch hardware cloth, and added a covered top.
+Here's a concrete example of what that looks like in practice: A reader named Donna from rural Ohio emailed me last spring. She'd lost four birds in three weeks to what she suspected was a fox. She had chicken wire with no apron, a wooden coop with gaps at the roofline corners, and no [covered run](/predator-proof-chicken-coop/) top. We went through her setup by email. She added a hardware cloth apron, replaced the lower 3 feet of her run walls with 16-gauge half-inch hardware cloth, and added a covered top.
 
 Donna reported back six weeks later: zero losses, confirmed fox visits on her trail cam (she'd set one up), and the fox was still coming around but no longer getting in. That's the outcome you're after. You're not eliminating the fox from your property. You're making your coop not worth the effort.
 
@@ -65,7 +75,7 @@ Foxes in my area are most active between 4:30 and 7:30 a.m. and again from about
 
 Your birds need to be locked in before dusk. Not at dusk. Before it.
 
-The single most common mistake I see: people who free-range until dark and then lock up the coop. A fox does not need long. Ten minutes of unattended birds at dusk is enough for it to grab one, especially if it's been watching your routine. Foxes are good at that.
+The single most common mistake I see: people who [free-range until dark](/chicken-run-size-requirements/) and then lock up the coop. A fox does not need long. Ten minutes of unattended birds at dusk is enough for it to grab one, especially if it's been watching your routine. Foxes are good at that.
 
 Automatic coop doors are worth every penny for this reason. The Omlet Automatic Chicken Coop Door (around $150-180 depending on the model) and the Coop Tender (similar price range) both use a light sensor or timer and will close the pop hole without you being there. I've run an Omlet door for three years on my main coop and had exactly zero issues with birds getting locked out or a door failing to close. You can set it to close 20 minutes after sunset if you're not home.
 

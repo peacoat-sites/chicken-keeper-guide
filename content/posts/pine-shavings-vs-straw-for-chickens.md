@@ -23,6 +23,7 @@ faqs:
     a: "Not the fine/dust variety. Use larger-flake pine shavings or aspen, and even then, watch for chicks eating it. Most don't, but some do, and it can cause impaction. Straw is safer for chicks because it's too coarse to peck into their gullets easily."
   - q: "Can I use hay instead of straw?"
     a: "Not really. Hay has seeds and mold risk is higher. Straw is the hollow stalks left after grain is harvested, and it's cleaner. Hay is what you feed, straw is what you bed."
+lastmod: 2026-07-07
 ---
 
 I've kept chickens on pine shavings for eight years and straw for two, and I can tell you straight: most people pick wrong because they're listening to whoever yelled the loudest online, not because they've actually used both for a full year.
@@ -35,9 +36,9 @@ Pine shavings became the default for a reason. They're absorbent, relatively che
 
 The actual advantage here is moisture control. When a hen produces wet droppings (which happens constantly), shavings trap that moisture and let it evaporate faster than straw does. I tested this myself last winter by keeping one side of a coop with shavings and the other with straw, same number of birds, same bedding depth. The shavings side stayed drier by a measurable margin. Temperature was around 35°F at night. By day three, the shavings area was noticeably lighter in color and less matted. The straw side was darker, wetter, and you could smell ammonia more sharply.
 
-That matters because ammonia damages respiratory tissue. Chickens don't show you they're uncomfortable until it's bad. You won't see them coughing like a person would. What you'll see is lethargy, decreased egg production, and sometimes labored breathing if you listen close. I've never had respiratory issues in shavings-bedded coops. I had one flock develop sneezing and watery eyes on straw the second winter I tried it.
+That matters because [ammonia damages respiratory tissue](/chicken-coop-smell-control/). Chickens don't show you they're uncomfortable until it's bad. You won't see them coughing like a person would. What you'll see is lethargy, decreased egg production, and sometimes labored breathing if you listen close. I've never had respiratory issues in shavings-bedded coops. I had one flock develop sneezing and watery eyes on straw the second winter I tried it.
 
-The downside to shavings: they're dustier. If you have asthma or respiratory sensitivity, you'll notice it when you're filling feeders or doing a full cleanout. Dust also irritates the birds' air sacs if the dust concentration gets high enough. Some people solve this by lightly misting the shavings before putting them down, which honestly works and takes 30 seconds with a spray bottle.
+The downside to shavings: they're dustier. If you have asthma or respiratory sensitivity, you'll notice it when you're filling feeders or [doing a full cleanout](/how-to-clean-chicken-coop/). Dust also irritates the birds' air sacs if the dust concentration gets high enough. Some people solve this by lightly misting the shavings before putting them down, which honestly works and takes 30 seconds with a spray bottle.
 
 One other thing everyone gets wrong: cedar shavings. Don't use them. Cedar is toxic to chickens and most small animals. Some older articles still recommend it. Ignore those. Stick to pine or aspen.
 
@@ -47,7 +48,7 @@ Straw's appeal is different. It's what deep litter enthusiasts love because it i
 
 Straw also holds together better when wet, which means you can do a partial cleanout instead of stripping everything down. If a waterer leaks (and one always will), you can pull out the soggy section and replace it without pulling up half the coop. With shavings, one leak turns into a wider problem because the moisture spreads faster.
 
-The problem is ammonia buildup. Straw compacts under bird weight and manure. It doesn't dry out the same way shavings do. This is where deep litter management becomes essential, and it's not as simple as people claim. Deep litter works when you're actively mixing the bedding every few days with a rake or fork. If you're not doing that, you get a thick mat of wet straw on the bottom that becomes an ammonia factory.
+The problem is ammonia buildup. Straw compacts under bird weight and manure. It doesn't dry out the same way shavings do. This is where [deep litter management](/deep-litter-method-chickens/) becomes essential, and it's not as simple as people claim. Deep litter works when you're actively mixing the bedding every few days with a rake or fork. If you're not doing that, you get a thick mat of wet straw on the bottom that becomes an ammonia factory.
 
 When I switched to straw with the intention of doing deep litter, I got lazy about mixing after about three weeks. By week six, I had a compacted layer about four inches thick that reeked. The birds were fine (surprisingly), but the smell was unbearable and the bedding was genuinely nasty. I raked it aggressively and mixed it with fresh straw. That helped for a week. Then it went back to being matted. I ended up doing a full strip-down anyway.
 
@@ -64,6 +65,12 @@ Cold climate? Straw insulates better, but only if it stays dry. In my experience
 Predicting temperature and moisture: A flock on shavings in a 40°F/80% humidity winter coop stays healthier than a flock on straw in the same conditions. Shavings in a 65°F/45% humidity shed with great ventilation? Straw is fine and the birds seem more engaged.
 
 ## Cost and Longevity
+
+| Bedding Type | Absorbency | Dust Level | Cost per Cleanout (10x10 coop) | Ammonia Control | Deep Litter Suitable |
+| --- | --- | --- | --- | --- | --- |
+| Pine Shavings | High | Moderate-High | ~$70 | Excellent | No |
+| Straw | Moderate | Low | ~$20-$32 | Fair (requires active management) | Yes |
+| Cedar Shavings | - | - | - | - | **Do Not Use** |
 
 This calculation matters more than people think. A 4-cubic-foot bag of pine shavings covers roughly 15 square feet at standard 4-inch depth. For a 10x10 coop that's 100 square feet, you're looking at about 6-7 bags per cleanout. At $10 per bag, that's $70 per full cleanout.
 

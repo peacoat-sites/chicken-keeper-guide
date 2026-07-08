@@ -23,11 +23,11 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
 One of my hens sounded like a tiny accordion last October. That wet, rattling wheeze coming out of a bird that had been perfectly fine the week before is something you don't forget. If you're reading this because you heard something similar today, or because one of your girls has a puffy eye or a runny nose, I want you to take a breath. You're not a bad chicken keeper. This happens to everyone eventually, and what you do in the next 24 to 48 hours matters a lot.
 
-Respiratory illness is probably the most common health problem backyard flock owners contact me about. It's also one of the most confusing, because the symptoms overlap wildly between a handful of very different diseases. A rattling cough could be Mycoplasma gallisepticum. It could be Infectious Bronchitis. It could be Aspergillosis if they got into moldy bedding. Knowing which one you're dealing with changes everything, including whether antibiotics will help at all.
+Respiratory illness is probably the most common health problem backyard flock owners contact me about. It's also one of the most confusing, because the symptoms overlap wildly between a handful of very different diseases. A rattling cough could be [Mycoplasma gallisepticum](/chicken-health-problems/). It could be Infectious Bronchitis. It could be Aspergillosis if they got into moldy bedding. Knowing which one you're dealing with changes everything, including whether antibiotics will help at all.
 
 I'm going to walk you through what I actually do when I see these signs, what's likely, what's serious, and where people tend to go wrong.
 
@@ -43,15 +43,22 @@ Here's how I triage it in my own yard.
 
 **Swollen sinuses, one-sided facial swelling, frothy eyes.** Mycoplasma synoviae or Infectious Coryza both cause this kind of presentation. Coryza has a distinctive, awful smell to the nasal discharge, sort of sweet and rotten. If you smell it, you'll know it. Coryza responds to antibiotics but it's highly contagious and re-infection is possible because immunity after illness is incomplete.
 
-**Gasping, especially in young birds, or birds that look like they're stretching their necks to breathe.** This is the one that should make you move fast. Gapeworm can cause gasping (you can sometimes see the worms by looking down the bird's throat with a flashlight), but in vaccinated or adult birds, Newcastle Disease is the nightmare scenario. True virulent Newcastle is reportable to the USDA. If birds are dying rapidly and gasping, call your state veterinarian's office before doing anything else.
+**Gasping, especially in young birds, or birds that look like they're stretching their necks to breathe.** This is the one that should make you move fast. Gapeworm can cause gasping (you can sometimes see the worms by looking down the bird's throat with a flashlight), but in vaccinated or adult birds, [Newcastle Disease](/newcastle-disease-chickens/) is the nightmare scenario. True virulent Newcastle is reportable to the USDA. If birds are dying rapidly and gasping, call your state veterinarian's office before doing anything else.
 
 ## The Mistake Most People Make First
+
+| Symptom Pattern | Likely Disease | Treatment | Contagion Risk |
+| --- | --- | --- | --- |
+| One bird, mild symptoms | Mycoplasma gallisepticum (MG/CRD) | Tylosin (Tylan 50 or Tylan Soluble) | Carrier remains in flock permanently |
+| Multiple birds, rapid spread, rattling sounds | Infectious Bronchitis (IB) | Supportive care only (no antibiotic) | Spreads through flock in days |
+| Swollen sinuses, facial swelling, frothy eyes | Mycoplasma synoviae or Infectious Coryza | Oxytetracycline or Tylosin; Coryza responds to antibiotics | Coryza highly contagious, incomplete immunity |
+| Gasping, neck stretching, rapid mortality | Gapeworm or Newcastle Disease | Contact state veterinarian immediately | Newcastle is reportable to USDA |
 
 Grabbing whatever antibiotic they have on hand and dosing the whole flock.
 
 I understand why. It feels like doing something. It feels responsible. But antibiotics do nothing against viral diseases, which probably account for 60 to 70 percent of backyard respiratory cases. And overusing them contributes to resistance, which matters if you ever have a bacterial infection you genuinely need to treat.
 
-The two antibiotics most commonly used for respiratory illness in backyard chickens are Tylosin (sold as Tylan 50 injectable or Tylan Soluble powder) and Oxytetracycline (sold as Duramycin or Terramycin). Tylosin is specifically good for Mycoplasma. Oxytetracycline has broader spectrum use but weaker Mycoplasma coverage.
+The two antibiotics most commonly used for [respiratory illness in backyard chickens](/vet-care-for-chickens/) are Tylosin (sold as Tylan 50 injectable or Tylan Soluble powder) and Oxytetracycline (sold as Duramycin or Terramycin). Tylosin is specifically good for Mycoplasma. Oxytetracycline has broader spectrum use but weaker Mycoplasma coverage.
 
 [Tylan Soluble Powder is available on Amazon](https://www.amazon.com/s?k=tylan+soluble+powder+poultry) and I've used it directly, dissolved in drinking water. Note that as of late 2023, there are new FDA rules under VFD (Veterinary Feed Directive) regulations affecting how some of these drugs can be obtained. Depending on your state, you may need a vet relationship to get them. This is worth knowing before you're in a crisis.
 

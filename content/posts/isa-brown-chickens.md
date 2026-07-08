@@ -23,6 +23,7 @@ faqs:
    a: "They can and often love it. They're not particularly flighty or escape-prone. Standard predator precautions apply, and like any free-ranging bird they'll need a secure, covered run or constant supervision in areas with aerial predator pressure."
  - q: "Do ISA Browns lay in winter?"
    a: "Better than most breeds. They'll slow down, especially once they've hit their first molt, but with 14-16 hours of supplemental light they'll maintain reasonable production through winter. Don't expect summer numbers, but you won't be eggless either."
+lastmod: 2026-07-07
 ---
 
 If you've spent any time on chicken forums or at a farm supply store in spring, you've almost certainly run into someone who swears by ISA Browns. And if you're here, you're probably trying to figure out whether the hype is real or whether you're about to fall for the chicken equivalent of a used car sales pitch.
@@ -36,6 +37,14 @@ ISA Browns aren't a breed in the traditional sense. They're a commercial hybrid,
 This matters to backyard keepers because it explains both why ISA Browns perform the way they do, and why they wear out the way they do.
 
 ## Egg Production That Will Actually Surprise You
+
+| Aspect | ISA Brown | Heritage Breed Example | Notes |
+| --- | --- | --- | --- |
+| Eggs per year (peak) | 300-320 | ~200 | First laying cycle; heritage birds maintain production longer |
+| Laying lifespan | 2-3 years before health decline | 5-6 years | ISA Browns experience accelerated reproductive wear |
+| Protein requirement | 16-18% layer pellet | 16-18% layer pellet | No difference in feed specifications |
+| Temperament | Calm, curious, easy to handle | Varies by breed | ISA Browns notably calmer than Leghorns |
+| Lifespan (practical) | 3 years or less | 7-8 years | Expected, not edge cases, for production hybrids |
 
 I've kept a lot of breeds over the years. Barred Rocks, Black Australorps, Easter Eggers, Buff Orpingtons. I like heritage birds. But the first time I kept ISA Browns, the egg production still caught me off guard.
 
@@ -59,7 +68,7 @@ There's no judgment in either approach. You just need to go in knowing.
 
 ## Temperament and Flock Dynamics
 
-Genuinely one of the nicest production birds you'll keep. ISA Browns tend to be curious, calm, and quick to bond with their keepers. They're not as lap-chicken tame as a Silkie, but compared to Leghorns, which can be flighty and high-strung, ISA Browns are remarkably easy to handle. I've recommended them to people with kids specifically for this reason.
+Genuinely one of the nicest production birds you'll keep. ISA Browns tend to be curious, calm, and quick to bond with their keepers. They're not as lap-chicken tame as a [Silkie](/silkie-chickens/), but compared to Leghorns, which can be flighty and high-strung, ISA Browns are remarkably easy to handle. I've recommended them to people with kids specifically for this reason.
 
 In a mixed flock, they hold their own without being aggressive. They're not dominant birds, so if you're mixing them with assertive breeds like Rhode Island Reds or Welsummers, keep an eye on pecking order dynamics during integration. Standard integration protocols apply: divide the coop with hardware cloth for a week or two before combining the groups.
 

@@ -12,6 +12,7 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 slug: "chickens-are-now-americas-third-most-popular-pet"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 
 If you'd told me ten years ago that chickens would one day rank behind only cats and dogs as America's most popular pet, I would have laughed and gone back to cleaning my coop. But here we are, July 2026, and that's exactly where things stand. An estimated 85 million backyard or household chickens now live in the United States, and the cultural shift driving that number isn't what most people assume. Egg prices crashed back to $2.19 a dozen by May 2026, down from the painful $6.23 high we all felt in March 2025. The economic argument for keeping chickens has largely evaporated. And yet flock numbers keep climbing. Google Trends searches for "backyard chickens" are spiking again. Something else is going on here, and if you're already keeping hens, or thinking about starting, it's worth understanding what that something is.
@@ -23,6 +24,14 @@ This is the part that surprises economists but not anyone who actually keeps chi
 What's happening is that people came for the eggs and stayed for the chickens. That's not a cute thing to say. It's what the data actually shows. A University of Winchester survey of more than 2,000 chicken owners found that over 90% said they would never kill their birds for consumption, and more than 75% did not consider their chickens morally less important than dogs. Those are stunning numbers for an animal that the agriculture industry still classifies as livestock. When three quarters of chicken owners are putting their hens in the same moral category as their Labrador, you're not looking at a farming trend anymore. You're looking at a pet trend.
 
 ## What It Actually Means to Keep a Chicken as a Pet
+
+| Chicken Breed | Temperament | Egg Production | Pet Suitability |
+| --- | --- | --- | --- |
+| Silkie | Calm, responsive, curious | Lower | Excellent |
+| Cochin | Calm, responsive, curious | Lower | Excellent |
+| Buff Orpington | Calm, responsive, curious | Good | Excellent |
+| Easter Egger | Calm, responsive, curious | Good | Excellent |
+| Production Red Star | Independent, minimal human interest | Excellent | Fair |
 
 You might be wondering whether chickens are really capable of the kind of bond people associate with dogs or cats. I get that question constantly, and here's what I tell people: it depends enormously on the breed and how much you handle them early.
 

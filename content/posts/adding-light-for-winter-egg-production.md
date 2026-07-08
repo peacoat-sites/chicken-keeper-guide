@@ -23,13 +23,14 @@ faqs:
    a: "There's no evidence that properly managed supplemental lighting harms hen health. The one legitimate concern is that it may shorten a hen's productive laying years by accelerating the use of her finite egg supply. For most backyard keepers, that tradeoff is acceptable, but it's worth understanding before you start."
  - q: "My hens still aren't laying after two weeks of supplemental light. What's wrong?"
    a: "Check a few things: are they getting a full 14 hours of combined light? Are they eating a quality layer feed with adequate protein (16% or higher)? Have they recently finished or are they still in the middle of a molt? Some breeds, especially heritage and dual-purpose breeds, take four to six weeks to respond, and a few won't respond meaningfully at all regardless of lighting."
+lastmod: 2026-07-07
 ---
 
 Most people think you just screw in a light bulb and wait for eggs. I thought the same thing my first winter keeping chickens, and I ended up with a flock of confused, sleep-deprived hens, a too-bright coop that stressed them out, and exactly zero improvement in production for about three weeks. So let me tell you what actually works, because the advice floating around most forums is vague enough to be useless.
 
 The core thing to understand: hens stop laying in winter because their bodies are responding to day length, not temperature. A hen's pineal gland detects light through her eye, and when day length drops below roughly 14 hours, her reproductive system basically goes dormant. She's not lazy. She's doing what 10,000 years of evolution trained her to do. Supplemental lighting tricks that system into thinking it's still late spring.
 
-What surprised me when I dug into this more seriously was how precise the threshold actually is. It's not "less light means fewer eggs." It's closer to a switch. Most breeds hold production reasonably well until photoperiod drops below 14 hours, then output falls off a cliff. Above 16 hours produces no additional benefit over 14. That 2-hour window is where you're working.
+What surprised me when I dug into this more seriously was how precise the threshold actually is. It's not "less light means fewer eggs." It's closer to a switch. Most breeds hold production reasonably well until [photoperiod drops below 14 hours](/egg-production-per-year-by-breed/), then output falls off a cliff. Above 16 hours produces no additional benefit over 14. That 2-hour window is where you're working.
 
 ## What Kind of Light, and How Much
 
@@ -60,6 +61,12 @@ The research here is mixed on whether you should supplement light for hens going
 Some people will tell you that supplementing light delays molt, which is true but not necessarily a problem. Hens who didn't molt heavily the previous summer may skip or compress it. Watch your flock individually.
 
 ## The Breeds That Actually Respond
+
+| Breed Type | Response Speed | Production Level | Notes |
+| --- | --- | --- | --- |
+| Production (Leghorn, Golden Comet, ISA Brown) | Fast (2 weeks) | ~90% | Responds dramatically to supplemental light |
+| Heritage (Dominique, Buckeye) | Slow/Variable | Lower | May not respond significantly until January |
+| Ornamental (Silkie, Easter Egger) | Minimal | Low | May not respond strongly regardless of light schedule |
 
 Not every breed cares equally about this. Production breeds, your Leghorns, Golden Comets, ISA Browns, will respond fast and dramatically. My ISA Browns went from near-zero to 90% production within two weeks of starting the light program. Heritage breeds are more variable. My Dominiques came back slower, and my Buckeyes barely budged until January regardless of light schedule. Silkies, Easter Eggers, and most ornamental breeds may not respond strongly at all.
 

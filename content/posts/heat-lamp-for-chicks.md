@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-
+lastmod: 2026-07-07
 ---
 Three chicks died in my first brooder before I figured out what I was actually doing wrong. Not from cold. From heat. I'd set up a 250-watt red heat lamp about 18 inches above the bedding, figured that was "about right" based on a quick Google search, and watched my little flock of straight-run Easter Eggers pile into one corner and pant for two days before I connected the dots. By the time I got the temperature right, I'd already lost three.
 
@@ -36,6 +36,14 @@ Brooder plates. Mama heating pads. Radiant heat panels. Yeah, they exist, and I 
 What surprised me was how many people get burned (sometimes literally) not because heat lamps are inherently dangerous, but because they're using hardware store setups that weren't designed for sustained high-heat operation. More on that in a minute.
 
 ## Choosing the Right Bulb: Red vs. White vs. Ceramic
+
+| Bulb Type | Wattage | Best For | Fixture Requirement |
+| --- | --- | --- | --- |
+| Red heat lamp | 250W (typical) | Traditional choice; may reduce pecking behavior | Standard clamp fixture |
+| White clear bulb | 250W (typical) | Runs hotter than red at same wattage | Standard clamp fixture |
+| Ceramic heat emitter | 100-150W | No light; allows normal sleep cycle | **Porcelain socket, high-temp rated** |
+| 250W lamp in warm indoor space | 250W | Often overkill | Standard clamp fixture |
+| 150W lamp in warm indoor space | 150W | Better for small indoor brooders | Standard clamp fixture |
 
 Most people buy whatever's on the shelf. Usually that's a 250-watt red heat lamp bulb, and honestly that's a fine starting point for a brooder in a typical 60-70°F space. But the options aren't all the same.
 

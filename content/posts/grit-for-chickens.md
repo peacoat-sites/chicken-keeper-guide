@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-
+lastmod: 2026-07-07
 ---
 You crack open an egg from your backyard flock and notice something wrong: thin shells, brittle, cracking under the slightest pressure. For two weeks now. You've checked the feed. Calcium levels look fine. You've watched them eat. Nothing obvious is broken. The answer's probably sitting right under your nose: your chickens don't have access to proper grit, and their digestive systems are quietly falling apart. It sounds almost too simple to matter, but grit is one of the most overlooked essentials in backyard chicken care, and skipping it can wreck your flock's health before you realize what happened.
 
@@ -46,6 +46,13 @@ This is where new chicken keepers usually get tripped up. There are two complete
 Think of it this way: oyster shell feeds the bird, granite grit works for the bird. You need both, but for different reasons, and they shouldn't be substituted for each other.
 
 ## Choosing the Right Grit Size
+
+| Bird Age | Grit Size | Notes |
+|---|---|---|
+| 0 to 2 weeks | Parakeet grit or fine chick grit | Very fine particles only |
+| 2 to 8 weeks | Chick grit (fine) | Roughly the size of coarse sand |
+| 8 to 16 weeks | Grower grit (medium) | Transition size for pullets |
+| 16 weeks and older | Adult/hen grit (coarse) | Granite pieces around 2 to 4 mm |
 
 Grit size matters more than most people realize. A piece of granite that's perfect for an adult hen is potentially dangerous for a three-week-old chick, who could choke on it or suffer an impacted gizzard. Most manufacturers sell grit in at least three grades, and matching the grade to your birds' age is important.
 

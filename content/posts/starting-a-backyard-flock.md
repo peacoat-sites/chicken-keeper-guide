@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
 The first egg I ever collected was from a Black Australorp named Harriet, and I carried it inside with both hands like it was made of gold. My husband pointed out I was being ridiculous. He wasn't wrong. But twelve years and over 200 birds later, I can tell you that feeling never fully goes away, and it's exactly the reason backyard flocks have exploded in popularity. According to the USDA, backyard poultry keeping grew by nearly 4 million households between 2012 and 2019, and that number has only climbed since. If you're thinking about starting your own flock, you're not alone, and you're not too late.
 
@@ -66,6 +66,13 @@ A few practical additions save your sanity: a good automatic coop door opener (t
 *(Disclosure: This site may earn a small commission on purchases made through Amazon links at no extra cost to you.)*
 
 ## Feeding and Watering: Getting the Basics Right
+
+| Life Stage | Age Range | Feed Type | Protein % | Notes |
+| --- | --- | --- | --- | --- |
+| Chick | 0-8 weeks | Chick starter | 18-20% | Crumbled for small beaks |
+| Growing | 8-18 weeks | Grower feed | 16-18% | Transition stage |
+| Laying | 18-22 weeks+ | Layer feed | Varies | Contains added calcium; offer oyster shell free-choice |
+| All ages | Ongoing | Oyster shell | N/A | Separate container; hens self-regulate once laying |
 
 Feed is straightforward, but a few rules matter.
 

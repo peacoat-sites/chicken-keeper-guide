@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
 Your neighbor shows up at your fence one Saturday morning holding a cardboard box with holes punched in the lid. Inside: six fluffy Buff Orpington chicks, peeping like crazy. She got them on impulse at the feed store, her landlord said absolutely not, and now she's looking at you with that face. That's how a lot of people get into chickens. Maybe that's you right now, staring at a box of chicks with zero idea what to do next. The good news is you're not in over your head. Chickens are genuinely one of the more forgiving livestock animals a beginner can start with, but they do have real needs, and getting those basics right in the first few months sets the tone for everything.
 
@@ -31,7 +31,7 @@ Your neighbor shows up at your fence one Saturday morning holding a cardboard bo
 
 Skip the romanticized version. Let's talk logistics first.
 
-Before a single bird enters your yard, you need a brooder setup for chicks, or a finished coop and run if you're starting with adult birds. Most beginners start with day-old or week-old chicks from a hatchery, a local feed store, or a breeder. Chicks can't regulate body temperature on their own for the first several weeks, so they need a heat source, bedding, food, and water from day one.
+Before a single bird enters your yard, you need a brooder setup for chicks, or a finished coop and run if you're starting with adult birds. Most beginners start with day-old or week-old chicks from a hatchery, a local feed store, or a breeder. [Chicks can't regulate body temperature](/how-to-raise-chickens/) on their own for the first several weeks, so they need a heat source, bedding, food, and water from day one.
 
 A basic brooder can be a large plastic storage bin, a galvanized stock tank, or even a cardboard box in a pinch. Line the bottom with 2 to 3 inches of pine shavings (avoid cedar, those aromatic oils mess with their respiratory systems). You'll need a heat lamp, or better yet, a radiant heat plate like the [Brinsea EcoGlow](https://www.amazon.com/s?k=brinsea+ecoglow+brooder&tag=contentportfo-20) (this site may earn a commission on purchases). Heat plates are safer than lamps and more closely mimic a mama hen. For the first week, aim for about 95 degrees Fahrenheit directly under the heat source, dropping 5 degrees each week until the chicks are fully feathered out around 6 to 8 weeks.
 
@@ -40,6 +40,15 @@ Feed chicks a quality chick starter crumble with 18 to 20 percent protein. I lik
 One more thing before chicks arrive: check your local ordinances. Call your city or county office, or check their website. Many suburban areas allow hens but not roosters. Some cap flock size at 4 or 6 birds. Some require permits. Find out before you get attached to 12 birds you're then forced to rehome.
 
 ## Choosing the Right Breed for a Backyard Flock
+
+| Breed | Egg Production | Temperament | Cold Hardy | Notes |
+|---|---|---|---|---|
+| Buff Orpington | 200-280 eggs/year | Docile, friendly | Yes | Great for families with kids |
+| Rhode Island Red | 250-300 eggs/year | Assertive, curious | Yes | One of the best layers available |
+| Australorp | 250-300 eggs/year | Calm, quiet | Yes | World record holder for egg production |
+| Barred Plymouth Rock | 200-280 eggs/year | Friendly, curious | Yes | Dual-purpose, good meat quality too |
+| Easter Egger | 200-280 eggs/year | Varies | Yes | Lays blue/green eggs, a crowd pleaser |
+| Silkie | 100-150 eggs/year | Very gentle | No | Poor layers but beloved as pets |
 
 Not all chickens are created equal.
 

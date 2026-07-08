@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-
+lastmod: 2026-07-07
 ---
 You walk out to the coop one morning, lift the nesting box lid, and find nothing. Not one egg. Yesterday there were four. The day before, five. You check again in the afternoon, just to be sure. Still nothing. If this sounds familiar, you're not alone, and you're also not doing anything wrong. Hens stop laying for more reasons than most beginners expect, and here's the frustrating part: several of those reasons can be happening at the same time.
 
@@ -33,7 +33,7 @@ Your hen's reproductive system is controlled almost entirely by light. Specifica
 
 The breeds most sensitive to this are also, ironically, some of the most popular ones. Leghorns, Rhode Island Reds, and Plymouth Rocks will all slow down significantly once you get below 12 hours of daylight. Easter Eggers and Ameraucanas tend to be a little more forgiving, but they're not immune.
 
-The practical fix is supplemental lighting. A simple incandescent or LED bulb in the coop on a timer, adding light in the early morning hours to bring the total to 14 to 16 hours, is usually enough to keep production going through winter. I use a basic outlet timer and a 40-watt equivalent LED bulb. Nothing fancy. Some people object to this on welfare grounds, and that's a fair conversation to have with yourself. Hens have a finite number of eggs in them over a lifetime, and pushing winter production does mean potentially shorter productive years. But if you need eggs through January, that's your call to make.
+The practical fix is [supplemental lighting](/adding-light-for-winter-egg-production/). A simple incandescent or LED bulb in the coop on a timer, adding light in the early morning hours to bring the total to 14 to 16 hours, is usually enough to keep production going through winter. I use a basic outlet timer and a 40-watt equivalent LED bulb. Nothing fancy. Some people object to this on welfare grounds, and that's a fair conversation to have with yourself. Hens have a finite number of eggs in them over a lifetime, and pushing winter production does mean potentially shorter productive years. But if you need eggs through January, that's your call to make.
 
 One thing people miss: the light needs to be bright enough. A dim 15-watt bulb hanging in a 10x10 coop probably isn't doing much. You want at least 1 watt of incandescent-equivalent light per 4 square feet of floor space, with the bulb positioned so light reaches all the birds.
 
@@ -48,6 +48,16 @@ What you should do during molt: bump up the protein in her diet. Standard layer 
 Don't be surprised if a hen who molts in October doesn't come back into full production until February or March. That's normal. She's not broken.
 
 ## Age, Stress, and the Things You Can't See From the Outside
+
+| Factor | Duration | Impact on Laying |
+| --- | --- | --- |
+| Molt | 8-16 weeks | Complete stop; protein needs increase |
+| Winter (below 14 hours light) | Late fall through winter | Dramatic drop; recoverable with supplemental light |
+| Peak laying years | Years 1-3 | 5+ eggs/week; declines after year 3 |
+| Year 3-4 decline | Ongoing | 3 eggs/week down to 1-2 |
+| Year 5+ | Ongoing | 1-2 eggs/week; may skip weeks |
+| Stress recovery | ~2 weeks | Full resumption of normal laying |
+| Post-molt return to production | February-March (if molted Oct) | Can be 4+ months after molt starts |
 
 A hen's peak laying years are her first two to three. After that, production declines. A two-year-old Buff Orpington who was laying 5 eggs a week might be down to 3 by year three, and down to 1 or 2 by year four. She may skip weeks entirely by year five. It's not a sudden stop, but it can feel like one if you weren't tracking her output closely.
 

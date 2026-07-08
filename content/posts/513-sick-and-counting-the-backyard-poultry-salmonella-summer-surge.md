@@ -12,6 +12,7 @@ author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
 slug: "513-sick-and-counting-the-backyard-poultry-salmonella-summer-surge"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 If you picked up chicks this spring, you're probably right in the middle of that happy phase right now. The brooder is gone, the birds are outside, you're figuring out your routine. Maybe your kids are obsessed with them. That's exactly where most people are when they get blindsided by what the CDC is tracking this summer, and it's worth slowing down for a few minutes to understand what's actually happening out there.
 
@@ -27,9 +28,17 @@ Seven hatcheries have been linked to the outbreak strains so far. But here's wha
 
 ## Five Salmonella Strains at Once, and Some of Them Are Harder to Treat
 
+| Salmonella Strain | Confirmed Cases | Notes |
+| --- | --- | --- |
+| Saintpaul | 133 | Largest strain in current outbreak |
+| Enteritidis | Not specified | One of five strains tracked |
+| Indiana | Not specified | One of five strains tracked |
+| Infantis | Not specified | One of five strains tracked |
+| Mbandaka | Not specified | One of five strains tracked |
+
 This isn't a single outbreak. The CDC is simultaneously tracking five Salmonella strains: Enteritidis, Indiana, Infantis, Mbandaka, and Saintpaul. Saintpaul is the largest right now, with 133 confirmed patients, according to the CDC's active investigation page.
 
-The strain variety matters for a reason most people don't think about until they're in a doctor's office. Some of the 2026 outbreak samples show predicted antibiotic resistance to fosfomycin, chloramphenicol, streptomycin, sulfisoxazole, and tetracycline. That's a meaningful list. It doesn't mean treatment is impossible, but it does mean that a case serious enough to require intervention could be more complicated than a typical foodborne illness situation. For a healthy adult, Salmonella is miserable and then it's over. For a young child, an elderly person, or someone immunocompromised, "more complicated" can become dangerous fast.
+The strain variety matters for a reason most people don't think about until they're in a doctor's office. Some of the 2026 outbreak samples show predicted [antibiotic resistance](/drug-resistant-salmonella-is-spreading-from-backyard-flocks-right-now/) to fosfomycin, chloramphenicol, streptomycin, sulfisoxazole, and tetracycline. That's a meaningful list. It doesn't mean treatment is impossible, but it does mean that a case serious enough to require intervention could be more complicated than a typical foodborne illness situation. For a healthy adult, Salmonella is miserable and then it's over. For a young child, an elderly person, or someone immunocompromised, "more complicated" can become dangerous fast.
 
 Your chickens can carry these strains and show zero signs of illness. That's the part people consistently underestimate. A bird that looks healthy, eats well, and lays reliably can still be shedding Salmonella in its droppings. There's no visual cue. No way to tell by looking.
 

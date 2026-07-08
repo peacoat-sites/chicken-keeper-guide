@@ -23,6 +23,7 @@ faqs:
    a: "Take photos at regular intervals and compare birds side by side. Behavioral cues (mounting, aggressive posturing) are often your clearest signal in unusual breeds by 7 to 8 weeks. Keep detailed notes if you're hatching repeatedly, you'll start seeing patterns specific to your genetics."
  - q: "Can I tell if a cockerel is going to be aggressive before he's fully grown?"
    a: "To some degree. Young roosters that already bully siblings heavily or jump at your hand frequently tend to stay aggressive. Gentler cockerels sometimes mellow slightly as they mature, but a jerk at 6 weeks is usually a jerk at 6 months."
+lastmod: 2026-07-07
 ---
 
 I'll be honest: this is the question that haunted my first year of chicken keeping. I ordered six "pullets" from a hatchery in April, and by August, I had four teenage girls and two increasingly aggressive roosters. The hatchery's response was basically "whoops, sexing errors happen," which is true, but it doesn't help when you're staring down a bird with wattles the size of grapes and a tail that's starting to curve like a question mark.
@@ -33,11 +34,17 @@ The thing is, early-stage sexing isn't actually that hard once you know what you
 
 Professional hatcheries use a method called vent sexing. It's performed at one day old, when chicks are literally a day out of the egg. A trained sexer (yes, that's a real job) looks at the cloaca, the single opening birds use for waste and reproduction, and identifies the tiny bump that indicates a male. It's incredibly fast, and they do it with maybe a 5% error rate on average.
 
-Five percent doesn't sound catastrophic until you do the math. If you order 20 chicks, you're statistically going to get one wrong. If you order a larger batch, the errors compound. Last spring, I corresponded with a reader named Marcus in rural Kentucky who ordered 50 chicks from a major US hatchery marked "all female." He ended up with 12 cockerels. The hatchery refunded him $20 per bird, which covered nothing, he'd already built housing for the flock size he thought he was getting.
+Five percent doesn't sound catastrophic until you do the math. If you [order 20 chicks](/buying-chicks-online/), you're statistically going to get one wrong. If you order a larger batch, the errors compound. Last spring, I corresponded with a reader named Marcus in rural Kentucky who ordered 50 chicks from a major US hatchery marked "all female." He ended up with 12 cockerels. The hatchery refunded him $20 per bird, which covered nothing, he'd already built housing for the flock size he thought he was getting.
 
-The reason this matters isn't just annoyance. Cockerels grow faster than pullets, eat more, take up space, and by the time they're obviously male (around 8 to 12 weeks), you've already sunk money into feed. And if you can't identify them sooner, you're flying blind on your own flock management.
+The reason this matters isn't just annoyance. Cockerels grow faster than pullets, eat more, take up space, and by the time they're obviously male (around 8 to 12 weeks), you've [already sunk money into feed](/chick-starter-feed/). And if you can't identify them sooner, you're flying blind on your own flock management.
 
 ## Reading the Wattles and Comb
+
+| Age | Pullet Indicators | Cockerel Indicators |
+| --- | --- | --- |
+| 3-4 weeks | Flat, modest comb; small wattles | Thickening, upright comb; pendulous, fast-growing wattles |
+| 5-6 weeks | Soft peeping and chirping | Harsh, strained vocalization; more aggressive behavior |
+| 6-8 weeks | Straight tail feathers; rounder, compact body | Sickle feathers curving above main tail; horizontal, leaner body profile; heavier, thicker legs |
 
 Here's what separates the two from about 3 weeks onward: the comb and wattles develop differently, and development is your most reliable early signal.
 
@@ -45,7 +52,7 @@ On a pullet, the comb stays relatively flat and modest. You might see a little t
 
 On a cockerel, the comb starts thickening and standing up much earlier. By 4 weeks, a young rooster's comb is noticeably larger and more upright than his female siblings. The wattles become pendulous, they hang down, and they grow faster. This is happening because males have higher testosterone even as chicks, and that hormone is redirected almost entirely into secondary sexual characteristics. Girls don't need big combs. Boys do.
 
-When I tested this approach on my own flock in spring 2024, I looked at a mixed batch of 15 chicks at exactly 4 weeks old. I sorted them by comb development alone, no other markers. I got 13 out of 15 correct. The two I missed were a particularly feminine-looking cockerel and a particularly coarse-looking pullet, but comb size was still the better predictor than my gut feeling.
+When I tested this approach on my own flock in spring 2024, I looked at a [mixed batch of 15 chicks](/raising-baby-chicks/) at exactly 4 weeks old. I sorted them by comb development alone, no other markers. I got 13 out of 15 correct. The two I missed were a particularly feminine-looking cockerel and a particularly coarse-looking pullet, but comb size was still the better predictor than my gut feeling.
 
 The challenge is that some breeds throw a wrench into this. Silkies and Sebrights have different comb structures than your standard red sex-link. Bantam breeds can look weird even when they're developing normally. If you've got a mixed-breed flock or heritage breeds, you need to compare apples to apples, watch how your chicks develop relative to each other, not against some mental image from the internet.
 

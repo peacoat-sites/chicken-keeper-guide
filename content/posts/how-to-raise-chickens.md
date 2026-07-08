@@ -23,9 +23,9 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-
+lastmod: 2026-07-07
 ---
-Your first flock of baby chicks arrives in a small cardboard box, peeping like crazy, and you realize you have no idea what you're doing. That moment is more common than you'd think. I've watched dozens of neighbors and friends go through it, and I've been there myself, standing in my kitchen at 6 AM with 25 Rhode Island Reds and a heat lamp I wasn't sure I'd set up correctly. The good news: chickens are forgiving. They're tougher than they look, and with the right foundation, raising a healthy flock is absolutely something a complete beginner can do.
+Your first flock of baby chicks arrives in a small cardboard box, peeping like crazy, and you realize you have no idea what you're doing. That moment is more common than you'd think. I've watched dozens of neighbors and friends go through it, and I've been there myself, standing in my kitchen at 6 AM with 25 Rhode Island Reds and a heat lamp I wasn't sure I'd set up correctly. The good news: chickens are forgiving. They're tougher than they look, and with the right foundation, [raising a healthy flock](/backyard-chickens-for-beginners/) is absolutely something a complete beginner can do.
 
 ## What You Need Before Your Chicks Arrive
 
@@ -56,6 +56,13 @@ The most important measurements: allow at least 4 square feet of indoor coop spa
 If you're building or buying your first coop, [The Chicken Chick's Guide to Backyard Chickens](https://www.amazon.com/s?k=chicken+chick+guide+backyard+chickens) by Kathy Shea Mormino is a genuinely useful reference for setup decisions. *(This site may earn a commission on qualifying purchases.)*
 
 ## Feeding Your Flock Through Every Stage
+
+| Life Stage | Feed Type | Protein % | Notes |
+|---|---|---|---|
+| 0 to 8 weeks (chicks) | Chick Starter | 18 to 20% | Medicated or unmedicated |
+| 8 to 18 weeks (pullets) | Grower/Developer | 16 to 18% | Lower calcium than layer feed |
+| 18 weeks and beyond (laying hens) | Layer Feed | 15 to 17% | Added calcium for eggshell quality |
+| Broilers (meat birds) | Broiler/Meat Bird Feed | 20 to 22% | High protein for rapid growth |
 
 Chickens have different nutritional needs depending on their age, and mixing up those stages can cause real problems.
 

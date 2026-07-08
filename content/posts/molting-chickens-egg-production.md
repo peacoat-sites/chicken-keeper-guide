@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-
+lastmod: 2026-07-07
 ---
 You did everything right. The coop is clean, the water is fresh, the feed is stocked, and then one October morning you walk out to collect eggs and find almost nothing in the nest boxes. Meanwhile your hens look like they lost a fight with a leaf blower. Feathers everywhere. Bare patches on necks and backs. They look terrible and you're getting maybe one egg every few days from a flock that was cranking out a dozen. Most people panic and start troubleshooting the wrong things. The real answer is simpler and more frustrating: your hens are molting, and there's not a whole lot you can do to speed it up.
 
@@ -41,11 +41,32 @@ I'll be honest: the first time I lost 90% of my flock's egg production for two m
 
 Feathers are approximately 85% protein. Growing a full coat of new feathers is a massive protein demand. At the same time, egg production requires significant protein, calcium, and energy. The hen's body can't do both efficiently, so it makes a trade. Egg production essentially shuts down. Some hens will lay an occasional egg during molt, especially early on or near the end when the new feathers are mostly grown in, but don't count on it.
 
-Here's what this means practically: if you're keeping chickens partly for food production, you need to plan around molting. A flock of 8 hens might go from producing 5 to 6 eggs per day down to 0 to 2 eggs per day for 6 to 10 weeks. That's real. And it happens right as days are getting shorter, which adds another layer of production suppression even after the molt finishes, unless you're using supplemental lighting.
+Here's what this means practically: if you're keeping chickens partly for food production, you need to plan around molting. A flock of 8 hens might go from producing 5 to 6 eggs per day down to 0 to 2 eggs per day for 6 to 10 weeks. That's real. And it happens right as days are getting shorter, which adds another layer of production suppression even after the molt finishes, unless you're using [supplemental lighting](/adding-light-for-winter-egg-production/).
 
 The research here is mixed on whether adding artificial light during molt helps or hurts. Some sources say keeping the light cycle stable prevents the molt trigger from firing as strongly. Others suggest that trying to suppress a molt entirely with artificial light causes stress and can shorten a hen's overall laying career. My approach has been to let the molt happen naturally in fall and use supplemental lighting starting in late October to stabilize the winter photoperiod at around 14 to 16 hours of light per day, which helps with post-molt recovery laying.
 
 ## How to Feed Molting Hens (This Is Where Most People Get It Wrong)
+
+| Metric | Fast Molters | Slow Molters |
+| --- | --- | --- |
+| Duration | 6-8 weeks | 4-6 months |
+| Production Impact | Shorter complete shutdown | Extended gradual decline |
+| Return to Laying | Sooner | Later |
+| Production Bird Rating | Generally better | Generally slower |
+
+| Protein Source | Protein % | Notes |
+| --- | --- | --- |
+| Layer pellets | ~16% | Insufficient during molt |
+| Flock raiser/grower feed | ~20% | Cleanest swap; requires separate oyster shell |
+| Black soldier fly larvae | 35-40% | High-protein treat; excellent palatability |
+| Mealworms | ~35-40% | High-protein treat alternative |
+| Scrambled eggs | High | Safe to feed back; won't cause egg-eating behavior |
+| Scratch grain | Low (high carb) | Counterproductive; dilutes nutrition |
+
+| Timeframe | Recommended Protein Level | Feed Type |
+| --- | --- | --- |
+| During molt (Aug-Oct) | 20-22% | Grower feed or supplemental treats |
+| Post-molt (late Oct onward) | 16% (layer standard) | Return to layer pellets with supplemental light |
 
 The biggest mistake I see with molting chickens is continuing to feed layer pellets at the same rate and calling it a day. Layer feed is formulated around 16% protein, which is fine for active laying but genuinely insufficient for a bird rebuilding her entire coat.
 

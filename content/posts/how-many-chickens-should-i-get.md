@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-
+lastmod: 2026-07-07
 ---
 Most people start with three chickens. Then they go to pick them up, see all those fluffy little faces, and come home with six. I've watched it happen more times than I can count, and honestly, I've done it myself. What starts as a sensible, practical decision turns into what the chicken community affectionately calls "chicken math," and before you know it you're pricing out a second coop in the parking lot of Tractor Supply. So before you get swept up in the cuteness, let's talk numbers in a real, grounded way so you can make a decision you won't regret, whether you're starting from scratch or expanding an existing flock.
 
@@ -39,7 +39,7 @@ Here's what really matters though: three standard-size laying hens in their prim
 
 Before you count birds, count resources. There are four things that genuinely determine how many chickens you should get:
 
-**Space.** The standard recommendation is 4 square feet of indoor coop space per bird and 10 square feet of outdoor run space per bird. These aren't arbitrary numbers. Crowding is one of the biggest causes of pecking, bullying, disease spread, and general misery in a backyard flock. If your coop is 32 square feet, that's a maximum of 8 birds by the book. In practice, if your birds free range for most of the day, you can push those numbers slightly. If they're confined most of the time, stick to the guidelines or go bigger.
+**Space.** The standard recommendation is 4 square feet of indoor coop space per bird and 10 square feet of outdoor run space per bird. These aren't arbitrary numbers. Crowding is one of the biggest causes of pecking, bullying, disease spread, and general misery in a [backyard flock](/backyard-chickens-for-beginners/). If your coop is 32 square feet, that's a maximum of 8 birds by the book. In practice, if your birds free range for most of the day, you can push those numbers slightly. If they're confined most of the time, stick to the guidelines or go bigger.
 
 **Time.** Morning and evening chores take maybe 15 minutes once you have a system, regardless of whether you have 4 chickens or 12. But health monitoring, cleaning, treating illness, and dealing with problems scales with flock size. Four birds is a manageable weekend hobby. Twenty birds starts feeling like livestock management.
 
@@ -48,6 +48,13 @@ Before you count birds, count resources. There are four things that genuinely de
 **Zoning and local ordinances.** This one stops people cold and they often find out too late. Many municipalities limit backyard flocks to 4 or 6 hens and prohibit roosters entirely. Check your local zoning laws before you spend a dime on a coop. Call your city or county planning office directly, because what you read online isn't always current.
 
 ## How Many Chickens Do You Actually Need for Eggs?
+
+| Household Size | Eggs per Week Needed | Recommended Hens (Production Breeds) | Recommended Hens (Dual-Purpose Breeds) |
+|---|---|---|---|
+| 1 person | 6 to 8 | 2 to 3 | 3 to 4 |
+| 2 people | 12 to 14 | 3 to 4 | 4 to 5 |
+| 4 people | 20 to 24 | 5 to 6 | 6 to 8 |
+| 6 people | 30+ | 7 to 9 | 9 to 12 |
 
 This depends entirely on your household's egg consumption and the breeds you choose. A high-production layer like a Leghorn or Golden Comet will give you 280 to 320 eggs per year under good conditions. A dual-purpose breed like a Plymouth Rock or Orpington might give you 180 to 220. Heritage breeds and ornamental birds often lay even less.
 

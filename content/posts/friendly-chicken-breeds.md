@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-
+lastmod: 2026-07-07
 ---
 Picture this: you're sitting in a lawn chair on a Saturday morning, coffee in hand, and a fluffy golden hen hops up onto your knee like she owns the place. She tilts her head, blinks at you with one amber eye, and settles in. That's not a fantasy. That's a Tuesday for people who keep the right breeds. Not every chicken is going to follow you around the yard like a golden retriever, and honestly, some breeds would rather eat your shoelaces than sit in your lap. But if you're choosing your first flock, adding birds to an existing one, or specifically want hens that your kids can handle, breed selection matters more than almost anything else.
 
@@ -43,7 +43,7 @@ Buff Orpingtons are the golden retrievers of the chicken world. Big, fluffy, cal
 
 **Speckled Sussex**
 
-Speckled Sussex are curious birds. I mean that literally: they will investigate everything. New object in the yard? They're on it. New person visiting? They'll check out their shoes. That curiosity makes them wonderfully interactive without being pushy or aggressive. They're a dual-purpose heritage breed, laying around 250 eggs per year, and they're strikingly beautiful with their mahogany-and-white speckled plumage.
+Speckled Sussex are curious birds. I mean that literally: they will investigate everything. New object in the yard? They're on it. New person visiting? They'll check out their shoes. That curiosity makes them wonderfully interactive without being pushy or aggressive. They're a [dual-purpose heritage breed](/dual-purpose-chicken-breeds/), laying around 250 eggs per year, and they're strikingly beautiful with their mahogany-and-white speckled plumage.
 
 **Salmon Faverolle**
 
@@ -62,6 +62,15 @@ Australorps are probably the breed I recommend most often to new keepers who wan
 Easter Eggers aren't technically a breed in the purist sense. They're a hybrid that carries the blue-egg gene from Araucana or Ameraucana ancestry. But they deserve a spot on this list because their temperaments tend to be friendly and curious, they lay gorgeous blue, green, or olive eggs, and they're wildly popular with families for good reason. Every one looks slightly different, which adds to the fun.
 
 ## Comparing the Top Picks: A Quick Reference Table
+
+| Breed | Temperament | Annual Eggs | Egg Color | Cold Hardy | Good With Kids |
+|---|---|---|---|---|---|
+| Buff Orpington | Calm, affectionate | 200-280 | Light brown | Yes | Excellent |
+| Speckled Sussex | Curious, social | 240-260 | Brown | Yes | Excellent |
+| Salmon Faverolle | Gentle, docile | 150-200 | Pinkish cream | Yes | Excellent |
+| Silkie | Sweet, calm | 100-120 | White/cream | Moderate | Excellent |
+| Australorp | Calm, hardy | 250-300 | Brown | Yes | Very good |
+| Easter Egger | Friendly, curious | 200-280 | Blue/green/olive | Yes | Excellent |
 
 Here's a side-by-side look at the friendliest breeds so you can match them to your specific situation.
 

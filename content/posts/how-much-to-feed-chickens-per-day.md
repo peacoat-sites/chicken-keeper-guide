@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-
+lastmod: 2026-07-07
 ---
 A flock of six hens can eat through a 50-pound bag of layer feed in about three weeks. Most new chicken keepers hear that number and immediately wonder: am I overfeeding? Underfeeding? Is that bag disappearing into the bedding or into actual chickens? Getting the daily feed amount right matters more than most people realize, because both overfeeding and underfeeding carry real consequences, from obesity and fatty liver disease to dropped egg production and feather loss.
 
@@ -59,21 +59,33 @@ If you're still figuring out your feeding setup overall, our guide on [chicken f
 
 ## How Season, Molt, and Life Stage Change Daily Feed Needs
 
+| Life Stage / Breed Type | Daily Feed Amount | Notes |
+| --- | --- | --- |
+| Bantams (small breeds) | 2-3 ounces | Lower body weight |
+| Standard laying breeds | 4-4.5 ounces | Baseline for most flocks |
+| Heavy dual-purpose breeds | 4.5-6 ounces | Larger frame, higher consumption |
+| Cold weather (below 35°F) | +10-25% above baseline | Increased calorie burn |
+| Molt season | Increased, 18-20% protein feed | Feathers require extra protein |
+| Hot weather | Reduced from baseline | Heat suppresses appetite |
+| Broody hen | Slightly reduced | Limited foraging time |
+| Week-old chick | ~0.5 ounces | Chick starter feed |
+| 16-week pullet | Approaching adult intake | Still on grower/starter feed |
+
 Static feeding amounts are a starting point, not a permanent prescription. Chickens' nutritional demands change significantly across the year.
 
 **Cold weather:** Chickens burn more calories keeping warm. In temperatures below 35°F, expect your hens to eat 10 to 25 percent more feed. A bird that eats 4 ounces in July might need 5 ounces by December. Don't cut back on feed in winter hoping to save money. That's exactly the wrong time to do it.
 
-**Hot weather:** Heat suppresses appetite. Birds eat less in summer, sometimes noticeably so. They'll compensate partially by drinking more water (which is why waterer capacity matters so much in July). Egg production may dip a bit, correlated with the reduced calorie intake.
+**Hot weather:** Heat suppresses appetite. Birds eat less in summer, sometimes noticeably so. They'll compensate partially by drinking more water (which is why [waterer capacity matters](/chicken-water-requirements/) so much in July). Egg production may dip a bit, correlated with the reduced calorie intake.
 
 **Molt:** The annual molt is a significant nutritional event. Feathers are roughly 85 percent protein, and a hen growing them back needs extra protein, sometimes as much as 18 to 20 percent crude protein instead of the standard 16 percent. Daily feed consumption often increases during this period. Don't be alarmed if your molting hens seem to be eating you out of house and home.
 
-**Pullets vs. mature hens:** Young pullets from hatch to about 18 weeks should be on chick starter or grower feed, not layer feed. Their daily intake scales up as they grow: a week-old chick eats maybe 0.5 ounces per day; by 16 weeks, she's approaching adult consumption. Switching to layer feed too early (before 18 weeks) introduces calcium levels that can damage young kidneys.
+**Pullets vs. mature hens:** Young pullets from hatch to about 18 weeks should be on [chick starter or grower feed](/layer-feed-vs-starter-feed/), not layer feed. Their daily intake scales up as they grow: a week-old chick eats maybe 0.5 ounces per day; by 16 weeks, she's approaching adult consumption. Switching to layer feed too early (before 18 weeks) introduces calcium levels that can damage young kidneys.
 
 **Broody hens:** A broody hen sitting on a nest often forgets to eat. She'll get up once or twice daily to eat, drink, and defecate. Make sure feed and water are close to the nest so she doesn't have to travel far during her brief breaks. She'll eat a bit less than normal during the full broody cycle.
 
 ## What Scraps and Foraging Do to the Equation
 
-Treats, kitchen scraps, and free-ranging all displace commercial feed to some degree. This is fine, but it needs to be managed thoughtfully.
+Treats, [kitchen scraps](/kitchen-scraps-for-chickens/), and free-ranging all displace commercial feed to some degree. This is fine, but it needs to be managed thoughtfully.
 
 The 90/10 rule is the standard guidance: treats and scraps should make up no more than 10 percent of a chicken's total daily diet. For a standard hen eating 4 ounces a day, that's about 0.4 ounces of treats max. That's not much. A handful of scratch grains scattered across the run quickly adds up across a flock.
 

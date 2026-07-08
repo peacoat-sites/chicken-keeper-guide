@@ -23,9 +23,9 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-
+lastmod: 2026-07-07
 ---
-Most chicken keepers learn about heat tolerance the hard way. I did. Summer of 2017, central Texas, 107°F in the shade, and I lost two Rhode Island Reds inside of a week despite fans, misters, frozen watermelons, and every intervention I'd read about online. What nobody told me was that the breed I'd chosen was quietly working against me from the start.
+Most chicken keepers learn about heat tolerance the hard way. I did. Summer of 2017, central Texas, 107°F in the shade, and I lost two [Rhode Island Red](/rhode-island-red-chickens/)s inside of a week despite fans, misters, frozen watermelons, and every intervention I'd read about online. What nobody told me was that the breed I'd chosen was quietly working against me from the start.
 
 Heat stress in chickens is genuinely dangerous, not just uncomfortable. A bird's normal body temperature runs between 105°F and 107°F, which means when the ambient temperature creeps into triple digits, the margin gets terrifyingly small. And certain breeds were simply built for cold climates, dense feathering, and winter egg production. Sticking them in a hot, humid Southern summer is asking for trouble.
 
@@ -37,11 +37,20 @@ I assumed smaller birds handle heat better because they generate less body heat.
 
 Chickens don't sweat. They pant and they lose heat through their combs, wattles, and bare facial skin. This is why large-combed Mediterranean breeds like Leghorns and Andalusians do so well in hot climates. That big single comb is essentially a radiator. More surface area, more blood flow close to the skin, more heat shed into the air. When I switched part of my flock to Leghorns, the difference in summer behavior was immediate. They were active, foraging, and eating normally at temperatures where my heavier breeds were panting in the shade at 9 AM.
 
-Body conformation matters too. Mediterranean-type birds tend to be lighter, tighter-feathered, and more upright. Less insulating fluff traps heat against the body. Cochins or Brahmas were designed for exactly the opposite: heavy, fluffy, and cold-hardy. Beautiful birds. Wrong birds for July in Georgia.
+Body conformation matters too. Mediterranean-type birds tend to be lighter, tighter-feathered, and more upright. Less insulating fluff traps heat against the body. [Cochins or Brahmas](/cold-hardy-chicken-breeds/) were designed for exactly the opposite: heavy, fluffy, and cold-hardy. Beautiful birds. Wrong birds for July in Georgia.
 
 Dark-feathered breeds absorb more solar radiation. On a sunny day in a run without adequate shade, a Black Australorp gets hotter than a White Leghorn standing right next to it. I ran an informal test with a non-contact thermometer one summer and the surface temperature difference between black and white feathers was measurable. Not scientific, but enough to make me rethink some choices.
 
 ## The Breeds I'd Actually Recommend
+
+| Breed | Origin | Comb Type | Body Size | Key Heat Advantage | Temperament | Availability |
+| --- | --- | --- | --- | --- | --- | --- |
+| White Leghorn | Italy (Mediterranean) | Single | Light | Large comb radiator, efficient feed conversion | Flighty, loud | Common (Meyer, Cackle Hatchery) |
+| Egyptian Fayoumi | Nile Delta | Single | 3.5 lbs | Heat-adapted, humidity tolerant, disease-resistant | Wild, flighty | Specialty hatcheries |
+| Blue Andalusian | Spain | Single | Light | Lean build, large comb | Active, less friendly than some | Specialty hatchery (Greenfire Farms) |
+| Buttercup (Sicilian) | Sicily | Cup | Light | Cup comb heat dissipation | Calm | Hard to find, breeders only |
+| Naked Neck (Turken) | Unknown | Single | Medium | 40-50% bare skin dissipates heat | Calm, docile | Fairly common |
+| Red/Black Sex-Link | Hybrid | Single | Medium | Moderate heat tolerance | Calm, manageable | Very common |
 
 The lists floating around the internet often include breeds that are "okay" in heat but not genuinely well-suited to serious summer heat. I'm going to skip the wishy-washy middle ground.
 

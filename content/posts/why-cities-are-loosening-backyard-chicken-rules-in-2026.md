@@ -12,12 +12,20 @@ author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
 slug: "why-cities-are-loosening-backyard-chicken-rules-in-2026"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 Something shifted in city halls this spring. Not a slow policy drift, but a visible scramble driven by one thing: egg prices. Stuart, Florida commissioners advanced a backyard chicken proposal on June 10, 2026. Edgewater, Florida passed its first reading unanimously on June 1. Westminster, Colorado votes on June 22 to expand flock limits significantly. Kentucky's HB 276 cleared the House in February to stop cities from banning small backyard flocks outright. These aren't scattered incidents. They're a cluster, and they're happening because HPAI-driven egg price volatility finally made backyard hens a kitchen-table political issue instead of just a hobby-farmer ask.
 
 If you've been waiting for your city to change its rules, this is the moment to pay attention.
 
 ## What These Ordinances Actually Say
+
+| City/Jurisdiction | Ordinance Status | Flock Cap | Key Framing | Vote Date |
+| --- | --- | --- | --- | --- |
+| Edgewater, FL | First reading passed unanimously | Not specified | Hens as household pets for personal egg harvesting | June 1, 2026 |
+| Stuart, FL | Advanced to second reading | 4 hens | Starter flock; ~2 dozen eggs/week | June 22, 2026 |
+| Westminster, CO | Up for vote | Up to 30 hens (2+ acres) | Scale by lot size; serious laying operation | June 22, 2026 |
+| Kentucky (HB 276) | Cleared House | 6 hens max | State-level ban on municipal bans | Awaiting Senate vote |
 
 Edgewater's new ordinance frames hens explicitly as household pets for personal egg harvesting. Roosters banned. Commercial sale banned. That framing, pets rather than livestock, is a deliberate legal move that makes the whole thing easier to pass in suburban contexts. It sidesteps zoning codes written around farm animals and puts a hen legally closer to a dog than a cow.
 
@@ -49,7 +57,7 @@ Get specific about your current code before you assume anything. "Agricultural a
 
 When cities do pass ordinances, setback requirements, distance from property lines and structures, are where most backyard keepers run into trouble. A four-hen limit is fine until you find out the coop needs to be 25 feet from any structure and your yard is 40 feet deep. Read the full text, not the headline.
 
-Flock size caps in new ordinances tend to be conservative. Stuart's four-hen limit is a political compromise, not a best-practices recommendation. If your city passes a similar cap and you want more birds eventually, show up and be a good-neighbor data point for two years. Ordinances get revised. The keepers who do it well make the case for expansion.
+Flock size caps in new ordinances tend to be conservative. Stuart's four-hen limit is a political compromise, not a best-practices recommendation. If your city passes a similar cap and you want more birds eventually, show up and be a good-neighbor data point for two years. [Ordinances get revised](/a-wave-of-cities-is-legalizing-backyard-chickens-right-now/). The keepers who do it well make the case for expansion.
 
 The current policy movement is real, it's economically motivated, and it's happening faster than the usual pace of municipal land-use change. Four cities in June alone. Whether that momentum reaches your zip code depends partly on whether you're paying attention and partly on whether you make the case to someone who votes.
 

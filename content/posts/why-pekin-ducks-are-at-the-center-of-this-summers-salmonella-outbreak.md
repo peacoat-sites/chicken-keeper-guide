@@ -12,6 +12,7 @@ author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
 slug: "why-pekin-ducks-are-at-the-center-of-this-summers-salmonella-outbreak"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 
 Most backyard flock keepers assume ducks are the safer, lower-drama alternative to chickens. They're hardy, they're funny to watch, and the internet has spent years romanticizing them as beginner-friendly birds. I'll be honest: I believed that too, for a long time. This summer is forcing a real reckoning with that assumption.
@@ -21,6 +22,14 @@ The CDC is tracking an active, multi-strain Salmonella outbreak linked to backya
 If you added ducks to your flock this spring, or you're thinking about it, this article is for you.
 
 ## What the Numbers Actually Say About Pekin Ducks
+
+| Salmonella Strain | Confirmed Cases | Duck-Related Contact (%) | Pekin-Specific (%) | Antibiotic Resistance Profile |
+| --- | --- | --- | --- | --- |
+| Saintpaul | 133 | 50% | 64% | Fosfomycin, chloramphenicol, streptomycin, ciprofloxacin |
+| Enteritidis | Not specified | Not specified | Not specified | Not specified |
+| Indiana | Not specified | Not specified | Not specified | Not specified |
+| Infantis | Not specified | Not specified | Not specified | Not specified |
+| Mbandaka | Not specified | Not specified | Not specified | Not specified |
 
 The 2026 outbreak involves five concurrent Salmonella strains: Enteritidis, Indiana, Infantis, Mbandaka, and Saintpaul. Of those, Saintpaul is the largest, with 133 confirmed cases. It's also the one with the most alarming resistance profile. The CDC has documented resistance to fosfomycin in the Saintpaul strain, with additional resistance to chloramphenicol, streptomycin, and ciprofloxacin in some samples. That matters because antibiotic resistance changes the clinical calculus when someone, especially a child or immunocompromised adult, ends up hospitalized.
 
@@ -34,7 +43,7 @@ The research here is genuinely mixed, and I don't want to overstate what we know
 
 That said, there are real behavioral factors that increase exposure risk with ducks specifically. Ducks are messy in a way that chickens aren't. They splash their water, they defecate in their water, and they spread that contaminated water across a wide area every single day. The fecal-oral transmission route for Salmonella thrives in that environment. Ducklings especially tend to generate that kind of wet, contaminated mess in brooders, which is exactly where kids are most likely to pick them up and cuddle them.
 
-84% of people who got sick reported acquiring their poultry since January 1, 2026, which means we're talking about spring chick and duckling season: the annual wave of impulse purchases from Tractor Supply, Rural King, and similar retailers. Many of those birds trace back to the seven implicated hatcheries.
+84% of people who got sick reported acquiring their poultry since January 1, 2026, which means we're talking about [spring chick and duckling season](/513-sick-and-counting-the-backyard-poultry-salmonella-summer-surge/): the annual wave of impulse purchases from Tractor Supply, Rural King, and similar retailers. Many of those birds trace back to the seven implicated hatcheries.
 
 ## The Summer Risk Amplifier Nobody's Talking About
 

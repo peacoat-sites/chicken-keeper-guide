@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-
+lastmod: 2026-07-07
 ---
 A chicken can go without food for several days and survive. Without water? You're looking at 24 hours before serious damage begins, and in summer heat, it can be even less than that. Most backyard keepers learn this the hard way once, usually after a waterer gets knocked over or freezes solid overnight. The goal of this article is to make sure you never have to learn it that way.
 
@@ -50,7 +50,7 @@ Chicks need water immediately after hatch. Their bodies are even more vulnerable
 Several factors swing daily intake up or down:
 
 - **Ambient temperature:** The biggest variable by far. At 100°F, hens may drink twice what they normally do.
-- **Diet:** Birds eating dry pellets drink more than those getting fermented feed or kitchen scraps.
+- **Diet:** Birds eating dry pellets drink more than those getting [fermented feed or kitchen scraps](/kitchen-scraps-for-chickens/).
 - **Production level:** Heavy laying breeds outdrink roosters and non-laying birds.
 - **Body size:** A 9-pound Jersey Giant drinks more than a 4-pound Leghorn.
 - **Health:** Sick birds often stop drinking, which accelerates decline fast.

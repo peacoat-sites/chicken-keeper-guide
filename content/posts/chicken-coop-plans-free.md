@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-
+lastmod: 2026-07-07
 ---
 You've got six chickens showing up in a box next day, no coop built, and you're standing in your backyard Googling "chicken coop plans free" on your phone while your kids are already naming the birds. I've been there. Not exactly that scenario, but close enough. Twelve years ago I cobbled together my first coop from a free plan I found online, a pile of salvaged wood, and about four times more frustration than I expected. What I wish someone had told me then is what I'm going to tell you now: free plans are genuinely useful, but only if you know how to pick the right one and what to watch out for before you ever swing a hammer.
 
@@ -38,7 +38,7 @@ When I pull up any free plan, here's what I check first:
 - **Floor space per bird.** The standard is 4 square feet of indoor space per standard-size hen, and 10 square feet per bird in an outdoor run. Many free plans ignore this or lowball it badly.
 - **Ventilation details.** A coop without adequate ventilation becomes a respiratory disease factory. Look for plans that specify vent placement (high on the walls, not in the draft path of roosts) and total vent area.
 - **Hardware cloth vs. chicken wire.** If the plan calls for chicken wire and nothing else, that's a red flag. Chicken wire keeps chickens in but doesn't keep predators out. Hardware cloth (1/2 inch welded wire) is what actually protects your birds.
-- **Roost height and placement.** Roosts should be 18-24 inches off the floor minimum, away from windows or vents that create direct drafts, and higher than the nesting boxes so birds don't sleep in the boxes and soil the nesting material.
+- **[Roost height and placement](/chicken-roost-height/).** Roosts should be 18-24 inches off the floor minimum, away from windows or vents that create direct drafts, and higher than the nesting boxes so birds don't sleep in the boxes and soil the nesting material.
 
 If a plan passes those basic checks, it's worth your time to look closer.
 
@@ -55,6 +55,13 @@ University Extension Services are my first stop. Virginia Cooperative Extension,
 For something more comprehensive, I still keep a copy of [Storey's Guide to Raising Chickens](https://www.amazon.com/Storeys-Guide-Raising-Chickens-4th/dp/1612129277) on my shelf. It's not free, but it covers housing design in a way no single plan document can. Think of it as the reference that makes all your free plans click into place. *(Disclosure: This site may earn a commission on purchases made through links on this page.)*
 
 ## Matching the Plan to Your Specific Flock Size
+
+| Flock Size | Minimum Indoor Space | Minimum Run Space | Recommended Nesting Boxes |
+|---|---|---|---|
+| 3-4 hens | 12-16 sq ft | 30-40 sq ft | 1-2 boxes |
+| 5-6 hens | 20-24 sq ft | 50-60 sq ft | 2 boxes |
+| 8-10 hens | 32-40 sq ft | 80-100 sq ft | 3 boxes |
+| 12-15 hens | 48-60 sq ft | 120-150 sq ft | 4-5 boxes |
 
 This is where most beginners trip up. They find a plan labeled "6-chicken coop" and assume it's right for six birds. Sometimes it is.
 
@@ -79,9 +86,9 @@ Most free plans are templates, not final blueprints. You'll almost certainly nee
 
 **Adding or repositioning vents.** Many free plans underprovision ventilation. The rule of thumb is 1 square foot of ventilation per 10 square feet of floor space, minimum. Position vents near the roofline on multiple sides so air can cross-circulate without blowing directly on roosting birds.
 
-**Adjusting for your climate.** A plan designed for Georgia doesn't work as-is in Minnesota. Cold climates need a smaller air volume inside (easier to keep warm from body heat), deep litter bedding, and vents you can partially close in winter while maintaining some airflow. Hot climates prioritize shade, airflow, and roof overhang.
+**Adjusting for your climate.** A plan designed for Georgia doesn't work as-is in Minnesota. Cold climates need a smaller air volume inside (easier to keep warm from body heat), [deep litter bedding](/deep-litter-method-chickens/), and vents you can partially close in winter while maintaining some airflow. Hot climates prioritize shade, airflow, and roof overhang.
 
-**Predator-proofing upgrades.** Almost every free plan needs a predator upgrade. Bury hardware cloth 12 inches below the run perimeter and angle it outward 6 inches to stop diggers. Raccoons can reach through standard openings, so anything your birds can access from the outside of the run needs 1/2-inch hardware cloth, not 1-inch or chicken wire.
+**[Predator-proofing upgrades](/predator-proof-chicken-coop/).** Almost every free plan needs a predator upgrade. Bury hardware cloth 12 inches below the run perimeter and angle it outward 6 inches to stop diggers. Raccoons can reach through standard openings, so anything your birds can access from the outside of the run needs 1/2-inch hardware cloth, not 1-inch or chicken wire.
 
 For bedding inside the finished coop, I've had great luck with [Hentastic Nesting Pads](https://www.amazon.com/s?k=chicken+nesting+box+pads) in the boxes. They're easy to swap out and reduce lice and mite problems compared to loose straw. *(This site may earn a commission on qualifying purchases.)*
 

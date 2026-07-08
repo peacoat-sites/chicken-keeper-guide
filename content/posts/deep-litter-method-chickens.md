@@ -23,6 +23,7 @@ faqs:
    a: "Add a layer of dry carbon material (shavings or straw) immediately, then stir the whole thing thoroughly with a fork. Scatter a cup of barn lime across the surface. Check your ventilation and make sure you're not trapping moisture. If it's a wet season and the coop is humid, open additional ventilation temporarily even at the cost of some cold air."
  - q: "Is deep litter safe during summer heat?"
    a: "It's workable, but summer is when it requires the most active management. Heat accelerates decomposition, which can spike ammonia faster if the carbon-to-nitrogen balance tips. Stir more often, add carbon more frequently, and prioritize strong ventilation through the hot months. Some keepers do a full cleanout in spring specifically to start fresh before summer stress."
+lastmod: 2026-07-07
 ---
 
 Most chicken-keeping guides describe the deep litter method like it's a passive miracle: throw down some shavings, let the chickens scratch around, and nature does the rest. That's not wrong, exactly, but it leaves out enough that first-timers end up with a wet, ammonia-reeking coop by February and no idea what went sideways.
@@ -49,6 +50,17 @@ Ventilation is the other thing people underestimate. Deep litter requires air mo
 
 ## Managing It Week to Week
 
+| Factor | Specification | Purpose |
+| --- | --- | --- |
+| Initial bedding depth | 4-6 inches | Establish carbon base for microbial community |
+| Carbon-to-nitrogen ratio | 25-30:1 | Support aerobic decomposition |
+| Ventilation | 1 sq ft per 10 sq ft of floor | Maintain aerobic conditions and moisture control |
+| Weekly maintenance | Stir with garden fork | Aerate, break up wet patches, incorporate manure |
+| Bedding top-up | 1-2 inches as needed | Manage moisture without overwhelming microbial activity |
+| Agricultural lime (wet seasons) | ~1 cup per few weeks | Balance moisture and pH |
+| Hardware cloth apron (dirt floors) | 12-18 inches buried at angle | Prevent predator dig-in |
+| Full cleanout frequency | 1-2 times annually | Remove finished compost, reset system |
+
 Deep litter is not no-work. That's the version hatchery websites sell. The honest version is that it's lower-work than frequent full cleanouts, but it requires regular attention.
 
 Every week or two, stir the litter. A garden fork works fine. You're incorporating manure, breaking up wet patches, and reintroducing air. If you've got a spot under the roost that's building up fast, that's your high-nitrogen zone, so either stir it more aggressively or throw an extra handful of dry shavings on it.
@@ -59,9 +71,9 @@ During wet seasons or in humid climates, some keepers add a sprinkle of agricult
 
 ## The Contrarian Take: Dirt Floors Are Better Than Wood
 
-Here's one people push back on. If you're building a coop from scratch, put it on a dirt floor. Not concrete, not wood, not pavers. Dirt.
+Here's one people push back on. If you're building a coop from scratch, put it on a [dirt floor](/chicken-coop-flooring-options/). Not concrete, not wood, not pavers. Dirt.
 
-Wood floors rot. Concrete is cold, hard to drain, and actually inhibits the microbial community you're trying to grow. Dirt floors let the coop ecosystem connect with the actual soil microbiome, improve drainage naturally, and won't fail structurally after five wet winters. Yes, predators can dig in. Hardware cloth aprons (12 to 18 inches buried at an angle away from the coop) solve that. The structural concern is real but solvable. The rotting wood floor concern is expensive and permanent.
+Wood floors rot. Concrete is cold, hard to drain, and actually inhibits the microbial community you're trying to grow. Dirt floors let the coop ecosystem connect with the actual soil microbiome, improve drainage naturally, and won't fail structurally after five wet winters. Yes, predators can dig in. [Hardware cloth aprons](/chicken-coop-predator-protection/) (12 to 18 inches buried at an angle away from the coop) solve that. The structural concern is real but solvable. The rotting wood floor concern is expensive and permanent.
 
 I've had three coops. The only one I've never had a moisture headache with has a packed-earth floor.
 

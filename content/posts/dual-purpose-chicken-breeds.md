@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-
+lastmod: 2026-07-07
 ---
 I had 17 chickens with nowhere to go.
 
@@ -33,7 +33,7 @@ That's when I switched to dual-purpose breeds. Not because I suddenly wanted to 
 
 ## What "Dual Purpose" Actually Means (And What It Doesn't)
 
-Here's what nobody spells out clearly. A dual-purpose chicken lays a decent number of eggs AND carries enough meat to be worth processing. The word "decent" is crucial. You won't get Leghorn numbers from a Rhode Island Red. You won't get Cornish Cross yields either. What you get is a bird that does both jobs reasonably well. For most backyard keepers, that's exactly the right trade-off.
+Here's what nobody spells out clearly. A dual-purpose chicken lays a decent number of eggs AND carries enough meat to be worth processing. The word "decent" is crucial. You won't get Leghorn numbers from a [Rhode Island Red](/rhode-island-red-chickens/). You won't get Cornish Cross yields either. What you get is a bird that does both jobs reasonably well. For most backyard keepers, that's exactly the right trade-off.
 
 A solid dual-purpose breed will lay 150 to 280 eggs per year depending on the individual and conditions. That keeps a family of four in eggs for most of the year. A cockerel processed at 16 to 20 weeks dresses out to four to six pounds. That's an actual meal.
 
@@ -43,7 +43,7 @@ Where people stumble is expecting these birds to compete with specialists. They 
 
 I've raised 14 breeds over 12 years. Some are standouts. Others I'd steer you away from depending on what you actually want.
 
-**Plymouth Rock (Barred Rock)** is the most reliable all-around dual-purpose bird you can raise. Hens lay 250 to 280 large brown eggs annually in their prime. Cockerels grow broad-chested and meaty. They're calm, cold-hardy, and good foragers. Start here if you're only trying one breed.
+**[Plymouth Rock (Barred Rock)](/barred-rock-chickens/)** is the most reliable all-around dual-purpose bird you can raise. Hens lay 250 to 280 large brown eggs annually in their prime. Cockerels grow broad-chested and meaty. They're calm, cold-hardy, and good foragers. Start here if you're only trying one breed.
 
 **Rhode Island Red** leans slightly toward eggs, but the males still dress out respectably at six to eight pounds live weight. The problem is that commercial RIRs have been selected away from meatiness over decades. Hunt for hatcheries emphasizing the heritage type if you want a genuine dual-purpose bird.
 
@@ -56,6 +56,17 @@ I've raised 14 breeds over 12 years. Some are standouts. Others I'd steer you aw
 **Java** and **Buckeye** round out my personal favorites. Both are slower-growing heritage breeds that take 20 to 24 weeks to reach ideal processing weight. The meat quality is noticeably different from fast-grown birds. Firmer. More flavorful. If you've tasted a properly raised heritage cockerel, you know why people wait for it.
 
 ## Dual Purpose Breeds vs. Production Specialists: A Direct Comparison
+
+| Breed | Annual Eggs | Cockerel Live Weight (20 wks) | Temperament | Cold Hardy |
+|---|---|---|---|---|
+| Leghorn (egg specialist) | 280-320 | 4-5 lbs (poor yield) | Flighty | Moderate |
+| Cornish Cross (meat specialist) | Not applicable | 8-10 lbs | Docile | Poor |
+| Plymouth Rock | 250-280 | 7-8 lbs | Calm | Excellent |
+| Rhode Island Red | 250-300 | 6-8 lbs | Active | Good |
+| Wyandotte | 200-240 | 6-7 lbs | Calm | Excellent |
+| Delaware | 240-280 | 7-8 lbs | Friendly | Good |
+| Dominique | 180-230 | 5-6 lbs | Docile | Excellent |
+| Buckeye | 150-200 | 6-7 lbs | Active | Excellent |
 
 Sometimes seeing the numbers laid out helps.
 

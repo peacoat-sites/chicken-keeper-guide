@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
 Most natural worming guides tell you to throw some pumpkin seeds at your flock and call it a day. That's not wrong exactly, but it's maybe 10% of the picture, and if your birds are carrying a heavy worm load, pumpkin seeds alone aren't going to cut it.
 
@@ -31,7 +31,7 @@ Here's the full version.
 
 ## Why Worms Are a Real Problem (and Why They're Often Invisible)
 
-Chickens pick up intestinal parasites constantly. Every scratch in the dirt, every earthworm gulped down, every drink from a puddle is a potential exposure. The most common culprits in backyard flocks are roundworms (*Ascaridia galli*), cecal worms (*Heterakis gallinarum*), capillary worms, and tapeworms. Cecal worms matter especially because they carry *Histomonas meleagridis*, the protozoan that causes blackhead disease in turkeys. If you keep mixed species, that's a serious issue.
+Chickens pick up intestinal parasites constantly. Every scratch in the dirt, every earthworm gulped down, every drink from a puddle is a potential exposure. The most common culprits in backyard flocks are roundworms (*Ascaridia galli*), cecal worms (*Heterakis gallinarum*), capillary worms, and tapeworms. Cecal worms matter especially because they carry *Histomonas meleagridis*, the protozoan that causes [blackhead disease in turkeys](/worms-in-chickens/). If you keep mixed species, that's a serious issue.
 
 The tricky part: a moderate worm burden looks like a dozen other things. Soft shells. Reduced laying. Dull feathers. Birds that just seem a bit off. By the time you're seeing actual worms in droppings or a bird is visibly wasting away, you're well behind the curve. I had a Rhode Island Red two years ago who dropped nearly half her egg production over a few months before a fecal float at my vet's office confirmed a heavy roundworm load. She looked fine. She wasn't.
 
@@ -39,11 +39,20 @@ A fecal float test costs between $25 and $50 at most avian vets or large-animal 
 
 ## What "Natural" Actually Does (and Doesn't Do)
 
-Let's be honest about the ceiling here. Natural dewormers work best as ongoing prevention and for birds with low-to-moderate worm loads. If a bird is already symptomatic, pale-combed, losing weight, or you've got a confirmed heavy infestation on a fecal test, you probably need a conventional anthelmintic like fenbendazole (Safeguard Goat Wormer is the most common off-label option for chickens, dosed at 1 mg/lb for five consecutive days). Natural methods aren't a replacement for that. Anyone who tells you otherwise is selling something.
+Let's be honest about the ceiling here. Natural dewormers work best as ongoing prevention and for birds with low-to-moderate worm loads. If a bird is already symptomatic, pale-combed, losing weight, or you've got a confirmed heavy infestation on a fecal test, you probably need a conventional anthelmintic like [fenbendazole (Safeguard Goat Wormer](/ivermectin-for-chickens-dosage/) is the most common off-label option for chickens, dosed at 1 mg/lb for five consecutive days). Natural methods aren't a replacement for that. Anyone who tells you otherwise is selling something.
 
 What they are good for: keeping the baseline worm load low so it never reaches the tipping point. Think of it as maintenance, not medication.
 
 ## The Actual Natural Tools Worth Using
+
+| Natural Wormer | Active Compound/Mechanism | Dosage/Application | Best For |
+| --- | --- | --- | --- |
+| Pumpkin seeds | Cucurbitacin | Raw whole seeds; 1-2 smashed pumpkins in fall or handful of pepitas several times weekly | Ongoing prevention, low-to-moderate loads |
+| Diatomaceous earth (food grade) | Silica particles (mechanical) | ~2% by weight mixed into feed during spring and late fall | Maintenance; stronger evidence for external parasites |
+| Apple cider vinegar | Acidic gut environment | ~1 tablespoon per gallon of water, several days per week | General gut health and prevention |
+| Garlic | Broad-spectrum antimicrobial | Crushed cloves in waterer or dried powder in feed | Part of rotation strategy |
+| Black walnut hull powder | Juglone compound | Small amounts, intermittently, as part of broader approach | Supplementary to other methods |
+| Fermented feed | Improved microbiome | Portion of flock feed fermented year-round (3-day fermentation) | Long-term prevention and gut health |
 
 **Pumpkin seeds.** The active compound is cucurbitacin, which is thought to paralyze worms and allow them to pass. Research is limited and inconsistent, but the anecdotal evidence from keepers is strong enough that it's worth doing. Raw, whole, organic, non-salted. I give my flock access to a pie pumpkin or two every fall when they're $2 apiece at farm stands. Smash them open and let the birds tear through them. You can also buy raw pepitas year-round, and a good handful scattered a few times a week is plenty.
 

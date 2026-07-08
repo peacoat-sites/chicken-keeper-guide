@@ -12,12 +12,22 @@ author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
 slug: "what-the-cdcs-new-backyard-flock-survey-found-about-hpai"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 If you've got a backyard flock right now, you might be wondering whether all the HPAI news is something you actually need to pay attention to or just background noise from the commercial poultry industry. I get it. Most of us got into backyard chickens specifically because we wanted something small, personal, and manageable. But a CDC survey published in MMWR on May 14, 2026 is worth sitting with, because what it found is a genuine gap between how aware backyard flock owners think they are and how prepared they actually are.
 
 The numbers matter. As HPAI continues rolling through flocks across the U.S. this spring, and with two of the three fatal human H5N1 cases since March 2024 tied directly to backyard flock exposure, this is the summer to close that gap.
 
 ## What the Survey Actually Found
+
+| Survey Finding | Percentage | Implication |
+| --- | --- | --- |
+| Backyard flock owners aware of avian influenza | 94% | High awareness, but awareness ≠ preparedness |
+| Could correctly identify ALL signs of HPAI | 32% | Fewer than 1 in 3 can recognize infection |
+| Knew sudden death was a sign | ~50% | Most recognize dramatic indicator only |
+| Said they didn't know any signs | 13% | Highest risk group for undetected spread |
+| Had wild bird access to flock or food/water | 54% | Majority exposed to primary H5N1 reservoir |
+| Had no veterinarian to consult | 71% | Structural gap in flock health infrastructure |
 
 The CDC surveyed 638 backyard flock owners across 48 states between July and December 2025. Almost everyone, 94%, had heard of avian influenza. That sounds reassuring until you look at the next number: only 32% could correctly identify *all* the signs of HPAI in birds. That's fewer than one in three.
 

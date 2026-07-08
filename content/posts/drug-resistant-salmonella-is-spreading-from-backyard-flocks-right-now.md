@@ -12,10 +12,20 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 slug: "drug-resistant-salmonella-is-spreading-from-backyard-flocks-right-now"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 If you picked up baby chicks from a feed store or hatchery this spring, you need to read this. Right now, the CDC is tracking 513 sick people across 42 states and a U.S. territory in active Salmonella outbreaks tied directly to backyard poultry, with 53 hospitalizations and one death already confirmed in Washington state. This isn't a story about a few unlucky families who didn't wash their hands. This is the largest and most medically alarming backyard poultry outbreak I've seen get this level of CDC attention, and what makes it genuinely different from past spring flare-ups is the drug resistance baked into these strains.
 
 ## What's Actually Circulating in Your Flock Right Now
+
+| Salmonella Strain | Confirmed Cases | Antibiotic Resistance Profile | Severity Note |
+| --- | --- | --- | --- |
+| Saintpaul | 133 | Ampicillin, ceftriaxone, ciprofloxacin, fosfomycin | Largest problem strain; fosfomycin resistance particularly concerning |
+| Enteritidis | Part of 513 total | Not specified in article | - |
+| Indiana | Part of 513 total | Not specified in article | - |
+| Infantis | Part of 513 total | Not specified in article | - |
+| Mbandaka | Part of 513 total | Not specified in article | - |
+| **Total Outbreak** | **513 cases across 42 states + 1 territory** | **Multiple drug-resistant strains** | **53 hospitalizations, 1 death (Washington state)** |
 
 Five Salmonella strains are involved in this outbreak: Enteritidis, Indiana, Infantis, Mbandaka, and Saintpaul. Saintpaul is the biggest problem with 133 confirmed cases on its own. That name might not mean much to most backyard keepers, but it matters to doctors, because when whole genome sequencing was run on outbreak samples, the results showed predicted resistance to ampicillin, ceftriaxone, and ciprofloxacin. Those are frontline antibiotics, the drugs your child's pediatrician would reach for first if they were seriously ill. Some strains are also showing resistance to fosfomycin, which is genuinely a last-resort drug. That's not a phrase that gets used casually in medicine.
 
@@ -25,7 +35,7 @@ Medscape reported on this drug resistance back in April, and the picture has onl
 
 ## The Spring Chick Season Connection Is Impossible to Ignore
 
-Here's the part that should make every keeper who bought birds this year pay attention: 84% of the sick poultry owners got their birds since January 1, 2026. That's not a coincidence. That's a direct line from spring chick season to hospital rooms. Seven hatcheries have already been linked to outbreak strains, though the CDC hasn't released a public list of the specific hatcheries by name as of this writing.
+Here's the part that should make every keeper who bought birds this year pay attention: 84% of the sick poultry owners got their birds since January 1, 2026. That's not a coincidence. That's a direct line from [spring chick season](/513-sick-and-counting-the-backyard-poultry-salmonella-summer-surge/) to hospital rooms. Seven hatcheries have already been linked to outbreak strains, though the CDC hasn't released a public list of the specific hatcheries by name as of this writing.
 
 I've watched this pattern play out in smaller outbreaks before. Spring is when hatcheries are running at full capacity, chicks are moving fast, biosecurity gets stretched thin, and thousands of first-time keepers who have never handled poultry bring home a box of peeping fluff and immediately let their kids hold them over the kitchen sink. The scale this year, though, is different.
 
@@ -35,7 +45,7 @@ If you purchased chicks or ducklings from a feed store, swap meet, or directly f
 
 More than 25% of the people sickened are children under 5 years old. The CDC has updated its guidance to say children under 5 should not handle chicks, ducklings, or backyard poultry at all. Not "wash hands carefully afterward." Not "supervise closely." The recommendation is no contact.
 
-I know that's a hard sell if you started keeping chickens partly so your kids could experience something real and tangible. I get it. But a 2-year-old can't reliably keep her hands out of her mouth, and drug-resistant Salmonella in a toddler is a genuinely terrifying medical situation. This is one of those years where the risk-benefit calculation has shifted.
+I know that's a hard sell if you started keeping chickens partly so your kids could experience something real and tangible. I get it. But a 2-year-old can't reliably keep her hands out of her mouth, and [drug-resistant Salmonella in a toddler](/drug-resistant-salmonella-is-surging-in-backyard-flocks-right-now/) is a genuinely terrifying medical situation. This is one of those years where the risk-benefit calculation has shifted.
 
 Medical Daily covered how pediatricians are now seeing families in urgent care who had no idea their backyard flock was the source of illness, partly because the incubation period, usually 6 hours to 6 days, makes it easy to connect the sickness to something else entirely, like a restaurant meal or a playground.
 

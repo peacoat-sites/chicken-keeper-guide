@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-
+lastmod: 2026-07-07
 ---
 Most new chicken keepers walk into a feed store for the first time, stare at a wall of bags labeled "starter," "grower," "layer," "flock raiser," and "finisher," and leave with whatever has the prettiest rooster on the label. It happens more than you'd think. The wrong feed won't always cause an obvious crisis right away, but over months it'll show up as poor egg production, weak shells, slow growth, rough feathering, and birds that just look tired. Understanding what's actually in those bags is one of the most practical moves you can make for your flock.
 
@@ -36,6 +36,14 @@ The key numbers on any feed label: protein percentage, calcium percentage, and p
 Feed also comes in different physical forms. Crumbles are pellets broken into smaller pieces, sized for younger birds. Pellets are compressed cylinders, usually about half an inch long, and waste less than other forms. Mash is finely ground and uncompressed, the oldest option, and chickens pick through it, flinging the parts they don't want. Most experienced keepers go pellets for adult birds.
 
 ## Breaking Down the Feed Types by Life Stage
+
+| Feed Type | Life Stage | Protein % | Calcium % | Purpose |
+| --- | --- | --- | --- | --- |
+| Chick Starter | 0-8 weeks | 18-22% | <1% | High protein, minimal calcium for young chicks |
+| Grower/Developer | 8-18 weeks | 16-18% | Low | Transition phase between starter and layer |
+| Layer Feed | 18+ weeks or when laying | 16% | 3.5-4% | Ongoing egg production in laying hens |
+| Flock Raiser/All-Flock | Mixed ages & types | 20% | ~1% | Single feed for roosters, hens, meat birds, waterfowl |
+| Broiler Finisher | 0-10 weeks (meat birds) | 22-24% | High | Maximum weight gain for fast-growing breeds |
 
 This is where most people get lost.
 
@@ -51,7 +59,7 @@ This is where most people get lost.
 
 ## Organic, Non-GMO, and Specialty Feed Options
 
-Organic and non-GMO chicken feed has exploded in the last decade. Organic feeds use ingredients grown without synthetic pesticides or fertilizers and contain no GMOs. Non-GMO feeds skip genetically modified ingredients but may not meet the full USDA organic standard. Expect to pay 30-60% more than conventional.
+[Organic and non-GMO chicken feed](/organic-chicken-feed/) has exploded in the last decade. Organic feeds use ingredients grown without synthetic pesticides or fertilizers and contain no GMOs. Non-GMO feeds skip genetically modified ingredients but may not meet the full USDA organic standard. Expect to pay 30-60% more than conventional.
 
 Whether that premium makes sense depends on what you're after. Organic feed doesn't automatically produce more nutritious eggs, though some evidence suggests pasture-raised birds with varied diets produce eggs with better omega-3 profiles and higher vitamin D. If your flock free-ranges on solid pasture, that probably matters more than whether their base feed is certified organic.
 
@@ -63,7 +71,7 @@ Oyster shell and grit confuse people constantly. Oyster shell is calcium. Laying
 
 Scratch grains are worth flagging. It's mostly cracked corn and grains, basically chicken candy. Low protein, low nutrients, high carbs. Treats, scratch included, should stay under 10% of a chicken's daily diet. Overfeeding scratch is one of the fastest ways to tank your flock's nutrition and watch egg production crater.
 
-Avoid completely: raw beans (contain hemagglutinin, which is toxic), avocado (persin is toxic to birds), very salty foods, moldy feed, and green potato skins (solanine). Citrus and onions show up on a lot of "no" lists, but the evidence is sketchy. I'd skip them to be safe.
+[Avoid completely: raw bean](/foods-chickens-cannot-eat/)s (contain hemagglutinin, which is toxic), avocado (persin is toxic to birds), very salty foods, moldy feed, and green potato skins (solanine). Citrus and onions show up on a lot of "no" lists, but the evidence is sketchy. I'd skip them to be safe.
 
 ## Feed Storage and Quality Control
 

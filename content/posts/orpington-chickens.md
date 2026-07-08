@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
 The first time I held a Buff Orpington pullet, I thought someone had handed me a loaf of warm bread. She was round, dense, impossibly soft, and completely unfazed by being picked up by a stranger. That calm temperament isn't an accident. It's been bred into this bird for over a century, and it's exactly why Orpingtons remain one of the most popular backyard breeds in the world despite never winning any egg-laying contests.
 
@@ -47,7 +47,17 @@ They're not particularly flighty. They rarely try to escape a fenced run, and th
 
 ## Egg Production: What to Realistically Expect
 
-Orpingtons are classified as dual-purpose birds, but let's be honest: if you're keeping them primarily for eggs, you're accepting a trade-off. A healthy Buff Orpington hen will lay somewhere between 150 and 200 large, light brown eggs per year. Compare that to a production Leghorn pushing 280 to 300 eggs annually, and you can see the gap clearly.
+| Aspect | Orpington | Leghorn | Easter Egger |
+| --- | --- | --- | --- |
+| Eggs per Year | 150-200 | 280-300 | Varies (mentioned as seasonal layer) |
+| Egg Color | Light brown | White | Varies |
+| Winter Laying | Consistent | Significantly reduced | Reduced |
+| Pullet Lay Age | 19-24 weeks | 16-18 weeks | Not specified |
+| Temperament | Docile, broody | High-energy | Not specified |
+| Size (Hen) | 7-8 lbs | Smaller | Medium |
+| Size (Rooster) | ~10 lbs | Smaller | Medium |
+
+Orpingtons are classified as [dual-purpose birds](/dual-purpose-chicken-breeds/), but let's be honest: if you're keeping them primarily for eggs, you're accepting a trade-off. A healthy Buff Orpington hen will lay somewhere between 150 and 200 large, light brown eggs per year. Compare that to a production Leghorn pushing 280 to 300 eggs annually, and you can see the gap clearly.
 
 What Orpingtons bring to the table is consistency in cold weather. Their heavy feathering insulates them beautifully, and many keepers report continued laying through winter months when thinner-feathered breeds slow down significantly. I've had Buff Orpington hens laying steadily in temperatures below 20°F while my Easter Eggers took the season off entirely.
 

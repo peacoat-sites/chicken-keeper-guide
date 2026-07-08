@@ -23,15 +23,23 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-
+lastmod: 2026-07-07
 ---
-You've got a layer standing apart from the flock, tail drooping, looking thin even though she's eating fine. No respiratory issues. No visible mites. You worm her on a hunch, and two weeks later she's back to laying and acting normal. I've watched this play out in my own flock more times than I'd like to admit, and every time it reminds me of something uncomfortable: internal parasites are probably the most underdiagnosed health problem in backyard chickens, and most keepers don't catch it until the bird is already struggling.
+You've got a layer standing apart from the flock, tail drooping, looking thin even though she's eating fine. [No respiratory issues](/respiratory-illness-chickens/). No visible mites. You worm her on a hunch, and two weeks later she's back to laying and acting normal. I've watched this play out in my own flock more times than I'd like to admit, and every time it reminds me of something uncomfortable: internal parasites are probably the most underdiagnosed health problem in backyard chickens, and most keepers don't catch it until the bird is already struggling.
 
 I'll be direct about my own mistakes. I spent my first few years with chickens the way a lot of people do: cleaned the coop, watched for mites, fed a decent layer pellet, and figured I had things covered. Worms felt like a farm problem, not a backyard thing. Then I had a fecal float done on three hens out of curiosity, and two of them came back positive for roundworms. They looked completely fine. That one test sent me down a long road of reading, interrogating vets, and paying much closer attention to what was actually happening inside my birds.
 
 ---
 
 ## The Types of Worms You're Actually Dealing With
+
+| Worm Type | Primary Location | Common Symptoms | Severity | Intermediate Host |
+| --- | --- | --- | --- | --- |
+| Roundworms (Ascaridia galli) | Small intestine | Weight loss, pale combs, reduced egg production, diarrhea | High in young birds | None (direct fecal-oral) |
+| Cecal worms (Heterakis gallinarum) | Ceca (blind pouches) | Minimal direct harm; carries blackhead disease organism | High if turkeys present | Earthworms |
+| Capillary worms | Crop, esophagus, intestines | Weight loss, unthrifty appearance, impacted crop | High (severe before noticed) | None (direct fecal-oral) |
+| Gapeworms (Syngamus trachea) | Trachea | Neck stretching, gaping behavior | Moderate (young birds vulnerable) | Earthworms, slugs, snails |
+| Tapeworms | Intestines | Often asymptomatic; segments in droppings | Low to moderate | Beetles, ants, earthworms |
 
 Not all chicken worms are the same, and the distinction matters because different worms do different kinds of damage and respond differently to treatment.
 

@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-
+lastmod: 2026-07-07
 ---
 You walked out to the coop one morning and found one of your hens huddled in the corner, feathers missing from her back, not moving toward the feeder. The other birds are acting completely normal. You're wondering if something attacked her overnight, or if she's sick. Then you watch for ten minutes and realize it's the big Buff Orpington doing it, the one you thought was gentle. That right there is the pecking order, and if you don't understand how it actually works, you'll keep treating symptoms while the real problem keeps going.
 
@@ -43,13 +43,21 @@ This is where a lot of backyard keepers get confused, and it costs birds their h
 
 Normal pecking order behavior looks like this: a dominant hen pecks a lower-ranked bird who got too close to the feeder, a bird chases another away from a preferred nesting box, or brief squabbles at the roost bar when everyone's settling in for the night. These interactions are short. The submissive bird moves away quickly. Nobody's seriously injured.
 
-Bullying is different. One bird getting chased constantly with no escape route. Feathers pulled out repeatedly in the same spots. A bird being prevented from eating or drinking at all. The skin broken and blood drawn. Once there's blood, everything escalates fast. Chickens are drawn to red, and a small pecked spot can become a life-threatening injury within hours if the other birds keep targeting it.
+Bullying is different. [One bird getting chased constantly](/aggressive-chickens/) with no escape route. Feathers pulled out repeatedly in the same spots. A bird being prevented from eating or drinking at all. The skin broken and blood drawn. Once there's blood, everything escalates fast. Chickens are drawn to red, and a small pecked spot can become a life-threatening injury within hours if the other birds keep targeting it.
 
 I've seen birds lose entire sections of feathers from their backs. In a few bad cases, the flock had actually begun eating through to tissue. That's not pecking order. That's a crisis.
 
 If you've got a bird being drawn to blood, remove her from the flock immediately, treat the wound, and use [Blu-Kote antiseptic spray](https://www.amazon.com/s?k=blu-kote+poultry&tag=contentportfo-20) on any open areas. The blue-purple color masks the red and dramatically reduces the other birds' interest.
 
 ## Why Your Setup Might Be Making Things Worse
+
+| Resource | Recommended Space | Minimum Space |
+| --- | --- | --- |
+| Feeder space per bird | 2-3 linear inches | 1 linear inch |
+| Coop floor space per bird | - | 4 square feet |
+| Run space per bird | - | 10 square feet |
+| Roost bar space per bird | 8-12 inches | - |
+| Nesting boxes | 1 per 3-4 hens | - |
 
 Most pecking order problems aren't really about hierarchy at all. They're resource management problems. When birds have to compete for limited food, water, or space, the hierarchy becomes volatile and aggressive.
 

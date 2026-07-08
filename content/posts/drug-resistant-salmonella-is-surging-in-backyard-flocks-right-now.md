@@ -12,10 +12,19 @@ author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
 slug: "drug-resistant-salmonella-is-surging-in-backyard-flocks-right-now"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 If you got your chickens or ducks in the last six months, stop and read this. The CDC is currently investigating eight simultaneous multistate Salmonella outbreaks tied to backyard poultry contact, and as of June 8, 2026, that means 513 people sick across 43 states and a U.S. territory, 134 hospitalizations, and one death in Washington state. What makes this different from the usual spring poultry outbreak story is the drug resistance angle. Some of the strains circulating right now don't respond to first-line antibiotics, which changes the risk calculus for anyone who keeps birds and has young kids or immunocompromised people in the house.
 
 ## This Is Not the Same Old Salmonella Warning
+
+| Metric | 2025 Outbreak | 2026 Outbreak (as of June 8) |
+| --- | --- | --- |
+| Total Cases | 559 | 513 |
+| States Affected | 48 | 43 |
+| Hospitalizations | 125 | 134 |
+| Deaths | 2 | 1 |
+| Timeline | Full year | Early June (partial year) |
 
 I'll be honest: I've been keeping chickens for a decade and I've rolled my eyes at the CDC's annual "wash your hands after touching your chickens" messaging. It felt like the same pamphlet every year. But this situation is genuinely different, and I think a lot of backyard keepers are underestimating it.
 
@@ -33,7 +42,7 @@ If you bought birds this year, I'd contact the retailer and ask which hatchery s
 
 ## The Duck Problem No One Is Talking About
 
-Most backyard poultry coverage focuses on chickens. This outbreak is forcing a harder look at ducks. The largest single outbreak in the current investigation involves an unusually high number of people who reported contact with ducks specifically, not just chickens.
+Most backyard poultry coverage focuses on chickens. This outbreak is forcing a harder look at ducks. The largest single outbreak in the current investigation involves an unusually high number of people who reported contact with [ducks specifically, not just chickens](/why-pekin-ducks-are-at-the-center-of-this-summers-salmonella-outbreak/).
 
 Duck keepers tend to be a self-selected group who've done their research and feel confident they understand their birds. But ducks carry Salmonella just as readily as chickens do, and their water habits make contamination spread differently. Ducks splash, they foul their water almost immediately, and they track wet, contaminated substrate around in ways that chickens don't. If you're keeping a mixed flock or a duck-only setup, the hygiene protocols that work fine for chickens need to be tightened up. That water bowl your duck is bathing in is also contaminating everything it touches.
 

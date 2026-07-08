@@ -23,13 +23,21 @@ faqs:
    a: "Untreated pine shavings are my default. Straw looks nice but harbors mites more readily and compresses into a wet mess faster. For a low-maintenance upgrade, molded plastic nesting pads like the ones from Precision Pet or Little Giant slip out for quick cleaning and keep eggs cleaner than loose bedding alone."
  - q: "Do nesting boxes need to be dark?"
    a: "Darker is better. Hens are instinctively drawn to covered, enclosed spaces to lay. If your boxes are in direct light, draping a piece of burlap or canvas over the front opening so it hangs loose makes a real difference in how quickly new hens take to them."
+lastmod: 2026-07-07
 ---
 
-Three nesting boxes for twenty hens. That's what I started with, back when I was convinced the "one box per four to five birds" guideline was just hatchery marketing. It wasn't. I spent two weeks watching my poor Barred Rocks queue up like they were waiting at the DMV, and one particularly determined hen started laying on the coop floor in protest. Lesson learned the expensive way.
+Three nesting boxes for twenty hens. That's what I started with, back when I was convinced the "one box per four to five birds" guideline was just hatchery marketing. It wasn't. I spent two weeks watching my poor Barred Rocks queue up like they were waiting at the DMV, and one particularly determined hen started laying on the [coop floor](/chicken-coop-flooring-options/) in protest. Lesson learned the expensive way.
 
 So let's cut straight to it.
 
 ## The Real Ratio (And Why the Textbook Answer Needs Nuance)
+
+| Flock Size | Recommended Boxes | Minimum Boxes | Box Ratio |
+| --- | --- | --- | --- |
+| 4 hens | 1-2 | 3 | 1 per 4 (minimum override) |
+| 8 hens | 2-3 | 3 | 1 per 3-4 |
+| 12 hens | 3-4 | 4 | 1 per 3-4 (add 1-2 for peak laying) |
+| 20 hens | 5-7 | 5 | 1 per 3-4 (add 1-2 for peak laying) |
 
 The widely-cited standard is one nesting box for every four hens. That's not wrong, exactly. But it assumes your hens are well-socialized, roughly the same age, and not all on the same laying schedule, which in backyard flocks almost never works out so neatly.
 
@@ -43,7 +51,7 @@ You can have six perfectly-spaced nesting boxes and still have problems if they'
 
 Standard box dimensions are 12x12 inches for most laying breeds. That works fine for Leghorns, Australorps, Rhode Island Reds, and most of the mid-size breeds you're probably keeping. If you've got Buff Orpingtons or any Jersey Giants in your flock, size up to 14x14 or even 12x14. A hen who feels cramped won't use the box reliably. She'll find somewhere else. Usually somewhere terrible.
 
-Height off the ground matters too. Boxes mounted at 18 to 24 inches work well for most flocks. Too low, and other birds walk over the hens laying inside. Too high, and older hens or heavy breeds skip them entirely. I've seen people mount boxes at roost height (4+ feet) and then wonder why their hens roost in the boxes at night and poop all over the nesting material. Keep boxes lower than your primary roosts, and that problem mostly disappears.
+Height off the ground matters too. Boxes mounted at 18 to 24 inches work well for most flocks. Too low, and other birds walk over the hens laying inside. Too high, and older hens or heavy breeds skip them entirely. I've seen people mount boxes at [roost height](/chicken-roost-height/) (4+ feet) and then wonder why their hens roost in the boxes at night and poop all over the nesting material. Keep boxes lower than your primary roosts, and that problem mostly disappears.
 
 The other thing worth getting right is the entry lip. A 3- to 4-inch lip at the front keeps nesting material in the box and eggs from rolling out. [Premier 1's plastic nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=) hold up better than straw alone and cut down on dirty eggs substantially. (The site may earn a commission on purchases made through links here.)
 

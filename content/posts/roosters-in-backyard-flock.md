@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-
+lastmod: 2026-07-07
 ---
 Nobody warns you about the noise at 3 a.m.
 
@@ -47,9 +47,18 @@ There's also a flock cohesion angle. A rooster breaks up hen squabbles, calls he
 
 What you don't need a rooster for: keeping hens from being "bored," making eggs taste better, or convincing hens to use their nesting boxes. Those myths circulate endlessly and none of them hold water.
 
-Before any of this matters, check your local ordinances. Many suburban municipalities ban roosters outright, and a surprising number of rural zoning codes have noise restrictions that apply. Get that answer first.
+Before any of this matters, [check your local ordinances](/rooster-laws-backyard-chickens/). Many suburban municipalities ban roosters outright, and a surprising number of rural zoning codes have noise restrictions that apply. Get that answer first.
 
 ## Breed Selection Is Where Most People Go Wrong
+
+| Breed | Temperament with Humans | Hen Gentleness | Predator Awareness | Noise Level | Best For |
+| --- | --- | --- | --- | --- | --- |
+| Buff Orpington | Calm, handleable | Gentle | Moderate (alerts more than acts) | Standard | Beginners, families, calm flock |
+| Australorp | Alert, not aggressive if handled young | Reasonably gentle | Good | Standard | Balanced choice |
+| Easter Egger | High variance | High variance | Unknown | Standard | Experienced keepers only |
+| Rhode Island Red | Skews aggressive | Can be rough on hens | Good | Standard | Not recommended with children |
+| Silkie | Calm, handleable | Gentle | Moderate | Low (quieter than standard breeds) | Noise-sensitive areas, small flocks |
+| Old English Game | Often wickedly aggressive | Often aggressive | Good | Standard | Not recommended for first-timers |
 
 The generic advice is "get a docile breed." True but incomplete. Docility in roosters is partly breed-level tendency and partly individual variation, and some of the breeds with the best reputations are docile toward humans but brutally hard on hens. Those are different problems entirely.
 

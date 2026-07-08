@@ -23,6 +23,7 @@ faqs:
     a: "Diatomaceous earth helps with parasites like mites, but it does very little for ammonia smell. It also creates a fine silica dust that's genuinely harmful to your birds' respiratory systems and yours if used heavily inside an enclosed coop. Use it sparingly and outdoors if at all."
   - q: "Why does my coop smell worse in winter even when I clean it regularly?"
     a: "Almost always ventilation. People close up coops in winter to retain heat, which traps moisture and ammonia inside. Make sure your upper vents stay open year-round. Chickens can handle cold air; they cannot handle ammonia concentrations above about 25 parts per million, and the levels inside a closed winter coop can get much higher than that."
+lastmod: 2026-07-07
 ---
 My neighbor knocked on my fence one Saturday morning and asked, very politely, if something had died in my yard. Nothing had died. That was just my coop after a wet week in May, six hens, and a bedding change I'd put off for too long.
 
@@ -40,7 +41,13 @@ If your coop smells bad in winter because you've blocked the vents to "keep them
 
 ## The Deep Litter Method: The Best Approach Nobody Actually Explains Properly
 
-I've used deep litter for six years and I'm not going back. But I've also watched people try it and fail completely, because they skipped the part that makes it actually work.
+| Product | Type | Cost | Use Case |
+| --- | --- | --- | --- |
+| Small Pet Select Large Flake Pine Shavings | Bedding | ~$12/bag | Weekly top-up for deep litter |
+| Sweet PDZ Coop Refresher | Ammonia absorber | ~$20/40 lb bag | Daily poop board lining |
+| Coop Recuperate by Rooster Booster | Probiotic/enzyme powder | ~$15/container | Summer smell spike management |
+
+I've used [deep litter for six years](/deep-litter-method-chickens/) and I'm not going back. But I've also watched people try it and fail completely, because they skipped the part that makes it actually work.
 
 The idea is that you build up a thick layer of carbon material, typically wood shavings, straw, or a mix, and let the natural microbial activity in the litter break down the droppings over months. When it's working, you get composting heat, reduced ammonia, and a finished product that goes straight to the garden. When it's not working, you get a wet, compacted, stinking mat.
 

@@ -12,6 +12,7 @@ author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 slug: "h5n1-can-kill-your-cat-what-backyard-flock-owners-must-know"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 Most coverage of H5N1 and backyard flocks focuses on your chickens dying. That's real, but it's only half the story. On June 25, 2026, a University of Queensland veterinary expert published a warning that cuts closer to home: H5N1 can infect and kill your cat. Then in May 2026, the CDC documented the first case of a human contracting H5N1 through exposure to an infected domestic cat. The transmission chain now reads: wild bird to backyard flock to cat to person. If you keep chickens and you have a cat, you are sitting at the center of that chain.
 
@@ -32,6 +33,12 @@ From there the timeline compresses fast. World Organisation for Animal Health da
 Your cat then walks through the same yard, sniffs the same soil, finds a dead hen you missed near the fence line, or catches an infected wild bird that came down sick. Cats can also be exposed through raw chicken parts, including eggs from infected flocks, which some backyard keepers handle casually and set down on surfaces where cats roam.
 
 ## What a CDC Survey Revealed About Keeper Preparedness
+
+| Finding | Percentage | Implication |
+| --- | --- | --- |
+| Backyard flock owners with no avian veterinarian contact | 71% | No professional resource available during outbreak |
+| Flock owners unable to recognize avian flu signs in birds or people | 33% | One in three keepers cannot identify disease in their own flock or themselves |
+| Documented cat H5N1 cases tracked by AVMA | 100+ | Significant but likely undercounted due to lack of necropsies |
 
 A CDC survey published in May 2026 found that 71% of backyard flock owners had no veterinarian they could consult about their birds, and one-third didn't know the signs of avian flu in either birds or people. Read that again: one in three keepers couldn't recognize the disease in their own flock or themselves.
 

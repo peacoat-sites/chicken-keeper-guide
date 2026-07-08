@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-
+lastmod: 2026-07-07
 ---
 You've done your research, you've watched the YouTube videos, and you've already mentally named a few of your future hens. Now you're staring at your backyard trying to figure out the actual number you can keep without running into trouble with your neighbor, your city code enforcement officer, or your own sanity. It's a more complicated question than it looks, and the answer you'll find on most hatchery websites, "get at least three," leaves out about 90% of what you actually need to know.
 
@@ -31,7 +31,7 @@ You've done your research, you've watched the YouTube videos, and you've already
 
 I've talked to hundreds of people at this stage, and here's what I tell them every time: there is no universal answer to how many chickens you can have. The number that works for you depends on four things, and you need to think through all of them before you order a single chick.
 
-**Your local ordinances.** Start here. Not with square footage math, not with breed selection. Call your city or county planning office, or pull up your municipality's code online and search "poultry" or "livestock." What you're looking for is whether chickens are permitted at all, whether roosters are banned (they are in the vast majority of residential zones), and whether there's a hard cap on the number of birds. In suburban areas, caps of three to six hens are extremely common. Some cities allow up to twelve. A few have no cap at all. Some require a permit, a fee, or a minimum lot size. One woman I know built a beautiful coop for ten hens before she found out her township allowed four. She had to rehome six birds she had already grown attached to.
+**Your [local ordinances](/hoa-rules-backyard-chickens/).** Start here. Not with square footage math, not with breed selection. Call your city or county planning office, or pull up your municipality's code online and search "poultry" or "livestock." What you're looking for is whether chickens are permitted at all, whether roosters are banned (they are in the vast majority of residential zones), and whether there's a hard cap on the number of birds. In suburban areas, caps of three to six hens are extremely common. Some cities allow up to twelve. A few have no cap at all. Some require a permit, a fee, or a minimum lot size. One woman I know built a beautiful coop for ten hens before she found out her township allowed four. She had to rehome six birds she had already grown attached to.
 
 **Your lot size and setback requirements.** Even if ordinances allow chickens, they often require the coop to be a certain distance from property lines, neighboring homes, or your own house. A 50-foot setback on a quarter-acre lot can eliminate most of the places you'd want to put a coop.
 
@@ -40,6 +40,13 @@ I've talked to hundreds of people at this stage, and here's what I tell them eve
 **Your time and management capacity.** This one is underestimated constantly. More birds means more feed, more water, more manure, more health monitoring, and more things that can go wrong.
 
 ## What the Square Footage Rules Actually Mean
+
+| Setup Type | Indoor Space Per Bird | Outdoor Run Per Bird | Notes |
+|---|---|---|---|
+| Bare minimum (confined run) | 4 sq ft | 10 sq ft | Acceptable, but monitor closely for stress behaviors |
+| Comfortable confined flock | 6 sq ft | 15 sq ft | Healthier birds, fewer behavioral problems |
+| Free range or large run | 4 sq ft indoor | 50+ sq ft or unlimited | The outdoor space compensates enormously |
+| Heavy breeds (Orpingtons, Brahmas) | 6-8 sq ft | 15-20 sq ft | Larger bodies need more room to move comfortably |
 
 The most commonly cited guideline is 4 square feet of indoor coop space per bird and 10 square feet of outdoor run space per bird. Those numbers are reasonable minimums, but I want to be honest with you: birds kept at those minimums will have a lower quality of life than birds given more room, and crowding is one of the primary drivers of pecking, feather pulling, and disease transmission.
 

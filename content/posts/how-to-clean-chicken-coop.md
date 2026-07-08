@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-
+lastmod: 2026-07-07
 ---
 There's a smell that every chicken keeper knows. You open the coop door on a warm morning, and it hits you like a wall: ammonia, damp shavings, and something that falls somewhere between a barn and a locker room. If your eyes are watering before you even step inside, the coop is overdue for a serious clean. I've been there more times than I can count, and after 12 years of keeping chickens, I've learned that coop cleaning isn't just about comfort. It's one of the most direct things you do to protect your flock's health.
 
@@ -59,7 +59,7 @@ Getting set up before you open that coop door makes the whole job faster and les
 - Garden hose or pressure washer if the coop can handle it
 
 **Fresh supplies:**
-- Pine shavings (avoid cedar, which has aromatic oils that irritate respiratory tracts)
+- [Pine shavings](/pine-shavings-vs-straw-for-chickens/) (avoid cedar, which has aromatic oils that irritate respiratory tracts)
 - Food-grade diatomaceous earth (optional but useful for mite prevention)
 - Fresh nesting box material, like these [Precision Pet nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads) that are easy to swap out
 
@@ -76,7 +76,7 @@ Get your flock into a secure run or temporary pen. You don't want chickens under
 Take out feeders, waterers, nesting box inserts, roost bars if they lift out, and any other accessories. Set them outside to clean separately. Roost bars accumulate unbelievable amounts of manure because chickens do most of their droppings overnight while they sleep.
 
 **Step 3: Scrape and shovel out all litter.**
-Get down to the floor. Don't leave an inch of old bedding behind. Use a flat shovel along the walls and corners. If you use the deep litter method (which I do use between deep cleans), fully remove it twice a year regardless. Compost the waste, or bag it for trash pickup if you're dealing with sick birds and don't want to compost potentially contaminated material.
+Get down to the floor. Don't leave an inch of old bedding behind. Use a flat shovel along the walls and corners. If you use the [deep litter method](/deep-litter-method-chickens/) (which I do use between deep cleans), fully remove it twice a year regardless. Compost the waste, or bag it for trash pickup if you're dealing with sick birds and don't want to compost potentially contaminated material.
 
 **Step 4: Dry sweep everything.**
 Sweep down walls, scrape ceiling corners, knock down cobwebs, and brush off the roost bars you left in place. This gets the loose debris before water hits it and turns everything into a muddy paste.
@@ -91,7 +91,7 @@ Any soap residue left behind is bad for birds. Rinse until the water runs clear.
 This is non-negotiable. Putting birds back into a wet coop is trading one problem for another. On a sunny day, two to four hours with doors and windows open usually does it. On a humid or cloudy day, you might need longer. I've run a box fan in the coop to speed drying.
 
 **Step 8: Apply disinfectant.**
-Once dry, spray a poultry-safe disinfectant according to label directions. Oxine AH is my go-to because it breaks down into salt and water, leaving no harmful residue when used correctly. Let it air out before birds return.
+Once dry, spray a [poultry-safe disinfectant](/chicken-coop-smell-control/) according to label directions. Oxine AH is my go-to because it breaks down into salt and water, leaving no harmful residue when used correctly. Let it air out before birds return.
 
 **Step 9: Dust with diatomaceous earth (optional).**
 A light dusting of food-grade DE along the floor edges, in nesting boxes, and on roost bars discourages mites. Don't overdo it. A fine dusting is plenty.
@@ -100,6 +100,13 @@ A light dusting of food-grade DE along the floor edges, in nesting boxes, and on
 Four to six inches of pine shavings on the floor. Fresh material in nesting boxes. Clean, refilled waterers and feeders back in place. Your birds are going to love you.
 
 ## Deep Clean vs. Regular Maintenance: Knowing the Difference
+
+| Cleaning Type | Frequency | Time Required | What It Includes |
+| --- | --- | --- | --- |
+| Daily spot-clean | Every day | 5-10 minutes | Remove wet bedding, top off waterer, check for health issues |
+| Weekly maintenance | Once a week | 20-30 minutes | Remove droppings board contents, sweep litter, refresh water and feed |
+| Monthly cleanout | Once a month | 1-2 hours | Remove all litter, scrub high-traffic areas, replace nesting box material |
+| Deep clean | Twice a year (spring and fall) | 3-4 hours | Full litter removal, scrub all surfaces, disinfect, replace all bedding |
 
 Not every cleaning session needs to be the full production above. Here's what different levels look like and when to do them.
 

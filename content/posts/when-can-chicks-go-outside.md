@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-
+lastmod: 2026-07-07
 ---
 Most people wait too long. Or they rush it. There's almost no middle ground in the advice you'll find online, and I'll be honest, when I started keeping chickens a decade ago, I didn't know what to believe either.
 
@@ -36,6 +36,12 @@ So let me give you the real breakdown.
 ---
 
 ## The Feather Rule Beats the Age Rule Every Time
+
+| Breed Type | Feathering Speed | Typical Feathering Complete |
+| --- | --- | --- |
+| Heavy breeds (Cochins, Wyandottes, Brahmas) | Faster, denser | ~5.5 weeks |
+| Light Mediterranean breeds (Leghorns, Andalusians) | Slower, patchier | ~7 weeks |
+| Average across breeds | Moderate | 6-8 weeks |
 
 You'll see charts saying "6-8 weeks" is the magic window. That's not wrong. But what's actually determining readiness is feathering, not a calendar date.
 
@@ -55,7 +61,7 @@ But I want you to think about nighttime lows in your specific location, not the 
 
 I keep a minimum rule: no permanent outdoor housing until my nighttime low is consistently above 50°F, and the chicks are fully feathered. Consistently means a 10-day forecast, not one warm week that might break.
 
-If you're in a cold climate and your chicks hatched in February or early March, you've got a timing problem. Fully feathered by 7 weeks puts you at late March or April. Depending on where you live, nights can still hit the 30s. In that case, your options are: keep the brooder going longer, run a heat lamp or a Brinsea EcoGlow in the coop as supplemental heat, or build out a transition space like a covered outdoor pen that gets sun during the day but doesn't expose birds to the harshest conditions.
+If you're in a cold climate and your chicks hatched in February or early March, you've got a timing problem. Fully feathered by 7 weeks puts you at late March or April. Depending on where you live, nights can still hit the 30s. In that case, your options are: [keep the brooder going longer](/brooder-setup-for-chicks/), run a heat lamp or a Brinsea EcoGlow in the coop as supplemental heat, or build out a transition space like a covered outdoor pen that gets sun during the day but doesn't expose birds to the harshest conditions.
 
 The Brinsea EcoGlow (around $60-90 depending on size) is genuinely worth it for cold-climate keepers who want to transition birds earlier. Unlike a heat lamp, it heats by contact, mimicking a mother hen, and the fire risk is essentially zero. I switched to it three years ago and won't go back to heat lamps.
 

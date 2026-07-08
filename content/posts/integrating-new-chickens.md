@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
 You did everything right. You quarantined your new birds for the full 30 days, watched them closely for signs of illness, and now you're standing at your coop door with two nervous pullets in a cardboard box while six established hens stare back from the run like a gang that just claimed their corner. You let them all loose together and within 45 seconds one of your older girls has the newcomer pinned by the neck. You panic, separate everyone, and start Googling at midnight. If that's where you are right now, you're in exactly the right spot.
 
@@ -31,7 +31,7 @@ You did everything right. You quarantined your new birds for the full 30 days, w
 
 ## Why Chickens Make Integration So Hard (And Why That's Normal)
 
-Chickens aren't friendly by nature. They're prey animals with a rigid social structure, and that structure exists for a reason: a stable pecking order reduces conflict because everyone already knows their rank. When you add new birds, you're not just adding bodies. You're blowing up a social system that took months to establish.
+Chickens aren't friendly by nature. They're prey animals with a [rigid social structure](/chicken-pecking-order/), and that structure exists for a reason: a stable pecking order reduces conflict because everyone already knows their rank. When you add new birds, you're not just adding bodies. You're blowing up a social system that took months to establish.
 
 The existing hens aren't being cruel. They're doing what chickens do: re-establishing who gets first access to food, water, roosting space, and nesting boxes. The problem is that fighting to establish dominance can turn genuinely dangerous when your newcomers have nowhere to escape.
 

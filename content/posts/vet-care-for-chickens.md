@@ -23,6 +23,7 @@ faqs:
    a: "For many common issues, yes. Lice and mites, minor wounds, sour crop caught early, and mild respiratory symptoms without spreading are all manageable at home with proper products. But neurological symptoms, egg binding that isn't resolving, rapidly spreading illness, or any unexplained death should involve a professional."
  - q: "What is a fecal float and does my flock need one?"
    a: "A fecal float is a simple lab test that identifies internal parasite eggs in a dropping sample. It costs $25 to $50 and tells you exactly which parasites you're dealing with, if any. I do one every spring. Treating without knowing what you're treating for wastes money and can contribute to resistance over time."
+lastmod: 2026-07-07
 ---
 
 Most chicken keepers don't call a vet until something is already very wrong. I get it. I was the same way for the first few years. My flock got respiratory symptoms, I Googled for two hours, ordered Tylan 50 from the feed store, and hoped for the best. Sometimes it worked. Sometimes I lost a bird I could have saved if I'd had a vet relationship already in place.
@@ -51,6 +52,19 @@ But here's what changes the calculation: flock health. A single sick bird can be
 
 ## What You Can Handle at Home vs. What Needs a Vet
 
+| Condition | Home Treatment Appropriate? | When to Call a Vet |
+| --- | --- | --- |
+| Mild respiratory symptoms (no eye discharge, no neurological signs) | Yes | No |
+| Neurological signs (head shaking, torticollis, loss of coordination) | No | Yes-immediately |
+| Minor wounds and pecking injuries | Yes | No |
+| Deep or infected wounds | No | Yes |
+| Sour crop caught early | Yes | No |
+| Egg-bound hen (no progress after 24 hours) | No | Yes-don't wait beyond 36-48 hours |
+| Scaley leg mites, lice, mites generally | Yes | No |
+| Routine worming (based on fecal results) | Yes | No |
+| Respiratory illness spreading fast or with facial swelling | No | Yes-immediately |
+| Unexplained sudden death | No | Yes-get a necropsy |
+
 I've treated a lot of things at home over ten years, and I have a pretty clear line in my head now. But I made a lot of mistakes getting there.
 
 Home treatment is reasonable for: mild respiratory symptoms with no discharge from both eyes and no neurological signs, minor wounds and pecking injuries, sour crop caught early, scaley leg mites, lice and mites generally, and routine worming based on fecal results.
@@ -63,7 +77,7 @@ I thought for years that egg binding always looked dramatic. I was wrong. My Buf
 
 Most backyard flock owners skip preventive care entirely. That's backwards.
 
-Annual fecal floats run $25 to $50 at most vets, and they tell you exactly what internal parasites you're dealing with (or not dealing with). Worming blindly with a broad-spectrum product twice a year is not wrong, exactly, but you might be treating for the wrong organisms. Valbazen (albendazole) handles most worm burdens well, but if you've got a tapeworm problem, you need praziquantel, and you won't know unless you test. I test my flock every spring, religiously.
+Annual fecal floats run $25 to $50 at most vets, and they tell you exactly what [internal parasites](/worms-in-chickens/) you're dealing with (or not dealing with). Worming blindly with a broad-spectrum product twice a year is not wrong, exactly, but you might be treating for the wrong organisms. Valbazen (albendazole) handles most worm burdens well, but if you've got a tapeworm problem, you need praziquantel, and you won't know unless you test. I test my flock every spring, religiously.
 
 Respiratory disease testing is worth doing once if you've never done it, especially if you've added birds from multiple sources. A Mycoplasma gallisepticum/synoviae (MG/MS) panel through a state diagnostic lab typically costs $30 to $80 per bird, or you can submit a serum pool from several birds. Knowing your flock's disease status before you breed or sell birds is the kind of thing that protects your reputation with other keepers.
 

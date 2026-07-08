@@ -23,11 +23,18 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-
+lastmod: 2026-07-07
 ---
 You've been feeding, watering, and caring for your pullets for months. You check the nesting boxes every morning with that mix of hope and mild disappointment. Then one Tuesday, there it is: a small, slightly odd-shaped egg sitting in the corner of the coop. The wait is finally over. If you're still in the waiting phase, understanding exactly what drives that first egg can make the whole experience a lot less frustrating.
 
 ## The Average Age When Chickens Start Laying
+
+| Breed Type | Typical Laying Start Age | First Egg Size | Notes |
+| --- | --- | --- | --- |
+| Production (Leghorn, Golden Comet) | 16-17 weeks | Small | Early and consistent |
+| Standard Dual-Purpose | 18-24 weeks | Small to medium | Most backyard breeds |
+| Large/Heritage (Brahma, Jersey Giant) | 28-32 weeks | Small | Slow-maturing birds |
+| New Layer (Any breed) | - | 30-35 grams | Normalizes to 55-60g within 4-6 weeks |
 
 Most backyard chickens lay their first egg somewhere between 18 and 24 weeks of age. That's the honest range, not the optimistic one you'll sometimes see on feed store signage. A few breeds can surprise you as early as 16 weeks, while others, particularly large or heritage breeds, won't lay until they're closer to 28 or even 32 weeks old.
 
@@ -59,7 +66,7 @@ Give a new layer about 4 to 6 weeks to normalize. Most pullets are producing con
 
 Sometimes 24 weeks comes and goes and there's still no egg. Before you panic, run through this checklist of common causes.
 
-**Insufficient light.** Below 14 hours of daily light, many hens simply won't lay. If your pullets are maturing in fall or winter, supplemental lighting is the solution. A simple 40-watt incandescent or LED bulb on a timer set to provide morning light can make the difference. Add light in the morning rather than the evening so you don't abruptly cut off the light cycle at night.
+**Insufficient light.** Below 14 hours of daily light, many hens simply won't lay. If your pullets are maturing in fall or winter, [supplemental lighting](/adding-light-for-winter-egg-production/) is the solution. A simple 40-watt incandescent or LED bulb on a timer set to provide morning light can make the difference. Add light in the morning rather than the evening so you don't abruptly cut off the light cycle at night.
 
 **Stress.** Moving to a new coop, introducing new flock members, a predator scare, extreme heat, or even a change in feed can delay onset of laying. Stress suppresses the reproductive hormones. If you've recently done something that disrupted the flock, give the birds a week or two to settle before expecting eggs.
 

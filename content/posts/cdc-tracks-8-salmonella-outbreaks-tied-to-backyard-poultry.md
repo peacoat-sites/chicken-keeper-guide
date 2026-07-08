@@ -12,6 +12,7 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 slug: "cdc-tracks-8-salmonella-outbreaks-tied-to-backyard-poultry"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 If you've got a backyard flock right now, this is the week to pay attention. As of June 17, 2026, the CDC is actively investigating eight simultaneous multistate Salmonella outbreaks all linked to backyard poultry contact. That's not eight separate incidents that happened over a year. That's eight concurrent outbreak strains being tracked at the same time, with 513 confirmed illnesses across 42 states and one U.S. territory, 134 hospitalizations, and one death. When I first saw the numbers, I assumed it was being reported in that breathless, overcautious public health way that makes chicken keepers roll their eyes. It's not. This is genuinely serious.
 
@@ -34,6 +35,14 @@ One in four people sick in these outbreaks is a child under five years old. That
 As CIDRAP reported in April when the Saintpaul strain first emerged, the CDC was already flagging children as the highest-risk population before the case count hit 150. Now that it's past 500, the demographic pattern hasn't changed. If you have children under five in your household, or if they visit your property, the risk is real. That doesn't mean shutting down your flock. It means being genuinely rigorous about handwashing, about where birds are allowed to roam, and about whether your kids understand they can't kiss the chickens. (They want to kiss the chickens. This is the constant battle.)
 
 ## What "Backyard Poultry Contact" Actually Means
+
+| Risk Factor | Details | Mitigation |
+| --- | --- | --- |
+| New bird acquisition (spring 2026) | 93% of early Saintpaul cases had acquired birds since January 1 | Source birds from certified disease-free hatcheries; quarantine new arrivals |
+| Duck contact | Highest proportion in largest outbreak cluster; heavy Salmonella shedders in water | Restrict children from duck areas; manage waterer splash zones |
+| Children under 5 | 25% of all cases in outbreak cluster | Enforce handwashing after bird contact; restrict hand-to-face behavior |
+| Fecal contact pathways | Birds themselves, eggs, waterers, feeders, coop bedding, yard surfaces | Wash hands immediately after coop work; keep birds out of house |
+| High-risk household members | Elderly, young children, pregnant people, immunocompromised | Tighten protocols immediately; consider additional household separation |
 
 Standard public health messaging on this topic frustrates me because it's vague. "Avoid contact with backyard poultry" isn't useful guidance for someone who keeps backyard poultry. Let's be specific about where the actual risk lives.
 

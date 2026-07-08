@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-
+lastmod: 2026-07-07
 ---
 You walk out to the coop on a Tuesday morning and something just feels off. One of your pullets is hunched in the corner, fluffed up, not moving toward the feeder. You pick her up and she's lighter than she should be. Then you notice the droppings, bloody, rust-colored, or just watery and wrong. Your stomach drops. If you've never dealt with coccidiosis before, you might be wondering if she's going to make it, what you did wrong, and whether the rest of your flock is next. Here's what I tell people in that moment: you caught it. That matters. Coccidiosis moves fast, but it's also one of the most treatable diseases in backyard poultry if you act within the right window.
 
@@ -39,7 +39,7 @@ The species most likely to wreck a backyard flock are *E. tenella* (which target
 
 Young birds between 3 and 8 weeks old are by far the most vulnerable. Their immune systems haven't built up immunity to local *Eimeria* strains yet. Adult birds in an established flock usually have some acquired immunity from low-level exposure over time. That's why you often see coccidiosis hit hardest in chicks raised indoors on clean bedding, then moved to a run with contaminated soil.
 
-Stress, wet bedding, overcrowding, and sudden weather changes all tank immune function and create conditions where *Eimeria* populations explode. A brooder that stays damp because your chicks are splashing their waterer? Classic setup for an outbreak.
+[Stress, wet bedding, overcrowding](/quarantine-new-chickens/), and sudden weather changes all tank immune function and create conditions where *Eimeria* populations explode. A brooder that stays damp because your chicks are splashing their waterer? Classic setup for an outbreak.
 
 ## Recognizing the Symptoms Before It's Too Late
 
@@ -64,6 +64,12 @@ Here's what to watch for, roughly in the order symptoms appear:
 Normal cecal droppings are dark brown and smell almost like tar or chocolate. New chicken keepers panic when they see them. That's not blood. What you're looking for is bright red, watery, or raspberry-colored droppings that look distinctly different from normal cecal output. Not sure? Photograph the dropping and post it to a chicken keeping forum. Experienced eyes can usually tell the difference immediately.
 
 ## Treatment: What to Use and How to Use It
+
+| Treatment | Form | Dosage | Duration | Withdrawal |
+| --- | --- | --- | --- | --- |
+| Amprolium (Corid) - Treatment | Liquid (9.6%) | 2 tsp per gallon | 5-7 days | None |
+| Amprolium (Corid) - Prevention | Liquid (9.6%) | 1 tsp per gallon | 7-14 days | None |
+| Amprolium (Corid) - Treatment | Powder (20%) | 1.5 tsp per gallon | 5-7 days | None |
 
 Speed is everything. If you're seeing symptoms and suspect coccidiosis, don't wait for a confirmed fecal float from your vet before starting treatment. Start Corid while you're waiting.
 

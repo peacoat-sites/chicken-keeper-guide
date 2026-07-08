@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-
+lastmod: 2026-07-07
 ---
 Most new chicken keepers walk into the feed store, grab whatever bag has a chicken on the label, and call it done. I did the same thing my first year. Then I watched my Rhode Island Reds go through a rough molt, my egg production crater in November, and my rooster develop a limp I later traced back to a calcium-phosphorus imbalance. Twelve years and 200-plus birds later, I can tell you that what you put in that feeder matters far more than most people realize. Chickens aren't complicated, but they're not as forgiving as the "just toss them scratch" advice would have you believe.
 
@@ -38,6 +38,12 @@ Three main forms exist: crumble, pellet, and mash. Pellets are my go-to. They pr
 One thing people miss: layer feed is specifically for laying hens. Don't feed it to chicks under 18 weeks. The calcium levels are too high for developing kidneys. And don't feed it to roosters long-term if you can avoid it. Same reason. More on that in a minute.
 
 ## Chicks and Pullets: Getting the First 18 Weeks Right
+
+| Feed Type | Protein % | Primary Use | Age/Birds |
+| --- | --- | --- | --- |
+| Chick Starter | 20-24% | Growth & development | Chicks (0-8 weeks) |
+| Grower Feed | ~18% | Transition to laying | Pullets (8-18 weeks) |
+| Layer Feed | 16-18% | Egg production & maintenance | Laying hens (18+ weeks) |
 
 Baby chicks need starter feed, and this is where the protein conversation gets serious. Chick starter runs 20 to 24 percent protein because those little bodies are building muscle, bone, and organ tissue at a rate they'll never match again. Skimp on protein in the brooder and you'll see feather picking, slow development, and birds that never quite reach their genetic potential.
 

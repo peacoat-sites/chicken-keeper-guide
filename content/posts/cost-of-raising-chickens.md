@@ -23,13 +23,25 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-
+lastmod: 2026-07-07
 ---
 Nobody warned me that my "cheap" backyard egg setup would cost me $1,400 before a single hen laid her first egg. I'd read all the beginner guides. I bought the $89 starter coop from Tractor Supply, grabbed six chicks at $4.99 each from the local feed store, and figured I was being smart and frugal. I was not.
 
 The real cost of raising chickens is one of the most consistently undersold topics in the hobby. People love to talk about the $0.30 egg math. Nobody wants to talk about the $600 predator-proof hardware cloth retrofit they had to do after losing their first flock to a raccoon that ripped through the cheap wire stapled to that starter coop. I've had both experiences. Let me give you the actual numbers.
 
 ## Startup Costs: Where Most People Underestimate
+
+| Cost Category | Low Estimate | High Estimate | Notes |
+| --- | --- | --- | --- |
+| Coop (DIY moderate quality) | $300 | $450 | Pre-built: $300-$800 |
+| Run construction | $150 | $350 | Covered, predator-resistant |
+| Hardware cloth | $100 | $200 | For coop and run |
+| Chicks (six pullets) | $30 | $90 | Hatchery or feed store |
+| Brooder setup | $40 | $80 | Heat lamp, box, bedding |
+| Feeder and waterer | $25 | $60 | - |
+| Initial feed, grit, electrolytes | $40 | $60 | - |
+| Nesting box pads/straw | $15 | $30 | - |
+| **Total First-Year Startup** | **$700** | **$1,320** | Before birds enter coop |
 
 The coop is the first place the budget goes sideways. Here's the honest breakdown: a coop suitable for four to six hens, one that doesn't need major rework within a year, is going to run you between $300 and $800 if you buy pre-built. The $89 Tractor Supply coops and the similar ones on Amazon ($120-$250) are, I'll be honest, not adequate for serious keeping. The latches are flimsy. The ventilation is terrible. The floor gaps are wide enough for weasels. I know this because I used one.
 
@@ -62,7 +74,7 @@ Scratch grains, oyster shell for calcium, occasional treats. Another $5-$10 per 
 
 Healthcare costs are where people get genuinely blindsided. In my experience, expect at least one significant health situation per year across a flock of six. Respiratory infections, wry neck from vitamin deficiency, bumblefoot, egg binding. A vet visit for a chicken runs $50-$150 at an avian vet, and not every town has one within a reasonable drive. I've learned to treat a lot of things myself. Vetericyn Poultry Care spray ($14 on Amazon) lives in my barn. Tylan Soluble powder for respiratory infections, around $18, has probably paid for itself ten times over. But there will be losses. There will be a hen you didn't expect to lose.
 
-A realistic monthly operating cost for six laying hens: $38-$60 per month, or roughly $450-$720 per year.
+A realistic [monthly operating cost](/chicken-keeping-budget/) for six laying hens: $38-$60 per month, or roughly $450-$720 per year.
 
 ## The Real Egg Math
 

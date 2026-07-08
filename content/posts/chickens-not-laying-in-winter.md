@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
 You go out to the coop on a cold December morning, lift the nesting box lid, and find exactly nothing. Again. Six hens. Reliable all spring and summer. And now it's been three weeks since you've seen more than one or two eggs on a good day. Something's wrong. Has to be.
 
@@ -33,7 +33,7 @@ Most people blame the cold. Cold is almost never the real culprit.
 
 Chickens stop laying because of light, not temperature. Hens need roughly 14 to 16 hours of light exposure daily to maintain consistent egg production. That light triggers the pituitary gland through the hen's eye, stimulating the release of reproductive hormones. When daylight drops below that threshold, which it does every year between October and February in most of North America, the hormonal signal weakens and laying slows or stops entirely.
 
-This is a feature, not a bug. Wild birds time their breeding cycles to hatch chicks when food is abundant and temperatures are survivable. Your backyard hen still carries that same biology, even if she's never seen a predator. The molting and rest cycle that comes with shorter days actually allows her reproductive system to recover. Older hens who are allowed a winter break often lay better the following spring than hens who were pushed through with artificial light year-round.
+This is a feature, not a bug. Wild birds time their breeding cycles to hatch chicks when food is abundant and temperatures are survivable. Your backyard hen still carries that same biology, even if she's never seen a predator. The [molting](/molting-chickens-egg-production/) and rest cycle that comes with shorter days actually allows her reproductive system to recover. Older hens who are allowed a winter break often lay better the following spring than hens who were pushed through with artificial light year-round.
 
 That said, knowing *why* it happens doesn't make it less frustrating when you're buying a dozen eggs at the grocery store while six perfectly healthy chickens sit in your coop doing absolutely nothing.
 
@@ -49,6 +49,14 @@ Don't handle molting hens more than necessary. The pin feathers coming in are ac
 
 ## Breed Matters More Than People Admit
 
+| Breed | Winter Production Level | Notes |
+| --- | --- | --- |
+| Production Reds & ISA Browns | Reduction, rarely full stop | Commercial hybrids, relentless layers |
+| White Leghorns | Better than most standard breeds | Performs well through short days |
+| Australorps | 4-5 eggs/week in January | Australian-developed, year-round capability |
+| Golden Comets & Red Sex-Links | Consistent production | Bred for year-round laying |
+| Orpingtons, Cochins, Brahmas, Silkies, Easter Eggers | Nearly stops | Heritage/dual-purpose breeds, not winter producers |
+
 If you have Orpingtons, Cochins, Brahmas, Silkies, or Easter Eggers and you're wondering why they basically vanish as layers every winter, that's a breed issue. These birds are not winter production breeds. They were developed for other traits. Nobody mentions that on the hatchery product page.
 
 Breeds that hold production reasonably well through short days:
@@ -62,7 +70,7 @@ If you have a mixed flock with heavy heritage breeds alongside production hybrid
 
 ## Using Supplemental Light: A Practical Guide
 
-Adding light to the coop is the most direct way to maintain winter egg production. Done correctly, it works well. Done wrong, it either does nothing or stresses your birds.
+Adding light to the coop is the most direct way to maintain [winter egg production](/adding-light-for-winter-egg-production/). Done correctly, it works well. Done wrong, it either does nothing or stresses your birds.
 
 **The basics:**
 

@@ -12,15 +12,28 @@ author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 slug: "egg-prices-crashed-but-flock-numbers-keep-climbing"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 
 The egg aisle is normal again. Prices that hit a jaw-dropping $6.23 per dozen in March 2025, the highest in twenty years according to Bureau of Labor Statistics data, have crashed back to $2.19 by May 2026 as avian influenza pressure eased and commercial flocks rebuilt. By any rational financial calculation, the case for keeping backyard chickens just evaporated. And yet: 11 million U.S. households now keep flocks, nearly double the 5.8 million in 2018, making chickens the third most common pet in America. The American Pet Products Association confirmed those numbers in June 2026, and Google search traffic for "backyard chickens" is still climbing. Something fundamental has shifted, and it isn't the price of feed.
 
 ## The Math Has Never Worked, But Now We're Admitting It
 
+| Metric | 2018 | 2025 | 2026 |
+| --- | --- | --- | --- |
+| U.S. Households Keeping Chickens | 5.8 million | - | 11 million |
+| Egg Price (per dozen) | - | $6.23 (March peak) | $2.19 (May) |
+| Years of Price Peak | - | Highest in 20 years | - |
+| Silkie Annual Egg Production | - | ~100 eggs | - |
+| Production Red Sex-Link Annual Egg Production | - | 280-300 eggs | - |
+| Standard Coop Space Recommendation | - | 4 sq ft/bird (minimum) | - |
+| Improved Coop Space (pet-kept flocks) | - | 6-8 sq ft/bird | - |
+| University of Winchester Survey: Hens as Moral Equals to Dogs | - | - | 75%+ of owners |
+| University of Winchester Survey: Would Never Slaughter Flock | - | - | 90%+ of owners |
+
 I'll be honest: the economics of backyard egg production were always questionable. Even when eggs were $6 a dozen, anyone who actually ran the numbers, quality feed, coop costs, bedding, veterinary care, the occasional predator-proofing upgrade after a raccoon finds the weakness in your hardware cloth, knew the payback period was painful. Texas A&M AgriLife Extension livestock economist David Anderson confirmed in July 2026 that with commercial flock recovery well underway, home egg production is even harder to justify on a spreadsheet now.
 
-What surprised me was how openly people are saying so and keeping chickens anyway. The justification has just changed. "I save money on eggs" has been quietly retired. In its place: enrichment, companionship, food transparency, and what a lot of keepers are calling a lifestyle choice rather than a financial one.
+What surprised me was how openly people are saying so and keeping chickens anyway. The justification has just changed. "I save money on eggs" has been quietly retired. In its place: enrichment, companionship, [food transparency](/why-cities-are-loosening-backyard-chicken-rules-in-2026/), and what a lot of keepers are calling a lifestyle choice rather than a financial one.
 
 ## Chickens as Companion Animals: This Isn't Fringe Anymore
 
@@ -28,7 +41,7 @@ The University of Winchester surveyed over 2,000 chicken owners and found that m
 
 And it's reshaping everything downstream: breed selection, coop design, enrichment, and especially veterinary care. People are now choosing breeds like Silkies, Orpingtons, and Easter Eggers not because of egg production metrics but because of temperament and handleability. Silkies produce maybe 100 eggs a year if you're lucky. A production Red Sex-Link can push 280 to 300. The fact that Silkie ownership is surging tells you exactly where the culture has moved.
 
-The backyard chicken community has also started pushing back against the word "livestock" when applied to pets. That's a meaningful semantic battle. Once your hen has a name, a vet record, and a birthday party on Instagram, the psychological framework has completely changed.
+The [backyard chicken community](/chickens-are-now-americas-third-most-popular-pet/) has also started pushing back against the word "livestock" when applied to pets. That's a meaningful semantic battle. Once your hen has a name, a vet record, and a birthday party on Instagram, the psychological framework has completely changed.
 
 ## What the USDA Label Shift Actually Means for Backyard Keepers
 

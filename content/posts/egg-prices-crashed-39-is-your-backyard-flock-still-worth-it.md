@@ -12,6 +12,7 @@ author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
 slug: "egg-prices-crashed-39-is-your-backyard-flock-still-worth-it"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 The price shock that drove thousands of people to buy baby chicks in 2025 has officially reversed. USDA data shows retail egg prices fell 39.2% year-over-year by April 2026, and the national average for a dozen Grade A large eggs hit $2.19 in May 2026, according to BLS figures tracked by FRED. That's a long way from the $5 to $6 cartons that were emptying grocery shelves eighteen months ago. In chicken-keeping forums and local Facebook groups, the same question is surfacing constantly: does a backyard flock still make financial sense?
 
@@ -19,11 +20,20 @@ The honest answer is: it depends on why you started one, and whether you're will
 
 ## What Actually Drove the 2025 Flock Boom
 
-The H5N1 HPAI outbreak is the origin story here. Since 2022, it has killed or triggered the culling of more than 186 million domestic birds in the U.S., the single largest supply disruption in American poultry history. When commercial laying flocks collapsed, egg prices didn't just rise, they went vertical. The response from backyard keepers, homesteaders, and suburban households was predictable: chick sales surged, feed stores sold out of pullets, and hatcheries had wait lists stretching months.
+The [H5N1 HPAI outbreak](/what-the-cdcs-new-backyard-flock-survey-found-about-hpai/) is the origin story here. Since 2022, it has killed or triggered the culling of more than 186 million domestic birds in the U.S., the single largest supply disruption in American poultry history. When commercial laying flocks collapsed, egg prices didn't just rise, they went vertical. The response from backyard keepers, homesteaders, and suburban households was predictable: chick sales surged, feed stores sold out of pullets, and hatcheries had wait lists stretching months.
 
 People weren't wrong to react that way. Supply shocks create real vulnerability, and a small laying flock genuinely insulates you from retail disruption. The flaw in the 2025 logic wasn't the premise, it was the assumption that high egg prices were the permanent new baseline rather than a crisis peak.
 
 ## The Math Nobody Wants to Run
+
+| Cost Category | Low End | High End | Notes |
+| --- | --- | --- | --- |
+| Initial coop & infrastructure | $600 | $900 | For 4-6 hens, predator-resistant |
+| Layer feed (50 lb bag) | $25 | $35 | Current market rates |
+| Monthly supplies (bedding, oyster shell, misc.) | $15 | $25 | Per small flock |
+| Retail egg price (dozen) | $2.19 | $2.19 | May 2026 national average |
+| Monthly egg output (4-6 hens) | 4 dozen | 5 dozen | At peak lay |
+| Monthly egg value at retail | $8.76 | $10.95 | At current prices |
 
 Here's where the discussion gets uncomfortable. A modest flock of four to six hens costs roughly $600 to $900 to set up properly if you're building a predator-resistant coop from scratch and buying quality birds. Layer feed runs $25 to $35 for a 50-pound bag in most U.S. markets right now, and hasn't budged much despite egg prices cratering. Bedding, oyster shell, occasional vet costs, and miscellaneous supplies add another $15 to $25 per month for a small flock. Six hens in peak lay might produce four to five dozen eggs per month. At $2.19 per dozen, that's $8.76 to $10.95 worth of eggs monthly at current retail prices.
 

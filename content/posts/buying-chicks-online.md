@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-
+lastmod: 2026-07-07
 ---
 I'll be honest: the first time I ordered chicks online, I thought I was being reckless. Paying $6 to $12 per chick, plus $30 or more in shipping, for birds I couldn't inspect, from a hatchery I'd never visited, that would arrive through the United States Postal Service? It felt insane. Three days later, a chirping box showed up at my local post office at 6 a.m. and every single chick was alive, alert, and hollering. I've ordered online probably a dozen times since then, and I've also had a shipment go badly wrong. So here's the real rundown.
 
@@ -61,7 +61,7 @@ Nobody warns you about this part: hatcheries sell out fast. Specific breeds, spe
 
 This is the part that makes people anxious, and honestly, some anxiety is justified.
 
-Hatcheries ship day-old chicks because the yolk sac provides roughly 48 to 72 hours of nutrition without food or water. They go in ventilated cardboard boxes with wood shavings, sometimes a heat pack depending on weather, sometimes a "packing peanut" (an extra male chick for warmth). That's why minimum orders exist: a lone chick chills and dies.
+Hatcheries ship day-old chicks because the yolk sac provides roughly 48 to 72 hours of nutrition without food or water. They go in ventilated cardboard boxes with wood shavings, sometimes a [heat pack depending on weather](/heat-lamp-for-chicks/), sometimes a "packing peanut" (an extra male chick for warmth). That's why minimum orders exist: a lone chick chills and dies.
 
 USPS Priority Mail Express is the standard method, targeting 1-2 day delivery. But here's the problem: USPS handles millions of packages and a box marked "LIVE ANIMALS" in bright red can sit in a sorting facility overnight in temperatures that kill them. This happens more often than hatcheries admit.
 

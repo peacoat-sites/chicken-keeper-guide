@@ -23,15 +23,23 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
 My chickens would do anything for mealworms. Truly, anything. I once accidentally dropped a bag near the coop door and had six hens in a full sprint before the bag even hit the ground. That part's fun. What's less fun is realizing, a few months into keeping chickens, that you've been treating mealworms like a staple feed instead of what they actually are.
 
 You're probably wondering whether mealworms are actually good for chickens, how many is too many, dried versus live, and whether growing your own is worth the effort. These are exactly the right questions. But first, let's reset on how to think about this ingredient in general.
 
-Mealworms are a treat. A good one, genuinely nutritious, but still a treat. The protein content in dried mealworms runs around 53%, which sounds incredible until you realize chickens are getting what they need from a properly balanced layer feed. Dumping high-protein treats on top can actually throw off that balance over time. Too much protein pushes extra nitrogen through the kidneys. It won't kill a healthy hen overnight, but it's a real thing to manage.
+Mealworms are a treat. A good one, genuinely nutritious, but still a treat. The protein content in dried mealworms runs around 53%, which sounds incredible until you realize chickens are getting what they need from a [properly balanced layer feed](/layer-feed-vs-starter-feed/). Dumping high-protein treats on top can actually throw off that balance over time. Too much protein pushes extra nitrogen through the kidneys. It won't kill a healthy hen overnight, but it's a real thing to manage.
 
 ## Dried vs. Live: There's Actually a Right Answer
+
+| Aspect | Dried Mealworms | Live Mealworms |
+| --- | --- | --- |
+| Cost | $15-$25/lb | $5-$8 per 250 count |
+| Convenience | High (no escapes, minimal smell) | Lower (requires containment, live handling) |
+| Enrichment Value | Standard pecking | High (stimulates foraging behavior) |
+| Best Use Case | Regular treats, year-round | Occasional enrichment, winter supplementation |
+| Storage | Shelf-stable | Requires live storage setup |
 
 Most backyard keepers start with dried mealworms because they're easy. A bag of Scratch and Peck Cluckin' Good Grubs or the Hatorian dried mealworms on Amazon runs about $15 to $25 for a pound, depending on where you buy. You can toss a handful into the run without dealing with escapes, smell, or a live colony, and the hens love them.
 

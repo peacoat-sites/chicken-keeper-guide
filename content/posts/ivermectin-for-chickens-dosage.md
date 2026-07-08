@@ -23,14 +23,15 @@ faqs:
    a: "A 1 mL insulin syringe marked in 0.01 mL increments is what you want. You can find them at most pharmacies without a prescription, or in packs of 100 on Amazon for around $10 to $12. Don't try to eyeball doses with a large-barrel syringe."
  - q: "Can I treat a sick or underweight bird?"
    a: "Use caution here. Ivermectin is processed by the liver, and a bird that's already compromised may not clear it as efficiently. If a bird is visibly ill, underweight, or molting heavily, consult an avian vet before treating. The parasite burden may itself be contributing to the bird's condition, so doing nothing isn't obviously safer, but dosing a compromised bird without guidance isn't either."
+lastmod: 2026-07-07
 ---
-Most people end up on this page because something is wrong with their flock and they're not sure what, or they found mites on a bird and panicked, or someone in their chicken group told them "just use ivermectin" without explaining how. You might be wondering whether it's even safe, whether it affects your eggs, how much to actually give, and why the bottle in front of you doesn't say anything about chickens. All of that is completely reasonable.
+Most people end up on this page because something is wrong with their flock and they're not sure what, or they found [mites on a bird](/mites-on-chickens/) and panicked, or someone in their chicken group told them "just use ivermectin" without explaining how. You might be wondering whether it's even safe, whether it affects your eggs, how much to actually give, and why the bottle in front of you doesn't say anything about chickens. All of that is completely reasonable.
 
 Here's what I tell people who are new to this: ivermectin works, it's widely used by backyard keepers, and the dosing is more forgiving than you'd think once you understand the basics. But there are a few things worth getting straight before you pull the plunger.
 
 ## What You're Actually Treating (And Why It Matters Before You Dose)
 
-Ivermectin covers a lot of ground in chickens. It's effective against external parasites like northern fowl mites (*Ornithogaster sylviarum*), scaly leg mites (*Knemidocoptes mutans*), and lice. It also handles internal roundworms and some capillary worms. What it does not reliably treat: tapeworms. If you're seeing flat, segmented worms in droppings, you need a different drug entirely (praziquantel, typically).
+Ivermectin covers a lot of ground in chickens. It's effective against external parasites like northern fowl mites (*Ornithogaster sylviarum*), scaly leg mites (*Knemidocoptes mutans*), and lice. It also handles internal roundworms and some capillary worms. What it does not reliably treat: [tapeworms](/worms-in-chickens/). If you're seeing flat, segmented worms in droppings, you need a different drug entirely (praziquantel, typically).
 
 I mention this because a lot of keepers throw ivermectin at every worm situation and then wonder why the problem keeps coming back. Knowing what you're treating affects which formulation makes sense, the frequency, and whether you're even solving the right problem.
 
@@ -49,6 +50,8 @@ There's no FDA-approved ivermectin product for chickens in the United States. Fu
 Each of these has a different concentration, which is where dosing mistakes happen. I'd recommend picking one formulation and sticking with it rather than switching around.
 
 ## Dosing: The Actual Numbers
+
+| Formulation | Concentration | Topical Dose (0.2 mg/kg) | Volume for 2 kg Hen | Application |\n| --- | --- | --- | --- | --- |\n| Injectable solution | 1% | 0.2 mg/kg | 0.04 mL | Skin (back of neck) |\n| Pour-on | 0.5% | 0.2 mg/kg | 0.08 mL | Bare skin |\n| Paste (oral) | 1.87% | 0.1 mg/kg | ~0.01 mL | Orally |
 
 Here's where I want to be specific, because vague advice is useless.
 
@@ -80,7 +83,7 @@ If you're selling eggs or giving them to people who are immune-compromised or pr
 - [Thành Đỗ](https://www.pexels.com/@dothanhyb)
 
 
-A lot of online guides push ivermectin as the first-line treatment for every flock health problem involving crawling things. I'd push back on that. If you're seeing lice specifically (flat, yellowish, fast-moving), permethrin-based dust or spray is actually more targeted and doesn't require an egg withdrawal of the same magnitude. Permethrin isn't absorbed systemically in the same way.
+A lot of online guides push ivermectin as the first-line treatment for every flock health problem involving crawling things. I'd push back on that. If you're seeing [lice specifically](/chicken-lice-treatment/) (flat, yellowish, fast-moving), permethrin-based dust or spray is actually more targeted and doesn't require an egg withdrawal of the same magnitude. Permethrin isn't absorbed systemically in the same way.
 
 Ivermectin earns its place when you're dealing with mites (which live partly on the bird's blood and benefit from a systemic treatment), scaly leg mites in particular (where topical treatments alone often fail), or confirmed internal parasites. Using it for every lice case is like swatting flies with a sledgehammer. It works, but you're running unnecessary egg withdrawal periods.
 

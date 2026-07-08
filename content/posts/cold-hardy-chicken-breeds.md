@@ -23,9 +23,9 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-
+lastmod: 2026-07-07
 ---
-It's February, 7 degrees outside, and you're trudging through a foot of snow to check on your flock. You get to the coop, slide open the door, and find your Leghorns huddled in a miserable pile, barely eating, and one has a blackened frostbitten comb. Meanwhile, your neighbor three doors down is out there with her Black Australorps and Rhode Island Reds, collecting eggs like it's a mild October morning. That's not luck. That's breed selection. If you're tired of nursing frost-damaged birds through every winter, or you're just starting out and want to get this right from day one, choosing cold hardy breeds is one of the most important decisions you'll make as a backyard keeper.
+It's February, 7 degrees outside, and you're trudging through a foot of snow to check on your flock. You get to the coop, slide open the door, and find your Leghorns huddled in a miserable pile, barely eating, and one has a blackened frostbitten comb. Meanwhile, your neighbor three doors down is out there with her Black Australorps and Rhode Island Reds, collecting eggs like it's a mild October morning. That's not luck. That's breed selection. If you're tired of nursing frost-damaged birds through every winter, or you're just starting out and want to get this right from day one, [choosing cold hardy breeds](/best-chicken-breeds-for-beginners/) is one of the most important decisions you'll make as a backyard keeper.
 
 ## What Actually Makes a Chicken Cold Hardy
 
@@ -33,7 +33,7 @@ Not all cold hardiness is the same, and the internet doesn't always make that cl
 
 **Comb type** is the big one. Single combs, the tall upright kind you see on Leghorns and Rhode Island Whites, are basically frostbite magnets. They stick up, get wet, and freeze. Rose combs, pea combs, and cushion combs sit low and tight against the head, giving cold air far less surface area to work with. Breeds like the Dominique (rose comb), Buckeye (pea comb), and Chantecler (cushion comb) were literally developed with North American winters in mind.
 
-**Body mass and feather density** matter enormously. A big, round, heavily feathered bird generates and retains heat more efficiently than a slight, sleek Mediterranean breed. That's not an opinion, that's basic thermodynamics. A Plymouth Rock or a Brahma carries enough body fat and feather coverage to handle deep cold that would have a Fayoumi or Andalusian in serious trouble.
+**Body mass and feather density** matter enormously. A big, round, heavily feathered bird generates and retains heat more efficiently than a slight, sleek Mediterranean breed. That's not an opinion, that's basic thermodynamics. A [Plymouth Rock or a Brahma](/barred-rock-chickens/) carries enough body fat and feather coverage to handle deep cold that would have a Fayoumi or Andalusian in serious trouble.
 
 **Feathered feet** are trickier than they seem. Breeds like Cochins and Brahmas have feathered shanks that add insulation, but those feathers can ice up in sloppy wet snow, leading to foot problems. I've found that feathered-foot breeds do best in cold dry climates rather than the freeze-thaw cycling you get in the upper Midwest.
 
@@ -45,7 +45,7 @@ I've kept fourteen breeds over the years. These are the ones I'd put my money on
 
 **Plymouth Rock (Barred Rock):** Probably the most reliable all-around cold weather bird for backyard keepers. They've got a single comb (a small mark against them), but their body mass and dense feathering compensate well. Hens lay 200 to 280 brown eggs per year and keep decent production through winter. Docile, easy to handle. They don't drama-spiral when temperatures drop.
 
-**Rhode Island Red:** A classic for good reason. These are tough, heat-tolerant and cold-tolerant, productive birds with genuine work ethic. Expect 250 to 300 eggs per year from a quality hen. The single comb can be an issue in extreme cold, but I've run RIRs through Minnesota-style winters with nothing worse than minor comb tip reddening on a few birds.
+**[Rhode Island Red](/rhode-island-red-chickens/):** A classic for good reason. These are tough, heat-tolerant and cold-tolerant, productive birds with genuine work ethic. Expect 250 to 300 eggs per year from a quality hen. The single comb can be an issue in extreme cold, but I've run RIRs through Minnesota-style winters with nothing worse than minor comb tip reddening on a few birds.
 
 **Wyandotte:** This is where I'd direct anyone experiencing genuinely brutal winters. Wyandottes have a rose comb (low frostbite risk), compact round bodies, and tight feathering. Silver Laced and Gold Laced varieties are particularly popular. You'll get 180 to 220 eggs per year, which isn't the highest number on this list, but their winter resilience and self-sufficient personality make up for it. They're not cuddly birds, but they're solid.
 

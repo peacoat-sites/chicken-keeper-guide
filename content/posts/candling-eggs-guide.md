@@ -23,9 +23,10 @@ faqs:
    a: "A bright LED flashlight works fine for white or light-colored eggs. For dark-shelled eggs, a focused candler like the Brinsea Spot Check or Magicfly makes a significant difference. The key is minimizing ambient light, so whatever you use, candle in a completely dark room."
  - q: "Should I candle eggs that were shipped in the mail?"
    a: "Yes, but wait 24 hours after the eggs arrive and have rested upright before candling. Shipped eggs often have damaged or detached air cells from transit. Candling them right away just shows you disruption from shipping, not development status. Candle again at day 7 to get a real read."
+lastmod: 2026-07-07
 ---
 
-Nobody warns you that candling looks completely different at day 7 than it does at day 14, and the first time I held a flashlight up to a mystery egg, I genuinely couldn't tell if I was looking at a living embryo or just a yolk casting a shadow. I candled the whole clutch wrong. Pulled two eggs I shouldn't have, tossed them in the compost, and only realized my mistake when I found a fully-formed chick inside one of them. That was early in my chicken-keeping years, and I've never quite gotten over it.
+Nobody warns you that candling looks completely different at day 7 than it does at day 14, and the first time I held a flashlight up to a mystery egg, I genuinely couldn't tell if I was looking at a living embryo or just a yolk casting a shadow. I candled the whole clutch wrong. Pulled two eggs I shouldn't have, tossed them in the compost, and only realized my mistake when I found a fully-formed chick inside one of them. That was [early in my chicken-keeping years](/when-do-chickens-start-laying-eggs/), and I've never quite gotten over it.
 
 So here's what I actually know now, after a decade of incubating everything from Buff Orpington eggs to guinea fowl.
 
@@ -50,6 +51,15 @@ Day 18 is lockdown for most chicken breeds, and you're really just checking air 
 I tested this systematically with a batch of 24 Australorp eggs last spring. I tracked air cell size at each candling and compared it to hatch outcomes. The 18 eggs with appropriate air cell growth at day 18 had a 94% hatch rate. The 6 with visibly oversized air cells (incubator humidity had dropped over a holiday weekend when I wasn't monitoring) hatched only 2. That gap made me take humidity management a lot more seriously than I had before.
 
 ## The Mechanics: How to Actually Do It
+
+| Development Stage | Day | What You'll See | Action |
+| --- | --- | --- | --- |
+| Infertile or early quitter | Any | Clear interior, yolk visible as shadow, no vessels | Remove |
+| Early development | 7 | Dark spot (embryo) with blood vessels branching like spiderweb, air cell forming | Keep |
+| Active development | 14 | Large dark mass filling most of egg, visible vessels, larger air cell, possible movement | Keep |
+| Late development | 18+ | Nearly entire egg dark, air cell takes significant portion of wide end, visible movement | Monitor air cell size |
+| Blood ring present | Any | Red ring without branching vessels | Remove |
+| Foul smell | Any | Sulfurous or rotten odor | Remove immediately |
 
 You want a dark room. Not "dim," actually dark. Press the wide end of the egg against your light source so the beam goes straight through, and cup your free hand around the junction to block stray light. Tilt and rotate the egg slowly. You're not looking for one thing; you're building a picture of the interior.
 

@@ -12,6 +12,7 @@ author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
 slug: "eight-salmonella-outbreaks-are-active-now-what-flock-owners-must-do"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 
 Eight Salmonella outbreaks linked to backyard poultry are running simultaneously right now. Not one, not two. Eight. As of June 25, 2026, the CDC has confirmed 513 sick people across 43 states and a U.S. territory, with 134 hospitalizations and one death in Washington state. This is the largest outbreak event of the year, it's happening at peak season, and if you have chickens in your yard, this is the moment to pay attention.
@@ -19,6 +20,15 @@ Eight Salmonella outbreaks linked to backyard poultry are running simultaneously
 The timing is not random. Most people bought their spring chicks in March or April. Those birds are now 10 to 16 weeks old, which is exactly when Salmonella shedding peaks. The kids are home for summer. Everyone is spending more time outside. The CDC data shows that 84% of case-patients who owned backyard poultry got their birds since January 1, 2026, mostly from agricultural retail stores like feed stores and farm supply chains. This isn't a fringe situation involving a handful of careless keepers. The spring 2026 chick-buying surge is the direct driver of a multi-state public health event.
 
 ## What You're Actually Up Against
+
+| Salmonella Strain | Confirmed Cases | Key Resistance Profile | Geographic Spread |
+| --- | --- | --- | --- |
+| Saintpaul | 133 | Fosfomycin, chloramphenicol, streptomycin, sulfisoxazole, tetracycline | Multi-state |
+| Enteritidis | Ongoing investigation | Multiple antibiotic resistance | Multi-state |
+| Mbandaka | Ongoing investigation | Multiple antibiotic resistance | Multi-state |
+| Indiana | Ongoing investigation | Multiple antibiotic resistance | Multi-state |
+| Infantis | Ongoing investigation | Multiple antibiotic resistance | Multi-state |
+| 3 Additional strains | Ongoing investigation | Multiple antibiotic resistance | Multi-state |
 
 The eight strains under active CDC investigation are not all equal. Saintpaul is the biggest one: 133 patients as of the June 17 investigation update. Enteritidis, Mbandaka, Indiana, and Infantis round out the list, each with its own case count, its own geographic spread, and critically, its own antibiotic resistance profile. Several of these strains are showing resistance to fosfomycin, chloramphenicol, streptomycin, sulfisoxazole, and tetracycline. That means if someone gets seriously sick, treatment options narrow fast.
 

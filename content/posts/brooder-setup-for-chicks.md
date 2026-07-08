@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
 I killed six chicks my first year because I didn't understand heat gradients. Not a brooder fire, not a predator, not disease. I kept the whole brooder at one temperature, the chicks got too hot, stressed out, piled on top of each other anyway, and the smallest ones suffocated. That was twenty-something chicks worth of learning happening in about four days, and I still think about it.
 
@@ -65,7 +65,7 @@ Skip outdoor brooding unless you've got a fortress setup. Cold snaps, drafts thr
 
 Pine shavings. Full stop.
 
-Not cedar (the oils damage respiratory systems). Not newspaper for the first week (it's slippery, causes spraddle leg, a permanent deformity that's preventable if you catch it). Not straw unless it's chopped, because long pieces get stuck in chick crops. Pine shavings, medium to large flake, 2-3 inches deep.
+Not cedar (the oils damage respiratory systems). Not newspaper for the first week (it's slippery, causes [spraddle leg, a permanent deformity](/pasty-butt-in-chicks/) that's preventable if you catch it). Not straw unless it's chopped, because long pieces get stuck in chick crops. Pine shavings, medium to large flake, 2-3 inches deep.
 
 The [Tractor Supply store-brand pine shavings](https://www.amazon.com/s?k=pine+shavings+for+chicken+brooder) run $7-9 for a big compressed bag, one bag covers two full bedding changes in a 100-gallon tank. Refresh or stir the bedding every 2-3 days at minimum. Wet bedding is where respiratory illness lives, where coccidiosis spreads, where ammonia builds up. You'll smell ammonia before your chicks show symptoms, so trust your nose.
 

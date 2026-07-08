@@ -23,9 +23,9 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-
+lastmod: 2026-07-07
 ---
-I once watched a fellow chicken keeper spend three weekends in a row completely stripping out her coop, scrubbing the floor, and reloading fresh pine shavings, only to have the smell return within days. The bedding wasn't failing her. Her management system was. After a quick chat and a switch to the deep litter method, she went from weekly strip-outs to a full cleanout twice a year. That kind of shift is possible for most backyard keepers, but you have to understand your options first.
+I once watched a fellow chicken keeper spend three weekends in a row completely stripping out her coop, scrubbing the floor, and reloading fresh pine shavings, only to have the smell return within days. The bedding wasn't failing her. Her management system was. After a quick chat and a switch to the [deep litter method](/deep-litter-method-chickens/), she went from weekly strip-outs to a full cleanout twice a year. That kind of shift is possible for most backyard keepers, but you have to understand your options first.
 
 ## The Big Picture: What Good Bedding Actually Does
 
@@ -41,7 +41,7 @@ If you polled 100 backyard chicken keepers on what's in their coop right now, at
 
 A standard compressed bale runs around $6 to $10 and covers a 4x8 foot coop floor about 4 inches deep. That's a reasonable starting depth. I like to start with 4 inches and add a thin layer every week or two rather than waiting until the whole floor is soaked.
 
-Don't use cedar shavings for the main floor. Cedar contains aromatic oils that can irritate a chicken's respiratory tract, especially in an enclosed coop. A little cedar in the nesting boxes as a mite deterrent? Fine. As primary bedding? Not worth the risk. Same goes for fine-ground sawdust, which packs down, holds moisture too close to the surface, and can cause respiratory issues.
+Don't use cedar shavings for the main floor. Cedar contains aromatic oils that can irritate a chicken's respiratory tract, especially in an enclosed coop. A little cedar in the [nesting boxes](/nesting-boxes-for-chickens/) as a mite deterrent? Fine. As primary bedding? Not worth the risk. Same goes for fine-ground sawdust, which packs down, holds moisture too close to the surface, and can cause respiratory issues.
 
 Pine shavings work well for both standard cleanout systems and deep litter. For deep litter, you'll want to supplement with other high-carbon materials like straw or dry leaves as you build up layers over months.
 
@@ -51,11 +51,18 @@ Straw gets a bad reputation, and honestly, a lot of it's deserved when it's used
 
 The trick is keeping it broken up. When you toss in a flake and let chickens scratch through it, they break the hollow stems, which releases more surface area for absorption and keeps it from matting. Straw is also hollow, which makes it a decent insulator for cold climates during winter. In a Northern Wisconsin coop when temperatures drop below zero, a thick layer of straw on the floor adds genuine warmth.
 
-The main risk with straw is mold, specifically Aspergillus, which causes aspergillosis, a serious fungal respiratory disease in poultry. Wet straw in a warm, poorly ventilated coop is the perfect incubation environment for it. Keep ventilation high, never let straw stay wet, and if you see any grayish-green mold, pull the whole section out immediately.
+The main risk with straw is mold, specifically Aspergillus, which causes aspergillosis, a serious fungal respiratory disease in poultry. Wet straw in a warm, poorly ventilated coop is the perfect incubation environment for it. Keep [ventilation high](/chicken-coop-ventilation/), never let straw stay wet, and if you see any grayish-green mold, pull the whole section out immediately.
 
 For nesting boxes, I actually prefer straw over shavings. The chickens shape it into a bowl more naturally, and eggs seem to roll and settle into it in a way that reduces breakage.
 
 ## Sand: The Polarizing Option That Works If You Commit
+
+| Bedding Material | Cost per Bale | Coverage | Absorption | Insulation | Composting | Best Use |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pine Shavings | $6-$10 | 4x8 ft @ 4" deep | Excellent | Good | Yes | Standard & deep litter |
+| Straw | Varies | Varies | Good (if broken up) | Excellent | Yes | Nesting boxes, winter |
+| Construction Sand | High (600-800 lbs) | 6x8 ft @ 3-4" deep | Excellent | Poor | No | Active scooping systems |
+| Cedar Shavings | Varies | Varies | Good | Good | Yes | Nesting boxes only (mite deterrent) |
 
 Construction sand, specifically coarse builder's sand, has a real cult following among chicken keepers, and I get why. It drains beautifully, dries fast, and makes cleaning oddly satisfying because you can scoop droppings out like a giant litter box using a kitty litter scoop or a fine-tined rake.
 

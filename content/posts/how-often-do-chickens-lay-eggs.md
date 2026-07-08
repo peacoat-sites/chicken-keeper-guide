@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-
+lastmod: 2026-07-07
 ---
 A brand-new hen from a production breed can lay up to 300 eggs in her first year. That's nearly an egg a day, almost every single day, for twelve months straight. If you've just brought home your first flock expecting that kind of output from every bird, every year, you're about to be disappointed. Egg production is way more variable than most beginners expect, and understanding what drives it will save you from standing at an empty nesting box wondering what went wrong.
 
@@ -36,6 +36,14 @@ A hen's reproductive cycle takes about 24 to 26 hours from start to finish: ovul
 Breed matters enormously too. A production Leghorn or a Golden Comet is bred specifically to convert feed into eggs as efficiently as possible. Heritage breeds like Dominiques or Buckeyes are more modest layers. Ornamental breeds like Silkies or Polish might give you 2 to 3 eggs a week on a good week. Knowing your breed before you buy is half the battle if consistent egg production is your goal. You can compare options in our guide to the [best egg laying chickens](/best-egg-laying-chickens/).
 
 ## Egg Production by Age: What to Expect Year by Year
+
+| Life Stage | Typical Age | Expected Laying Frequency | Notes |
+| --- | --- | --- | --- |
+| Pullet | 16-24 weeks | Starting; irregular | First eggs often small or irregular; system calibrating |
+| Year 1 | ~1 year | 200-320 eggs/year | Peak production; breed-dependent |
+| Year 2 | ~2 years | 170-272 eggs/year | 15-20% decline from Year 1 |
+| Year 3+ | 3+ years | Gradual decline | By Year 4, often 2-4 eggs/week |
+| Molt | Once yearly (fall) | Minimal to none | Lasts 8-12 weeks; completely normal |
 
 Age has a dramatic and predictable effect on laying frequency.
 

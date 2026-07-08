@@ -23,6 +23,7 @@ faqs:
     a: "The research here is honestly mixed, and my experience is limited to the mid-South. They're a dual-purpose heavy breed with heavier feathering than a Mediterranean-type, which means heat is a bigger stressor for them than cold. If you're in Arizona or south Texas, you'll need deep shade, constant cool water, and possibly frozen treat supplements through summer. Not impossible, but you're fighting their natural design a bit."
   - q: "What's the difference between Speckled Sussex and Light Sussex for a backyard flock?"
     a: "Practically speaking, production and temperament are similar. The Speckled is more widely available in the U.S. from hatcheries, and the plumage improves with each molt (more speckles over time), which a lot of keepers love. Light Sussex has a cleaner, more striking black-and-white look that photographs beautifully. Pick based on aesthetics; you won't get a meaningful difference in eggs or behavior."
+lastmod: 2026-07-07
 ---
 
 Most people pick their first flock based on looks, and there's nothing wrong with that. But here's something I wish someone had told me before I ordered my first batch of chicks: Sussex chickens are one of the few breeds where the looks and the performance actually match up.
@@ -35,11 +36,19 @@ So let me give you the real picture, because most of what you'll read about Suss
 
 ## What Kind of Bird Are We Talking About?
 
+| Variety | Color Pattern | Availability in U.S. | Notes |
+| --- | --- | --- | --- |
+| Speckled Sussex | Red-brown with black speckles | Widely available | Most common, improves with age |
+| Light Sussex | White with black hackle and tail | Moderately available | Second most common |
+| Red Sussex | Red | Rare | Requires dedicated breeders |
+| Coronation Sussex | Cream/buff | Rare | Requires dedicated breeders |
+| Other varieties | Various | Very rare | Typically requires U.K. imports |
+
 Sussex is an old English breed, documented back to the early 1900s, though the type was being kept long before anyone formalized a standard. The Speckled Sussex is by far the most common variety you'll find in the U.S. today, followed by the Light Sussex (white with black hackle and tail markings). There's also the Red Sussex, Coronation Sussex, and a handful of others, but good luck finding quality breeding stock for those outside of dedicated breeders or imports from the U.K.
 
 The breed standard calls for a large, broad-backed bird with a single comb, red earlobes, and a calm, upright bearing. In practice, what you notice first is just how personable they are. My Speckleds will follow me around the yard like dogs. Not in an anxious, food-desperate way, but genuinely curious. They'll watch what you're doing. It's a little uncanny.
 
-Size-wise, you're looking at a heavy breed: hens typically run 6 to 7 pounds, roosters 8 to 9. That dual-purpose classification (eggs plus meat) is accurate, though most backyard keepers today are using them strictly for eggs.
+Size-wise, you're looking at a heavy breed: hens typically run 6 to 7 pounds, roosters 8 to 9. That [dual-purpose classification](/dual-purpose-chicken-breeds/) (eggs plus meat) is accurate, though most backyard keepers today are using them strictly for eggs.
 
 ---
 
@@ -59,7 +68,7 @@ The eggs themselves are large, cream to light brown, with good shell quality. No
 
 This is the part most articles gloss over, and it's where Sussex really earns its reputation.
 
-For mixed flocks, they're about as easygoing as a heavy breed gets. They're assertive enough to hold their own against aggressive breeds (I've kept them with Easter Eggers and Australorps without drama), but they're not bullies. I had a reader in Nashville email me earlier this year who had tried three different breeds in her backyard flock before adding a pair of Light Sussex. Her words: "They just calmed everything down." I've seen that same effect.
+For mixed flocks, they're about as easygoing as a heavy breed gets. They're assertive enough to hold their own against aggressive breeds (I've kept them with [Easter Eggers and Australorps](/easter-egger-chickens/) without drama), but they're not bullies. I had a reader in Nashville email me earlier this year who had tried three different breeds in her backyard flock before adding a pair of Light Sussex. Her words: "They just calmed everything down." I've seen that same effect.
 
 The one caveat: they can be lower in the pecking order if you mix them with something truly aggressive, like a Cornish or a particularly nasty Leghorn. They're calm, not doormats, but they won't fight hard. If you're dealing with a bully situation, that's a separate problem to solve, not something a Sussex will fix by itself.
 

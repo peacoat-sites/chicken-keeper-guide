@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-
+lastmod: 2026-07-07
 ---
 Most people pick chickens based on looks. They fall for a photo of a fluffy Silkie or a dramatic Ayam Cemani and buy six of them before asking the obvious question: how many eggs will I actually get? Then they spend a year collecting three eggs every two days from birds that eat as much as any other hen, and they wonder why their "backyard flock" costs more than buying eggs at the farmers market. Breed selection is the single highest-leverage decision you'll make as a chicken keeper, and egg production numbers are the thing most hatchery descriptions quietly fudge.
 
@@ -44,6 +44,19 @@ What actually matters is the realistic annual average across multiple years of a
 ---
 
 ## The Top Egg-Laying Breeds, Ranked Honestly
+
+| Breed | Realistic Annual Eggs | Egg Color | Temperament | Notes |
+|---|---|---|---|---|
+| White Leghorn | 280-320 | White | Flighty | Peak production breed |
+| ISA Brown / Red Sex-Link | 280-320 (yr 1), drops fast | Brown | Calm | Burns out by yr 3 |
+| Australorp | 250-280 | Brown | Calm | Excellent all-around |
+| Rhode Island Red (production) | 250-280 | Brown | Moderate | Not the same as heritage |
+| Barred Plymouth Rock | 200-250 | Brown | Calm | Great beginner breed |
+| Light Sussex | 200-250 | Cream/Brown | Calm | Underrated and hardy |
+| Buff Orpington | 150-200 | Brown | Very calm | Broodiness cuts production |
+| Easter Egger | 150-200 | Blue/Green | Variable | Novelty value, not output |
+| Marans (Black Copper) | 150-180 | Dark brown | Calm | Worth it for egg color |
+| Silkie | 80-120 | Cream | Calm/Broody | Mostly an ornamental bird |
 
 Here's where I'll give you actual numbers, not ranges so wide they're meaningless.
 

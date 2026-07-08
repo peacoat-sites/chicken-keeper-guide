@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-
+lastmod: 2026-07-07
 ---
 Someone in a Facebook group I follow posted a photo last week of her arm with three long scratches on it, and the caption just said "Day 47 of owning a rooster." Forty-seven comments, all some version of "same."
 
@@ -50,13 +50,13 @@ The most common causes I see break down roughly like this:
 
 **Boredom and low stimulation.** A flock stuck in a bare run with nothing to do will invent drama. Chickens are smarter than most people think, and they need things to peck at, scratch through, and investigate.
 
-**Introducing new birds.** Even one new hen can temporarily destabilize a previously calm flock. The hierarchy has to reset, and that involves some chasing and feather-pulling that's genuinely alarming to watch but usually not dangerous if you've set things up right.
+**[Introducing new birds](/integrating-new-chickens/).** Even one new hen can temporarily destabilize a previously calm flock. The hierarchy has to reset, and that involves some chasing and feather-pulling that's genuinely alarming to watch but usually not dangerous if you've set things up right.
 
 **Pain or illness.** A normally docile bird that suddenly becomes snappy is sometimes a bird that's hurting somewhere. I learned this the hard way when one of my Australorps turned aggressive for two weeks before I figured out she was egg-bound.
 
 ## Rooster Aggression Specifically: What Works and What Doesn't
 
-Rooster aggression toward humans is its own category, and a lot of the advice floating around online is, to put it plainly, not great.
+[Rooster aggression toward humans](/roosters-in-backyard-flock/) is its own category, and a lot of the advice floating around online is, to put it plainly, not great.
 
 You'll read "never show fear" and "stare him down" and "carry him around to establish dominance." Some of that's not entirely wrong, but it oversimplifies how roosters actually work. What a rooster's reading from you isn't confidence or weakness in the abstract. He's reading whether you behave like a flock member who respects the hierarchy, or a predator, or a competing rooster.
 

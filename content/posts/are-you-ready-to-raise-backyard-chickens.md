@@ -9,7 +9,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-
+lastmod: 2026-07-07
 ---
 Thinking about tossing some hens in your backyard? Fresh eggs straight from the nest, actual personalities, and something to do besides scroll through your phone, it's genuinely appealing. But here's the thing: chickens are living animals that need real care, not a weekend hobby project you'll abandon in July. A quick reality check before you hammer together a coop saves months of frustration and a lot of regret.
 
@@ -17,4 +17,4 @@ This 7-question quiz cuts through the sales pitch. It asks about your actual dai
 
 {{< quiz >}}
 
-Whatever your score says, this isn't final. Some of the best chicken keepers I know started confused and figured it out by doing. If you're curious about coops, which breeds don't turn your yard into chaos, or what daily care actually looks like, there are guides for all of that. Once you've got the basics down, first eggs come faster than you'd expect.
+Whatever your score says, this isn't final. Some of the best chicken keepers I know started confused and figured it out by doing. If you're [curious about coops](/best-chicken-coop-kits-to-buy/), which breeds don't turn your yard into chaos, or what daily care actually looks like, there are guides for all of that. Once you've got the basics down, first eggs come faster than you'd expect.

@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-
+lastmod: 2026-07-07
 ---
 You buy three gorgeous Buff Orpingtons from a reputable breeder, bring them home, and put them straight into the flock. Two weeks later, half your birds are sneezing. A month after that, you've lost two hens you'd had for four years. This happens constantly, and it's almost always preventable. Quarantine isn't a formality you perform when you're feeling cautious. It's the most important biosecurity practice in backyard chicken keeping, and most people either skip it entirely or do it wrong.
 
@@ -52,6 +52,12 @@ A basic [poultry waterer](https://www.amazon.com/s?k=poultry+waterer&tag=content
 
 ## How Long Quarantine Should Last
 
+| Quarantine Duration | When to Use | Rationale |
+| --- | --- | --- |
+| 30 days | NPIP-certified flock from established source | Catches most common illnesses |
+| 45-60 days | Birds from swap meets, auctions, or unfamiliar breeders | Accounts for stress-delayed symptom onset |
+| 60 days | Birds with unknown history or rehomed birds | Maximum safety for unknown background |
+
 The standard recommendation you'll see is 30 days. That's the floor, not the target. Thirty days catches most common illnesses. Forty-five to sixty days catches the rest and is what I personally use when I'm bringing in birds from any source I haven't worked with before.
 
 Here's why: many respiratory pathogens have incubation periods of 4 to 14 days, but birds under stress can suppress symptoms until they stabilize in a new environment. A bird that looks perfect on day 10 may start showing signs by day 25 once stress hormones settle and latent infections surface.
@@ -64,11 +70,11 @@ Never count down from when you think they might be fine. Count from the day they
 
 Quarantine isn't passive. You're not just warehousing birds until a timer goes off. You're actively observing every day.
 
-**Respiratory symptoms** are the big ones: rattling breath, open-mouth breathing, watery eyes, nasal discharge, swollen sinuses, sneezing. Any of these warrant a call to a poultry vet, not just watchful waiting.
+**[Respiratory symptoms](/respiratory-illness-chickens/)** are the big ones: rattling breath, open-mouth breathing, watery eyes, nasal discharge, swollen sinuses, sneezing. Any of these warrant a call to a poultry vet, not just watchful waiting.
 
 **Digestive signs**: watery or bloody droppings (bloody stool in young birds is often coccidiosis), droppings that smell significantly worse than normal, dramatic weight loss.
 
-**Physical condition**: check for lice and mites on arrival. Part the feathers near the vent and under the wings. Look at the feather shafts. External parasites are extremely common in birds from mixed flocks and swap meets, and they transfer immediately on contact. Treat on arrival if you find anything.
+**Physical condition**: check for [lice and mites](/chicken-lice-treatment/) on arrival. Part the feathers near the vent and under the wings. Look at the feather shafts. External parasites are extremely common in birds from mixed flocks and swap meets, and they transfer immediately on contact. Treat on arrival if you find anything.
 
 **Behavioral flags**: a bird that isolates itself, stands puffed up, or stops eating is telling you something. Chickens hide illness until they can't. By the time a hen looks obviously sick, she's been sick for a while.
 

@@ -3,7 +3,7 @@ title: "Sick Chicken Symptoms"
 date: 2026-05-25T19:20:20.139705+00:00
 draft: false
 description: "Spot sick chicken symptoms early to protect your flock. Learn the warning signs of illness, from lethargy to respiratory issues, and when to call a vet."
-image: "https://images.pexels.com/photos/14148444/pexels-photo-14148444.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14148444.jpg"
 categories: ["health"]
 tags: ["sick", "chicken", "symptoms"]
 slug: "sick-chicken-symptoms"

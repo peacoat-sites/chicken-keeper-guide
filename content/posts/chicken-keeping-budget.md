@@ -3,7 +3,7 @@ title: "Chicken Keeping Budget"
 date: 2026-06-20T08:28:53.521219+00:00
 draft: false
 description: "Plan your chicken keeping budget with confidence. Discover realistic costs for coops, feed, healthcare, and supplies to raise happy, healthy hens."
-image: "https://images.pexels.com/photos/37752058/pexels-photo-37752058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37752058.jpg"
 categories: ["finances"]
 tags: ["chicken", "keeping", "budget"]
 author: "Carol Thompson"

@@ -3,7 +3,7 @@ title: "Friendly Chicken Breeds"
 date: 2026-05-21T02:38:53.246058+00:00
 draft: false
 description: "Discover the friendliest chicken breeds perfect for backyard flocks. Learn which breeds are calm, docile, and great with kids to find your ideal feathered compa"
-image: "https://images.pexels.com/photos/6436484/pexels-photo-6436484.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6436484.jpg"
 categories: ["breeds"]
 tags: ["friendly", "chicken", "breeds"]
 slug: "friendly-chicken-breeds"

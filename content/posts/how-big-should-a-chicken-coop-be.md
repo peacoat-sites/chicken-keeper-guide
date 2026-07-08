@@ -3,7 +3,7 @@ title: "How Big Should A Chicken Coop Be"
 date: 2026-05-23T04:51:33.717776+00:00
 draft: false
 description: "Find out exactly how big your chicken coop should be with our easy sizing guide. Learn space requirements per bird to keep your flock healthy and happy."
-image: "https://images.pexels.com/photos/4911723/pexels-photo-4911723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4911723.jpg"
 categories: ["coop"]
 tags: ["should", "chicken", "coop"]
 slug: "how-big-should-a-chicken-coop-be"

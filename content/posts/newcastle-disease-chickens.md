@@ -3,7 +3,7 @@ title: "Newcastle Disease Chickens"
 date: 2026-06-30T08:37:27.730124+00:00
 draft: false
 description: "Learn how Newcastle disease affects chickens, including key symptoms, transmission routes, prevention strategies, and what to do if your flock is infected."
-image: "https://images.pexels.com/photos/19241494/pexels-photo-19241494.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19241494.jpg"
 categories: ["health"]
 tags: ["newcastle", "disease", "chickens"]
 author: "Dr. Tom Henderson"

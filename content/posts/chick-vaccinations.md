@@ -3,7 +3,7 @@ title: "Chick Vaccinations"
 date: 2026-06-27T08:06:14.593102+00:00
 draft: false
 description: "Learn which vaccinations baby chicks need, when to give them, and how to protect your flock from common poultry diseases for a healthy, thriving backyard flock."
-image: "https://images.pexels.com/photos/5922105/pexels-photo-5922105.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5922105.jpg"
 categories: ["chicks"]
 tags: ["chick", "vaccinations"]
 author: "Carol Thompson"

@@ -3,7 +3,7 @@ title: "Roosters In Backyard Flock"
 date: 2026-06-04T12:19:11.915227+00:00
 draft: false
 description: "Discover how to keep roosters in your backyard flock, from their benefits and behaviors to managing crowing and integrating them peacefully with hens."
-image: "https://images.pexels.com/photos/33809645/pexels-photo-33809645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33809645.jpg"
 categories: ["flock"]
 tags: ["roosters", "backyard", "flock"]
 slug: "roosters-in-backyard-flock"

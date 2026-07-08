@@ -3,7 +3,7 @@ title: "Brooder Setup For Chicks"
 date: 2026-06-05T12:20:35.157968+00:00
 draft: false
 description: "Keep your chicks warm and healthy with the perfect brooder setup. Learn about heat lamps, bedding, feeders, waterers, and space requirements for happy chicks."
-image: "https://images.pexels.com/photos/7883820/pexels-photo-7883820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7883820.jpg"
 categories: ["chicks"]
 tags: ["brooder", "setup", "chicks"]
 slug: "brooder-setup-for-chicks"

@@ -3,7 +3,7 @@ title: "CDC Tracks 8 Salmonella Outbreaks Tied to Backyard Poultry"
 date: 2026-06-19T09:53:12.835701+00:00
 draft: false
 description: "Stay informed about the 8 active Salmonella outbreaks linked to backyard poultry. Learn CDC safety tips to protect yourself and your flock from infection."
-image: "https://images.pexels.com/photos/12932509/pexels-photo-12932509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12932509.jpg"
 categories: ["trending"]
 tags: ["tracks", "salmonella", "outbreaks", "tied", "backyard"]
 author: "Janet Wilson"

@@ -3,7 +3,7 @@ title: "Chicken Waterer Review"
 date: 2026-06-28T08:28:25.854557+00:00
 draft: false
 description: "Find the best chicken waterer for your flock with our in-depth review covering capacity, durability, ease of cleaning, and value for every setup."
-image: "https://images.pexels.com/photos/4412608/pexels-photo-4412608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4412608.jpg"
 categories: ["products"]
 tags: ["chicken", "waterer", "review"]
 author: "Dr. Tom Henderson"

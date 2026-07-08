@@ -3,7 +3,7 @@ title: "Chicken Coop Ventilation"
 date: 2026-05-28T22:28:01.199554+00:00
 draft: false
 description: "Discover how proper chicken coop ventilation keeps your flock healthy, prevents moisture buildup, and reduces ammonia. Learn the best tips for airflow all year "
-image: "https://images.pexels.com/photos/15322339/pexels-photo-15322339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15322339.jpg"
 categories: ["coop"]
 tags: ["chicken", "coop", "ventilation"]
 slug: "chicken-coop-ventilation"

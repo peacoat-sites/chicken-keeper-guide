@@ -3,7 +3,7 @@ title: "Why Pekin Ducks Are at the Center of This Summer's Salmonella Outbreak"
 date: 2026-07-01T08:55:14.782212+00:00
 draft: false
 description: "Learn why Pekin ducks are linked to this summer's salmonella outbreak, how the bacteria spreads, and what steps you can take to protect yourself and your family"
-image: "https://images.pexels.com/photos/18257319/pexels-photo-18257319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18257319.jpg"
 categories: ["trending"]
 tags: ["pekin", "ducks", "center", "this", "summer's"]
 author: "Mike Carter"

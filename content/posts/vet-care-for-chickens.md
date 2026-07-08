@@ -3,7 +3,7 @@ title: "Vet Care For Chickens"
 date: 2026-06-30T08:39:56.503106+00:00
 draft: false
 description: "Learn how to find a poultry vet, what to expect during chicken checkups, and how to keep your flock healthy with proper veterinary care."
-image: "https://images.pexels.com/photos/4911741/pexels-photo-4911741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4911741.jpg"
 categories: ["health"]
 tags: ["care", "chickens"]
 author: "Sarah Mills"

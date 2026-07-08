@@ -3,7 +3,7 @@ title: "513 Sick and Counting: The Backyard Poultry Salmonella Summer Surge"
 date: 2026-06-28T08:30:39.215795+00:00
 draft: false
 description: "Salmonella cases are rising fast this summer linked to backyard poultry. Learn how to protect yourself and your flock from this dangerous bacterial outbreak."
-image: "https://images.pexels.com/photos/37748139/pexels-photo-37748139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37748139.jpg"
 categories: ["trending"]
 tags: ["sick", "counting:", "backyard", "poultry", "salmonella"]
 author: "Sarah Mills"

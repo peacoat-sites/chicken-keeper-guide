@@ -3,7 +3,7 @@ title: "How Long Do Chickens Lay Eggs"
 date: 2026-05-25T01:10:09.569589+00:00
 draft: false
 description: "Discover how long chickens lay eggs and their peak production years. Learn about factors affecting laying cycles and when hens stop producing eggs."
-image: "https://images.pexels.com/photos/8987901/pexels-photo-8987901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8987901.jpg"
 categories: ["eggs"]
 tags: ["long", "chickens", "eggs"]
 slug: "how-long-do-chickens-lay-eggs"

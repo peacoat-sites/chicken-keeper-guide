@@ -3,7 +3,7 @@ title: "Best Chicken Breeds For Beginners"
 date: 2026-05-26T08:03:25.684641+00:00
 draft: false
 description: "Discover the best chicken breeds for beginners, including friendly, easy-to-raise options perfect for backyard flocks. Start your chicken-keeping journey with c"
-image: "https://images.pexels.com/photos/15232801/pexels-photo-15232801.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15232801.jpg"
 categories: ["breeds"]
 tags: ["best", "chicken", "breeds", "beginners"]
 slug: "best-chicken-breeds-for-beginners"

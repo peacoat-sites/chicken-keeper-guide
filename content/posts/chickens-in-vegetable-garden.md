@@ -3,7 +3,7 @@ title: "Chickens In Vegetable Garden"
 date: 2026-06-11T09:20:07.203428+00:00
 draft: false
 description: "Discover how to use chickens in your vegetable garden to control pests, fertilize soil, and boost yields while keeping your plants safe from scratching and over"
-image: "https://images.pexels.com/photos/30669194/pexels-photo-30669194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30669194.jpg"
 categories: ["sustainability"]
 tags: ["chickens", "vegetable", "garden"]
 slug: "chickens-in-vegetable-garden"

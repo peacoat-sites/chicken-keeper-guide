@@ -3,7 +3,7 @@ title: "Isa Brown Chickens"
 date: 2026-06-26T08:37:07.866363+00:00
 draft: false
 description: "ISA Brown chickens are prolific egg layers known for their docile temperament and adaptability, making them a top choice for backyard flocks and small farms."
-image: "https://images.pexels.com/photos/37770664/pexels-photo-37770664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37770664.jpg"
 categories: ["breeds"]
 tags: ["brown", "chickens"]
 author: "Mike Carter"

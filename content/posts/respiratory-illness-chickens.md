@@ -3,7 +3,7 @@ title: "Respiratory Illness Chickens"
 date: 2026-06-08T09:56:47.256894+00:00
 draft: false
 description: "Learn to identify and treat respiratory illness in chickens with expert tips on symptoms, causes, prevention, and the best treatments to keep your flock healthy"
-image: "https://images.pexels.com/photos/36750507/pexels-photo-36750507.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36750507.jpg"
 categories: ["health"]
 tags: ["respiratory", "illness", "chickens"]
 slug: "respiratory-illness-chickens"

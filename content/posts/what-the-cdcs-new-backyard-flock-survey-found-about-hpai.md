@@ -3,7 +3,7 @@ title: "What the CDC's New Backyard Flock Survey Found About HPAI"
 date: 2026-06-16T10:23:29.832047+00:00
 draft: false
 description: "Learn what the CDC's latest backyard flock survey revealed about HPAI risks, bird flu exposure among poultry owners, and key public health findings you should k"
-image: "https://images.pexels.com/photos/36215653/pexels-photo-36215653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36215653.jpg"
 categories: ["trending"]
 tags: ["what", "cdc's", "backyard", "flock", "survey"]
 author: "Mike Carter"

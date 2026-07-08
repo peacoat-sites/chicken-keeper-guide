@@ -3,7 +3,7 @@ title: "Chicken Coop Cleaning Schedule"
 date: 2026-07-07T08:38:23.142907+00:00
 draft: false
 description: "Keep your flock healthy with a simple chicken coop cleaning schedule. Learn daily, weekly, and monthly tasks to reduce odor and prevent disease."
-image: "https://images.pexels.com/photos/4911687/pexels-photo-4911687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4911687.jpg"
 categories: ["coop"]
 tags: ["chicken", "coop", "cleaning", "schedule"]
 author: "Dr. Tom Henderson"

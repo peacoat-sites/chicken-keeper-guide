@@ -3,7 +3,7 @@ title: "Best Egg Laying Chickens"
 date: 2026-05-22T03:07:42.352522+00:00
 draft: false
 description: "Discover the best egg laying chicken breeds for your flock. From prolific layers to hardy birds, find the perfect hens to keep your egg basket full year-round."
-image: "https://images.pexels.com/photos/4911793/pexels-photo-4911793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4911793.jpg"
 categories: ["breeds"]
 tags: ["best", "laying", "chickens"]
 slug: "best-egg-laying-chickens"

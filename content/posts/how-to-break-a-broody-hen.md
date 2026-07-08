@@ -3,7 +3,7 @@ title: "How To Break A Broody Hen"
 date: 2026-05-24T03:00:44.545772+00:00
 draft: false
 description: "Discover simple, humane methods to break a broody hen quickly and get her laying eggs again. Learn the most effective techniques every chicken keeper should kno"
-image: "https://images.pexels.com/photos/10316778/pexels-photo-10316778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10316778.jpg"
 categories: ["eggs"]
 tags: ["break", "broody"]
 slug: "how-to-break-a-broody-hen"

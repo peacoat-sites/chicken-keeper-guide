@@ -3,7 +3,7 @@ title: "Deep Litter Method Chickens"
 date: 2026-06-22T10:47:01.967536+00:00
 draft: false
 description: "Learn how the deep litter method works for chickens, including bedding choices, layering tips, moisture control, and how to build healthy compost in your coop."
-image: "https://images.pexels.com/photos/58906/pexels-photo-58906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/58906.jpg"
 categories: ["coop"]
 tags: ["deep", "litter", "method", "chickens"]
 author: "Janet Wilson"

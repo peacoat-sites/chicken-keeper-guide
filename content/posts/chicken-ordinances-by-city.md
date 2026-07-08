@@ -3,7 +3,7 @@ title: "Chicken Ordinances By City"
 date: 2026-06-02T12:52:23.082202+00:00
 draft: false
 description: "Find out if backyard chickens are allowed in your city. Explore local chicken ordinances, zoning laws, and flock size limits to stay compliant with your municip"
-image: "https://images.pexels.com/photos/18474429/pexels-photo-18474429.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18474429.jpg"
 categories: ["legal"]
 tags: ["chicken", "ordinances", "city"]
 slug: "chicken-ordinances-by-city"

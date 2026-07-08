@@ -3,7 +3,7 @@ title: "Chickens Are Now America's Third Most Popular Pet"
 date: 2026-07-04T08:02:35.190320+00:00
 draft: false
 description: "Chickens are clucking their way into American hearts and homes. Discover why backyard hens have become the country's third most popular pet and how to raise the"
-image: "https://images.pexels.com/photos/38405355/pexels-photo-38405355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/38405355.jpg"
 categories: ["trending"]
 tags: ["chickens", "america's", "third", "most", "popular"]
 author: "Janet Wilson"

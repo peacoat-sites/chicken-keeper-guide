@@ -3,7 +3,7 @@ title: "Egg Prices Crashed 39%: Is Your Backyard Flock Still Worth It?"
 date: 2026-06-24T08:32:35.417142+00:00
 draft: false
 description: "Egg prices dropped 39% but backyard flocks still offer fresh eggs, pest control, and fertilizer. Discover if raising chickens still makes financial sense for yo"
-image: "https://images.pexels.com/photos/32701556/pexels-photo-32701556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32701556.jpg"
 categories: ["trending"]
 tags: ["prices", "crashed", "39%:", "your", "backyard"]
 author: "Mike Carter"

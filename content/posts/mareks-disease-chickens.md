@@ -3,7 +3,7 @@ title: "Marek'S Disease Chickens"
 date: 2026-05-23T22:28:25.896013+00:00
 draft: false
 description: "Marek's disease in chickens explained: causes, symptoms, prevention and vaccination tips to help protect your flock from this common and serious viral condition"
-image: "https://images.pexels.com/photos/14776339/pexels-photo-14776339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14776339.jpg"
 categories: ["health"]
 tags: ["Marek's", "disease", "chickens"]
 slug: "mareks-disease-chickens"

@@ -3,7 +3,7 @@ title: "Coccidiosis Chickens"
 date: 2026-05-28T06:47:27.376062+00:00
 draft: false
 description: "Learn how to identify, treat, and prevent coccidiosis in chickens. Discover symptoms, causes, and effective management strategies to keep your flock healthy."
-image: "https://images.pexels.com/photos/34967706/pexels-photo-34967706.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34967706.jpg"
 categories: ["health"]
 tags: ["coccidiosis", "chickens"]
 slug: "coccidiosis-chickens"

@@ -3,7 +3,7 @@ title: "Raising Baby Chicks"
 date: 2026-06-03T14:07:16.222351+00:00
 draft: false
 description: "Learn how to raise healthy baby chicks with expert tips on brooder setup, feeding, temperature control, and care essentials for your new flock."
-image: "https://images.pexels.com/photos/21591146/pexels-photo-21591146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/21591146.jpg"
 categories: ["chicks"]
 tags: ["raising", "baby", "chicks"]
 slug: "raising-baby-chicks"

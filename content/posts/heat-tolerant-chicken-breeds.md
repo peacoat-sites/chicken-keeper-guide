@@ -3,7 +3,7 @@ title: "Heat Tolerant Chicken Breeds"
 date: 2026-06-11T09:22:01.707304+00:00
 draft: false
 description: "Discover the best heat tolerant chicken breeds for hot climates. Learn which hardy hens thrive in summer heat and keep producing eggs even during the hottest mo"
-image: "https://images.pexels.com/photos/16232853/pexels-photo-16232853.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16232853.jpg"
 categories: ["breeds"]
 tags: ["heat", "tolerant", "chicken", "breeds"]
 slug: "heat-tolerant-chicken-breeds"

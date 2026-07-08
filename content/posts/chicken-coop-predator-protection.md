@@ -3,7 +3,7 @@ title: "Chicken Coop Predator Protection"
 date: 2026-05-23T23:30:41.937914+00:00
 draft: false
 description: "Keep your flock safe with proven chicken coop predator protection tips. Learn how to secure your coop against foxes, raccoons, hawks, and more."
-image: "https://images.pexels.com/photos/14051542/pexels-photo-14051542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14051542.jpg"
 categories: ["coop"]
 tags: ["chicken", "coop", "predator", "protection"]
 slug: "chicken-coop-predator-protection"

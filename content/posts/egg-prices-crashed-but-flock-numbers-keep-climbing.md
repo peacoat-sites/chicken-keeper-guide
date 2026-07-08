@@ -3,7 +3,7 @@ title: "Egg Prices Crashed But Flock Numbers Keep Climbing"
 date: 2026-07-07T08:36:13.344957+00:00
 draft: false
 description: "Egg prices have fallen sharply, but US flock numbers continue to rise. Discover what this supply surge means for consumers, farmers, and the market ahead."
-image: "https://images.pexels.com/photos/16147459/pexels-photo-16147459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16147459.jpg"
 categories: ["trending"]
 tags: ["prices", "crashed", "flock", "numbers", "keep"]
 author: "Carol Thompson"

@@ -3,7 +3,7 @@ title: "Heat Lamp For Chicks"
 date: 2026-06-03T14:09:49.538422+00:00
 draft: false
 description: "Keep baby chicks warm and healthy with the right heat lamp. Learn how to choose the best wattage, bulb type, and safe setup for your brooder."
-image: "https://images.pexels.com/photos/3151647/pexels-photo-3151647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3151647.jpg"
 categories: ["chicks"]
 tags: ["heat", "lamp", "chicks"]
 slug: "heat-lamp-for-chicks"

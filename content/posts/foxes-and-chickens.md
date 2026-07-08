@@ -3,7 +3,7 @@ title: "Foxes And Chickens"
 date: 2026-07-06T09:11:50.840157+00:00
 draft: false
 description: "Discover how foxes and chickens interact in the wild and on farms, plus practical tips to protect your flock from fox predators naturally."
-image: "https://images.pexels.com/photos/8650973/pexels-photo-8650973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8650973.jpg"
 categories: ["coop"]
 tags: ["foxes", "chickens"]
 author: "Janet Wilson"

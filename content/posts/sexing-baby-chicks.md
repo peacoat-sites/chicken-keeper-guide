@@ -3,7 +3,7 @@ title: "Sexing Baby Chicks"
 date: 2026-06-25T08:31:02.579560+00:00
 draft: false
 description: "Learn how to sex baby chicks using vent sexing, feather sexing, and visual clues to tell pullets from cockerels early after hatching."
-image: "https://images.pexels.com/photos/8633668/pexels-photo-8633668.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8633668.jpg"
 categories: ["chicks"]
 tags: ["sexing", "baby", "chicks"]
 author: "Carol Thompson"

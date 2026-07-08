@@ -3,7 +3,7 @@ title: "Dual Purpose Chicken Breeds"
 date: 2026-05-24T08:42:18.781611+00:00
 draft: false
 description: "Discover the best dual purpose chicken breeds that excel at both egg laying and meat production, perfect for backyard flocks and homesteaders seeking self-suffi"
-image: "https://images.pexels.com/photos/34415132/pexels-photo-34415132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34415132.jpg"
 categories: ["breeds"]
 tags: ["dual", "purpose", "chicken", "breeds"]
 slug: "dual-purpose-chicken-breeds"

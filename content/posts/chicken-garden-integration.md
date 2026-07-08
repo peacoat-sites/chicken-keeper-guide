@@ -3,7 +3,7 @@ title: "Chicken Garden Integration"
 date: 2026-06-26T08:35:13.304590+00:00
 draft: false
 description: "Learn how to integrate chickens into your garden to control pests, fertilize soil, and boost yields while keeping your plants protected and flock healthy."
-image: "https://images.pexels.com/photos/34374502/pexels-photo-34374502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34374502.jpg"
 categories: ["sustainability"]
 tags: ["chicken", "garden", "integration"]
 author: "Sarah Mills"

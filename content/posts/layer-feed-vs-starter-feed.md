@@ -3,7 +3,7 @@ title: "Layer Feed Vs Starter Feed"
 date: 2026-05-27T06:36:41.758065+00:00
 draft: false
 description: "Layer feed vs starter feed: Compare nutrition, cost, and benefits of each poultry feed type to choose the best option for your flock's growth stage."
-image: "https://images.pexels.com/photos/8623995/pexels-photo-8623995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8623995.jpg"
 categories: ["feeding"]
 tags: ["layer", "feed", "starter", "feed"]
 slug: "layer-feed-vs-starter-feed"

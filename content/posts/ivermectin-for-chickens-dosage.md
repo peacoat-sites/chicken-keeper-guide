@@ -3,7 +3,7 @@ title: "Ivermectin For Chickens Dosage"
 date: 2026-06-18T09:27:21.214882+00:00
 draft: false
 description: "Learn the correct ivermectin dosage for chickens, including application methods, safety tips, and how to treat mites and worms effectively."
-image: "https://images.pexels.com/photos/5623467/pexels-photo-5623467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5623467.jpg"
 categories: ["health"]
 tags: ["ivermectin", "chickens", "dosage"]
 author: "Sarah Mills"

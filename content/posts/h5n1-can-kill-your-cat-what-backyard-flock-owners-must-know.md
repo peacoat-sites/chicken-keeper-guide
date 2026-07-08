@@ -3,7 +3,7 @@ title: "H5N1 Can Kill Your Cat: What Backyard Flock Owners Must Know"
 date: 2026-06-29T09:59:53.041026+00:00
 draft: false
 description: "Protect your cat and flock from H5N1 bird flu. Learn the deadly risks, warning signs, and essential safety steps every backyard chicken owner must take now."
-image: "https://images.pexels.com/photos/20496286/pexels-photo-20496286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/20496286.jpg"
 categories: ["trending"]
 tags: ["h5n1", "kill", "your", "cat:", "what"]
 author: "Carol Thompson"

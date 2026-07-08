@@ -3,7 +3,7 @@ title: "Predator Proof Chicken Coop"
 date: 2026-05-26T20:18:45.737426+00:00
 draft: false
 description: "Build a predator proof chicken coop to keep your flock safe. Learn the best materials, locks, and design tips to protect chickens from foxes, raccoons, and more"
-image: "https://images.pexels.com/photos/21480502/pexels-photo-21480502.png?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/21480502.jpg"
 categories: ["coop"]
 tags: ["predator", "proof", "chicken", "coop"]
 slug: "predator-proof-chicken-coop"

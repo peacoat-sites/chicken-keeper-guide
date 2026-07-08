@@ -3,7 +3,7 @@ title: "What the CDC H5N1 Survey Revealed About Backyard Flock Owners"
 date: 2026-06-22T10:49:19.408072+00:00
 draft: false
 description: "Learn what the CDC H5N1 survey found about backyard flock owners, their biosecurity practices, and what it means for protecting your birds and your family from "
-image: "https://images.pexels.com/photos/21482835/pexels-photo-21482835.png?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/21482835.jpg"
 categories: ["trending"]
 tags: ["what", "h5n1", "survey", "revealed", "about"]
 author: "Carol Thompson"

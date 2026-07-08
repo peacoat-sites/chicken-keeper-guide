@@ -3,7 +3,7 @@ title: "Sussex Chickens"
 date: 2026-07-05T08:12:01.482532+00:00
 draft: false
 description: "Discover Sussex chickens, a beloved dual-purpose breed known for their friendly temperament, beautiful plumage, and excellent egg-laying abilities for backyard "
-image: "https://images.pexels.com/photos/6463877/pexels-photo-6463877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6463877.jpg"
 categories: ["breeds"]
 tags: ["sussex", "chickens"]
 author: "Dr. Tom Henderson"

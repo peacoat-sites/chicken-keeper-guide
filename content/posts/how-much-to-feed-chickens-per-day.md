@@ -3,7 +3,7 @@ title: "How Much To Feed Chickens Per Day"
 date: 2026-05-26T02:08:25.411516+00:00
 draft: false
 description: "Feeding chickens the right amount daily ensures healthy hens and optimal egg production. Learn proper portions, nutritional needs, and feeding schedules for you"
-image: "https://images.pexels.com/photos/11350102/pexels-photo-11350102.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11350102.jpg"
 categories: ["feeding"]
 tags: ["much", "feed", "chickens"]
 slug: "how-much-to-feed-chickens-per-day"

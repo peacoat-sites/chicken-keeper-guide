@@ -3,7 +3,7 @@ title: "When Can Chicks Go Outside"
 date: 2026-06-07T08:32:24.848721+00:00
 draft: false
 description: "Wondering when chicks can go outside? Learn the ideal age, temperature requirements, and safety tips to successfully transition your baby chicks to outdoor livi"
-image: "https://images.pexels.com/photos/28430520/pexels-photo-28430520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/28430520.jpg"
 categories: ["chicks"]
 tags: ["when", "chicks", "outside"]
 slug: "when-can-chicks-go-outside"

@@ -3,7 +3,7 @@ title: "Kitchen Scraps For Chickens"
 date: 2026-05-21T10:12:25.956191+00:00
 draft: false
 description: "Kitchen scraps can be a nutritious and cost-effective way to feed your chickens. Learn which foods are safe, which to avoid, and how to prepare them properly."
-image: "https://images.pexels.com/photos/37749342/pexels-photo-37749342.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37749342.jpg"
 categories: ["feeding"]
 tags: ["kitchen", "scraps", "chickens"]
 slug: "kitchen-scraps-for-chickens"

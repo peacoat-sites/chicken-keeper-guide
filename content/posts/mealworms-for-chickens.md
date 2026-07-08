@@ -3,7 +3,7 @@ title: "Mealworms For Chickens"
 date: 2026-06-14T08:50:41.935939+00:00
 draft: false
 description: "Discover the benefits of feeding mealworms to chickens, including boosted protein, improved feather health, and tips for safe serving sizes your flock will love"
-image: "https://images.pexels.com/photos/7782058/pexels-photo-7782058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7782058.jpg"
 categories: ["feeding"]
 tags: ["mealworms", "chickens"]
 slug: "mealworms-for-chickens"

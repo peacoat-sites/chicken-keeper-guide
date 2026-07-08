@@ -3,7 +3,7 @@ title: "How Many Nesting Boxes Per Chicken"
 date: 2026-06-23T08:37:29.743696+00:00
 draft: false
 description: "Find out how many nesting boxes per chicken you need for a happy, productive flock. Most flocks do well with one box per 3-4 hens."
-image: "https://images.pexels.com/photos/7782053/pexels-photo-7782053.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7782053.jpg"
 categories: ["coop"]
 tags: ["many", "nesting", "boxes", "chicken"]
 author: "Dr. Tom Henderson"

@@ -3,7 +3,7 @@ title: "Introducing Chicks To Flock"
 date: 2026-06-08T09:54:49.859484+00:00
 draft: false
 description: "Learn how to safely introduce chicks to your flock with our step-by-step guide. Reduce stress and pecking order issues for happy, healthy chickens."
-image: "https://images.pexels.com/photos/37469812/pexels-photo-37469812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37469812.jpg"
 categories: ["flock"]
 tags: ["introducing", "chicks", "flock"]
 slug: "introducing-chicks-to-flock"

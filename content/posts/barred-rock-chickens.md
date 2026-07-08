@@ -3,7 +3,7 @@ title: "Barred Rock Chickens"
 date: 2026-07-06T09:09:42.777010+00:00
 draft: false
 description: "Discover Barred Rock chickens: a friendly, hardy dual-purpose breed perfect for backyard flocks. Learn about their care, egg production, and classic black-and-w"
-image: "https://images.pexels.com/photos/20631804/pexels-photo-20631804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/20631804.jpg"
 categories: ["breeds"]
 tags: ["barred", "rock", "chickens"]
 author: "Mike Carter"

@@ -3,7 +3,7 @@ title: "Foods Chickens Cannot Eat"
 date: 2026-05-24T07:13:13.677137+00:00
 draft: false
 description: "Foods chickens cannot eat: comprehensive guide to dangerous items including avocado, chocolate, salt, and toxic plants to keep your flock healthy and safe."
-image: "https://images.pexels.com/photos/19972944/pexels-photo-19972944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19972944.jpg"
 categories: ["feeding"]
 tags: ["foods", "chickens", "cannot"]
 slug: "foods-chickens-cannot-eat"

@@ -3,7 +3,7 @@ title: "Chicken Water Requirements"
 date: 2026-05-22T11:32:28.966642+00:00
 draft: false
 description: "Chicken water requirements: Learn how much water chickens need daily, factors affecting intake, and tips for keeping your flock hydrated year-round."
-image: "https://images.pexels.com/photos/30692224/pexels-photo-30692224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30692224.jpg"
 categories: ["feeding"]
 tags: ["chicken", "water", "requirements"]
 slug: "chicken-water-requirements"

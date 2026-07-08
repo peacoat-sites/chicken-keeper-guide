@@ -3,7 +3,7 @@ title: "Backyard Chickens For Beginners"
 date: 2026-05-28T22:45:10.780256+00:00
 draft: false
 description: "Learn how to raise backyard chickens with our beginner's guide. Discover essential tips on coops, feeding, breeds, and care to start your flock with confidence."
-image: "https://images.pexels.com/photos/35089300/pexels-photo-35089300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35089300.jpg"
 categories: ["basics"]
 tags: ["backyard", "chickens", "beginners"]
 slug: "backyard-chickens-for-beginners"

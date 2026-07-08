@@ -3,7 +3,7 @@ title: "Best Egg Incubator"
 date: 2026-06-13T08:31:11.007405+00:00
 draft: false
 description: "Discover the best egg incubators for hatching success. We review top models for chickens, ducks & more to help you find the perfect incubator for your needs."
-image: "https://images.pexels.com/photos/35377875/pexels-photo-35377875.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35377875.jpg"
 categories: ["products"]
 tags: ["best", "incubator"]
 slug: "best-egg-incubator"

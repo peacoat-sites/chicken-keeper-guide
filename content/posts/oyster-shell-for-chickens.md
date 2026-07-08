@@ -3,7 +3,7 @@ title: "Oyster Shell For Chickens"
 date: 2026-05-28T13:38:11.769972+00:00
 draft: false
 description: "Oyster shell supplements support chicken bone health and eggshell strength. Learn about calcium benefits, proper dosing, and feeding guidelines for laying hens."
-image: "https://images.pexels.com/photos/10375840/pexels-photo-10375840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10375840.jpg"
 categories: ["feeding"]
 tags: ["oyster", "shell", "chickens"]
 slug: "oyster-shell-for-chickens"

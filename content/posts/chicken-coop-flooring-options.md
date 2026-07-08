@@ -3,7 +3,7 @@ title: "Chicken Coop Flooring Options"
 date: 2026-06-23T08:39:19.882098+00:00
 draft: false
 description: "Explore the best chicken coop flooring options including dirt, sand, concrete, and deep litter to keep your flock healthy, dry, and easy to clean."
-image: "https://images.pexels.com/photos/30248442/pexels-photo-30248442.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30248442.jpg"
 categories: ["coop"]
 tags: ["chicken", "coop", "flooring", "options"]
 author: "Sarah Mills"

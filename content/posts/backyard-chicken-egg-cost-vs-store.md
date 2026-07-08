@@ -3,7 +3,7 @@ title: "Backyard Chicken Egg Cost Vs Store"
 date: 2026-06-06T07:55:43.357654+00:00
 draft: false
 description: "Discover if raising backyard chickens actually saves money on eggs. We break down real costs vs store prices to help you decide if it's worth it."
-image: "https://images.pexels.com/photos/15867214/pexels-photo-15867214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15867214.jpg"
 categories: ["finances"]
 tags: ["backyard", "chicken", "cost", "store"]
 slug: "backyard-chicken-egg-cost-vs-store"

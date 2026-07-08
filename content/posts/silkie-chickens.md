@@ -3,7 +3,7 @@ title: "Silkie Chickens"
 date: 2026-06-16T10:20:42.286002+00:00
 draft: false
 description: "Discover Silkie chickens: their unique fluffy plumage, gentle temperament, care needs, and why they make wonderful backyard pets and show birds."
-image: "https://images.pexels.com/photos/9313058/pexels-photo-9313058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9313058.jpg"
 categories: ["breeds"]
 tags: ["silkie", "chickens"]
 author: "Sarah Mills"

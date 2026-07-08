@@ -3,7 +3,7 @@ title: "Marans Chickens"
 date: 2026-07-02T08:22:18.434033+00:00
 draft: false
 description: "Discover Marans chickens, prized for their dark chocolate-brown eggs. Learn about their history, temperament, care needs, and why they're a favorite breed."
-image: "https://images.pexels.com/photos/4083587/pexels-photo-4083587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4083587.jpg"
 categories: ["breeds"]
 tags: ["marans", "chickens"]
 author: "Carol Thompson"

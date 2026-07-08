@@ -3,7 +3,7 @@ title: "Chicken Coop Smell Control"
 date: 2026-06-17T10:00:46.654597+00:00
 draft: false
 description: "Eliminate chicken coop odors fast with proven ventilation, bedding, and cleaning tips that keep your flock healthy and your yard smelling fresh."
-image: "https://images.pexels.com/photos/15645658/pexels-photo-15645658.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15645658.jpg"
 categories: ["coop"]
 tags: ["chicken", "coop", "smell", "control"]
 author: "Janet Wilson"

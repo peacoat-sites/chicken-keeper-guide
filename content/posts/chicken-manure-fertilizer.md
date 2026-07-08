@@ -3,7 +3,7 @@ title: "Chicken Manure Fertilizer"
 date: 2026-06-09T08:42:32.245468+00:00
 draft: false
 description: "Discover how chicken manure fertilizer enriches soil with essential nutrients, boosts plant growth, and improves garden yields naturally. Learn safe application"
-image: "https://images.pexels.com/photos/7728736/pexels-photo-7728736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7728736.jpg"
 categories: ["sustainability"]
 tags: ["chicken", "manure", "fertilizer"]
 slug: "chicken-manure-fertilizer"

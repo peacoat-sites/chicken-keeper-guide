@@ -3,7 +3,7 @@ title: "Adding Light For Winter Egg Production"
 date: 2026-06-21T09:04:39.816326+00:00
 draft: false
 description: "Boost winter egg production by adding artificial light to your chicken coop. Learn how many hours hens need and the best lighting setup."
-image: "https://images.pexels.com/photos/29051548/pexels-photo-29051548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29051548.jpg"
 categories: ["eggs"]
 tags: ["adding", "light", "winter", "production"]
 author: "Mike Carter"

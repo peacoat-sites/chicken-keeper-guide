@@ -3,7 +3,7 @@ title: "Cold Hardy Chicken Breeds"
 date: 2026-05-22T08:08:39.929857+00:00
 draft: false
 description: "Discover the best cold hardy chicken breeds that thrive in winter weather. Learn which breeds handle freezing temps best for a healthy, productive backyard floc"
-image: "https://images.pexels.com/photos/21482856/pexels-photo-21482856.png?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/21482856.jpg"
 categories: ["breeds"]
 tags: ["cold", "hardy", "chicken", "breeds"]
 slug: "cold-hardy-chicken-breeds"

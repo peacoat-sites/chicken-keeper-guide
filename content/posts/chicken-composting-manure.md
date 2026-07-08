@@ -3,7 +3,7 @@ title: "Chicken Composting Manure"
 date: 2026-06-19T09:50:41.105190+00:00
 draft: false
 description: "Learn how to compost chicken manure properly to create rich fertilizer for your garden while eliminating harmful pathogens and odors."
-image: "https://images.pexels.com/photos/27557665/pexels-photo-27557665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/27557665.jpg"
 categories: ["sustainability"]
 tags: ["chicken", "composting", "manure"]
 author: "Mike Carter"

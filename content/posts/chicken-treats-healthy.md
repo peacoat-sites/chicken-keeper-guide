@@ -3,7 +3,7 @@ title: "Chicken Treats Healthy"
 date: 2026-06-12T09:11:44.271340+00:00
 draft: false
 description: "Discover delicious and nutritious chicken treats your whole family will love. From baked bites to grilled snacks, enjoy healthy, protein-packed recipes guilt-fr"
-image: "https://images.pexels.com/photos/6441/bird-village-animal-countryside.jpg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6441.jpg"
 categories: ["feeding"]
 tags: ["chicken", "treats", "healthy"]
 slug: "chicken-treats-healthy"

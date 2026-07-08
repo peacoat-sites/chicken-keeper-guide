@@ -3,7 +3,7 @@ title: "Starting A Backyard Flock"
 date: 2026-05-22T01:59:09.426078+00:00
 draft: false
 description: "Thinking about raising chickens at home? Learn everything you need to start a healthy backyard flock, from choosing breeds to housing, feeding, and daily care t"
-image: "https://images.pexels.com/photos/4566555/pexels-photo-4566555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4566555.jpg"
 categories: ["basics"]
 tags: ["starting", "backyard", "flock"]
 slug: "starting-a-backyard-flock"

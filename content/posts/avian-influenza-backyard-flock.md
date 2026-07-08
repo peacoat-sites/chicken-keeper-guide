@@ -3,7 +3,7 @@ title: "Avian Influenza Backyard Flock"
 date: 2026-06-24T08:34:48.405050+00:00
 draft: false
 description: "Learn how to protect your backyard flock from avian influenza with biosecurity tips, warning signs, and steps to keep your chickens safe."
-image: "https://images.pexels.com/photos/26933873/pexels-photo-26933873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/26933873.jpg"
 categories: ["health"]
 tags: ["avian", "influenza", "backyard", "flock"]
 author: "Janet Wilson"

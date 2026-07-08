@@ -3,7 +3,7 @@ title: "Chick Starter Feed"
 date: 2026-06-07T08:30:03.628543+00:00
 draft: false
 description: "Discover everything you need to know about chick starter feed, including nutrition, ingredients, and feeding tips to help your baby chicks grow healthy and stro"
-image: "https://images.pexels.com/photos/37935725/pexels-photo-37935725.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37935725.jpg"
 categories: ["chicks"]
 tags: ["chick", "starter", "feed"]
 slug: "chick-starter-feed"

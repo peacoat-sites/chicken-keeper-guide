@@ -3,7 +3,7 @@ title: "Drug-Resistant Salmonella Is Surging in Backyard Flocks Right Now"
 date: 2026-06-25T08:33:34.099328+00:00
 draft: false
 description: "Stay informed about the rising threat of drug-resistant Salmonella in backyard chicken flocks, how it spreads, and key steps to protect your family and birds."
-image: "https://images.pexels.com/photos/36660076/pexels-photo-36660076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36660076.jpg"
 categories: ["trending"]
 tags: ["drug-resistant", "salmonella", "surging", "backyard", "flocks"]
 author: "Dr. Tom Henderson"

@@ -3,7 +3,7 @@ title: "Best Chicken Coop Kits To Buy"
 date: 2026-06-06T07:57:54.768132+00:00
 draft: false
 description: "Discover the best chicken coop kits available to buy right now. We review top options for every flock size and budget to help you choose the perfect coop."
-image: "https://images.pexels.com/photos/2157000/pexels-photo-2157000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/2157000.jpg"
 categories: ["products"]
 tags: ["best", "chicken", "coop", "kits"]
 slug: "best-chicken-coop-kits-to-buy"

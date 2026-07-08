@@ -3,7 +3,7 @@ title: "Grit For Chickens"
 date: 2026-05-22T11:14:40.543020+00:00
 draft: false
 description: "Discover how to build grit for chickens with essential bedding materials, dust bath options, and digestive health tips to keep your flock thriving and healthy."
-image: "https://images.pexels.com/photos/36879581/pexels-photo-36879581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36879581.jpg"
 categories: ["feeding"]
 tags: ["grit", "chickens"]
 slug: "grit-for-chickens"

@@ -3,7 +3,7 @@ title: "Pullet Vs Cockerel Identification"
 date: 2026-07-03T08:22:56.168808+00:00
 draft: false
 description: "Learn to distinguish between pullets and cockerels with our identification guide. Discover key physical and behavioral differences to accurately sex young chick"
-image: "https://images.pexels.com/photos/15645680/pexels-photo-15645680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15645680.jpg"
 categories: ["chicks"]
 tags: ["pullet", "cockerel", "identification"]
 author: "Sarah Mills"

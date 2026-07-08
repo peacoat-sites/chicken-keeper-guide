@@ -3,7 +3,7 @@ title: "Aggressive Chickens"
 date: 2026-06-04T12:21:13.758126+00:00
 draft: false
 description: "Discover why chickens turn aggressive, what triggers their behavior, and how to calm or manage hostile hens and roosters to keep your flock peaceful and safe."
-image: "https://images.pexels.com/photos/26846854/pexels-photo-26846854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/26846854.jpg"
 categories: ["flock"]
 tags: ["aggressive", "chickens"]
 slug: "aggressive-chickens"

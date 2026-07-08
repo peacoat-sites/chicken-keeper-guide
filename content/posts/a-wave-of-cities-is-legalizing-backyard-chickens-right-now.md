@@ -3,7 +3,7 @@ title: "A Wave of Cities Is Legalizing Backyard Chickens Right Now"
 date: 2026-06-15T11:22:48.087481+00:00
 draft: false
 description: "Discover why cities across the US are changing laws to allow backyard chickens, what it means for residents, and how you can start your own small flock at home."
-image: "https://images.pexels.com/photos/29275761/pexels-photo-29275761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29275761.jpg"
 categories: ["trending"]
 tags: ["wave", "cities", "legalizing", "backyard", "chickens"]
 author: "Carol Thompson"

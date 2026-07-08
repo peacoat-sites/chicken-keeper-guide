@@ -3,7 +3,7 @@ title: "Eight Salmonella Outbreaks Are Active Now: What Flock Owners Must Do"
 date: 2026-07-05T08:13:53.957241+00:00
 draft: false
 description: "Stay informed on 8 active Salmonella outbreaks affecting backyard flocks. Learn essential steps flock owners must take now to protect their birds and their fami"
-image: "https://images.pexels.com/photos/6623867/pexels-photo-6623867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6623867.jpg"
 categories: ["trending"]
 tags: ["eight", "salmonella", "outbreaks", "active", "now:"]
 author: "Sarah Mills"

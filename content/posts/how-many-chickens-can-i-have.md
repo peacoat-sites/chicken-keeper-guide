@@ -3,7 +3,7 @@ title: "How Many Chickens Can I Have"
 date: 2026-06-02T12:54:40.052776+00:00
 draft: false
 description: "Find out how many chickens you can keep based on local zoning laws, space requirements, flock size recommendations, and practical tips for happy, healthy hens."
-image: "https://images.pexels.com/photos/22881999/pexels-photo-22881999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/22881999.jpg"
 categories: ["legal"]
 tags: ["many", "chickens", "have"]
 slug: "how-many-chickens-can-i-have"

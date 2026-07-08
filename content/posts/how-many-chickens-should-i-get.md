@@ -3,7 +3,7 @@ title: "How Many Chickens Should I Get"
 date: 2026-05-24T20:47:34.252590+00:00
 draft: false
 description: "Find out how many chickens you really need based on your egg goals, available space, local laws, and flock dynamics to help you make the right choice."
-image: "https://images.pexels.com/photos/14780241/pexels-photo-14780241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14780241.jpg"
 categories: ["basics"]
 tags: ["many", "chickens", "should"]
 slug: "how-many-chickens-should-i-get"

@@ -3,7 +3,7 @@ title: "Hatching Eggs Under Broody Hen"
 date: 2026-06-20T08:30:47.340015+00:00
 draft: false
 description: "Learn how to hatch eggs under a broody hen naturally. Discover breed selection, egg candling, nest setup, and chick care tips for a successful hatch."
-image: "https://images.pexels.com/photos/15645725/pexels-photo-15645725.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15645725.jpg"
 categories: ["eggs"]
 tags: ["hatching", "eggs", "under", "broody"]
 author: "Dr. Tom Henderson"

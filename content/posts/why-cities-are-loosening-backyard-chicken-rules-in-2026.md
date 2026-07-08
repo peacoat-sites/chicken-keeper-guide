@@ -3,7 +3,7 @@ title: "Why Cities Are Loosening Backyard Chicken Rules in 2026"
 date: 2026-06-18T09:25:13.638258+00:00
 draft: false
 description: "Discover why more cities are updating zoning laws to allow backyard chickens in 2026, from food security benefits to sustainability goals driving this growing u"
-image: "https://images.pexels.com/photos/36367455/pexels-photo-36367455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36367455.jpg"
 categories: ["trending"]
 tags: ["cities", "loosening", "backyard", "chicken", "rules"]
 author: "Dr. Tom Henderson"

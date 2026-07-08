@@ -3,7 +3,7 @@ title: "Cost Of Raising Chickens"
 date: 2026-06-05T12:22:30.058283+00:00
 draft: false
 description: "Discover the true cost of raising chickens, from buying chicks and building coops to ongoing feed and care expenses, to help you budget effectively."
-image: "https://images.pexels.com/photos/27557663/pexels-photo-27557663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/27557663.jpg"
 categories: ["finances"]
 tags: ["cost", "raising", "chickens"]
 slug: "cost-of-raising-chickens"

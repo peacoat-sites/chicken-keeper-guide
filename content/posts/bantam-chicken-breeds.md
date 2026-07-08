@@ -3,7 +3,7 @@ title: "Bantam Chicken Breeds"
 date: 2026-06-17T10:02:35.782960+00:00
 draft: false
 description: "Discover the most popular bantam chicken breeds, their unique traits, sizes, and temperaments to help you choose the perfect small chicken for your flock."
-image: "https://images.pexels.com/photos/15645699/pexels-photo-15645699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15645699.jpg"
 categories: ["breeds"]
 tags: ["bantam", "chicken", "breeds"]
 author: "Carol Thompson"

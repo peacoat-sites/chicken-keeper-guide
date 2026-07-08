@@ -3,7 +3,7 @@ title: "Chicken Lifespan"
 date: 2026-07-04T08:05:08.170003+00:00
 draft: false
 description: "Discover how long chickens live, from backyard hens to wild birds. Learn what factors affect chicken lifespan and how to help your flock live longer."
-image: "https://images.pexels.com/photos/18474434/pexels-photo-18474434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18474434.jpg"
 categories: ["flock"]
 tags: ["chicken", "lifespan"]
 author: "Carol Thompson"

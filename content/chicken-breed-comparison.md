@@ -4,6 +4,9 @@ hide_title: true
 date: 2026-01-01
 draft: false
 description: "Compare 16 popular backyard chicken breeds by egg production, egg color, temperament, cold-hardiness, and broodiness to pick the right flock for you."
+author: "Carol Thompson"
+author_slug: "carol-thompson"
+author_title: "Backyard Poultry Keeper"
 ---
 
 Choosing your first breeds is the decision new keepers agonize over most, and for good reason: a breed that thrives for one person can be a constant headache for another. The right pick depends on what you actually want from your flock. Maximum eggs? Friendly birds your kids can hold? Something that shrugs off a brutal winter? You usually can't have all three in a single breed, so it helps to see the tradeoffs side by side.

@@ -2,45 +2,50 @@
   {
     "label": "Breed Comparison",
     "url": "/chicken-breed-comparison/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "breed"
-    ]
+    ],
+    "desc": "Compare chicken breeds by eggs, temperament, and climate hardiness."
   },
   {
     "label": "Coop Size Calc",
     "url": "/chicken-coop-size-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "coop",
       "size"
-    ]
+    ],
+    "desc": "Calculate the coop and run size your flock needs to stay healthy."
   },
   {
     "label": "Feed Cost Calc",
     "url": "/chicken-feed-cost-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "feed",
       "cost"
-    ]
+    ],
+    "desc": "Estimate what it costs to feed your flock each month."
   },
   {
     "label": "Egg Incubation Calc",
     "url": "/egg-incubation-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "egg",
       "incubation"
-    ]
+    ],
+    "desc": "Track incubation days and get your exact hatch date."
   },
   {
     "label": "Egg Production Calc",
     "url": "/chicken-egg-production-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "egg",
       "production"
-    ]
+    ],
+    "desc": "Estimate how many eggs your flock will lay each week."
   }
 ]

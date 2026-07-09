@@ -88,3 +88,12 @@ That said, the concern about shortened productive lifespan has some merit. A hen
 
 
 *Photo: [Pongpoonat Rungrueng](https://www.pexels.com/@14saill) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+

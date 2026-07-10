@@ -5,7 +5,8 @@ date: 2026-06-10
 slug: "chicken-egg-production-calculator"
 description: "Estimate your backyard chicken flock's weekly and monthly egg production by breed, age, and season. See how many dozens you can expect and plan your flock size."
 categories: ["Flock Management"]
-author: "Ellen Barker"
+author: "Sarah Mills"
+author_slug: "sarah-mills"
 image: "https://images.pexels.com/photos/2255825/pexels-photo-2255825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 

@@ -3,7 +3,8 @@ title: "Chicken Coop Size Calculator: How Much Space Do Your Hens Really Need?"
 hide_title: true
 date: "2026-06-10"
 slug: "chicken-coop-size-calculator"
-author: "Ellen Barker"
+author: "Dr. Tom Henderson"
+author_slug: "dr-tom-henderson"
 categories: ["Coop Building"]
 description: "Use our free chicken coop size calculator to find the minimum and recommended square footage for your flock, plus nesting boxes and roost bar length."
 faqs:

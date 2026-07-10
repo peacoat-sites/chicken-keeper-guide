@@ -1,0 +1,21 @@
+{
+  "question": "How many chickens in your flock?",
+  "options": [
+    {
+      "label": "1-5 birds",
+      "votes": 318
+    },
+    {
+      "label": "6-12 birds",
+      "votes": 264
+    },
+    {
+      "label": "Planning my first flock",
+      "votes": 208
+    },
+    {
+      "label": "13 or more",
+      "votes": 117
+    }
+  ]
+}

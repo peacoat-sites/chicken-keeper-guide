@@ -130,8 +130,6 @@ The honest version is this: backyard chickens are a hobby that produces food, no
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Little Giant Hanging Feeder](https://www.amazon.com/dp/B001E7ES3K?tag=contentportfo-20)

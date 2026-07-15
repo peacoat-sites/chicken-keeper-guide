@@ -129,8 +129,6 @@ Understanding the rhythm of your hens makes the whole experience more enjoyable 
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [feeder like this one on Amazon](https://www.amazon.com/s?k=chicken+layer+feeder)

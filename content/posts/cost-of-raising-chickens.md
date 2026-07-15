@@ -106,8 +106,6 @@ After ten years, I'm still in this. The math has never fully worked out on paper
 
 *Photo: [Bruna Fossile](https://www.pexels.com/@bruna-fossile-183845208) via Pexels*
 
-## Recommended Resources
-
 ## Sources
 
 - [Bruna Fossile](https://www.pexels.com/@bruna-fossile-183845208)

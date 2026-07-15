@@ -1,0 +1,19 @@
+{{ with .Site.Data.eggs }}
+<div class="feedtbl" style="margin:28px 0;overflow-x:auto">
+<table>
+  <thead><tr><th>Month</th><th>Avg price (dozen)</th><th>vs prior month</th><th>vs year ago</th></tr></thead>
+  <tbody>
+  {{ $n := len .series }}
+  {{ range $i, $r := .series }}
+  <tr{{ if eq (add $i 1) $n }} style="font-weight:700"{{ end }}>
+    <td>{{ $r.month }}</td>
+    <td>${{ printf "%.2f" $r.price }}</td>
+    <td>{{ with $r.mom }}{{ if ge . 0.0 }}+{{ end }}{{ printf "%.2f" . }}{{ else }}&ndash;{{ end }}</td>
+    <td>{{ with $r.yoy_pct }}{{ if ge . 0.0 }}+{{ end }}{{ printf "%.1f" . }}%{{ else }}&ndash;{{ end }}</td>
+  </tr>
+  {{ end }}
+  </tbody>
+</table>
+<p style="font-size:.8rem;color:var(--muted,#64748b);margin-top:8px">Data: {{ .source }}. Updated monthly; latest month {{ .as_of }}.</p>
+</div>
+{{ end }}

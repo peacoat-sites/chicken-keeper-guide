@@ -1,0 +1,85 @@
+{
+ "as_of": "2026-06",
+ "unit": "USD per dozen, Grade A large, U.S. city average",
+ "source": "U.S. Bureau of Labor Statistics via FRED (series APU0000708111)",
+ "series": [
+  {
+   "month": "2025-05",
+   "price": 4.55,
+   "mom": -0.57,
+   "yoy_pct": 68.5
+  },
+  {
+   "month": "2025-06",
+   "price": 3.77,
+   "mom": -0.77,
+   "yoy_pct": 39.0
+  },
+  {
+   "month": "2025-07",
+   "price": 3.6,
+   "mom": -0.18,
+   "yoy_pct": 16.9
+  },
+  {
+   "month": "2025-08",
+   "price": 3.59,
+   "mom": -0.01,
+   "yoy_pct": 12.0
+  },
+  {
+   "month": "2025-09",
+   "price": 3.49,
+   "mom": -0.1,
+   "yoy_pct": -8.7
+  },
+  {
+   "month": "2025-11",
+   "price": 2.86,
+   "mom": -0.63,
+   "yoy_pct": -21.6
+  },
+  {
+   "month": "2025-12",
+   "price": 2.71,
+   "mom": -0.15,
+   "yoy_pct": -34.6
+  },
+  {
+   "month": "2026-01",
+   "price": 2.58,
+   "mom": -0.14,
+   "yoy_pct": -48.0
+  },
+  {
+   "month": "2026-02",
+   "price": 2.5,
+   "mom": -0.08,
+   "yoy_pct": -57.6
+  },
+  {
+   "month": "2026-03",
+   "price": 2.35,
+   "mom": -0.15,
+   "yoy_pct": -62.3
+  },
+  {
+   "month": "2026-04",
+   "price": 2.25,
+   "mom": -0.1,
+   "yoy_pct": -56.1
+  },
+  {
+   "month": "2026-05",
+   "price": 2.19,
+   "mom": -0.06,
+   "yoy_pct": -51.8
+  },
+  {
+   "month": "2026-06",
+   "price": 2.14,
+   "mom": -0.05,
+   "yoy_pct": -43.3
+  }
+ ]
+}

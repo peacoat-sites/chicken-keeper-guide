@@ -7,7 +7,7 @@ author_slug: "sarah-mills"
 author_title: "Homesteader"
 date: 2026-06-28
 featured_depth: true
-categories: ["Chicken Care", "Homesteading", "Breed Guide"]
+categories: ["sustainability"]
 keywords: ["egg production by breed", "best laying chicken breeds", "chicken productivity", "annual eggs per breed"]
 lastmod: 2026-07-07
 ---

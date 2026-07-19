@@ -4,7 +4,7 @@ date: 2026-07-14T07:20:20.344344+00:00
 draft: false
 description: "Beat the heat with proven methods to keep chickens comfortable during hot summers. Learn hydration, shelter, and cooling techniques that work."
 image: "/img/heroes/1300375.jpg"
-categories: ["Seasonal Care"]
+categories: ["flock"]
 tags: ["keep", "chickens", "cool", "summer", "heat"]
 author: "Janet Wilson"
 author_slug: "janet-wilson"

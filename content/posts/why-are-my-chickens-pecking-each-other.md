@@ -4,7 +4,7 @@ date: 2026-07-17T07:27:59.487613+00:00
 draft: false
 description: "Discover the reasons behind chicken pecking behavior, from stress to nutrition, and practical solutions to keep your flock healthy and calm."
 image: "/img/heroes/34200784.jpg"
-categories: ["Chicken Behavior"]
+categories: ["flock"]
 tags: ["chickens", "pecking", "each", "other"]
 author: "Carol Thompson"
 author_slug: "carol-thompson"

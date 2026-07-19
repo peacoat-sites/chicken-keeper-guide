@@ -4,7 +4,7 @@ date: 2026-07-08T07:40:39.172166+00:00
 draft: false
 description: "Discover the real reasons hens destroy their own eggs and get proven strategies to break the habit before it spreads through your flock."
 image: "https://images.pexels.com/photos/15645625/pexels-photo-15645625.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-categories: ["Chicken Behavior"]
+categories: ["flock"]
 tags: ["chickens", "their", "eggs"]
 author: "Sarah Mills"
 author_slug: "sarah-mills"

@@ -5,3 +5,11 @@
 
 # 2026-07-18 duplicate-topic merges
 /chickens-are-now-americas-third-most-popular-pet-now-what/ /chickens-are-now-americas-third-most-popular-pet/ 301
+
+# 2026-07-18 thin-category consolidation
+/categories/breed-guide/ /categories/breeds/ 301
+/categories/chicken-behavior/ /categories/flock/ 301
+/categories/chicken-care/ /categories/health/ 301
+/categories/general/ /categories/basics/ 301
+/categories/homesteading/ /categories/sustainability/ 301
+/categories/seasonal-care/ /categories/flock/ 301

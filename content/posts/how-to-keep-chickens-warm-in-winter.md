@@ -4,7 +4,7 @@ date: 2026-07-12T07:39:49.233772+00:00
 draft: false
 description: "Learn how to keep your chickens warm in winter with practical coop tips, bedding strategies, and feeding advice to protect your flock from the cold."
 image: "/img/heroes/4200086.jpg"
-categories: ["Seasonal Care"]
+categories: ["flock"]
 tags: ["keep", "chickens", "warm", "winter"]
 author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"

@@ -75,7 +75,7 @@ I run mine at roughly 6-7 square feet per bird indoors, and the difference in be
 
 Roost height matters with heavier breeds. Plymouth Rocks need roosts they can reach without acrobatics, ideally no higher than 24-30 inches. I've had hens injure their feet landing awkwardly from a 4-foot roost in a coop I designed before I knew better. Lower is fine. They don't need to feel like they're roosting in a tree.
 
-Nesting boxes: one box per 4-5 hens is plenty. Barred Rocks aren't dramatic about nesting preferences, but they will all decide to use the same two boxes regardless of how many you provide. [Premier 1 Supplies](https://www.amazon.com/s?k=nesting+box+pads+chickens&tag=backyardchicken-20) makes nesting pads that hold up well and cut down on egg breakage, which I've been using in my current coop for about two years now.
+Nesting boxes: one box per 4-5 hens is plenty. Barred Rocks aren't dramatic about nesting preferences, but they will all decide to use the same two boxes regardless of how many you provide. [Premier 1 Supplies](https://www.amazon.com/s?k=nesting+box+pads+chickens&tag=contentportfo-20) makes nesting pads that hold up well and cut down on egg breakage, which I've been using in my current coop for about two years now.
 
 ## Feeding Through the Seasons
 

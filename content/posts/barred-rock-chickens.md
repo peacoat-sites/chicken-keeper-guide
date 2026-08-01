@@ -81,7 +81,7 @@ Barred Rocks don't need anything fancy, but they do need space. Don't crowd them
 
 Roost height matters more than people think. I've seen keepers put roosts at 4 to 5 feet high and then wonder why their big birds have keel injuries. Barred Rocks are heavy. Keep your primary roost at 18 to 24 inches off the ground, with a lower step at 12 inches so they can get up without a big jump. I switched my flock to this setup after my second hen developed a mild keel bruise, and I haven't seen one since.
 
-Nesting boxes: one box per 4 to 5 hens is the typical guidance, but honestly, they'll all want the same box anyway. That's just chickens. [Soft nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=backyardchick-20) make a real difference for large-bodied birds.
+Nesting boxes: one box per 4 to 5 hens is the typical guidance, but honestly, they'll all want the same box anyway. That's just chickens. [Soft nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20) make a real difference for large-bodied birds.
 
 ---
 
@@ -98,7 +98,7 @@ If you start with day-old chicks in spring (say, April in a temperate climate):
 
 Concrete example from my own experience: I started 8 Barred Rock pullets from a local breeder in April 2021. By late September, I was pulling 5 to 7 eggs a day consistently. My production dropped off sharply in November as daylight shortened, then climbed back in February. That first full laying year I tracked 1,247 eggs from 8 birds, which works out to about 156 eggs per bird. That's below theoretical max, but it's real-world numbers from a backyard flock with natural lighting and no supplemental light.
 
-Another scenario worth mentioning: a reader named Dana from central Ohio messaged me last spring. She'd bought 4 Barred Rock hens as started pullets from a feed store in March, put them in a 4x8 converted shed, and was disappointed with production by June. We talked through her setup. The waterer was undersized ([a 3-gallon fount](https://www.amazon.com/s?k=chicken+waterer+3+gallon&tag=backyardchick-20) for 4 large hens in summer heat). She upgraded to a 5-gallon horizontal nipple waterer, gave them more shade, and production jumped from 2 eggs a day to 3 to 4 within two weeks. Hydration and heat stress were the problem, not the breed.
+Another scenario worth mentioning: a reader named Dana from central Ohio messaged me last spring. She'd bought 4 Barred Rock hens as started pullets from a feed store in March, put them in a 4x8 converted shed, and was disappointed with production by June. We talked through her setup. The waterer was undersized ([a 3-gallon fount](https://www.amazon.com/s?k=chicken+waterer+3+gallon&tag=contentportfo-20) for 4 large hens in summer heat). She upgraded to a 5-gallon horizontal nipple waterer, gave them more shade, and production jumped from 2 eggs a day to 3 to 4 within two weeks. Hydration and heat stress were the problem, not the breed.
 
 ---
 

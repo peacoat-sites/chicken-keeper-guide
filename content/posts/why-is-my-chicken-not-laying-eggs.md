@@ -39,7 +39,7 @@ I'll be honest: I didn't fully understand the biology here until my third year o
 
 What surprised me was how fast this happens. It can be a matter of two to three weeks from the equinox before you notice a real dip. And some breeds respond more dramatically than others: my Easter Eggers will basically quit in winter, while Rhode Island Reds tend to push through a bit better. Production breeds like the Leghorn are particularly photoperiod-sensitive.
 
-If you want to extend your winter production, a simple 40-watt bulb on a timer set to kick on at 4 a.m. will usually do it. You want to add light in the morning rather than the evening, so the birds aren't suddenly plunged into darkness mid-dusk, which can cause them to miss their roost. I've used the BN-LINK timer (runs about $12 on Amazon, [check current price here](https://www.amazon.com/s?k=BN-LINK+timer+outlet&tag=backyardchickens-20)) for years with no issues. Keep in mind that artificially extending a hen's laying season also means she'll hit her "retirement" sooner. The research on whether this meaningfully shortens a hen's productive life is genuinely mixed, so you have to decide what matters more to you.
+If you want to extend your winter production, a simple 40-watt bulb on a timer set to kick on at 4 a.m. will usually do it. You want to add light in the morning rather than the evening, so the birds aren't suddenly plunged into darkness mid-dusk, which can cause them to miss their roost. I've used the BN-LINK timer (runs about $12 on Amazon, [check current price here](https://www.amazon.com/s?k=BN-LINK+timer+outlet&tag=contentportfo-20)) for years with no issues. Keep in mind that artificially extending a hen's laying season also means she'll hit her "retirement" sooner. The research on whether this meaningfully shortens a hen's productive life is genuinely mixed, so you have to decide what matters more to you.
 
 ---
 
@@ -87,7 +87,7 @@ Predator pressure at night is a sneaky one. If something is regularly disturbing
 
 The first two years I kept chickens, I was cheap about feed. I bought whatever layer pellets were on sale without reading the protein percentages, and I couldn't figure out why my production was inconsistent. What I eventually learned: layer feed needs to be at least 16% protein to maintain reasonable production, and many budget brands cut corners. A 20% protein feed will outperform a 14% feed on egg production numbers, full stop.
 
-Calcium is the other piece. A laying hen needs about 4 grams of calcium per day to form an eggshell. If she can't get enough from her feed, her body will pull it from her bones. You'll start seeing soft-shelled or shell-less eggs as an early warning. Separate oyster shell offered free-choice (not mixed into the feed) lets each hen calibrate her own intake. I've been running a small gravity-fed oyster shell dispenser in my coop for years and it's genuinely one of the most useful things I added. A [simple ceramic dish](https://www.amazon.com/s?k=chicken+oyster+shell+holder&tag=backyardchickens-20) costs almost nothing.
+Calcium is the other piece. A laying hen needs about 4 grams of calcium per day to form an eggshell. If she can't get enough from her feed, her body will pull it from her bones. You'll start seeing soft-shelled or shell-less eggs as an early warning. Separate oyster shell offered free-choice (not mixed into the feed) lets each hen calibrate her own intake. I've been running a small gravity-fed oyster shell dispenser in my coop for years and it's genuinely one of the most useful things I added. A [simple ceramic dish](https://www.amazon.com/s?k=chicken+oyster+shell+holder&tag=contentportfo-20) costs almost nothing.
 
 One scenario worth naming: hen on scratch-heavy diet → production drops, soft shells appear → switched to quality 18% layer pellets plus free-choice oyster shell → full production resumed in about three weeks. I've seen this pattern play out more than once when people treat scratch grains as feed instead of a treat.
 
@@ -126,7 +126,7 @@ Most of the time, you'll find your answer by step four.
 - [Merck Veterinary Manual](https://www.merckvetmanual.com/): Clinical reference for poultry reproductive disorders and infectious diseases
 - [Poultry Science Journal (Oxford Academic)](https://academic.oup.com/ps): Peer-reviewed research on laying hen nutrition, photoperiod response, and breed production data
 - [Penn State Extension](https://extension.psu.edu/): Backyard poultry guides including molt management and layer nutrition
-- [The Chicken Health Handbook, Gail Damerow (Storey Publishing)](https://www.amazon.com/Chicken-Health-Handbook-Gail-Damerow/dp/1612120091/ref=as_li_tl?tag=backyardchickens-20): The single most useful reference I've found for diagnosing health and production issues
+- [The Chicken Health Handbook, Gail Damerow (Storey Publishing)](https://www.amazon.com/Chicken-Health-Handbook-Gail-Damerow/dp/1612120091/ref=as_li_tl?tag=contentportfo-20): The single most useful reference I've found for diagnosing health and production issues
 
 ---
 

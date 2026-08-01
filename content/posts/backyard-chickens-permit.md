@@ -96,7 +96,7 @@ Friend in a suburban Illinois township (unincorporated, not inside a city): coun
 
 Even with a valid permit, you're not protected from nuisance complaints. Most municipal chicken ordinances are silent on things like smell management, fly control, and noise from hens (which is real, especially with breeds like Easter Eggers or Leghorns that vocalize loudly). A permit gets you legal standing; it doesn't immunize you from a neighbor filing a nuisance complaint with your city's code enforcement office.
 
-Keep your coop clean. [Diatomaceous earth](https://www.amazon.com/s?k=food+grade+diatomaceous+earth+chicken+coop&tag=backyardchicken-20) cuts down on flies noticeably. [Coop deodorizer products like Sweet PDZ](https://www.amazon.com/s?k=sweet+pdz+horse+stall+refresher&tag=backyardchicken-20) actually work on ammonia, which is the main odor complaint in warm months. I've been using it for four years and my nearest neighbor (about 40 feet away) has never complained.
+Keep your coop clean. [Diatomaceous earth](https://www.amazon.com/s?k=food+grade+diatomaceous+earth+chicken+coop&tag=contentportfo-20) cuts down on flies noticeably. [Coop deodorizer products like Sweet PDZ](https://www.amazon.com/s?k=sweet+pdz+horse+stall+refresher&tag=contentportfo-20) actually work on ammonia, which is the main odor complaint in warm months. I've been using it for four years and my nearest neighbor (about 40 feet away) has never complained.
 
 The practical reality is that your relationship with your neighbors is more protective than any piece of paper from the city.
 

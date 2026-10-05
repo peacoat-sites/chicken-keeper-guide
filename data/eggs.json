@@ -1,14 +1,8 @@
 {
- "as_of": "2026-07",
+ "as_of": "2026-08",
  "unit": "USD per dozen, Grade A large, U.S. city average",
  "source": "U.S. Bureau of Labor Statistics via FRED (series APU0000708111)",
  "series": [
-  {
-   "month": "2025-06",
-   "price": 3.77,
-   "mom": -0.77,
-   "yoy_pct": 39.0
-  },
   {
    "month": "2025-07",
    "price": 3.6,
@@ -80,6 +74,12 @@
    "price": 2.19,
    "mom": 0.05,
    "yoy_pct": -39.2
+  },
+  {
+   "month": "2026-08",
+   "price": 2.27,
+   "mom": 0.08,
+   "yoy_pct": -36.7
   }
  ]
 }

@@ -55,7 +55,7 @@ One 5-gallon setup serves 8-12 adult hens without needing daily refills in moder
 
 Chicks under two weeks are actually the easiest to train. Touch the nipple pin gently with your finger until a small drop appears, then guide the chick's beak to it. They'll peck at the movement and get a taste. Done. Most will be self-sufficient within an hour of that first guided contact.
 
-Adult hens switching from open water are the real challenge. My usual protocol: remove the open waterer entirely for 4-6 hours on a mild day (not a 95-degree afternoon), then tap each nipple in front of each hen individually. Some get it immediately. A few stubborn ones will take two days of gentle guidance. I've never had a bird fail to learn it, but I've had a couple try my patience. The key is resisting the urge to put the old waterer back out "just for tonight." That resets the whole process.
+Adult hens switching from open water are the real challenge. To transition adult hens, remove the open waterer entirely for 4-6 hours on a mild day (not a 95-degree afternoon), then tap each nipple in front of each hen individually. Some get it immediately. A few stubborn ones will take two days of gentle guidance. Avoid putting the old waterer back out "just for tonight," as that resets the whole process.
 
 Scenario: Three-year-old [Barred Rock](/barred-rock-chickens/) flock of 8 hens, converted in late March 2024. Removed open waterer at 8 a.m., did one training pass with each bird by hand at noon. By the following morning, all eight were using the nipples without prompting. Water consumption was normal by day two.
 

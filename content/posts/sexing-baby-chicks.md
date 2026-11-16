@@ -53,13 +53,13 @@ What most people don't realize is that "pullet" on a hatchery order form typical
 
 **Color sexing** works on certain sex-linked hybrid breeds where males and females hatch out different colors. Black Sex-Links and Red Sex-Links are the most common examples. At hatch, a Black Sex-Link female is black with a gold or reddish head spot; males are black with white wing tips. This is essentially 100% accurate when you're working with a true sex-link cross, because it's genetics, not interpretation. If accuracy matters more than breed flexibility, honestly, ordering sex-link hybrids is the most reliable approach most backyard keepers have access to.
 
-**DNA sexing** is the gold standard. A small feather sample or a drop of blood, sent to a lab, and you get a definitive answer. Avian Biotech charges around $19-25 per bird currently, with turnaround time of a few days. For most backyard flock owners adding 6 chicks, the cost adds up fast. But if you're hatching your own rare breed chicks from an expensive breeding flock, or you've got a bird you're emotionally attached to before you know its sex (it happens), this is worth every penny. I've used it twice. No regrets either time.
+**DNA sexing** is the gold standard. A small feather sample or a drop of blood, sent to a lab, and you get a definitive answer. Avian Biotech charges around $19-25 per bird currently, with turnaround time of a few days. For most backyard flock owners adding 6 chicks, the cost adds up fast. But if you're hatching your own rare breed chicks from an expensive breeding flock, or you've got a bird you're emotionally attached to before you know its sex (it happens), this is worth every penny.
 
 ## The Old Wives' Tales Section (Which I Know You're Here For)
 
-Hanging a needle over the chick. Egg shape predicting sex before hatch. Holding the egg up to a light. The way a chick holds its head. None of these work. They perform at chance level. I've watched people swear by the needle method and be right, which is exactly what happens when you flip a coin enough times.
+Hanging a needle over the chick. Egg shape predicting sex before hatch. Holding the egg up to a light. The way a chick holds its head. None of these work. They perform at chance level. People who swear by the needle method may get it right sometimes, but that's what happens with any guess repeated enough times.
 
-I'd push back on one popular belief specifically: that you can predict sex by behavior in young chicks. The idea is that cockerels are bolder, more upright, more confrontational even at a few days old. I've seen this claim repeated constantly, and honestly, there's a grain of truth in it for some individuals, but it is wildly unreliable as a method. I raised a Speckled Sussex pullet who was the most confrontational, chest-forward bird in the brooder for the first three weeks. She laid her first egg in October. Behavior gives you a hunch. It does not give you an answer.
+I'd push back on one popular belief specifically: that you can predict sex by behavior in young chicks. The idea is that cockerels are bolder, more upright, more confrontational even at a few days old. There's a grain of truth in it for some individuals, but it is wildly unreliable as a method. A bold, chest-forward chick in the brooder could grow into a pullet just as easily as a cockerel. Behavior gives you a hunch. It does not give you an answer.
 
 ## What Actually Helps When You're Watching Chicks Grow
 
@@ -67,15 +67,13 @@ I'd push back on one popular belief specifically: that you can predict sex by be
 
 - [Lauren Heaton](https://www.pexels.com/@lauren-heaton-76106296)
 
-
 If you're hatching your own eggs or [buying straight-run chicks](/buying-chicks-online/), you're waiting for secondary sex characteristics to develop. By 3-4 weeks, cockerels in most breeds will start showing slightly thicker legs, a more upright posture, and early comb development that's pinker and larger than the pullets'. By 6-8 weeks it becomes fairly obvious in most dual-purpose breeds like Rhode Island Reds, Plymouth Rocks, and Wyandottes.
 
-Silkies and a few other breeds are genuinely difficult even at 12 weeks. I've seen experienced keepers get Silkie sexes wrong at 3 months. If you want Silkie hens and can't tolerate any roosters, buy DNA-sexed birds or sex-link hybrids. The Silkie situation is its own special chaos.
+Silkies and a few other breeds are genuinely difficult even at 12 weeks. Even experienced keepers can get Silkie sexes wrong at 3 months. If you want Silkie hens and can't tolerate any roosters, buy DNA-sexed birds or sex-link hybrids. The Silkie situation is its own special chaos.
 
 One useful trick: photograph your chicks weekly and compare the comb and wattle development side by side. What looks subtle in the moment becomes obvious when you line up week 3 next to week 6. I started doing this after I convinced myself I had five pullets and ended up with three cockerels. The photos made it clear in retrospect that I'd been ignoring obvious signs.
 
 ---
-
 
 ---
 

@@ -27,7 +27,7 @@ faqs:
 
 Most chicken keepers agonize over this question longer than it deserves. Rice is fine. Both kinds. Let's move past that and talk about what actually matters: how much, in what form, and where rice fits into the bigger picture of what your flock eats.
 
-I've been throwing kitchen scraps to chickens for a decade, and rice has always been in the rotation. Never lost a bird to it. Never saw a crop impaction I could trace back to rice. The "uncooked rice expands in birds' stomachs" thing is a myth that's been thoroughly debunked, and it applies to wild birds too, by the way. Scientists have looked at this. Rice is just starchy food.
+The claim that uncooked rice expands in birds' stomachs is a myth. Rice is just starchy food.
 
 That said, "chickens can eat rice" isn't the whole story. There are real nuances around quantity, variety, and how rice interacts with a balanced diet.
 
@@ -41,11 +41,9 @@ Brown rice is nutritionally better than white. More fiber, more B vitamins, more
 
 ## The Nutritional Picture
 
-Here's the thing people miss: rice is almost entirely carbohydrates. Good energy source, essentially zero protein. For laying hens, that matters, because protein is what builds eggs. A hen pumping out an egg a day needs around 15-18% protein in her diet. Rice provides almost none of that.
-
+Rice is almost entirely carbohydrates. Good energy source, essentially zero protein. For laying hens, that matters, because protein is what builds eggs. A hen pumping out an egg a day needs around 15-18% protein in her diet. Rice provides almost none of that.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Approximate protein content: common chicken treats vs. needs</div><div class="sc-row"><span class="sc-label">Laying hen daily need</span><span class="sc-track"><span class="sc-bar" style="width:30%"></span></span><span class="sc-val">16 % protei</span></div><div class="sc-row"><span class="sc-label">Mealworms (dried)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">53 % protei</span></div><div class="sc-row"><span class="sc-label">Sunflower seeds</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">21 % protei</span></div><div class="sc-row"><span class="sc-label">Cooked egg</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">13 % protei</span></div><div class="sc-row"><span class="sc-label">White rice (cooked)</span><span class="sc-track"><span class="sc-bar" style="width:6%"></span></span><span class="sc-val">3 % protei</span></div><div class="sc-row"><span class="sc-label">Brown rice (cooked)</span><span class="sc-track"><span class="sc-bar" style="width:8%"></span></span><span class="sc-val">4 % protei</span></div><div class="sc-src">Source: USDA FoodData Central &amp; poultry nutrition guidelines</div></div>
-
 
 Rice fits in the treat category. The old guideline I use: treats shouldn't exceed 10% of total daily intake. For a standard laying hen eating roughly 4-5 ounces of feed a day, that's maybe half an ounce of rice, tops.
 
@@ -85,6 +83,5 @@ After 6 weeks, treat foods become more reasonable, though I still wait until bir
 - The Old Farmer's Almanac rice-and-wild-birds myth debunking, citing wildlife biologist James Baxter's research on uncooked rice digestibility in birds
 
 ---
-
 
 *Photo: [UNDO KIM](https://www.pexels.com/@undo-kim-2153633398) via Pexels*

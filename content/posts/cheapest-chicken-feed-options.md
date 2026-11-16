@@ -49,9 +49,7 @@ Here's the comparison laid out plainly:
 
 Scratch grains deserve a note: they're cheap but they're not feed. Protein is too low to sustain laying. A lot of new keepers buy scratch because it's inexpensive and the hens go nuts for it, then wonder why production drops in winter. Don't use scratch as your primary feed.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average cost per pound by feed type (July 2026)</div><div class="sc-row"><span class="sc-label">Generic layer pellets</span><span class="sc-track"><span class="sc-bar" style="width:45%"></span></span><span class="sc-val">$0.3</span></div><div class="sc-row"><span class="sc-label">Name-brand pellets</span><span class="sc-track"><span class="sc-bar" style="width:68%"></span></span><span class="sc-val">$0.5</span></div><div class="sc-row"><span class="sc-label">Bulk co-op mix</span><span class="sc-track"><span class="sc-bar" style="width:30%"></span></span><span class="sc-val">$0.2</span></div><div class="sc-row"><span class="sc-label">Fermented bulk grain</span><span class="sc-track"><span class="sc-bar" style="width:23%"></span></span><span class="sc-val">$0.2</span></div><div class="sc-row"><span class="sc-label">Organic layer pellets</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$0.8</span></div><div class="sc-row"><span class="sc-label">Scratch grains</span><span class="sc-track"><span class="sc-bar" style="width:34%"></span></span><span class="sc-val">$0.3</span></div><div class="sc-src">Source: Feed store surveys, USDA AMS grain reports, 2026</div></div>
-
 
 ## Fermented Feed: The Cheapest Option Per Calorie
 
@@ -59,7 +57,7 @@ This is where I'd tell almost any keeper with more than four birds to start. Fer
 
 The process isn't complicated. Take bulk whole grains (wheat, barley, oats, corn, or a mix) from a local mill or co-op, cover with water in a bucket, add a splash of raw apple cider vinegar to kickstart the culture, and wait 2 to 4 days at room temperature. You'll know it's ready by the slightly tangy, yeasty smell, not sour or rotten, more like sourdough starter. Feed it wet, daily. The hens will clean it up in minutes.
 
-Scenario: A reader named Kim from outside Columbus, Ohio emailed me last spring. She had 12 hens and was spending about $95/month on Purina Layena. She switched to fermented bulk wheat and barley from a local Mennonite grain mill at $0.19/lb combined. Her monthly feed cost dropped to $41. Egg production stayed flat. She noticed shells got noticeably thicker within three weeks, which she attributed to better calcium absorption from the fermented mix (though I'll be honest, the data on that specific claim is more anecdotal than controlled).
+Scenario: Many keepers report significant savings by switching to fermented bulk wheat and barley from local grain mills, sometimes at $0.19/lb combined or less. Feed costs can drop by half or more while maintaining egg production. Some notice thicker eggshells within a few weeks, though the reasons aren't well-established in controlled studies.
 
 One thing nobody warns you about: wet fermented feed goes bad fast in summer heat. In July in Tennessee, you've got maybe 6 hours before it starts to turn. I learned this the hard way when I found my flock refusing a bucket I'd left out since noon. If your temps are above 85°F, feed smaller amounts more frequently, or stick to dry feed through the hottest weeks.
 
@@ -69,7 +67,7 @@ This is the biggest cost lever most suburban keepers never use, purely because t
 
 Feed mills and grain co-ops will often sell direct in bulk, 100-pound minimums are common, sometimes 50 pounds for a small-flock "courtesy split." You're buying the same ingredients that go into bagged commercial feed, usually without the pelleting and branding markup. Local mills in the Midwest typically charge $0.17 to $0.26 per pound for whole or cracked grain mixes. The USDA Agricultural Marketing Service's grain price reports track regional wholesale prices, and as of mid-2026, soft red winter wheat is trading around $4.80 to $5.20 per bushel at the elevator, that's roughly $0.09 per pound at origin, before retail markup.
 
-The catch: you need to balance the ration yourself, or buy a pre-mixed formulation from the mill. Whole grains alone don't hit the nutritional profile laying hens need. At minimum, you're supplementing with oyster shell calcium, and ideally a vitamin/mineral premix. Mills often sell these separately for a few dollars per pound. [Fertrell Nutri-Balancer](https://www.amazon.com/s?k=fertrell+nutri+balancer&tag=contentportfo-20) is the one I've used, it's a dry supplement you add to your own grain mix to complete the nutrition profile. (Affiliate link; the site may earn a commission.)
+The catch: you need to balance the ration yourself, or buy a pre-mixed formulation from the mill. Whole grains alone don't hit the nutritional profile laying hens need. At minimum, you're supplementing with oyster shell calcium, and ideally a vitamin/mineral premix. Mills often sell these separately for a few dollars per pound. [Fertrell Nutri-Balancer](https://www.amazon.com/s?k=fertrell+nutri+balancer&tag=contentportfo-20) is a dry supplement you add to your own grain mix to complete the nutrition profile. (Affiliate link; the site may earn a commission.)
 
 Scenario: Grain co-op purchase for 6 hens over 3 months. Bought a 150-pound split bag of a wheat/corn/barley blend at $0.21/lb = $31.50. Added Fertrell supplement at ~$0.03/lb blended in. Versus buying three 50-lb bags of Purina Layena at $26 each = $78. Net savings: $43.50 over the quarter. Egg production, shell quality, and yolk color were indistinguishable.
 
@@ -81,7 +79,7 @@ Kitchen scraps are legal in most U.S. states for backyard flocks (check your loc
 
 Garden surplus, squash, wilted greens, overripe tomatoes, spent corn cobs, all reduces your bought-feed consumption meaningfully. The Penn State Extension service has published data suggesting kitchen and garden supplementation can reduce commercial feed reliance by 10 to 15 percent in backyard flocks during summer months. That's not transformative, but it's real.
 
-Black soldier fly larvae (BSFL) deserve a mention as a protein supplement, not a primary feed. At $1.10 to $2.40 per pound, they're expensive per pound but extremely protein-dense. A small daily handful replaces much more protein than the weight suggests. I use dried BSFL from [Grubbly Farms](https://www.amazon.com/s?k=grubbly+farms+grubs&tag=contentportfo-20) during molt season when my hens need extra protein. It's not cheap, but it's cheaper than watching a flock struggle through molt on insufficient nutrition.
+Black soldier fly larvae (BSFL) deserve a mention as a protein supplement, not a primary feed. At $1.10 to $2.40 per pound, they're expensive per pound but extremely protein-dense. A small daily handful replaces much more protein than the weight suggests. Dried BSFL from sources like [Grubbly Farms](https://www.amazon.com/s?k=grubbly+farms+grubs&tag=contentportfo-20) works well during molt season when hens need extra protein. It's not cheap, but it's cheaper than watching a flock struggle through molt on insufficient nutrition.
 
 ## What Actually Doesn't Save You Money
 
@@ -100,7 +98,6 @@ Growing your own grain sounds appealing. The math almost never works out at smal
 - Fertrell Company nutritional formulation data: Supplement ratios for small-flock grain balancing
 
 ---
-
 
 *Photo: [raja j](https://www.pexels.com/@gamerxtc) via Pexels*
 

@@ -25,7 +25,7 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 lastmod: 2026-07-08
 ---
-Most new chicken keepers walk into the feed store, grab whatever bag has a chicken on the label, and call it done. I did the same thing my first year. Then I watched my Rhode Island Reds go through a rough molt, my egg production crater in November, and my rooster develop a limp I later traced back to a calcium-phosphorus imbalance. Twelve years and 200-plus birds later, I can tell you that what you put in that feeder matters far more than most people realize. Chickens aren't complicated, but they're not as forgiving as the "just toss them scratch" advice would have you believe.
+Most new chicken keepers walk into the feed store, grab whatever bag has a chicken on the label, and call it done. What you put in that feeder matters far more than most people realize. Chickens aren't complicated, but they're not as forgiving as the "just toss them scratch" advice would have you believe.
 
 ## The Foundation: Commercial Layer Feed and Why It's Non-Negotiable
 
@@ -47,9 +47,9 @@ One thing people miss: layer feed is specifically for laying hens. Don't feed it
 
 Baby chicks need starter feed, and this is where the protein conversation gets serious. Chick starter runs 20 to 24 percent protein because those little bodies are building muscle, bone, and organ tissue at a rate they'll never match again. Skimp on protein in the brooder and you'll see feather picking, slow development, and birds that never quite reach their genetic potential.
 
-You'll see both medicated and unmedicated starter on the shelf. Medicated starter contains amprolium, which helps prevent coccidiosis, an intestinal parasite that kills a lot of chicks, especially in warm, damp conditions. If your chicks came from a hatchery and were vaccinated for Marek's disease but not cocci, medicated starter is worth using. If you hatched your own eggs and your birds weren't vaccinated, some vets recommend unmedicated starter paired with a clean, dry brooder. Honestly, for most backyard keepers buying chicks in spring, medicated starter is fine and probably prevents a lot of heartbreak.
+You'll see both medicated and unmedicated starter on the shelf. Medicated starter contains amprolium, which helps prevent coccidiosis, an intestinal parasite that kills a lot of chicks, especially in warm, damp conditions. If your chicks came from a hatchery and were vaccinated for Marek's disease but not cocci, medicated starter is worth using. If you hatched your own eggs and your birds weren't vaccinated, some vets recommend unmedicated starter paired with a clean, dry brooder. For most backyard keepers buying chicks in spring, medicated starter is fine and probably prevents a lot of heartbreak.
 
-Around 8 to 10 weeks, transition to a grower feed, which steps the protein back to around 18 percent. Hold here until your pullets reach laying age, roughly 18 to 20 weeks depending on the breed. Then switch to layer feed. Don't rush it. I've seen people switch their pullets to layer too early thinking it would speed up laying. It doesn't. It just stresses their kidneys.
+Around 8 to 10 weeks, transition to a grower feed, which steps the protein back to around 18 percent. Hold here until your pullets reach laying age, roughly 18 to 20 weeks depending on the breed. Then switch to layer feed. Don't rush it. Switching pullets to layer feed too early won't speed up laying and can stress their kidneys.
 
 ## Treats, Scraps, and What You Can Feed From the Kitchen
 
@@ -61,7 +61,7 @@ Safe and genuinely beneficial treats include:
 - **Cooked eggs:** Yes, feed them eggs. Scrambled eggs are one of the highest-quality protein sources you can give during molt or stress recovery.
 - **Mealworms:** Dried mealworms are about 53 percent protein. A small handful per bird goes a long way. Don't overdo it; too much protein causes loose droppings and, in extreme cases, kidney damage.
 - **Plain cooked rice, oatmeal, or pasta:** Fine in small amounts. Low nutrition, but not harmful.
-- **Most vegetables and fruit:** Squash, cucumber, watermelon, berries. Watermelon rinds in summer are something my flock absolutely loses its mind over.
+- **Most vegetables and fruit:** Squash, cucumber, watermelon, berries.
 
 Things to avoid:
 
@@ -77,7 +77,7 @@ The 10 percent rule is real. Treats and scraps should not exceed 10 percent of y
 
 Two things every chicken keeper needs to have on hand, and many don't: grit and oyster shell.
 
-Chickens don't have teeth. They grind their food in their gizzard, and they need small stones or grit to do that. If your birds free range, they'll pick up grit naturally. If they're in a run with a dirt floor, they probably find enough. If they're on a solid floor or in a confined space, you need to supply it. Insoluble granite grit, sold in small, medium, and large sizes for different ages, is what you want. [Manna Pro Poultry Grit](https://www.amazon.com/s?k=manna+pro+poultry+grit) (affiliate link) is what I've used for years. Just keep a small container in the coop and let them free-feed it.
+Chickens don't have teeth. They grind their food in their gizzard, and they need small stones or grit to do that. If your birds free range, they'll pick up grit naturally. If they're in a run with a dirt floor, they probably find enough. If they're on a solid floor or in a confined space, you need to supply it. Insoluble granite grit, sold in small, medium, and large sizes for different ages, is what you want. [Manna Pro Poultry Grit](https://www.amazon.com/s?k=manna+pro+poultry+grit) (affiliate link) works well. Just keep a small container in the coop and let them free-feed it.
 
 Oyster shell is a calcium supplement, and it's separate from grit. Layer feed does contain calcium, but high-producing breeds like ISA Browns or Leghorns often need more, especially in peak laying season. I keep a small [hanging feeder cup](https://www.amazon.com/s?k=chicken+oyster+shell+feeder) (affiliate link) of oyster shell in every coop and let hens take what they need. They're smarter about this than you'd think. A hen who needs more calcium will eat it; one who doesn't will largely ignore it.
 
@@ -91,7 +91,7 @@ Chickens' nutritional needs shift with the seasons, and most guides gloss right 
 
 In winter, laying hens need more energy to stay warm. You can bump this by offering a small amount of cracked corn or black oil sunflower seeds in the late afternoon. These are higher in fat and carbohydrates, and the digestive process generates heat overnight, which genuinely helps birds in cold climates. Don't go heavy on it; a small handful per bird is plenty. Think of it as a warm blanket, not a meal.
 
-In summer, feed consumption often drops because birds are hot and not inclined to eat as much. Their protein needs stay the same, but intake goes down. This is when fermented feed can help. Fermenting your layer pellets in water for 48 to 72 hours increases digestibility, makes nutrients more bioavailable, and the slightly sour smell actually encourages eating in heat. I ferment about 30 percent of my flock's feed from June through August and see noticeably better condition through the hot months.
+In summer, feed consumption often drops because birds are hot and not inclined to eat as much. Their protein needs stay the same, but intake goes down. This is when fermented feed can help. Fermenting your layer pellets in water for 48 to 72 hours increases digestibility, makes nutrients more bioavailable, and the slightly sour smell actually encourages eating in heat.
 
 During molt, which typically happens in fall and can last 8 to 16 weeks, bump your protein. Feathers are about 85 percent protein. A molting hen is not laying, and she's putting everything into regrowing her coat. Switch to a 20 percent protein flock raiser or grower feed temporarily, add a few tablespoons of dried mealworms daily, and ease off treats that dilute protein intake. Birds come out of molt faster and in better condition when you support them this way.
 
@@ -104,7 +104,6 @@ During molt, which typically happens in fall and can last 8 to 16 weeks, bump yo
 - [hanging feeder cup](https://www.amazon.com/s?k=chicken+oyster+shell+feeder)
 - [Rooster Booster Vitamins & Electrolytes](https://www.amazon.com/s?k=rooster+booster+vitamins+electrolytes)
 - [poultry waterer](https://www.amazon.com/s?k=chicken+waterer+automatic)
-
 
 A lot of new keepers ask how much to feed. Here's what actually works:
 

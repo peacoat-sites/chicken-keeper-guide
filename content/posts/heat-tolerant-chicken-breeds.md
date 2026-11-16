@@ -35,7 +35,7 @@ So after that summer, I went deep on this. Talked to keepers in Arizona, Louisia
 
 I assumed smaller birds handle heat better because they generate less body heat. That's partially true, but it misses the bigger factor: it's really about how a bird radiates heat away from its body.
 
-Chickens don't sweat. They pant and they lose heat through their combs, wattles, and bare facial skin. This is why large-combed Mediterranean breeds like Leghorns and Andalusians do so well in hot climates. That big single comb is essentially a radiator. More surface area, more blood flow close to the skin, more heat shed into the air. When I switched part of my flock to Leghorns, the difference in summer behavior was immediate. They were active, foraging, and eating normally at temperatures where my heavier breeds were panting in the shade at 9 AM.
+Chickens don't sweat. They pant and they lose heat through their combs, wattles, and bare facial skin. This is why large-combed Mediterranean breeds like Leghorns and Andalusians do so well in hot climates. That big single comb is essentially a radiator. More surface area, more blood flow close to the skin, more heat shed into the air. Leghorns tend to remain active and continue foraging at temperatures where heavier breeds are panting in the shade.
 
 Body conformation matters too. Mediterranean-type birds tend to be lighter, tighter-feathered, and more upright. Less insulating fluff traps heat against the body. [Cochins or Brahmas](/cold-hardy-chicken-breeds/) were designed for exactly the opposite: heavy, fluffy, and cold-hardy. Beautiful birds. Wrong birds for July in Georgia.
 
@@ -54,7 +54,7 @@ Dark-feathered breeds absorb more solar radiation. On a sunny day in a run witho
 
 The lists floating around the internet often include breeds that are "okay" in heat but not genuinely well-suited to serious summer heat. I'm going to skip the wishy-washy middle ground.
 
-**White Leghorn.** Top pick, period. They're flighty, loud, and not particularly friendly, but they're built for heat. Italian Mediterranean heritage shows in everything they do. They eat less feed per egg than almost any other breed, they don't go broody obsessively, and I've watched them keep laying through Texas summers when everything else in my flock was on strike. Hatchery white Leghorns run about $3-5 as day-old chicks from places like Meyer Hatchery or Cackle Hatchery.
+**White Leghorn.** Top pick, period. They're flighty, loud, and not particularly friendly, but they're built for heat. Italian Mediterranean heritage shows in everything they do. They eat less feed per egg than almost any other breed and don't go broody obsessively. Hatchery white Leghorns run about $3-5 as day-old chicks from places like Meyer Hatchery or Cackle Hatchery.
 
 **Egyptian Fayoumi.** This one surprises most people. Fayoumis come from the Nile Delta region and they're genuinely heat-adapted, not just heat-tolerant. Small birds, around 3.5 lbs, active, great foragers, and remarkably disease-resistant. They mature faster than almost any other breed and start laying around 18 weeks. The real downside: they're wild. Flighty doesn't cover it. They can clear a 6-foot fence without a runway. But if you free-range or have a covered run and you live somewhere brutally hot, Fayoumis deserve a serious look. What surprised me most was how well they handled humid heat, not just dry Arizona-style heat.
 
@@ -73,16 +73,15 @@ The lists floating around the internet often include breeds that are "okay" in h
 - [horizontal nipple waterer system](https://www.amazon.com/s?k=chicken+horizontal+nipple+waterer)
 - [Robert So](https://www.pexels.com/@robertkso)
 
-
 Even the best heat-tolerant breed will struggle if your setup fights against them.
 
-Shade first. Permanent shade from trees or shade cloth (I've used 70% black shade cloth from Amazon, roughly $30-40 for a 10x12 panel) matters more than almost any single breed choice. A Leghorn in a shadeless run will suffer. A Rhode Island Red in deep shade with good airflow will do better than you'd expect.
+Shade first. Permanent shade from trees or shade cloth (70% black shade cloth typically costs $30-40 for a 10x12 panel) matters more than almost any single breed choice. A Leghorn in a shadeless run will suffer. A Rhode Island Red in deep shade with good airflow will do better.
 
 Ventilation in the coop is non-negotiable. Hot air rises. If your coop has ventilation only at the eaves but nothing lower, you're baking your birds. Cross-ventilation with openings on both sides makes a genuine difference. I've added hardware cloth windows to every coop since 2018 specifically for summer airflow.
 
 Water access during summer needs to be more than "available." Chickens drink significantly more water in heat, and they'll stop eating if they can't drink enough, which triggers a downward spiral. Multiple waterers, checking them twice a day in extreme heat, and keeping them in shade. A [horizontal nipple waterer system](https://www.amazon.com/s?k=chicken+horizontal+nipple+waterer) keeps water cleaner and cooler than an open bucket baking in the sun.
 
-Electrolytes genuinely help during heat events. Sav-A-Chick electrolyte packets (about $5 for a three-pack) dissolved in water during heat waves have made a noticeable difference in my flock's behavior and recovery. It's not a cure, but it's real support.
+Electrolytes can help during heat events. Sav-A-Chick electrolyte packets (about $5 for a three-pack) dissolved in water during heat waves support recovery and help birds through the stress.
 
 If you're starting a flock from scratch in a hot climate, just start with the right birds. The Leghorn's personality quirks are a small price to pay for a bird that keeps laying in August when everyone else's flock has gone on strike. And if you've already got cold-hardy birds and you're dealing with heat, the management stuff above isn't optional. It's what stands between your flock and a very bad day.
 

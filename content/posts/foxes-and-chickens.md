@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Three of my hens died on a Tuesday morning before I'd even had my coffee. I went out to let them out of the run and found feathers everywhere, a hole dug under the hardware cloth, and two Buff Orpingtons gone completely. The third was dead inside the coop. A fox had gotten under the apron, through a gap I thought was too small to matter, and done what foxes do.
+A fox can slip through surprisingly small gaps in run defenses. Predators often exploit openings that seem too tight to matter, especially under aprons or at ground level where hardware cloth pulls away from posts.
 
 That was year two for me. I thought I'd been careful. I wasn't.
 
@@ -34,7 +34,7 @@ Foxes are the predator that gets experienced chicken keepers, not just beginners
 
 ## How Foxes Actually Hunt (And Why Your Current Setup Might Not Be Enough)
 
-What most people don't realize is that foxes don't usually crash through your defenses. They probe them. I've watched trail cam footage from my property and from readers who've sent me theirs, and the pattern is consistent: a fox will visit three, four, sometimes five nights in a row, walking the perimeter of a run, testing corners, pushing at the base. It's looking for give. A loose staple, a spot where the wire has pulled away from a post, an apron that ends two inches short.
+Foxes typically don't crash through defenses; they probe them methodically. A fox will often visit multiple nights in a row, walking the perimeter of a run, testing corners and pushing at the base. They're looking for any weak point: a loose staple, wire pulled away from a post, or an apron that ends short of full coverage.
 
 Red foxes (Vulpes vulpes) are the species most backyard keepers deal with across North America and Europe. Gray foxes are common in the Southeast and Southwest and are better climbers, which matters for coop design. Both are crepuscular, meaning peak activity at dawn and dusk, which is exactly when your birds are going in or coming out.
 
@@ -71,7 +71,7 @@ Hardware cloth on the top is ideal but expensive for large runs. A lot of keeper
 
 ## Timing, Locks, and the One Mistake I Keep Seeing
 
-Foxes in my area are most active between 4:30 and 7:30 a.m. and again from about an hour before sunset until full dark. That's not guessing; that's two years of trail cam data from my property plus what the Cornell Lab of Ornithology and similar wildlife tracking resources consistently show.
+Foxes are typically most active between 4:30 and 7:30 a.m. and from about an hour before sunset until full dark, according to the Cornell Lab of Ornithology and similar wildlife tracking resources.
 
 Your birds need to be locked in before dusk. Not at dusk. Before it.
 
@@ -89,7 +89,7 @@ Predator urine (coyote, wolf): the research here is genuinely mixed. Anecdotally
 
 Livestock guardian dogs are the most effective biological deterrent by a significant margin. A Great Pyrenees or Anatolian Shepherd dog living with the flock will deter foxes, coyotes, raccoons, and hawks. This is a real commitment though, not a casual addition. These dogs need training, proper socialization with the flock, and management. I don't personally run an LGD because my suburban setup doesn't accommodate one well, but if you have the space and the setup, it's the best long-term solution to most predator pressure.
 
-Electric poultry netting (like Premier 1's PoultryNet, around $90-130 for a 42-inch by 100-foot roll) is effective and gives free-ranging birds a protected outdoor area. A fox that hits a charged fence once usually doesn't come back. The catch is you have to keep the grass under it trimmed, or it shorts out and stops working. I've seen people set it up, let the grass grow into it by week three, wonder why the fox got back in.
+Electric poultry netting (like Premier 1's PoultryNet, around $90-130 for a 42-inch by 100-foot roll) is effective and gives free-ranging birds a protected outdoor area. A fox that hits a charged fence once usually doesn't come back. The catch is you have to keep the grass under it trimmed, or it shorts out and stops working.
 
 Scenario: Keeper with a large backyard flock (14 hens) losing 1-2 birds per month to foxes over a summer. Running open free-range with no fencing. Added Premier 1 PoultryNet around a half-acre grazing area, kept apron on attached run, began locking birds up 30 minutes before sunset. Result: zero predator losses over the following 5 months, confirmed by trail cam showing fox visits that turned back at the fence line.
 
@@ -102,6 +102,5 @@ Scenario: Keeper with a large backyard flock (14 hens) losing 1-2 birds per mont
 - USDA Wildlife Services, "Reducing Fox Predation on Poultry": methodology for exclusion fencing and apron installation, with documented loss reduction rates
 
 ---
-
 
 *Photo: [Brett Jordan](https://www.pexels.com/@brettjordan) via Pexels*

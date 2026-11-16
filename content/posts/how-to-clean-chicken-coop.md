@@ -25,7 +25,7 @@ author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 lastmod: 2026-07-08
 ---
-There's a smell that every chicken keeper knows. You open the coop door on a warm morning, and it hits you like a wall: ammonia, damp shavings, and something that falls somewhere between a barn and a locker room. If your eyes are watering before you even step inside, the coop is overdue for a serious clean. I've been there more times than I can count, and after 12 years of keeping chickens, I've learned that coop cleaning isn't just about comfort. It's one of the most direct things you do to protect your flock's health.
+There's a smell that every chicken keeper knows. You open the coop door on a warm morning, and it hits you like a wall: ammonia, damp shavings, and something that falls somewhere between a barn and a locker room. If your eyes are watering before you even step inside, the coop is overdue for a serious clean. Coop cleaning isn't just about comfort. It's one of the most direct things you do to protect your flock's health.
 
 ## Why Coop Cleanliness Matters More Than You Think
 
@@ -140,9 +140,6 @@ These three things get overlooked in a lot of coop-cleaning guides, and they abs
 - [Precision Pet nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads)
 - [droppings board](https://www.amazon.com/s?k=chicken+droppings+board)
 - [nipple-style waterer system](https://www.amazon.com/s?k=chicken+nipple+waterer)
-
-
-After a decade-plus of this, I've made all of these.
 
 **Cleaning too infrequently and then expecting a fast fix.** Litter that's been ignored for months takes serious time and effort. When ammonia smell becomes the reason you finally act, you're already behind.
 

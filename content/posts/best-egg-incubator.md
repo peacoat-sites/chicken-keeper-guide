@@ -29,7 +29,6 @@ The first incubator I ever bought cost me $34 on Amazon, and it killed every sin
 
 I'm telling you this because most "best incubator" articles are written by people who've never actually hatched a chick, and they're going to recommend that same $34 garbage based on star ratings from people who've also never hatched a chick. Let's skip that.
 
-
 <div class="value-module">
   <div class="vm-head">Incubator Feature Comparison by Price Tier</div>
   <div class="vm-body">
@@ -55,7 +54,7 @@ The [Brinsea Mini Advance](https://www.amazon.com/s?k=brinsea+mini+advance+incub
 
 **Brinsea Ovation 28 Advance EX** ($350-$400): Holds 28 chicken eggs. Automatic humidity pump. All the bells and whistles. Genuinely excellent. If you're hatching multiple breeds or doing this regularly, this is it. Yes, it's expensive. It's also the last incubator most people will ever need to buy.
 
-**HovaBator Genesis 1588** ($80-$90): The workhorse choice for people who want reliability without Brinsea prices. It's forced-air, pre-set to 99.5°F, and holds temperature reasonably well out of the box. No built-in turner, so you'll need to add the optional [egg turner for HovaBator](https://www.amazon.com/s?k=hovabator+egg+turner&tag=contentportfo-20) for another $25-$30. Humidity control is manual. I've seen people hit 85-90% hatch rates with these if they pay attention. That's solid.
+**HovaBator Genesis 1588** ($80-$90): The workhorse choice for people who want reliability without Brinsea prices. It's forced-air, pre-set to 99.5°F, and holds temperature reasonably well out of the box. No built-in turner, so you'll need to add the optional [egg turner for HovaBator](https://www.amazon.com/s?k=hovabator+egg+turner&tag=contentportfo-20) for another $25-$30. Humidity control is manual. Many keepers report 85-90% hatch rates with these if they pay attention. That's solid.
 
 **What I'd avoid**: Any incubator under $50 claiming automatic turning and digital humidity control. I'm not saying none of them work. The failure rate is just high enough that you're gambling with your eggs every single time.
 
@@ -66,7 +65,6 @@ The [Brinsea Mini Advance](https://www.amazon.com/s?k=brinsea+mini+advance+incub
 - [Brinsea Mini Advance](https://www.amazon.com/s?k=brinsea+mini+advance+incubator&tag=contentportfo-20)
 - [egg turner for HovaBator](https://www.amazon.com/s?k=hovabator+egg+turner&tag=contentportfo-20)
 - [Jahra Tasfia Reza](https://www.pexels.com/@jahratreza)
-
 
 Run your incubator empty for 24 hours before you set eggs. Monitor the temperature at multiple points if possible. Find out where your hot spots are. This seems obvious but I'd say 40% of people skip this and then wonder why hatch rates are poor.
 

@@ -31,9 +31,7 @@ You might be wondering if you've already been feeding your flock peels with no p
 
 I made this mistake myself in my second year of keeping chickens. I was composting potato trimmings and figured the girls could help process them. Tossed in a mix of peels, some with a definite green tinge from potatoes that had been sitting on my counter near a window. Nothing dramatic happened, but I didn't connect a few days of sluggish behavior and loose droppings to the peels until a chicken-keeping friend asked me specifically about green potatoes. I looked it up properly for the first time. I haven't fed green peels since.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">White or pale yellow potato peels with no greening are generally safe in small amounts for chickens.</li><li style="margin:5px 0">Green peels, sprouted peels, or any peel from light-exposed potatoes can contain solanine levels dangerous to chickens.</li><li style="margin:5px 0">Solanine above 20 mg/100g causes toxicity; green potato skin can reach 100+ mg/100g (Food Chemistry journal data).</li><li style="margin:5px 0">Cooked plain peels (no salt, butter, or seasoning) are safer than raw because some solanine breaks down with heat.</li><li style="margin:5px 0">Potato peels should never exceed about 5-10% of daily feed intake, and they offer minimal nutritional value.</li></ul></div>
-
 
 ## The Solanine Problem Is Real (and Underestimated)
 
@@ -63,9 +61,7 @@ One thing that took me a while to internalize: the safe/unsafe line isn't really
 
 Potato peels aren't a superfood for chickens. They're mostly starchy carbohydrates, a bit of fiber, and trace amounts of potassium and vitamin C. For context:
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Approx. solanine content by potato peel type (mg per 100g)</div><div class="sc-row"><span class="sc-label">Non-green, dark-stored peel</span><span class="sc-track"><span class="sc-bar" style="width:8%"></span></span><span class="sc-val">8 mg/100g</span></div><div class="sc-row"><span class="sc-label">Lightly green peel</span><span class="sc-track"><span class="sc-bar" style="width:37%"></span></span><span class="sc-val">35 mg/100g</span></div><div class="sc-row"><span class="sc-label">Heavily green peel</span><span class="sc-track"><span class="sc-bar" style="width:89%"></span></span><span class="sc-val">85 mg/100g</span></div><div class="sc-row"><span class="sc-label">Sprouted peel</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">95 mg/100g</span></div><div class="sc-src">Source: Potato Research journal (2020 review)</div></div>
-
 
 | Peel type | Avg. solanine (mg/100g) | Safe for chickens? | Notes |
 |---|---|---|---|
@@ -80,7 +76,7 @@ One practical scenario worth knowing: a small mixed flock of six hens given a cu
 
 ## What About Sweet Potato Peels?
 
-This is the follow-up question most people have right about now, and the answer is actually good news. Sweet potatoes are not related to white/Russet potatoes botanically (they're in the morning glory family, not nightshades), so they contain no solanine. Sweet potato peels, including the skin and flesh, are generally considered safe for chickens raw or cooked, and my flock goes absolutely wild for them. They're higher in beta-carotene than regular potato peels, which can actually boost yolk color a bit in heavy-feeding periods.
+This is the follow-up question most people have right about now, and the answer is actually good news. Sweet potatoes are not related to white/Russet potatoes botanically (they're in the morning glory family, not nightshades), so they contain no solanine. Sweet potato peels, including the skin and flesh, are generally considered safe for chickens raw or cooked, and They're higher in beta-carotene than regular potato peels, which can actually boost yolk color a bit in heavy-feeding periods.
 
 The one caveat: like anything starchy and sweet, don't overdo it. A couple of handfuls for a small flock a few times a week is plenty.
 
@@ -93,6 +89,5 @@ The one caveat: like anything starchy and sweet, don't overdo it. A couple of ha
 - Merck Veterinary Manual (current edition): Glycoalkaloid toxicity in poultry, clinical signs, and management.
 
 ---
-
 
 *Photo: [Bulat Khamitov](https://www.pexels.com/@bulat) via Pexels*

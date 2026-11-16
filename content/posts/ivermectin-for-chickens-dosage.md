@@ -35,7 +35,7 @@ Ivermectin covers a lot of ground in chickens. It's effective against external p
 
 I mention this because a lot of keepers throw ivermectin at every worm situation and then wonder why the problem keeps coming back. Knowing what you're treating affects which formulation makes sense, the frequency, and whether you're even solving the right problem.
 
-For mite infestations, which are honestly what most backyard keepers are dealing with, ivermectin is one of the best tools available. I've used it on flocks with heavy northern fowl mite loads where every other topical was failing, and it cleared things up within two treatment cycles.
+For mite infestations, which are honestly what most backyard keepers are dealing with, ivermectin is one of the best tools available.
 
 ## Formulations: This Is Where People Get Confused
 
@@ -69,9 +69,9 @@ A practical note: most people eyeball a small drop on the skin for standard-size
 
 Nobody tells you this upfront, and it frustrates me that it's buried in forum threads instead of front and center.
 
-Ivermectin is detectable in eggs after treatment. Studies have shown residue in eggs for anywhere from 7 to 28 days depending on the formulation and dose. The USDA has no established tolerance for ivermectin residue in poultry eggs because it's not an approved drug for laying hens, which means there's also no official withdrawal period.
+Ivermectin is detectable in eggs after treatment. Residue has been detected in eggs for anywhere from 7 to 28 days depending on the formulation and dose. The USDA has no established tolerance for ivermectin residue in poultry eggs because it's not an approved drug for laying hens, which means there's also no official withdrawal period.
 
-Here's what I tell people: most experienced keepers and many avian vets use a 14-day egg withdrawal for topical doses at standard levels. Some go to 21 days to be safe. I personally use 17 days as my rule because that's what my vet recommended, and I don't have a strong reason to argue with that. I don't treat layers during peak production if I can avoid it, and I plan treatments in late fall when egg production naturally drops.
+Most experienced keepers and many avian vets use a 14-day egg withdrawal for topical doses at standard levels. Some go to 21 days to be safe. Many keepers avoid treating layers during peak production when possible, and plan treatments in late fall when egg production naturally drops.
 
 If you're selling eggs or giving them to people who are immune-compromised or pregnant, be conservative. Discard eggs for three weeks post-treatment, no exceptions.
 
@@ -81,7 +81,6 @@ If you're selling eggs or giving them to people who are immune-compromised or pr
 
 - [Durvet Ivermectin Pour-On](https://www.amazon.com/s?k=durvet+ivermectin+pour-on&tag=contentportfo-20)
 - [Thành Đỗ](https://www.pexels.com/@dothanhyb)
-
 
 A lot of online guides push ivermectin as the first-line treatment for every flock health problem involving crawling things. I'd push back on that. If you're seeing [lice specifically](/chicken-lice-treatment/) (flat, yellowish, fast-moving), permethrin-based dust or spray is actually more targeted and doesn't require an egg withdrawal of the same magnitude. Permethrin isn't absorbed systemically in the same way.
 

@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most backyard flock owners have never seen a case of Newcastle disease in person. I hadn't either, for the first six years I kept chickens. Then a neighbor two miles down the road lost 40 birds in eight days, and I spent a very anxious week watching my hens for symptoms I'd only read about. That experience changed how seriously I take biosecurity.
+Most backyard flock owners never encounter Newcastle disease firsthand. An outbreak in a nearby flock can spread quickly and wipe out a large number of birds in just over a week. Cases like this underscore why biosecurity matters even when the disease hasn't appeared in your area.
 
 If you're reading this because you're worried about your flock right now, or because you just heard the words "Newcastle disease" and want to understand what you're actually dealing with, you're in the right place. This isn't a scary disease to learn about. It's a manageable one, once you know what it actually does, how it spreads, and what to do (and not do) in response.
 
@@ -120,6 +120,5 @@ This is an area where I'll admit my opinion isn't universally shared: for a smal
 - Swayne, D.E. et al. (2020): *Diseases of Poultry*, 14th edition, Wiley-Blackwell. The authoritative reference text used by poultry vets and researchers worldwide
 
 ---
-
 
 *Photo: [Mark Eclipse](https://www.pexels.com/@mark-eclipse-789564498) via Pexels*

@@ -22,9 +22,7 @@ Here's the short version: almost everything [backyard keepers](/new-usda-poultry
 
 The reason this matters [right now](/drug-resistant-salmonella-is-surging-in-backyard-flocks-right-now/) goes beyond a community forum event. FlockGuide's May 2026 guide, citing veterinary sources, puts the production hit from a worm burden at 20 to 30 percent of a hen's egg output, often with no obvious outward symptoms. Your birds can look fine, eat normally, and still be quietly losing a third of their laying capacity to internal parasites. That's a real loss.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Safe-Guard AquaSol (fenbendazole) is the only FDA-approved dewormer for laying hens, with a 0-day egg withdrawal.</li><li style="margin:5px 0">Valbazen and standard Safe-Guard granules are extra-label use; egg withdrawal periods are based on community practice, not official testing.</li><li style="margin:5px 0">A worm burden can silently reduce egg production by 20–30% with no obvious symptoms.</li><li style="margin:5px 0">Treat only when worms are confirmed or strongly suspected, not on a routine calendar schedule.</li><li style="margin:5px 0">State lab necropsy is a reliable, often affordable way to confirm the specific worm species before treating.</li></ul></div>
-
 
 ## The One Product That's Actually FDA-Approved
 
@@ -51,7 +49,7 @@ None of this means those other products are dangerous. But you should know what 
 
 ## Don't Treat Until You Know What You're Treating
 
-This is where I see backyard keepers make the most expensive mistake. Routine deworming, dosing every bird on a set calendar schedule regardless of whether worms are present, isn't what experts recommend. Most backyard hens do carry some level of worms from soil contact, insects, and exposure to other birds. That's not automatically a problem requiring intervention.
+A common expensive mistake is this: Routine deworming on a set calendar schedule regardless of whether worms are present isn't necessary. Most backyard hens do carry some level of worms from soil contact, insects, and exposure to other birds. That's not automatically a problem requiring intervention.
 
 The smarter approach is to confirm before you treat. A fecal float test, which your vet can run or which you can send to a lab yourself, will show you what worm species are present and how heavy the burden is. A state diagnostic lab necropsy, if you lose a bird, can give you even more detailed information. The BYC community thread mentioned above is a good example of how that process actually works in practice: a keeper lost a hen, sent it to the state lab, and got back a specific diagnosis with a specific treatment recommendation. That's the information you need to choose the right product.
 

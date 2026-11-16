@@ -53,7 +53,7 @@ Here's where I'll take a clear position that some people won't like: in most of 
 
 That said, I'm not going to pretend there are no situations where supplemental heat makes sense. If you're in Minnesota with a flock of Leghorns (a Mediterranean breed with a large single comb and genuinely poor cold tolerance), or if you have bantams, very young pullets going into their first winter, or birds recovering from illness, supplemental heat is a reasonable choice. Just be smart about it.
 
-If you do use heat, the safest options currently available are flat panel radiant heaters like the Cozy Products CL Flat Panel Chicken Coop Heater, which runs about $65-75 and has a much lower fire risk profile than heat lamps because it doesn't get hot enough to ignite bedding on contact, or oil-filled radiant heaters designed for poultry buildings. I've used the Cozy Products panel for three seasons in my bantam section. It keeps that space about 10-12°F warmer than ambient without running up the electricity bill to absurd levels.
+If you do use heat, the safest options currently available are flat panel radiant heaters like the Cozy Products CL Flat Panel Chicken Coop Heater, which runs about $65-75 and has a much lower fire risk profile than heat lamps because it doesn't get hot enough to ignite bedding on contact, or oil-filled radiant heaters designed for poultry buildings.
 
 What I'd absolutely avoid: heat tape coiled around pipes inside the coop (fire risk, inconsistent output), cheap clip-on heat lamps with plastic housings, and any open-coil ceramic heater not rated for agricultural use.
 
@@ -77,7 +77,7 @@ A hen generating enough body heat to stay warm in cold weather is burning more c
 
 A few practical things I do every winter:
 
-I switch to a higher-fat scratch blend in the afternoon, specifically cracked corn mixed with black oil sunflower seeds. Corn is metabolized relatively quickly and generates heat during digestion, and sunflower seeds add fat-soluble calories. I give this as a late-afternoon supplement, not as a replacement for complete layer feed. The distinction matters. I've seen flocks where well-meaning keepers replaced a significant portion of their layer feed with scratch and ended up with soft-shelled eggs and feather-pecking problems by February from protein deficiency.
+I switch to a higher-fat scratch blend in the afternoon, specifically cracked corn mixed with black oil sunflower seeds. Corn is metabolized relatively quickly and generates heat during digestion, and sunflower seeds add fat-soluble calories. I give this as a late-afternoon supplement, not as a replacement for complete layer feed. The distinction matters. Replacing a significant portion of layer feed with scratch can lead to soft-shelled eggs and feather-pecking problems from protein deficiency.
 
 Water is the other critical piece. Hens won't drink adequately from frozen waterers, and dehydrated hens stop laying within a day or two. The simplest reliable solution I've found is a heated base like the Farm Innovators Model HP-125, which runs about $30-35 and keeps a standard metal fount from freezing down to about 10°F. For severe climates, the API heated poultry fount, around $55-60, handles lower temps and is more durable in my experience.
 

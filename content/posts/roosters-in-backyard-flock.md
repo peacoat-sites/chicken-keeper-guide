@@ -29,7 +29,7 @@ Nobody warns you about the noise at 3 a.m.
 
 Not the hatchery website. Not the cheerful Facebook group. Not even the neighbor who sold you your first six pullets and swore their rooster "barely crows." Every rooster crows before dawn, during dawn, after dawn, at passing cars, at shadows, at nothing. If you're in a suburban neighborhood and you want to keep the peace with a four-foot property line between you and someone who wakes up early, you need to know what you're actually signing up for before a cockerel shows up in your straight-run order.
 
-That said, a good rooster is genuinely one of the better things you can add to a backyard flock. I've kept roosters for most of my ten years with chickens, and the difference between a flock with a calm, attentive cockerel and one without is real. The hens are calmer. Foraging behavior improves. If a hawk circles, you want a rooster watching.
+That said, a good rooster is genuinely one of the better things you can add to a backyard flock. A calm, attentive rooster can make a noticeable difference in flock behavior. The hens are calmer. Foraging behavior improves. If a hawk circles, you want a rooster watching.
 
 But deciding whether to get one is only half the question. Breed matters enormously. Management matters. And there are failure modes nobody talks about until you've lost a hen or had to rehome a rooster you were attached to.
 
@@ -66,9 +66,9 @@ Here's how I'd actually rank common choices:
 
 **Buff Orpington** is the most consistent recommendation I can make for someone who wants a rooster they can handle, that their kids can be around, and that won't shred their hens' backs. Big, slow-moving, generally calm. The tradeoff is they're not particularly sharp-eyed predator watchers. They're better at alerting to presence than taking action.
 
-**Australorp** roosters are underrated. Alert, not aggressive toward people if handled well from a young age, reasonably gentle with hens. I've kept two over the years and had good experiences with both.
+**Australorp** roosters are underrated. Alert, not aggressive toward people if handled well from a young age, reasonably gentle with hens.
 
-**Easter Egger** cockerels are a gamble. Personality variance is high because they're not a standardized breed. I've had one that was genuinely sweet and one that needed to go at five months because he was drawing blood on pullets.
+**Easter Egger** cockerels are a gamble. Personality variance is high because they're not a standardized breed. Personality can vary widely, from calm to aggressive toward hens.
 
 **Rhode Island Red** roosters have a earned reputation for aggression. This is one of those cases where I'll just say: plenty of people have calm RIR roosters, but the breed skews more aggressive than most. If you have children in the yard regularly, look elsewhere first.
 
@@ -107,7 +107,6 @@ A few breeds are so hardwired for aggression that no amount of correct handling 
 - [Hen saddles on Amazon](https://www.amazon.com/s?k=hen+saddles+for+chickens)
 - [Rooster no-crow collars on Amazon](https://www.amazon.com/s?k=no+crow+rooster+collar)
 - [Sóc Năng Động](https://www.pexels.com/@soc-nang-d-ng-2150345854)
-
 
 Roosters crow. A lot. Peak crowing is pre-dawn through mid-morning, but they don't stop there. Many crow in response to any loud noise, any change in light (passing headlights), any disturbance in the flock. I clocked my current rooster crowing 40+ times between 5:15 and 8 a.m. one morning in spring.
 

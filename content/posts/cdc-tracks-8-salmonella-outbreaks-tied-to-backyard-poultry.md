@@ -14,7 +14,7 @@ slug: "cdc-tracks-8-salmonella-outbreaks-tied-to-backyard-poultry"
 affiliate_disclosure: false
 lastmod: 2026-07-07
 ---
-If you've got a backyard flock right now, this is the week to pay attention. As of June 17, 2026, the CDC is actively investigating eight simultaneous multistate Salmonella outbreaks all linked to backyard poultry contact. That's not eight separate incidents that happened over a year. That's eight concurrent outbreak strains being tracked at the same time, with 513 confirmed illnesses across 42 states and one U.S. territory, 134 hospitalizations, and one death. When I first saw the numbers, I assumed it was being reported in that breathless, overcautious public health way that makes chicken keepers roll their eyes. It's not. This is genuinely serious.
+If you've got a backyard flock right now, this is the week to pay attention. As of June 17, 2026, the CDC is actively investigating eight simultaneous multistate Salmonella outbreaks all linked to backyard poultry contact. That's not eight separate incidents that happened over a year. That's eight concurrent outbreak strains being tracked at the same time, with 513 confirmed illnesses across 42 states and one U.S. territory, 134 hospitalizations, and one death. These numbers represent a genuinely serious situation, not an example of overcautious public health messaging.
 
 ## Eight Outbreaks at Once Is Not Normal
 

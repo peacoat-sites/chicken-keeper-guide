@@ -45,7 +45,7 @@ Any one of these alone might have another explanation. Multiple signs together, 
 
 ## The Wild Bird Problem Nobody Has Solved
 
-Fifty-four percent of survey respondents said wild birds could access their flock or its food and water. I've been in that category at various points in my keeping life, and it's genuinely hard to prevent in certain yard setups. But that number is alarming given where we are right now with HPAI.
+Fifty-four percent of survey respondents said wild birds could access their flock or its food and water. Depending on your yard setup, preventing this access can be genuinely difficult. But that number is alarming given where we are right now with HPAI.
 
 Iowa recorded its fifth and sixth backyard flock HPAI detections of 2026 by early April, according to Sentient Media's March 2026 coverage of the ongoing spring migration risk. Wisconsin saw over 4 million birds affected across commercial and backyard flocks in a single 30-day period. Wild waterfowl are the primary reservoir for H5N1, and spring migration is still moving birds north through the Midwest and Great Plains. If your feeders, waterers, or ranging area are accessible to wild birds right now, that's the most direct risk factor you can actually control.
 

@@ -46,7 +46,7 @@ This matters to backyard keepers because it explains both why ISA Browns perform
 | Temperament | Calm, curious, easy to handle | Varies by breed | ISA Browns notably calmer than Leghorns |
 | Lifespan (practical) | 3 years or less | 7-8 years | Expected, not edge cases, for production hybrids |
 
-I've kept a lot of breeds over the years. Barred Rocks, Black Australorps, Easter Eggers, Buff Orpingtons. I like heritage birds. But the first time I kept ISA Browns, the egg production still caught me off guard.
+ISA Browns are known for exceptionally heavy egg production, which can surprise keepers used to heritage breeds like Barred Rocks, Black Australorps, Easter Eggers, and Buff Orpingtons.
 
 These hens routinely lay 300 to 320 eggs per year in their first laying cycle. That's not a marketing claim. That's a medium-brown egg, nearly every single day, from around 18 to 20 weeks of age through their first molt. A flock of six ISA Browns at peak production will bury you in eggs. I've given away more dozens than I can count.
 
@@ -78,7 +78,7 @@ One thing worth knowing: ISA Browns are almost always sex-linked at hatch, meani
 
 No exotic requirements here. A quality 16-18% protein layer pellet works well for the majority of their laying life. I currently feed my laying flock Purina Layena Plus Omega-3 (around $25-28 for a 40-pound bag depending on your area), and ISA Browns do well on it. During heavy production periods, I supplement with extra calcium through crushed oyster shell offered free-choice in a separate container rather than mixed into the feed. Hens will regulate their own calcium intake better than you can dose it for them.
 
-Because they lay so heavily, don't skimp on calcium. Soft-shelled eggs are one early sign they're coming up short. The [Manna Pro Oyster Shell](https://www.amazon.com/Manna-Pro-Crushed-Oyster-Shell/dp/B0002DJPLU?tag=contentportfo-20) (affiliate link) is a reliable, affordable option I've used for years.
+Because they lay so heavily, don't skimp on calcium. Soft-shelled eggs are one early sign they're coming up short. The [Manna Pro Oyster Shell](https://www.amazon.com/Manna-Pro-Crushed-Oyster-Shell/dp/B0002DJPLU?tag=contentportfo-20) (affiliate link) is a reliable, affordable option.
 
 Fresh water, access to grit if they're free-ranging, and a coop with adequate ventilation is the unglamorous truth of keeping ISA Browns healthy. They're not delicate birds, but they can't tolerate poor ventilation or chronic stress as well as a hardier heritage breed. Keep the coop clean. That's most of it.
 
@@ -89,11 +89,9 @@ Fresh water, access to grit if they're free-ranging, and a coop with adequate ve
 - [Manna Pro Oyster Shell](https://www.amazon.com/Manna-Pro-Crushed-Oyster-Shell/dp/B0002DJPLU?tag=contentportfo-20)
 - [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283)
 
-
 You'll find them at most major hatcheries: Cackle Hatchery, Meyer Hatchery, Hoover's Hatchery. Tractor Supply Co. stocks them seasonally as well. Quality is generally consistent across sources because the genetics are so standardized, though I'd still lean toward a hatchery that vaccinates for Marek's disease as a baseline. It's an easy thing to ask when you're ordering.
 
 ---
-
 
 ---
 

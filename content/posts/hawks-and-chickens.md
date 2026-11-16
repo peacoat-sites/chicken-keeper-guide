@@ -29,7 +29,7 @@ Roughly 300 million birds are killed by raptors in North America every year, acc
 
 Most chicken-keeping advice on hawks follows a depressing formula: hang some CDs, get a rooster, you'll be fine. That's not advice. That's wishful thinking dressed up as a tip. Hawks are smart, adaptable, and in most of the U.S., federally protected under the Migratory Bird Treaty Act of 1918, which means you cannot legally shoot, trap, or relocate them. Your only real option is deterrence and structural defense. Let's talk about what actually works.
 
-I've lost birds to Red-tailed Hawks, Cooper's Hawks, and once, humiliatingly, a Sharp-shinned Hawk that couldn't have weighed more than 9 ounces. The first time I watched a Cooper's Hawk take a bird, it happened in under four seconds. I stood at the window, still holding my coffee, completely useless.
+Red-tailed Hawks, Cooper's Hawks, and Sharp-shinned Hawks all prey on backyard chickens. A Cooper's Hawk can take a bird in seconds, making prevention essential.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Red-tailed and Cooper's Hawks are the two most common backyard flock predators in the continental U.S.</li><li style="margin:5px 0">The Migratory Bird Treaty Act fully protects all raptors, lethal control is illegal and can cost up to $15,000 in fines.</li><li style="margin:5px 0">Hardware cloth overhead netting (not chicken wire) is the only 100% reliable aerial predator barrier.</li><li style="margin:5px 0">Roosters reduce hawk predation measurably, but free-ranging flocks still need overhead cover or netting.</li><li style="margin:5px 0">Guinea fowl alarm calls give chickens roughly 8-12 seconds of warning, enough time to reach cover if it's close enough.</li></ul></div>
 
@@ -55,7 +55,7 @@ Reflective tape and old CDs. I tried them. They work for maybe two weeks before 
 
 Fake owls, hawk decoys, and plastic predator shapes. Same problem. Hawks aren't dumb. A stationary fake owl in the same spot every morning is not a threat. A study from Purdue's Department of Forestry and Natural Resources found that stationary visual deterrents lose effectiveness within 5-7 days for most corvids and raptors. [Chickens are](/chickens-are-now-americas-third-most-popular-pet/) smart enough to ignore them too, which tells you something.
 
-Chicken wire overhead. This one genuinely surprises people. Standard poultry netting (the hexagonal stuff) has gaps large enough for a Sharp-shinned Hawk to push through and enough flex that a determined Red-tail can rip a section loose. I've seen it happen. If you're running a covered run with chicken wire, you're providing psychological comfort, not actual protection.
+Chicken wire overhead. This one genuinely surprises people. Standard poultry netting (the hexagonal stuff) has gaps large enough for a Sharp-shinned Hawk to push through and enough flex that a determined Red-tail can rip a section loose. If you're running a covered run with chicken wire, you're providing psychological comfort, not actual protection.
 
 ## What Actually Works
 
@@ -83,8 +83,6 @@ A realistic comparison of your protection options:
 
 ## When You Have an Active Hawk Problem Right Now
 
-A reader in central Oregon emailed me last winter after losing four birds in nine days to what she eventually confirmed was a Cooper's Hawk. Here's what worked:
-
 Scenario: Repeated Cooper's Hawk targeting in a 1/4-acre free-range yard with no overhead cover.
 Action taken: Ran three temporary string lines 18 inches apart across the yard at about 6-foot height using 50-lb braided fishing line, added a large-breed rooster (borrowed from a neighbor for two weeks), and kept the flock confined until 10 a.m. each day since Cooper's Hawks are most active at dawn.
 Result: Zero losses in the following six weeks. The hawk shifted territory.
@@ -97,9 +95,9 @@ If you have a hawk actively sitting on your property, contact the USDA Wildlife 
 
 Some breeds are better at self-preservation than others. This is real, not folk wisdom.
 
-Mediterranean breeds like Leghorns are flighty, alert, and fast. They're also terrible at staying calm under pressure, which can actually make them easier prey if the whole flock panics at once. Dual-purpose breeds like Barred Rocks, Dominiques, and New Hampshire Reds tend to respond well to alarm calls and move for cover without scattering into the open. In my experience, Dominiques are the sharpest prey-awareness birds I've kept. They're watching the sky constantly.
+Mediterranean breeds like Leghorns are flighty, alert, and fast. They're also terrible at staying calm under pressure, which can actually make them easier prey if the whole flock panics at once. Dual-purpose breeds like Barred Rocks, Dominiques, and New Hampshire Reds tend to respond well to alarm calls and move for cover without scattering into the open. Dominiques are known for sharp prey-awareness and tend to watch the sky constantly.
 
-Silkies, Cochins, heavily feathered breeds, and Polish birds with crests that block upward vision are hawk-bait. I say this without judgment because I've kept all of them, but you should go in knowing that a frizzle Cochin is not built to survive a Cooper's Hawk encounter the way a [Rhode Island Red](/rhode-island-red-chickens/) is.
+Silkies, Cochins, heavily feathered breeds, and Polish birds with crests that block upward vision are more vulnerable to hawks. A frizzle Cochin is not built to survive a Cooper's Hawk encounter the way a [Rhode Island Red](/rhode-island-red-chickens/) is.
 
 ## Sources
 

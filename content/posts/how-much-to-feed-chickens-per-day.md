@@ -51,7 +51,7 @@ This is the question that sparks genuine debate in the poultry community. Both w
 
 **Measured or scheduled feeding** means offering a set amount once or twice daily, usually in the morning and late afternoon. You get precise control. You'll spot health problems early, too. A hen eating significantly less than usual is often the first sign something's wrong. And it reduces overnight feed sitting in the feeder where rodents can find it.
 
-I've had better results with free choice feeding for backyard flocks that have outdoor access. The birds stay active, their appetites stay regulated, and egg production stays consistent. Measured feeding makes more sense in high-humidity climates where wet feed spoils quickly, in flocks with obesity-prone breeds, or when you're actively monitoring for illness.
+Free choice feeding works well for backyard flocks that have outdoor access. The birds stay active, their appetites stay regulated, and egg production stays consistent. Measured feeding makes more sense in high-humidity climates where wet feed spoils quickly, in flocks with obesity-prone breeds, or when you're actively monitoring for illness.
 
 One practical middle ground: use a feeder with enough capacity to keep feed available all day, but fill it each morning and note roughly how much gets consumed. You get the benefits of both approaches.
 
@@ -101,7 +101,6 @@ Some foods should never make it into the scraps bucket regardless of portion siz
 
 - [Grandpa's Feeders Automatic Chicken Feeder](https://www.amazon.com/dp/B08N5PFLTK?tag=contentportfo-20)
 - their flocks consuming 20 to 30 percent less commercial feed
-
 
 Getting consistent with feeding pays off quickly in flock health and egg production. Here's how to dial it in.
 

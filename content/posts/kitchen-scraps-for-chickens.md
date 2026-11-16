@@ -91,7 +91,6 @@ Feeding scraps is simple, but a few habits make a real difference.
 
 ## The Benefits You'll Actually Notice
 
-
 | Kitchen Scrap | Safe for Chickens | Notes |
 | --- | --- | --- |
 | Leafy greens (kale, spinach, chard, lettuce) | Yes | Raw or cooked; fast favorites |
@@ -117,10 +116,9 @@ Feeding scraps is simple, but a few habits make a real difference.
 - [Amazon](https://www.amazon.com/s?k=poultry+feed+tray&tag=contentportfo-20)
 - suggests high amounts can interfere with calcium absorption
 
-
 Beyond the obvious perk of reducing food waste, feeding kitchen scraps well has a few real-world payoffs.
 
-Behavior and enrichment are the big ones. Chickens are intelligent birds and get bored in confined spaces. Tossing in a variety of scraps, especially things with different textures like corn cobs, whole grapes, or a halved pumpkin, gives them hours of pecking activity. I've seen flocks with regular scrap access show noticeably less feather-pecking and fewer squabbles, simply because they have more to do.
+Behavior and enrichment are the big ones. Chickens are intelligent birds and get bored in confined spaces. Tossing in a variety of scraps, especially things with different textures like corn cobs, whole grapes, or a halved pumpkin, gives them hours of pecking activity. Flocks with regular scrap access tend to show less feather-pecking and fewer squabbles, simply because they have more to do.
 
 Egg yolk color can actually improve with greens. Hens eating a lot of dark leafy greens and brightly colored vegetables tend to produce eggs with deeper orange yolks. This is because carotenoids in those foods get deposited in the yolk. It doesn't change the egg's nutritional profile dramatically, but it's something many keepers notice and appreciate.
 

@@ -39,7 +39,7 @@ Some foods don't just upset the stomach. They kill fast, and the margin for erro
 
 **Rhubarb leaves** contain oxalic acid that can trigger kidney failure. Some keepers report their hens have pecked at rhubarb without immediate problems, but that's not permission to test it. The leaves are definitively toxic.
 
-**Chocolate and caffeine** contain theobromine and methylxanthines, both of which disrupt heart rate and can cause seizures. Dark chocolate is especially dangerous. Honestly, there's no reason to ever give a chicken chocolate or used coffee grounds.
+**Chocolate and caffeine** contain theobromine and methylxanthines, both of which disrupt heart rate and can cause seizures. Dark chocolate is especially dangerous. There's no reason to ever give a chicken chocolate or used coffee grounds.
 
 ## Foods That Cause Problems Without Being Immediately Fatal
 
@@ -106,10 +106,9 @@ Giving scraps is one of the best parts of keeping chickens, and there's plenty y
 - [Emma Cate](https://www.pexels.com/@emmacate)
 - their hens have pecked at rhubarb without immediate problems
 
-
 Food safety isn't just about what you intentionally offer. Your chickens are omnivores with curious beaks, and they'll peck at things you never intended them to eat.
 
-If your coop is next to a garden, check what's planted near the fence line. Many ornamental plants are toxic: foxglove, oleander, hemlock, yew, azalea, and rhododendron can all cause serious problems if your flock gets to them while free ranging. I've seen keepers with beautiful flower gardens lose birds because a determined hen worked her way through a gap in the fence. Good [chicken coop predator protection](/chicken-coop-predator-protection/) also means keeping chickens contained away from hazardous plants.
+If your coop is next to a garden, check what's planted near the fence line. Many ornamental plants are toxic: foxglove, oleander, hemlock, yew, azalea, and rhododendron can all cause serious problems if your flock gets to them while free ranging. A determined hen can work her way through a gap in the fence to reach toxic plants, so it's worth checking your fence line for weak spots. Good [chicken coop predator protection](/chicken-coop-predator-protection/) also means keeping chickens contained away from hazardous plants.
 
 Bedding materials can also be a source of mold. Wet or compacted bedding grows mold colonies that chickens will peck at. Check your bedding routine and consider whether your current material is working. Our article on [chicken coop bedding options](/chicken-coop-bedding-options/) breaks down the options available.
 

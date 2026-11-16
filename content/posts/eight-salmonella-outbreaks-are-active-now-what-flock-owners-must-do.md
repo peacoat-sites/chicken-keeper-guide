@@ -32,7 +32,7 @@ The timing is not random. Most people bought their spring chicks in March or Apr
 
 The eight strains under active CDC investigation are not all equal. Saintpaul is the biggest one: 133 patients as of the June 17 investigation update. Enteritidis, Mbandaka, Indiana, and Infantis round out the list, each with its own case count, its own geographic spread, and critically, its own antibiotic resistance profile. Several of these strains are showing resistance to fosfomycin, chloramphenicol, streptomycin, sulfisoxazole, and tetracycline. That means if someone gets seriously sick, treatment options narrow fast.
 
-Seven hatcheries have been linked to outbreak strains so far. Here's the thing that trips people up: there is no recall coming. Salmonella in live birds isn't a packaged product situation where the FDA pulls SKUs off shelves. The birds stay. The CDC's guidance is entirely focused on handling practices, not flock removal. So the responsibility falls squarely on you.
+Seven hatcheries have been linked to outbreak strains so far. There will be no recall. Salmonella in live birds isn't a packaged product situation where the FDA pulls SKUs off shelves. The birds stay. The CDC's guidance is entirely focused on handling practices, not flock removal. So the responsibility falls squarely on you.
 
 ## The Kid Problem Is Bigger Than You Think
 

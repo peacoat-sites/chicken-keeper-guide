@@ -34,7 +34,6 @@ Most hatchery websites will tell you chickens live "five to ten years" and leave
 
 Here's what I've learned over ten years of keeping birds through full lifespans, including the losses.
 
-
 ## What Actually Determines How Long Your Chicken Lives
 
 | Breed Type | Typical Laying Years | Total Lifespan | Key Notes |
@@ -43,7 +42,7 @@ Here's what I've learned over ten years of keeping birds through full lifespans,
 | Heritage Breeds (Australorp, Dominique, Wyandotte, Buckeye, Java, Barred Rock) | 3-4 years | 6-12 years | Lower annual output; longer productive window; can live many years post-laying |
 | Roosters (Heritage) | N/A (non-laying) | 8-12 years | Often outlive hens; not subject to reproductive cycling stress |
 
-Genetics is the single biggest factor, and it's the one most backyard keepers underestimate. Production breeds like the ISA Brown, Golden Comet, or any "sex-link" hybrid are engineered for maximum egg output early in life. They can lay 300+ eggs in their first year. The biological cost of that output is real: their reproductive systems are under stress in a way that heritage breeds simply aren't, and they're significantly more prone to reproductive cancers, internal laying, and egg yolk peritonitis as they age. I've watched ISA Browns decline sharply around year three or four. Not all of them, but enough that I've stopped expecting those birds to become old ladies.
+Genetics is the single biggest factor, and it's the one most backyard keepers underestimate. Production breeds like the ISA Brown, Golden Comet, or any "sex-link" hybrid are engineered for maximum egg output early in life. They can lay 300+ eggs in their first year. The biological cost of that output is real: their reproductive systems are under stress in a way that heritage breeds simply aren't, and they're significantly more prone to reproductive cancers, internal laying, and egg yolk peritonitis as they age. ISA Browns often decline sharply around year three or four, though not all of them, and these birds are generally not expected to live to an old age.
 
 Heritage breeds are a different story. Australorps, Dominiques, Wyandottes, Buckeyes, Java chickens, even well-bred Barred Rocks tend to live longer, full stop. My Australorps have consistently reached six to eight years. I had a Dominique named Gladys who made it to eleven, though she spent her last two years as purely a pet. The tradeoff is that these breeds lay fewer eggs, and they start tapering off sooner per-year than the hybrids do.
 
@@ -53,10 +52,9 @@ Stress and environment matter more than most people realize. Overcrowding alone 
 
 Predator pressure is the more immediate risk, obviously. Statistically, most backyard chickens don't die of old age. They die of a predator getting into the coop, or a hawk strike, or a neighbor's dog. This is cold comfort but important context: if your flock management is good, your birds have a real shot at living out a full lifespan. If it isn't, none of the rest of this matters much.
 
-
 ## The Laying Window vs. The Living Window
 
-Here's the thing that confuses new keepers the most. The "productive" phase of a hen's life and the actual lifespan are two very different windows, and planning for only the first one leads to a lot of hard decisions down the road.
+The "productive" phase of a hen's life and the actual lifespan are two very different windows, and planning for only the first one leads to a lot of hard decisions down the road.
 
 A typical hybrid hen lays heavily for years one and two, drops off noticeably in year three, and may lay only occasionally or stop entirely by year four. A heritage hen might lay steadily for three to four years and then gradually taper over the next two or three. Either way, you can easily have a hen who stops laying at four or five and then lives another four to seven years as a non-laying flock member.
 
@@ -66,17 +64,15 @@ What I'd caution against is the middle path of vague intention: "I'll figure it 
 
 A 50-lb bag of layer feed currently runs around $25 to $35 depending on brand and region (as of July 2026, Purina Layena is sitting around $28 at most Tractor Supply locations near me). Multiply that across however many retired hens you're carrying, and it adds up fast. Budget for it or make a different plan, but don't be surprised by it.
 
-
 ## The Health Issues That Tend to End Chicken Lives
 
 Respiratory disease kills a lot of birds, often faster than owners realize. Mycoplasma gallisepticum (MG) is endemic in many backyard flocks and becomes more of a problem as birds age and their immune function declines. I lost two older hens to what I initially thought was a cold that "just wouldn't clear up" before I had a necropsy done and got an actual diagnosis. The lesson: if an older bird is showing chronic respiratory symptoms, don't wait it out for weeks assuming it'll resolve.
 
 Reproductive cancers are the other major one for hens. Ovarian and oviduct adenocarcinoma is heartbreakingly common in older laying hens, and the signs can be subtle at first: a hen that's "off," a distended abdomen, decreased appetite, labored breathing. The definitive diagnosis requires a vet and often a necropsy after the fact, but if you have an older hen with an obviously swollen belly and she's been laying less, take it seriously. It's rarely something that gets better on its own.
 
-A University of California Davis poultry extension resource I've referenced repeatedly notes that reproductive disorders are the leading cause of non-predation death in backyard hens. That lines up with what I've seen.
+According to the University of California Davis poultry extension, reproductive disorders are the leading cause of non-predation death in backyard hens.
 
-Marek's disease deserves a mention because it's misunderstood. Birds vaccinated at the hatchery (most commercially sourced chicks are) are protected from the severe paralytic form, but the vaccine doesn't prevent infection or transmission. Marek's can still flare up under stress in older birds as a more subtle immune-suppressive disease. I've seen this in a few of my older birds and didn't recognize it for what it was until a vet pointed it out.
-
+Marek's disease deserves a mention because it's misunderstood. Birds vaccinated at the hatchery (most commercially sourced chicks are) are protected from the severe paralytic form, but the vaccine doesn't prevent infection or transmission. Marek's can still flare up under stress in older birds as a more subtle immune-suppressive disease. The subtle immune-suppressive form can be hard to identify without veterinary guidance.
 
 ## Worked Examples From My Flock
 
@@ -93,7 +89,6 @@ The Cochin arrived at an estimated age of four. She lived in my care for another
 
 The honest summary of what all this looks like in practice: if you buy production hybrids, plan on a productive window of two to three years and a total lifespan that probably won't exceed five to six unless you're very lucky. If you choose heritage breeds and manage your flock well, eight to ten years is genuinely achievable, and some birds will surprise you even beyond that.
 
-
 ## Sources
 
 - University of California Cooperative Extension, Poultry Fact Sheets: Covers reproductive disorders and common causes of death in backyard hens.
@@ -103,6 +98,5 @@ The honest summary of what all this looks like in practice: if you buy productio
 - Harvey Ussery, *The Small-Scale Poultry Flock* (Chelsea Green Publishing): Covers long-term flock management, heritage breed selection, and practical lifespan considerations. [Available on Amazon](https://www.amazon.com/Small-Scale-Poultry-Flock-Revised/dp/1603587walk) (affiliate link)
 
 ---
-
 
 *Photo: [Steven Van Elk](https://www.pexels.com/@steven-van-elk-9757164) via Pexels*

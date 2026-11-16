@@ -85,7 +85,7 @@ A few practical steps to get this right:
 
 5. **Check consumption monthly.** A normal flock of six adult hens will go through roughly one to two pounds of granite grit per month if they're also foraging. If you're seeing dramatically more or less consumption than that, investigate why.
 
-If your birds are truly free-ranging on natural soil with gravel and small stones available, they may need less supplemental grit. But I've seen backyard flocks on natural ground that still benefited from supplemental grit simply because the soil type was sandy and fine-grained, without the hard angular particles a gizzard really wants.
+If your birds are truly free-ranging on natural soil with gravel and small stones available, they may need less supplemental grit. But many backyard flocks on natural ground still benefit from supplemental grit, especially if the soil is sandy and fine-grained without the hard angular particles a gizzard needs.
 
 ## Signs Your Chickens Might Be Grit-Deficient
 
@@ -106,7 +106,6 @@ If you're new to raising chickens or still building out your setup, our guide on
 ## Sources
 
 - [quality poultry grit product on Amazon](https://www.amazon.com/s?k=poultry+grit+for+chickens)
-
 
 Chicks are where grit mistakes tend to have the most immediate consequences. A gizzard impaction in a three-week-old chick can kill it within 24 to 48 hours, and by the time you notice something is wrong, it can be very difficult to treat.
 

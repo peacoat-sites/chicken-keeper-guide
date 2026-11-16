@@ -50,7 +50,7 @@ Personality-wise: they're genuinely calm. Not just compared to, say, a Leghorn. 
 
 Here's where some hatchery descriptions go soft. Silkies are not egg layers in any meaningful production sense. You'll get roughly 100 to 120 small, cream-colored eggs per year from a good layer. A Black Sex-Link does 280. A Rhode Island Red hits 250. The gap is real. If eggs are the point, Silkies are the wrong breed.
 
-What Silkies *are* exceptional at is going broody. Relentlessly, enthusiastically, almost aggressively broody. This is a feature or a flaw based entirely on your goals. Want to hatch eggs, including eggs from other breeds or even ducks? A Silkie hen is one of the best surrogate mothers you can find. They'll sit for weeks without complaint, rarely abandoning the nest, and they're attentive mothers once chicks hatch. I've used Silkie hens to hatch Marans eggs when I didn't want to run an incubator in the summer heat. Works great.
+What Silkies *are* exceptional at is going broody. Relentlessly, enthusiastically, almost aggressively broody. This is a feature or a flaw based entirely on your goals. Want to hatch eggs, including eggs from other breeds or even ducks? A Silkie hen is one of the best surrogate mothers you can find. They'll sit for weeks without complaint, rarely abandoning the nest, and they're attentive mothers once chicks hatch.
 
 If you just want eggs, all that broodiness means your hen is sitting on an empty nest instead of laying, and she'll do this multiple times a year. You can break a broody hen, but it takes consistency and time, and Silkies are stubborn about it.
 
@@ -60,7 +60,7 @@ Silkies cannot tolerate wet conditions the way other breeds handle them. Normal 
 
 Your coop needs to stay dry. Covered runs matter more with Silkies than almost any other breed. I run a 10x12 covered run attached to the main coop, and on rainy days my Silkies stay in voluntarily. Good drainage under the run helps, but the cover is non-negotiable.
 
-Roost height is another adjustment. Silkies aren't great fliers and their fluffy feet make gripping a round roost awkward. Keep roosts low, 12 inches off the ground at most, and wider than typical: 2x4 lumber laid flat works better than a round dowel. I've seen Silkies give up on roosts entirely and sleep in a pile on the coop floor, which is fine if your bedding is clean.
+Roost height is another adjustment. Silkies aren't great fliers and their fluffy feet make gripping a round roost awkward. Keep roosts low, 12 inches off the ground at most, and wider than typical: 2x4 lumber laid flat works better than a round dowel. Some Silkies may abandon roosts entirely and sleep in a pile on the coop floor, which is fine if your bedding is clean.
 
 The feathered feet also collect mud and wet litter fast. Check them regularly. Compacted mud between the toes can cut off circulation. In wet seasons I trim the foot feathers back a bit, which is easier than it sounds and makes a real difference.
 
@@ -68,7 +68,7 @@ The feathered feet also collect mud and wet litter fast. Check them regularly. C
 
 Silkies are at the bottom of almost every threat assessment. Their restricted vision from that head crest means they don't spot aerial predators until it's too late. Their docile nature means they won't run when other chickens scatter. And their size makes them easy targets.
 
-Hawks are the main concern in most suburban settings. I've lost Silkies to red-tails that ignored my larger hens entirely. A covered run solves this, but free-ranging Silkies in open areas is genuinely risky in a way that a bigger, more alert breed isn't.
+Hawks are the main concern in most suburban settings. Silkies are particularly vulnerable to aerial predators like red-tailed hawks, which may ignore larger breeds. A covered run solves this, but free-ranging Silkies in open areas is genuinely risky in a way that a bigger, more alert breed isn't.
 
 In mixed flocks, Silkies get bullied. Not sometimes. Reliably. Their fluffiness obscures their posture, making them terrible communicators in chicken body language, and other breeds will peck them down the order fast. If you want to mix Silkies with other breeds, choose equally docile companions: [Cochins, Brahmas, or Orpingtons](/orpington-chickens/) tend to coexist without too much drama. Mixing them with Easter Eggers, Australorps, or production breeds usually ends with the Silkies hiding in corners and losing weight.
 
@@ -82,7 +82,6 @@ Keeping Silkies in a separate, dedicated pen is the cleaner solution and the one
 - [Precision Pet Excelsior Nesting Pads](https://www.amazon.com/s?k=excelsior+nesting+pads+chickens&tag=contentportfo-20)
 - [Marius-Laurentiu Butan](https://www.pexels.com/@marius-laurentiu-butan-98487327)
 - definitely a chicken, but someone customized it. Personality
-
 
 The crest needs periodic trimming. Let it grow unchecked and your hen can't see well enough to find her food and water reliably, let alone spot danger. A small pair of poultry scissors and a straight trim across the front of the crest every few months is enough. Some people find this distressing aesthetically. Do it anyway.
 

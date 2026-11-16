@@ -80,7 +80,7 @@ I'm going to give you the practical version of how I assess a sneezing bird, bec
 
 **Step 4: Listen to breathing.** Pick her up, tuck her under your arm, put your ear near her head. Any clicking, rattling, or wheeze?
 
-**Step 5: Check her coop.** Seriously. Pull out your phone flashlight and look at the ventilation, the bedding condition, the feeder. I can't count how many "sick flock" situations I've seen traced back to a waterer that had been growing algae for three weeks.
+**Step 5: Check her coop.** Pull out your phone flashlight and look at the ventilation, the bedding condition, and the feeder. Many "sick flock" situations trace back to poor coop conditions, including a waterer that has been growing algae.
 
 **Scenario A:** Single hen sneezing, no discharge, no other symptoms, just came off a hot day, rest of flock fine. → Monitored for 5 days, added a second water point to reduce competition/stress, cleaned waterer. → Sneezing resolved within 3 days, no treatment needed.
 

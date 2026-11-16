@@ -125,14 +125,13 @@ Regardless of which product you choose, the two-treatment protocol matters more 
 - [liner-style nesting pads on Amazon](https://www.amazon.com)
 - [Durvet Permethrin Dust](https://www.amazon.com)
 
-
 Lice will always be a possibility if you keep chickens. Wild birds are nearly impossible to exclude entirely. New birds, even from reputable sources, can carry lice. The goal isn't to achieve a zero-risk environment, it's to catch problems early and treat them quickly before birds lose significant condition.
 
 Check your birds monthly during coop cleanings. It takes 30 seconds to flip a hen over and look at her vent. If you develop the habit of doing this every time you clean nesting boxes, you'll catch lice within days of introduction instead of weeks.
 
 Quarantine new birds for at least 30 days before adding them to your flock, and examine them closely during that window. Even if you don't see lice on arrival day, some may be present at very low levels. A 30-day quarantine gives enough time for a small population to become visible.
 
-Keep a small supply of permethrin dust on hand year-round. [Durvet Permethrin Dust](https://www.amazon.com) is one option I've used consistently (our site may earn a commission). Finding lice on a Sunday evening is a lot less stressful when you already have what you need in the barn.
+Keep a small supply of permethrin dust on hand year-round. [Durvet Permethrin Dust](https://www.amazon.com) is one option available (our site may earn a commission). Finding lice on a Sunday evening is a lot less stressful when you already have what you need in the barn.
 
 ---
 

@@ -29,7 +29,6 @@ I killed six chicks my first year because I didn't understand heat gradients. No
 
 If you're setting up a brooder for the first time, or even if you've done it before but lost birds you couldn't explain, this is the piece I wish I'd had.
 
-
 <div class="value-module">
  <div class="vm-head">Brooder Heat Gradient Setup by Week</div>
  <div class="vm-body">
@@ -45,7 +44,7 @@ Most beginners reach for a cardboard box or plastic storage tote. Both work. Nei
 
 Cardboard soaks up moisture from chick droppings within days, starts smelling foul, and gets structurally weak in ways that invite predators. Plastic totes are better, but smooth sides make it easy to block drafts while low walls guarantee your chicks will figure out they can jump out within a few weeks.
 
-My honest pick: a metal stock tank from Tractor Supply ($90-110 for the 100-gallon oval model) or a wooden brooder box you build yourself. I've used the stock tank for six years straight. It hoses clean in seconds, hardware cloth across the top makes it predator-proof, and those curved walls actually stop chicks from piling into corners, which is how they suffocate each other. Corner piling happens fast. It's also entirely preventable, just use a round container or tape curved cardboard into the square corners of your brooder.
+My honest pick: a metal stock tank from Tractor Supply ($90-110 for the 100-gallon oval model) or a wooden brooder box you build yourself. It hoses clean in seconds, hardware cloth across the top makes it predator-proof, and those curved walls actually stop chicks from piling into corners, which is how they suffocate each other. Corner piling happens fast. It's also entirely preventable, just use a round container or tape curved cardboard into the square corners of your brooder.
 
 Twenty-five chicks need at least 2-3 square feet at arrival. By week two you'll need more. These birds grow impossibly fast. A chick small enough to fit in your palm at day one is nearly full-size three weeks later and will trash any tight space.
 
@@ -55,7 +54,7 @@ Here's what most people don't realize: chicks don't need a specific temperature.
 
 The old rule is 95°F the first week, dropping 5°F each week until you hit room temperature. Start there, sure. But I've found watching the chicks beats watching the thermometer every time. Huddled directly under the lamp? Too cold. Pressed against the far walls? Too hot. Scattered around the brooder, eating, drinking, moving naturally? You're there.
 
-Heat lamps are the traditional choice, and honestly they carry more risk than people admit. You'll need a 250-watt red bulb in a ceramic socket (never plastic, ceramic only) mounted on a clamp that's not just clipped but also chained or zip-tied down. A fallen heat lamp into dry bedding becomes a fire. I've watched it happen. It's not theoretical. If you go this route, use the [Premier 1 Brinsea Cozy Safe Clamp Lamp](https://www.amazon.com/s?k=ceramic+brooder+heat+lamp+clamp) or double-secure whatever you've got. Chain it down. I'm serious.
+Heat lamps are the traditional choice, and honestly they carry more risk than people admit. You'll need a 250-watt red bulb in a ceramic socket (never plastic, ceramic only) mounted on a clamp that's not just clipped but also chained or zip-tied down. A fallen heat lamp into dry bedding becomes a fire. If you go this route, use the [Premier 1 Brinsea Cozy Safe Clamp Lamp](https://www.amazon.com/s?k=ceramic+brooder+heat+lamp+clamp) or double-secure whatever you've got. Chain it down. I'm serious.
 
 The better move: a brooder plate. The [Brinsea EcoGlow Safety 20A](https://www.amazon.com/s?k=Brinsea+EcoGlow+Safety+20A) costs about $75, handles up to 20 chicks, and works like a miniature hen, chicks tuck underneath it naturally. The heating surface reaches around 104°F on roughly 18 watts instead of 250. No meaningful fire risk, lower electricity, and the chicks stay calmer. Trade-off: it won't heat a cold garage, so if you're brooding in Minnesota in January, you might need room heat anyway. For most people in most seasons, though, it's the better tool.
 
@@ -92,7 +91,6 @@ Small batches are trickier than people expect. A batch of three to five chicks s
 - [Tractor Supply store-brand pine shavings](https://www.amazon.com/s?k=pine+shavings+for+chicken+brooder)
 - [Little Giant 1-Quart Chick Feeder](https://www.amazon.com/s?k=little+giant+chick+feeder+1+quart)
 - [1-gallon plastic model](https://www.amazon.com/s?k=1+gallon+chick+waterer)
-
 
 Week one: check for pasty butt every single day. Manure gets stuck to the vent opening, blocks it up, kills the chick within a day or two. Clean it off gently with warm water and a cotton ball. It's more common in shipped chicks, probably stress-related.
 

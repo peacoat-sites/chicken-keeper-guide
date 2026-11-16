@@ -39,9 +39,7 @@ Whole wheat bread is slightly better. It brings more fiber and a modest bump in 
 
 The Merck Veterinary Manual is blunt on this point: energy-dense, low-protein treats fed in excess lead to fatty liver hemorrhagic syndrome in laying hens, a condition that kills birds and is almost entirely preventable. Fatty liver is more common in heavier breeds (Plymouth Rocks and Orpingtons are particularly prone) and in flocks where treats exceed about 10% of total dietary intake.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Protein % by bread type vs. layer feed</div><div class="sc-row"><span class="sc-label">White bread</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">9%</span></div><div class="sc-row"><span class="sc-label">Whole wheat bread</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">12%</span></div><div class="sc-row"><span class="sc-label">Sourdough</span><span class="sc-track"><span class="sc-bar" style="width:61%"></span></span><span class="sc-val">11%</span></div><div class="sc-row"><span class="sc-label">Layer pellets (16%)</span><span class="sc-track"><span class="sc-bar" style="width:89%"></span></span><span class="sc-val">16%</span></div><div class="sc-row"><span class="sc-label">Layer pellets (18%)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">18%</span></div><div class="sc-src">Source: USDA FoodData Central, 2024</div></div>
-
 
 That chart is why I keep a bag of [Purina Layena+ layer pellets](https://www.amazon.com/s?k=purina+layena+layer+pellets&tag=contentportfo-20) as my baseline and treat everything else as a supplement to it, not a replacement. (Disclosure: that's an affiliate link and I do earn a small commission, but I'd recommend Layena regardless because the protein and amino acid profile is consistent and I can actually read the label.)
 
@@ -51,7 +49,7 @@ Every poultry nutritionist I've read agrees on the treat threshold: no more than
 
 That one slice is nearly three times the daily treat budget for one hen. If you're throwing half a loaf into a run of six birds and calling it a snack, you've just blown their entire nutritional balance for the day.
 
-Here's where I got it wrong for longer than I'd like to admit: I thought my hens would self-regulate. They won't. Chickens have essentially no "I'm full" instinct when it comes to high-carb foods. They will eat bread until it's gone, then go back to their feeder if there's room. The problem is when the bread volume is large enough that they genuinely don't have room, or when it's offered late in the day when they've already foraged enough to feel satisfied but not nutritionally complete.
+Chickens have essentially no built-in "I'm full" instinct when it comes to high-carb foods. Chickens have essentially no "I'm full" instinct when it comes to high-carb foods. They will eat bread until it's gone, then go back to their feeder if there's room. The problem is when the bread volume is large enough that they genuinely don't have room, or when it's offered late in the day when they've already foraged enough to feel satisfied but not nutritionally complete.
 
 ## Comparing bread types: which is least bad?
 
@@ -86,7 +84,7 @@ A less dramatic example: a reader named Carla from outside Knoxville emailed me 
 
 If the goal is enrichment and bonding (which is genuinely the main reason most of us give treats), there are choices that won't undercut your hens' nutrition.
 
-Black soldier fly larvae, sold dried under brands like [Grubbly Farms](https://www.amazon.com/s?k=grubbly+farms+grubs&tag=contentportfo-20) or [Hausa Farms](https://www.amazon.com/s?k=dried+black+soldier+fly+larvae+chickens&tag=contentportfo-20), clock in at roughly 36-42% protein by dry weight and contain naturally occurring lauric acid, which has demonstrated antimicrobial properties in poultry gut health research published in Poultry Science journal (2020). My hens go absolutely unhinged for them. Mealworms are similar but lower in fat. Plain cooked oatmeal in small amounts. Scratch-and-Peck's [dried herb blends](https://www.amazon.com/s?k=scratch+and+peck+herbs+chickens&tag=contentportfo-20). A handful of fresh garden weeds pulled roots and all.
+Black soldier fly larvae, sold dried under brands like [Grubbly Farms](https://www.amazon.com/s?k=grubbly+farms+grubs&tag=contentportfo-20) or [Hausa Farms](https://www.amazon.com/s?k=dried+black+soldier+fly+larvae+chickens&tag=contentportfo-20), clock in at roughly 36-42% protein by dry weight and contain naturally occurring lauric acid, which has demonstrated antimicrobial properties in poultry gut health research published in Poultry Science journal (2020). Mealworms are similar but lower in fat. Plain cooked oatmeal in small amounts. Scratch-and-Peck's [dried herb blends](https://www.amazon.com/s?k=scratch+and+peck+herbs+chickens&tag=contentportfo-20). A handful of fresh garden weeds pulled roots and all.
 
 These aren't more expensive than buying bread specifically as a treat. A 30-ounce bag of dried grubs runs about $18-22 and lasts a small flock weeks at appropriate portion sizes.
 
@@ -100,6 +98,5 @@ These aren't more expensive than buying bread specifically as a treat. A 30-ounc
 - Abdelnour, S.A. et al., *Poultry Science* (2020): Research on black soldier fly larvae supplementation and lauric acid effects on poultry gut health.
 
 ---
-
 
 *Photo: [Toni Cuenca](https://www.pexels.com/@ifreestock) via Pexels*

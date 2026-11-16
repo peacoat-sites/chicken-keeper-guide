@@ -41,7 +41,7 @@ Here's what causes it:
 - **Cold weather.** Muscles work worse when a hen's chilled.
 - **Pullets laying too young.** A 16-week-old Australorp who starts before her body's ready is prime material for binding.
 
-I've seen it hit seemingly healthy, well-managed hens with zero warning. It's not always something you did wrong. But calcium and body condition are the two things you actually control.
+Calcium deficiency can strike seemingly healthy, well-managed hens with little warning. It's not always the result of poor management. But calcium and body condition are the two things you actually control.
 
 ## How to Recognize an Egg-Bound Hen
 
@@ -122,7 +122,6 @@ No avian vet nearby? Call ahead anyway. Many regular vets treat poultry emergenc
 - [Manna Pro Oyster Shell](https://www.amazon.com/s?k=manna+pro+oyster+shell)
 - [Black Australorps](https://www.mypetchicken.com/chicken-breeds/Black-Australorp)
 - [Rooster Booster](https://www.amazon.com/s?k=rooster+booster+poultry+vitamins)
-
 
 If she makes it, or if you want to protect your other hens, prevention is simple but has to be specific.
 

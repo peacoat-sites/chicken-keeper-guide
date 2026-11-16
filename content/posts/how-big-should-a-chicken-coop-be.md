@@ -33,7 +33,7 @@ Coop size is probably the single most argued topic in backyard chicken keeping, 
 
 The 4 square feet rule isn't wrong exactly. It's just incomplete. It assumes your birds have consistent access to outdoor space, that your climate is mild, and that you're keeping a small, calm breed. Change any one of those variables and the math breaks down fast.
 
-Here's the thing about chickens: they don't just sleep in the coop. They establish a social hierarchy inside it, they retreat there during storms, they spend days at a time in it during hard winters, and they lay eggs in it. All of that behavior requires space. Crowded birds get stressed. Stressed birds peck. Pecking escalates. Before long you've got bloody hens and a morale problem that's very hard to reverse.
+Chickens don't just sleep in the coop. They establish a social hierarchy inside it, they retreat there during storms, they spend days at a time in it during hard winters, and they lay eggs in it. All of that behavior requires space. Crowded birds get stressed. Stressed birds peck. Pecking escalates. Before long you've got bloody hens and a morale problem that's very hard to reverse.
 
 The minimum I recommend for birds that have reliable daily access to a run or free-range area is 4 square feet of floor space per bird. But if you're in a northern climate where birds spend weeks inside during cold snaps, push that to 6 to 8 square feet per bird, especially for heavier breeds like Brahmas or Jersey Giants that simply take up more room.
 
@@ -47,7 +47,7 @@ Most size guides focus exclusively on floor space, and that's a mistake. Chicken
 
 **Ceiling height:** I recommend a minimum of 4 feet at the lowest point inside the coop, and 6 feet where you'll be doing daily chores. Standing hunched over while changing waterers or collecting eggs gets old within about a week. Build for your own comfort too, not just the birds'.
 
-**Nesting boxes:** These don't usually count toward floor space since they're mounted on the wall, but they do affect the functional feel of the interior. One box for every 3 to 4 hens is the standard, and that standard actually holds up. I run 5 boxes for 16 hens and there's never a queue issue. Size them at 12x12 inches for standard breeds, 14x14 for large breeds. Line them with something soft that holds shape. I've been using [nesting box pads like these](https://www.amazon.com/s?k=chicken+nesting+box+pads) for years and they're far easier to maintain than loose straw.
+**Nesting boxes:** These don't usually count toward floor space since they're mounted on the wall, but they do affect the functional feel of the interior. One box for every 3 to 4 hens is the standard, and that standard actually holds up. Five boxes for 16 hens generally prevents crowding at nesting time. Size them at 12x12 inches for standard breeds, 14x14 for large breeds. Line them with something soft that holds shape. [Nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads) are easier to maintain than loose straw.
 
 ## How Breed and Climate Change the Calculation
 
@@ -87,7 +87,6 @@ If you're building from scratch, [a solid resource like Storey's Guide to Raisin
 - [a solid resource like Storey's Guide to Raising Chickens](https://www.amazon.com/s?k=storey%27s+guide+to+raising+chickens)
 - [Automatic coop door openers](https://www.amazon.com/s?k=automatic+chicken+coop+door+opener)
 - [cottonbro studio](https://www.pexels.com/@cottonbro)
-
 
 The coop size question can't be answered honestly without talking about the run. These two spaces are a system, not independent units.
 

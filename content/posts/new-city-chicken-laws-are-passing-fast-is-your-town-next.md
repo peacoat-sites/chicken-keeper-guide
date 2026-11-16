@@ -48,7 +48,7 @@ What most people don't realize is that these ordinances often get passed quietly
 
 ## How to Find Out Where Your Town Actually Stands
 
-This is where people waste the most time. I've seen people spend hours on city websites trying to find the relevant section of municipal code, only to give up and assume it's still banned. Don't do that.
+This is where people waste the most time. A common mistake is to spend hours on city websites trying to find the relevant section of municipal code, only to give up and assume it's still banned. Don't do that.
 
 The legal database at [BackyardChickensHub](https://backyardchickenshub.com/tools/legal-checker) tracks more than 500 U.S. municipalities and was updated in 2026 to reflect the current pace of change. Start there. It won't cover every small town in every county, but it'll cover a huge swath of suburban and mid-sized cities where most readers live. If your city isn't in the database, your next move is to call your city or county planning department directly. Ask specifically about "keeping of domestic fowl" or "backyard poultry." Don't just ask about "chickens," because some ordinances use different language and you'll get a wrong answer from a distracted clerk.
 

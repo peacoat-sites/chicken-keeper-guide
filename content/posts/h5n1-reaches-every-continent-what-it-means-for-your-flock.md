@@ -20,13 +20,11 @@ That single detection didn't stay single for long. By August 3, 2026, Australian
 
 For keepers everywhere else, the Australia story is the clearest possible signal that there are no more safe zones. The World Organisation for Animal Health recorded more than 2,000 HPAI outbreaks across 64 countries between 2025 and 2026, with over 140 million birds lost or culled globally. This virus is now on every continent, in wild bird populations that don't respect your fence line.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">H5N1 reached Australia June 20, 2026, ending its status as the last H5-free continent on Earth.</li><li style="margin:5px 0">78 wild-bird H5 detections confirmed in Australia by August 3, 2026, across four states.</li><li style="margin:5px 0">No Australian commercial or backyard poultry flocks confirmed infected as of August 2026.</li><li style="margin:5px 0">Over 140 million birds lost globally from 2,000+ HPAI outbreaks across 64 countries in 2025–2026.</li><li style="margin:5px 0">71 human H5N1 cases confirmed in the U.S. from 2024 through May 2026, mostly tied to cattle and poultry.</li></ul></div>
-
 
 ## Why Wild Birds Are the Variable You Can't Control
 
-I'll be honest, when I started keeping chickens I mostly worried about hawks stealing birds, not infecting them. But wild waterfowl, shorebirds, and seabirds are the primary reservoir for H5N1 clade 2.3.4.4b, the strain now circling the globe. The Australian outbreak started with a brown skua, a seabird. In the U.S. context, it's been ducks, geese, and shorebirds dropping the virus into environments where domestic poultry then encounter contaminated water, droppings, or feathers.
+Many backyard keepers worry more about predators like hawks than disease transmission. But wild waterfowl, shorebirds, and seabirds are the primary reservoir for H5N1 clade 2.3.4.4b, the strain now circling the globe. The Australian outbreak started with a brown skua, a seabird. In the U.S. context, it's been ducks, geese, and shorebirds dropping the virus into environments where domestic poultry then encounter contaminated water, droppings, or feathers.
 
 What surprised me when I looked at this more carefully is how indirect the contact can be. Your flock doesn't need to mingle with a sick goose. Shared water sources are enough. A puddle a wild bird bathed in. Mud tracked in on your boots from a field where geese were feeding two days ago. The virus can survive in cold, wet conditions for days, sometimes longer. That's the part the hatchery websites don't stress.
 

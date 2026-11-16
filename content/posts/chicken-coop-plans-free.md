@@ -25,7 +25,7 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 lastmod: 2026-07-08
 ---
-You've got six chickens showing up in a box next day, no coop built, and you're standing in your backyard Googling "chicken coop plans free" on your phone while your kids are already naming the birds. I've been there. Not exactly that scenario, but close enough. Twelve years ago I cobbled together my first coop from a free plan I found online, a pile of salvaged wood, and about four times more frustration than I expected. What I wish someone had told me then is what I'm going to tell you now: free plans are genuinely useful, but only if you know how to pick the right one and what to watch out for before you ever swing a hammer.
+Free coop plans are genuinely useful, but only if you know how to pick the right one and what to watch out for before you swing a hammer.
 
 ## What "Free" Actually Gets You (and What It Doesn't)
 
@@ -90,7 +90,7 @@ Most free plans are templates, not final blueprints. You'll almost certainly nee
 
 **[Predator-proofing upgrades](/predator-proof-chicken-coop/).** Almost every free plan needs a predator upgrade. Bury hardware cloth 12 inches below the run perimeter and angle it outward 6 inches to stop diggers. Raccoons can reach through standard openings, so anything your birds can access from the outside of the run needs 1/2-inch hardware cloth, not 1-inch or chicken wire.
 
-For bedding inside the finished coop, I've had great luck with [Hentastic Nesting Pads](https://www.amazon.com/s?k=chicken+nesting+box+pads) in the boxes. They're easy to swap out and reduce lice and mite problems compared to loose straw. *(This site may earn a commission on qualifying purchases.)*
+For bedding inside the finished coop, [Hentastic Nesting Pads](https://www.amazon.com/s?k=chicken+nesting+box+pads) in the boxes are easy to swap out and reduce lice and mite problems compared to loose straw. *(This site may earn a commission on qualifying purchases.)*
 
 ## Step-by-Step: Evaluating a Free Plan Before You Buy Materials
 
@@ -121,12 +121,11 @@ That whole process takes maybe an hour and has saved me from two bad builds and 
 - [RentACoop Automatic Waterer](https://www.amazon.com/s?k=rentacoop+chicken+waterer)
 - [Sergei Starostin](https://www.pexels.com/@sejio402)
 
-
 The coop itself is only part of it. Before your birds arrive, you need working water, a feeder, and proper bedding.
 
 For waterers, I've moved almost entirely to horizontal nipple systems. They stay clean, reduce spilled bedding, and cut down on algae dramatically. Something like the [RentACoop Automatic Waterer](https://www.amazon.com/s?k=rentacoop+chicken+waterer) connects to a bucket or a standard garden hose and largely eliminates the daily chore of refreshing a traditional fount. In winter you'll still need a heated base or a submersible heater in the bucket, but it's still easier than hauling water every day. *(This site may earn a commission on qualifying purchases.)*
 
-For feeders, a gravity tube feeder hung from the ceiling keeps feed dry and off the floor, which cuts down on rodent attraction significantly. I use a 7-pound hanging feeder for my smaller sub-flocks and refill it every 2-3 days.
+For feeders, a gravity tube feeder hung from the ceiling keeps feed dry and off the floor, which cuts down on rodent attraction significantly. A 7-pound hanging feeder works well for smaller sub-flocks and typically needs refilling every 2-3 days.
 
 Start your bedding with 4 inches of pine shavings, not straw. Straw mats and holds moisture. Pine shavings compost beautifully in the deep litter method and suppress ammonia far better.
 

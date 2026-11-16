@@ -25,7 +25,7 @@ author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
 lastmod: 2026-07-08
 ---
-The first egg I ever collected was from a Black Australorp named Harriet, and I carried it inside with both hands like it was made of gold. My husband pointed out I was being ridiculous. He wasn't wrong. But twelve years and over 200 birds later, I can tell you that feeling never fully goes away, and it's exactly the reason backyard flocks have exploded in popularity. According to the USDA, backyard poultry keeping grew by nearly 4 million households between 2012 and 2019, and that number has only climbed since. If you're thinking about starting your own flock, you're not alone, and you're not too late.
+Many keepers find that collecting their first eggs creates a sense of connection to their flock that doesn't fade, even after years and hundreds of birds. That emotional bond is part of why backyard flocks have exploded in popularity. According to the USDA, backyard poultry keeping grew by nearly 4 million households between 2012 and 2019, and that number has only climbed since. If you're thinking about starting your own flock, you're not alone, and you're not too late.
 
 ## Before You Buy a Single Chick
 
@@ -82,7 +82,7 @@ Don't feed layer feed to chicks. The extra calcium damages their kidneys before 
 
 Oyster shell should be offered free-choice in a separate container once hens are laying. Let them self-regulate. Some hens need more calcium than others, especially high producers.
 
-Water needs to be fresh every single day. Chickens drink more than people expect. A standard hen drinks about a pint per day, and that doubles in hot weather. I've used both classic red-and-white plastic waterers and nipple waterer systems. Nipple systems stay cleaner, and I'd recommend making the switch once you're comfortable with basics. [Horizontal nipple waterers](https://www.amazon.com/s?k=horizontal+nipple+chicken+waterer&tag=contentportfo-20) mounted to a 5-gallon bucket are inexpensive and work beautifully.
+Water needs to be fresh every single day. Chickens drink more than people expect. A standard hen drinks about a pint per day, and that doubles in hot weather. Nipple systems stay cleaner than classic plastic waterers, and most keepers find it worth making the switch once they're comfortable with basics. [Horizontal nipple waterers](https://www.amazon.com/s?k=horizontal+nipple+chicken+waterer&tag=contentportfo-20) mounted to a 5-gallon bucket are inexpensive and work beautifully.
 
 Kitchen scraps are fine in moderation. Know what's off-limits: avocado (toxic), raw dried beans, large quantities of onion, moldy food, chocolate. Treats like leafy greens, watermelon, cooked eggs, and mealworms are all fair game and your birds will love you for them.
 
@@ -111,7 +111,6 @@ If you're starting with day-old chicks from a hatchery or feed store, the first 
 - [Horizontal nipple waterers](https://www.amazon.com/s?k=horizontal+nipple+chicken+waterer&tag=contentportfo-20)
 - [Brinsea EcoGlow](https://www.amazon.com/s?k=brinsea+ecoglow+brooder&tag=contentportfo-20)
 - [Storey's Guide to Raising Chickens by Gail Damerow](https://www.amazon.com/s?k=storey%27s+guide+to+raising+chickens&tag=contentportfo-20)
-
 
 You don't need to be a veterinarian to keep healthy chickens, but knowing what to watch for saves birds.
 

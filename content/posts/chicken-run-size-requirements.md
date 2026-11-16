@@ -25,7 +25,7 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 lastmod: 2026-07-08
 ---
-A flock of six hens in a 6x6 foot run. Looks fine on paper, right? That's 36 square feet, or 6 square feet per bird. You'll see that exact number on dozens of websites and it technically hits the minimum recommendation. But I've watched real flocks for twelve years, and I can tell you: a 6x6 run for six standard-size chickens will give you bare dirt, stressed birds, and a pecking order enforced with blood. Space matters more than beginners realize. Those minimums printed in guides? They're the bare minimum to survive, not thrive.
+A flock of six hens in a 6x6 foot run. Looks fine on paper, right? That's 36 square feet, or 6 square feet per bird. You'll see that exact number on dozens of websites and it technically hits the minimum recommendation. In practice, a 6x6 run for six standard-size chickens often results in bare dirt, stressed birds, and a pecking order enforced with blood. Space matters more than beginners realize. Those minimums printed in guides? They're the bare minimum to survive, not thrive.
 
 ## How Much Space Does a Chicken Run Actually Need?
 
@@ -49,7 +49,7 @@ Here's how the math works:
 | 8 birds | 80 sq ft | 120 sq ft | 160+ sq ft |
 | 12 birds | 120 sq ft | 180 sq ft | 240+ sq ft |
 
-The variable nobody discusses enough is how often your birds actually get out. Free-range four or five hours a day? A tighter run works. Fully confined because of predators or HOA restrictions? Bump those numbers significantly. I've kept confined flocks comfortably at 20 square feet per bird. I've also watched 10 square feet per bird become genuinely miserable in wet climates where the ground stays muddy and the grass dies in two weeks.
+How often your birds actually get out matters significantly. Free-range four or five hours a day? A tighter run works. Fully confined because of predators or HOA restrictions? Bump those numbers significantly. Confined flocks can do well at 20 square feet per bird, but 10 square feet per bird often becomes miserable in wet climates where the ground stays muddy and the grass dies in two weeks.
 
 ## Why Run Size Affects More Than Just Behavior
 
@@ -67,7 +67,7 @@ A Silkie and a Buff Orpington aren't the same when it comes to space needs, and 
 
 Bantam breeds generally need about half the space of standard large fowl. A flock of eight bantams often does well in the space you'd plan for four standard hens. Though some bantam breeds like Old English Game are scrappy and territorial, so don't assume small body means easy management.
 
-Larger breeds have bigger footprints physically. They scratch harder, wear down ground cover faster, and tend to dominate smaller runs. Jersey Giants and Brahmas (both of which I've kept) tend to be calmer temperamentally, but they're big animals and they need room to move.
+Larger breeds have bigger footprints physically. They scratch harder, wear down ground cover faster, and tend to dominate smaller runs. Jersey Giants and Brahmas tend to be calmer temperamentally, but they're big animals and they need room to move.
 
 Active foraging breeds show you what they need through behavior alone. Leghorns pacing the fence, Fayoumis running tight laps, Welsummers standing at the gate looking impatient: these birds need space and activity. Cram an active Mediterranean breed into a tight run and wonder why she's feather-pecking her flock mates? You're missing the obvious.
 
@@ -91,11 +91,9 @@ A 4-foot run sounds usable until you're collecting a sick bird, raking wet beddi
 Bare dirt is just one option. Deep litter with wood chips, a sand base, or rotating grass panels all change how your space performs. A 100 square foot run with rotating grass or deep wood chip litter works better in practice than 120 square feet of compacted bare dirt. [Quality hardware cloth](https://www.amazon.com/s?k=hardware+cloth+half+inch+chicken+run) for the floor and sides gives you security, and mulch or free wood chips from a local arborist can transform the interior.
 
 **Step 6: Add vertical enrichment.**
-Roosting bars, elevated platforms, a simple swing, stacked hay bales, give birds a way to use vertical space and create visual breaks so lower-ranked birds can escape a bully's line of sight. I've seen a well-enriched 60 square foot run outperform a barren 100 square foot one.
+Roosting bars, elevated platforms, a simple swing, stacked hay bales, give birds a way to use vertical space and create visual breaks so lower-ranked birds can escape a bully's line of sight. A well-enriched 60 square foot run often outperforms a barren 100 square foot one.
 
 ## Common Run Mistakes and How to Avoid Them
-
-I've made most of these myself.
 
 **Building to the current minimum and nothing more.** The most common mistake. Build for your future flock and round up aggressively.
 
@@ -116,7 +114,6 @@ I've made most of these myself.
 - [UV-blocking shade cloth](https://www.amazon.com/s?k=shade+cloth+for+chicken+run)
 - [Horizontal nipple waterers](https://www.amazon.com/s?k=chicken+nipple+waterer)
 - [Sarah-Claude Lévesque St-Louis](https://www.pexels.com/@sarah-claude-levesque-st-louis-156920272)
-
 
 Not everyone has a quarter acre for a chicken run. Suburban and urban keepers work with genuine physical constraints. Smart management can stretch your square footage meaningfully.
 

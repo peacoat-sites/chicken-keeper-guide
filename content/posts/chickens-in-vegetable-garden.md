@@ -22,9 +22,9 @@ It's absolutely possible. The benefits are real. But the timing and the manageme
 
 ## The Real Benefits (And What People Exaggerate)
 
-Chickens genuinely do improve garden soil over time. Their manure is high in nitrogen, and their scratching breaks up compacted ground and works organic material into the top few inches. I've watched the texture of my raised beds improve year after year in sections where I've rotated chickens through in the off-season. That part isn't marketing.
+Chickens genuinely do improve garden soil over time. Their manure is high in nitrogen, and their scratching breaks up compacted ground and works organic material into the top few inches. The texture of raised beds tends to improve noticeably in sections where chickens have been rotated through in the off-season.
 
-The pest control angle is real too, but more selective than people suggest. Chickens are excellent at catching grasshoppers, beetles, earwigs, and grubs. They'll clean up squash bugs given the chance. I've had readers email me saying chickens ended a Japanese beetle problem that had plagued them for years. What they won't do is act like a precision tool. A chicken foraging in your tomato bed will absolutely eat tomato hornworm larvae, and will also eat your tomatoes and your basil and your pepper transplants. Same bird, same foraging session, total chaos.
+The pest control angle is real too, but more selective than people suggest. Chickens are excellent at catching grasshoppers, beetles, earwigs, and grubs. They'll clean up squash bugs given the chance. Some keepers report that chickens have helped control Japanese beetle populations. What they won't do is act like a precision tool. A chicken foraging in your tomato bed will absolutely eat tomato hornworm larvae, and will also eat your tomatoes and your basil and your pepper transplants. Same bird, same foraging session, total chaos.
 
 The weed control benefit gets oversold too. Chickens will scratch up and eat some weeds, but they're selective about it. Creeping charlie, dandelions, clover, grass seeds: yes. Established thistle or anything with deep tap roots: they'll ignore it and scratch up your mulch instead.
 
@@ -49,11 +49,11 @@ During the active growing season, from transplant through harvest, chickens and 
 
 You've got a few real options here, and the right one depends on your garden layout and how many birds you're working with.
 
-The most effective solution I've used is a simple temporary electric netting fence like the Premier 1 PoultryNet Plus (48 inches, roughly $165 for a 100-foot roll). It's movable, it keeps birds where you want them, and predators respect it too. You can zone your garden into sections and rotate birds through on whatever schedule fits your planting calendar. The upfront cost stings, but it's lasted me six-plus years.
+A simple temporary electric netting fence like the Premier 1 PoultryNet Plus (48 inches, roughly $165 for a 100-foot roll) is effective for garden use. It's movable, keeps birds where you want them, and predators respect it. You can zone your garden into sections and rotate birds through on whatever schedule fits your planting calendar.
 
 For smaller setups, hardware cloth panels or a cattle panel hoop structure over your beds buys you protection without rewiring your whole garden. A low-cost option that genuinely works: cut 4-foot-wide strips of hardware cloth and bend them into simple cloches over individual rows. Chickens can work the surrounding paths while your plants stay protected under the wire.
 
-The "chicken tunnel" or "chunnel" concept has gotten trendy online, and honestly it works well for people with garden beds arranged in rows with defined paths. You build a low wire tunnel down the path between your beds, chickens patrol for pests right along the edges without being able to get into the beds themselves. I've seen setups made from cattle panels and chicken wire that cost under $80 total and worked beautifully for years.
+The "chicken tunnel" or "chunnel" concept has gotten trendy online, and honestly it works well for people with garden beds arranged in rows with defined paths. You build a low wire tunnel down the path between your beds, chickens patrol for pests right along the edges without being able to get into the beds themselves. Setups made from cattle panels and chicken wire can cost under $80 total and work well for years.
 
 ## What They'll Destroy vs. What They Leave Alone
 
@@ -67,7 +67,7 @@ Heavy-laying breeds like Leghorns and Production Reds scratch more aggressively 
 
 ## Managing the Manure Math
 
-One thing to plan for: a flock of six chickens can deposit a significant amount of manure in a concentrated space in a short time. That's a benefit, until it's not. If you're using your garden as supplemental ranging space over the growing season (near the beds but not in them), watch for nitrogen burn on plants near their favorite hangout spots. I've lost border plants this way more than once.
+One thing to plan for: a flock of six chickens can deposit a significant amount of manure in a concentrated space in a short time. That's a benefit, until it's not. If you're using your garden as supplemental ranging space over the growing season (near the beds but not in them), watch for nitrogen burn on plants near their favorite hangout spots.
 
 If you want to be more precise about it, chicken manure averages around 1.1% nitrogen by weight in fresh form. Composted, it's one of the best soil amendments you can use. The [USDA's guide to using poultry manure in gardens](https://www.amazon.com/s?k=chicken+manure+compost+garden) offers more detail than I can fit here, and there are good books like *The Regenerative Garden* by Stephanie Rose that cover the fertility piece well (Amazon affiliate link, site earns a small commission).
 
@@ -78,7 +78,6 @@ If you want to be more precise about it, chicken manure averages around 1.1% nit
 - [USDA's guide to using poultry manure in gardens](https://www.amazon.com/s?k=chicken+manure+compost+garden)
 - [Friede Dia](https://www.pexels.com/@friededia)
 - here is mixed enough that cautious people reasonably err toward longer wait time
-
 
 #### Can chickens eat vegetable garden scraps and trimmings?
 

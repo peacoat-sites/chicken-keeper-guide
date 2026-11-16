@@ -37,9 +37,7 @@ Beyond water, a standard 100-gram serving of watermelon contains about 7.6 grams
 
 What watermelon doesn't give your birds: meaningful protein, calcium, or the fat-soluble vitamins (A, D, E, K) they need for laying and immune function. It's a supplement, not a substitute. If you're feeding it as 20% of the diet, you're diluting the nutrition that actually builds eggs.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Water content of common chicken treats (%)</div><div class="sc-row"><span class="sc-label">Watermelon</span><span class="sc-track"><span class="sc-bar" style="width:96%"></span></span><span class="sc-val">92%</span></div><div class="sc-row"><span class="sc-label">Cucumber</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">96%</span></div><div class="sc-row"><span class="sc-label">Blueberries</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">91%</span></div><div class="sc-row"><span class="sc-label">Apple</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">86%</span></div><div class="sc-row"><span class="sc-label">Corn (fresh)</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">76%</span></div><div class="sc-row"><span class="sc-label">Leafy greens</span><span class="sc-track"><span class="sc-bar" style="width:98%"></span></span><span class="sc-val">94%</span></div><div class="sc-src">Source: USDA FoodData Central</div></div>
-
 
 ## The Sugar Question (and Why Most People Get This Wrong)
 
@@ -60,7 +58,7 @@ Ten percent of a hen's daily consumption of about 120 grams of feed works out to
 
 Let me save you the anxiety I saw on five different forums last summer: watermelon seeds are fine. Chickens can eat them without issue. The concern sometimes gets conflated with apple seeds, which do contain amygdalin (a cyanogenic compound), but watermelon seeds have no such compound. Mine have eaten seeds their entire lives without any problem.
 
-The rind is also fine, and in some ways it's the most interesting part nutritionally. The white rind contains citrulline, an amino acid that converts to arginine in the body. A 2011 study in the *Journal of Chromatography A* found citrulline concentrations in watermelon rind at roughly 3.4 times higher than in the flesh. Arginine plays a role in immune function and ammonia detoxification in poultry. Whether the amount in a few rind pieces moves the needle for a backyard flock, I genuinely can't say with confidence. But there's no reason to throw the rind away.
+The rind is also fine, and in some ways it's the most interesting part nutritionally. The white rind contains citrulline, an amino acid that converts to arginine in the body. A 2011 study in the *Journal of Chromatography A* found citrulline concentrations in watermelon rind at roughly 3.4 times higher than in the flesh. Arginine plays a role in immune function and ammonia detoxification in poultry. But there's no reason to throw the rind away.
 
 One thing only someone who's actually done this would know: when you put a whole half-melon cut side down in the run, your dominant hens will guard it and your lowest-ranking birds won't get any. I learned this the first summer I kept a flock of eight. Cut it into multiple smaller chunks and distribute them in different spots.
 
@@ -85,6 +83,5 @@ Worked examples from my own flock and from readers who've written in:
 - Journal of Chromatography A (2011): Analysis of citrulline concentration in watermelon flesh vs. rind tissue.
 
 ---
-
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*

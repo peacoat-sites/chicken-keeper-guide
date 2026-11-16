@@ -14,7 +14,7 @@ slug: "drug-resistant-salmonella-is-spreading-from-backyard-flocks-right-now"
 affiliate_disclosure: false
 lastmod: 2026-07-07
 ---
-If you picked up baby chicks from a feed store or hatchery this spring, you need to read this. Right now, the CDC is tracking 513 sick people across 42 states and a U.S. territory in active Salmonella outbreaks tied directly to backyard poultry, with 53 hospitalizations and one death already confirmed in Washington state. This isn't a story about a few unlucky families who didn't wash their hands. This is the largest and most medically alarming backyard poultry outbreak I've seen get this level of CDC attention, and what makes it genuinely different from past spring flare-ups is the drug resistance baked into these strains.
+If you picked up baby chicks from a feed store or hatchery this spring, you need to read this. Right now, the CDC is tracking 513 sick people across 42 states and a U.S. territory in active Salmonella outbreaks tied directly to backyard poultry, with 53 hospitalizations and one death already confirmed in Washington state. This isn't a story about a few unlucky families who didn't wash their hands. What makes this outbreak genuinely different from past spring flare-ups is the drug resistance in these strains.
 
 ## What's Actually Circulating in Your Flock Right Now
 
@@ -37,7 +37,7 @@ Medscape reported on this drug resistance back in April, and the picture has onl
 
 Here's the part that should make every keeper who bought birds this year pay attention: 84% of the sick poultry owners got their birds since January 1, 2026. That's not a coincidence. That's a direct line from [spring chick season](/513-sick-and-counting-the-backyard-poultry-salmonella-summer-surge/) to hospital rooms. Seven hatcheries have already been linked to outbreak strains, though the CDC hasn't released a public list of the specific hatcheries by name as of this writing.
 
-I've watched this pattern play out in smaller outbreaks before. Spring is when hatcheries are running at full capacity, chicks are moving fast, biosecurity gets stretched thin, and thousands of first-time keepers who have never handled poultry bring home a box of peeping fluff and immediately let their kids hold them over the kitchen sink. The scale this year, though, is different.
+This pattern shows up in smaller outbreaks too. Spring is when hatcheries are running at full capacity, chicks are moving fast, biosecurity gets stretched thin, and thousands of first-time keepers who have never handled poultry bring home a box of peeping fluff and immediately let their kids hold them over the kitchen sink. The scale this year, though, is different.
 
 If you purchased chicks or ducklings from a feed store, swap meet, or directly from a hatchery between January and now, assume you could have a shedding bird in your flock. Salmonella-positive birds look completely healthy. There is no visual sign. The bird eats, lays, and acts normal while shedding bacteria in its droppings continuously.
 
@@ -61,7 +61,7 @@ I'd also genuinely recommend reaching out to whatever hatchery you used this spr
 
 ## Whether to Keep Your Flock or Pause
 
-This is the question I've been getting from people in my local keeper community, and it's a fair one. My honest answer is that culling a healthy flock over a public health advisory isn't something I'd do, but I would treat my entire biosecurity setup as compromised and rebuild my habits from scratch. The birds themselves aren't the enemy here. The practices around them are the variable you can actually control.
+Culling a healthy flock over a public health advisory isn't necessary, but you should treat your entire biosecurity setup as compromised and rebuild your habits from scratch. The birds themselves aren't the enemy here. The practices around them are the variable you can actually control.
 
 If you have a child under 5 or an immunocompromised person in your home, this spring and summer is the time to be especially conservative. The outbreak is still active. Cases are still being added. The hatchery supply chain that seeded this across 42 states is still running.
 

@@ -31,7 +31,7 @@ The short answer is yes, chickens can eat tomatoes, and ripe ones are genuinely 
 
 Tomatoes belong to the Solanaceae family, same as peppers, potatoes, and eggplant. The leaves, stems, and green unripe fruit contain solanine and tomatine, two glycoalkaloids that are genuinely harmful to chickens in sufficient quantities. We're not talking about a trace amount. Tomato leaves and green tomatoes have measurable concentrations of these compounds, and chickens who eat them in volume can develop diarrhea, lethargy, and neurological symptoms.
 
-I'd seen the "nightshade family, be careful" warning repeated on a dozen forums before I actually watched one of my hens work over a volunteer tomato plant that had sprouted in the run. She went straight for the green fruits and left the ripe ones alone. Chickens aren't perfect at self-regulating, though. Don't count on instinct to protect them.
+Chickens often avoid green tomato fruits while eating ripe ones, though individual birds vary in their preferences. Chickens aren't perfect at self-regulating, though. Don't count on instinct to protect them.
 
 The practical implication: don't let tomato plants grow in or adjacent to your run if you're not monitoring closely. This includes trimming any vine that hangs over the fence. A determined chicken will strip a low-hanging branch fast.
 
@@ -60,7 +60,7 @@ The potassium number stands out, but don't read too much into it. Their base lay
 
 I'd keep tomatoes to no more than 10% of their daily intake, which is the general threshold for treats across the board. For a standard 6-hen flock eating roughly half a pound of feed per bird per day, that's about 3 ounces of tomato total across the flock. In practical terms: one medium tomato, split among your birds, maybe 3-4 times a week during peak garden season.
 
-Here's where I got it wrong for a while: I thought more was fine because my hens had been eating tomatoes for years without obvious illness. The issue isn't acute poisoning at low doses. The issue is that excess sugar and water from treats can thin out the nutritional density of their overall diet, drop egg production, and cause loose droppings. When I noticed a dip in lay rate two summers ago, the only variable I'd changed was adding more garden scraps, tomatoes included, to their afternoon routine. Pulled back the extras, production normalized within about two weeks.
+The risk with tomatoes isn't acute poisoning at low doses. Excess sugar and water from treats can thin out the nutritional density of a flock's overall diet, reduce egg production, and cause loose droppings. Keepers who notice a sudden drop in lay rate often find that cutting back on garden scraps and treats restores normal production within a couple of weeks.
 
 Scenario: Flock of 8 hens getting a full pint of cherry tomatoes daily all summer → Loose droppings, occasional soft-shelled eggs, lay rate drops from 6 eggs/day to 4 → Reducing to half a pint every other day → Lay rate recovered to 5-6 eggs/day within 10 days.
 
@@ -74,7 +74,7 @@ Tomato seeds: fine. No evidence they cause any harm.
 
 Tomato sauce, canned tomatoes, tomato paste: technically the tomato itself is cooked and ripe, but these products often contain salt, garlic, onion, or preservatives that are genuinely bad for chickens. Read the label and you'll usually put the can back.
 
-Tomato leaves and stems: hard no. I've seen keepers toss in whole vines thinking the hens will avoid the bad parts. Some do. Some don't. It's not worth the gamble.
+Tomato leaves and stems: hard no. Some keepers toss in whole tomato vines expecting hens to avoid the leaves and stems. While some birds do, others don't. It's not worth the gamble.
 
 Scenario: Keeper feeds a small flock of 4 hens one cup of grape tomatoes 4x per week all season → No observed health issues, consistent egg production, hens maintain weight → This is probably close to the ceiling of what's appropriate without pushing into treat overload.
 
@@ -82,7 +82,7 @@ Scenario: Keeper feeds a small flock of 4 hens one cup of grape tomatoes 4x per 
 
 Most chickens take to tomatoes immediately. A few are initially suspicious, especially if you have older hens who weren't raised with a varied diet. The trick is to slice the tomato open so the juicy interior is exposed. The smell draws them in. Once one hen goes for it, the rest follow in about 30 seconds.
 
-If you have a mixed-age flock, younger pullets often adapt to new foods faster than older hens. I've watched a 14-week-old Australorp teach my 3-year-old Barred Rock to eat cucumber by sheer peer pressure.
+If you have a mixed-age flock, younger pullets often adapt to new foods faster than older hens.
 
 Start with a small amount if your flock is new to tomatoes, partly because introducing any new food in large quantity can cause digestive upset, and partly because you'll learn fast whether yours are the type to obsess over a treat to the point of skipping their layer feed. Some flocks are like that. Mine are.
 
@@ -95,6 +95,5 @@ Start with a small amount if your flock is new to tomatoes, partly because intro
 - [The Merck Veterinary Manual](https://www.merckvetmanual.com): Solanine toxicosis overview and clinical signs in poultry.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

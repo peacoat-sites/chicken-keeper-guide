@@ -37,7 +37,7 @@ The molt typically starts at the head and neck, then moves down the breast and b
 
 ## Why Egg Production Drops So Hard
 
-I'll be honest: the first time I lost 90% of my flock's egg production for two months straight, I was convinced something was wrong. It felt like too much. But the math makes sense once you understand what's happening nutritionally.
+A significant drop in egg production during molt can seem alarming, but it makes sense once you understand the nutritional demands at work.
 
 Feathers are approximately 85% protein. Growing a full coat of new feathers is a massive protein demand. At the same time, egg production requires significant protein, calcium, and energy. The hen's body can't do both efficiently, so it makes a trade. Egg production essentially shuts down. Some hens will lay an occasional egg during molt, especially early on or near the end when the new feathers are mostly grown in, but don't count on it.
 
@@ -74,11 +74,11 @@ During molt, you want to bump protein intake significantly. Most poultry nutriti
 
 **Switch to a higher-protein feed.** Flock raiser or grower feed runs around 20% protein and is the cleanest swap. You'll lose some of the calcium supplementation from layer feed, so put out a separate oyster shell feeder so hens can self-regulate calcium intake once they return to laying.
 
-**Supplement with high-protein treats.** Black soldier fly larvae (dried) are around 35 to 40% protein and most hens go absolutely crazy for them. Mealworms are similar. Scrambled eggs (yes, feeding eggs back to chickens is fine, it won't make them egg-eaters if prepared) are a great protein source. Canned sardines in water, not oil, are another option I've used with good results.
+**Supplement with high-protein treats.** Black soldier fly larvae (dried) are around 35 to 40% protein and most hens go absolutely crazy for them. Mealworms are similar. Scrambled eggs (yes, feeding eggs back to chickens is fine, it won't make them egg-eaters if prepared) are a great protein source. Canned sardines in water (not oil) are another good protein source.
 
-**What to avoid.** Scratch grain during molt is counterproductive. It's high carbohydrate and low protein, and it dilutes the nutritional quality of whatever else they're eating. I stop scratch entirely from August through October for my flock.
+**What to avoid.** Avoid scratch grain during molt. It's high carbohydrate and low protein, and it dilutes the nutritional quality of the rest of their diet. Most keepers find it best to eliminate scratch entirely during peak molt months.
 
-A good resource I've used for understanding poultry nutrition in depth is [Storey's Guide to Raising Chickens](https://www.amazon.com/Storeys-Guide-Raising-Chickens-4th/dp/1612120retrospect) by Gail Damerow. It's one of those books that actually gives you the "why" behind feeding recommendations rather than just the instructions. *(Disclosure: this site may earn a commission on Amazon purchases.)*
+[Storey's Guide to Raising Chickens](https://www.amazon.com/Storeys-Guide-Raising-Chickens-4th/dp/1612120retrospect) by Gail Damerow explains the nutritional reasoning behind feeding recommendations rather than just the instructions. *(Disclosure: this site may earn a commission on Amazon purchases.)*
 
 ## How to Support Feather Regrowth and Flock Health
 
@@ -94,7 +94,7 @@ Beyond protein, a few other things matter during molt.
 
 ## A Practical Molt Management Timeline
 
-Here's how I actually manage my flock through the molt cycle each year:
+Managing your flock through the molt cycle:
 
 | Timing | What I Do |
 |---|---|
@@ -115,7 +115,6 @@ This timeline assumes a flock of standard laying breeds in a climate with real s
 - [washable nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads)
 - [Brandie Robbins](https://www.pexels.com/@brandie)
 - here is mixed on whether adding artificial light during molt helps or hurts
-
 
 Here's something hatchery websites don't tell you clearly: a hen's laying capacity decreases with each molt. First-year pullets lay the most eggs they'll ever lay. After the first molt, production drops by roughly 15 to 20%. After the second molt, it drops again. By year three or four, you're looking at some heritage breeds producing 40 to 60% of their first-year peak.
 

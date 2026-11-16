@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Those eggs will change you. I don't mean that in some overwrought way. I mean you'll crack your first dark Marans egg into a bowl next to a store-bought egg and genuinely pause. The yolk is richer, the shell is the color of bittersweet chocolate, and you'll understand immediately why people build entire flocks around this one breed.
 
-I've kept Marans for about six of my ten years with backyard chickens. Started with a trio of Black Copper Marans pullets from a local breeder in 2019, made every mistake worth making, and I'm still learning. So if you're here because you've seen those stunning dark eggs online and you're wondering whether Marans are actually worth the hype, or whether they're harder to keep than the average layer, you're in the right place.
+Marans have developed a strong reputation for laying dark eggs. If you're wondering whether they're worth the hype or whether they're harder to keep than the average layer, this guide covers what you need to know.
 
 Here's what I tell people who are considering them: Marans are an intermediate-level bird. They're not fragile, not particularly demanding, but they do have some quirks that'll trip you up if no one warned you. Let me walk you through what actually matters.
 
@@ -63,9 +63,9 @@ One thing nobody tells you upfront: in France, where the breed originated, Maran
 
 ## Temperament and Flock Dynamics
 
-Marans have a reputation for being calm and docile, and in my experience, that's mostly accurate, with some caveats.
+Marans have a reputation for being calm and docile, and that's mostly accurate, with some caveats.
 
-The hens are generally quiet, non-flighty birds. They tolerate handling better than breeds like Leghorns or Anconas. I've had Marans hens that became genuinely tame with regular handling from young pullet age. I've also had ones that stayed mildly aloof their whole lives. Line matters a lot here.
+The hens are generally quiet, non-flighty birds. They tolerate handling better than breeds like Leghorns or Anconas. Some Marans hens become genuinely tame with regular handling from young pullet age, while others stay mildly aloof their whole lives. Line matters a lot here.
 
 The roosters are a different story. Black Copper Marans roosters can be assertive. I had one named Didier (because of course I did) who was respectful of adults but genuinely aggressive toward my kids until I started the "carry him around like a football" desensitization approach for about two weeks. It worked, but I wouldn't recommend Marans roosters for households with small children without that kind of intentional work.
 
@@ -81,8 +81,6 @@ For housing: Marans are a medium-large bird (hens around 6.5 lbs, roosters aroun
 
 Marans handle cold reasonably well (their single comb is less prone to frostbite than large-combed breeds like Leghorns, though it's not comb-free). In hot, humid climates, they can struggle. If you're in the deep South, plan for serious shade, ventilation, and cool water management through summer.
 
-Here's a worked example from my own flock that illustrates the feed-and-management connection clearly:
-
 **Scenario:** My Black Copper Marans flock of 6 hens was laying at egg color scale 4.5 average in February 2024, which was disappointing given the bloodlines.
 **Action:** I switched from a 15% layer crumble to an 18% pellet, added fermented feed three days per week, and opened up a 200 sq ft scratch-and-peck area that had been snow-covered.
 **Result:** By late April, average egg color climbed to 6.2 on my scale. Production also increased from 18 eggs/week across the flock to 24.
@@ -93,13 +91,12 @@ It's not a controlled trial. But the pattern was clear enough that I didn't go b
 
 This is the thing most beginner guides skip, and it's probably the most important section in this article.
 
-Marans egg color is almost entirely genetic. Which means if you buy from a hatchery with mixed or poorly selected lines, you can do everything right and still end up with eggs that are only marginally darker than a typical brown egg. I've seen this happen to readers who ordered from large hatcheries and were disappointed.
+Marans egg color is almost entirely genetic. This means if you buy from a hatchery with mixed or poorly selected lines, you can do everything right and still end up with eggs that are only marginally darker than a typical brown egg.
 
 Here's what I tell people who ask: for Marans, breeder selection matters more than for almost any other breed you might keep. Look for breeders who post egg color scale photos from actual production birds (not cherry-picked show hens), who breed specifically for both color and production, and who can show you parent flock egg images.
 
 The Marans Club of America (MCA) maintains a breeder directory. It's not exhaustive, and not every quality breeder is listed, but it's a legitimate starting point. Expect to pay $10-25 per chick from a reputable breeder versus $3-5 from a hatchery. That price difference will make sense the first time you hold a genuine dark-chocolate egg.
 
-**Scenario:** A reader named Janet from Ohio emailed me last spring after getting "Marans" chicks from a large online hatchery.
 **Action:** She raised them properly, good feed, good space, waited out the 6-month grow period.
 **Result:** Her eggs hit a 3-4 on the color scale. She was close to selling the whole flock until she got two Black Copper pullets from a local breeder the following spring. Those birds hit consistent 6-7s on the same management. Same person, same coop, same feed. The difference was entirely genetic.
 
@@ -114,6 +111,5 @@ The Marans Club of America (MCA) maintains a breeder directory. It's not exhaust
 - Chicken Genetics Primer, The Livestock Conservancy: Overview of pigment-deposition in egg shells across heritage breeds. [livestockconservancy.org]
 
 ---
-
 
 *Photo: [Iris Fonseca](https://www.pexels.com/@iris-art) via Pexels*

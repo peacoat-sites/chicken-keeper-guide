@@ -29,7 +29,7 @@ I had 17 chickens with nowhere to go.
 
 It was my third spring keeping birds, and I'd ordered 25 straight-run chicks. Come winter, my coop could only hold eight hens comfortably. The rest were Leghorns, those wire-thin egg machines that eat feed for months and dress out at barely four pounds. Worthless for meat. I remember standing in front of the brooder that July afternoon thinking I'd screwed up the entire math on keeping chickens.
 
-That's when I switched to dual-purpose breeds. Not because I suddenly wanted to butcher my birds (though that changed too), but because the economics only make sense when a chicken earns its keep two ways.
+Dual-purpose breeds make economic sense when a chicken earns its keep two ways: through eggs and meat.
 
 ## What "Dual Purpose" Actually Means (And What It Doesn't)
 
@@ -41,7 +41,7 @@ Where people stumble is expecting these birds to compete with specialists. They 
 
 ## The Top Dual Purpose Breeds Worth Raising
 
-I've raised 14 breeds over 12 years. Some are standouts. Others I'd steer you away from depending on what you actually want.
+Some breeds are standouts for particular purposes, while others may not fit what you're looking for.
 
 **[Plymouth Rock (Barred Rock)](/barred-rock-chickens/)** is the most reliable all-around dual-purpose bird you can raise. Hens lay 250 to 280 large brown eggs annually in their prime. Cockerels grow broad-chested and meaty. They're calm, cold-hardy, and good foragers. Start here if you're only trying one breed.
 
@@ -51,7 +51,7 @@ I've raised 14 breeds over 12 years. Some are standouts. Others I'd steer you aw
 
 **Delaware** is massively underrated. It was developed in the 1940s specifically as a commercial dual-purpose bird before Cornish Cross dominated. Delaware hens lay large brown eggs reliably, and the males grow fast for a heritage breed, hitting table weight in 16 to 18 weeks. Try them.
 
-**Dominique** is America's oldest breed, and toughness shows. These birds are compact, efficient foragers who do more with less feed than most breeds I've raised. Egg production runs 180 to 230 per year, but their ability to supplement themselves on pasture makes them cheap to keep.
+**Dominique** is America's oldest breed, and toughness shows. These birds are compact, efficient foragers that do more with less feed than most breeds. Egg production runs 180 to 230 per year, but their ability to supplement themselves on pasture makes them cheap to keep.
 
 **Java** and **Buckeye** round out my personal favorites. Both are slower-growing heritage breeds that take 20 to 24 weeks to reach ideal processing weight. The meat quality is noticeably different from fast-grown birds. Firmer. More flavorful. If you've tasted a properly raised heritage cockerel, you know why people wait for it.
 
@@ -99,7 +99,7 @@ Having the right breed is half the work. How you manage them determines whether 
 
 **Step 6: Reassess your flock each fall.** Keep your best layers, cull or rehome extras, plan next spring's hatch. A dual-purpose flock is a living system, not a one-time purchase.
 
-For feed management, I've had good results with an automatic feeder that prevents waste and keeps rodents out. Something like the [RentACoop Automatic Chicken Feeder](https://www.amazon.com/s?k=automatic+chicken+feeder+gravity) holds several days of feed and dramatically cuts waste. (This site may earn a commission on purchases made through links like this.)
+An automatic feeder can prevent waste and keep rodents out of stored feed. Something like the [RentACoop Automatic Chicken Feeder](https://www.amazon.com/s?k=automatic+chicken+feeder+gravity) holds several days of feed and dramatically cuts waste. (This site may earn a commission on purchases made through links like this.)
 
 For nesting boxes, [quality nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads) keep eggs cleaner and reduce breakage, which matters once you're getting eight to 12 eggs a day from a productive flock.
 
@@ -110,7 +110,6 @@ For nesting boxes, [quality nesting pads](https://www.amazon.com/s?k=chicken+nes
 - [RentACoop Automatic Chicken Feeder](https://www.amazon.com/s?k=automatic+chicken+feeder+gravity)
 - [quality nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads)
 - [Andrew Swarga](https://www.pexels.com/@andrew-swarga-87684510)
-
 
 People ask whether keeping chickens actually saves money. The honest answer is it depends entirely on management. A poorly managed flock where you feed 15 birds all winter and process zero is an expensive hobby. A well-managed dual-purpose flock produces real food value.
 

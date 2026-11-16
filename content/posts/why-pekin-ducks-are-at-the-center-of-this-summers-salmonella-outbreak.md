@@ -15,9 +15,9 @@ affiliate_disclosure: false
 lastmod: 2026-07-07
 ---
 
-Most backyard flock keepers assume ducks are the safer, lower-drama alternative to chickens. They're hardy, they're funny to watch, and the internet has spent years romanticizing them as beginner-friendly birds. I'll be honest: I believed that too, for a long time. This summer is forcing a real reckoning with that assumption.
+Most backyard flock keepers assume ducks are the safer, lower-drama alternative to chickens. They're hardy, they're funny to watch, and the internet has spent years romanticizing them as beginner-friendly birds. This summer is forcing a real reckoning with that assumption.
 
-The CDC is tracking an active, multi-strain Salmonella outbreak linked to backyard poultry, and as of June 25, 2026, it has sickened 513 people across 43 states and a U.S. territory. One person in Washington state has died. 134 others have been hospitalized. And buried inside that data is something I didn't expect when I first read the investigation update: Pekin ducks are disproportionately showing up at the center of the dominant strain.
+The CDC is tracking an active, multi-strain Salmonella outbreak linked to backyard poultry, and as of June 25, 2026, it has sickened 513 people across 43 states and a U.S. territory. One person in Washington state has died. 134 others have been hospitalized. Pekin ducks are disproportionately showing up at the center of the dominant strain.
 
 If you added ducks to your flock this spring, or you're thinking about it, this article is for you.
 
@@ -53,7 +53,7 @@ First, higher ambient temperatures increase Salmonella's environmental persisten
 
 Second, and more directly: kids are outside more. More than one in four of the 513 cases are children under age 5. According to a Medical Daily report from June 25, the CDC is specifically warning families about the elevated risk to young children during summer months. Young children are particularly vulnerable because they're more likely to put their hands in their mouths, less likely to wash hands thoroughly, and their immune systems handle Salmonella differently than adults.
 
-I've seen this play out in the backyard flock community. Parents buy ducklings in March for their kids. By July, those ducks are adults living in the backyard, and the kids are spending entire afternoons out there. That's a sustained exposure window.
+A typical scenario: ducklings bought in spring grow to adult size by summer, when children spend extended time handling and playing around them. This creates a sustained exposure window.
 
 ## What You Need to Change Right Now
 

@@ -75,7 +75,7 @@ Here's what to expect at each stage:
 
 The eggs to remove without hesitation are: anything clearly clear at day 10 or later, anything with a blood ring at any point, and anything that smells. That last one doesn't need a candler. If an egg smells sulfurous or rotten, get it out of the incubator immediately. I've had eggs explode. It's exactly as bad as it sounds, and it can contaminate every other egg.
 
-**A quick worked example:** A reader named Dana from northern Wisconsin emailed me this past winter. She'd set 30 Olive Egger eggs and candled at day 5, which is too early for reliable reads. She pulled 8 eggs that looked "clear," but she was also using a flashlight in a half-lit laundry room. When she repeated the process at day 10 in her closet with a brighter light, what she thought was clear turned out to be early development she'd missed. She set a second batch and waited. Hatch rate on batch two: 22 of 30 eggs. Lesson: wait until day 7 minimum, and candle in actual darkness.
+Candling too early (before day 7) and in poor lighting leads to false culls. Early-candled eggs often appear clear when development is just beginning and hard to see. A second attempt at day 10 with proper darkness reveals development that was missed. Waiting until day 7 minimum and candling in actual darkness prevents unnecessary losses.
 
 ## Dark Eggs, Bantam Eggs, and Other Complications
 
@@ -93,7 +93,7 @@ This is where I see beginners make the worst calls, usually in both directions. 
 
 My rule: if I'm genuinely unsure at day 10, I put the egg in a separate small container in the incubator and recandle at day 14. Two data points are better than one. If it's still ambiguous at 14, I smell it. No smell? It stays. Anything that looks like it's developing, even slowly, gets a chance unless the smell test fails.
 
-The research here is mixed on whether "delayed developers" actually catch up and hatch healthy chicks, but in my experience, eggs that look marginally developed at day 10 and clearly developing at day 14 do tend to hatch and produce normal birds. I don't have hard numbers on survival rates for those birds long-term, so I can't speak to that confidently.
+The research on whether "delayed developers" actually catch up and hatch healthy chicks is mixed. Eggs that look marginally developed at day 10 and clearly developing at day 14 tend to hatch and produce normal birds, though long-term survival rate data for those birds remains limited.
 
 **Worked example two:** A batch of 15 dark Welsummer eggs. At day 7, I could confidently read only 4 of them. Put the rest back, recandled at day 10. By that point, 9 more showed clear development. Two remained ambiguous. Both were pulled at day 14 after a second candling showed no change and no smell. Final hatch: 13 of 15 eggs. Both pulled eggs had arrested development around day 5, which was confirmed by opening them. Candling patience paid off there.
 
@@ -106,6 +106,5 @@ The research here is mixed on whether "delayed developers" actually catch up and
 - Brinsea Products technical documentation on egg candler use and air cell tracking: Manufacturer's data on humidity effects on air cell development across species.
 
 ---
-
 
 *Photo: [Valentin Ivantsov](https://www.pexels.com/@valentin-ivantsov-2154772556) via Pexels*

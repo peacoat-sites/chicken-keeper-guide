@@ -25,7 +25,7 @@ faqs:
     a: "If you've positively identified the culprit and the behavior hasn't spread, temporary separation can be useful. It breaks the social reinforcement loop while you address management changes. It's not always necessary, but if you're seeing the behavior escalate quickly, it buys you time to implement fixes without the rest of the flock learning the habit."
 ---
 
-Egg eating happens fast. One day your girls are laying beautifully, and then you reach into the nesting box and find a sticky mess of yolk and shell fragments, and suddenly you're wondering if you've done something terribly wrong. You might be wondering whether this is a one-bird problem or a flock problem, whether it's fixable, or whether you're about to lose every egg you ever collect again. I've been there. It's genuinely unsettling the first time you see it.
+Egg eating happens fast. One day your girls are laying beautifully, and then you reach into the nesting box and find a sticky mess of yolk and shell fragments, and suddenly you're wondering if you've done something terribly wrong. You might be wondering whether this is a one-bird problem or a flock problem, whether it's fixable, or whether you're about to lose every egg you ever collect again.
 
 Here's what I tell people right away: egg eating is almost always a symptom, not a character flaw in your chickens. That framing matters, because if you go into problem-solving mode thinking "I've got a bad egg eater," you'll probably handle it differently than if you ask "what need isn't being met here?" Both approaches get used. One of them works more consistently.
 
@@ -66,17 +66,17 @@ The fix for behavioral egg eating is more about management than diet:
 
 Collect eggs frequently. Multiple times a day if possible. Twice a day is the baseline; three times is better if you have the habit. The longer eggs sit, the more likely they are to get broken accidentally, and the more opportunity the egg eater has.
 
-Darken the nesting boxes. Hens are less likely to peck at eggs they can't see well. Curtains over the box openings genuinely help. I've used strips of burlap stapled over the top edge of the box and it made a noticeable difference within a week.
+Darken the nesting boxes. Hens are less likely to peck at eggs they can't see well. Curtains over the box openings help. Strips of burlap stapled over the top edge of the box can make a noticeable difference within a week.
 
 Use roll-away nesting boxes. This is the closest thing to a foolproof solution for persistent behavioral egg eaters. The box is slightly angled so that when a hen lays, the egg rolls gently away from her reach into a covered compartment. She can't get to it. The [Brinsea or KERBL-style rollaway boxes](https://www.amazon.com/s?k=rollaway+nesting+box+chickens) cost $30-80 depending on size and configuration, which sounds like a lot until you do the math on eggs you're losing every week.
 
-Fake eggs and mustard. This is old advice and it sort of works. You put a ceramic or wooden egg (or a golf ball) in the nest, and when the hen pecks it and gets nothing, it can dull the habit. Some people blow out a real egg and fill it with mustard, which hens dislike. I've tried the golf ball method with genuinely mixed results. Two out of three times it helped. Once, the bird pecked the golf ball so aggressively I was concerned about her beak. Your results may vary.
+Fake eggs and mustard. This is old advice and it sort of works. You put a ceramic or wooden egg (or a golf ball) in the nest, and when the hen pecks it and gets nothing, it can dull the habit. Some people blow out a real egg and fill it with mustard, which hens dislike. Results with the golf ball method vary. It works for some keepers but not others, and occasionally a determined hen will peck at it hard enough to raise concerns about her beak.
 
 ## Worked Examples from Real Flocks
 
 **Scenario 1:** Small backyard flock of 6 hens, heavy on scratch and kitchen treats, shells getting noticeably thinner. One Buff Orpington discovered she could crack and eat eggs. Action taken: added free-choice oyster shell, cut scratch to no more than 10% of daily intake, collected eggs twice daily. Result: shell quality improved within 10 days, egg eating stopped completely within 3 weeks. No birds culled.
 
-**Scenario 2:** A reader named Karen from western Tennessee emailed me after she'd tried the mustard egg trick twice with no success. Her flock was 8 hens in a 6x8 coop (that's 6 square feet per bird, reasonable). Nutrition looked fine. One specific Australorp was the culprit. Action: Karen installed a single rollaway nesting box for $48, separated the Australorp from the other boxes by rearranging the coop layout. Result: problem solved within 4 days. The Australorp laid just fine, she just never got access to the egg after.
+**Scenario 2:** When one bird is the sole problem, isolation can work. For example, if a flock of 8 hens in a 6x8 coop has adequate nutrition but one individual persists in eating eggs, installing a rollaway nesting box and rearranging the coop to separate that bird from the other nest boxes may solve the problem within days. The isolated bird continues laying normally but never gains access to the finished eggs.
 
 **Scenario 3:** Winter flock, 12 hens, confined to coop for 3 weeks during bad weather. No obvious nutritional issue, no thin shells, but egg eating started after day 10 of confinement. This was boredom. Action: added a hanging head of cabbage (cheap, entertaining, keeps them busy), increased the protein content of their feed temporarily, started collecting eggs three times daily. Result: behavior resolved within 2 weeks once the weather broke and they had outdoor access again.
 
@@ -96,6 +96,5 @@ What I don't recommend is the old advice of trimming the upper beak. It's stress
 - Gail Damerow, *The Chicken Health Handbook* (Storey Publishing, 2nd ed.): practical reference covering behavioral and nutritional causes of egg eating, widely considered the most useful single-volume reference for backyard flock keepers
 
 ---
-
 
 *Photo: [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646) via Pexels*

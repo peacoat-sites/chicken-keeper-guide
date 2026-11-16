@@ -25,7 +25,7 @@ author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 lastmod: 2026-07-08
 ---
-Most people pick chickens based on looks. They fall for a photo of a fluffy Silkie or a dramatic Ayam Cemani and buy six of them before asking the obvious question: how many eggs will I actually get? Then they spend a year collecting three eggs every two days from birds that eat as much as any other hen, and they wonder why their "backyard flock" costs more than buying eggs at the farmers market. Breed selection is the single highest-leverage decision you'll make as a chicken keeper, and egg production numbers are the thing most hatchery descriptions quietly fudge.
+Most people pick chickens based on looks. They fall for a photo of a fluffy Silkie or a dramatic Ayam Cemani and buy six of them before asking the obvious question: how many eggs will I actually get? Then they spend a year collecting three eggs every two days from birds that eat as much as any other hen, and they wonder why their "backyard flock" costs more than buying eggs at the farmers market. Breed selection is one of the most important decisions you'll make as a chicken keeper, and egg production numbers are often understated in hatchery descriptions.
 
 Let's fix that.
 
@@ -76,7 +76,7 @@ Here's where I'll give you actual numbers, not ranges so wide they're meaningles
 
 **Silkie.** 80-120 eggs per year, small, cream-tinted. Silkies go broody constantly, which is why people use them to hatch other birds' eggs. If you want Silkies for that reason, great. If you want eggs, they're a poor investment of feed and coop space.
 
-**Orpington (Buff).** 150-200 eggs, large brown. Gorgeous birds, famously docile. Also famously prone to going broody for 3-6 weeks at a stretch, which can cut your actual annual count significantly. I've had Buff Orpingtons sit three times in a single season.
+**Orpington (Buff).** 150-200 eggs, large brown. Gorgeous birds, famously docile. Also famously prone to going broody for 3-6 weeks at a stretch, which can cut your actual annual count significantly. Buff Orpingtons may go broody multiple times in a single season.
 
 ---
 
@@ -117,7 +117,6 @@ Pick the best-laying breed in the world and then get the basics wrong, and you'l
 
 - [A basic plug-in timer](https://amzn.to/3example)
 - [Klaus Nielsen](https://www.pexels.com/@klaus-nielsen)
-
 
 Don't just pick breeds by the top number. Do the math for your specific situation.
 

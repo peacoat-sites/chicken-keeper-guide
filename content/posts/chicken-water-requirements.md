@@ -27,7 +27,6 @@ lastmod: 2026-07-08
 ---
 A chicken can go without food for several days and survive. Without water? You're looking at 24 hours before serious damage begins, and in summer heat, it can be even less than that. Most backyard keepers learn this the hard way once, usually after a waterer gets knocked over or freezes solid overnight. The goal of this article is to make sure you never have to learn it that way.
 
-
 <div class="value-module">
  <div class="vm-head">Daily Water Needs by Flock Size</div>
  <div class="vm-body">
@@ -43,7 +42,7 @@ The short answer: more than you think.
 
 A standard laying hen drinks somewhere between 0.5 and 1 pint of water per day under normal conditions. Bump the temperature above 90°F and that number can double. A flock of 10 hens in July could easily drain a 2-gallon waterer in a single afternoon.
 
-Egg production makes the demand even worse. A single egg is roughly 74% water. Hens laying daily are essentially manufacturing a high-moisture product every 24 to 26 hours, and they need constant water to do it. I've seen small flocks drop egg production by 20 to 30 percent within just 2 to 3 days of inconsistent water access. Production bounces back eventually, but the gap in your collection schedule is real.
+Egg production makes the demand even worse. A single egg is roughly 74% water. Hens laying daily are essentially manufacturing a high-moisture product every 24 to 26 hours, and they need constant water to do it. Small flocks can drop egg production by 20 to 30 percent within just 2 to 3 days of inconsistent water access. Production bounces back eventually, but the gap in your collection schedule is real.
 
 Chicks need water immediately after hatch. Their bodies are even more vulnerable to dehydration than adult birds. Dip the chick's beak directly into shallow water when you first place it in the brooder. Don't assume it'll figure it out, especially if you're using a standard waterer with a deep reservoir.
 
@@ -125,7 +124,6 @@ A few specific concerns:
 
 - [good quality poultry waterer on Amazon](https://www.amazon.com/s?k=poultry+waterer&tag=contentportfo-20)
 - [Muhamad Guruh Budi Hartono](https://www.pexels.com/@muhamad-guruh-budi-hartono-430167744)
-
 
 You can read about dehydration, but spotting it in the yard is what matters. Here's what to watch for:
 

@@ -80,7 +80,6 @@ Most people skip this part because they're excited to get their chicks settled. 
 - [adjustable vent covers](https://www.amazon.com/s?k=chicken+coop+vent+cover&tag=contentportfo-20)
 - [Nesting box pads like these from Hentastic or RentACoop](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
 
-
 People underestimate this every time. Go one size up from what you think you need, because you will add birds. It's called chicken math and it's real. You start with four Buff Orpingtons and then a friend is selling Easter Eggers and suddenly you're short on space.
 
 If you want 3-4 birds long-term: grab the Pets Imperial Clarence or something similar in the $350-$450 range.
@@ -89,7 +88,7 @@ If you want more than 8 birds: seriously consider building or buying a converted
 
 For anything over 10 birds, building or converting is almost always smarter financially within two years. The 20-bird kit coops exist, but they're a constant maintenance project and the ventilation and structural integrity don't hold up at that scale.
 
-A quick note on feeders and waterers: the ones that come with kit coops are usually decorative. A [RentACoop bucket nipple waterer](https://www.amazon.com/s?k=rentacoop+waterer&tag=contentportfo-20) runs $30-$40 and keeps water cleaner longer than any tray-style waterer I've used. Your birds will be healthier for it.
+A quick note on feeders and waterers: the ones that come with kit coops are usually decorative. A [RentACoop bucket nipple waterer](https://www.amazon.com/s?k=rentacoop+waterer&tag=contentportfo-20) runs $30-$40 and keeps water cleaner longer than tray-style waterers. Your birds will be healthier for it.
 
 The right kit coop, reinforced properly and sized honestly, will serve you well for years. Just go in knowing that "some assembly required" always means more than the box implies, and "holds 6 chickens" almost never does.
 

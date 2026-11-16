@@ -34,7 +34,7 @@ The thing is, early-stage sexing isn't actually that hard once you know what you
 
 Professional hatcheries use a method called vent sexing. It's performed at one day old, when chicks are literally a day out of the egg. A trained sexer (yes, that's a real job) looks at the cloaca, the single opening birds use for waste and reproduction, and identifies the tiny bump that indicates a male. It's incredibly fast, and they do it with maybe a 5% error rate on average.
 
-Five percent doesn't sound catastrophic until you do the math. If you [order 20 chicks](/buying-chicks-online/), you're statistically going to get one wrong. If you order a larger batch, the errors compound. Last spring, I corresponded with a reader named Marcus in rural Kentucky who ordered 50 chicks from a major US hatchery marked "all female." He ended up with 12 cockerels. The hatchery refunded him $20 per bird, which covered nothing, he'd already built housing for the flock size he thought he was getting.
+Five percent doesn't sound catastrophic until you do the math. If you [order 20 chicks](/buying-chicks-online/), you're statistically going to get one wrong. If you order a larger batch, the errors compound. For example, someone ordering 50 chicks from a major US hatchery marked "all female" might end up with 12 cockerels. A $20-per-bird refund covers nothing when housing was already built for the expected flock size.
 
 The reason this matters isn't just annoyance. Cockerels grow faster than pullets, eat more, take up space, and by the time they're obviously male (around 8 to 12 weeks), you've [already sunk money into feed](/chick-starter-feed/). And if you can't identify them sooner, you're flying blind on your own flock management.
 
@@ -74,7 +74,7 @@ Starting around 4 to 6 weeks, young males begin practicing. Instead of the soft 
 
 But here's the thing: not all cockerels vocalize on the same schedule. A slow-growing cockerel might not do this until 7 or 8 weeks. And on the flip side, some pullets make weird sounds when they're stressed or excited. So while vocalization is a great supplementary clue, I wouldn't stake everything on it alone.
 
-Behavior is more consistent. Young males are more aggressive toward each other and more forward with people. They jump higher, they run harder, and by 6 to 8 weeks, you'll see one bird emerging as a minor tyrant in the chick box, bullying others for food and space. Pullets engage in a pecking order too, but it's quieter. Less violent. Cockerels practice mounting behaviors on each other and occasionally on pullets, which is something pullets simply don't do. I first noticed this pattern when I was about 5 weeks into my second season. One chick kept trying to mount his siblings, and I remember thinking, "Oh, that's not going to end well for anyone."
+Behavior is more consistent. Young males are more aggressive toward each other and more forward with people. They jump higher, they run harder, and by 6 to 8 weeks, you'll see one bird emerging as a minor tyrant in the chick box, bullying others for food and space. Pullets engage in a pecking order too, but it's quieter. Less violent. Cockerels practice mounting behaviors on each other and occasionally on pullets, which is something pullets simply don't do.
 
 ## The Breed-Specific Curveball
 
@@ -82,7 +82,7 @@ Sex-linked breeds are a gift. A Rhode Island Red crossed with a Buff Orpington c
 
 But heritage breeds, bantams, and rare varieties? That's where things get muddy.
 
-Sebrights are almost always a guessing game even at 8 weeks because the males don't grow prominent sickle feathers like standard breeds. Silkies have that fluffy plumage that hides everything, including whether a comb is actually developed or just stuck under feathers. I've seen Cochin cockerels look feminine until they're almost fully grown, and then suddenly you're dealing with a 2-pound rooster in a space you built for bantams.
+Sebrights are almost always a guessing game even at 8 weeks because the males don't grow prominent sickle feathers like standard breeds. Silkies have that fluffy plumage that hides everything, including whether a comb is actually developed or just stuck under feathers. Cochin cockerels can look feminine until almost fully grown, at which point a 2-pound rooster occupies space built for bantams.
 
 The move here is honestly unglamorous: keep good notes. If you hatch your own or maintain a flock over time, take photos at 4 weeks, 6 weeks, 8 weeks, and 10 weeks. Compare them side by side. You'll start seeing patterns in your specific birds. A cockerel Red Wyandotte looks different from a cockerel Australorp, but the directional signals are the same if you're watching the same genetics over time.
 
@@ -94,7 +94,7 @@ If your city or county allows roosters, you can keep him if you want to. One roo
 
 If you can't keep roosters, you have three options: rehome him, process him, or give him away. Rehoming is kindest but unreliable, not every flock has space. Processing is clean and definitive; if you're comfortable with it, it's the most honest answer. And giving him away works, but make sure the person actually has space and isn't just being polite.
 
-The emotional piece is real. I've had to process roosters I'd raised from chicks, and it's not fun. But the alternative is keeping a bird you don't have space for, which is genuinely worse for him and more stressful for you long-term.
+The emotional piece is real. Processing roosters you've raised from chicks isn't fun. But the alternative is keeping a bird you don't have space for, which is genuinely worse for him and more stressful for you long-term.
 
 ## Getting Ahead of the Problem
 
@@ -110,6 +110,5 @@ And finally, start looking closely at 3 weeks, not 12. The earlier you identify 
 - [American Poultry Association Standards of Perfection (current edition)]: Breed-specific feathering and development characteristics
 - [USDA National Institute of Food and Agriculture - Poultry Resources]: Historical data on hatchery sexing error rates and industry standards
 - [Backyard Poultry Magazine archives]: Reader reports and practical sexing methods from small-scale keepers
-
 
 *Photo: [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646) via Pexels*

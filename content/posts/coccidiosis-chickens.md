@@ -43,7 +43,7 @@ Young birds between 3 and 8 weeks old are by far the most vulnerable. Their immu
 
 ## Recognizing the Symptoms Before It's Too Late
 
-Bloody droppings get all the attention, and they are a serious warning sign. But coccidiosis can kill birds before you see a single drop of blood. I've had people contact me after losing chicks to what looked like "sudden death," and in several of those cases, the history pointed strongly to coccidiosis that progressed too fast.
+Bloody droppings get all the attention, and they are a serious warning sign. But coccidiosis can kill birds before you see a single drop of blood. The disease can progress rapidly enough to cause sudden death before bloody droppings appear, making early intervention critical.
 
 Here's what to watch for, roughly in the order symptoms appear:
 
@@ -117,7 +117,6 @@ Here's the practical cleanup sequence:
 
 - [Rooster Booster Poultry Cell](https://www.amazon.com/s?k=rooster+booster+poultry+cell&tag=contentportfo-20)
 - [horizontal nipple waterers](https://www.amazon.com/s?k=chicken+nipple+waterer&tag=contentportfo-20)
-
 
 Here's the honest truth: you probably can't prevent exposure, and you probably shouldn't try.
 

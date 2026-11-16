@@ -43,11 +43,11 @@ Fresh oregano is also stupidly easy to grow in a raised bed near the coop, and c
 
 ## Nest Box Herbs: Real Benefits, Low Effort
 
-If there's one place herbs make an undeniable, immediate difference, it's the nest box. Lavender, rosemary, and mint all contain compounds that genuinely repel mites and lice. I've seen people argue about whether it "works," but what I can tell you is: I've done seasons with herb-stuffed nest boxes and seasons without. The lice pressure was noticeably lower in the herb years. Not zero, but lower.
+If there's one place herbs make an undeniable, immediate difference, it's the nest box. Lavender, rosemary, and mint all contain compounds that genuinely repel mites and lice. Many keepers report noticeably lower lice pressure when using herb-stuffed nest boxes, though the effect isn't complete elimination.
 
 The easy approach is to grab a bundle of dried lavender (the kind sold for sachets, not sprayed with fragrance), crumble it loosely into the nest box liner with your bedding, and refresh it every couple of weeks. Rosemary holds up longer because it's woodier. Mint loses potency fast when dried, so fresh is better there if you have it.
 
-One thing nobody mentions: wet herbs in a nest box will mold fast. Dry first, or use fresh in small amounts you're replacing every day or two. I learned this the hard way when I discovered a disgusting lavender-and-bedding compost situation forming under one of my hens.
+One thing nobody mentions: wet herbs in a nest box will mold fast. Dry first, or use fresh in small amounts you're replacing every day or two. Wet herbs in a nest box will mold quickly, creating conditions that can harbor problems.
 
 ## A Practical Herb Reference
 
@@ -64,7 +64,7 @@ Not every herb does the same thing. Here's where I've landed after a decade of t
 | Dill | Antioxidant, general health | Fresh heads offered free-choice | Chickens love it; good summer treat |
 | Garlic | Immune support, some evidence against intestinal worms | Minced in water or feed | Don't overdo it; strong flavor affects egg taste at high doses |
 
-Garlic deserves its own mention because there's a persistent myth that it makes eggs taste garlicky. I tested this myself over about six weeks: adding roughly one clove's worth of minced garlic per gallon of water, twice a week. Zero detectable flavor change in the eggs. Where you can get into trouble is feeding large amounts of raw garlic directly and frequently. A little in the water? Totally fine.
+Garlic deserves its own mention because there's a persistent myth that it makes eggs taste garlicky. Adding roughly one clove's worth of minced garlic per gallon of water, twice a week, produces no detectable flavor change in eggs. Where you can get into trouble is feeding large amounts of raw garlic directly and frequently. A little in the water? Totally fine.
 
 ## What Doesn't Work (Or Barely Works)
 
@@ -78,7 +78,7 @@ St. John's Wort and comfrey are plants people sometimes mention, and I'd leave b
 
 Chickens will destroy an unprotected herb garden in about four minutes. I'm not exaggerating. The first time I tried to grow herbs in my run, they were scratched down to bare dirt by the following Tuesday.
 
-What works: raised beds or large containers just outside the run fence, low enough that long herb branches can drape through the wire for chickens to pick at without them accessing the root system. Alternatively, I've had good luck with a chicken-proof herb spiral inside the run (stones stacked about 14 inches high around the perimeter of the planting area). They can eat the edges but not reach the center.
+What works: raised beds or large containers just outside the run fence, low enough that long herb branches can drape through the wire for chickens to pick at without them accessing the root system. A chicken-proof herb spiral inside the run also works well: stack stones about 14 inches high around the perimeter of the planting area so chickens can eat the edges but not reach the center.
 
 Scenario: Reader Anna, who emailed me in early 2026, had a 6-hen flock and wanted to grow herbs inside her run. She planted oregano, thyme, and mint in three separate wire-wrapped cages inside the run, with 2-inch hardware cloth sides. The hens nibbled tops through the mesh, the plants kept growing, and she had continuous fresh herbs without any replanting for the whole season. Her words: "I finally stopped buying dried oregano for the coop."
 

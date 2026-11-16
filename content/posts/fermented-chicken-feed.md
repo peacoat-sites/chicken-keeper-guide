@@ -14,7 +14,7 @@ slug: "fermented-chicken-feed"
 affiliate_disclosure: false
 ---
 
-Fermented feed cut my flock's feed consumption by roughly 20% within the first three weeks. I wasn't expecting that. I started fermenting mostly because a reader named Jess from rural Wisconsin emailed me asking whether it was worth the hassle, and I realized I'd been half-doing it for years without ever tracking anything carefully. So I actually paid attention this time.
+Many keepers report that fermented feed reduces feed consumption, with some observing reductions around 20% in the first few weeks. A common mistake is half-implementing fermentation without tracking results carefully.
 
 Here's what you need to know upfront: fermentation isn't magic, it's microbiology. What you're doing is creating a lacto-fermented feed using naturally occurring Lactobacillus bacteria, the same process behind sauerkraut and sourdough. The bacteria pre-digest some of the starches and phytic acid in the grain, which improves nutrient bioavailability and creates beneficial probiotics. A 2012 study published in Poultry Science found that hens fed lacto-fermented feed showed significantly improved feed conversion ratios and higher [egg production](/adding-light-for-winter-egg-production/) compared to controls fed the same dry ration. The mechanism is fairly well understood: fermentation reduces phytic acid (a compound that blocks mineral absorption) by up to 60%, according to research from Wageningen University, which means your birds are actually absorbing more of what they eat.
 
@@ -28,7 +28,7 @@ You're not doing anything fancy. You're soaking feed in water and letting wild L
 
 The key word is anaerobic. The feed needs to be submerged under water so that oxygen-dependent (aerobic) bacteria can't dominate. This is why a weight on top of your fermenting bucket matters more than most guides admit. I learned this the hard way my first season when I kept getting a thin white film on top of the feed. That's kahm yeast, not dangerous, but it means your feed wasn't fully submerged and aerobic organisms got a foothold. Press the feed down, weight it, and keep it covered. Problem solved.
 
-Temperature matters. Fermentation happens fastest around 70-75°F. In my basement in January it sometimes takes closer to 5 days. In August in a non-insulated garage, I've had batches turn sour and over-fermented in under 48 hours. The smell you're looking for is pleasantly sour, like yogurt or sourdough. If it smells rotten, genuinely putrid, not just tangy, toss it.
+Temperature matters. Fermentation happens fastest around 70-75°F. In cooler conditions like an unheated basement, fermentation can take closer to 5 days. In warm, uninsulated spaces during summer, batches can over-ferment in under 48 hours. The smell you're looking for is pleasantly sour, like yogurt or sourdough. If it smells rotten, genuinely putrid, not just tangy, toss it.
 
 ## The Numbers: Cost, Consumption, and What to Expect
 
@@ -67,13 +67,13 @@ The biggest practical thing I'd tell you: don't make more than your flock can ea
 
 Not everything ferments equally well. Layer pellets work fine but they turn into mush fast and lose their shape within about 24 hours. Crumbles are worse, basically dissolving into a paste. Whole grains (scratch grains, whole wheat, whole oats, barley) hold their texture better and give birds something to work with, which they seem to prefer. Fermented grains also have a more complete fermentation because the hull and endosperm are intact.
 
-I've had good luck with Scratch and Peck Feeds Cluckin' Good Layer mash (around $45 for 25 lbs, which sounds steep until you account for the consumption reduction). It's designed to be fermented, the texture holds reasonably well, and the company actually publishes fermentation instructions on their packaging. That's not an endorsement, just an observation that some feeds are genuinely designed for this.
+Some feeds are specifically formulated for fermentation. Scratch and Peck Feeds Cluckin' Good Layer mash (around $45 for 25 lbs) is one example: it's designed to be fermented, holds texture reasonably well, and includes fermentation instructions on the packaging. That's not an endorsement, just an observation that some feeds are genuinely designed for this.
 
 One thing to avoid: medicated chick starter. The amprolium in it can be degraded or its effectiveness altered by fermentation, and the research on exactly what happens is mixed enough that I wouldn't risk it with young birds.
 
 ## Does It Actually Improve Egg Production?
 
-I'll be honest here: the research is genuinely mixed. The 2012 Poultry Science study showed improvements, a few other controlled trials have replicated modest gains, but the effect size varies a lot by breed, age of the flock, and baseline diet quality. My Australorps went from averaging 4-5 eggs per 6 birds per day to 5-6 per day in the month after I switched. Is that fermentation, or was it a seasonal thing (I switched in April, right as day length was increasing)? I genuinely don't know.
+The research is genuinely mixed. The 2012 Poultry Science study showed improvements, a few other controlled trials have replicated modest gains, but the effect size varies a lot by breed, age of the flock, and baseline diet quality. Timing also matters when evaluating results: a flock switched to fermented feed in spring may see production gains that coincide with increasing day length, making it difficult to isolate fermentation's actual effect.
 
 What I do feel more confident about is gut health. Flock-wide loose droppings dropped off noticeably. Two of my older hens that had intermittent soft stool issues for most of a year cleared up within about six weeks on fermented feed. Anecdote, obviously, but consistent with what the Lactobacillus literature would predict.
 

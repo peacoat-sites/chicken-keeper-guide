@@ -45,7 +45,7 @@ Before I care about the organic certification, I want to see the protein percent
 
 The ingredient list should lead with a whole grain or grain meal. Corn, wheat, peas, soybean meal, and fish meal are all normal and fine. What I don't want to see is the first three ingredients being byproduct fractions or filler grains with the actual protein source buried halfway down the list.
 
-Scratch and Peck makes a soy-free organic layer feed that I've had good results with. [Their Naturally Free Organic Layer Feed runs around $45-50 for 25 pounds](https://amzn.to/3example), which is genuinely expensive, but the ingredient quality is visible. The kernels are whole, it smells like actual food, and my hens' yolk color was noticeably deeper orange within about two weeks of switching. The soy-free formulation is worth it if you have a sensitivity concern or you're selling to customers who request it.
+Scratch and Peck makes a soy-free organic layer feed. [Their Naturally Free Organic Layer Feed runs around $45-50 for 25 pounds](https://amzn.to/3example), which is genuinely expensive, but the ingredient quality is visible. The kernels are whole and it smells like actual food. The soy-free formulation is worth it if you have a sensitivity concern or you're selling to customers who request it.
 
 Modesto Milling is another brand worth knowing. They do certified organic pellets and mash, they ship in larger quantities, and the price per pound is more reasonable if you're feeding more than a handful of birds. Azure Standard also carries organic feed if you have a route near you and can order in bulk.
 
@@ -61,7 +61,7 @@ A standard laying hen eats roughly a quarter pound of feed per day. A backyard f
 
 Whether $273 a year matters to you is a personal question.
 
-One thing that genuinely helps is supplementing with fermented feed. I ferment a portion of my flock's organic grain ration by soaking it in water for 3-4 days until it gets that slightly sour, bubbly smell. Fermented feed improves digestibility, which means your birds extract more nutrition from the same amount of feed. My own observation, over multiple fermentation trials with my current flock of 11, is that consumption drops by about 15-20% when I'm consistently offering fermented grain alongside dry pellets. That's real money. A simple [food-grade 5-gallon bucket](https://amzn.to/3example) is all you need to start fermenting.
+Fermented feed can help reduce feed costs. To ferment grain, soak it in water for 3-4 days until it develops a slightly sour, bubbly smell. Fermented feed improves digestibility, which means your birds extract more nutrition from the same amount of feed, potentially reducing overall consumption. A simple [food-grade 5-gallon bucket](https://amzn.to/3example) is all you need to start fermenting.
 
 ## Does Organic Feed Actually Produce Better Eggs?
 
@@ -80,7 +80,6 @@ Where I do think organic feed makes a difference is in what it doesn't contain. 
 - [A 31-gallon Behrens can](https://amzn.to/3example)
 - [Павел Гавриков](https://www.pexels.com/@79376109)
 - here is genuinely mixed
-
 
 One thing people underestimate is how quickly organic feed can go rancid or grow mold, especially in summer. Because organic feeds don't use synthetic preservatives, the fats in the grain oxidize faster. A 50-pound bag of organic layer feed left in a hot garage for six weeks is a 50-pound bag of garbage.
 

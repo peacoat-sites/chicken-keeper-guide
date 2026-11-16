@@ -51,7 +51,7 @@ You can have six perfectly-spaced nesting boxes and still have problems if they'
 
 Standard box dimensions are 12x12 inches for most laying breeds. That works fine for Leghorns, Australorps, Rhode Island Reds, and most of the mid-size breeds you're probably keeping. If you've got Buff Orpingtons or any Jersey Giants in your flock, size up to 14x14 or even 12x14. A hen who feels cramped won't use the box reliably. She'll find somewhere else. Usually somewhere terrible.
 
-Height off the ground matters too. Boxes mounted at 18 to 24 inches work well for most flocks. Too low, and other birds walk over the hens laying inside. Too high, and older hens or heavy breeds skip them entirely. I've seen people mount boxes at [roost height](/chicken-roost-height/) (4+ feet) and then wonder why their hens roost in the boxes at night and poop all over the nesting material. Keep boxes lower than your primary roosts, and that problem mostly disappears.
+Height off the ground matters too. Boxes mounted at 18 to 24 inches work well for most flocks. Too low, and other birds walk over the hens laying inside. Too high, and older hens or heavy breeds skip them entirely. Boxes mounted at [roost height](/chicken-roost-height/) (4+ feet) often end up as nighttime roosts, which dirties the nesting material. Keep boxes lower than your primary roosts, and that problem mostly disappears.
 
 The other thing worth getting right is the entry lip. A 3- to 4-inch lip at the front keeps nesting material in the box and eggs from rolling out. [Premier 1's plastic nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=) hold up better than straw alone and cut down on dirty eggs substantially. (The site may earn a commission on purchases made through links here.)
 
@@ -63,7 +63,7 @@ This is the laying schedule problem. Most hens in a healthy flock peak within th
 
 If you've got a flock where morning congestion is a real issue, adding one or two extra boxes beyond the formula recommendation is cheaper than dealing with the egg breakage, floor-laying habits, and occasional broody pileups. Extra boxes are a one-time cost. Broken eggs and stressed hens are ongoing.
 
-One more thing that catches people off guard: when you add new hens, the box dynamics reset. Pullets coming into lay for the first time often won't use boxes that established hens have strongly claimed. I've had pullets lay on the floor for two weeks before finally joining the rotation. Having more boxes than you technically need gives newcomers a lower-stakes entry point.
+One more thing that catches people off guard: when you add new hens, the box dynamics reset. Pullets coming into lay for the first time often won't use boxes that established hens have strongly claimed. Having more boxes than you technically need gives newcomers a lower-stakes entry point.
 
 ## Communal Boxes: A Contrarian Take
 
@@ -72,12 +72,10 @@ One more thing that catches people off guard: when you add new hens, the box dyn
 - [Premier 1's plastic nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=)
 - [RDNE Stock project](https://www.pexels.com/@rdne)
 
-
 Most advice you'll read is about individual cubbies, and that is what works best for most backyard setups. But I'll say this: large communal nesting boxes, basically one long trough-style box instead of individual cubbies, work surprisingly well for calm, same-age flocks.
 
 I ran a 48-inch open communal box for a flock of eight Sussex for almost two years. No drama. Multiple hens would lay simultaneously, side by side, no dividers needed. The tradeoff is that one broody hen can block more real estate in a communal setup, and if you've got a bossy hen, she'll claim the whole thing. Know your flock.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

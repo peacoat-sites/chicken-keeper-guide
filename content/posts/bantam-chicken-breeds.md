@@ -50,7 +50,7 @@ Why does this matter practically? Feed costs, coop space requirements, egg size,
 
 I'll be honest: not all bantams are worth your time, and the popular ones aren't always the best.
 
-**Silkies** are the breed everyone defaults to. Fluffy, weird-looking, docile. They make exceptional broody hens and will hatch basically anything you put under them, including duck eggs. I've used mine as a hatch machine for three seasons running. Their eggs are small but they lay reasonably well through spring and early summer. The downsides are real though: their foot feathering is a mud magnet, they're practically blind in wet weather because their crest flops over their eyes, and they're so calm that dominant birds will bully them relentlessly in a mixed flock. Keep them with their own kind or with other gentle breeds.
+**Silkies** are the breed everyone defaults to. Fluffy, weird-looking, docile. They make exceptional broody hens and will hatch basically anything you put under them, including duck eggs. Their eggs are small but they lay reasonably well through spring and early summer. The downsides are real though: their foot feathering is a mud magnet, they're practically blind in wet weather because their crest flops over their eyes, and they're so calm that dominant birds will bully them relentlessly in a mixed flock. Keep them with their own kind or with other gentle breeds.
 
 **Belgian d'Uccles** (specifically the Mille Fleur color) are a breed I came late to and now I'm a convert. These birds have full beards, muffs, and feathered feet. The roosters crow, but it's softer than standard roosters. Hens go broody frequently and are attentive mothers. What surprised me was how personable they are. My d'Uccle rooster, Copernicus, will genuinely follow me around the yard and has never once shown aggression. That's not universally true of the breed but it's more common than with some others.
 
@@ -72,7 +72,7 @@ The math on feed-to-egg productivity is actually not bad for the [better laying 
 
 ## Coop and Housing Realities
 
-Bantams need less square footage per bird than large fowl, but they still need proper protection. This is where I've seen new keepers get complacent. Because the birds are small, it's tempting to use lighter-gauge hardware cloth or put them in a tiny tractor with minimal hardware. Don't. A weasel or a rat can kill an entire bantam flock in one night, and smaller birds give predators a much easier target.
+Bantams need less square footage per bird than large fowl, but they still need proper protection. New keepers often get complacent here. Because the birds are small, it's tempting to use lighter-gauge hardware cloth or put them in a tiny tractor with minimal hardware. Don't. A weasel or a rat can kill an entire bantam flock in one night, and smaller birds give predators a much easier target.
 
 Roost height matters more than people think with feather-footed breeds. If you're keeping d'Uccles or Cochins, put roosts no higher than 18-24 inches and add a wide landing board. They can't manage high roosts the way clean-legged birds can, and foot feather damage from awkward landings leads to bumblefoot faster than you'd expect.
 
@@ -89,8 +89,7 @@ For feeders, smaller bantams sometimes struggle with standard trough feeders if 
 - [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646)
 - here is mixed
 
-
-The research here is mixed, honestly, and so is my own experience. I've had bantam hens integrate fine with standard flocks and I've had them bullied to the point of feather loss and injury. The main variable is flock dynamics and space. If you've got pushy breeds in your standard flock, like Rhode Island Reds or production birds who've established a rigid pecking order, adding bantams can go badly.
+Results vary depending on flock dynamics. Some keepers find bantam hens integrate fine with standard flocks, while others report them being bullied to the point of feather loss and injury. The main variable is flock dynamics and space. If you've got pushy breeds in your standard flock, like Rhode Island Reds or production birds who've established a rigid pecking order, adding bantams can go badly.
 
 My most successful mixed flocks have been bantam roosters with bantam hens housed together, adjacent to standard hens with shared run space but separate sleeping areas. That way the bantams have a retreat that the larger birds can't crowd them out of.
 

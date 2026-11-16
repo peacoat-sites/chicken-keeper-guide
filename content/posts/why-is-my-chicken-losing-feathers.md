@@ -29,9 +29,7 @@ Roughly 80% of feather-loss questions I see in [backyard chicken](/why-cities-ar
 
 If you're reading this, you probably walked out to the coop this morning, saw a hen looking patchy and bedraggled, and thought something was seriously wrong. Maybe there are feathers scattered across the run like confetti. Maybe one bird is almost bare across the back and you can see pink skin. You might be wondering if she's sick, if something got into the coop, if you did something wrong. Here's what I tell people in that exact moment: slow down, because the cause is almost certainly one of four things, and only one of them requires a vet.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Molting is the most common cause and affects every hen annually, typically August through November.</li><li style="margin:5px 0">Feather pecking by flock mates accounts for roughly 30% of feather-loss cases in backyard flocks, per the Merck Veterinary Manual.</li><li style="margin:5px 0">Protein deficiency during molt will extend the process from 8 weeks to 16+ weeks if not corrected.</li><li style="margin:5px 0">Rooster over-mating causes feather loss in a specific saddle/back pattern and is often misidentified as disease.</li><li style="margin:5px 0">Mites and lice are real, but they show up with specific symptoms that make them easy to confirm with a 60-second inspection.</li></ul></div>
-
 
 ## Molting: The Obvious Answer You Might Be Overthinking
 
@@ -39,7 +37,7 @@ Every single laying hen molts. It's not optional, it's not a sign of illness, an
 
 The classic molt pattern starts at the head and neck, moves down the back, and finishes at the tail. A hen going through a hard molt can look genuinely alarming. I had a Barred Plymouth Rock one fall who lost so many feathers so fast that I actually drove to the feed store to buy diatomaceous earth because I was convinced she had mites. She didn't. She was just molting hard, which some individuals do, and she came out of it in about nine weeks looking better than before.
 
-Here's the thing that often gets missed: molt timing and duration depend heavily on protein. Feathers are roughly 85% protein (specifically keratin), and if your birds are on a standard layer pellet with 16% protein, they may struggle through the process. The Merck Veterinary Manual notes that dietary protein requirements jump to 20-22% during molt. I bump my flock to Purina Flock Raiser (18% protein) at the first sign of feather drop, and I add a scrambled egg or a small handful of black oil sunflower seeds (about 16% crude fat, which helps new feathers come in with better sheen) a few times a week. The molt finishes noticeably faster.
+Here's the thing that often gets missed: molt timing and duration depend heavily on protein. Feathers are roughly 85% protein (specifically keratin), and if your birds are on a standard layer pellet with 16% protein, they may struggle through the process. The Merck Veterinary Manual notes that dietary protein requirements jump to 20-22% during molt. At the first sign of feather drop, switch to a higher-protein feed like Purina Flock Raiser (18% protein), and add a scrambled egg or a small handful of black oil sunflower seeds (about 16% crude fat, which helps new feathers come in with better sheen) a few times a week. This approach speeds up molt completion.
 
 One detail that catches people off guard: molting hens [stop laying](/why-did-my-chicken-stop-laying/), or nearly stop. That's not a problem. That's the whole point. The body is diverting resources to feather regrowth.
 
@@ -49,9 +47,9 @@ This is the one that sneaks up on you. [Pecking order](/chicken-pecking-order/) 
 
 The pattern here is different from molt. You'll see feather loss concentrated in specific areas: the back of the head, the base of the tail, and the back/saddle region. The feathers near those areas will look chewed or broken rather than cleanly dropped. And if you watch for five minutes during peak activity hours (mid-morning, usually), you'll catch the culprit.
 
-Scenario: A reader from Nashville, Donna, emailed me last spring about a Buff Orpington who had a completely bare back and was bleeding slightly. → I asked her to watch the flock for ten minutes and tell me what she saw. She identified a New Hampshire Red who was obsessively pulling feathers any time the Orpington approached the feeder. → We separated the NHR for two weeks, treated the bare patch with Blu-Kote (a gentian violet antiseptic spray that also colors the skin and removes the visual target), and reintroduced the aggressor. The Orpington grew her feathers back in about seven weeks with no recurrence.
+For example, if one bird is obsessively pulling feathers from another, isolate the aggressor for two weeks while treating the bare patch with Blu-Kote (a gentian violet antiseptic spray that also colors the skin and removes the visual target). Reintroduction often succeeds after the targeted bird has regrown feathers.
 
-Overcrowding is the most common underlying cause of feather pecking. The standard recommendation is 4 square feet of coop space and 10 square feet of run space per bird, but in my experience that's the bare minimum and stress shows up right at that threshold. If you're at or under those numbers and seeing pecking, adding space or reducing flock size is the real fix, not the spray.
+Overcrowding is the most common underlying cause of feather pecking. The standard recommendation is 4 square feet of coop space and 10 square feet of run space per bird, though stress often appears at this threshold. If you're at or under those numbers and seeing pecking, adding space or reducing flock size is the real fix, not the spray.
 
 ## Rooster Damage (Treading)
 
@@ -78,9 +76,7 @@ Treatment depends on what you're dealing with.
 
 One thing that only comes up when you've actually dealt with red mites: they live in the coop, not on the bird, and they only come out at night to feed. If you check a bird during the day and see nothing, but birds seem restless at roost and are losing feathers, check the underside of roost bars after dark with a flashlight. The mites cluster there. I once found what looked like a rust-colored powder under a roost bar that turned out to be thousands of red mites. Not a fun discovery.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Most common causes of feather loss in backyard flocks (% of cases)</div><div class="sc-row"><span class="sc-label">Annual molt</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">45%</span></div><div class="sc-row"><span class="sc-label">Feather pecking</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">30%</span></div><div class="sc-row"><span class="sc-label">Rooster treading</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">15%</span></div><div class="sc-row"><span class="sc-label">External parasites</span><span class="sc-track"><span class="sc-bar" style="width:16%"></span></span><span class="sc-val">7%</span></div><div class="sc-row"><span class="sc-label">Disease / other</span><span class="sc-track"><span class="sc-bar" style="width:7%"></span></span><span class="sc-val">3%</span></div><div class="sc-src">Source: Merck Veterinary Manual / poultry extension data</div></div>
-
 
 ## What Actually Requires a Vet
 
@@ -99,6 +95,5 @@ The honest answer is that disease-related feather loss is rare and almost always
 - The Chicken Health Handbook, Gail Damerow (Storey Publishing): Comprehensive reference for disease vs. environmental causes of feather loss; widely used by extension vets.
 
 ---
-
 
 *Photo: [dp singh Bhullar](https://www.pexels.com/@dpsinghbhullar) via Pexels*

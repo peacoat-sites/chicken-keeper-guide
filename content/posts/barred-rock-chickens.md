@@ -79,7 +79,7 @@ Health-wise, they're genuinely hardy. Cold tolerance is excellent. That single c
 
 Barred Rocks don't need anything fancy, but they do need space. Don't crowd them. The standard guidance of 4 square feet per bird inside the coop and 10 outside is a floor, not a target. These birds have real size and real social needs, and a cramped run with Barred Rocks will eventually produce feather-pecking.
 
-Roost height matters more than people think. I've seen keepers put roosts at 4 to 5 feet high and then wonder why their big birds have keel injuries. Barred Rocks are heavy. Keep your primary roost at 18 to 24 inches off the ground, with a lower step at 12 inches so they can get up without a big jump. I switched my flock to this setup after my second hen developed a mild keel bruise, and I haven't seen one since.
+Roost height matters more than people think. Roosts set at 4 to 5 feet high often lead to keel injuries in large breeds. Barred Rocks are heavy. Keep your primary roost at 18 to 24 inches off the ground, with a lower step at 12 inches so they can get up without a big jump.
 
 Nesting boxes: one box per 4 to 5 hens is the typical guidance, but honestly, they'll all want the same box anyway. That's just chickens. [Soft nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20) make a real difference for large-bodied birds.
 
@@ -108,7 +108,7 @@ If you want a flock that looks good, lays well, tolerates handling, does reasona
 
 If you're chasing maximum egg production per bird, look at Golden Comets or ISA Browns. If you want extraordinary gentleness and lap-bird behavior, Buff Orpingtons might edge out Barred Rocks on that metric. And if you're in a hot, humid climate like southern Texas or Florida in midsummer, lighter Mediterranean breeds handle the heat better.
 
-But for most backyard keepers in most of the country? As of July 2026, Barred Rocks remain one of the most reliable, adaptable, and genuinely satisfying breeds you can put in a coop. I've kept them alongside Rhode Island Reds, Easter Eggers, Australorps, and Wyandottes. When someone asks me where to start, or where to anchor a mixed flock, I still point to Barred Rocks first.
+As of July 2026, Barred Rocks remain one of the most reliable, adaptable, and genuinely satisfying breeds available for most backyard keepers in most of the country. They are considered a solid choice for beginners and for anchoring a mixed flock alongside breeds such as Rhode Island Reds, Easter Eggers, Australorps, and Wyandottes.
 
 ---
 
@@ -120,6 +120,5 @@ But for most backyard keepers in most of the country? As of July 2026, Barred Ro
 - [Penn State Extension, Small Flock Production Guide](https://extension.psu.edu): Practical guidance on coop space, nutrition transitions, and dual-purpose breed management.
 
 ---
-
 
 *Photo: [FurtherMore Studio](https://www.pexels.com/@bobo) via Pexels*

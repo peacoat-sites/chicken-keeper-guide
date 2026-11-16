@@ -25,10 +25,9 @@ author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 lastmod: 2026-07-08
 ---
-Most chicken keepers I know started giving treats with the best intentions and accidentally turned their flock into a bunch of picky, nutritionally-compromised divas. I did it too. My first year with chickens, I was tossing scratch grains, bread crusts, and leftover pasta like I was running a bed and breakfast. My hens were thrilled. Their egg production? Not so much.
+Many chicken keepers start giving treats with the best intentions and accidentally turn their flock into picky, nutritionally-compromised birds. It's easy to do: tossing scratch grains, bread crusts, and leftover pasta seems harmless, especially when the hens eagerly devour it. But egg production often suffers as a result.
 
-Here's the thing: treats aren't bad. Treats given thoughtlessly are bad. There's a real difference, and once you understand the logic behind it, you'll make better calls every single time without needing to look anything up.
-
+Treats aren't bad. Treats given thoughtlessly are bad. There's a real difference, and once you understand the logic behind it, you'll make better calls every single time without needing to look anything up.
 
 <div class="value-module">
   <div class="vm-head">Treat Nutrition Comparison Chart</div>
@@ -45,7 +44,7 @@ Chickens need complete, balanced nutrition, and that comes from their layer feed
 
 The guideline poultry nutritionists actually recommend is that treats should make up no more than 10% of your flock's daily diet. For a standard 6-hen backyard flock eating roughly half a pound of feed per bird per day, that's about a quarter cup of treats total for the whole group. Per day. Not per bird.
 
-That number surprises people. When I first learned it, I was shocked too. But it makes sense once you see what happens to hens who get too many extras: soft-shelled eggs, drops in lay rate, feather-picking from protein deficiency, and fatty liver syndrome in severe cases. Fatty liver hemorrhagic syndrome gets underdiagnosed in backyard flocks, and excessive treats, especially high-carb ones, are a documented risk factor.
+The drop in production surprises many keepers, but it makes sense once you consider what happens to hens given too many extras: soft-shelled eggs, drops in lay rate, feather-picking from protein deficiency, and fatty liver syndrome in severe cases. Fatty liver hemorrhagic syndrome gets underdiagnosed in backyard flocks, and excessive treats, especially high-carb ones, are a documented risk factor.
 
 Keep the treats small. Genuinely small.
 
@@ -75,16 +74,15 @@ Moldy food is the other category people skip over entirely. Mold produces mycoto
 
 - [Avinash reddy Kosna](https://www.pexels.com/@avinash-reddy-kosna-227061)
 
-
 Some treats pull double duty, and those are the ones worth keeping on hand.
 
 Fermented feed is technically a food, not a treat, but a lot of keepers introduce it as an add-on and their hens treat it like one. Fermenting your regular layer feed for 3-4 days (just water, a jar, and time) increases nutrient bioavailability and adds beneficial bacteria. I saw a noticeable improvement in shell quality and overall flock energy the first winter I did this consistently.
 
 Black soldier fly larvae are even higher in protein than mealworms and have a better calcium-to-phosphorus ratio. They're becoming easier to find: Grubbly Farms sells them dried and live, and they've become my go-to during heavy molt when I want to support feather regrowth without overloading on mealworms.
 
-Pumpkin seeds get passed around online as a natural dewormer. The research is mixed. There's some evidence that cucurbitacin, a compound in raw seeds, has anthelmintic properties, but it won't replace a proper fecal float test and actual treatment if your birds have a real worm load. That said, raw pumpkin seeds won't hurt anything, and if they're doing some minor work while your hens enjoy the snack, fine. I use them in fall when pumpkins are cheap and everywhere.
+Pumpkin seeds get passed around online as a natural dewormer. The research is mixed. There's some evidence that cucurbitacin, a compound in raw seeds, has anthelmintic properties, but it won't replace a proper fecal float test and actual treatment if your birds have a real worm load. Raw pumpkin seeds won't hurt anything, and they can be a seasonal treat in fall when pumpkins are readily available.
 
-Scratch grains deserve a specific mention because they're probably the most misunderstood product in the chicken world. Scratch is a treat. It's not feed. A lot of first-time keepers assume it's a balanced diet supplement. It's not. It's basically birdseed for chickens. In cold weather, a small amount of scratch in the evening can give your hens a little caloric boost to generate body heat overnight, and that's legitimate. Every other situation? Skip it or use it sparingly.
+Scratch grains deserve a specific mention because they're probably the most misunderstood product in the chicken world. Scratch is a treat, not feed. Many first-time keepers assume it's a balanced diet supplement, but it's basically birdseed for chickens. In cold weather, a small amount of scratch in the evening can give your hens a caloric boost to generate body heat overnight. In other situations, skip it or use it sparingly.
 
 Feed your birds well, treat them thoughtfully, and don't let the internet convince you that your chickens need a gourmet snack rotation to be healthy. They don't. They need complete feed, clean water, and the occasional mealworm. Everything else is bonus.
 

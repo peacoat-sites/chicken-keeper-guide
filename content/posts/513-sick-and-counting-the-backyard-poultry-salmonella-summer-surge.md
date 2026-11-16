@@ -44,7 +44,7 @@ Your chickens can carry these strains and show zero signs of illness. That's the
 
 ## Children Under 5 Are Getting Hit the Hardest
 
-More than a quarter of all cases in this outbreak are children under five. That's the figure the CDC flagged specifically, and it tracks with what I've seen play out in backyard poultry communities for years. Young kids are at higher risk for two reasons that compound each other: they're more likely to touch birds and then touch their faces or put their hands in their mouths, and their immune systems handle Salmonella less effectively than an adult's.
+More than a quarter of all cases in this outbreak are children under five. That's the figure the CDC flagged specifically. Young kids are at higher risk for two reasons that compound each other: they're more likely to touch birds and then touch their faces or put their hands in their mouths, and their immune systems handle Salmonella less effectively than an adult's.
 
 You might be wondering whether keeping kids away from the flock entirely is the answer. I don't think it has to be. But the rules need to be real rules, not suggestions. No kissing the chickens. No snuggling them against your face. Hands washed with soap and water immediately after any contact, before touching anything else. Not hand sanitizer as a substitute for soap, actual handwashing. Kids under five probably shouldn't be handling birds at all during an active outbreak period like this one.
 

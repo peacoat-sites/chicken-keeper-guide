@@ -37,7 +37,7 @@ The genetics work like this: the *Oocyan* gene, when paired with the gene for br
 
 ## Temperament and Personality: What to Actually Expect
 
-Easter Eggers are, in my experience, one of the friendliest and most curious breeds you can keep. I've raised about 40 of them over the years across multiple flocks, and the pattern holds: they're bold without being aggressive, inquisitive without being flighty, and they integrate into mixed flocks better than most.
+Easter Eggers are known for being friendly and curious. They tend to be bold without being aggressive, inquisitive without being flighty, and integrate into mixed flocks well.
 
 They tend to sit somewhere in the middle of the pecking order. Rarely the bully, rarely the bottom. My current flock includes two Easter Eggers living alongside [Rhode Island Reds, Barred Rocks](/barred-rock-chickens/), and a bossy Silver Laced Wyandotte named Margaret, and the Easter Eggers hold their own without causing drama.
 
@@ -56,11 +56,11 @@ One honest caveat: they can be louder than you'd expect for their size. Not Legh
 
 Here's where Easter Eggers earn their keep. A healthy Easter Egger pullet will typically start laying at 20 to 24 weeks, sometimes a bit later. Once they're in full production, expect roughly 200 to 280 eggs per year depending on the individual bird, feed quality, and lighting conditions. That puts them in the same tier as Australorps and Plymouth Rocks, which is impressive for a bird most people choose for novelty.
 
-Egg size runs medium to large. The color, as I've explained, is genuinely a surprise until that first lay. What I tell people is: assume you'll get something in the blue-green spectrum and be pleasantly surprised if you get a true sky blue or deeply olive egg. About 60 to 70% of Easter Eggers I've raised lay some shade of blue or green. A small percentage lay pink-tinted or cream eggs because the *Oocyan* gene didn't express strongly enough.
+Egg size runs medium to large. The color is genuinely a surprise until that first lay. Assume you'll get something in the blue-green spectrum and count it a pleasant surprise if you get a true sky blue or deeply olive egg. About 60 to 70% of Easter Eggers lay some shade of blue or green. A small percentage lay pink-tinted or cream eggs because the *Oocyan* gene didn't express strongly enough.
 
 Here's something that throws people: each hen will lay only one color for her entire laying life. The color doesn't shift season to season. Intensity might fade slightly in older birds, but you won't get a hen who lays blue eggs in spring and green eggs in fall. What you will get is a basket full of color variety if you keep multiple Easter Eggers, since each bird is genetically different.
 
-Production does drop off after year two, as it does with most breeds. I've kept Easter Eggers through year four and gotten reasonable production, maybe 150 to 170 eggs annually, from productive hens.
+Production does drop off after year two, as it does with most breeds. Easter Eggers kept through year four can still produce reasonably well, typically around 150 to 170 eggs annually from productive hens.
 
 ## Raising Easter Egger Chicks: A Practical Step-by-Step Guide
 
@@ -86,7 +86,7 @@ Combs and wattles redden noticeably in the weeks before laying. Your pullet will
 
 ## Health Considerations and Common Issues
 
-Easter Eggers are generally hardy birds. Because they're hybrids with a wide genetic base, they tend to avoid some of the breed-specific health issues you see in more inbred lines. In twelve years, I've lost fewer Easter Eggers to illness than any other breed I've kept. That said, they're chickens, and chickens have their problems.
+Easter Eggers are generally hardy birds. Because they're hybrids with a wide genetic base, they tend to avoid some of the breed-specific health issues you see in more inbred lines. They tend to avoid some of the breed-specific health issues seen in more inbred lines. That said, they're chickens, and chickens have their problems.
 
 **Respiratory illness** is the most common issue in backyard flocks generally. Keep coops well-ventilated but draft-free. Ammonia buildup from wet bedding is a major respiratory irritant. Use the deep litter method or clean frequently, especially in wet seasons.
 
@@ -104,7 +104,6 @@ One thing specific to Easter Eggers: because they carry Araucana heritage, a sma
 - [RentACoop Nesting Box Pads](https://amzn.to/RentACoopPad)
 - [Vet-Rx Poultry Remedy](https://amzn.to/VetRxPoultry)
 - [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283)
-
 
 | Feature | Easter Egger | Ameraucana | Araucana |
 |---|---|---|---|

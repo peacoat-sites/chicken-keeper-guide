@@ -73,7 +73,7 @@ The practical solutions, ranked by how well they actually work:
 
 2. **Submersible bucket heater + covered nipple bucket.** A **Farm Innovators 250-watt submersible heater** (around $20) drops inside a 5-gallon covered bucket with horizontal nipples. The nipples themselves can still freeze at the tip if temps drop hard, but wrapping the bottom two inches of each nipple in foam pipe insulation ($3 for a 6-foot sleeve) solves it.
 
-3. **Deep litter heat + thermal mass.** Works only if your coop is small and well-insulated. A 5-gallon bucket of water inside a coop with active deep litter composting and good insulation will often stay liquid to around 20°F without any electricity. I've tested this with an outdoor thermometer inside a 4x6 coop in upstate New York. It held above freezing down to about 18°F outside before I gave in and plugged in the bucket heater.
+3. **Deep litter heat + thermal mass.** Works only if your coop is small and well-insulated. A 5-gallon bucket of water inside a coop with active deep litter composting and good insulation will often stay liquid to around 20°F without any electricity.
 
 As Gail Damerow, author of *The Chicken Health Handbook* (Storey Publishing, now in its second edition and genuinely one of the five books worth owning), puts it: "Fresh, clean water is more critical to egg production than almost any other single factor. A hen that goes without water for even a few hours on a hot day can stop laying for days afterward."
 
@@ -96,7 +96,7 @@ Placement matters more than most people think. Water inside the coop means more 
 
 "Height is everything with nipple waterers," says Lisa Steele, a fifth-generation farmer and founder of Fresh Eggs Daily, one of the more practically grounded poultry resources online. "Too low and the birds are hunching awkwardly to drink. Too high and young pullets or bantams can't reach. Adjust for your specific flock."
 
-She's right. I've watched perfectly functional waterers go ignored for three days because I mounted them two inches too high for a batch of 8-week Australorps still figuring out their legs.
+Waterers mounted too high can go unused, especially by younger birds still adjusting to their coop.
 
 **Worked example 2:**
 Goal: Reduce coop humidity and respiratory issues in a closed winter coop.
@@ -135,7 +135,6 @@ Learn more about flock health and waterer hygiene in [Gail Damerow's Chicken Hea
 - USDA National Poultry Improvement Plan (NPIP) guidelines on small-flock biosecurity, specifically sections on water sanitation and disease vector control.
 
 ---
-
 
 ---
 

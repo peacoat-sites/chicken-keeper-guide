@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Nobody warned me that my "cheap" backyard egg setup would cost me $1,400 before a single hen laid her first egg. I'd read all the beginner guides. I bought the $89 starter coop from Tractor Supply, grabbed six chicks at $4.99 each from the local feed store, and figured I was being smart and frugal. I was not.
 
-The real cost of raising chickens is one of the most consistently undersold topics in the hobby. People love to talk about the $0.30 egg math. Nobody wants to talk about the $600 predator-proof hardware cloth retrofit they had to do after losing their first flock to a raccoon that ripped through the cheap wire stapled to that starter coop. I've had both experiences. Let me give you the actual numbers.
+The real cost of raising chickens is one of the most consistently undersold topics in the hobby. People love to talk about the $0.30 egg math. Nobody wants to talk about the $600 predator-proof hardware cloth retrofit that becomes necessary after a predator breaks through cheap wire on a starter coop. The actual costs tell a different story.
 
 ## Startup Costs: Where Most People Underestimate
 
@@ -111,7 +111,6 @@ After ten years, I'm still in this. The math has never fully worked out on paper
 - [Bruna Fossile](https://www.pexels.com/@bruna-fossile-183845208)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

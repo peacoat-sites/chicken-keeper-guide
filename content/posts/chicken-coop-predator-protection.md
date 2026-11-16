@@ -25,7 +25,7 @@ author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 lastmod: 2026-07-08
 ---
-A raccoon can open a simple hook-and-eye latch in under 60 seconds. I've watched it happen on my trail cam footage, and I'm still a little impressed by the dexterity, even after losing three hens to that same raccoon before I figured out what was going on. That one night cost me a Buff Orpington I'd raised from a chick and two of my best laying Australorps. Predator protection isn't optional for backyard chickens. It's the difference between keeping a flock and feeding the neighborhood wildlife.
+A raccoon can open a simple hook-and-eye latch in under 60 seconds. Many keepers have discovered this the hard way after losing birds to determined predators. Predator protection isn't optional for backyard chickens. Without it, you're essentially feeding the neighborhood wildlife.
 
 ## Know Your Enemy: Which Predators Are Actually Coming for Your Flock
 
@@ -61,7 +61,7 @@ What you actually need is hardware cloth, also called welded wire mesh. For most
 
 Secure hardware cloth with staples AND screws with washers. Staples alone pull out over time, especially where animals are pushing against the wire. Overlap seams by at least 2 inches and secure the overlap with zip ties in addition to staples.
 
-[Anywhere you have ventilation openings](/chicken-coop-ventilation/), cover them with hardware cloth instead of chicken wire or plastic mesh. I've seen plastic mesh on a coop that looked shredded like confetti after a raccoon spent one night working on it.
+[Anywhere you have ventilation openings](/chicken-coop-ventilation/), cover them with hardware cloth instead of chicken wire or plastic mesh. Plastic mesh can be shredded by a determined raccoon in a single night.
 
 [Hardware cloth in various widths and lengths is available on Amazon](https://www.amazon.com/s?k=hardware+cloth+1%2F2+inch&tag=contentportfo-20), and buying in bulk rolls saves significant money per foot if you're covering a full run.
 
@@ -75,7 +75,7 @@ There are two approaches:
 
 **Horizontal apron:** Lay hardware cloth flat on the ground extending 12 to 18 inches outward from the base of your fence. You can bury it a few inches or just pin it down with landscape staples and let grass grow over it. Animals instinctively dig right at the fence line, not 12 inches out, so when they hit the buried wire, they give up.
 
-I've used both methods and personally prefer the horizontal apron for retrofitting an existing coop. It's faster and just as effective. The buried skirt method is better if you're building new and want a cleaner look.
+The horizontal apron works well for retrofitting an existing coop and is faster to install. The buried skirt method is better if you're building new and want a cleaner look.
 
 ## Locking Up: Latches, Doors, and Nighttime Routine
 
@@ -83,7 +83,7 @@ Most predator attacks happen at night. This sounds obvious, but the implications
 
 For latches, you need something with multiple steps to open, because raccoons can figure out single-action latches given enough time and motivation. Carabiner-style clips added to a barrel bolt work well. A true two-step latch like a locking slide bolt with a pin through the hasp is even better. I use a padlock on my main coop door during spring and summer when predator activity is highest around here. It feels excessive until the night it isn't.
 
-Automatic coop doors have been one of the best investments I've made in 12 years of keeping chickens. A good automatic door closes at dusk and opens at dawn without you having to be there, which means your birds are locked up safely even on nights when you forget or arrive home late. The [ChickenGuard](https://www.amazon.com/s?k=chickenguard+automatic+coop+door&tag=contentportfo-20) and the [Omlet Automatic Door](https://www.amazon.com/s?k=omlet+automatic+chicken+coop+door&tag=contentportfo-20) are both solid options with good track records. Expect to spend $150 to $250 for a reliable unit, and consider it cheap insurance against a $0 latch that fails.
+A good automatic door closes at dusk and opens at dawn without you having to be there, which means your birds are locked up safely even on nights when you forget or arrive home late. The [ChickenGuard](https://www.amazon.com/s?k=chickenguard+automatic+coop+door&tag=contentportfo-20) and the [Omlet Automatic Door](https://www.amazon.com/s?k=omlet+automatic+chicken+coop+door&tag=contentportfo-20) are both solid options with good track records. Expect to spend $150 to $250 for a reliable unit.
 
 Check your coop for gaps regularly. Seasonal temperature changes cause wood to expand and contract, creating openings that weren't there six months ago. I do a full inspection every spring and fall, checking every seam, corner, and ventilation gap with fresh eyes.
 
@@ -114,7 +114,6 @@ If you already have a coop and need to harden it without rebuilding from scratch
 - [Omlet Automatic Door](https://www.amazon.com/s?k=omlet+automatic+chicken+coop+door&tag=contentportfo-20)
 - [Nite Guard Solar](https://www.amazon.com/s?k=nite+guard+solar+predator+control+light&tag=contentportfo-20)
 - [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels)
-
 
 | Method | Effective Against | Cost Range | Effort Level | Notes |
 |---|---|---|---|---|

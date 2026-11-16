@@ -14,21 +14,19 @@ slug: "soft-shell-eggs-causes"
 affiliate_disclosure: false
 ---
 
-You pull an egg from the nest box and it collapses in your hand. Not cracked. Not thin-shelled. Fully soft, like a water balloon covered in membrane. The first time it happened to me, I genuinely thought something was wrong with my hen. I panicked, Googled for an hour, and came away more confused than when I started. So if you're standing there [right now](/drug-resistant-salmonella-is-surging-in-backyard-flocks-right-now/) with a deflated egg wondering what went wrong, you're in exactly the right place.
+You pull an egg from the nest box and it collapses in your hand. Not cracked. Not thin-shelled. Fully soft, like a water balloon covered in membrane. A soft egg can be alarming, but the causes are usually manageable. If you're standing there [right now](/drug-resistant-salmonella-is-surging-in-backyard-flocks-right-now/) with a deflated egg wondering what went wrong, here are the most common reasons and fixes.
 
 Soft shell eggs happen more often than most chicken-keeping resources let on, and the causes range from completely fixable (diet) to "watch carefully for a few weeks" (age and stress) to "get your hen to a vet" (disease). The trick is figuring out which situation you're actually in, because the answer determines everything you do next.
 
 Here's what I tell people right off the bat: most soft shell eggs are a calcium problem, and most calcium problems are a feeding problem. Not always. But start there.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Calcium deficiency is the most common cause; offer oyster shell free-choice in a separate dish, not mixed into feed.</li><li style="margin:5px 0">A pullet's first few eggs are often soft or shell-less, this is normal and usually self-corrects within 2-3 weeks.</li><li style="margin:5px 0">Infectious Bronchitis and Egg Drop Syndrome both cause soft shells; if multiple hens are affected simultaneously, think disease first.</li><li style="margin:5px 0">Excess phosphorus, vitamin D deficiency, and certain medications (especially sulfa drugs) block calcium absorption even when intake looks adequate.</li><li style="margin:5px 0">One or two soft eggs per month per hen is within the range of normal; daily soft eggs are a problem that needs attention.</li></ul></div>
-
 
 ## The Calcium Question (and Why It's More Complicated Than You Think)
 
 Everyone knows hens need calcium. What fewer people realize is that the shell of a single egg contains roughly 2 grams of calcium carbonate, and a laying hen needs somewhere between 4 and 5 grams of calcium per day just to shell eggs properly. [Layer feed](/layer-feed-vs-starter-feed/) is formulated to provide around 3.5 to 4 grams, which is close but not always enough for high-production birds.
 
-Here's the thing I got wrong for my first two years: I thought layer feed was sufficient on its own. It usually is for average producers. But I kept Black Sex-Links, which are egg-laying machines, and during peak production in summer, a few of my girls were laying so fast that their bodies couldn't deposit enough calcium before the egg moved through the shell gland. The fix was simple. I added a separate dish of [oyster shell](/oyster-shell-for-chickens/) (I use Manna Pro Crushed Oyster Shell, currently about $14 for an 8-pound bag on Amazon) and within ten days the soft shells stopped.
+Layer feed alone is usually sufficient, but high-producing breeds or hens in peak season may need extra calcium. During summer, some birds lay so fast their bodies can't deposit enough calcium before the egg reaches the shell gland. Offering a separate dish of [oyster shell](/oyster-shell-for-chickens/) (such as Manna Pro Crushed Oyster Shell, around $14 for an 8-pound bag) often resolves soft shells within days.
 
 The key detail that matters here: oyster shell should be offered in a separate dish, not mixed into feed. Hens self-regulate calcium intake based on their own needs, and mixing it in removes that ability. A high-production hen on a hot day might consume twice the calcium of a lower-production hen in the same flock. Let them choose.
 
@@ -48,7 +46,7 @@ Chickens are creatures of rigid routine and they fall apart when it's disrupted.
 
 This is the cause that most people never connect, because the stressor happened 18 to 24 hours before the bad egg appears. The shell is deposited in the last 15 to 20 hours of egg formation. If a hen was stressed during that window, the shell may not form correctly even if her calcium levels are perfectly fine.
 
-Example scenario: A reader named Patty from central Missouri emailed me in spring of this year. Three of her hens suddenly started laying soft eggs. No dietary changes, no new feed, oyster shell always available. Turned out her neighbor had started letting their dog roam free at night, running along the fence line. Patty installed motion-activated lights and worked out the dog situation. Soft shells stopped within a week. Total time from problem to fix: about 12 days.
+For example, a sudden onset of soft shells with no dietary changes and oyster shell available could point to environmental stress. A new predator threat, loose dog, or disturbance at night can cause hens to lay too quickly. Motion-activated lights or eliminating the stressor often resolves the issue within days to a week.
 
 ## Disease: When Multiple Hens Are Affected at Once
 
@@ -76,7 +74,7 @@ As of August 2026, avian influenza remains a real concern in many parts of the c
 
 Some hens, particularly those over three years old, develop chronic soft-shell problems because the shell gland itself is aging. High-production commercial breeds like Leghorns and ISA Browns are particularly prone to this because they were bred to lay so heavily that the reproductive system wears out faster than heritage breeds.
 
-I've had two hens reach a point where the soft shells were just... their normal now. Both were ISA Browns, both were around four years old. I didn't cull them. They were still laying (softies and all), seemed comfortable, and were otherwise healthy. But if a hen is uncomfortable, consistently unable to pass eggs properly, or showing signs of internal laying or egg peritonitis (bloated abdomen, walking like a penguin), that's a quality-of-life conversation worth having with a vet.
+Some older hens, particularly ISA Browns in their fourth year or later, may develop soft shells as a persistent condition. If they're still laying, seem comfortable, and are otherwise healthy, culling isn't necessary. But if a hen is uncomfortable, consistently unable to pass eggs properly, or showing signs of internal laying or egg peritonitis (bloated abdomen, walking like a penguin), that's a quality-of-life conversation worth having with a vet.
 
 ## Sources
 

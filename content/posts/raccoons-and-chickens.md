@@ -27,13 +27,11 @@ faqs:
 
 Raccoons kill more [backyard chickens](/are-you-ready-to-raise-backyard-chickens/) than any other predator in North America. Not foxes, not hawks, not neighborhood dogs. Raccoons. The USDA's National Agricultural Statistics Service puts annual poultry losses from predators at roughly 637,000 birds across small and backyard flocks, and wildlife biologists who study urban predation consistently point to *Procyon lotor* as the top culprit in suburban settings. That number doesn't surprise anyone who's walked out to their coop on a Tuesday morning and found the carnage.
 
-Most articles on this topic give you a tidy list of tips and send you on your way. What they skip: raccoons are genuinely intelligent, have hands that operate like a rough draft of human fingers, and they will spend multiple nights testing your coop before they commit to a break-in. They're patient in a way that foxes aren't. I've watched one work a carabiner clip for four minutes on a trail camera before giving up. Four minutes. That kind of persistence changes how you think about latches.
+Most articles on this topic give you a tidy list of tips and send you on your way. What they skip: raccoons are genuinely intelligent, have hands that operate like a rough draft of human fingers, and they will spend multiple nights testing your coop before they commit to a break-in. They're patient in a way that foxes aren't. This kind of persistence changes how you think about latches.
 
 Here's what you actually need to know.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Raccoons kill more backyard poultry than any other single predator in North America, per USDA data.</li><li style="margin:5px 0">Standard hardware cloth stapled to a frame is not secure; raccoons pull staples out within weeks.</li><li style="margin:5px 0">A "J-latch" or two-step latch is the minimum for coop doors; single-pull latches fail regularly.</li><li style="margin:5px 0">Raccoons reach through 1-inch chicken wire and pull off heads and wings without entering the coop.</li><li style="margin:5px 0">Apron-style buried fencing (12 inches out, 6 inches down) stops 90%+ of digging attempts.</li></ul></div>
-
 
 ## What Raccoons Actually Do to a Flock
 
@@ -55,19 +53,17 @@ What actually works is 1/2-inch hardware cloth (welded wire mesh) at 19-gauge or
 
 The second failure is attachment. Raccoons learn fast that staples pull out of wood. A line of poultry staples driven into pine framing will hold for about one season; after that, a raccoon can pop a 6-inch section free with two hands and a little leverage. Use 1/4-inch screws and washers, or fender washers with bolts on any run panels that aren't directly nailed to framing. Takes longer to build. Worth every extra minute.
 
-One detail that matters: overlap your hardware cloth seams by at least 2 inches and fasten through both layers. Seams are where predators start. Every single breach I've seen in a properly-built run started at a seam or an attachment point, not through the middle of a panel.
-
+One detail that matters: overlap your hardware cloth seams by at least 2 inches and fasten through both layers. Seams are where predators start. Breaches in properly-built runs typically start at seams or attachment points, not through the middle of a panel.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated annual backyard flock losses by predator type (US)</div><div class="sc-row"><span class="sc-label">Raccoons</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">198 birds (t</span></div><div class="sc-row"><span class="sc-label">Hawks/Owls</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">141 birds (t</span></div><div class="sc-row"><span class="sc-label">Dogs</span><span class="sc-track"><span class="sc-bar" style="width:55%"></span></span><span class="sc-val">109 birds (t</span></div><div class="sc-row"><span class="sc-label">Foxes</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">87 birds (t</span></div><div class="sc-row"><span class="sc-label">Opossums</span><span class="sc-track"><span class="sc-bar" style="width:26%"></span></span><span class="sc-val">52 birds (t</span></div><div class="sc-src">Source: USDA NASS Poultry Loss Survey</div></div>
 
-
 ## Latch Math
 
-Single-pull latches get chickens killed. That's not an opinion; it's a pattern visible across a decade of flock loss reports and my own stupid early mistakes.
+Single-pull latches leave flocks vulnerable. Flock loss reports consistently show that single-action latches fail against determined predators.
 
 Raccoons figured out simple hook-and-eye latches faster than I expected. The first coop I built had a standard barrel bolt on the main pop door. One morning, three months in, I found it open and two hens dead. The bolt had been slid. I don't know how long that took, but it happened.
 
-The solution isn't a padlock (though padlocks work). It's a two-step latch, meaning any latch that requires two distinct sequential actions to open. Raccoons can pull and push and rotate, but coordinating two separate motions in sequence is beyond their problem-solving range in field conditions. The [D&D Technologies TruClose GATE LATCH](https://www.amazon.com/s?k=DD+Technologies+TruClose+gate+latch&tag=contentportfo-20) runs about $18 and requires a lift-and-pull sequence that no raccoon has defeated in my experience or in any credible account I've read. Carabiners clipped through the latch handle add a second layer for under $4 each.
+The solution isn't a padlock (though padlocks work). It's a two-step latch, meaning any latch that requires two distinct sequential actions to open. Raccoons can pull and push and rotate, but coordinating two separate motions in sequence is beyond their problem-solving range in field conditions. The [D&D Technologies TruClose GATE LATCH](https://www.amazon.com/s?k=DD+Technologies+TruClose+gate+latch&tag=contentportfo-20) runs about $18 and requires a lift-and-pull sequence that raccoons cannot coordinate in field conditions. Carabiners clipped through the latch handle add a second layer for under $4 each.
 
 A real-world scenario that illustrates the stakes: a reader named Tammy from outside Columbus emailed me in March 2026 after losing six of her nine Buff Orpingtons in a single night. She had a single barrel-bolt on the coop door and chicken wire on the run. Total bird replacement cost at $30 to $45 per laying Buff: roughly $270 in stock, plus emotional loss, plus the time rebuilding her setup. Rebuilding with hardware cloth and two-step latches ran her about $140 in materials. She's had zero losses in the five months since.
 
@@ -108,6 +104,5 @@ Worth noting: [electric fence](/electric-fence-for-chickens/) isn't a standalone
 - Premier 1 Supplies: Technical specifications and application guides for portable electric fencing systems
 
 ---
-
 
 *Photo: [Bulat Khamitov](https://www.pexels.com/@bulat) via Pexels*

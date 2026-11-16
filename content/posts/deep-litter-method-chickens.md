@@ -75,7 +75,7 @@ Here's one people push back on. If you're building a coop from scratch, put it o
 
 Wood floors rot. Concrete is cold, hard to drain, and actually inhibits the microbial community you're trying to grow. Dirt floors let the coop ecosystem connect with the actual soil microbiome, improve drainage naturally, and won't fail structurally after five wet winters. Yes, predators can dig in. [Hardware cloth aprons](/chicken-coop-predator-protection/) (12 to 18 inches buried at an angle away from the coop) solve that. The structural concern is real but solvable. The rotting wood floor concern is expensive and permanent.
 
-I've had three coops. The only one I've never had a moisture headache with has a packed-earth floor.
+A packed-earth floor can help avoid moisture problems.
 
 ## When to Do the Annual Cleanout
 
@@ -85,7 +85,6 @@ I've had three coops. The only one I've never had a moisture headache with has a
 - [Tractor Supply sells it](https://www.amazon.com/s?k=agricultural+lime+poultry+coop&tag=contentportfo-20)
 - [Brenda Timmermans](https://www.pexels.com/@brenda-timmermans-11680)
 
-
 Most deep litter setups run a full cleanout once or twice a year. Spring is the natural time: you've got a full winter's worth of partially composted material, temperatures are rising (which accelerates the microbial activity in the pile's final weeks), and the garden needs amendments.
 
 The litter is ready to pull when it looks like dark, crumbly material with minimal recognizable manure or bedding structure. It will not smell like ammonia at this point; if anything, it smells like good compost. This stuff is genuinely good for the garden, too. High nitrogen, some phosphorus, decent organic matter. Pile it, let it hot-compost for another 4 to 6 weeks if you want to be safe with root vegetables, or use it directly on ornamentals and flower beds.
@@ -93,7 +92,6 @@ The litter is ready to pull when it looks like dark, crumbly material with minim
 After cleanout, leave a shovelful of the old material behind. It's inoculated with the microbes you've been cultivating, and it jump-starts the new litter faster than starting from scratch.
 
 ---
-
 
 ---
 

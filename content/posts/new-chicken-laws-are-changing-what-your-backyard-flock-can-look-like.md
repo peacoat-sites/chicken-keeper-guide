@@ -36,7 +36,7 @@ Here's how the new and pending rules break down across the main categories affec
 | USDA "Product of USA" label | Previously loosely enforced, imported birds could qualify | As of January 1, 2026, birds must be born, raised, slaughtered, and processed entirely in the US |
 | NC flock registration | Voluntary or size-dependent in many states | All poultry owners must register free NCFarmID, regardless of flock size |
 
-What most people don't realize about the HOA piece in Michigan is how common the Sarkisian situation actually is. I've seen keepers lose permitted hens not because of any city ordinance but because their HOA covenants had a "livestock" clause written in 1994 that nobody thought applied to three Easter Eggers in a suburban backyard. If HB 4049 and 4050 pass committee and become law, it would be the first significant state-level check on that kind of HOA override power in the country. That's a bigger deal than most coverage is giving it credit for.
+What most people don't realize about the HOA piece in Michigan is how common the Sarkisian situation actually is. Keepers sometimes lose permitted hens not because of any city ordinance but because their HOA covenants have a "livestock" clause written in 1994 that wasn't thought to apply to backyard birds. If HB 4049 and 4050 pass committee and become law, they would be the first significant state-level check on that kind of HOA override power in the country.
 
 ## The USDA Labeling Change and Why Small Flock Owners Actually Benefit
 

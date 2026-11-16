@@ -91,7 +91,7 @@ A few things I check during this cleanout that I'd never think about in a quick 
 - Look at the ventilation gaps. Are they still open? Vents get blocked by nesting material, leaves, and spider webs. Blocked ventilation is the fastest route to respiratory disease.
 - Treat roost bars with a food-grade diatomaceous earth (DE) dusting after everything dries. I use [Perma-Guard Fossil Shell Flour](https://www.amazon.com/s?k=perma-guard+fossil+shell+flour+poultry). This is the one place I think DE is genuinely useful. It dries out mite eggs in crevices.
 
-Twice-annual cleaning also gives you a chance to assess whether your coop is actually sized correctly. You're supposed to allow 4 square feet per bird inside and 10 square feet per bird in the run. In my experience, double those numbers and you'll have dramatically fewer behavioral and health problems. Crowding creates ammonia buildup, accelerates disease transmission, and triggers feather-pecking. The math is unforgiving.
+Twice-annual cleaning also gives you a chance to assess whether your coop is actually sized correctly. You're supposed to allow 4 square feet per bird inside and 10 square feet per bird in the run. Many keepers find that doubling those numbers reduces behavioral and health problems. Crowding creates ammonia buildup, accelerates disease transmission, and triggers feather-pecking. The math is unforgiving.
 
 ---
 
@@ -122,6 +122,5 @@ A few concrete examples from my own setup and from readers who've written in:
 - [National Chicken Council, *Poultry Health Management Guidelines*](https://www.nationalchickencouncil.org/): Industry-level data on litter moisture thresholds and ammonia generation rates, useful for scaling down to backyard contexts.
 
 ---
-
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

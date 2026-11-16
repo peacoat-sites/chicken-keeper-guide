@@ -29,7 +29,7 @@ Picture this: you're sitting in a lawn chair on a Saturday morning, coffee in ha
 
 ## Why Breed Matters More Than You Think
 
-Most new chicken keepers figure any chicken can become friendly with enough handling. And yes, handling from hatch helps. But genetics set the floor. I've raised Leghorns that were handled every single day from day one, and at six months old they were still sprinting away from me like I was a fox. A Buff Orpington chick? She practically falls asleep in your hand the first time you pick her up. Temperament is largely baked in before you ever get them home.
+Most new chicken keepers figure any chicken can become friendly with enough handling. And yes, handling from hatch helps. But genetics set the floor. Leghorns handled daily from hatching often remain flighty at six months old, while Buff Orpingtons tend to settle calmly in hand from the start. Temperament is largely baked in before you ever get them home.
 
 Breed also changes how chickens interact with children, with each other, and with other pets. Some are flighty and high-strung, which creates stress for you and the birds. Others are calm, curious, and surprisingly interactive. If you want a flock that's an actual pleasure to be around rather than just a source of eggs, start with breeds that are naturally gentle.
 
@@ -101,7 +101,7 @@ Breed sets the foundation, but how you raise your birds from hatch through adult
 
 **Step 6: Give them space and enrichment.** Stressed chickens are less friendly chickens. Overcrowding, boredom, and nutritional deficiencies all make birds more reactive and harder to handle. The baseline rule is 4 square feet per bird in the coop and 10 square feet per bird in the run, though more is always better.
 
-For feeders and waterers that make daily management easier, I've had great results with [horizontal nipple waterers](https://www.amazon.com/s?k=horizontal+nipple+chicken+waterer&tag=contentportfo-20) that stay cleaner than open bowls, and [hanging feeders](https://www.amazon.com/s?k=hanging+chicken+feeder&tag=contentportfo-20) that reduce waste. Comfortable, well-fed birds are easier to work with, full stop.
+[Horizontal nipple waterers](https://www.amazon.com/s?k=horizontal+nipple+chicken+waterer&tag=contentportfo-20) stay cleaner than open bowls, and [hanging feeders](https://www.amazon.com/s?k=hanging+chicken+feeder&tag=contentportfo-20) reduce waste. Comfortable, well-fed birds are easier to work with, full stop.
 
 ## Mixed Flocks: Pairing Friendly Breeds Together
 
@@ -111,7 +111,6 @@ For feeders and waterers that make daily management easier, I've had great resul
 - [hanging feeders](https://www.amazon.com/s?k=hanging+chicken+feeder&tag=contentportfo-20)
 - [adding extra feeders and waterers](https://www.amazon.com/s?k=chicken+feeder+set&tag=contentportfo-20)
 - [TIVASEE .](https://www.pexels.com/@tivasee-17374727)
-
 
 If you're mixing breeds, a little forethought goes a long way. Friendly doesn't always mean compatible. Putting a docile Silkie in with a flock of Rhode Island Reds can result in the Silkie getting bullied badly, because RIRs are assertive and Silkies don't really push back.
 

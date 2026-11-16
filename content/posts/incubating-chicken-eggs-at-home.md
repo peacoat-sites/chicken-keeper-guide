@@ -27,7 +27,7 @@ faqs:
 
 Most incubation guides will tell you to "keep temperature steady" and "turn eggs regularly" and leave it at that. Which is about as useful as a recipe that says "cook until done." The real failure points are more specific, and they're almost never in the beginner guides.
 
-I've hatched everything from heritage Dominiques to production Leghorns on my kitchen counter, in a converted closet, and once in my garage in January (do not recommend). Here's what I actually know.
+Hatching eggs indoors requires attention to temperature, humidity, and ventilation. A kitchen counter, converted closet, or garage can work, though unheated spaces in winter present challenges.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Target 99.5°F for forced-air incubators; still-air runs hotter at 101-102°F measured at egg top.</li><li style="margin:5px 0">Humidity should be 45-55% for days 1-18, then raised to 65-75% for lockdown (days 18-21).</li><li style="margin:5px 0">Candle eggs at day 7 and day 14; remove clear or rotten eggs before they explode and contaminate the rest.</li><li style="margin:5px 0">Hatch rate for healthy shipped eggs averages 50-70%; fresh eggs from your own flock can hit 85-90%.</li><li style="margin:5px 0">Never open the incubator during lockdown. Not once. Not to "check."</li></ul></div>
 

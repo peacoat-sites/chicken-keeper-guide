@@ -27,11 +27,9 @@ faqs:
 
 Three of my Silver Laced Wyandotte pullets started laying at exactly 18 weeks, right in the middle of a January cold snap that had dropped temps into the single digits. No [heat lamp](/heat-lamp-for-chicks/), no fuss from them. They just walked out of the coop, scratched around in the snow for a bit, and went back in to lay. That was the moment I stopped treating cold-hardiness as a feature on a spec sheet and started understanding it as a real thing Wyandottes actually deliver on.
 
-I've been keeping chickens for a decade now, and I'll be straight with you: Wyandottes are one of the two or three breeds I'd recommend without hesitation to almost anyone, with a few caveats I'll get into. They're not the most glamorous bird, they're not going to win you an egg-laying contest against a White Leghorn, and they can be a little standoffish compared to something like an Easter Egger or a Buff Orpington. But they are steady, cold-tolerant, genuinely dual-purpose birds with a sensible temperament and enough variety in color patterns to be genuinely beautiful in a [backyard flock](/egg-prices-crashed-39-is-your-backyard-flock-still-worth-it/). What most people don't realize is how much those things together matter once you've actually lived through a full year of chicken-keeping.
-
+Wyandottes are among the top breeds to recommend to most keepers, with a few caveats worth considering. They're not the most glamorous bird, they're not going to win you an egg-laying contest against a White Leghorn, and they can be a little standoffish compared to something like an Easter Egger or a Buff Orpington. But they are steady, cold-tolerant, genuinely dual-purpose birds with a sensible temperament and enough variety in color patterns to be genuinely beautiful in a [backyard flock](/egg-prices-crashed-39-is-your-backyard-flock-still-worth-it/).
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Wyandottes lay roughly 200-240 brown eggs per year, less than Leghorns but far better than most heritage breeds.</li><li style="margin:5px 0">Rose combs make them one of the most cold-hardy breeds available, frostbite is nearly a non-issue.</li><li style="margin:5px 0">They're calm but not cuddly; good for families with kids who won't chase them.</li><li style="margin:5px 0">Wyandottes reach 6.5-8.5 lbs at maturity, making cockerels genuinely useful as meat birds.</li><li style="margin:5px 0">Feed consumption runs about 1/4 lb per bird per day; figure $18-22/month for a 6-bird flock on quality layer pellets.</li></ul></div>
-
 
 ## Why the Rose Comb Actually Matters
 
@@ -47,11 +45,9 @@ Let me give you the actual range instead of the "excellent layer" vagueness you'
 
 A healthy Wyandotte hen in her first two laying years will typically give you 4-5 eggs per week during peak production, which works out to roughly 200-240 eggs annually. Compare that to a White Leghorn (280-320 eggs/year), a Barred Rock (250-280), or a Dominique (around 180-230). Wyandottes sit comfortably in the middle of the dual-purpose category.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated Annual Egg Production by Breed</div><div class="sc-row"><span class="sc-label">White Leghorn</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">300 eggs/yea</span></div><div class="sc-row"><span class="sc-label">Barred Rock</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">265 eggs/yea</span></div><div class="sc-row"><span class="sc-label">Wyandotte</span><span class="sc-track"><span class="sc-bar" style="width:73%"></span></span><span class="sc-val">220 eggs/yea</span></div><div class="sc-row"><span class="sc-label">Dominique</span><span class="sc-track"><span class="sc-bar" style="width:70%"></span></span><span class="sc-val">210 eggs/yea</span></div><div class="sc-row"><span class="sc-label">Brahma</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">150 eggs/yea</span></div><div class="sc-src">Source: University of Kentucky Cooperative Extension / breed keeper averages</div></div>
 
-
-What the numbers don't show: Wyandottes hold their production through winter better than most breeds I've kept. When my Barred Rocks slowed to one or two eggs a week in December and January without supplemental light, my Wyandottes were still putting out 3-4 each. That winter production consistency is a real advantage for anyone who doesn't want to manage lighting systems.
+Wyandottes hold their production through winter better than many breeds. For example, while some breeds slow to one or two eggs a week in December and January without supplemental light, Wyandottes typically maintain 3-4 eggs per hen during the same period. That winter production consistency is a real advantage for anyone who doesn't want to manage lighting systems.
 
 One thing to watch: after year three, production drops noticeably. By year four you're often looking at 100-140 eggs annually from a bird that's eating the same amount. That's a culling decision you'll have to make for yourself, but it's something the hatchery websites never prep you for.
 
@@ -67,7 +63,7 @@ Here's my honest take on the options most backyard keepers actually face:
 
 **Blue Laced Red Wyandottes** are genuinely one of the most stunning birds in the backyard flock world. They also come from much smaller specialty breeders, so you're looking at $10-20+ per chick and more variability in temperament and production. I'd recommend them to experienced keepers who know what they're selecting for.
 
-**White Wyandottes** are underrated. Cleaner to sex accurately as chicks, good production, and often calmer in temperament in my experience. Less flashy, more functional.
+**White Wyandottes** are underrated. They're cleaner to sex accurately as chicks, have good production, and tend toward calm temperament. Less flashy, more functional.
 
 ## Feed, Space, and What They Actually Cost to Keep
 
@@ -86,7 +82,7 @@ The one place I'd tell you not to cheap out: feed quality. I ran a 12-hen mixed 
 
 ## Temperament: What "Docile" Actually Means With These Birds
 
-I've seen Wyandottes described as "docile and friendly" on nearly every breed page on the internet. That's not wrong, exactly, but it's incomplete enough that new keepers end up confused when their Wyandotte hens don't run up to them like Buff Orpingtons do.
+Wyandottes are often described as "docile and friendly," which is accurate but incomplete. They're calmer than some breeds but less overtly affectionate than Buff Orpingtons or Easter Eggers, so new keepers shouldn't expect them to rush to greet you.
 
 Wyandottes are calm. They're not flighty, they won't panic and fly into walls when you enter the coop, and they tolerate handling reasonably well if you work with them from chick-hood. But they're also a bit proud and independent. They're not going to follow you around the yard begging for attention. I'd describe them as confident rather than cuddly. For families with kids who want a lap chicken, look at Orpingtons or Salmon Faverolles. For families with kids who need a bird that won't go nuts when chased but also won't demand to be petted, Wyandottes are ideal.
 
@@ -96,7 +92,7 @@ One behavioral note that took me by surprise: Wyandotte hens can be dominant in 
 
 Cockerels from a straight-run Wyandotte order dress out at roughly 4.5-5.5 lbs live weight at 16-20 weeks, depending on feeding. That's a real table bird. Not Cornish Cross performance, obviously, but if you're already ordering chicks and want to avoid the awkward "what do I do with the roosters" situation, Wyandottes give you a better answer than most dual-purpose breeds.
 
-Scenario from my own flock: straight-run order of 12 Silver Laced Wyandottes in spring, ended up with 5 cockerels. Processed at 18 weeks on a finishing diet of 18% grower + free range access. Average dressed weight: 4.8 lbs. Enough for a solid roast chicken dinner, worth the processing time.
+Wyandotte cockerels can be processed at 18 weeks on a finishing diet of 18% grower feed plus free range access, with an average dressed weight around 4.8 lbs, enough for a solid roast chicken dinner.
 
 ## Sources
 
@@ -107,6 +103,5 @@ Scenario from my own flock: straight-run order of 12 Silver Laced Wyandottes in 
 - National Sustainable Agriculture Information Service (ATTRA): heritage breed production data for small and backyard flocks
 
 ---
-
 
 *Photo: [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283) via Pexels*

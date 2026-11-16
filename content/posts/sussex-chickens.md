@@ -56,7 +56,7 @@ Size-wise, you're looking at a heavy breed: hens typically run 6 to 7 pounds, ro
 
 Here's where I want to push back on the hatchery marketing a little.
 
-Most hatchery websites will put Sussex egg production at 250 to 300 eggs per year. That's technically possible, but I'd call it optimistic for the average backyard flock. In my experience, a well-fed, well-managed Sussex hen from hatchery stock (not exhibition lines) will land closer to 200 to 240 eggs per year. Still excellent. Still better than many "heritage" breeds you'll pay more for.
+Most hatchery websites will put Sussex egg production at 250 to 300 eggs per year. That's technically possible, but I'd call it optimistic for the average backyard flock. A well-fed, well-managed Sussex hen from hatchery stock (not exhibition lines) typically produces closer to 200 to 240 eggs per year. Still excellent. Still better than many "heritage" breeds you'll pay more for.
 
 What surprised me was how well they hold production through winter. My eight Speckleds last winter (central Tennessee, temperatures dipping into the low 20s Fahrenheit for two weeks in January) barely skipped a beat. I was pulling 5 to 6 eggs per day through December and most of January without supplemental lighting. That's not universal experience, and the research on cold-tolerance and production consistency is honestly mixed, but I've heard similar reports from other Sussex keepers in the upper Midwest.
 
@@ -68,11 +68,11 @@ The eggs themselves are large, cream to light brown, with good shell quality. No
 
 This is the part most articles gloss over, and it's where Sussex really earns its reputation.
 
-For mixed flocks, they're about as easygoing as a heavy breed gets. They're assertive enough to hold their own against aggressive breeds (I've kept them with [Easter Eggers and Australorps](/easter-egger-chickens/) without drama), but they're not bullies. I had a reader in Nashville email me earlier this year who had tried three different breeds in her backyard flock before adding a pair of Light Sussex. Her words: "They just calmed everything down." I've seen that same effect.
+For mixed flocks, they're about as easygoing as a heavy breed gets. They're assertive enough to hold their own against aggressive breeds but aren't bullies, making them suitable for [mixed flocks with Easter Eggers and Australorps](/easter-egger-chickens/). Many keepers find that Sussex hens have a calming effect on mixed flocks.
 
 The one caveat: they can be lower in the pecking order if you mix them with something truly aggressive, like a Cornish or a particularly nasty Leghorn. They're calm, not doormats, but they won't fight hard. If you're dealing with a bully situation, that's a separate problem to solve, not something a Sussex will fix by itself.
 
-Roosters. I should say something here. Sussex roosters have a better-than-average temperament reputation, and in my experience that holds up, but "better than average" still means you can get a bad one. Don't let the breed reputation make you complacent. Give any rooster until 6 months old before you trust him around kids.
+Roosters. I should say something here. Sussex roosters have a better-than-average temperament reputation, though individual birds vary and you can still get a difficult one. Don't let the breed reputation make you complacent. Give any rooster until 6 months old before you trust him around kids.
 
 ---
 
@@ -117,6 +117,5 @@ They're also slower on the ground than lighter breeds, which means aerial and gr
 - The Livestock Conservancy breed profile on Sussex: Covers conservation status and population notes for heritage Sussex lines in the U.S.
 
 ---
-
 
 *Photo: [Styves Exantus](https://www.pexels.com/@styves-exantus-7162424) via Pexels*

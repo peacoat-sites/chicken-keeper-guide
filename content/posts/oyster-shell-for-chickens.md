@@ -57,7 +57,7 @@ If you're seeing any of these in your flock, audit what you're feeding overall. 
 
 The good news: this is genuinely simple. The best approach for most backyard flocks is free-choice supplementation. You offer it separately so each hen can self-regulate her intake.
 
-**Step 1: Get a dedicated container.** A small hanging feeder, a rubber dish, or even a recycled plastic container works. Keep it separate from main feed. I've used everything from a clip-on rabbit feeder to a ceramic flower pot saucer with good results.
+**Step 1: Get a dedicated container.** A small hanging feeder, a rubber dish, or even a recycled plastic container works. Keep it separate from main feed. A clip-on rabbit feeder or a ceramic flower pot saucer can work well for this purpose.
 
 **Step 2: Place it somewhere accessible.** Put it inside the coop or in a covered section of the run where it won't get soaked by rain. Wet oyster shell can clump and grow mold.
 
@@ -105,7 +105,6 @@ For most people with small flocks, buying oyster shell is just easier and more r
 
 - [Coarse oyster shell](https://www.amazon.com/s?k=oyster+shell+for+chickens&tag=contentportfo-20)
 - [RDNE Stock project](https://www.pexels.com/@rdne)
-
 
 Most hens start laying between 18 and 24 weeks old, depending on breed. Have oyster shell available by the time pullets approach laying age, usually around 16-18 weeks for faster-maturing breeds. There's no harm in offering it earlier, but they won't really need it until production begins.
 

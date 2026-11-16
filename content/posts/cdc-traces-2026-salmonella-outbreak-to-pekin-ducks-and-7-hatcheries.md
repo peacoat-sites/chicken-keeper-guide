@@ -34,7 +34,7 @@ Most years when we talk about backyard poultry and Salmonella, the conversation 
 
 The largest single strain in this outbreak is Salmonella Saintpaul, with 133 confirmed patients. Half of those patients reported contact with ducks or ducklings, not chickens. That's a striking number. In past outbreaks, duck contact was a footnote. Here it's essentially half the story for the biggest strain. Of the 42 Saintpaul patients who identified a specific breed, 64% named Pekin ducks. CDC called that out explicitly as a distinguishing feature of this outbreak, and it's the kind of specificity that should make any Pekin duck owner take inventory of where their birds came from.
 
-I've seen people assume ducks are somehow "cleaner" than chickens because they're waterfowl, they swim, they seem to wash themselves constantly. That's not how Salmonella works. Ducks, like all poultry, can shed Salmonella in their droppings without showing any signs of illness at all. A duckling that looks perfectly healthy at the farm store can be shedding bacteria the whole time it sits in your brooder.
+A common assumption is that ducks are somehow "cleaner" than chickens because they're waterfowl and spend time in water. That's not how Salmonella works. Ducks, like all poultry, can shed Salmonella in their droppings without showing any signs of illness at all. A duckling that appears perfectly healthy can be shedding bacteria throughout its time in the brooder.
 
 ## The Hatchery Connection and What 84% Tells You
 

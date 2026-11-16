@@ -75,7 +75,7 @@ Scratch grains are worth flagging. It's mostly cracked corn and grains, basicall
 
 ## Feed Storage and Quality Control
 
-Chicken feed goes stale, moldy, and attracts pests faster than most people expect. A 50-pound bag should be used within 6-8 weeks of the milling date stamped on it. After that, vitamins start degrading. Heat and humidity make it worse. In a hot, humid summer barn, a bag can develop mold in two weeks with poor storage.
+Chicken feed goes stale, moldy, and attracts pests quickly. A 50-pound bag should be used within 6-8 weeks of the milling date stamped on it. After that, vitamins start degrading. Heat and humidity make it worse. In hot, humid conditions with poor storage, mold can develop within two weeks.
 
 Use airtight metal or heavy-duty plastic containers. Galvanized trash cans work great and resist rodents. Plastic bins can work but rodents chew through them. Store feed off the ground and away from walls. Open every bag: it should smell faintly sweet and grain-like. Off smells, clumping, or visible mold means throw it out. Moldy grain causes aspergillosis, a serious respiratory fungal infection with a high mortality rate.
 
@@ -97,7 +97,6 @@ Most backyard keepers use free-choice feeders, keeping them filled. This works f
 
 - [poultry feeder](https://www.amazon.com/s?k=chicken+feeder&tag=contentportfo-20)
 - [cottonbro studio](https://www.pexels.com/@cottonbro)
-
 
 | Feed Type | Age/Use | Protein % | Calcium % | Notes |
 |---|---|---|---|---|

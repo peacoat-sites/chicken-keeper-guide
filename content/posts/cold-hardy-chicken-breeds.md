@@ -41,7 +41,7 @@ Here's what people often miss: cold hardy doesn't automatically mean cold weathe
 
 ## The Best Cold Hardy Breeds for Backyard Flocks
 
-I've kept fourteen breeds over the years. These are the ones I'd put my money on for cold climates, based on actual winter performance.
+The breeds below are well-suited to cold climates based on their body structure and feathering.
 
 **Plymouth Rock (Barred Rock):** Probably the most reliable all-around cold weather bird for backyard keepers. They've got a single comb (a small mark against them), but their body mass and dense feathering compensate well. Hens lay 200 to 280 brown eggs per year and keep decent production through winter. Docile, easy to handle. They don't drama-spiral when temperatures drop.
 
@@ -93,7 +93,6 @@ For supplies, good-quality nesting pads and proper waterers make a real differen
 - [Nesting box pads like these](https://amzn.to/3example1)
 - [heated poultry waterer](https://amzn.to/3example2)
 - [Nida Kurt](https://www.pexels.com/@nida-kurt-5079840)
-
 
 Calories are warmth. It's that simple. Birds in cold weather need more feed energy to maintain body temperature, and you need to make sure your feeding setup supports that.
 

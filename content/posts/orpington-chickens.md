@@ -39,7 +39,7 @@ The physical profile is distinctive. Orpingtons carry a massive amount of feathe
 
 Here's the hard truth: Orpingtons are terrible at defending themselves. They're gentle to a fault, and in a mixed flock, that becomes a real liability. I kept a trio of Buff Orpington hens with some Rhode Island Reds years ago, and the Reds bullied them relentlessly at the feeder. The Orpingtons lost weight before I caught on. Now I either keep them with other docile breeds like Cochins, Brahmas, or Sussex, or I make sure there are enough feeders spread around the coop and run that lower-ranking birds can eat without being harassed.
 
-That gentleness, though? It's what makes them spectacular with children and beginner keepers. They tolerate handling with a patience that most breeds simply don't have. I've watched kids as young as four carry Buff Orpington hens around a yard without the bird so much as squawking. They go broody regularly, and when they do, they're some of the most dedicated and gentle mothers you'll find. If you want a hen to hatch and raise chicks, an Orpington is a top-tier choice.
+That gentleness makes them spectacular with children and beginner keepers. They tolerate handling with a patience that most breeds simply don't have. Buff Orpington hens are known for accepting handling from young children without protest. They go broody regularly, and when they do, they're some of the most dedicated and gentle mothers you'll find. If you want a hen to hatch and raise chicks, an Orpington is a top-tier choice.
 
 Most Orpington roosters follow the breed's temperament. They're calmer than, say, a production Rhode Island Red rooster. That said, a rooster is still a rooster. I've met friendly Orpington cockerels that turned aggressive at sexual maturity, so don't let the breed's reputation make you drop your guard entirely.
 
@@ -59,7 +59,7 @@ They're not particularly flighty. They rarely try to escape a fenced run, and th
 
 Orpingtons are classified as [dual-purpose birds](/dual-purpose-chicken-breeds/), but let's be honest: if you're keeping them primarily for eggs, you're accepting a trade-off. A healthy Buff Orpington hen will lay somewhere between 150 and 200 large, light brown eggs per year. Compare that to a production Leghorn pushing 280 to 300 eggs annually, and you can see the gap clearly.
 
-What Orpingtons bring to the table is consistency in cold weather. Their heavy feathering insulates them beautifully, and many keepers report continued laying through winter months when thinner-feathered breeds slow down significantly. I've had Buff Orpington hens laying steadily in temperatures below 20°F while my Easter Eggers took the season off entirely.
+Orpingtons offer consistency in cold weather. Their heavy feathering insulates them well, and many keepers report continued laying through winter months when thinner-feathered breeds slow down significantly.
 
 The broodiness factor cuts both ways. An Orpington hen that goes broody stops laying for the duration of the brood, and it can take weeks for her to break. If you're tracking egg production closely, that's a hit you need to plan for. On the other hand, that broodiness is priceless if you want naturally hatched chicks.
 
@@ -71,9 +71,9 @@ Orpingtons don't need a fancy setup, but they do need enough space. Because of t
 
 Nesting boxes should be sized appropriately. Standard 12x12 inch boxes are fine for most chickens, but Orpingtons are big birds. A 14x14 inch box gives them room to turn around comfortably and encourages clean laying habits. I use washable nesting box pads to keep things tidy and reduce the chance of dirty eggs. [These nesting box pads on Amazon](https://www.amazon.com/s?k=chicken+nesting+box+pads) make cleanup fast, and your nest stays dry between full cleanings. (This site may earn a commission on qualifying purchases.)
 
-Roost bars should be lower than you might use for lighter breeds. Orpingtons are heavy and can injure their feet and legs jumping down from a high roost. I keep my roost bars no higher than 18 to 24 inches off the ground for big breeds. Bumblefoot, a common infection in the foot pad, is more frequent in heavy birds that repeatedly land hard. Low roosts and good bedding go a long way toward prevention.
+Roost bars should be lower than you might use for lighter breeds. Orpingtons are heavy and can injure their feet and legs jumping down from a high roost. Keep roost bars no higher than 18 to 24 inches off the ground for big breeds. Bumblefoot, a common infection in the foot pad, is more frequent in heavy birds that repeatedly land hard. Low roosts and good bedding go a long way toward prevention.
 
-Feeding is straightforward. A quality layer pellet with 16% protein covers the basics for laying hens. I supplement with oyster shell on the side and offer scratch grains as a cold-weather treat, not as a dietary staple. Too much scratch and too little protein leads to fat hens with thin-shelled eggs. If you're mixing flocks of different ages, an all-flock feed with separate calcium supplementation is more practical. [Manna Pro Layena Plus](https://www.amazon.com/s?k=manna+pro+layena+layer+pellets) is a reliable option I've used for years. (This site may earn a commission on qualifying purchases.)
+Feeding is straightforward. A quality layer pellet with 16% protein covers the basics for laying hens. Supplement with oyster shell on the side and offer scratch grains as a cold-weather treat, not as a dietary staple. Too much scratch and too little protein leads to fat hens with thin-shelled eggs. If you're mixing flocks of different ages, an all-flock feed with separate calcium supplementation is more practical. [Manna Pro Layena Plus](https://www.amazon.com/s?k=manna+pro+layena+layer+pellets) is a reliable option. (This site may earn a commission on qualifying purchases.)
 
 Water access is non-negotiable. Orpingtons' heavy feathering means you need to check that their face feathering isn't getting saturated and chilled around waterers in cold weather. A nipple waterer keeps things cleaner and drier than an open pan. [Horizontal nipple waterers](https://www.amazon.com/s?k=chicken+nipple+waterer) are my go-to for keeping bedding dry and water clean. (This site may earn a commission on qualifying purchases.)
 
@@ -109,7 +109,6 @@ Weigh your hens a few times a year. A Buff Orpington hen creeping above 9 pounds
 - [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283)
 - continued laying through winter months when thinner-feathered breeds slow down s
 
-
 | Feature | Buff Orpington | Barred Plymouth Rock | Australorp | Cochin |
 |---|---|---|---|---|
 | Annual eggs | 150-200 | 200-280 | 250-300 | 100-160 |
@@ -124,6 +123,6 @@ The Australorp deserves a second look. It's basically what you get if you want O
 
 ---
 
-Orpingtons won't set any records in the egg basket, and they'll never be the hardiest bird in a rough environment. But if you want a chicken that your kids can name and carry around, a hen that will raise her own chicks with genuine dedication, and a flock that looks like it belongs on a painted barn calendar, you'd be hard-pressed to do better. After 12 years of keeping dozens of breeds, I still make room for at least a few Orpingtons in my flock every single season. Some things just earn their place.
+Orpingtons won't set any records in the egg basket, and they'll never be the hardiest bird in a rough environment. But if you want a chicken that your kids can name and carry around, a hen that will raise her own chicks with genuine dedication, and a flock that looks like it belongs on a painted barn calendar, they're a strong choice.
 
 *Photo: [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283) via Pexels*

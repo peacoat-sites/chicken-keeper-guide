@@ -25,7 +25,7 @@ author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
 lastmod: 2026-07-07
 ---
-At 95 degrees Fahrenheit, a chicken is already in trouble. At 104 degrees, you can lose one within hours. I don't say that to scare you, but because most people don't realize how narrow a chicken's thermal comfort zone actually is. They thrive between about 55 and 75 degrees. Once temps push past 85, they're working hard just to stay alive, and a heat wave can turn a healthy flock into a crisis faster than almost any other weather event. If you're here because it's hot right now and you're worried about your birds, let's skip the fluff and get into what actually works.
+At 95 degrees Fahrenheit, a chicken is already in trouble. At 104 degrees, you can lose one within hours. Most keepers don't realize how narrow a chicken's thermal comfort zone actually is. They thrive between about 55 and 75 degrees. Once temps push past 85, they're working hard just to stay alive, and a heat wave can turn a healthy flock into a crisis faster than almost any other weather event. If you're here because it's hot right now and you're worried about your birds, let's skip the fluff and get into what actually works.
 
 ## Why Heat Hits Chickens So Hard
 
@@ -45,15 +45,15 @@ Ventilation is the single most impactful thing you can control in a heat wave. O
 
 If your coop is small and enclosed, consider whether your birds can actually sleep outside in a secure run during the worst nights. Some coops just can't be made cool enough, and forcing birds to sleep in a 90-degree box is going to wear them down fast.
 
-For right now, during a heat wave, a box fan mounted in a window or vent opening can make a real difference. Point it to pull hot air out, not blow air in. You're trying to move air through the coop, not just push it around inside. A 20-inch box fan runs about $25 to $40 and is one of the highest-value heat wave tools I've used. Make sure any electrical setup is protected from moisture and bird contact.
+For right now, during a heat wave, a box fan mounted in a window or vent opening can make a real difference. Point it to pull hot air out, not blow air in. You're trying to move air through the coop, not just push it around inside. A 20-inch box fan runs about $25 to $40 and is a cost-effective heat wave tool. Make sure any electrical setup is protected from moisture and bird contact.
 
-Reflective insulation like radiant barrier foil on the inside of a metal roof can drop interior temps noticeably. I've seen people add it mid-summer and get a 10-degree difference inside the coop. It's inexpensive and easy to staple up in a couple of hours.
+Reflective insulation like radiant barrier foil on the inside of a metal roof can drop interior temps noticeably. Keepers who add it mid-summer often see about a 10-degree difference inside the coop. It's inexpensive and easy to staple up in a couple of hours.
 
 ## Water Is Non-Negotiable, and Most People Don't Offer Enough of It
 
 A chicken in hot weather drinks two to four times as much water as usual. If you're running a standard 1-gallon waterer for a flock of six, that might have been fine in May and is completely inadequate in a heat wave. You need more water stations, and you need to keep the water cold.
 
-Warm water sits untouched. I've watched birds walk right past a lukewarm waterer on a hot day and not drink. Add ice. Drop a few frozen water bottles in the waterer in the morning. Put out a second or third waterer in the shade. If you have a nipple-style waterer, know that some birds won't figure those out fast enough when they're already stressed, so have a traditional open waterer available too.
+Warm water sits untouched. Birds often won't drink from lukewarm water on a hot day. Add ice. Drop a few frozen water bottles in the waterer in the morning. Put out a second or third waterer in the shade. If you have a nipple-style waterer, know that some birds won't figure those out fast enough when they're already stressed, so have a traditional open waterer available too.
 
 Place water stations in the shadiest parts of the run. Shade under a tree or a tarp is cooler than shade under a solid roof panel that's been baking in the sun. Also put a waterer inside the coop itself, because birds that don't feel like going outside during peak heat will still need to drink.
 
@@ -95,14 +95,13 @@ About misters: they're excellent in the desert southwest. In Georgia in August, 
 - [Harris Farms Galvanized Poultry Waterer](https://www.amazon.com/s?k=harris+farms+galvanized+poultry+waterer)
 - [Durvet Vitamins & Electrolytes](https://www.amazon.com/s?k=durvet+poultry+electrolytes)
 
-
 Digesting feed generates body heat. The fermentation of a heavy grain diet produces real metabolic warmth, which is why you want to adjust feeding during extreme heat.
 
 Don't cut feed entirely, but shift the timing. Feed your flock in the early morning and late evening when temps are lower. Avoid putting out a full feeder at noon during a 100-degree day. Pull layer pellets during the hottest hours if birds aren't eating anyway.
 
 Increase access to fresh produce. Watermelon is a classic for a reason: it's mostly water, it's cool if you refrigerate it first, and birds go crazy for it. Cucumbers, lettuce, and frozen corn are also good options. These won't replace their nutritional needs but they contribute to hydration and the act of pecking at them keeps birds active and engaged without requiring serious digestive effort.
 
-One thing people don't mention: electrolytes. Panting birds exhale significant amounts of sodium and potassium. You can add a poultry electrolyte product to their water during a heat wave, similar to what you'd use for chicks under stress. [Durvet Vitamins & Electrolytes](https://www.amazon.com/s?k=durvet+poultry+electrolytes) is a product I've used and recommended to people dealing with heat stress recovery *(affiliate link, we may earn a commission on purchases)*. It's not a cure-all, but it helps birds recover from the cumulative drain of hot days.
+One thing people don't mention: electrolytes. Panting birds exhale significant amounts of sodium and potassium. You can add a poultry electrolyte product to their water during a heat wave, similar to what you'd use for chicks under stress. [Durvet Vitamins & Electrolytes](https://www.amazon.com/s?k=durvet+poultry+electrolytes) is available for keepers dealing with heat stress recovery *(affiliate link, we may earn a commission on purchases)*. Electrolytes help birds recover from the cumulative stress of prolonged heat.
 
 Scratch grains and cracked corn are high in carbohydrates, which produce more metabolic heat during digestion. Temporarily dial those back during a heat wave. Your birds' protein and hydration needs are more important right now than scratch treats.
 

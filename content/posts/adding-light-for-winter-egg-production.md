@@ -34,7 +34,7 @@ What surprised me when I dug into this more seriously was how precise the thresh
 
 ## What Kind of Light, and How Much
 
-Here's where I'll push back on the most common recommendation you'll see: that incandescent bulbs are best because chickens see red light more effectively. That was probably true when people were comparing incandescents to older fluorescent tubes. Today's LED options, specifically warm-spectrum LEDs in the 2700K to 3000K range, work just as well and run cheaper. I've been using a cheap Philips 40W-equivalent warm LED (A19, around $8 at any hardware store) in each of my coops for the last four winters with zero issues.
+A common recommendation is that incandescent bulbs are best because chickens see red light more effectively. That reasoning made sense when comparing incandescents to older fluorescent tubes. Today's LED options, specifically warm-spectrum LEDs in the 2700K to 3000K range, work just as well and cost less to run. A cheap warm LED bulb (A19, around $8 at any hardware store) will perform reliably in a coop.
 
 Intensity matters more than people acknowledge. The rule of thumb that actually works: 1 watt of incandescent per square foot, or roughly 0.3 to 0.5 watts LED equivalent. For a standard 8x10 coop, you want about 25 to 40 actual LED watts total. Not equivalent watts. Actual. That sounds dim, but honestly it is dim. You should be able to read a newspaper in there, but it shouldn't feel like a floodlight situation. I once overdid it with a 100W-equivalent LED in a small coop and the hens were visibly agitated at lights-on. Dropped to a 40W-equivalent and everything settled down within a few days.
 
@@ -56,7 +56,7 @@ A mechanical outlet timer works. I used a basic Intermatic TN311 for years, arou
 
 Start supplemental lighting before natural day length drops below 14 hours, not after production has already tanked. In most of the continental U.S., that means getting your system running by mid-September. Once hens have already quit laying and gone into a rest state, it takes longer to bring them back online. You're not restarting a stopped engine; you're trying to keep it from stopping in the first place.
 
-The research here is mixed on whether you should supplement light for hens going through their annual molt. My personal approach: I don't. Molt is a genuine physiological process they need to complete, and the energy that goes into feather regrowth is real. Forcing them back into lay during a heavy molt seems like a bad trade. I let them finish the molt, then start the light program. Usually that means I'm back to solid production by late October or early November for most of my flock.
+The research here is mixed on whether you should supplement light for hens going through their annual molt. Many keepers choose not to supplement light during molt. Molt is a physiological process that requires significant energy for feather regrowth, and forcing hens back into lay during a heavy molt can stress the flock. Letting them complete the molt naturally before starting a light program allows production to resume on a sustainable schedule.
 
 Some people will tell you that supplementing light delays molt, which is true but not necessarily a problem. Hens who didn't molt heavily the previous summer may skip or compress it. Watch your flock individually.
 
@@ -79,13 +79,11 @@ I'll be honest: if winter production is your main goal, heritage breeds make thi
 - [Pongpoonat Rungrueng](https://www.pexels.com/@14saill)
 - here is mixed on whether you should supplement light for hens going through thei
 
-
 Some keepers refuse to add supplemental lighting on the grounds that it's "unnatural." I respect the position but don't share it. Hens in a coop in Virginia are already living an unnatural life in a dozen ways, including being fed a formulated diet, protected from predators, and housed in artificial structures. The argument that light supplementation specifically crosses some welfare line doesn't hold up to scrutiny for me.
 
 That said, the concern about shortened productive lifespan has some merit. A hen has a finite number of eggs she'll ever produce. Running her year-round does pull from that total faster than a seasonal production cycle. For people keeping hens primarily as pets who happen to lay eggs, the math on that might look different than for someone running a serious backyard operation. Know what you're optimizing for.
 
 ---
-
 
 *Photo: [Pongpoonat Rungrueng](https://www.pexels.com/@14saill) via Pexels*
 

@@ -31,13 +31,11 @@ Getting the settings right isn't complicated, but there are two or three places 
 
 You might be wondering whether your incubator brand matters more than the settings, or whether expensive digital units are worth it over the $40 styrofoam ones. We'll get to that. But start with the fundamentals, because a Brinsea Mini Advance set wrong will still fail you, and a basic Little Giant with correct settings can surprise you.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Still-air incubators need 101-102°F; forced-air models should run at 99.5°F.</li><li style="margin:5px 0">Humidity targets: 45-55% for the first 18 days, then 65-75% during lockdown.</li><li style="margin:5px 0">Egg turning is required at least 3 times daily until day 18; stop completely at lockdown.</li><li style="margin:5px 0">Temperature spikes above 104°F for more than 30 minutes can kill developing embryos.</li><li style="margin:5px 0">Calibrate your thermometer/hygrometer before you set a single egg, factory readings can be off by 2-3 degrees.</li></ul></div>
-
 
 ## Temperature: the Number That Kills More Chicks Than Anything Else
 
-Ninety-nine point five degrees Fahrenheit. For a forced-air incubator, that's the number, measured at egg level, not at the thermometer clip that came in the box. Here's the thing nobody tells you until you've lost a hatch: the sensor that ships with most budget incubators is calibrated loosely, sometimes 1.5 to 2 degrees off. I learned this when I cross-checked my Little Giant's built-in display against a calibrated digital probe thermometer and found a 2.1-degree discrepancy. At that point I'd already set two hatches wondering why my day-21 chicks were early or late.
+Ninety-nine point five degrees Fahrenheit. For a forced-air incubator, that's the number, measured at egg level, not at the thermometer clip that came in the box. The sensor that ships with most budget incubators is calibrated loosely, sometimes 1.5 to 2 degrees off. Cross-checking the incubator's built-in display against a calibrated digital probe thermometer before setting eggs is advisable, since even a 2-degree discrepancy will shift hatch dates noticeably.
 
 Spend $12 on a separate probe thermometer (the ThermoPro TP53 or similar) and set it inside the incubator for 24 hours before you load any eggs. Then trust the probe, not the unit's display.
 
@@ -66,9 +64,7 @@ Here's what I tell people now: the target for days 1 through 18 is 45-55% relati
 
 Different egg types have slightly different needs:
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Optimal incubation humidity by species (%)</div><div class="sc-row"><span class="sc-label">Chicken (day 1-18)</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">50%</span></div><div class="sc-row"><span class="sc-label">Chicken (lockdown)</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">70%</span></div><div class="sc-row"><span class="sc-label">Duck (day 1-25)</span><span class="sc-track"><span class="sc-bar" style="width:69%"></span></span><span class="sc-val">55%</span></div><div class="sc-row"><span class="sc-label">Duck (lockdown)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">80%</span></div><div class="sc-row"><span class="sc-label">Turkey (day 1-25)</span><span class="sc-track"><span class="sc-bar" style="width:66%"></span></span><span class="sc-val">53%</span></div><div class="sc-row"><span class="sc-label">Turkey (lockdown)</span><span class="sc-track"><span class="sc-bar" style="width:94%"></span></span><span class="sc-val">75%</span></div><div class="sc-src">Source: University of Georgia Extension Poultry Science, 2023 hatchery guidelines</div></div>
-
 
 One underappreciated detail: your hygrometer needs calibration just like your thermometer does. You can do a salt test at home in about 8 hours. Pack damp (not wet) salt into a bottle cap, place it and your hygrometer in a sealed zip-lock bag, and wait. After 8 hours, it should read exactly 75% relative humidity. If it's off by 3 points or more, adjust your target accordingly. Most cheap hygrometers read 3-5% low.
 
@@ -106,6 +102,5 @@ Worked example: A hatch I did in April with 24 Buff Orpington eggs. Set temperat
 - Penn State Extension, Small Flock Series: Practical recommendations for backyard incubators, including still-air vs. forced-air guidance and candling schedules.
 
 ---
-
 
 *Photo: [ArtHouse Studio](https://www.pexels.com/@arthousestudio) via Pexels*

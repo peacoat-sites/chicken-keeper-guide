@@ -119,7 +119,6 @@ For supportive care supplies, a vitamin-electrolyte supplement like [Sav-A-Chick
 - [*Chicken Health Handbook*](https://www.amazon.com/s?k=gail+damerow+chicken+health+handbook&tag=contentportfo-20)
 - [Quang Nguyen Vinh](https://www.pexels.com/@quang-nguyen-vinh-222549)
 
-
 The most important thing you can do happens before you ever buy a bird.
 
 **Biosecurity checklist for Marek's prevention:**
@@ -142,6 +141,6 @@ For a deeper understanding of poultry disease management, Gail Damerow's [*Chick
 
 ---
 
-Marek's disease is genuinely hard. It's one of the few chicken health problems where doing everything right still doesn't guarantee you won't lose birds. What you can control is the vaccine status of your chicks, the sources you buy from, your quarantine discipline, and how quickly you respond when something looks wrong. That's not nothing. Most of the bad outcomes I've seen came from skipping one of those four things, usually more than one, usually early on when the keeper didn't yet know what they didn't know. You do now.
+Marek's disease is genuinely hard. It's one of the few chicken health problems where doing everything right still doesn't guarantee you won't lose birds. What you can control is the vaccine status of your chicks, the sources you buy from, your quarantine discipline, and how quickly you respond when something looks wrong. That's not nothing. Most bad outcomes stem from skipping one of those four things, usually more than one, often early on when the risk isn't yet clear. You do now.
 
 *Photo: [Quang Nguyen Vinh](https://www.pexels.com/@quang-nguyen-vinh-222549) via Pexels*

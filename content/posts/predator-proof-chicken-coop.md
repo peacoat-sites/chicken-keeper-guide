@@ -42,7 +42,7 @@ It happened on a Tuesday morning. I walked out to let my girls out for the day a
 
 Before you spend a dime on hardware, you need to know your enemies. And I mean that literally. The predators threatening your flock vary a lot by region, and so do their methods.
 
-Raccoons are the masterminds. They have dexterous hands, they're patient, and they'll work a latch for twenty minutes if they think there's food on the other side. I've watched one on a trail camera manipulate a hook-and-eye latch in under four minutes. Foxes are more about speed and brute force, usually exploiting gaps or digging under runs. Opossums are slower but persistent. Weasels and minks are the ones that give me nightmares because they can squeeze through a one-inch gap, kill every bird in the coop, and vanish before dawn. Hawks and owls are a daytime and nighttime threat respectively, primarily to birds in open runs. And depending on where you live, you might also be dealing with coyotes, bobcats, bears, or domestic dogs, which honestly cause more flock losses than most people realize.
+Raccoons are the masterminds. They have dexterous hands, they're patient, and they'll work a latch for twenty minutes if they think there's food on the other side. Raccoons can manipulate a hook-and-eye latch in under four minutes. Foxes are more about speed and brute force, usually exploiting gaps or digging under runs. Opossums are slower but persistent. Weasels and minks can squeeze through a one-inch gap, kill every bird in the coop, and vanish before dawn. Hawks and owls are a daytime and nighttime threat respectively, primarily to birds in open runs. And depending on where you live, you might also be dealing with coyotes, bobcats, bears, or domestic dogs, which honestly cause more flock losses than most people realize.
 
 Here's the contrarian bit: most people think the answer is one really strong defense. It isn't. A coop that keeps out raccoons won't necessarily stop a determined weasel, and a run that stops foxes won't stop a hawk. You need layers. Think of it like concentric rings of security, each one covering the gaps left by the last.
 
@@ -64,7 +64,7 @@ Digging is one of the most underestimated threats to a backyard flock. Foxes, co
 
 The better approach is the apron method. Instead of burying the wire vertically, you extend it horizontally outward from the base of your run like a skirt, laying it flat on the ground and covering it with soil, mulch, or gravel. Two feet of outward extension is the minimum. Three feet is better.
 
-It works because when a predator starts digging at the base of your run, they hit wire almost immediately. Their instinct isn't to back up two feet and start digging again. They give up and move on. I've used this for eight years. Every spring when the fox trots through my yard and sniffs around the run, she leaves without a bird.
+It works because when a predator starts digging at the base of your run, they hit wire almost immediately. Their instinct isn't to back up two feet and start digging again. They give up and move on.
 
 **Laying a predator apron:**
 
@@ -95,7 +95,7 @@ A lot of coop setups I see have great walls and decent latches but completely op
 
 If your run is fully enclosed with a solid roof, you're good. If it's a larger free-range area or a partially covered run, you have options. Deer netting stretched over the top is inexpensive and will stop most aerial predators. It's not impenetrable, but hawks don't typically push through netting the way they would dive into an open run. Hardware cloth overhead is the most secure but also the most expensive option if you're covering a large space.
 
-Old CDs hung on fishing line, scarecrows, predator eye balloons? I've tried them all. They work for a few weeks, then they don't. The hawks figure it out. Real physical coverage is the only answer that sticks.
+Old CDs hung on fishing line, scarecrows, and predator eye balloons work for a few weeks before predators adjust to them. Real physical coverage is the only reliable answer.
 
 For nighttime, owls are a genuine threat, particularly great horned owls, which are strong enough to take a full-size hen. Your coop door being closed by dark is your main defense here. Birds should be inside by the time it's fully dark, not roosting on top of the coop or lingering in the run.
 
@@ -107,7 +107,6 @@ For nighttime, owls are a genuine threat, particularly great horned owls, which 
 - [Double-locking coop latches like these](https://www.amazon.com/s?k=raccoon+proof+chicken+coop+latch)
 - [Solar-powered automatic coop doors](https://www.amazon.com/s?k=automatic+chicken+coop+door+solar)
 - [Lilly Grace](https://www.pexels.com/@lilly-grace-944249302)
-
 
 | Material | Stops Diggers | Stops Weasels | Stops Raccoons | Durability | Cost |
 |---|---|---|---|---|---|

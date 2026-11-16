@@ -29,15 +29,13 @@ Most [chicken keepers](/egg-prices-crashed-but-chicken-keepers-are-staying-put/)
 
 Limping in chickens has a surprisingly wide range of causes, and the difference between a bird that recovers in four days and one that dies in four weeks often comes down to figuring out which one you're dealing with quickly. So let me walk you through what I've learned from a decade of this, from the obvious stuff to the things that blindsided me.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Bumblefoot (Staphylococcus infection on the footpad) causes 40-60% of backyard chicken limping cases.</li><li style="margin:5px 0">Marek's disease causes nerve paralysis and is often mistaken for injury, it's fatal and untreatable.</li><li style="margin:5px 0">A chicken limping for more than 3 days with no visible wound needs a vet visit, not more waiting.</li><li style="margin:5px 0">Vitamin B2 (riboflavin) deficiency causes a distinctive "curled toe" paralysis, fixable with supplements.</li><li style="margin:5px 0">Predator attack injuries and roost-height falls are the most common trauma causes, check the hock joint first.</li></ul></div>
-
 
 ## Start Here: How to Actually Examine a Limping Chicken
 
 Pick the bird up and bring her somewhere with good light. Tuck her under your arm like a football (seriously, this restraint method works better than anything), and start at the toes and work up. You're looking for four things: swelling, heat, wounds, and asymmetry between the legs.
 
-The foot is your first stop. Flip it over and look at the footpad. Bumblefoot shows up as a darkened, callused scab, often with a hard black plug in the center, on the bottom of the foot. The surrounding tissue may be swollen and hot. In my experience, it often starts on just one toe and spreads if ignored, and there's a faint sour smell when the infection is advanced. That smell is one of those things nobody tells you about until you've already smelled it.
+The foot is your first stop. Flip it over and look at the footpad. Bumblefoot shows up as a darkened, callused scab, often with a hard black plug in the center, on the bottom of the foot. The surrounding tissue may be swollen and hot. Bumblefoot often starts on just one toe and spreads if ignored. A faint sour smell may develop when the infection is advanced.
 
 Next, run your fingers up the leg. Feel for swelling at the hock joint (that's the big joint halfway up, equivalent to our ankle). A swollen, squishy hock that feels warm is often Mycoplasma synoviae or another bacterial joint infection. A swollen, hard hock with no heat can be gout. Then look at the leg itself, does the leg look weak rather than painful? A bird that won't put weight on one leg but shows no swelling anywhere is the one that worries me most, because that presentation points toward neurological causes.
 
@@ -73,7 +71,7 @@ Vitamin B2 (riboflavin) deficiency causes something called "curled toe paralysis
 
 Articular gout is something I'd estimate gets misdiagnosed as bumblefoot in at least 20-30% of older backyard hens, based on conversations in keeper communities. The swollen joints look infected but the tissue is firm and whitish, and if you've ever opened one (I haven't, but an avian vet showed me photos), it's chalky uric acid deposits. It's associated with high-protein diets, kidney issues, and some medications, particularly prolonged Amprolium use. Management focuses on diet, hydration, and pain relief, not antibiotics.
 
-Scenario: A reader named Patricia emailed me last October about her 4-year-old Rhode Island Red who'd been limping for six weeks with no visible wound. Two vets had treated for bumblefoot without improvement. Third vet diagnosed articular gout. Action: Switched from 20% protein layer pellets to 16% Purina Layena, increased fresh water access, added Meloxicam (prescription) short-term. Result: Significant improvement in mobility within three weeks, though not complete resolution.
+Lameness that persists despite bumblefoot treatment may point to other conditions like articular gout. Management can include adjusting protein intake (switching to 16% protein feed), increasing fresh water access, and using anti-inflammatory medication like Meloxicam if prescribed by a vet.
 
 ## Roost Height and Hardware Injuries: The Preventable Ones
 
@@ -92,6 +90,5 @@ Scenario: My Black Australorp flock went through a phase where I was seeing a ne
 - [Avian Diseases journal, riboflavin deficiency in poultry](https://www.amsciepub.com/loi/avdi): Peer-reviewed research on B-vitamin deficiency presentations and recovery outcomes in laying hens.
 
 ---
-
 
 *Photo: [Bruna  Fossile](https://www.pexels.com/@bruna-fossile-183845208) via Pexels*

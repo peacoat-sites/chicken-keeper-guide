@@ -45,7 +45,7 @@ This matters more than it sounds. Some hens sit in the box for an hour after lay
 
 The real test is temperature. Slide your hand under her. If she feels like a furnace, she's broody.
 
-Not every broody is created equal, by the way. Silkies, Cochins, and Buff Orpingtons are famously determined sitters. Production breeds like Leghorns and most commercial sex-links have had broodiness nearly bred out of them. If you've got a reliable broody from one of the heritage breeds, treat her like an asset. I've had a Cochin named Biscuit who hatched three clutches in a single season and raised every single chick without losing one.
+Not every broody is created equal, by the way. Silkies, Cochins, and Buff Orpingtons are famously determined sitters. Production breeds like Leghorns and most commercial sex-links have had broodiness nearly bred out of them. If you've got a reliable broody from one of the heritage breeds, treat her like an asset.
 
 ## Setting Up the Nest: Get This Right First
 
@@ -75,14 +75,13 @@ Check on her once a day. Make sure she's eating and drinking. A good broody will
 
 [Candling is optional](/candling-eggs-guide/) under a broody, but I do it once at day 7 to pull clear (infertile) eggs and once at day 14 to remove any that have quit. Use a small LED flashlight in a dark space. Fertile, developing eggs will show a distinct spiderweb of blood vessels by day 7. Infertile eggs look clear. Quitters will show a dark ring or a scrambled mess. Rotting eggs can explode if they're left too long, and the contamination can kill viable embryos nearby.
 
-Around day 18, she'll go into "lockdown" mode on her own. She'll barely leave the nest, and you'll sometimes hear her making soft, low clucks into the eggs. The embryos can hear her at this point and are responding. It's one of the more remarkable things I've seen in ten years of doing this.
+Around day 18, she'll go into "lockdown" mode on her own. She'll barely leave the nest, and you'll sometimes hear her making soft, low clucks into the eggs. The embryos can hear her at this point and are responding.
 
 ## The Hatch and What Comes Right After
 
 ## Sources
 
 - [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646)
-
 
 Day 21 is the target, but don't panic if nothing happens until day 23. Cooler ambient temps slow development. Eggs set at slightly different times can stagger the hatch by a day or two.
 
@@ -95,7 +94,6 @@ One thing people aren't warned about: newly hatched chicks don't need food or wa
 After that, chick starter crumble (non-medicated is fine if your chicks won't be exposed to a coccidiosis pressure environment, but medicated is reasonable insurance). A shallow waterer with marbles in the tray to prevent drowning. And mostly, leave the hen to it. She's done this before, even if you haven't.
 
 ---
-
 
 ---
 

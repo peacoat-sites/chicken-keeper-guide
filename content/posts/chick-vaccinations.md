@@ -46,7 +46,7 @@ If you're hatching your own eggs or buying locally from someone who doesn't vacc
 
 These two diseases are often vaccinated against together, and in commercial operations, they're considered non-negotiable. For backyard flocks, the calculus is different.
 
-Newcastle disease (technically Virulent Newcastle Disease, or vND) is a reportable illness that can devastate a flock within days. Respiratory distress, neurological symptoms, sudden death. There are live attenuated vaccines available (LaSota and B1 strains are the most common), typically administered via eye drop, drinking water, or spray. The drinking water method sounds convenient, but getting reliable coverage in a mixed flock is tricky. I've had better results with eye drops when I was doing it myself.
+Newcastle disease (technically Virulent Newcastle Disease, or vND) is a reportable illness that can devastate a flock within days. Respiratory distress, neurological symptoms, sudden death. There are live attenuated vaccines available (LaSota and B1 strains are the most common), typically administered via eye drop, drinking water, or spray. The drinking water method sounds convenient, but getting reliable coverage in a mixed flock is tricky. Eye drops tend to give more consistent individual coverage.
 
 Infectious Bronchitis (IB) is sneaky in a different way. It's caused by a coronavirus (not the human one, to answer the question I know you're thinking), and it mutates readily, meaning the vaccine strain doesn't always match the field strain circulating in your area. The research here is genuinely mixed on how protective IB vaccination is in backyard settings, and your local extension office is actually your best resource for knowing which strains are active in your region.
 
@@ -75,7 +75,6 @@ What I'd tell someone starting out: get the Marek's done at the hatchery level, 
 
 ---
 
-
 *Photo: [Thirdman](https://www.pexels.com/@thirdman) via Pexels*
 
 ---
@@ -85,7 +84,6 @@ What I'd tell someone starting out: get the Marek's done at the hatchery level, 
 - [Thirdman](https://www.pexels.com/@thirdman)
 - [Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)
 - here is genuinely mixed on how protective IB vaccination is in backyard settings
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

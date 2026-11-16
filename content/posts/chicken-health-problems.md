@@ -40,7 +40,7 @@ You go out to the coop on a Tuesday morning with your coffee, same as always, an
 
 ## The Conditions You're Most Likely to Actually Encounter
 
-I've kept hens for ten years across three different properties, and the same problems show up over and over. Respiratory illness, digestive issues, external parasites, egg-laying complications, and coccidiosis. Those five cover probably 85% of what backyard keepers deal with. The dramatic stuff, [Marek's disease, Avian Influenza](/avian-influenza-backyard-flock/), gets plenty of attention online. You should know about those. But they're not where most people spend their chicken-keeping energy.
+The same health problems show up repeatedly in backyard flocks. Respiratory illness, digestive issues, external parasites, egg-laying complications, and coccidiosis. Those five cover probably 85% of what backyard keepers deal with. The dramatic stuff, [Marek's disease, Avian Influenza](/avian-influenza-backyard-flock/), gets plenty of attention online. These diseases deserve attention, but they are not where most backyard keepers spend their chicken-keeping energy.
 
 **Respiratory illness** shows up constantly, especially in poorly ventilated coops or when you bring in new birds without quarantine. Mycoplasma gallisepticum, called MG or chronic respiratory disease, causes rattling breath, bubbling eyes, facial swelling, and a smell that's genuinely unmistakable once you've encountered it. Here's the brutal part: there's no cure. You can treat symptoms with antibiotics like Tylan (tylosin) or oxytetracycline, but a bird with MG stays a carrier for life. I [skipped quarantine exactly once](/quarantine-new-chickens/). It cost me an otherwise clean flock. That was expensive tuition.
 
@@ -84,7 +84,7 @@ This category blindsides people the most because it often hits your best layers.
 
 **Egg yolk peritonitis** happens when yolk material ends up in the abdominal cavity, usually from a failed ovulation. The abdomen fills with fluid, the bird develops a characteristic "penguin stance," she loses weight and condition while her belly swells. It's serious and often requires a vet for diagnosis and treatment, which may include antibiotics, hormone implants to stop ovulation, or in some cases surgery.
 
-**Internal laying and reproductive cancer** are unfortunately common in high-production breeds like ISA Browns, Golden Comets, and other hybrids. These birds were bred to lay 300+ eggs per year. That pace takes a physical toll. I've watched more hybrid hens die from reproductive issues before age three than from any other cause. Want birds that live longer? Consider dual-purpose breeds like Australorps, Dominiques, or Buff Orpingtons. They lay less. But they last.
+**Internal laying and reproductive cancer** are unfortunately common in high-production breeds like ISA Browns, Golden Comets, and other hybrids. These birds were bred to lay 300+ eggs per year. That pace takes a physical toll. Reproductive issues are a leading cause of early death in high-production hybrids. Want birds that live longer? Consider dual-purpose breeds like Australorps, Dominiques, or Buff Orpingtons. They lay less. But they last.
 
 ---
 
@@ -96,7 +96,6 @@ This category blindsides people the most because it often hits your best layers.
 - [nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
 - [The Chicken Health Handbook by Gail Damerow](https://www.amazon.com/s?k=Chicken+Health+Handbook+Gail+Damerow&tag=contentportfo-20)
 - [Weder Soares Dos Santos](https://www.pexels.com/@weder-soares-dos-santos-202980724)
-
 
 When you find a bird that's "off," don't panic. Work through this systematically before you reach for a treatment or call a vet.
 

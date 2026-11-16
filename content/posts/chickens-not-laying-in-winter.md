@@ -45,7 +45,7 @@ The molt timing and the light reduction often hit simultaneously. You're dealing
 
 You can support hens through molt by bumping up their protein intake. Switch temporarily to a 20% protein feed or add a high-protein supplement like [Black Soldier Fly Grubs](https://amzn.to/3example1) *(affiliate link)* a few times a week. Feathers are roughly 85% protein. Feeding a standard 16% layer pellet during molt is the nutritional equivalent of trying to rebuild a house while on a calorie deficit.
 
-Don't handle molting hens more than necessary. The pin feathers coming in are actively blood-fed and painful to the touch. I've seen well-meaning keepers stress their birds badly by checking them over too frequently.
+Don't handle molting hens more than necessary. The pin feathers coming in are actively blood-fed and painful to the touch. Checking molting hens over too frequently can stress them badly.
 
 ## Breed Matters More Than People Admit
 
@@ -90,7 +90,7 @@ A reliable [outlet timer like this one](https://amzn.to/3example2) *(affiliate l
 
 ## Feeding and Water in Winter: The Silent Production Killers
 
-Water is the biggest one. A hen's body is about 75% water and an egg is about 74% water. If your waterer is freezing overnight and thawing slowly in the morning, your hens may have reduced access for 6 to 8 hours a day. That alone will tank production significantly. I've seen people supplement light, increase protein, do everything right, and still get almost no eggs because their nipple waterer was freezing solid at 3am.
+Water is the biggest one. A hen's body is about 75% water and an egg is about 74% water. If your waterer is freezing overnight and thawing slowly in the morning, your hens may have reduced access for 6 to 8 hours a day. That alone will tank production significantly. A frozen nipple waterer can eliminate egg production even when other management practices like supplemental light and increased protein are correct.
 
 Fix it with a heated base like the [Farm Innovators Heated Poultry Drinker](https://amzn.to/3example3) *(affiliate link)* or use a submersible de-icer in a metal waterer. Non-negotiable if nighttime temps drop below 28°F regularly.
 
@@ -106,7 +106,6 @@ Scratch grain is fine as a winter treat and does generate some metabolic heat as
 - [outlet timer like this one](https://amzn.to/3example2)
 - [Farm Innovators Heated Poultry Drinker](https://amzn.to/3example3)
 - [Kadir Polat](https://www.pexels.com/@kadir-polat-304109907)
-
 
 | Factor | Supplemental Light | Natural Winter Rest |
 |---|---|---|

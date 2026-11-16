@@ -33,7 +33,7 @@ New birds carry pathogens your existing flock has never encountered. Your flock 
 
 The diseases that spread this way aren't minor inconveniences. Marek's disease, Mycoplasma gallisepticum (the respiratory infection most backyard keepers call "MG"), infectious bronchitis, laryngotracheitis, and coccidiosis are all candidates. Some of these are manageable. Some are fatal. A few, like MG, will make your birds chronic carriers for life, meaning even recovered birds can infect new additions years later.
 
-I've seen keepers lose entire flocks because they bought "healthy-looking" birds at a swap meet and skipped the 30-day buffer. One respiratory illness moved through 14 birds in three weeks. Don't be that story.
+A common mistake is buying "healthy-looking" birds at a swap meet and skipping the 30-day quarantine buffer. Respiratory illness can spread through a flock in weeks. The 30-day wait protects your existing birds.
 
 ## Setting Up a Proper Quarantine Space
 
@@ -108,14 +108,13 @@ Move new birds into the main coop at night. Hens reorganize pecking order more c
 - [hanging feeder](https://www.amazon.com/s?k=hanging+poultry+feeder&tag=contentportfo-20)
 - [Poultry dust or permethrin spray](https://www.amazon.com/s?k=poultry+permethrin+dust&tag=contentportfo-20)
 
-
 **Using the same tools without cleaning them.** A waterer you fill for quarantine birds, then bring back to the main coop without washing, is a direct contamination pathway. Dedicated equipment per area, always.
 
 **Visiting quarantine birds last, not first.** If you care for your main flock and then go check on quarantine birds, you're moving potential pathogens in the right direction, from unknown birds toward your established flock. Reverse the order. Quarantine birds get checked after the main flock, or you change clothes and shoes between visits.
 
 **Ending quarantine early because they look fine.** Looking fine is not the same as being fine. Stick to the timeline you set at the start.
 
-**Quarantining in a space that shares ventilation with the main coop.** Two coops with a shared roof but open eaves count as shared airspace. I've seen this end badly more than once.
+**Quarantining in a space that shares ventilation with the main coop.** Two coops with a shared roof but open eaves count as shared airspace.
 
 **Skipping the parasite check.** Mites and lice don't cause dramatic illness, so people discount them. But a heavy mite load stresses birds, suppresses immunity, causes anemia, and will spread to your entire flock within days of integration. [Poultry dust or permethrin spray](https://www.amazon.com/s?k=poultry+permethrin+dust&tag=contentportfo-20) on arrival is cheap insurance.
 

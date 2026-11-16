@@ -25,7 +25,7 @@ faqs:
     a: "Use hardwood ash from untreated wood burned in a fireplace or fire pit. Charcoal ash (from briquettes) often contains chemical accelerants and additives that you don't want your birds absorbing through their skin. The packaging on most charcoal explicitly says it's not for composting or garden use, and the same logic applies here. Stick to clean wood ash."
 ---
 
-My first spring with chickens, I stood at the coop window watching my hens throw dirt all over themselves and genuinely thought something was wrong with them. They were flopping around, kicking soil into the air, rubbing their faces in the ground. I almost called my neighbor in a panic. Ten years later, I can tell you that dust bathing is one of the most important things a chicken does for herself, and if you don't give her a good place to do it, she's going to find the worst possible spot in your yard to get it done.
+Dust bathing is one of the most important things a chicken does for herself. If you don't give her a good place to do it, she's going to find the worst possible spot in your yard to get it done.
 
 Usually that spot is your raised vegetable bed. Ask me how I know.
 
@@ -37,9 +37,9 @@ Dust bathing is instinctive, hardwired behavior. Hens will do it whether you pro
 
 The mechanism is actually pretty clever. Fine particles work their way through the feathers down to the skin and suffocate external parasites by clogging their breathing pores and absorbing the oils their bodies need to survive. At the same time, a good bath distributes the hen's own preen oil more evenly across her feathers, which helps with waterproofing and feather condition. The bathing also removes excess oil buildup at the base of the feathers, which can otherwise become a breeding ground for bacteria.
 
-What I've seen over years of keeping flocks is that birds with consistent, quality dust bathing access just look better. Their feathers lie flatter and have more sheen. And flocks I've managed that went two or three weeks without access during muddy winters? They started showing feather damage and increased pecking within that window. That's not a controlled study, but it tracks with what the research says about the behavioral stress component.
+Birds with consistent, quality dust bathing access look healthier: their feathers lie flatter and have more sheen. Without access for several weeks, flocks can develop feather damage and increased pecking, which aligns with what research shows about the behavioral stress that dust bathing helps relieve.
 
-There's also a social dimension people miss. Dust bathing is communal. Hens do it together, often in small groups, and it seems to reinforce flock bonds. I've watched a hen wait for her preferred companion before settling into a bath. Whether that's "friendship" in any meaningful sense, I won't claim to know, but the behavior is real.
+There's also a social dimension people miss. Dust bathing is communal. Hens do it together, often in small groups, and it seems to reinforce flock bonds. Hens often have preferred companions they dust bathe with, which suggests the behavior reinforces specific flock bonds.
 
 ## What to Put In the Bath
 
@@ -58,9 +58,9 @@ Here's a comparison of the most common substrates, because people ask about this
 | Peat moss | Fair | ~$12-18 per cu ft | Good texture; dries out quickly |
 | Commercial poultry dust | Good | ~$18-28 per bag | Convenient but usually just DE + filler |
 
-My honest take: a mix of two-thirds fine soil to one-third wood ash is what I've used for years and it works better than anything I've paid for. The wood ash seems to boost the desiccant effect, and hens seek it out specifically when they have the option. I add about a cup of food-grade DE per square foot of bath area, but I don't go heavier than that because fine dust inhaled in quantity isn't great for birds' respiratory systems, and honestly their natural enthusiasm for throwing it around means they get the benefit without you needing to dump it in.
+A mix of two-thirds fine soil to one-third wood ash works well; the wood ash boosts the desiccant effect and hens prefer it when given the choice. Add about a cup of food-grade DE per square foot of bath area, but don't exceed that amount since fine dust in quantity can stress birds' respiratory systems. Hens naturally throw the material around enough to get the benefit without heavy applications.
 
-One thing that only experience teaches you: keep the substrate genuinely dry. A damp dust bath is almost useless and hens mostly won't use it. If your bath gets rained on, you need to let it dry out or replace the top layer before your birds will touch it again. I learned this after spending a summer wondering why my hens kept ignoring the beautiful bath I'd built them.
+Keep the substrate genuinely dry. A damp dust bath is almost useless and hens mostly won't use it. If your bath gets rained on, dry it out or replace the top layer before offering it again.
 
 ## Building or Setting Up a Bath
 
@@ -77,7 +77,7 @@ Small [backyard flock](/h5n1-can-kill-your-cat-what-backyard-flock-owners-must-k
 
 If your birds are in a solid-floor coop without run access during winter (common in colder climates), you still need to provide this. A plastic storage bin or even a large metal tub works. Fill it the same way. Put it inside the coop or in a covered area they can access, and accept that there will be some substrate kicked around the space. It's a minor mess compared to the welfare cost of skipping it.
 
-I've seen flocks kept in strict confinement for six to eight weeks during harsh winters who looked terrible by the end of it, dull feathers, increased pecking, sometimes self-feathering. Adding an indoor bath the following winter made a measurable difference. Same birds, same conditions, better outcomes. I don't have exact numbers, but the difference was obvious enough that I'd never skip it again.
+Flocks kept in strict confinement for six to eight weeks during harsh winters without a dust bath often develop dull feathers, increased pecking, and sometimes feather damage. Providing an indoor bath during confinement noticeably improves these outcomes.
 
 ## Sources
 

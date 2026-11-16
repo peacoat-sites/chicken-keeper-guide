@@ -33,7 +33,7 @@ Here's the full version.
 
 Chickens pick up intestinal parasites constantly. Every scratch in the dirt, every earthworm gulped down, every drink from a puddle is a potential exposure. The most common culprits in backyard flocks are roundworms (*Ascaridia galli*), cecal worms (*Heterakis gallinarum*), capillary worms, and tapeworms. Cecal worms matter especially because they carry *Histomonas meleagridis*, the protozoan that causes [blackhead disease in turkeys](/worms-in-chickens/). If you keep mixed species, that's a serious issue.
 
-The tricky part: a moderate worm burden looks like a dozen other things. Soft shells. Reduced laying. Dull feathers. Birds that just seem a bit off. By the time you're seeing actual worms in droppings or a bird is visibly wasting away, you're well behind the curve. I had a Rhode Island Red two years ago who dropped nearly half her egg production over a few months before a fecal float at my vet's office confirmed a heavy roundworm load. She looked fine. She wasn't.
+The tricky part: a moderate worm burden looks like a dozen other things. Soft shells. Reduced laying. Dull feathers. Birds that just seem a bit off. By the time you're seeing actual worms in droppings or a bird is visibly wasting away, you're well behind the curve. A bird with a heavy worm load may show no obvious signs until production drops significantly. A fecal float is the only reliable way to confirm the problem.
 
 A fecal float test costs between $25 and $50 at most avian vets or large-animal practices. Do one once a year at minimum, and some states have agricultural extension labs that'll run them cheaper. It's the only way to know what you're actually dealing with before you throw anything at it.
 
@@ -54,7 +54,7 @@ What they are good for: keeping the baseline worm load low so it never reaches t
 | Black walnut hull powder | Juglone compound | Small amounts, intermittently, as part of broader approach | Supplementary to other methods |
 | Fermented feed | Improved microbiome | Portion of flock feed fermented year-round (3-day fermentation) | Long-term prevention and gut health |
 
-**Pumpkin seeds.** The active compound is cucurbitacin, which is thought to paralyze worms and allow them to pass. Research is limited and inconsistent, but the anecdotal evidence from keepers is strong enough that it's worth doing. Raw, whole, organic, non-salted. I give my flock access to a pie pumpkin or two every fall when they're $2 apiece at farm stands. Smash them open and let the birds tear through them. You can also buy raw pepitas year-round, and a good handful scattered a few times a week is plenty.
+**Pumpkin seeds.** The active compound is cucurbitacin, which is thought to paralyze worms and allow them to pass. Research is limited and inconsistent, but the anecdotal evidence from keepers is strong enough that it's worth doing. Raw, whole, organic, non-salted seeds are the way to go. Pie pumpkins are available at farm stands each fall; smash them open and let the birds tear through them. You can also buy raw pepitas year-round, and a good handful scattered a few times a week is plenty.
 
 **Diatomaceous earth (food grade only).** This one's controversial. DE works mechanically, not chemically. The silica particles theoretically damage the exoskeleton of parasites in the digestive tract, but in practice, research on internal use is mixed at best. A 2011 study in *Poultry Science* found DE-fed birds had lower Heterakis worm counts than controls, which is at least something. I use it mixed into feed at roughly 2% by weight during higher-risk periods like spring and late fall. It also does real work as a dust bath additive against external parasites, where the evidence is stronger. Don't breathe it in, and don't use pool-grade DE. [Harris Food Grade Diatomaceous Earth](https://www.amazon.com/Harris-Diatomaceous-Earth-Food-Grade/dp/B003BDTBTO) is affordable and widely available.
 
@@ -62,9 +62,9 @@ What they are good for: keeping the baseline worm load low so it never reaches t
 
 **Garlic.** Broad-spectrum antimicrobial and antiparasitic properties, reasonably well supported in livestock research even if chicken-specific studies are thin. Crush a few cloves into the waterer or mix dried garlic powder into feed. The birds usually don't object once they're used to it. I wouldn't rely on it as a solo strategy, but as part of a rotation, it earns its spot.
 
-**Black walnut hull powder.** The juglone compound in black walnut hulls has documented antiparasitic activity in other animals. Some keepers swear by it. I've used it intermittently and the fecal results have been good, though it's genuinely hard to isolate cause and effect in a flock management context. Use it cautiously and in small amounts as part of a broader approach. You can find it as a [loose powder supplement on Amazon](https://www.amazon.com/s?k=black+walnut+hull+powder+supplement).
+**Black walnut hull powder.** The juglone compound in black walnut hulls has documented antiparasitic activity in other animals. Some keepers swear by it. It's hard to isolate cause and effect in a flock management context when using it as part of a broader approach. Use it cautiously and in small amounts as part of a broader approach. You can find it as a [loose powder supplement on Amazon](https://www.amazon.com/s?k=black+walnut+hull+powder+supplement).
 
-**Fermented feed.** Regular fermented feed supports a healthier gut microbiome, which is your bird's first line of defense against parasites taking hold. I ferment a portion of my flock's feed almost year-round. It takes about three days to get a batch going, requires nothing but feed, water, and a covered bucket, and the birds prefer it noticeably over dry feed. Lower worm loads are a documented side benefit in pastured poultry research.
+**Fermented feed.** Regular fermented feed supports a healthier gut microbiome, which is your bird's first line of defense against parasites taking hold. Fermented feed takes about three days to prepare and requires only feed, water, and a covered bucket. Most birds prefer it over dry feed. Lower worm loads are a documented side benefit in pastured poultry research.
 
 ## The Management Practices Nobody Talks About Enough
 
@@ -75,7 +75,6 @@ What they are good for: keeping the baseline worm load low so it never reaches t
 - [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283)
 - is limited and inconsistent
 - on internal use is mixed at best
-
 
 Natural supplements alone won't accomplish much if your coop and run conditions are a worm incubator. Worm eggs can survive in moist soil for months to years. Overcrowded runs, wet bedding, and lack of rotation are bigger drivers of heavy worm loads than anything a pumpkin seed can fix.
 

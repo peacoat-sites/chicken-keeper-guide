@@ -45,7 +45,7 @@ The June/July 2026 issue of [Backyard Poultry magazine](https://backyardpoultry.
 
 The emotional support animal data backs this up. Chickens generated 44,910 ESA-related searches in a recent study period, making them the top non-traditional emotional support animal in America. Nineteen percent of millennials and 18% of Gen Z specifically favor chickens as ESAs. These are not fringe numbers. What chickens offer that many people find genuinely therapeutic is a combination of routine, outdoor time, and the particular kind of presence that a flock provides. They require you to show up twice a day, they respond to you, and they give you something to pay attention to that isn't a screen. For a lot of people dealing with anxiety, that structure is meaningful.
 
-I've watched this play out in my own backyard. There are mornings when I go out to open the coop purely because I need five minutes outside before the day starts, and the hens are just there, doing their thing, completely unbothered. There's something grounding about that which is hard to articulate but very real.
+Many keepers find that tending to chickens offers a calming routine, especially in the early morning before the day's demands take over.
 
 ## What New Owners Need to Know That Nobody Warns Them About
 

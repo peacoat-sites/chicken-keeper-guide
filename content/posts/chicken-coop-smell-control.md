@@ -33,7 +33,7 @@ Here's what ten years of trial, error, and genuinely embarrassing neighbor conve
 
 ## The Real Source of the Smell (And Why Ventilation Gets Misunderstood)
 
-Ammonia is the main villain here, and it comes specifically from the breakdown of uric acid in chicken droppings. Not the droppings themselves, technically, but the bacterial process that follows. This matters because it means a coop can look clean and still reek if moisture and bacteria are present. I've seen coops with fresh shavings that smelled terrible because they were damp, and older coops with messy litter that barely registered because they were dry and well-ventilated.
+Ammonia is the main villain here, and it comes specifically from the breakdown of uric acid in chicken droppings. Not the droppings themselves, technically, but the bacterial process that follows. This matters because it means a coop can look clean and still reek if moisture and bacteria are present. A coop can look clean and still reek if moisture and bacteria are present, while a messier-looking coop with good airflow and low moisture may smell fine.
 
 Ventilation does not mean "open the window." Most people don't realize that chickens produce an enormous amount of moisture through respiration and droppings overnight. A small closed coop with six hens generates enough humidity by morning to keep that litter damp all day, and damp litter is where the smell lives. You need cross-ventilation, ideally at the roofline where hot humid air escapes, not just a pop door at ground level. This is the single change that's made the biggest difference in my own coops over the years.
 
@@ -47,7 +47,7 @@ If your coop smells bad in winter because you've blocked the vents to "keep them
 | Sweet PDZ Coop Refresher | Ammonia absorber | ~$20/40 lb bag | Daily poop board lining |
 | Coop Recuperate by Rooster Booster | Probiotic/enzyme powder | ~$15/container | Summer smell spike management |
 
-I've used [deep litter for six years](/deep-litter-method-chickens/) and I'm not going back. But I've also watched people try it and fail completely, because they skipped the part that makes it actually work.
+The [deep litter method](/deep-litter-method-chickens/) works well when done correctly, but it fails when keepers skip key steps.
 
 The idea is that you build up a thick layer of carbon material, typically wood shavings, straw, or a mix, and let the natural microbial activity in the litter break down the droppings over months. When it's working, you get composting heat, reduced ammonia, and a finished product that goes straight to the garden. When it's not working, you get a wet, compacted, stinking mat.
 
@@ -59,7 +59,7 @@ A floor depth of 6 to 12 inches is the target. Less than that and you don't have
 
 Do a complete clean-out once or twice a year, usually spring and fall. Not weekly. If you're shoveling your coop every week, you're working too hard and you're also removing the beneficial microbes that make the system function.
 
-One product I've actually found useful: Coop Recuperate by Rooster Booster, which is a probiotic and enzyme powder you sprinkle into the litter. It does accelerate the microbial breakdown and I noticed a real difference in smell during the first hot week of summer after I started using it. It runs about $15 for a decent-sized container. Worth trying if you're already doing deep litter and want to manage summer smell spikes.
+Coop Recuperate by Rooster Booster is a probiotic and enzyme powder that accelerates microbial breakdown in litter. It costs about $15 per container and may help manage summer smell spikes in deep litter systems.
 
 ## The Poop Board: The Most Underrated Coop Feature
 
@@ -84,7 +84,6 @@ Also: overcrowding is a smell problem. If you have eight birds in a 4x6 coop, no
 ## Sources
 
 - [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646)
-
 
 High heat accelerates bacterial breakdown and ammonia production. What smells fine in February can get genuinely unpleasant by July. In summer I add bedding more frequently, turn it more often, and clean the poop board twice a day on the hottest weeks.
 

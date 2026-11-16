@@ -61,7 +61,7 @@ Overfeeding protein can also contribute to feather picking in some flocks, thoug
 
 A lot of people get excited about raising a mealworm colony after their first sticker shock at the store. The math looks appealing: buy 1,000 live mealworms for around $20, set up a few bins, and supposedly generate a self-sustaining colony that feeds your flock for free forever.
 
-The reality is messier. It takes 3 to 4 months from larvae to harvest. You need to keep the colony between 70 and 80 degrees Fahrenheit consistently, which in winter means a heated space or a heat mat (the Zoo Med ReptiTherm mats work fine and run about $20). You'll need bins, bran or oatmeal as substrate, and moisture from vegetable scraps. The smell is mild but real. Beetles escape if you're not careful about bin lids.
+It takes 3 to 4 months from larvae to harvest. You need to keep the colony between 70 and 80 degrees Fahrenheit consistently, which in winter means a heated space or a heat mat (the Zoo Med ReptiTherm mats work fine and run about $20). You'll need bins, bran or oatmeal as substrate, and moisture from vegetable scraps. The smell is mild but real. Beetles escape if you're not careful about bin lids.
 
 I ran a colony for about 18 months. Honestly? It was worth it for the experience and for having a live source available without a trip to the store. Whether it was financially worth it depends on how you value your time and attention. If you have the setup already (a heated garage, a spare shelf, a little patience) and you're keeping more than six birds, try it. The [Hatorian 1000 Count Live Mealworms](https://www.amazon.com/s?k=live+mealworms+1000+count) are a decent starting colony. If you're keeping three hens in a small backyard and buying dried worms already covers your needs, skip the colony. Save yourself the drama of escaped beetles in the garage.
 
@@ -72,7 +72,6 @@ I ran a colony for about 18 months. Honestly? It was worth it for the experience
 - [Hatorian 1000 Count Live Mealworms](https://www.amazon.com/s?k=live+mealworms+1000+count)
 - [RDNE Stock project](https://www.pexels.com/@rdne)
 - on the exact mechanism is still a little murky
-
 
 Mealworms have a terrible calcium-to-phosphorus ratio. We're talking roughly 1:18, phosphorus dominant, which is basically the opposite of what a laying hen needs. This doesn't mean you can't feed them, but it does mean that if you're already skimping on oyster shell access, mealworms aren't helping.
 

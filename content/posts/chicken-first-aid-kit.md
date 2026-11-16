@@ -31,9 +31,7 @@ I'll be honest: most of what passes for "chicken first aid kit" advice online is
 
 Here's what a genuinely useful kit looks like.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A complete chicken first aid kit costs $60-$100 to assemble and can prevent a $200+ vet visit for common injuries.</li><li style="margin:5px 0">Vetericyn Plus Poultry Wound Spray and BlueKote are the two most field-tested topicals for backyard flocks, keep both.</li><li style="margin:5px 0">Corid (amprolium) at 1.5 tsp per gallon is the go-to first response for coccidiosis, which kills chicks fast.</li><li style="margin:5px 0">Vet wrap, non-stick gauze pads, and a 1cc syringe belong in every kit regardless of flock size.</li><li style="margin:5px 0">A sick chicken can decline within 6-12 hours; having supplies on hand is the difference between acting and waiting.</li></ul></div>
-
 
 ## What you actually need (and what you can skip)
 
@@ -63,7 +61,7 @@ What surprised me when I finally got methodical about this: a lot of chicken kee
 
 ## The injuries you'll actually face
 
-Pecking wounds are number one. A hen gets a bare patch, others see pink or red, and the flock turns on her fast. I've seen a relatively minor vent peck escalate to a serious wound within 90 minutes of me not catching it in time. The protocol that's worked for me: rinse with Vetericyn, apply BlueKote, separate the bird immediately into a dog crate with food and water, and assess daily. Most minor pecking wounds heal in 5-7 days of isolation. What you can't do is put her back in the flock until the wound is fully covered by new feathers or skin, because [chickens have](/how-many-chickens-can-i-have/) essentially no self-control about this.
+Pecking wounds are number one. A hen gets a bare patch, others see pink or red, and the flock turns on her fast. A minor vent peck can escalate to a serious wound within 90 minutes if missed. Rinse with Vetericyn, apply BlueKote, separate the bird immediately into a dog crate with food and water, and assess daily. Most minor pecking wounds heal in 5-7 days of isolation. What you can't do is put her back in the flock until the wound is fully covered by new feathers or skin, because [chickens have](/how-many-chickens-can-i-have/) essentially no self-control about this.
 
 Broken blood feathers are scarier-looking than they are dangerous, but they do bleed a lot. A blood feather is a pin feather still connected to the blood supply. If one breaks midshaft, it can bleed persistently. Cornstarch applied with firm pressure stops it in most cases within 60-90 seconds. If it keeps bleeding, you may need to pull the shaft entirely (straight out, fast, with needle-nose pliers), which sounds brutal but is actually standard care. The feather shaft is acting like a punctured straw, so removing it closes off the bleeding point.
 
@@ -96,6 +94,5 @@ Scenario: First-year keeper with 6 pullets, 5 weeks old, found one hunched and l
 - Vetericyn Animal Wellness, product clinical data: antimicrobial efficacy data for Vetericyn Plus Wound & Skin Care products in poultry applications
 
 ---
-
 
 *Photo: [ROMAN ODINTSOV](https://www.pexels.com/@roman-odintsov) via Pexels*

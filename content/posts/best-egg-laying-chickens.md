@@ -37,7 +37,7 @@ I keep chickens in the Pacific Northwest where we get cold, wet winters with sho
 
 ## The Top Egg Laying Breeds Worth Your Time
 
-Here are the breeds I've kept, observed, or both, that genuinely deliver on egg production.
+Here are breeds that genuinely deliver on egg production.
 
 **ISA Brown (and other Production Red Sex-Links)**
 
@@ -49,11 +49,11 @@ The White Leghorn is the gold standard of egg production in commercial settings.
 
 **[Rhode Island Red](/rhode-island-red-chickens/)**
 
-The Rhode Island Red is probably the most forgiving breed on this list. They lay 250 to 300 brown eggs per year, they're cold-hardy, they tolerate heat reasonably well, and their temperament is generally calm. I've kept RIRs for years and they're consistently the birds I recommend to people who want solid production without drama. They'll free range, they'll do fine in a run, and they don't throw big personality fits.
+The Rhode Island Red is probably the most forgiving breed on this list. They lay 250 to 300 brown eggs per year, they're cold-hardy, they tolerate heat reasonably well, and their temperament is generally calm. Rhode Island Reds are consistent layers for keepers who want solid production without drama. They'll free range, they'll do fine in a run, and they don't throw big personality fits.
 
 **Plymouth Rock ([Barred Rock](/barred-rock-chickens/))**
 
-Barred Rocks lay around 200 to 280 brown eggs per year, which sounds modest compared to ISA Browns, but these hens lay steadily for four or five years instead of burning out. They're dual-purpose birds with good size, calm personalities, and real cold hardiness. I've had Barred Rock hens still laying at age four when my sex-links had basically retired. If longevity matters to you, consider this trade-off seriously.
+Barred Rocks lay around 200 to 280 brown eggs per year, which sounds modest compared to ISA Browns, but these hens lay steadily for four or five years instead of burning out. They're dual-purpose birds with good size, calm personalities, and real cold hardiness. Barred Rock hens often continue laying into their fourth year, while sex-links tend to retire from production much sooner. If longevity matters to you, consider this trade-off seriously.
 
 **Sussex**
 
@@ -111,10 +111,9 @@ Breed potential means nothing if the fundamentals aren't right. I've seen flocks
 - [dried mealworms](https://www.amazon.com/s?k=dried+mealworms+chickens&tag=contentportfo-20)
 - [cottonbro studio](https://www.pexels.com/@cottonbro)
 
-
 If consistent egg supply matters to you, don't put all your eggs in one basket, literally. Running a single breed means your entire flock molts on roughly the same schedule, goes off lay in winter at the same time, and ages out together.
 
-The strategy that works best in my experience is staggering. Get chicks in early spring, then add a second small batch in late summer. This way you'll almost always have hens in active lay, because the younger group is often ramping up just as the older group hits molt.
+Staggering hatches is an effective strategy. Get chicks in early spring, then add a second small batch in late summer. This way you'll almost always have hens in active lay, because the younger group is often ramping up just as the older group hits molt.
 
 A mixed-breed flock also gives you a buffer. Your ISA Browns carry production in years one and two while your Barred Rocks and Australorps warm up. By year three, when the ISA Browns are slowing down, the dual-purpose breeds are in their reliable middle-production years.
 

@@ -29,7 +29,6 @@ You notice your Buff Orpington limping near the feeder one morning. She's still 
 
 Bumblefoot sounds manageable until you're actually dealing with it. Mild cases respond well to home treatment. But "mild" has a narrow window, and plenty of chickens lose toes or worse because their owners waited too long, treated too casually, or didn't understand what they were looking at.
 
-
 <div class="value-module">
  <div class="vm-head">Bumblefoot Severity Staging Guide</div>
  <div class="vm-body">
@@ -51,7 +50,7 @@ What causes that initial wound? Usually one of these:
 - **Wet, dirty litter.** Chronic moisture and fecal bacteria soften the skin of the foot, making it easier for pathogens to get in.
 - **Obesity.** An overweight hen puts more pressure on her foot pads with every step. Free-ranging birds that self-regulate their diet have lower bumblefoot rates than confined birds eating unlimited layer pellets and treats.
 
-I've seen bumblefoot in every breed I've kept, but it shows up most often in my heavier dual-purpose birds. Silkies and Cochins are also high-risk because their feathered feet stay damp and collect debris. If you keep those breeds, you need to be checking feet proactively, not just reacting when you spot a limp.
+Bumblefoot occurs across breeds but is most common in heavier dual-purpose birds. Silkies and Cochins are also high-risk because their feathered feet stay damp and collect debris. With these breeds, check feet regularly to catch bumblefoot early.
 
 ## How to Identify the Severity Before You Treat
 
@@ -99,7 +98,7 @@ Get your supplies together before you catch the bird. Chasing a chicken down twi
 
 7. **Isolate the bird during treatment.** Putting a bandaged chicken back on dirty litter in a flock setting is asking for failure. Confine her to a clean, dry space, ideally on paper towels or a rubber mat, until healing is well underway.
 
-A product I've used with good results is [Vetericyn Plus Poultry Care Spray](https://www.amazon.com/s?k=vetericyn+poultry+spray) (affiliate link), which is effective for wound care and can be used on open tissue. For bandaging, [Vetrap 4-inch rolls](https://www.amazon.com/s?k=vetrap+bandage+4+inch) are the standard and genuinely worth keeping in your flock first aid kit.
+[Vetericyn Plus Poultry Care Spray](https://www.amazon.com/s?k=vetericyn+poultry+spray) (affiliate link) works well for wound care and can be used on open tissue. For bandaging, [Vetrap 4-inch rolls](https://www.amazon.com/s?k=vetrap+bandage+4+inch) are a reliable option to keep in your flock first aid kit.
 
 ## When to Call a Vet (And What to Expect)
 
@@ -118,7 +117,6 @@ Oral antibiotics for bumblefoot typically run 7 to 14 days. The vet may culture 
 - [Vetericyn Plus Poultry Care Spray](https://www.amazon.com/s?k=vetericyn+poultry+spray)
 - [Vetrap 4-inch rolls](https://www.amazon.com/s?k=vetrap+bandage+4+inch)
 - [vet finder tool](https://www.aav.org/search/custom.asp?id=1803)
-
 
 Prevention is genuinely easier than treatment, and most of it comes down to coop management that's good for your flock across the board.
 

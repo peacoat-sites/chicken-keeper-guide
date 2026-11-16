@@ -37,11 +37,9 @@ Chickens don't metabolize excess sugar well. Their digestive systems are optimiz
 
 At the same time, grapes do offer real value. They contain vitamin C (though chickens synthesize their own, so this matters less than you'd think), small amounts of vitamin K, copper, and resveratrol. Resveratrol is the polyphenol that gets a lot of press in human health research. I don't have strong numbers on what it does for laying hens specifically, so I won't overclaim there.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Nutrients per 100g of grapes (USDA FoodData Central)</div><div class="sc-row"><span class="sc-label">Total Carbs</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">18.1 grams</span></div><div class="sc-row"><span class="sc-label">Sugar</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">15.5 grams</span></div><div class="sc-row"><span class="sc-label">Fiber</span><span class="sc-track"><span class="sc-bar" style="width:5%"></span></span><span class="sc-val">0.9 grams</span></div><div class="sc-row"><span class="sc-label">Protein</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0.7 grams</span></div><div class="sc-row"><span class="sc-label">Fat</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0.2 grams</span></div><div class="sc-src">Source: USDA FoodData Central, 2025</div></div>
 
-
-The water content is the genuine win. At around 81%, grapes on a 95-degree July afternoon function more like electrolyte supplementation than a snack. I've watched hens on my property ignore a full feeder to chase grape halves across the run in summer heat. They know what they want.
+The water content is the genuine win. At around 81%, grapes on a 95-degree July afternoon function more like electrolyte supplementation than a snack. On hot summer afternoons, grapes often appeal to chickens more than regular feed. They know what they want.
 
 ## How Many Grapes Is Too Many
 
@@ -74,9 +72,7 @@ Raisins are dried grapes, so you'd assume the rules are roughly the same. They'r
 
 A raisin is approximately 75% smaller by weight than the grape it came from, but the sugar and everything else in it is still there. Per 100 grams, raisins clock in at roughly 59 grams of sugar according to USDA FoodData Central. That's nearly four times the sugar load of fresh grapes by weight. Because chickens will eat raisins at the same rate they eat any small food item, portion control becomes much harder.
 
-I don't feed my flock raisins. Not because they're dangerous, but because the sugar density makes it too easy to go overboard accidentally, and I don't find the added value worth the calibration hassle. Fresh grapes are cheap enough that the convenience argument for raisins doesn't really hold up. That's just my take; I've seen people feed small amounts of raisins without obvious issues.
-
-**Small-flock scenario:** A reader from central Virginia emailed me this past spring about her five Easter Eggers getting loose droppings after she started offering a small box of raisins daily as a treat. She'd read that raisins were fine for chickens and assumed the same portion logic applied. Action taken: she switched to fresh halved grapes, 2-3 pieces per bird, three times a week. Result: droppings normalized within about five days. No other changes to feed or environment.
+Many keepers prefer fresh grapes over raisins because the sugar density in raisins makes portion control tricky. Since fresh grapes are affordable and easier to portion, the convenience advantage of raisins is minimal.
 
 ## What About Grape Leaves and Vines
 
@@ -95,6 +91,5 @@ Treated vines are a different story. If your grape vine or a neighbor's has been
 - [University of California Agriculture and Natural Resources](https://ucanr.edu/): Pesticide residue information for home grape growers, small flock integration guidance
 
 ---
-
 
 *Photo: [Lukas Blazek](https://www.pexels.com/@goumbik) via Pexels*

@@ -48,7 +48,7 @@ Here's why that history matters in practice: this breed was created by farmers w
 
 A Production Red pullet in her first year will typically hit 5 to 6 eggs per week. That's roughly 260 to 300 eggs annually. Heritage birds run closer to 4 to 5 per week. Either way, you're getting genuinely excellent production of large to extra-large brown eggs.
 
-Production peaks in the first two years. By year three, most hens drop to about 70 to 80 percent of their peak. Year four? Significantly fewer eggs. That doesn't mean you cull every bird at three years old. I've had Production Reds laying adequately at four years, and heritage birds still contributing at five. But if production is your main goal, plan for flock rotation.
+Production peaks in the first two years. By year three, most hens drop to about 70 to 80 percent of their peak. Year four? Significantly fewer eggs. That doesn't mean you cull every bird at three years old. Production Reds can lay adequately at four years, and heritage birds may still contribute at five. But if production is your main goal, plan for flock rotation.
 
 A few real things that cut into your egg count:
 
@@ -56,7 +56,7 @@ A few real things that cut into your egg count:
 - **Light.** Hens need roughly 14 to 16 hours of daylight to lay consistently. Without supplemental winter light, even an excellent RIR will slow way down.
 - **Nutrition.** Low-quality feed without adequate calcium tanks your production and leads to thin-shelled eggs or internal laying problems. Stick with a quality 16 to 18 percent protein layer feed and offer oyster shell free choice.
 
-[Manna Pro Layer Pellets](https://www.amazon.com/s?k=manna+pro+layer+pellets) are solid and affordable. I've used them reliably for years. (This site may earn a commission on purchases made through links here.)
+[Manna Pro Layer Pellets](https://www.amazon.com/s?k=manna+pro+layer+pellets) are solid and affordable. (This site may earn a commission on purchases made through links here.)
 
 ## Temperament: Friendly, But Not a Lap Bird
 
@@ -64,7 +64,7 @@ I need to be straight with you here because the marketing around RIR temperament
 
 But they're not aggressive toward people. The hens, anyway. I've found that RIR hens handled frequently from chick age become genuinely friendly birds. They'll follow you around the yard, they're curious and alert, and they don't spook easily. That makes routine health checks much easier than with flightier breeds like Leghorns.
 
-RIR roosters are another thing entirely. I've had genuinely sweet RIR cockerels and some of the meanest birds I've ever managed from this breed. If you're keeping a rooster, watch carefully during the first year. An RIR rooster that decides to challenge humans can be relentless and will draw blood. Never turn your back on one you don't fully trust.
+RIR roosters are another thing entirely. RIR cockerels can range from genuinely sweet to quite aggressive. If you're keeping a rooster, watch carefully during the first year. An RIR rooster that decides to challenge humans can be relentless and will draw blood. Never turn your back on one you don't fully trust.
 
 In a mixed flock, pair RIRs with breeds of similar assertiveness. Plymouth Rocks, Wyandottes, and Easter Eggers hold their own reasonably well. Avoid mixing them with Silkies, Polish, or other docile breeds unless your coop has enough space for the lower-ranked birds to escape harassment.
 
@@ -72,7 +72,7 @@ In a mixed flock, pair RIRs with breeds of similar assertiveness. Plymouth Rocks
 
 Rhode Island Reds aren't difficult to house, but they do have real needs.
 
-**Space.** The standard recommendation is 4 square feet per bird inside the coop and 10 square feet per bird in the run. In my experience, RIRs on the low end of that get bored and nippy. Push closer to 6 square feet inside and 15 outside, and you'll see calmer behavior and fewer feather-picking issues.
+**Space.** The standard recommendation is 4 square feet per bird inside the coop and 10 square feet per bird in the run. RIRs at the low end of that space tend to get bored and nippy. Push closer to 6 square feet inside and 15 outside, and you'll see calmer behavior and fewer feather-picking issues.
 
 **Feed.** For laying hens, a quality layer pellet or crumble with 16 to 18 percent protein is the base. Offer oyster shell on the side. Scratch grain is fine as an occasional treat, not a dietary staple. Scratch is low in protein and high in carbs, so too much means fat hens with reproductive problems.
 
@@ -107,12 +107,11 @@ The RIR sits in a sweet spot: near the top of the production charts with more ca
 - [Vetericyn Plus Poultry Care Spray](https://www.amazon.com/s?k=vetericyn+poultry+spray)
 - [Brett Jordan](https://www.pexels.com/@brettjordan)
 
-
 RIRs are generally a healthy breed. They don't carry the genetic issues you see in heavily modified breeds, but they're not bulletproof.
 
 **Marek's Disease.** Order vaccinated chicks. Non-negotiable for any breed, but especially if you're buying from a hatchery and adding birds to an existing flock. Most hatcheries vaccinate by default. Confirm before you order.
 
-**Egg-laying disorders.** High-production hens, and RIRs are right at the top of that list, have elevated risk of reproductive issues: internal laying, egg peritonitis, and prolapse. The more eggs a hen lays over her lifetime, the higher the cumulative risk. I've lost Production Reds to egg peritonitis as young as three years old. It's one of the real costs of working with highly productive breeds.
+**Egg-laying disorders.** High-production hens, and RIRs are right at the top of that list, have elevated risk of reproductive issues: internal laying, egg peritonitis, and prolapse. The more eggs a hen lays over her lifetime, the higher the cumulative risk. Production Reds can be lost to egg peritonitis as young as three years old. It's one of the real costs of working with highly productive breeds.
 
 **Bumblefoot.** Common in heavier birds. Check the bottom of your hens' feet during routine handling. A small dark scab with a hard core underneath is bumblefoot and needs treatment. Caught early, you can often treat it with Epsom salt soaks, Vetericyn spray, and a bandage. Left alone, it becomes a serious infection. [Vetericyn Plus Poultry Care Spray](https://www.amazon.com/s?k=vetericyn+poultry+spray) is something I keep in my coop kit year-round. (Commission disclosure applies.)
 
@@ -120,6 +119,6 @@ RIRs are generally a healthy breed. They don't carry the genetic issues you see 
 
 ---
 
-Twelve years in, Rhode Island Reds still hold a regular place in my flock. They're not glamorous. No feathered feet like a Cochin or striking plumage like an Easter Egger. What they have is reliability, and in a backyard flock, that's worth a lot. Go in with accurate expectations, a productive, assertive, cold-tolerant bird that will lay eggs through conditions that would sideline fancier breeds, and you'll almost certainly be glad you started with one.
+Rhode Island Reds remain a reliable choice for backyard flocks. They're not glamorous. No feathered feet like a Cochin or striking plumage like an Easter Egger. What matters in a backyard flock is reliability, and that's where they excel. Go in with accurate expectations, a productive, assertive, cold-tolerant bird that will lay eggs through conditions that would sideline fancier breeds, and you'll almost certainly be glad you started with one.
 
 *Photo: [Brett Jordan](https://www.pexels.com/@brettjordan) via Pexels*

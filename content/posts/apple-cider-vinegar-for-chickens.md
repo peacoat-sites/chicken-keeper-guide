@@ -25,9 +25,9 @@ faqs:
     a: "Honestly, it's hard to tell in a backyard flock. You're not running a controlled trial. What I watch for is general flock brightness, droppings consistency, and whether integrations or stress events resolve faster than usual. If your flock looks good, water intake is normal, and you're not seeing digestive issues, consider that the ceiling of what ACV can realistically deliver."
 ---
 
-Most of the chicken-keeping internet will tell you apple cider vinegar is practically magic. A few contrarian corners will tell you it's useless hype. Both camps are wrong, and I've spent a decade sorting out which is which.
+Most of the chicken-keeping internet will tell you apple cider vinegar is practically magic. A few contrarian corners will tell you it's useless hype. Both camps are wrong. The practical effects of ACV are more limited than either side claims.
 
-The number that surprised me most when I started digging: a 2012 study published in *Poultry Science* found that broilers given ACV at 0.5% in drinking water showed a statistically significant improvement in feed conversion ratio compared to controls. That's not a testimonial from a homesteader's blog. That's a peer-reviewed outcome. It doesn't prove ACV cures everything, but it does suggest something real is happening in the gut.
+A 2012 study published in *Poultry Science* found that broilers given ACV at 0.5% in drinking water showed a statistically significant improvement in feed conversion ratio compared to controls. That's not a testimonial from a homesteader's blog. That's a peer-reviewed outcome. This suggests something real is happening in the gut, though it doesn't prove ACV cures everything.
 
 Here's what I know from 10 years and somewhere north of 60 hens at a time: ACV is a legitimate tool with a narrow, specific job description. Use it right, and it earns its place in your coop routine. Use it wrong, and at best you've wasted money; at worst, you've corroded your galvanized waterers and given yourself a false sense of flock security while a real problem goes untreated.
 
@@ -37,11 +37,11 @@ Here's what I know from 10 years and somewhere north of 60 hens at a time: ACV i
 
 The active case for ACV rests on a few mechanisms. Acetic acid lowers the pH of drinking water, which creates a mildly inhospitable environment for certain pathogens like *E. coli* and *Salmonella* in the gut. A study by Hasan Huseyin Atan and colleagues (2018, *Journal of Applied Animal Research*) found that ACV supplementation at 2 mL/L modestly improved intestinal morphology in broilers, specifically villus height, which relates directly to nutrient absorption.
 
-The "mother" matters here. Raw, unfiltered ACV (Bragg's is the standard reference point, running about $7 for a 32-oz bottle as of July 2026) contains acetic acid bacteria and trace enzymes that pasteurized white vinegar doesn't. Whether those live cultures survive the chicken's crop and do meaningful work in the lower gut is still an open question. Honestly, the research doesn't settle it cleanly. But given the price difference is small, I'd never use the pasteurized version.
+The "mother" matters here. Raw, unfiltered ACV (Bragg's is the standard reference point, running about $7 for a 32-oz bottle as of July 2026) contains acetic acid bacteria and trace enzymes that pasteurized white vinegar doesn't. Whether those live cultures survive the chicken's crop and do meaningful work in the lower gut is still an open question. The research doesn't settle it cleanly. But given the price difference is small, the pasteurized version is worth avoiding in favor of raw, unfiltered ACV.
 
 What ACV doesn't do: deworm your flock. I believed the dewormer claim for an embarrassingly long time, probably three years. Then I actually fecal-tested a flock I'd been dosing with ACV for months and found a moderate *Ascaridia galli* load that had gone completely unaddressed. ACV has no antiparasitic mechanism. Zero. If you suspect worms, get a fecal float done by your vet and use an actual anthelmintic like fenbendazole (Safe-Guard Aquasol is the commonly used formulation). The ACV-as-dewormer myth costs flocks real health.
 
-It also won't clear up [respiratory illness](/respiratory-illness-chickens/). Not Mycoplasma, not infectious bronchitis, not anything. I've seen this claim recirculate constantly, and every time I ask for a citation, none exists.
+It also won't clear up [respiratory illness](/respiratory-illness-chickens/). Not Mycoplasma, not infectious bronchitis, not anything. This claim recirculates often, but no peer-reviewed evidence supports it.
 
 ## Dosage, Frequency, and the Metal Waterer Problem
 

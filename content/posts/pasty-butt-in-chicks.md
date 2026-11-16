@@ -50,7 +50,7 @@ Wet a soft cloth or cotton ball with warm water. Hold it gently against the past
 
 Return the chick to the brooder immediately. Watch it. If it's been badly blocked, it may poop a large amount at once once the vent is clear. That's good. Watch it eat and drink within the next hour.
 
-Working example: A reader named Gretchen from central Ohio messaged me in April about a batch of 25 Black Sex-Links from a mail-order hatchery. Twelve had varying degrees of pasting on arrival. She did twice-daily vent checks, used the warm soak method, applied coconut oil after each cleaning. Result: zero deaths from pasting, and by day five, zero new pasting events. The whole issue resolved itself once the chicks stabilized.
+Working example: For example, if a batch of chicks arrives with varying degrees of pasting, twice-daily vent checks combined with the warm soak method and coconut oil application after cleaning can resolve the issue once chicks stabilize.
 
 ## How Often to Check, and When to Stop Worrying
 
@@ -72,11 +72,11 @@ The time to escalate is when a chick is pasting more than once per day, is letha
 
 ## Prevention: What Actually Helps
 
-Brooder temperature accuracy is the single highest-leverage fix. Not probiotics, not ACV, not electrolytes, temperature. Get that right first.
+Brooder temperature accuracy is the most important fix. Start by getting temperature right before relying on probiotics, ACV, or electrolytes.
 
 That said, I do add Sav-A-Chick electrolyte and vitamin packets (about $6 for a 3-pack at Tractor Supply) to the water for the first 72 hours with shipped chicks. The research on this is mixed enough that I won't claim it definitively prevents pasting, but it supports hydration in stressed birds and costs almost nothing.
 
-Probiotics have a better evidence base. A 2020 study in *Poultry Science* (Mountzouris et al., referenced below) found that probiotic supplementation improved gut microbiota stability in broiler chicks under stress conditions. I use Rooster Booster Poultry Cell or plain chick probiotic powder mixed into feed for the first week. No, I can't give you a number on how much it reduces pasting specifically, I don't have controlled data from my own flock on that, but the gut health logic holds up.
+Probiotics have research support. A 2020 study in *Poultry Science* (Mountzouris et al., referenced below) found that probiotic supplementation improved gut microbiota stability in broiler chicks under stress conditions. Options like Rooster Booster Poultry Cell or plain chick probiotic powder mixed into feed for the first week may help support gut health during the early brooding period.
 
 One thing almost no one mentions: feeder design. Chicks that can't easily access feed eat erratically, which stresses the digestive system. Use a proper chick feeder with small ports, not an open dish they can walk in and contaminate. The Little Giant plastic chick feeders (around $8) are unglamorous but they work. Open dishes invite mess, wet feed, and stressed chicks hunting for food.
 
@@ -91,6 +91,5 @@ Working example: I switched from open dish feeders to port-style feeders in 2021
 - National Poultry Improvement Plan (NPIP), current as of July 2026: Guidelines on hatchery health standards; context for understanding why shipped chicks carry higher stress-related health risks than locally hatched birds.
 
 ---
-
 
 *Photo: [Stephen O.Ojeleye](https://www.pexels.com/@stephen-o-ojeleye-2149617206) via Pexels*

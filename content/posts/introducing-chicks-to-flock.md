@@ -84,7 +84,7 @@ A few things that help:
 
 Put the chicks in the coop after dark on the first night, when the adults are already settled. Birds are calmer and less reactive in the dark. In the morning, everyone wakes up as roommates instead of intruders. It's not a perfect fix, but it reduces that first-night confrontation considerably.
 
-Add a second roost at a lower height. Adult birds prefer the highest roost. Young birds will naturally take the lower one, which sidesteps a lot of the conflict. Even a simple 2x4 mounted a foot off the ground works. I've used scrap lumber for this a hundred times.
+Add a second roost at a lower height. Adult birds prefer the highest roost. Young birds will naturally take the lower one, which sidesteps a lot of the conflict. Even a simple 2x4 mounted a foot off the ground works.
 
 Watch the first few mornings carefully. That's when the food and water competition gets intense. Two feeding stations in different spots during integration isn't optional, it's the difference between a chick that thrives and one that can't eat because it gets chased every time it approaches the feeder. I've had good luck with [Little Giant galvanized hanging feeders](https://amzn.to/3feedlink) on opposite sides of the coop since you can position them to break sightlines. (Disclosure: as an Amazon Associate I earn from qualifying purchases.)
 
@@ -109,7 +109,6 @@ Roosters complicate things. A calm, attentive rooster will sometimes actively sh
 - [Little Giant galvanized hanging feeders](https://amzn.to/3feedlink)
 - [Vetericyn Poultry Care spray](https://amzn.to/3vetlink)
 - [Sound Designer S.K Pramanik](https://www.pexels.com/@sound-designer-s-k-pramanik-785950771)
-
 
 This is genuinely the hardest judgment call in the whole process, and I won't pretend there's a clean rule.
 

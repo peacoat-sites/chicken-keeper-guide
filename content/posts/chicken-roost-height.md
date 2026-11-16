@@ -29,7 +29,6 @@ Most chicken-keeping guides tell you to put roosts "18 inches off the ground" an
 
 Let me give you the full picture.
 
-
 <div class="value-module">
   <div class="vm-head">Roost Height by Breed Weight Class</div>
   <div class="vm-body">
@@ -73,7 +72,7 @@ The roost should sit 12 to 18 inches away from the wall so birds can actually ba
 
 ## What to Build Them From
 
-Flat 2x4 lumber, wider side up, is the best all-around roost material. The flat surface lets birds cover their feet with their breast feathers in winter, preventing frostbite on toes. Round dowels and broomstick-style perches look natural but they're genuinely worse for cold climates because the toes wrap around and stay exposed. I switched my flock from 1.5-inch dowels to flat 2x4s about six years ago and stopped having toe frostbite issues that same winter.
+Flat 2x4 lumber, wider side up, is the best all-around roost material. The flat surface lets birds cover their feet with their breast feathers in winter, preventing frostbite on toes. Round dowels and broomstick-style perches look natural but they're genuinely worse for cold climates because the toes wrap around and stay exposed.
 
 Avoid pressure-treated lumber anywhere birds perch or eat. Standard pine, poplar, or fir works fine. Sand the surface slightly so it grips without being rough enough to harbor bacteria in splits and gouges.
 
@@ -86,10 +85,8 @@ Natural branches aren't a bad option either. Varying diameters do exercise the f
 - [dropping board](https://www.amazon.com/s?k=chicken+dropping+board&tag=contentportfo-20)
 - [cottonbro studio](https://www.pexels.com/@cottonbro)
 
-
 For heavy breeds or any flock with older hens, a ramp up to the roost isn't optional. It's how you prevent injury. A 30-35 degree angle works for most birds. Steeper than 45 degrees and they'll avoid it or slip. Add cleats every 3 to 4 inches: short screws, small wood strips, anything that gives them a foothold.
 
 Dropping boards under the roost (basically a removable shelf that catches overnight droppings) don't affect roost height choice, but they make the whole system dramatically easier to clean. I use a [dropping board](https://www.amazon.com/s?k=chicken+dropping+board&tag=contentportfo-20) pulled out every two or three days and scraped into a bucket. It cuts the ammonia smell in an enclosed coop by more than half. That directly affects respiratory health. Worth building in from the start.
-
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

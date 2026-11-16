@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You go out to collect eggs one morning and notice your best layer, the big Barred Rock who gives you an egg almost every single day, is sitting hunched in the corner of the nesting box looking miserable. You pick her up and part the feathers near her vent. What you see stops you cold: a gray, writhing mass of tiny insects packed so densely around the base of her feathers that the skin underneath looks raw and angry. That's northern fowl mite. And if you're seeing it on one bird, I promise you it's already on more of them.
 
-Mites are one of those problems that sneaks up on you fast, then punishes you hard for missing it. I've watched healthy flocks go anemic in under three weeks from a bad northern fowl mite infestation. I've seen red mites drain the life out of birds so gradually that the keeper didn't notice until egg production dropped by half and they had a hen die overnight. Mites aren't a minor nuisance. They're a genuine flock health threat, and the faster you understand what you're actually dealing with, the better your odds of coming out the other side without losing birds.
+Mites are one of those problems that sneaks up on you fast, then punishes you hard for missing it. Northern fowl mites can cause anemia in under three weeks, while red mites may drain birds gradually enough that a keeper doesn't notice until egg production drops significantly and birds start dying. Mites aren't a minor nuisance. They're a genuine flock health threat, and the faster you understand what you're actually dealing with, the better your odds of coming out the other side without losing birds.
 
 ## The Two Mites You Actually Need to Know About
 
@@ -41,7 +41,7 @@ There are dozens of mite species that can bother chickens, but two of them are r
 
 **Northern fowl mite** lives permanently on the bird. It feeds, breeds, and dies on your chickens. You'll find it clustered around the vent, tail base, and under the wings. The eggs and debris create a characteristic dirty, crusty look around the vent area, and the mites themselves are dark brown to black. Because they never leave the host, you can actually catch this one during a routine hen inspection, even in the middle of the day.
 
-**Red poultry mite** (also called chicken mite or roost mite) is sneakier. In my experience, it causes more confusion for backyard keepers. These mites hide in cracks, crevices, and joints of your coop during the day and only come out at night to feed on your birds. So you go out at noon to check your flock, part the feathers, see nothing, and assume all is well. Wrong. To check for red mites, go into the coop at night with a flashlight and look at the roost bars, the undersides of nesting boxes, and every crack in the wood. You'll see moving gray or red dots. You can also wipe a white cloth along the roost bar. If it comes away with red smears, those are engorged mites.
+**Red poultry mite** (also called chicken mite or roost mite) is sneakier. Red poultry mites often cause confusion for backyard keepers. These mites hide in cracks, crevices, and joints of your coop during the day and only come out at night to feed on your birds. So you go out at noon to check your flock, part the feathers, see nothing, and assume all is well. Wrong. To check for red mites, go into the coop at night with a flashlight and look at the roost bars, the undersides of nesting boxes, and every crack in the wood. You'll see moving gray or red dots. You can also wipe a white cloth along the roost bar. If it comes away with red smears, those are engorged mites.
 
 **Scaly leg mite** (*Knemidocoptes mutans*) deserves a mention too. This one burrows under the scales on the legs and causes them to lift, crust over, and deform. It's slower moving than the other two and doesn't typically cause the rapid anemia they do, but it's painful for the bird and will cause permanent leg damage if left untreated for months.
 
@@ -80,7 +80,7 @@ Let me save you some time here. A lot of people start with diatomaceous earth (D
 
 **Scaly leg mite** gets a different approach. Smother therapy is the standard: coat the legs with petroleum jelly, coconut oil, or a dedicated product like [Scalex Mite & Lice Spray](https://www.amazon.com/s?k=scalex+poultry+mite+spray&tag=contentportfo-20) every few days for several weeks. The idea is to suffocate the mites under the scales. Don't try to peel the scales off. They'll come clean on their own as new healthy scale grows in beneath. This takes months.
 
-**[Ivermectin](/ivermectin-for-chickens-dosage/)** is another option some keepers use, applied as drops on the skin or given orally. It's not labeled specifically for poultry in the US, so you're using it off-label, and there's a withdrawal period to consider if you're eating the eggs. If you're dealing with a severe infestation that's not responding to topical permethrin, talk to an avian vet about ivermectin. I've seen it work well when other methods haven't.
+**[Ivermectin](/ivermectin-for-chickens-dosage/)** is another option some keepers use, applied as drops on the skin or given orally. It's not labeled specifically for poultry in the US, so you're using it off-label, and there's a withdrawal period to consider if you're eating the eggs. If you're dealing with a severe infestation that's not responding to topical permethrin, talk to an avian vet about ivermectin.
 
 ## Cleaning and Preventing Re-Infestation
 
@@ -103,7 +103,6 @@ Some practical additions that help going forward:
 - [Elector PSP](https://www.amazon.com/s?k=elector+psp+poultry&tag=contentportfo-20)
 - [Scalex Mite & Lice Spray](https://www.amazon.com/s?k=scalex+poultry+mite+spray&tag=contentportfo-20)
 - [vitamin supplement like Rooster Booster](https://www.amazon.com/s?k=rooster+booster+poultry+vitamins&tag=contentportfo-20)
-
 
 This is the part most beginner guides skip, and it matters. Both northern fowl mite and red mite feed on blood. A heavy infestation can cause serious anemia, especially in young birds, small breeds, or birds that were already stressed. Signs of anemia in chickens: pale or white comb and wattles, lethargy, loss of appetite, decreased egg production, and in severe cases, death.
 

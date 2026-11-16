@@ -29,7 +29,6 @@ You walk out to the coop one morning and find one of your hens planted on the ne
 
 Most articles will tell you she "wants to hatch eggs" and offer you three vague options. What they skip is the part where she stops eating, loses a third of her body weight, monopolizes the only nest box your other five hens want to use, and can stay locked in this hormonal trance for six to twelve weeks if you do nothing. That's the version you need to understand before you decide what to do about her.
 
-
 <div class="value-module">
  <div class="vm-head">Broodiness Likelihood by Breed</div>
  <div class="vm-body">
@@ -71,7 +70,7 @@ She's also immunocompromised during this period and vulnerable to lice and mites
 
 Then there's the nest box problem. A broody hen doesn't share. She'll claim the single most popular box, and your other hens will either pile eggs next to her (where they get broken or buried), lay on the floor, or somewhere creative and inconvenient outside. Your whole flock's egg production dips while one hen stages a sit-in.
 
-Finally, if you're not running a rooster, she's sitting on infertile eggs indefinitely. She doesn't know that. She'll sit for 21 days, realize nothing hatched, and sometimes start over again. I've seen hens stay in this loop for two months.
+Finally, if you're not running a rooster, she's sitting on infertile eggs indefinitely. She doesn't know that. She'll sit for 21 days, realize nothing hatched, and sometimes start over again. Some hens will stay in this loop for two months.
 
 ## Your Three Options: Breaking, Ignoring, or Hatching
 
@@ -97,7 +96,7 @@ Breaking broodiness works by lowering her body temperature and disrupting the ho
 
 **Step 4:** Release her and watch. If she goes straight back to the nest, put her back in the cage for another two days.
 
-Most hens break in 3 to 5 days. The stubborn ones, often Silkies or Cochins, can take up to a week. I've had one Silkie require two full rounds before she relented. It happens.
+Most hens break in 3 to 5 days. The stubborn ones, often Silkies or Cochins, can take up to a week. Some broody hens may require two full rounds of breaking before they relent.
 
 What doesn't work: repeatedly removing her from the nest (she just goes back), putting ice packs under her (awkward and temporary), or moving the nest box (she'll find another one).
 
@@ -110,7 +109,6 @@ A solid option for a ready-made setup is the [Precision Pet Rabbit Hutch](https:
 - [Precision Pet Rabbit Hutch](https://www.amazon.com/s?k=wire+rabbit+hutch+elevated&tag=contentportfo-20)
 - [Alison Burrell](https://www.pexels.com/@aburrell)
 
-
 If you gave her fertile eggs and she hatches them, you're in for the easiest chick-rearing experience in backyard chicken keeping. A good broody beats you every time. No heat lamp calculations, no brooder box setup, no 2am pasty butt checks. She handles it all.
 
 A few things to know:
@@ -121,7 +119,7 @@ Chick starter crumbles need to be available, not layer feed. Layer feed has too 
 
 She'll keep the chicks warm for about 4 to 6 weeks, then gradually stop hovering as they feather out. The transition is natural and you don't need to manage it.
 
-She'll teach them to eat, to drink, and to be wary of threats. I've watched broody hens teach three-day-old chicks to scratch for food. It's genuinely impressive. Chicks raised by a broody are almost always better-socialized, more resourceful, and quicker to integrate with the flock than hatchery or incubator chicks.
+She'll teach them to eat, to drink, and to be wary of threats. Broody hens will guide chicks to scratch for food and understand predator awareness. Chicks raised by a broody are typically better-socialized, more resourceful, and quicker to integrate with the flock than hatchery or incubator chicks.
 
 ---
 

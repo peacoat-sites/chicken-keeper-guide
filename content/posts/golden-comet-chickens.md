@@ -48,7 +48,7 @@ Here's what draws most people in. Golden Comets regularly hit 250 to 320 eggs pe
 
 Large brown eggs, consistent size, and they start early. Expect first eggs around 16 to 18 weeks, a solid month or two ahead of heritage breeds. A Dominique or a Buckeye won't lay until week 20 to 24, sometimes later.
 
-Now here's the problem that hatchery copy deliberately avoids: Golden Comets burn out fast. Because they've been selectively bred to lay so aggressively, their reproductive systems work much harder than heritage breeds work. By year three, production collapses. Many hens develop reproductive issues, including internal laying, egg peritonitis, and ovarian cysts. I've lost Golden Comets to reproductive cancer as young as three years old. This isn't rare. It's practically a design flaw.
+Now here's the problem that hatchery copy deliberately avoids: Golden Comets burn out fast. Because they've been selectively bred to lay so aggressively, their reproductive systems work much harder than heritage breeds work. By year three, production collapses. Many hens develop reproductive issues, including internal laying, egg peritonitis, and ovarian cysts. Keepers commonly report reproductive cancer in Golden Comets as young as three years old. This pattern is widespread enough to be considered a significant breed liability.
 
 If you want chickens that lay well at age five or six, pick Australorps or Speckled Sussex instead. If you want maximum eggs for two to three years and you're willing to accept that trade-off, Golden Comets deliver exactly that.
 
@@ -60,7 +60,7 @@ They go broody rarely, which you either want or you don't. If you're trying to h
 
 Some people find them almost too calm. A couple of my hens were so unbothered by my presence that they'd squat in the doorway of the coop and refuse to move when I was trying to close up at dusk. Not a real problem, just something worth knowing.
 
-They handle confinement reasonably well, better than most active foragers like Leghorns or [Easter Eggers](/easter-egger-chickens/). A well-designed run won't stress them out. That said, they do love to free-range if you can let them, and hens that get outdoor time seem to have better overall health in my experience.
+They handle confinement reasonably well, better than most active foragers like Leghorns or [Easter Eggers](/easter-egger-chickens/). A well-designed run won't stress them out. That said, they do love to free-range if you can let them, and outdoor access appears to support better overall health.
 
 ## Feed, Health, and the Stuff No One Mentions
 
@@ -79,7 +79,6 @@ Lice and mites are universal chicken problems. But high-production hens that are
 - [something like this Grandpa's Best hanging feeder setup](https://www.amazon.com/s?k=chicken+oyster+shell+feeder)
 - [Elector PSP](https://www.amazon.com/s?k=elector+psp+chickens)
 - [Jean Marc Pampuch](https://www.pexels.com/@rubis)
-
 
 Depends entirely on what you want.
 

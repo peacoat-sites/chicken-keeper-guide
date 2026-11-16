@@ -29,9 +29,7 @@ Most chicken-keeping guides treat Plymouth Rocks like a footnote between the fla
 
 The breed itself is American, developed in Massachusetts sometime around the mid-1800s, and the Barred Plymouth Rock was the dominant farm chicken in the United States for most of the early 20th century. That kind of longevity isn't marketing. It means generations of selection pressure toward calm temperament, decent [egg production](/egg-production-by-breed-2026/), edible meat, and the ability to survive a northeastern winter without a heated coop. Those traits didn't evaporate.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Barred Plymouth Rocks lay roughly 200-280 large brown eggs per year, peaking in years 1-2.</li><li style="margin:5px 0">Dual-purpose use is real: cockerels dress out at 6-8 lbs live weight by 16-20 weeks.</li><li style="margin:5px 0">Cold-hardy down to -10°F without supplemental heat when the coop is dry and draft-free.</li><li style="margin:5px 0">Hens average 7-8 lbs; roosters 9-10 lbs, making them easy to handle for beginners.</li><li style="margin:5px 0">Expect 18-20 weeks to first egg, slightly slower than production breeds.</li></ul></div>
-
 
 ## What You Actually Get in the Egg Carton
 
@@ -39,7 +37,7 @@ Two-hundred to 280 eggs [per year](/egg-production-per-year-by-breed/) is the ho
 
 The eggs are large, consistently shaped, and a warm medium-brown. Shell quality is good through the second year, then starts to thin a bit, same as most breeds.
 
-One thing nobody tells you: [Barred Rock](/barred-rock-chickens/) hens go broody less often than breeds like Orpingtons or Cochins, but they're not broodiness-proof. I've had hens who never went broody in three years and one who went broody twice in a single season and turned into a feathered goblin about it. It's individual, not predictable from the breed description.
+[Barred Rock](/barred-rock-chickens/) hens go broody less often than breeds like Orpingtons or Cochins, but they're not broodiness-proof. Broodiness varies by individual within the breed and isn't predictable from breed descriptions alone.
 
 ## The Seven Color Varieties (and the One That Actually Matters)
 
@@ -73,9 +71,9 @@ The standard guidance is 4 square feet per bird inside and 10 square feet per bi
 
 I run mine at roughly 6-7 square feet per bird indoors, and the difference in behavior is noticeable. Less pecking, less feather pulling, less general chicken misery.
 
-Roost height matters with heavier breeds. Plymouth Rocks need roosts they can reach without acrobatics, ideally no higher than 24-30 inches. I've had hens injure their feet landing awkwardly from a 4-foot roost in a coop I designed before I knew better. Lower is fine. They don't need to feel like they're roosting in a tree.
+Roost height matters with heavier breeds. Plymouth Rocks need roosts they can reach without acrobatics, ideally no higher than 24-30 inches. Lower is fine. They don't need to feel like they're roosting in a tree.
 
-Nesting boxes: one box per 4-5 hens is plenty. Barred Rocks aren't dramatic about nesting preferences, but they will all decide to use the same two boxes regardless of how many you provide. [Premier 1 Supplies](https://www.amazon.com/s?k=nesting+box+pads+chickens&tag=contentportfo-20) makes nesting pads that hold up well and cut down on egg breakage, which I've been using in my current coop for about two years now.
+Nesting boxes: one box per 4-5 hens is plenty. Barred Rocks aren't dramatic about nesting preferences, but hens often favor the same boxes regardless of how many you provide. [Premier 1 Supplies](https://www.amazon.com/s?k=nesting+box+pads+chickens&tag=contentportfo-20) makes nesting pads that hold up well and cut down on egg breakage.
 
 ## Feeding Through the Seasons
 
@@ -89,7 +87,7 @@ Free-range Plymouth Rocks are good foragers. Not as manic about it as Leghorns, 
 
 Barred Rocks are calm, which reads as "easy prey" to a fox or a hawk. They don't have the paranoid edge that keeps some flighty breeds alive longer in a free-range situation. I lost two hens to a red-tailed hawk in a single afternoon years ago before I added overhead netting. That's not unique to the breed, but calm birds don't take cover as fast.
 
-Hardware cloth instead of chicken wire. Always. Chicken wire keeps chickens in. It does not keep predators out. A raccoon can reach through standard chicken wire openings without effort, and I've seen coon-pulled injuries that you don't want to think about. 1/2-inch hardware cloth on every opening, buried 12 inches underground at the perimeter if you can manage it. This is the single highest-value infrastructure investment in chicken keeping, and it's non-negotiable.
+Hardware cloth instead of chicken wire. Always. Chicken wire keeps chickens in. It does not keep predators out. A raccoon can reach through standard chicken wire openings without effort. Use 1/2-inch hardware cloth on every opening, buried 12 inches underground at the perimeter if you can manage it. This is the single highest-value infrastructure investment in chicken keeping.
 
 ## Sources
 
@@ -100,6 +98,5 @@ Hardware cloth instead of chicken wire. Always. Chicken wire keeps chickens in. 
 - [USDA NASS Poultry Production Data]: Historical context on Plymouth Rock's role in 20th-century American egg and broiler production.
 
 ---
-
 
 *Photo: [Emma Cate](https://www.pexels.com/@emmacate) via Pexels*

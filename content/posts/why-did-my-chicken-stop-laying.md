@@ -43,7 +43,7 @@ Most laying hens go through a molt once a year, usually triggered by that same s
 
 A typical molt lasts 8 to 16 weeks, though that range surprises people. High-production hens like Leghorns tend to molt hard and fast, maybe 8 weeks. Heritage breeds and older hens sometimes drag it out closer to 16. During this time, your hen is redirecting all her protein resources toward feather regrowth, and egg production shuts down completely.
 
-What you should do during molt: bump up the protein in her diet. Standard layer feed runs about 16% protein. During molt, I switch my flock to a grower or all-flock feed at 18 to 20% protein, or I supplement with black oil sunflower seeds, mealworms, or scrambled eggs. [Manna Pro Dried Mealworms](https://www.amazon.com/s?k=manna+pro+dried+mealworms+chickens) are easy to keep on hand and hens go absolutely crazy for them. (This site may earn a commission on purchases.)
+What you should do during molt: bump up the protein in her diet. Standard layer feed runs about 16% protein. Consider switching to a grower or all-flock feed at 18 to 20% protein, or supplement with black oil sunflower seeds, mealworms, or scrambled eggs. [Manna Pro Dried Mealworms](https://www.amazon.com/s?k=manna+pro+dried+mealworms+chickens) are easy to keep on hand and hens go absolutely crazy for them. (This site may earn a commission on purchases.)
 
 Don't be surprised if a hen who molts in October doesn't come back into full production until February or March. That's normal. She's not broken.
 
@@ -121,7 +121,6 @@ Unless you see signs of illness or distress, give a healthy-looking hen two week
 - [Elector PSP](https://www.amazon.com/s?k=elector+psp+chickens)
 - [Sunrise/sunset calculators](https://www.timeanddate.com/sun/)
 - [ROMAN ODINTSOV](https://www.pexels.com/@roman-odintsov)
-
 
 | Cause | Typical Duration | Eggs Return? | Action Needed |
 |---|---|---|---|

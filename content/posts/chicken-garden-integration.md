@@ -67,11 +67,11 @@ One thing people underestimate: vertical. A hen that wants to get somewhere will
 
 ## Pest suppression: what you can realistically expect
 
-Chickens are excellent at Japanese beetle grubs. If you have a lawn adjacent to your garden and you're dealing with grub damage, running a flock over that section in fall after the grubs have moved closer to the surface is one of the most effective things you can do. I've watched my hens work a patch of lawn and come up with 20+ grubs in a single afternoon session.
+Chickens are excellent at Japanese beetle grubs. If you have a lawn adjacent to your garden and you're dealing with grub damage, running a flock over that section in fall after the grubs have moved closer to the surface is one of the most effective things you can do.
 
 They're decent on squash bugs and cucumber beetles if you introduce them to the bed early in an infestation, before population density gets out of hand. They're poor on aphids (can't get to them easily, and won't bother much) and useless on anything that lives deep in plant tissue.
 
-Slugs are probably their greatest contribution to the garden. My slug pressure dropped noticeably after I started running the flock through my strawberry beds in early spring before the plants leafed out. The hens clean up the slug eggs hiding in the debris. That one change made a real difference.
+Slugs are probably their greatest contribution to the garden. Running the flock through strawberry beds in early spring before the plants leaf out can significantly reduce slug pressure. The hens clean up the slug eggs hiding in the debris. That one change made a real difference.
 
 Don't expect chickens to replace any serious pest management program. Think of them as one tool that reduces baseline pressure, not something that solves specific infestations.
 
@@ -83,16 +83,14 @@ Don't expect chickens to replace any serious pest management program. Think of t
 - [Raised bed hoops and netting systems](https://amzn.to/example)
 - [Jahangir Parvez](https://www.pexels.com/@jahangir-parvez-2155365464)
 
-
 This is actually where garden-chicken integration pays its biggest dividends, and most articles gloss over it.
 
 Chicken manure is high in nitrogen, roughly 1.1 percent by weight, which is significantly higher than horse or cow manure. It's also hot: fresh chicken manure applied directly to plant roots will burn them. But when it's worked into soil two to four weeks before planting, or when it's been composted first, it's genuinely excellent fertility input.
 
-Running hens through a bed for two weeks before planting, then turning the surface and waiting ten days to two weeks, gives you free soil amendment. Pair that with a thin layer of compost and you have a bed that doesn't need much else. I stopped buying bagged fertilizer for my squash and corn beds almost entirely after I started doing this consistently. The yields from those beds are noticeably better than the beds I didn't rotate hens through.
+Running hens through a bed for two weeks before planting, then turning the surface and waiting ten days to two weeks, gives you free soil amendment. Pair that with a thin layer of compost and you have a bed that doesn't need much else. Beds rotated with hens tend to produce better yields than those without this treatment, often reducing or eliminating the need for bagged fertilizer.
 
 If you want to capture manure more efficiently, put a droppings board under your roosting bars (hens deposit most of their daily manure overnight), collect it weekly, and hot-compost it in a dedicated bin. A flock of six hens produces roughly a cubic yard of usable compost every 8 to 12 months with this method. That's a real number worth knowing.
 
 ---
-
 
 *Photo: [Jahangir Parvez](https://www.pexels.com/@jahangir-parvez-2155365464) via Pexels*

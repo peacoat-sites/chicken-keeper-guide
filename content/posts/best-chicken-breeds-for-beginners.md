@@ -25,7 +25,7 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 lastmod: 2026-07-08
 ---
-You ordered six "beginner-friendly" chicks from a hatchery, picked up your brooder supplies, and three weeks later you're standing in your backyard watching one bird terrorize the others, another refusing to leave the coop, and a third making a sound you can't find anywhere on YouTube. Sound familiar? The breed you choose matters far more than most beginners realize. Not every friendly-looking chicken at the feed store is actually easy to keep, and not every calm breed lays enough eggs to justify the feed bill. After raising birds for 12 years across 14 breeds, I've watched enough beginners succeed and struggle to know exactly which chickens give you the best shot at a genuinely enjoyable first flock.
+The breed you choose matters far more than most beginners realize. Not every friendly-looking chicken at the feed store is actually easy to keep, and not every calm breed lays enough eggs to justify the feed bill.
 
 ## What Actually Makes a Breed "Beginner-Friendly"?
 
@@ -75,7 +75,7 @@ Cold hardy. Calm. Forgiving of beginners. Hard to go wrong.
 
 Sussex birds don't get talked about enough in American backyard chicken circles. Light Sussex hens are calm, friendly, and lay 250 to 275 cream or light brown eggs per year. Speckled Sussex are similar in temperament with a stunning spotted plumage that gets more beautiful each molt.
 
-They're naturally curious and excellent foragers if you give them space, but they also tolerate confinement better than many active breeds. I've seen Sussex adapt easily to small backyard setups without the stress behavior you sometimes see in birds that really need to range.
+They're naturally curious and excellent foragers if you give them space, but they also tolerate confinement better than many active breeds.
 
 ### Australorp
 
@@ -91,7 +91,7 @@ Some breeds get labeled "friendly" in general chicken literature but come with r
 
 **[Silkies](/silkie-chickens/)** look irresistible and they are genuinely sweet. But they have special care requirements, their feathered feet get muddy and matted in wet conditions, and they can't see well due to their crests. That makes them easy targets for other birds or predators. They also aren't great layers. I love Silkies as a second or third flock addition, not a first bird.
 
-**Leghorns** lay extraordinarily well (300+ white eggs per year) but they're flighty, nervous, and loud. In my experience, first-time keepers often find Leghorns stressful to manage. Great birds for experienced keepers with adequate space. A tough first bird.
+**Leghorns** lay extraordinarily well (300+ white eggs per year) but they're flighty, nervous, and loud. Many first-time keepers find Leghorns stressful to manage. Great birds for experienced keepers with adequate space. A tough first bird.
 
 **Polish chickens** are quirky and fun but the feather crest genuinely impairs their vision, they're easily startled, and they struggle in wet climates. Beautiful, but not forgiving for beginners.
 
@@ -117,7 +117,6 @@ Print this out and tape it to your brooder. These numbers reflect real-world bac
 - [Purina Flock Raiser](https://www.amazon.com/s?k=purina+flock+raiser&tag=contentportfo-20)
 - [Excelsior nesting pads](https://www.amazon.com/s?k=excelsior+nesting+box+pads+chickens&tag=contentportfo-20)
 - [Laura Alessia](https://www.pexels.com/@laualessia)
-
 
 Choosing the right breed is step one. What you do next determines whether those birds thrive.
 

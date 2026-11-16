@@ -29,11 +29,9 @@ Most [chicken coop](/how-big-should-a-chicken-coop-be/) reviews online are writt
 
 That's the cleanest way I can put it. You'll find glowing write-ups of prefab coops from big-box stores, star ratings boosted by people who set them up in October and haven't hit a real winter yet, and almost zero mention of the thing that will actually determine whether a coop lasts: ventilation design. Meanwhile, the detail that matters most to your hens' respiratory health and your predator problem gets two sentences buried under a paragraph about "rustic charm."
 
-Here's what I've learned after a decade of keeping layers in both suburban backyards and on a half-acre rural lot, through Wisconsin winters and a stretch of summers in central Texas: coop selection is the single highest-leverage decision you make as a chicken keeper. Get it wrong and you'll spend the next three years compensating. Get it right and everything else gets easier.
-
+Coop selection is one of the most important decisions you make as a chicken keeper.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Budget under $300 for a prefab coop and you're almost certainly buying a 2-3 year replacement, not a permanent setup.</li><li style="margin:5px 0">Most prefab coops are rated for roughly twice as many hens as they can actually support (4-sq-ft minimum per bird inside, 10 outside).</li><li style="margin:5px 0">Hardware cloth (1/2-inch welded wire) stops predators; standard chicken wire does not, raccoons tear it open.</li><li style="margin:5px 0">Ventilation should equal roughly 1 square foot per bird; most sub-$500 coops provide a fraction of that.</li><li style="margin:5px 0">A well-built DIY coop runs $400-$900 in materials and will outlast any prefab under $1,000.</li></ul></div>
-
 
 ## What the Star Ratings Aren't Telling You
 
@@ -51,9 +49,7 @@ Ventilation is the issue nobody talks about because it's harder to photograph th
 
 Predator protection is where cheap coops fail hardest. Chicken wire (the hexagonal stuff) has gaps large enough for a raccoon to reach through and grab a bird. It also rusts faster than hardware cloth and can be torn by a focused coon or a persistent fox. Half-inch welded hardware cloth is what you need on every opening. A 2022 analysis from the Livestock Conservancy found that over 60% of reported backyard flock losses were attributed to predators, with raccoons and domestic dogs accounting for the majority. If your coop uses chicken wire, that's your next purchase: replace it.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Reported backyard flock predator loss by type (%)</div><div class="sc-row"><span class="sc-label">Raccoons</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">34%</span></div><div class="sc-row"><span class="sc-label">Domestic dogs</span><span class="sc-track"><span class="sc-bar" style="width:82%"></span></span><span class="sc-val">28%</span></div><div class="sc-row"><span class="sc-label">Hawks/raptors</span><span class="sc-track"><span class="sc-bar" style="width:41%"></span></span><span class="sc-val">14%</span></div><div class="sc-row"><span class="sc-label">Foxes</span><span class="sc-track"><span class="sc-bar" style="width:35%"></span></span><span class="sc-val">12%</span></div><div class="sc-row"><span class="sc-label">Weasels/mink</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">7%</span></div><div class="sc-row"><span class="sc-label">Other</span><span class="sc-track"><span class="sc-bar" style="width:15%"></span></span><span class="sc-val">5%</span></div><div class="sc-src">Source: The Livestock Conservancy, 2022</div></div>
-
 
 ## Prefab vs. DIY vs. Repurposed: What You're Actually Choosing Between
 
@@ -81,7 +77,7 @@ Before you buy any coop, know your target flock size and double it. You will get
 
 Breed size matters more than most reviews mention. Standard-size hens (Rhode Island Reds, Plymouth Rocks, Australorps) need that 4-square-foot interior minimum. Bantams can manage on 2 square feet. Large breeds like Buff Brahmas and Jersey Giants want 5-6 square feet per bird, and they're heavy enough that low roost bars become a bumblefoot risk because of the impact force when they land.
 
-**Worked example:** When I switched from four standard hens to a mixed flock of six (two Jersey Giants, four Australorps), my 48-square-foot coop went from comfortable to borderline crowded. I added a 12-square-foot lean-to extension for $140 in lumber and hardware cloth. Pecking stopped within two weeks. That's the cheapest behavioral intervention I've ever made.
+**Worked example:** When a flock increases from four standard hens to six larger birds (such as two Jersey Giants and four Australorps), a 48-square-foot coop can become borderline crowded. A 12-square-foot lean-to extension for $140 in lumber and hardware cloth can relieve tension. Adding space is often the most cost-effective way to reduce pecking problems.
 
 ## What to Actually Inspect Before You Buy
 
@@ -89,7 +85,7 @@ If you're buying a prefab in person (Tractor Supply, Rural King, local farm stor
 
 First, the corner joints. If they're stapled rather than screwed, plan on them failing. Second, every latch: try to open it with your thumb alone, then imagine a raccoon with actual dexterity. Third, the roof overhang. A coop with less than 6 inches of overhang will have water running down the walls and into the litter. Fourth, the ventilation openings near the roof peak. If there aren't any, that's a dealbreaker or a modification project. Fifth, look for any wire mesh and check the gauge. Hardware cloth feels stiff and has a welded grid; chicken wire feels flimsy and has a twisted hexagonal pattern. If you can push your finger through a gap in the mesh, a weasel can push its head through.
 
-**Worked example:** A flock owner in suburban Chicago bought a $349 coop with a latch that defeated a raccoon through sheer clunkiness. Not because it was secure, but because the raccoon couldn't figure out the weird angle required. Two months later, a smarter raccoon in the neighborhood worked it out and killed three birds. Latch security isn't accidental. It requires a mechanism the animal can't reverse: a two-step carabiner clip, a bolt latch with a vertical drop pin, or a padlock. Spend $12 on a quality latch and don't rely on luck.
+**Worked example:** A $349 coop with an awkwardly designed latch might deter a raccoon initially, but a persistent animal will eventually learn to manipulate it, putting birds at risk. Latch security requires a mechanism the animal can't reverse: a two-step carabiner clip, a bolt latch with a vertical drop pin, or a padlock. Spend $12 on a quality latch.
 
 ## Sources
 
@@ -100,6 +96,5 @@ First, the corner joints. If they're stapled rather than screwed, plan on them f
 - [USDA National Agricultural Statistics Service, Poultry Production Data (2025)](https://www.nass.usda.gov): Background data on small-flock poultry trends and housing mortality factors.
 
 ---
-
 
 *Photo: [Emma Cate](https://www.pexels.com/@emmacate) via Pexels*

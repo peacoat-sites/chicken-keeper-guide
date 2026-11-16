@@ -25,7 +25,7 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 lastmod: 2026-07-08
 ---
-You've got a layer standing apart from the flock, tail drooping, looking thin even though she's eating fine. [No respiratory issues](/respiratory-illness-chickens/). No visible mites. You worm her on a hunch, and two weeks later she's back to laying and acting normal. I've watched this play out in my own flock more times than I'd like to admit, and every time it reminds me of something uncomfortable: internal parasites are probably the most underdiagnosed health problem in backyard chickens, and most keepers don't catch it until the bird is already struggling.
+You've got a layer standing apart from the flock, tail drooping, looking thin even though she's eating fine. [No respiratory issues](/respiratory-illness-chickens/). No visible mites. You worm her on a hunch, and two weeks later she's back to laying and acting normal. Internal parasites are often the most underdiagnosed health problem in backyard chickens, and most keepers don't catch an infestation until the bird is already struggling.
 
 I'll be direct about my own mistakes. I spent my first few years with chickens the way a lot of people do: cleaned the coop, watched for mites, fed a decent layer pellet, and figured I had things covered. Worms felt like a farm problem, not a backyard thing. Then I had a fecal float done on three hens out of curiosity, and two of them came back positive for roundworms. They looked completely fine. That one test sent me down a long road of reading, interrogating vets, and paying much closer attention to what was actually happening inside my birds.
 
@@ -136,7 +136,6 @@ If you suspect or confirm a worm issue, here's the approach I'd take, based on w
 - here is a little frustrating for backyard keepers in the United States
 - here is mixed at best
 
-
 You can't fully prevent worms if your birds have access to soil. What you can do is reduce the burden and catch problems early.
 
 Pasture rotation is the single most effective tool, and it's free if you have the space. Giving a pasture area a 3 to 6 month rest dramatically reduces the infective egg population in the soil. Even rotating between two sections helps.
@@ -151,4 +150,4 @@ The best tool you have is your eyes and a relationship with a poultry vet. Know 
 
 ---
 
-Worms are invisible until they aren't, and by the time the signs are obvious, you've usually got a bird that's been struggling for weeks. The best thing I ever did for my flock's health was start doing routine fecal floats, not because I always found something, but because the times I did, I caught it early enough to handle it cleanly. Know what's normal for each of your birds, get a fecal float done if something seems off, find a vet who actually knows poultry, and don't let the lack of FDA-approved products make you feel like your options are zero. They're not.
+Worms are invisible until they aren't, and by the time the signs are obvious, you've usually got a bird that's been struggling for weeks. Routine fecal floats catch parasites early, before visible symptoms appear. Know what's normal for each of your birds, get a fecal float done if something seems off, find a vet who actually knows poultry, and don't let the lack of FDA-approved products make you feel like your options are zero. They're not.

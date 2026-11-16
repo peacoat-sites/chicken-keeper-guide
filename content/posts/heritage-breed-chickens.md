@@ -31,9 +31,7 @@ If you're reading this because you're considering heritage chickens, or because 
 
 The short version: heritage breeds are worth it, but not for the reasons most beginners expect. The eggs aren't always bigger. The birds aren't always friendlier. And "heritage" doesn't automatically mean "hardy." What you actually get is a slower-growing, longer-lived bird with real genetic depth, adapted over generations to specific climates and purposes. That matters more than it sounds.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Heritage breeds take 16-24+ weeks to reach laying age, vs. 16-18 weeks for production breeds.</li><li style="margin:5px 0">Egg production is lower (150-220 eggs/year) but quality and yolk richness are genuinely different.</li><li style="margin:5px 0">Many heritage breeds go broody, which is useful if you want to hatch, frustrating if you don't.</li><li style="margin:5px 0">Feed costs run higher per egg because these birds eat more relative to output.</li><li style="margin:5px 0">Breed selection matters enormously: a Buckeye thrives in Ohio winters; a Campine won't.</li></ul></div>
-
 
 ## What "Heritage Breed" Actually Means (and What It Doesn't)
 
@@ -62,7 +60,7 @@ Here's a realistic comparison of the breeds I'd actually recommend to most [back
 | Speckled Sussex | 180-240 | Very friendly | Good | Moderate | Mixed flocks, handling |
 | Java | 140-180 | Calm, slower | Good | Moderate | Preservation efforts, dual-purpose |
 
-The Dominique is genuinely underrated. It's America's oldest chicken breed, the rose comb means frostbite is almost never an issue even in harsh winters, and mine have been consistently calm without being boring. I've watched Dominique hens raise Australorp chicks with zero drama. They're practical birds.
+The Dominique is genuinely underrated. It's America's oldest chicken breed, the rose comb means frostbite is almost never an issue even in harsh winters, and they're consistently calm without being boring. Dominique hens will readily raise chicks of other breeds with minimal fuss. They're practical birds.
 
 Buckeyes are the breed I wish someone had told me about sooner. Developed in Ohio specifically for cold, harsh conditions, they're the only American breed created entirely by a woman (Nettie Metcalf, in the 1890s), and they're serious mousers. I watched one of my Buckeye hens catch and eat a mouse in under 10 seconds. They have a slightly lower egg count than Australorps, but they're meatier birds and far more self-sufficient.
 
@@ -82,13 +80,11 @@ A scenario from my own experience: I ran a 10-hen flock of Speckled Sussex for t
 
 Here's a thing people fight about online. Broodiness in heritage breeds is either your best asset or your biggest headache, and it's usually both at the same time.
 
-A broody hen will stop laying, monopolize a nest box, puff up like a furious football, and peck your hand hard enough to leave a bruise. She'll also hatch and raise chicks with zero input from you, which is honestly magical the first time you see it. I've had Dominique hens raise clutches of 8-10 chicks with better survival rates than my incubator batches, and I didn't have to do a single thing except make sure nobody bothered her.
+A broody hen will stop laying, monopolize a nest box, puff up like a furious football, and peck your hand hard enough to leave a bruise. She'll also hatch and raise chicks with zero input from you, which can be remarkable to witness.
 
 If you want to raise chicks naturally and expand your flock without buying more, broodiness is a feature. If you're primarily there for eggs and have a small space, a predictably broody breed like a Silkie or Cochin is going to frustrate you every summer. Australorps and Delawares go broody occasionally but not obsessively. Leghorns almost never do. Know which camp you're in before you choose.
 
 ## Sourcing: Where the Breed Actually Comes From Matters
-
-I thought for years that all hatcheries were roughly equivalent. I was wrong about that.
 
 The difference between a preservation-focused small breeder and a large commercial hatchery isn't just price, it's genetic depth and breed character. The Society for the Preservation of Poultry Antiquities maintains a breeders directory that's worth bookmarking. The Livestock Conservancy (livestockconservancy.org) also has a breed directory and conservation status listings that tell you how at-risk specific breeds actually are, which can help you decide if you want to contribute to keeping a breed viable.
 
@@ -105,6 +101,5 @@ One small detail worth knowing: when you order from a small preservation breeder
 - USDA National Agricultural Library Poultry Resources: Feed conversion data and production benchmarks for heritage vs. commercial breeds
 
 ---
-
 
 *Photo: [Steven Van Elk](https://www.pexels.com/@steven-van-elk-9757164) via Pexels*

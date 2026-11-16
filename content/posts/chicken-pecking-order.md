@@ -33,7 +33,7 @@ Chickens aren't randomly mean to each other. Their social hierarchy is hardwired
 
 In a backyard flock, this same system plays out every single day. The hierarchy gets established through physical posturing, chasing, and actual pecking. Once it's settled, most flocks are remarkably peaceful. The problem is that most chicken keepers see the establishment process and panic, or they've got a setup that makes the hierarchy impossible to stabilize.
 
-Here's what people miss: the pecking order is never truly done. It reshuffles when you add a new bird, lose one, move to a new coop, or introduce a rooster. Even seasonal changes like molt or a drop in egg production can trigger low-level social recalibration. I've seen a flock of seven hens that lived together for two years turn into complete chaos after the owner added just two pullets without a proper introduction.
+The pecking order is never truly done. It reshuffles when you add a new bird, lose one, move to a new coop, or introduce a rooster. Even seasonal changes like molt or a drop in egg production can trigger low-level social recalibration. Adding new birds without proper introduction can destabilize a flock that's been established for years.
 
 Rank depends on age, size, breed temperament, and individual personality. A large Brahma can be a total pushover while a small Easter Egger runs the whole show. You genuinely can't predict it in advance.
 
@@ -45,7 +45,7 @@ Normal pecking order behavior looks like this: a dominant hen pecks a lower-rank
 
 Bullying is different. [One bird getting chased constantly](/aggressive-chickens/) with no escape route. Feathers pulled out repeatedly in the same spots. A bird being prevented from eating or drinking at all. The skin broken and blood drawn. Once there's blood, everything escalates fast. Chickens are drawn to red, and a small pecked spot can become a life-threatening injury within hours if the other birds keep targeting it.
 
-I've seen birds lose entire sections of feathers from their backs. In a few bad cases, the flock had actually begun eating through to tissue. That's not pecking order. That's a crisis.
+Severe feather pecking can strip entire sections of feathers. In extreme cases, flocks will peck through to tissue. That's not pecking order. That's a crisis.
 
 If you've got a bird being drawn to blood, remove her from the flock immediately, treat the wound, and use [Blu-Kote antiseptic spray](https://www.amazon.com/s?k=blu-kote+poultry&tag=contentportfo-20) on any open areas. The blue-purple color masks the red and dramatically reduces the other birds' interest.
 
@@ -69,11 +69,11 @@ Most pecking order problems aren't really about hierarchy at all. They're resour
 
 **Nesting boxes.** One box per 3-4 hens is the general rule, but most flocks pile into one or two favorite boxes regardless. That creates conflict during peak laying hours. Four boxes for eight hens isn't overkill.
 
-**Boredom.** A flock with nothing to do directs energy toward social tension. Scratch grains scattered in the run, hanging cabbages, and simple [chicken toys or treat dispensers](https://www.amazon.com/s?k=chicken+treat+dispenser&tag=contentportfo-20) actually matter. I've seen significant behavior improvement just from adding environmental enrichment.
+**Boredom.** A flock with nothing to do directs energy toward social tension. Scratch grains scattered in the run, hanging cabbages, and simple [chicken toys or treat dispensers](https://www.amazon.com/s?k=chicken+treat+dispenser&tag=contentportfo-20) can measurably reduce aggressive behavior.
 
 ## Introducing New Birds Without Starting a War
 
-Introductions are where most backyard keepers create serious problems. The instinct is to just put new birds in with the existing flock, especially if everyone seems friendly. Don't do that. I've heard "I've had chickens for years and I always just put them in and it's been fine" right before someone tells me their new pullet got beaten nearly to death.
+Introductions are where most backyard keepers create serious problems. The instinct is to just put new birds in with the existing flock, especially if everyone seems friendly. Don't do that. New birds introduced without separation can be seriously injured or killed.
 
 Here's a method that works:
 
@@ -103,7 +103,7 @@ Not all breeds play the same way in the pecking order, and breed choice matters 
 | Silkie | Very docile | Frequently lowest rank, needs protection in mixed flocks |
 | Barred Plymouth Rock | Friendly but confident | Good mid-rank, stable in mixed flocks |
 
-Mixing very docile breeds like Silkies or Polish with assertive breeds like Rhode Island Reds or Leghorns requires significantly more space and careful monitoring. I've seen it work, but it's not the easy path.
+Mixing very docile breeds like Silkies or Polish with assertive breeds like Rhode Island Reds or Leghorns requires significantly more space and careful monitoring.
 
 Roosters change everything. A good rooster acts as a stabilizer. He breaks up fights, finds food and calls the hens over, and protects the flock. The alpha hen loses some of her power in a flock with a rooster present, which can actually reduce hen-on-hen aggression. A bad rooster, or a young cockerel still figuring things out, creates chaos and over-mates hens to the point of injury. [Hen saddles](https://www.amazon.com/s?k=hen+saddle+chicken&tag=contentportfo-20) are a real and practical solution if a hen's back is being damaged from rooster activity.
 
@@ -117,7 +117,6 @@ Roosters change everything. A good rooster acts as a stabilizer. He breaks up fi
 - [Hen saddles](https://www.amazon.com/s?k=hen+saddle+chicken&tag=contentportfo-20)
 - [Peepers, also called blinders](https://www.amazon.com/s?k=chicken+peepers+anti+pecking&tag=contentportfo-20)
 
-
 You don't need to intervene every time a hen pecks another hen. If you do, you'll drive yourself crazy and you'll interfere with the natural stabilization process. But some situations absolutely require action.
 
 **Remove the injured bird.** Any bird with a bloody wound comes out of the flock, gets treated, and stays separate until fully healed. Reintroducing her is a whole process, treat it like introducing a new bird because her rank has effectively reset.
@@ -126,6 +125,6 @@ You don't need to intervene every time a hen pecks another hen. If you do, you'l
 
 **Check your numbers.** Flocks of four or fewer hens often have more intense pecking order dynamics because there's less social diffusion. Flocks of five or more tend to spread the pressure out.
 
-**Anti-pecking devices.** [Peepers, also called blinders](https://www.amazon.com/s?k=chicken+peepers+anti+pecking&tag=contentportfo-20), are small clips that attach to the beak and block forward vision without affecting the bird's ability to eat and drink. They sound awful but they're painless and genuinely effective for chronic feather pickers. I've used them as a short-term reset while addressing underlying causes like overcrowding or nutritional deficiency.
+**Anti-pecking devices.** [Peepers, also called blinders](https://www.amazon.com/s?k=chicken+peepers+anti+pecking&tag=contentportfo-20), are small clips that attach to the beak and block forward vision without affecting the bird's ability to eat and drink. They're painless and effective for chronic feather pickers when used as a short-term measure while addressing underlying causes like overcrowding or nutritional deficiency.
 
 Understanding the pecking order doesn't make it less frustrating to watch, but it gives you the tools to tell the difference between a flock finding its footing and a flock with a real problem. Most situations are fixable with space, resources, and time. The ones that aren't usually point to a single bird who needs to find a different home, and there's no shame in making that call. Your first job is keeping the whole flock healthy. Sometimes that means making hard decisions. You'll know when you're there.

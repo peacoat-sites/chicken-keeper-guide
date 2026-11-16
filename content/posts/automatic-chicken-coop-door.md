@@ -31,17 +31,15 @@ Here's the number that floored me when I looked it up: according to a 2023 surve
 
 If you're shopping for an auto door or trying to decide whether to bother, let me save you the three weeks of forum-reading I did.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Predator attacks cause ~83% of backyard flock losses; most happen through an unsecured coop door at dusk or dawn.</li><li style="margin:5px 0">Light-sensor doors open/close based on ambient light; timer doors run on a fixed schedule. Most experienced keepers prefer light sensors.</li><li style="margin:5px 0">Expect to spend $80-$250 for a quality unit; cheap doors under $60 frequently fail within one laying season.</li><li style="margin:5px 0">Solar-powered doors work well in most climates but need a backup plan for cloudy stretches longer than 3 days.</li><li style="margin:5px 0">Motor strength matters more than most buyers realize: look for 3+ kg of lift capacity to handle warped wood or swelling frames.</li></ul></div>
-
 
 ## Light Sensors vs. Timers: This Decision Matters More Than Brand
 
 Most product listings bury this choice in the specs, but it's the first thing you should figure out. Light-sensor doors (also called photocell or dusk-to-dawn doors) open and close based on actual ambient light levels. Timer doors run on a set schedule you program in. Both work. They fail in different ways.
 
-The timer sounds simpler, and it is, but here's what most people don't realize until winter hits: sunset shifts by nearly two hours between the summer solstice and December in most of the continental US. If you set your timer in July and forget to adjust it, by November your door is closing an hour before your birds are even thinking about going in. I've seen hens pile up outside a closed door in 28-degree weather because the owner was running a July timer in December. Not ideal.
+The timer sounds simpler, and it is, but here's what most people don't realize until winter hits: sunset shifts by nearly two hours between the summer solstice and December in most of the continental US. If you set your timer in July and forget to adjust it, by November your door is closing an hour before your birds are even thinking about going in. If a timer isn't adjusted as daylight shifts, the door can close long before birds are ready to roost, leaving them exposed in cold weather.
 
-Light sensors handle that automatically. The door responds to when it's actually dark, not when a clock says it should be. The downside is they can be fooled, especially in coops with interior lighting, or if you've got a security light nearby that floods the coop area at night. I've had one reader (Karen, from rural Tennessee) email me after her light-sensor door kept reopening at 2 a.m. because a motion-triggered floodlight was triggering the sensor. Solvable, but worth knowing in advance.
+Light sensors handle that automatically. The door responds to when it's actually dark, not when a clock says it should be. The downside is they can be fooled, especially in coops with interior lighting, or if you've got a security light nearby that floods the coop area at night. Light sensors can be fooled by nearby motion-triggered floodlights, causing the door to reopen unexpectedly. This is solvable but worth planning for in advance.
 
 My honest take: go with a light sensor unless your coop has unusual artificial lighting conditions. The seasonal adjustment alone makes it worth it.
 
@@ -61,9 +59,7 @@ I've personally used the ChickenGuard Premium and the Omlet, and I can tell you 
 
 The Vevor is interesting if you've got a big, heavy door and you're okay hardwiring it. Four kilograms of lift is substantial. But no light sensor and no battery backup means a power outage leaves your door stuck open. I don't recommend it as a primary door unless you're pairing it with a UPS battery backup or you've got a very sheltered coop situation.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Door lift capacity by model (kg)</div><div class="sc-row"><span class="sc-label">ChickenGuard Premium</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">2.5 kg</span></div><div class="sc-row"><span class="sc-label">Omlet Automatic</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">3.2 kg</span></div><div class="sc-row"><span class="sc-label">JVR Solar</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">3 kg</span></div><div class="sc-row"><span class="sc-label">Run Chicken</span><span class="sc-track"><span class="sc-bar" style="width:55%"></span></span><span class="sc-val">2.2 kg</span></div><div class="sc-row"><span class="sc-label">Vevor</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">4 kg</span></div><div class="sc-src">Source: Manufacturer specs, August 2026</div></div>
-
 
 ## Installation: The Part Nobody Talks About Honestly
 
@@ -89,7 +85,7 @@ Battery-powered doors (running on standard AAs) are more predictable but require
 
 I'd feel dishonest if I didn't acknowledge that no door prevents everything. A determined weasel can get through a 1-inch gap. Rats can chew through the aluminum channel if they're motivated enough. What an automatic door does is close the gap reliably at dusk without depending on a human being home, awake, and sober.
 
-According to data from the University of California Cooperative Extension's small-scale poultry production resource (updated in 2022), the highest-risk windows for predator attacks are within two hours of sunset and within the hour before sunrise. An auto door that closes reliably at dusk and opens at dawn covers exactly that window. My own flock hasn't had a predator loss since I installed the Omlet door in spring 2023, compared to three losses in the preceding four years with a manual door. That's not a controlled study. But three years of zero losses versus an average of one every 16 months is a data point I take seriously.
+According to data from the University of California Cooperative Extension's small-scale poultry production resource (updated in 2022), the highest-risk windows for predator attacks are within two hours of sunset and within the hour before sunrise. An auto door that closes reliably at dusk and opens at dawn covers exactly that window.
 
 **Scenario:** A reader from outside Charlotte, NC with 11 hens and a chronic raccoon problem. She'd lost four birds over two years, always at dusk while she was at work. She installed a ChickenGuard Premium in March 2025, set to light-sensor mode. Zero losses through the following twelve months, and she reported back specifically that she'd seen raccoon tracks in the mud around her coop three times during that period. The door was closed. They left.
 
@@ -102,6 +98,5 @@ According to data from the University of California Cooperative Extension's smal
 - [Manufacturer specification sheets (ChickenGuard, Omlet, JVR, Run Chicken, Vevor)]: Current as of August 2026; lift capacity, power specs, and sensor modes sourced directly from product listings and technical documentation.
 
 ---
-
 
 *Photo: [A. Aitar](https://www.pexels.com/@sessizlik) via Pexels*

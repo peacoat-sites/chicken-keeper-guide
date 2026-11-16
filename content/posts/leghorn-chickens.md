@@ -27,13 +27,11 @@ faqs:
 
 300 eggs [per year](/egg-production-per-year-by-breed/). That's the number that sells more Leghorns than any marketing copy ever could, and honestly, it's not even an exaggeration for a well-managed flock. The American Poultry Association's breed standard pegs White Leghorns as one of the highest-producing laying breeds in existence, and the commercial egg industry didn't build itself almost entirely around one breed by accident. Walk into any grocery store in America, crack open a carton of white eggs, and there's a better-than-90% chance a Leghorn laid it.
 
-But here's what the hatchery websites gloss over: Leghorns are not beginner-friendly birds. They're loud, they're flighty, they'll clear a six-foot fence without much effort, and they have zero interest in being held. I've watched first-time chicken keepers fall in love with that egg count, bring home a dozen Leghorn pullets, and be completely blindsided by what they'd actually signed up for. The production stats are real. The temperament is also real.
+Leghorns are not beginner-friendly birds. They're loud, they're flighty, they'll clear a six-foot fence without much effort, and they have zero interest in being held. Many first-time keepers fall in love with the egg count, bring home Leghorn pullets, and find the temperament a challenge they weren't expecting. The production stats are real. The temperament is also real.
 
 So let me give you the actual picture.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">White Leghorns average 280-320 eggs per year under good management; some strains approach 350.</li><li style="margin:5px 0">They start laying earlier than most breeds, often at 16-17 weeks vs. the 20-24 week average.</li><li style="margin:5px 0">Leghorns are heat-tolerant but cold-sensitive; their large single combs need frostbite protection below 20°F.</li><li style="margin:5px 0">They're not dual-purpose: a Leghorn cockerel dresses out at barely 4 lbs, not worth the feed cost.</li><li style="margin:5px 0">Backyard Leghorns are significantly noisier and more flightily reactive than calm dual-purpose breeds like Orpingtons or Australorps.</li></ul></div>
-
 
 ## The Egg Production Numbers, Interpreted
 
@@ -43,9 +41,7 @@ What most people don't realize is how much the timing matters. Leghorns begin la
 
 They also front-load their production. A Leghorn in her first laying year is operating near peak capacity from the start. Production drops off more sharply after year two than with some dual-purpose breeds. If you're running a backyard egg business and selling at farmers markets, you'll want a rolling replacement flock rather than keeping the same birds for four or five years.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average annual eggs per hen by breed</div><div class="sc-row"><span class="sc-label">White Leghorn</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">300 eggs</span></div><div class="sc-row"><span class="sc-label">Golden Comet</span><span class="sc-track"><span class="sc-bar" style="width:93%"></span></span><span class="sc-val">280 eggs</span></div><div class="sc-row"><span class="sc-label">Barred Rock</span><span class="sc-track"><span class="sc-bar" style="width:77%"></span></span><span class="sc-val">230 eggs</span></div><div class="sc-row"><span class="sc-label">Buff Orpington</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">200 eggs</span></div><div class="sc-row"><span class="sc-label">Rhode Island Red</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">250 eggs</span></div><div class="sc-row"><span class="sc-label">Australorp</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">240 eggs</span></div><div class="sc-src">Source: University of Kentucky Extension, Poultry Breeds publication; industry hatchery data 2025</div></div>
-
 
 ## Leghorn Varieties: It's Not Just White
 
@@ -69,7 +65,7 @@ This isn't just an annoyance. It has practical implications:
 
 Your coop and run need covered or very high fencing. A standard 4-foot chicken wire run does not contain adult Leghorns. Six feet minimum, and even then I'd cover the top if you're in a suburban lot with ordinance concerns.
 
-They're terrible for small children. I've seen kids do everything right, approach slowly, crouch down, move calmly, and still send a Leghorn into a screaming panic. They don't bite, they just won't tolerate handling, and their alarm calls are genuinely loud. If you're keeping chickens partly so your kids can interact with the flock, get Buff Orpingtons or Speckled Sussex instead.
+They're not suitable for small children. Even when approached slowly and calmly, Leghorns often panic. They don't bite, but they won't tolerate handling, and their alarm calls are loud. If you're keeping chickens partly so your kids can interact with the flock, get Buff Orpingtons or Speckled Sussex instead.
 
 Free-ranging is where Leghorns actually shine. They're alert, fast, and smart about predators. In a genuinely free-range situation with good cover, their reactivity is a survival mechanism, not a bug. I've run mixed flocks where the Leghorns were reliably the first to call an aerial predator alarm, which saved more than one docile Orpington hen from a Cooper's hawk.
 
@@ -106,6 +102,5 @@ Alternatively, if you're in a genuinely cold climate, Minnesota, upstate New Yor
 - Penn State Extension "Feeding Chickens in Small and Backyard Flocks": Feed consumption estimates and layer nutrition guidelines referenced for cost-per-egg calculations.
 
 ---
-
 
 *Photo: [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels) via Pexels*

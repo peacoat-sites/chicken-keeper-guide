@@ -61,7 +61,7 @@ Hens need 14 to 16 hours of light per day to maintain peak laying. As days short
 High-production commercial hybrids burn through follicles faster because they're engineered to lay almost every day. Heritage breeds lay less frequently, which means their follicle supply lasts longer. This is one reason a Dominique or a Buckeye might still give you occasional eggs at age six, while a production Red might be done by four.
 
 **Stress**
-A hen under stress stops laying. Heat above 95 degrees Fahrenheit, a predator attack, a sudden change in flock dynamics, overcrowding, or a disruption in routine can all tank production. I've seen a flock drop to almost nothing for two weeks after a raccoon got into the coop at night, even though no birds were physically harmed. The fear alone was enough.
+A hen under stress stops laying. Heat above 95 degrees Fahrenheit, a predator attack, a sudden change in flock dynamics, overcrowding, or a disruption in routine can all tank production. A predator intrusion can suppress laying for weeks even if no birds are physically harmed; the stress alone is enough to halt production.
 
 **Nutrition Deficiencies**
 A hen producing an egg every day or two needs substantial calcium (for the shell), protein (for the white and yolk), and a reliable calorie supply. Low-quality feed, or a diet heavy in scratch and treats with not enough layer pellets, can cause laying to slow or stop. Our [chicken feed types explained](/chicken-feed-types-explained/) guide covers what your hens actually need nutritionally at each life stage.

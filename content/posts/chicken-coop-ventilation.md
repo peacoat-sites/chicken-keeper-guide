@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 It's July, 94 degrees, and you open your coop door to find your hens panting with wings held out from their bodies. Or it's February, below freezing, and the walls are dripping with condensation. The litter smells sharp with ammonia even though you cleaned it three days ago. Both situations point to one thing: your coop can't breathe.
 
-Inadequate ventilation is the most misunderstood part of coop design, and in 12 years of keeping chickens, I've watched it cause more preventable illness and death in backyard flocks than almost anything else.
+Inadequate ventilation is the most misunderstood part of coop design and a common cause of preventable illness and death in backyard flocks.
 
 ## Why Ventilation Matters More Than You Think
 
@@ -97,11 +97,11 @@ In winter, balance moisture removal with cold protection:
 3. **Check for condensation every morning.** Dripping walls or foggy interior means you need more ventilation, not less, even in cold weather.
 4. **Use deep litter.** A properly managed deep litter system generates heat through decomposition and absorbs moisture. [Pine shavings](https://www.amazon.com/s?k=pine+shavings+chicken+coop&tag=contentportfo-20) work well as a base layer.
 
-I've had people tell me they sealed their coop tight to "keep the girls warm" and ended up with [respiratory illness](/chicken-coop-smell-control/) by February. The coop smelled fine from outside. Inside, the ammonia was toxic.
+Many keepers seal their coops tight to keep birds warm, only to face [respiratory illness](/chicken-coop-smell-control/) by winter. A coop can smell fine from outside while ammonia builds to toxic levels inside.
 
 ## DIY Ventilation Solutions That Actually Work
 
-You don't need a custom-built coop to get this right. Some of the best-ventilated coops I've seen were built from repurposed materials.
+You don't need a custom-built coop to get this right. Well-ventilated coops can be built from repurposed materials.
 
 **For converted sheds:** Cut vents near the roofline on both front and back walls. Cover with 1/2-inch hardware cloth, not window screen (it clogs with dust). Add a wooden flap or sliding board on the inside so you can reduce the opening in winter. Hardware cloth keeps predators out while allowing full airflow.
 
@@ -122,7 +122,6 @@ You don't need a custom-built coop to get this right. Some of the best-ventilate
 - [Harvey Ussery's book](https://www.amazon.com/Small-Scale-Poultry-Flock-Harvey/dp/160358536X?tag=contentportfo-20)
 - [digital hygrometer](https://www.amazon.com/s?k=digital+hygrometer+thermometer&tag=contentportfo-20)
 - [Urban Roots](https://www.pexels.com/@urban-roots-2030955047)
-
 
 Your nose and eyes are your best tools. You don't need fancy equipment.
 

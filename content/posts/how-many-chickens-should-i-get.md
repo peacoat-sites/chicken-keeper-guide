@@ -25,7 +25,7 @@ author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 lastmod: 2026-07-08
 ---
-Most people start with three chickens. Then they go to pick them up, see all those fluffy little faces, and come home with six. I've watched it happen more times than I can count, and honestly, I've done it myself. What starts as a sensible, practical decision turns into what the chicken community affectionately calls "chicken math," and before you know it you're pricing out a second coop in the parking lot of Tractor Supply. So before you get swept up in the cuteness, let's talk numbers in a real, grounded way so you can make a decision you won't regret, whether you're starting from scratch or expanding an existing flock.
+Most people start with three chickens. Then they go to pick them up, see all those fluffy little faces, and come home with six. What starts as a sensible, practical decision often turns into what the chicken community calls "chicken math," where keepers end up pricing out a second coop before they expected to. So before you get swept up in the cuteness, let's talk numbers in a real, grounded way so you can make a decision you won't regret, whether you're starting from scratch or expanding an existing flock.
 
 ## Why the "Just Get a Few" Instinct Often Backfires
 
@@ -91,7 +91,7 @@ Rather than guessing, walk through this process before you order chicks or head 
 
 Getting too few birds usually fixes itself. You add more in the spring when chicks are available, or you pick up some pullets from a local keeper. The social dynamics adjust. Life goes on.
 
-Getting too many birds is messier. Overcrowding causes pecking order chaos, feather-picking, increased ammonia in the coop from excess waste, and faster spread of respiratory illness. I've seen well-meaning keepers start with 15 chicks because they were on sale, end up with a miserable, pecking flock by fall, and spend months trying to rehome birds or sort out the damage. It's not fun.
+Getting too many birds is messier. Overcrowding causes pecking order chaos, feather-picking, increased ammonia in the coop from excess waste, and faster spread of respiratory illness. For example, starting with too many chicks can lead to overcrowding by fall, resulting in a pecking flock and the need to rehome birds or address behavioral damage. It's not fun.
 
 There's also the emotional math to consider. When you have six birds, you know each of them. You notice when Biscuit is walking funny or Harriet isn't coming to the feeder in the morning. When you have 20, it's harder. A sick bird can decline fast if you miss early signs, and in a crowded flock, problems compound. Keep your flock at a number where you can actually pay attention to each bird.
 
@@ -106,7 +106,6 @@ A good [poultry health reference like The Chicken Health Handbook](https://www.a
 - [hanging feeder like this one](https://www.amazon.com/dp/B00004RA0J?tag=contentportfo-20)
 - [nipple waterer or horizontal nipple setup](https://www.amazon.com/dp/B07K5MCRML?tag=contentportfo-20)
 - [Brinsea EcoGlow brooder](https://www.amazon.com/dp/B004K8MKGY?tag=contentportfo-20)
-
 
 Once you know your number, set up before the birds come home. This sounds obvious, but I can't count how many people I've talked to who ordered chicks before the coop was finished and ended up with a cardboard box situation in the garage for three weeks longer than planned.
 

@@ -26,7 +26,7 @@ If you got your chickens or ducks in the last six months, stop and read this. Th
 | Deaths | 2 | 1 |
 | Timeline | Full year | Early June (partial year) |
 
-I'll be honest: I've been keeping chickens for a decade and I've rolled my eyes at the CDC's annual "wash your hands after touching your chickens" messaging. It felt like the same pamphlet every year. But this situation is genuinely different, and I think a lot of backyard keepers are underestimating it.
+The CDC's annual "wash your hands after touching your chickens" messaging can feel repetitive, but this situation is genuinely different, and many backyard keepers are underestimating it.
 
 Whole-genome sequencing on the Salmonella Saintpaul samples confirmed that all of them carry predicted resistance to fosfomycin. Eight samples also showed resistance to chloramphenicol, streptomycin, sulfisoxazole, and tetracycline simultaneously. Those aren't obscure antibiotics. Streptomycin and tetracycline are workhorses of bacterial infection treatment, and multi-drug resistance in a strain spreading this widely is the kind of thing that makes infectious disease doctors nervous. When a Salmonella infection gets serious enough to require hospitalization, the treatment options for a resistant strain are narrower and more complicated.
 
@@ -60,7 +60,7 @@ If you have young kids, keep them out of the coop and away from the birds until 
 
 Clean hands are still the foundation, but the specifics matter. Dedicated footwear for the coop, worn only in the coop, keeps contaminated material from walking into your house. Hand washing immediately after any bird contact, using soap and water rather than hand sanitizer alone, is non-negotiable right now. Don't let birds into the house. Don't let coop clothing sit in the laundry room where kids play.
 
-If you're in the market for new birds and haven't bought yet, I'd wait. Not forever, just until the CDC narrows down which hatcheries are involved and the supply chain picture is clearer. The Reader's Digest coverage from May 2026 ran with a headline that felt sensational when I first saw it, but honestly the underlying reporting on the hatchery sourcing issue was solid.
+If you're in the market for new birds and haven't bought yet, I'd wait. Not forever, just until the CDC narrows down which hatcheries are involved and the supply chain picture is clearer. Reader's Digest covered the hatchery sourcing issue in May 2026 with solid reporting.
 
 If you already have birds from this spring, monitor them and yourself. Salmonella in healthy adult carriers doesn't always show obvious symptoms in the birds. You won't necessarily know your flock is carrying it.
 

@@ -49,7 +49,7 @@ Most people buy whatever's on the shelf. Usually that's a 250-watt red heat lamp
 
 Red bulbs are the traditional choice. The red tint is supposedly meant to reduce pecking behavior because chicks can't see blood as clearly, and some keepers swear by it. I'll be honest: in 10 years I haven't noticed a dramatic difference compared to white bulbs, but I also keep my brooders at reasonable densities. If you're crowding 50 chicks into a small space, the red light might help.
 
-White clear bulbs run hotter than reds of the same wattage in my experience, though the actual thermal output should be similar. The difference might just be what you feel.
+White clear bulbs and red heat bulbs of the same wattage should produce similar thermal output, though white bulbs may feel hotter to the touch. The difference might just be what you feel.
 
 Ceramic heat emitters are what I'd reach for if I were starting over. No light at all, just infrared heat. Chicks can sleep on a normal day/night cycle instead of sitting under a perpetual noon sun. The [Zoo Med Ceramic Heat Emitter](https://www.amazon.com/dp/B0002AQCLO?tag=contentportfo-20) in 100 or 150 watts works well, but you need a porcelain socket fixture rated for high wattage, not a cheap plastic one. This is non-negotiable. Plastic fixtures and ceramic emitters together equals fire risk.
 
@@ -100,14 +100,13 @@ I also put a smoke detector in any building where I run a brooder. This costs $1
 - [ThermoPro TP50](https://www.amazon.com/dp/B01H1R0K68?tag=contentportfo-20)
 - [Bayco SL-300 Clamp Lamp](https://www.amazon.com/dp/B00002N6LL?tag=contentportfo-20)
 
-
 **Week 1:** Set lamp so the warm zone hits 95°F. Use paper towels over pine shavings for the first 3 days so chicks learn to eat from the feeder rather than scratch at bedding. I use a [1-quart chick waterer](https://www.amazon.com/dp/B001E0FDDI?tag=contentportfo-20) with marbles in the tray for the first few days to prevent drowning.
 
 **Week 2:** Raise the lamp 2-3 inches or switch to a lower-wattage bulb. Target temp drops to 90°F. Chicks will start feathering on the wing tips and you'll notice them ranging further from the heat source.
 
 **Week 3:** Down to 85°F. Chicks are noticeably more active and less dependent on the heat zone. If your ambient space is above 70°F and chicks aren't clustering under the lamp, you might not need the lamp on continuously at this point.
 
-**Weeks 4-6:** Continue dropping 5°F per week. Most chicks in a warm-ish space (above 65°F) are basically self-regulating by week 5. Heritage breeds like Buff Orpingtons tend to feather out a bit faster than high-production breeds in my experience, though the research here is genuinely mixed.
+**Weeks 4-6:** Continue dropping 5°F per week. Most chicks in a warm-ish space (above 65°F) are basically self-regulating by week 5. Some keepers report that heritage breeds like Buff Orpingtons feather out faster than high-production breeds, though research on this point is mixed.
 
 The lamp hanging over a brooder at 2am on a February night is one of those things that looks simple until it isn't. Get the fixture right, get the temperature right, give the chicks room to move toward or away from the heat, and watch them more than you watch the thermometer. They'll tell you what they need.
 

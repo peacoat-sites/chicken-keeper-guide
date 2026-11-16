@@ -27,19 +27,19 @@ lastmod: 2026-07-08
 ---
 I killed six chicks my first year. Not all at once, but one by one, over about three weeks, and every single time I was convinced I was doing everything right. The brooder temperature was "about right." The water was clean. The feed was there. What I didn't understand yet is that baby chicks exist on a knife's edge for the first few weeks of their lives, and vague is the enemy.
 
-That was ten years ago. I've raised hundreds of chicks since then, in everything from a $400 purpose-built brooder to a plastic storage tote with a heat lamp bungee-corded to a shelf. Here's what I actually know.
+Chicks can be brooded successfully in setups ranging from a $400 purpose-built brooder to a plastic storage tote with a heat lamp. Here's what works.
 
 ## The Brooder Setup Nobody Gets Right the First Time
 
 Most beginner guides tell you to keep brooder temperature at 95°F the first week, dropping 5 degrees per week until you hit room temperature. That advice isn't wrong. It's incomplete in a way that gets chicks killed.
 
-Temperature at what point in the brooder? A heat lamp pointed at the center of a 30-gallon tote creates a hot spot that might read 95°F directly under the bulb and 70°F at the edges. That's actually fine, and it's exactly what you want, because chicks thermoregulate by moving. What you don't want is a brooder so small or so uniformly heated that they can't get away from the heat source. I've seen people jam twelve chicks into a plastic bin barely big enough for a six-pack, crank a 250-watt red bulb over it, and wonder why they're losing birds. Heat stress kills just as fast as cold.
+Temperature at what point in the brooder? A heat lamp pointed at the center of a 30-gallon tote creates a hot spot that might read 95°F directly under the bulb and 70°F at the edges. That's actually fine, and it's exactly what you want, because chicks thermoregulate by moving. What you don't want is a brooder so small or so uniformly heated that they can't get away from the heat source. A common mistake is overcrowding chicks in too-small a space with intense heat; this causes stress and loss. Heat stress kills just as fast as cold.
 
 The real cheat code, if you haven't heard of it yet: the Brinsea EcoGlow. It's a contact heater that chicks snuggle under like a mother hen. No hot spot, no fire risk, and the chicks self-regulate beautifully. The 20A model runs about $80 and handles up to 20 chicks. I was skeptical for years because I'd grown up with heat lamps, but I switched in 2021 and I'm not going back. [Brinsea EcoGlow on Amazon](https://www.amazon.com/s?k=Brinsea+EcoGlow+brooder) (affiliate link).
 
 If you're sticking with a heat lamp, use a 250-watt infrared bulb (the red ones, not clear), clip it securely with an actual lamp clamp, and then bungee-cord it as a backup. The number one cause of coop fires in backyard chicken keeping is a heat lamp that fell. Don't be that person.
 
-For bedding, I've tried everything. Pine shavings win. Not newspaper (too slippery, causes leg injuries in the first days), not straw (too coarse, chicks get tangled and can't find food easily), not cedar (toxic). A bag of small-flake kiln-dried pine shavings from the feed store runs about $7 and will cover a modest brooder for weeks. Change the wet spots daily. Full replacement every four to five days for a group of ten chicks.
+For bedding, pine shavings work best. Not newspaper (too slippery, causes leg injuries in the first days), not straw (too coarse, chicks get tangled and can't find food easily), not cedar (toxic). A bag of small-flake kiln-dried pine shavings from the feed store runs about $7 and will cover a modest brooder for weeks. Change the wet spots daily. Full replacement every four to five days for a group of ten chicks.
 
 ## Feed, Water, and the Mistakes That Cost You Birds
 
@@ -53,7 +53,7 @@ For bedding, I've tried everything. Pine shavings win. Not newspaper (too slippe
 
 Get chick starter with 18-20% protein. Whether you want medicated or unmedicated has been debated in backyard chicken forums since the early 2000s. Here's my honest take: if your chicks came from a hatchery and were vaccinated for Marek's, don't use medicated feed (it can interfere with the vaccine response). If they weren't vaccinated, medicated starter adds amprolium, which helps protect against coccidiosis. If you don't know, ask. It's a simple question.
 
-I've used Purina Flock Raiser or their Medicated Chick Starter most consistently. Reliable, available at Tractor Supply, and the nutrition profile is solid. Some people swear by organic or non-GMO feeds, and those are fine choices if you want them, but don't let anyone convince you that conventional chick starter is going to harm your birds. It won't.
+Purina Flock Raiser or Medicated Chick Starter are reliable choices. Reliable, available at Tractor Supply, and the nutrition profile is solid. Some people swear by organic or non-GMO feeds, and those are fine choices if you want them, but don't let anyone convince you that conventional chick starter is going to harm your birds. It won't.
 
 Water is where I see more mistakes than anywhere else.
 
@@ -86,7 +86,6 @@ One thing almost nobody mentions: the coop air quality matters more during the t
 - [Brinsea EcoGlow on Amazon](https://www.amazon.com/s?k=Brinsea+EcoGlow+brooder)
 - [Horizontal chicken nipple waterers on Amazon](https://www.amazon.com/s?k=horizontal+chicken+nipple+waterers)
 - [Duygu](https://www.pexels.com/@duygugungor)
-
 
 You can't raise chicks well without knowing something about what they're going to become, because breeds differ in surprising ways even at the chick stage.
 

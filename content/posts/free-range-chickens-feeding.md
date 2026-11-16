@@ -25,7 +25,7 @@ faqs:
     a: "I'd start with an 18% protein layer pellet rather than the standard 16%. Scratch and Peck Feeds Layer Mash is my personal pick for small flocks who can budget for it. For cost-conscious keepers, Purina Layena Plus Omega-3 at around $23-26 per 40 lb bag is solid and widely available. Avoid sweet feeds or scratch-heavy blends marketed as 'complete' feeds because they aren't."
 ---
 
-My first flock of free rangers looked fat and happy all summer, and then October hit and I found myself staring at a feeder that barely moved for three days straight. I assumed they were just filling up on pasture. Turned out, the pasture had died back, bugs had gone underground, and my hens were borderline starving while I smugly congratulated myself on my "natural" feeding system.
+A common mistake is assuming that a flock foraging on pasture needs less supplemental feed year-round. In reality, pasture productivity drops sharply in fall and winter. As the pasture dies back and insects disappear underground, hens that seemed well-fed on forage alone can end up with inadequate nutrition if supplemental feed isn't increased.
 
 That's the trap with free ranging. The idea is so appealing, and the chickens seem so content scratching around, that it's easy to assume the land is doing more work than it actually is. What most people don't realize is that even on genuinely good pasture, free range chickens in a backyard or small-scale setup almost never get everything they need from foraging alone. The supplemental feed you offer isn't optional. It's the foundation, with foraging as the bonus, not the other way around.
 
@@ -39,7 +39,7 @@ A healthy, well-maintained quarter-acre pasture can realistically supply somewhe
 
 What chickens actually pick up from good pasture: insects (protein), grass and clover (some vitamins, fiber), seeds (carbohydrates, some fat), grit (naturally, which is genuinely useful), and worms (excellent protein, especially after rain). What pasture almost never supplies enough of: consistent protein at laying levels, calcium for shell formation, vitamin D3 in meaningful amounts, and sodium.
 
-I thought for years that a chicken scratching through leaf litter was getting fed. She's getting entertained. There's a difference.
+A chicken scratching through leaf litter is getting enrichment and entertainment, not meaningful nutrition. These are not the same as actual foraging for insects and forage.
 
 ## The Feed Math
 
@@ -53,15 +53,15 @@ Here's a comparison that actually helps you plan:
 | Full day free range, fall/winter | 3.5-4 oz layer pellet | 5-10% | Only if you increase feed and watch body condition |
 | Intensive managed rotational pasture | 2.5-3 oz layer pellet | 30-40% | Yes, this is the gold standard setup |
 
-(As of August 2026, a 50 lb bag of quality 16% layer pellets runs about $22-28 depending on brand and region. Purina Layena, Scratch and Peck Feeds Organic Layer, and Producer's Pride are three I've personally bought and compared. Scratch and Peck costs more, but in my experience the hens' feather quality shows it.)
+(As of August 2026, a 50 lb bag of quality 16% layer pellets runs about $22-28 depending on brand and region. Purina Layena, Scratch and Peck Feeds Organic Layer, and Producer's Pride are widely available options at different price points.)
 
-The thing no one mentions: hens will self-regulate feed intake pretty well IF the feed is available freely. Restricted access to feeders is where problems start. I've seen people pull feeders at noon thinking the flock will just "graze more." What actually happens is a feeding frenzy at morning fill-up, gorging on scratch instead of balanced feed, and a slow drop in production over four to six weeks. Not dramatic enough to alarm you, just enough to cost you eggs.
+Hens will self-regulate feed intake well if feed is available freely. Restricted access to feeders often backfires: instead of grazing more, hens gorge on whatever feed is available at morning fill-up, often choosing scratch over balanced feed. This leads to a gradual drop in production over four to six weeks, subtle enough to go unnoticed but significant enough to reduce egg output.
 
 ## Protein: The Number That Actually Matters
 
 Standard [layer feed](/layer-feed-vs-starter-feed/) is formulated at 16% crude protein. For free range hens, I'd argue 18% is your real baseline, and 20% during molt is not overkill. The reason is simple: foraging is energetically expensive. A hen covering an acre a day is burning significantly more calories than one in a run, and she's not necessarily replacing them with protein-rich bugs. In July she might be. In November, almost certainly not.
 
-During my flock's annual molt last fall, I switched to Purina Flock Raiser (20% protein) for six weeks and added free-choice [oyster shell](/oyster-shell-for-chickens/) separately since Flock Raiser isn't formulated for laying calcium levels. The molt finished faster than any previous year, about 5 weeks versus 7-8, and feather quality coming back in was noticeably better. Could be the protein, could be other factors. I don't have a controlled study. But it's what I do now.
+Many keepers switch to a higher-protein feed like Purina Flock Raiser (20% protein) during molt and add free-choice [oyster shell](/oyster-shell-for-chickens/) separately, since Flock Raiser isn't formulated for laying calcium levels. Higher protein can support faster feather regrowth during molt.
 
 One specific thing only an experienced keeper would know: when your hens start pulling feathers or pecking each other in a free range setting, the knee-jerk response is "they're bored." Sometimes. But protein deficiency looks exactly like boredom-driven pecking and is far more common in free range flocks than people think. Check protein intake before you start adding distractions.
 
@@ -89,7 +89,7 @@ Oyster shell, free choice, always. This is non-negotiable regardless of what or 
 
 Grit is usually less of a problem for true free rangers since they pick up small stones naturally. But I still offer it free choice, especially for younger birds that haven't had time to build a reservoir in their gizzard.
 
-Water is where I've seen more free range flocks fail than almost anywhere else. People assume birds ranging a property will find water. Sometimes they will. Sometimes they'll drink from a muddy puddle full of coccidian oocysts and you'll be treating an outbreak by the following week. Fresh, clean water in a fixed location, checked twice daily in summer, is not something pasture access replaces.
+Water is a common failure point for free range flocks. Birds may find water on their own, or they may drink from muddy puddles contaminated with pathogens like coccidian oocysts, leading to disease outbreaks. Fresh, clean water in a fixed location, checked twice daily in summer, cannot be replaced by pasture access.
 
 ## Sources
 

@@ -24,7 +24,7 @@ Here's what most people don't realize: there's no federal or state-level law gov
 
 The layers go like this. Your state sets some broad agricultural guidelines, but almost none of them restrict backyard poultry at the residential level. Below that, your county has ordinances. Below that, your city or municipality has ordinances. And below that, if you're in an HOA, you have CC&Rs that can be stricter than anything the government requires.
 
-Most people search "can I have a rooster in [city name]" and get a result from 2016 on a forum that may or may not still be accurate. Ordinances change. Lots of cities loosened their backyard chicken rules after 2020 but kept rooster restrictions tight because of noise complaints. I've seen people get confident about an old Reddit thread and end up on the wrong side of animal control six months later.
+Most people search "can I have a rooster in [city name]" and get a result from 2016 on a forum that may or may not still be accurate. Ordinances change. Lots of cities loosened their backyard chicken rules after 2020 but kept rooster restrictions tight because of noise complaints. Relying on outdated forum posts or Reddit threads can lead to violations later, since ordinances change and animal control enforces current rules.
 
 The only source you should trust is your actual municipal code. Go to [Municode.com](https://library.municode.com), type in your city or county name, and search for terms like "poultry," "fowl," "rooster," or "livestock." It's free. It's the actual ordinance. Read it yourself instead of relying on what someone at the feed store told you.
 
@@ -81,7 +81,6 @@ A few options that actually work.
 - before the chicks arrived
 - and roosters are legal where you are
 
-
 #### Can I keep a rooster if I have a backyard chicken permit?
 
 Not necessarily. Many cities issue permits specifically for hens only. Read the permit language carefully; it will usually say "female chickens" or "laying hens" and explicitly exclude roosters. Assuming your hen permit covers a rooster is one of the most common mistakes I see.
@@ -100,7 +99,7 @@ File a complaint with your city's code enforcement or animal control office. Mos
 
 #### Are there any rooster breeds that crow less?
 
-Honestly, not really. Some individuals are quieter than others and certain bantam breeds like Sebrights or Silkies tend to have softer, higher crows, but every rooster crows. Volume varies more by individual bird than by breed. Don't choose a breed based on the hope of a quiet rooster. It's the wrong strategy.
+Not really. Some individuals are quieter than others and certain bantam breeds like Sebrights or Silkies tend to have softer, higher crows, but every rooster crows. Volume varies more by individual bird than by breed. Don't choose a breed based on the hope of a quiet rooster. It's the wrong strategy.
 
 The 20 minutes you spend on Municode and your HOA documents right now will save you a lot of grief later. If the rules aren't in your favor, there are real paths forward that don't involve hoping nobody notices. Your flock, and your neighbors, will be better off for it.
 

@@ -43,7 +43,7 @@ Broodiness isn't stubbornness. It's a hormonal state, and that distinction matte
 
 When a hen goes broody, her prolactin levels spike. That hormone suppresses ovulation, drops her body temperature regulation (which is why her underside feels almost feverish), and basically locks her into incubation mode. She's not choosing to sit on eggs. Her biology has taken the wheel.
 
-This is why simply removing the eggs doesn't fix the problem. The eggs aren't causing the broodiness. The hormone is. You can clear out every egg under her and she'll sit on an empty nest box for days, sometimes weeks. I've seen hens go broody in a nest box with absolutely nothing in it, which always catches first-time keepers off guard.
+This is why simply removing the eggs doesn't fix the problem. The eggs aren't causing the broodiness. The hormone is. A broody hen will sit on an empty nest box for days, sometimes weeks. Hens have been known to go broody in a nest box with absolutely nothing in it, which can catch first-time keepers off guard.
 
 Some breeds go broody far more readily than others. Silkies are practically professional brooders. Buff Orpingtons, Cochins, Brahmas, and Sussex hens have strong broody tendencies. Production breeds like Leghorns and most commercial hybrids have had the broodiness largely selected out of them. If you've got a heritage breed or a mixed flock with any of those genetics in the mix, expect to deal with this at least once.
 
@@ -120,7 +120,6 @@ Also make sure the nest box area is clean when you return her. If you're breakin
 - [Poultry dust](https://www.amazon.com/s?k=poultry+dust+mites)
 - [nesting pad](https://www.amazon.com/s?k=chicken+nesting+box+pads)
 - [Thobane Innocent](https://www.pexels.com/@thobane-innocent-2879418)
-
 
 Some hens go broody three or four times a year while your other hens never do. The honest answer is that broodiness is largely genetic, and some individual hens simply have a stronger hormonal trigger than others.
 

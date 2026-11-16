@@ -20,9 +20,7 @@ The USDA's tightened "Product of USA" rule is now in active enforcement. For dec
 
 That matters right now because people are paying attention. Retail [egg prices crashed](/egg-prices-crashed-but-the-chicken-boom-keeps-going/) back down to $2.19 per dozen by May 2026, off the gut-punch high of $6.23 per dozen in March 2025, according to reporting from Yahoo Life. You'd think that would cool interest in backyard flocks. It hasn't. Google Trends data shows searches for "backyard chickens" and "how to build a chicken coop" surging again in 2026. Eleven million U.S. households now keep chickens, with roughly 85 million birds total as of a 2024 study. People aren't keeping flocks to compete with Walmart. They're keeping them because they actually want to know what they're eating.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">USDA's "Product of USA" rule, enforced since January 1, 2026, now requires hens be born, raised, and processed entirely in the U.S.</li><li style="margin:5px 0">Retail egg prices fell to $2.19/dozen by May 2026, down from a record $6.23/dozen in March 2025.</li><li style="margin:5px 0">An estimated 11 million U.S. households now keep backyard chickens, with 85 million birds total as of 2024.</li><li style="margin:5px 0">Maine's 2025 law created a statewide right to keep hens, driving a new wave of first-time keepers in 2026.</li><li style="margin:5px 0">Backyard flock keepers who hatch domestic chicks now hold a legitimate labeling advantage over some industrial competitors.</li></ul></div>
-
 
 ## What the Rule Actually Changed, and Why It Matters to You
 
@@ -54,13 +52,13 @@ One of the more interesting policy stories driving new flock owners this year is
 
 Meanwhile, Kingsburg, California shows how uneven this still is. On July 15, 2026, the city council voted to table and revise a proposed ordinance that would have allowed residents to keep up to five backyard hens, according to Mid Valley Times coverage from July 21, 2026. Five hens. Still being debated. That's the reality in a lot of smaller cities right now, one council vote away from yes or no, and that vote can swing on one or two opinionated neighbors showing up to a meeting.
 
-I've seen people invest $800 in a beautiful coop and then discover their HOA or city code makes the whole thing illegal. Check your local ordinances before you buy a single chick. Maine's law is a model. Most states aren't there yet.
+People sometimes invest hundreds of dollars in a coop only to discover their HOA or city code makes backyard chickens illegal. Check your local ordinances before you buy a single chick. Maine's law is a model. Most states aren't there yet.
 
 ## The Conversation You Can Now Have at the Farmers Market
 
 Here's the practical upside for anyone already selling eggs locally or thinking about it. The USDA rule gives you a real talking point that isn't just vibes. You can explain, accurately, that commercial "Product of USA" labels were often applied to eggs from birds with no verified domestic origin, and that your eggs don't have that problem because your hens never left your property.
 
-That's not a marketing spin. It's a factual distinction backed by federal labeling standards. Customers who care about food sourcing, and there are a lot of them, respond to specifics. "My hens are Black Australorps from a hatchery in Ohio, they've been on this property since March, and they eat a 16% layer pellet plus whatever they scratch up in the yard" is a story that $2.19 cartons from a warehouse in New Jersey genuinely cannot match.
+This distinction is backed by federal labeling standards. Customers who care about food sourcing, and there are a lot of them, respond to specifics. "My hens are Black Australorps from a hatchery in Ohio, they've been on this property since March, and they eat a 16% layer pellet plus whatever they scratch up in the yard" is a story that $2.19 cartons from a warehouse in New Jersey genuinely cannot match.
 
 The label rules don't make backyard eggs automatically profitable. They do make the honest conversation easier to have.
 

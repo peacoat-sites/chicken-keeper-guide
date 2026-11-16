@@ -40,11 +40,11 @@ Aggressive chickens are one of those things nobody mentions when they're selling
 
 ## Why Chickens Get Aggressive (and It's Usually Not Random)
 
-Aggression in chickens almost always has a cause. It's not a personality defect, it's not spite, and it's not usually a permanent unfixable state. The bird is responding to something. Your job is to figure out what.
+Aggression in chickens almost always has a cause. Aggression isn't a personality defect or spite, and it's usually not permanent. The bird is responding to something. Your job is to figure out what.
 
 The most common causes I see break down roughly like this:
 
-**Overcrowding.** This is responsible for more flock drama than anything else I can name. The standard recommendation is 4 square feet per bird inside the coop and 10 square feet in the run. That's not a target. That's a minimum. I've kept eight hens in a 6x8 coop with a 200-square-foot run, and even that felt tight in February when no one wanted to go outside. When birds can't get away from each other, they're constantly re-establishing the pecking order. It gets ugly fast.
+**Overcrowding.** Overcrowding is responsible for more flock drama than most other factors. The standard recommendation is 4 square feet per bird inside the coop and 10 square feet in the run. That's not a target. That's a minimum. Even a coop and run that seem adequate can feel tight in winter when birds spend more time indoors. When birds can't get away from each other, they're constantly re-establishing the pecking order. It gets ugly fast.
 
 **Hormones.** Roosters between 4 and 8 months old are teenagers with spurs. They test you. They test the hens. They test the dog, the garden hose, whatever. A lot of rooster aggression that people label as a character flaw is just adolescent behavior that either settles down or doesn't. The ones that haven't calmed by 9 or 10 months are telling you something real.
 
@@ -68,7 +68,7 @@ Don't let him do it once and get away with it. The first time a rooster spurs or
 
 Feed him from your hand. This sounds counterintuitive when you're dealing with a bird who's been coming at you. But a rooster who associates your presence with food stops seeing you as a competitor. I had a Buff Orpington rooster named Frank who was genuinely dangerous at seven months. By nine months, after daily hand-feeding and calm handling, he was following me around the yard like a puppy. He still had his strut, but he stopped trying to remove my ankles.
 
-Here's the part nobody says: some roosters don't change. I've had two in ten years that I worked with for months and never made real progress. One was a Rhode Island Red who'd been allowed to attack people from pullet age and had completely hardwired that behavior. The other was a Leghorn mix who was just constitutionally defensive. Both were rehomed to farms where they lived perfectly fine lives without human interaction. That's not failure. That's good judgment.
+Some roosters have deeply ingrained aggressive behavior that doesn't respond to management. A bird allowed to attack from a young age may have hardwired that response. In these cases, rehoming to a situation without human interaction is often the best outcome for the bird.
 
 If you have kids under eight or nine and an actively aggressive rooster, don't try to train your way through it while the kids are around. That's a facial injury waiting to happen. Either solve it fast or make a different decision about that bird.
 
@@ -86,7 +86,7 @@ Move her out temporarily. I use a wire dog crate inside the run so she's still v
 
 **If you have a hen who is the aggressor:**
 
-Isolate her instead. Removing the high-status bird from the flock, even for just a week, resets her social position significantly. When she comes back, she has to re-establish herself, and that process tends to go more calmly than the original bullying. I've seen this work more reliably than trying to manage a bully while she's still in with the flock.
+Isolate her instead. Removing the high-status bird from the flock, even for just a week, resets her social position significantly. When she comes back, she has to re-establish herself, and that process tends to go more calmly than the original bullying. This approach tends to be more effective than managing the aggressive bird while she remains with the flock.
 
 **Anti-pick products:** Rooster Booster Pick-No-More is worth keeping in your kit (around $8-12 at most feed stores). It's a dark-colored, bitter paste you apply to wounds and targeted areas. The color disguises the red of irritated skin, and the taste discourages pecking. It's not a permanent solution, but it buys you time while you address the root cause.
 
@@ -98,7 +98,6 @@ For birds who've lost significant feathering from being pecked, a hen saddle (al
 
 - [Justiniano Adriano](https://www.pexels.com/@justinianoadriano)
 - same. Aggressive
-
 
 More space is the single highest-impact change you can make. If you can expand the run, do it before anything else.
 

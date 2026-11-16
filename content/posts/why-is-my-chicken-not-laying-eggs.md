@@ -25,7 +25,7 @@ faqs:
     a: "Yes, and faster than most people expect. Research in laying hen behavior consistently shows that significant stressors, including flock disruption, predator exposure, and thermal stress above 90°F, can suppress laying within 24 to 72 hours. The response is hormonal: elevated cortisol directly suppresses the reproductive axis. The recovery, once the stressor is removed, typically takes one to three weeks depending on the hen and the duration of the stress."
 ---
 
-Most people panic the first time their hens stop laying. I did too. I remember standing in my coop on a cold November morning in 2018, staring into six completely empty nesting boxes, convinced something was catastrophically wrong with my flock. I'd had those Barred Rocks for two solid years of reliable production and suddenly: nothing. Not one egg in three days.
+Most keepers panic the first time their hens stop laying. A sudden drop in egg production can feel alarming, especially after a period of reliable laying.
 
 It wasn't a disease. It wasn't a predator terrorizing them at night. It was just winter.
 
@@ -39,7 +39,7 @@ I'll be honest: I didn't fully understand the biology here until my third year o
 
 What surprised me was how fast this happens. It can be a matter of two to three weeks from the equinox before you notice a real dip. And some breeds respond more dramatically than others: my Easter Eggers will basically quit in winter, while Rhode Island Reds tend to push through a bit better. Production breeds like the Leghorn are particularly photoperiod-sensitive.
 
-If you want to extend your winter production, a simple 40-watt bulb on a timer set to kick on at 4 a.m. will usually do it. You want to add light in the morning rather than the evening, so the birds aren't suddenly plunged into darkness mid-dusk, which can cause them to miss their roost. I've used the BN-LINK timer (runs about $12 on Amazon, [check current price here](https://www.amazon.com/s?k=BN-LINK+timer+outlet&tag=contentportfo-20)) for years with no issues. Keep in mind that artificially extending a hen's laying season also means she'll hit her "retirement" sooner. The research on whether this meaningfully shortens a hen's productive life is genuinely mixed, so you have to decide what matters more to you.
+If you want to extend your winter production, a simple 40-watt bulb on a timer set to kick on at 4 a.m. will usually do it. You want to add light in the morning rather than the evening, so the birds aren't suddenly plunged into darkness mid-dusk, which can cause them to miss their roost. The BN-LINK timer (runs about $12 on Amazon, [check current price here](https://www.amazon.com/s?k=BN-LINK+timer+outlet&tag=contentportfo-20)) is a reliable option. Keep in mind that artificially extending a hen's laying season also means she'll hit her "retirement" sooner. The research on whether this meaningfully shortens a hen's productive life is genuinely mixed, so you have to decide what matters more to you.
 
 ---
 
@@ -49,13 +49,13 @@ Chickens molt annually, usually in fall, and it completely shuts down egg produc
 
 A molt typically lasts 8 to 16 weeks. Some hens are "hard molters" who drop nearly all their feathers at once and look absolutely terrible for a month before recovering quickly. Others are "soft molters" who lose feathers gradually over a longer period and are barely noticeable. I once had a Buff Orpington go through such a soft molt that I genuinely didn't realize she was molting at all, and I spent about three weeks convinced she was sick before I actually looked closely at her feather condition.
 
-During a molt, bump your flock's protein up. A 20% protein feed or a dedicated feather-fixer supplement will shorten the molt and get them back to laying sooner. Purina's Flock Raiser (currently around $22 for a 40-lb bag at Tractor Supply) is one I've used specifically for this purpose.
+During a molt, bump your flock's protein up. A 20% protein feed or a dedicated feather-fixer supplement will shorten the molt and get them back to laying sooner. Purina's Flock Raiser (currently around $22 for a 40-lb bag at Tractor Supply) works well for this.
 
 ---
 
 ## Age, Breed, and the Laying Curve Nobody Plots Out For You
 
-Here's a table that I genuinely wish someone had handed me when I started, because the difference between breeds in terms of laying trajectory is significant:
+The difference between breeds in terms of laying trajectory is significant:
 
 | Breed | Peak Production (eggs/year) | Peak Age | Production at Age 3 | Known for Stopping Early? |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ Here's a table that I genuinely wish someone had handed me when I started, becau
 | Australorp | 250-300 | 18-24 months | ~55-60% of peak | Moderate |
 | Silkie | 80-120 | 18-24 months | drops sharply | Yes |
 
-I thought for years that a two-year-old hen was still a young hen. Technically she is, in terms of lifespan. But in terms of egg production, many breeds have already started their long decline by 24 to 30 months. A hen who laid 280 eggs at 18 months old might be down to 140 to 160 by age three. That's not illness. That's just chickens.
+A two-year-old hen is still young in terms of lifespan, but in terms of egg production, many breeds have already started their long decline by 24 to 30 months. A hen who laid 280 eggs at 18 months old might be down to 140 to 160 by age three. That's not illness. That's just chickens.
 
 If you've had your birds for a few years and production has been slowly declining, age is almost certainly a factor. The question you have to answer for yourself is whether you're keeping hens as layers or as pets with laying benefits, because those are different calculations.
 
@@ -87,9 +87,9 @@ Predator pressure at night is a sneaky one. If something is regularly disturbing
 
 The first two years I kept chickens, I was cheap about feed. I bought whatever layer pellets were on sale without reading the protein percentages, and I couldn't figure out why my production was inconsistent. What I eventually learned: layer feed needs to be at least 16% protein to maintain reasonable production, and many budget brands cut corners. A 20% protein feed will outperform a 14% feed on egg production numbers, full stop.
 
-Calcium is the other piece. A laying hen needs about 4 grams of calcium per day to form an eggshell. If she can't get enough from her feed, her body will pull it from her bones. You'll start seeing soft-shelled or shell-less eggs as an early warning. Separate oyster shell offered free-choice (not mixed into the feed) lets each hen calibrate her own intake. I've been running a small gravity-fed oyster shell dispenser in my coop for years and it's genuinely one of the most useful things I added. A [simple ceramic dish](https://www.amazon.com/s?k=chicken+oyster+shell+holder&tag=contentportfo-20) costs almost nothing.
+Calcium is the other piece. A laying hen needs about 4 grams of calcium per day to form an eggshell. If she can't get enough from her feed, her body will pull it from her bones. You'll start seeing soft-shelled or shell-less eggs as an early warning. Separate oyster shell offered free-choice (not mixed into the feed) lets each hen calibrate her own intake. A small gravity-fed oyster shell dispenser is a useful addition to any coop. A [simple ceramic dish](https://www.amazon.com/s?k=chicken+oyster+shell+holder&tag=contentportfo-20) costs almost nothing.
 
-One scenario worth naming: hen on scratch-heavy diet → production drops, soft shells appear → switched to quality 18% layer pellets plus free-choice oyster shell → full production resumed in about three weeks. I've seen this pattern play out more than once when people treat scratch grains as feed instead of a treat.
+For example, a hen on a scratch-heavy diet might show production drops and soft shells, but switching to quality 18% layer pellets plus free-choice oyster shell can restore full production in about three weeks. This pattern often appears when scratch grains are treated as feed instead of a treat.
 
 ---
 
@@ -129,6 +129,5 @@ Most of the time, you'll find your answer by step four.
 - [The Chicken Health Handbook, Gail Damerow (Storey Publishing)](https://www.amazon.com/Chicken-Health-Handbook-Gail-Damerow/dp/1612120091/ref=as_li_tl?tag=contentportfo-20): The single most useful reference I've found for diagnosing health and production issues
 
 ---
-
 
 *Photo: [Roman Fotografie](https://www.pexels.com/@roman-fotografie-1513855315) via Pexels*

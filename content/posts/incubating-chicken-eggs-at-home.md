@@ -29,9 +29,7 @@ Most incubation guides will tell you to "keep temperature steady" and "turn eggs
 
 I've hatched everything from heritage Dominiques to production Leghorns on my kitchen counter, in a converted closet, and once in my garage in January (do not recommend). Here's what I actually know.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Target 99.5°F for forced-air incubators; still-air runs hotter at 101-102°F measured at egg top.</li><li style="margin:5px 0">Humidity should be 45-55% for days 1-18, then raised to 65-75% for lockdown (days 18-21).</li><li style="margin:5px 0">Candle eggs at day 7 and day 14; remove clear or rotten eggs before they explode and contaminate the rest.</li><li style="margin:5px 0">Hatch rate for healthy shipped eggs averages 50-70%; fresh eggs from your own flock can hit 85-90%.</li><li style="margin:5px 0">Never open the incubator during lockdown. Not once. Not to "check."</li></ul></div>
-
 
 ## The Equipment That Actually Matters
 
@@ -44,10 +42,6 @@ A separate, calibrated hygrometer is non-negotiable. The built-in sensors on bud
 Still-air incubators aren't junk, they just require placing eggs with the narrow end slightly down, and you read the temperature at the top of the eggs, not at the unit's floor sensor, because heat stratifies. That single fact would have saved me a lot of grief in year one.
 
 ## Temperature and Humidity: The Real Numbers
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Incubation stage humidity targets (%RH)</div><div class="sc-row"><span class="sc-label">Days 1-7</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">50%</span></div><div class="sc-row"><span class="sc-label">Days 8-14</span><span class="sc-track"><span class="sc-bar" style="width:69%"></span></span><span class="sc-val">48%</span></div><div class="sc-row"><span class="sc-label">Days 15-18</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">50%</span></div><div class="sc-row"><span class="sc-label">Lockdown 18-21</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">70%</span></div><div class="sc-src">Source: Poultry Science Association guidelines + field experience</div></div>
-
 
 | Stage | Days | Temp (forced-air) | Temp (still-air, egg top) | Humidity |
 |---|---|---|---|---|
@@ -94,6 +88,5 @@ Brooder temperature at arrival: 95°F at chick level for the first week, droppin
 - [The Chicken Health Handbook, Gail Damerow (Storey Publishing)](https://www.amazon.com/dp/1612120474): The reference I actually keep on my shelf. Covers embryo development stages, failure diagnosis, and post-hatch chick care in real depth. *(Disclosure: the site may earn a commission on Amazon purchases.)*
 
 ---
-
 
 *Photo: [Myriams Fotos](https://www.pexels.com/@myriams-fotos) via Pexels*

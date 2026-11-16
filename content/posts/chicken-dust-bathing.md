@@ -31,9 +31,7 @@ Usually that spot is your raised vegetable bed. Ask me how I know.
 
 Dust bathing is instinctive, hardwired behavior. Hens will do it whether you provide a dedicated spot or not, starting as early as a few days old, before they even have real feathers. What most people don't realize is that it isn't just about cleanliness (though it does help control mites and lice). It's behavioral and psychological. Hens that can't dust bathe show measurable signs of stress, and studies on commercial laying hens have documented stereotypic "vacuum" dust bathing on wire floors, where they go through the motions on bare wire, which tells you just how deep this drive runs.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Hens begin dust bathing within days of hatching; it's not optional behavior.</li><li style="margin:5px 0">Fine dry soil, wood ash, and diatomaceous earth are the most effective substrates, used together or alone.</li><li style="margin:5px 0">A bath area of at least 12x12 inches per bird prevents competition and fighting.</li><li style="margin:5px 0">Mites and lice populations drop noticeably within 2-3 weeks of consistent dust bathing access.</li><li style="margin:5px 0">Confined hens without a dust bath show stress behaviors; this is a welfare issue, not a luxury.</li></ul></div>
-
 
 ## Why They Do It (And Why It Works)
 
@@ -81,10 +79,6 @@ If your birds are in a solid-floor coop without run access during winter (common
 
 I've seen flocks kept in strict confinement for six to eight weeks during harsh winters who looked terrible by the end of it, dull feathers, increased pecking, sometimes self-feathering. Adding an indoor bath the following winter made a measurable difference. Same birds, same conditions, better outcomes. I don't have exact numbers, but the difference was obvious enough that I'd never skip it again.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated substrate depth needed by flock size</div><div class="sc-row"><span class="sc-label">1-3 hens</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">5 inches (</span></div><div class="sc-row"><span class="sc-label">4-8 hens</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">6 inches (</span></div><div class="sc-row"><span class="sc-label">9-15 hens</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">7 inches (</span></div><div class="sc-row"><span class="sc-label">16+ hens</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">8 inches (</span></div><div class="sc-src">Source: Field observation, Sarah Mills backyard flocks 2016-2026</div></div>
-
-
 ## Sources
 
 - University of Bristol Animal Welfare Science Group: Research on dust bathing as a functional need in laying hens, documenting stereotypic behavior in substrate-deprived birds.
@@ -94,6 +88,5 @@ I've seen flocks kept in strict confinement for six to eight weeks during harsh 
 - University of California Agriculture & Natural Resources: Backyard poultry husbandry guides, including substrate recommendations and coop design for small flocks.
 
 ---
-
 
 *Photo: [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283) via Pexels*

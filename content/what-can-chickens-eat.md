@@ -21,7 +21,7 @@ This guide covers more than 50 foods organized into three categories: safe treat
 
 ## The Golden Rule: Treats Are Supplements, Not Meals
 
-Before diving into the list, one principle matters above all others. Layer feed — a quality commercial pellet or crumble formulated for laying hens — should make up 90% of your flock's diet. It is nutritionally complete and provides the calcium, protein, and vitamins hens need for strong eggshells and consistent production.
+Before diving into the list, one principle matters above all others. Layer feed, a quality commercial pellet or crumble formulated for laying hens, should make up 90% of your flock's diet. It is nutritionally complete and provides the calcium, protein, and vitamins hens need for strong eggshells and consistent production.
 
 Treats, table scraps, and forage fill the remaining 10%. Even genuinely healthy treats like mealworms or fresh vegetables become a problem when they crowd out balanced feed. A hen stuffed with corn and bread has no appetite left for the pellets that keep her laying well.
 
@@ -29,7 +29,7 @@ Treats, table scraps, and forage fill the remaining 10%. Even genuinely healthy 
 
 **Safe foods** can be offered freely within the 10% treat budget. They provide real nutritional value or enrichment with no meaningful risk at normal serving sizes.
 
-**Caution foods** are not toxic but carry some risk — usually from overfeeding, poor preparation, or secondary effects like reducing laying or causing loose droppings. Offered occasionally in small amounts, they are generally fine.
+**Caution foods** are not toxic but carry some risk, usually from overfeeding, poor preparation, or secondary effects like reducing laying or causing loose droppings. Offered occasionally in small amounts, they are generally fine.
 
 **Avoid/Toxic foods** must never reach your flock. Some cause acute poisoning with small doses. Others build up over time or trigger conditions like hemolytic anemia that are difficult to reverse. Learn these by name and keep them well away from your birds.
 
@@ -45,4 +45,4 @@ Treats, table scraps, and forage fill the remaining 10%. Even genuinely healthy 
 
 **Remove uneaten fresh food within a few hours.** Wet treats left in warm weather mold quickly, and mold-covered food is a serious toxin risk. If your flock hasn't cleaned up a treat within a couple of hours, remove it from the pen.
 
-For more on building a complete, balanced diet for your flock, see our guide to [backyard chicken feeding and nutrition](/posts/). Getting the basics right makes everything else — egg production, feather quality, flock health — significantly easier.
+For more on building a complete, balanced diet for your flock, see our guide to [backyard chicken feeding and nutrition](/posts/). Getting the basics right makes everything else, egg production, feather quality, flock health, significantly easier.

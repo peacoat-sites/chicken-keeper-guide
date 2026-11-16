@@ -31,9 +31,7 @@ Most chicken-keeping advice on hawks follows a depressing formula: hang some CDs
 
 I've lost birds to Red-tailed Hawks, Cooper's Hawks, and once, humiliatingly, a Sharp-shinned Hawk that couldn't have weighed more than 9 ounces. The first time I watched a Cooper's Hawk take a bird, it happened in under four seconds. I stood at the window, still holding my coffee, completely useless.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Red-tailed and Cooper's Hawks are the two most common backyard flock predators in the continental U.S.</li><li style="margin:5px 0">The Migratory Bird Treaty Act fully protects all raptors, lethal control is illegal and can cost up to $15,000 in fines.</li><li style="margin:5px 0">Hardware cloth overhead netting (not chicken wire) is the only 100% reliable aerial predator barrier.</li><li style="margin:5px 0">Roosters reduce hawk predation measurably, but free-ranging flocks still need overhead cover or netting.</li><li style="margin:5px 0">Guinea fowl alarm calls give chickens roughly 8-12 seconds of warning, enough time to reach cover if it's close enough.</li></ul></div>
-
 
 ## Which Hawks Are Actually Coming For Your Birds
 
@@ -48,10 +46,6 @@ Seasonal patterns matter more than most guides admit. According to the Cornell L
 A production Red Sex-Link or [ISA Brown](/isa-brown-chickens/) runs $25-35 as a pullet from a hatchery. A quality Australorp or Orpington from a breeder? Closer to $35-60 depending on lineage. Losing even three birds in a season to a hawk isn't just emotionally rough; it's a $75-180 hit before you count the eggs you won't collect for the next 18 months from that bird.
 
 The numbers shift fast when you're raising heritage breeds or meat birds. A pasture-raised Cornish Cross batch of 50 birds, priced at roughly $6.50/bird as day-olds from Hoover's Hatchery (current pricing as of July 2026), represents $325 in stock before you spend a dollar on feed. Losing even 10% of that batch to aerial predators over a 6-week grow-out is a real margin problem.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated annual hawk predation loss by flock size</div><div class="sc-row"><span class="sc-label">6-bird flock</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">$95</span></div><div class="sc-row"><span class="sc-label">12-bird flock</span><span class="sc-track"><span class="sc-bar" style="width:24%"></span></span><span class="sc-val">$190</span></div><div class="sc-row"><span class="sc-label">25-bird flock</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$390</span></div><div class="sc-row"><span class="sc-label">50-bird flock</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$780</span></div><div class="sc-src">Source: Carol Thompson, estimated from industry pullet pricing and USDA loss surveys, 2026</div></div>
-
 
 These are rough estimates assuming an average 15% annual loss rate to aerial predators in unprotected free-range flocks, which aligns with USDA National Agricultural Statistics Service (NASS) data on poultry predation losses.
 
@@ -116,6 +110,5 @@ Silkies, Cochins, heavily feathered breeds, and Polish birds with crests that bl
 - Purdue University, Department of Forestry and Natural Resources: Research on visual deterrent effectiveness timelines in corvid and raptor species.
 
 ---
-
 
 *Photo: [Chris F](https://www.pexels.com/@chris-f-38966) via Pexels*

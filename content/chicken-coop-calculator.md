@@ -23,7 +23,7 @@ The good news is that calculating the right coop size is straightforward once yo
 
 ## Why Coop Space Matters More Than You Think
 
-Overcrowded chickens are stressed chickens. When birds are packed too tight, the pecking order breaks down into aggression. Respiratory disease spreads faster in tight quarters where ammonia from droppings concentrates. Egg production drops and feather quality suffers. Many new keepers underestimate space needs because they picture small bantam hens — but standard breeds and large breeds like Jersey Giants, Brahmas, or Orpingtons need substantially more room.
+Overcrowded chickens are stressed chickens. When birds are packed too tight, the pecking order breaks down into aggression. Respiratory disease spreads faster in tight quarters where ammonia from droppings concentrates. Egg production drops and feather quality suffers. Many new keepers underestimate space needs because they picture small bantam hens, but standard breeds and large breeds like Jersey Giants, Brahmas, or Orpingtons need substantially more room.
 
 The widely cited minimums are just that: minimums. Think of the calculator results below as a starting point. If you can afford the extra lumber and square footage, give your birds more space. A roomy coop is one of the best investments you can make in flock health.
 
@@ -33,7 +33,7 @@ The widely cited minimums are just that: minimums. Think of the calculator resul
 
 **Outdoor run:** An enclosed run attached to the coop gives birds safe daytime foraging space when full free range isn't possible. Bantams need 4 square feet per bird in the run; standard breeds need 8 square feet; large breeds need 10 square feet.
 
-**Nesting boxes:** One box per four hens is the standard recommendation. Hens are creatures of habit and will line up for a favorite box — you may find all your birds trying to use the same one. Offering enough boxes prevents competition and broken eggs.
+**Nesting boxes:** One box per four hens is the standard recommendation. Hens are creatures of habit and will line up for a favorite box, you may find all your birds trying to use the same one. Offering enough boxes prevents competition and broken eggs.
 
 **Roost bars:** Chickens instinctively sleep elevated off the floor. Allow 8 to 10 inches of roost bar per bird so everyone can spread their wings slightly and find a comfortable perch.
 
@@ -41,9 +41,9 @@ The widely cited minimums are just that: minimums. Think of the calculator resul
 
 ## Planning Your Coop Build
 
-Once you have your numbers, think about the practical build. A 6-bird standard flock needs at minimum 24 square feet of interior space — roughly a 4x6 foot footprint. With the recommended 25% buffer that becomes a 4x8 or 6x6 structure, which is a common pre-built coop size available at farm supply stores.
+Once you have your numbers, think about the practical build. A 6-bird standard flock needs at minimum 24 square feet of interior space, roughly a 4x6 foot footprint. With the recommended 25% buffer that becomes a 4x8 or 6x6 structure, which is a common pre-built coop size available at farm supply stores.
 
-For the run, a flock of six standard hens needs at least 48 square feet — about 6x8 feet — with 60 to 72 square feet recommended. Many keepers build a 10x10 run so they can add birds later without rebuilding.
+For the run, a flock of six standard hens needs at least 48 square feet, about 6x8 feet, with 60 to 72 square feet recommended. Many keepers build a 10x10 run so they can add birds later without rebuilding.
 
 Consider ventilation from day one. Even in cold climates, ammonia buildup from droppings is a greater health risk than cold air. Place vents high on the walls above the roost line so drafts don't hit sleeping birds. Check out our guide to [raising healthy backyard chickens](/posts/) for more detail on coop ventilation and year-round management.
 

@@ -31,9 +31,7 @@ I've run nipple drinkers in my coops for going on seven years now. Before that, 
 
 The core appeal is cleanliness. [Chickens are](/chickens-are-now-americas-third-most-popular-pet/) incapable of not fouling open water. They scratch bedding into it, they step in it, they occasionally try to bathe in it. A horizontal nipple mounted through a bucket or pipe gives them a clean drink without giving them access to the water supply itself. Less litter contamination means less bacteria, fewer respiratory issues, and less time spent scrubbing.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Nipple drinkers reduce water contamination significantly vs. open waterers, critical for chick brooding and flock health.</li><li style="margin:5px 0">Horizontal nipples train faster than vertical; most birds figure them out within 24-48 hours.</li><li style="margin:5px 0">A 5-gallon bucket with 4-6 nipples costs under $20 to build and serves up to 12 hens comfortably.</li><li style="margin:5px 0">Nipples can freeze at 32°F; plan for heating cable or move the system indoors in winter.</li><li style="margin:5px 0">Red horizontal nipples (push-pin style) outperform cheap vertical nipples for adult hens; don't buy the 50-cent versions.</li></ul></div>
-
 
 ## Nipple Types Actually Worth Buying
 
@@ -75,10 +73,6 @@ Here's an honest side-by-side of the main waterer options most keepers are choos
 
 The DIY nipple bucket wins on cost and cleanliness by a margin that isn't close. The only real argument for a gravity bell is zero training time, which matters if you're dealing with a lot of bird turnover or running a mixed-age flock where you can't easily isolate the training.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average weekly cleaning time by waterer type (minutes)</div><div class="sc-row"><span class="sc-label">Gravity bell</span><span class="sc-track"><span class="sc-bar" style="width:72%"></span></span><span class="sc-val">18 min</span></div><div class="sc-row"><span class="sc-label">Galvanized fount</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">25 min</span></div><div class="sc-row"><span class="sc-label">DIY nipple bucket</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">5 min</span></div><div class="sc-row"><span class="sc-label">PVC nipple system</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">5 min</span></div><div class="sc-row"><span class="sc-label">Heated nipple waterer</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">5 min</span></div><div class="sc-src">Source: Mike Carter field estimates, 2026</div></div>
-
-
 ## Winter: The Part Nobody Warns You About
 
 Nipple drinkers freeze faster than open waterers. The small metal pin and surrounding plastic hold almost no thermal mass, so when temps drop to 32°F overnight, the nipple itself freezes before the water in the bucket does. I learned this the hard way in January 2021 when I walked out to a bucket of liquid water with six completely frozen nipples. The birds were fine; they'd apparently just eaten snow. Still felt terrible.
@@ -97,6 +91,5 @@ The better approach for cold climates: build a second open waterer as backup for
 - Gail Damerow, *The Chicken Health Handbook* (2nd ed.): practical water system guidance and disease prevention through sanitation
 
 ---
-
 
 *Photo: [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283) via Pexels*

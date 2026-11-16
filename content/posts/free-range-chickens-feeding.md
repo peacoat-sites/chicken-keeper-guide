@@ -31,9 +31,7 @@ That's the trap with free ranging. The idea is so appealing, and the chickens se
 
 Here's where most advice goes wrong: it treats free range feeding like a reduction problem. "They free range, so feed less." The reality is more complicated, and getting it wrong costs you in [egg production](/adding-light-for-winter-egg-production/), body condition, and eventually flock health.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Free range chickens still need 3-4 oz of quality layer feed per bird per day, even on good pasture.</li><li style="margin:5px 0">Pasture quality drops sharply after October in most climates, so seasonal feed adjustments are non-negotiable.</li><li style="margin:5px 0">Protein is the most likely deficiency: forage rarely delivers enough to sustain peak lay.</li><li style="margin:5px 0">A 16-18% protein layer feed is the minimum; bump to 20% during molt or heavy lay cycles.</li><li style="margin:5px 0">Mineral supplementation (oyster shell, free choice) remains necessary regardless of how much they forage.</li></ul></div>
-
 
 ## What Foraging Actually Provides (And What It Doesn't)
 
@@ -79,10 +77,6 @@ Scenario: A small flock keeper in suburban Ohio with 8 hens, giving two cups of 
 
 ## Seasonal Adjustments, Because the Internet Never Talks About This
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated forage contribution to nutrition by season (% of daily needs)</div><div class="sc-row"><span class="sc-label">Winter</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">5%</span></div><div class="sc-row"><span class="sc-label">Early Spring</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">12%</span></div><div class="sc-row"><span class="sc-label">Late Spring</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">25%</span></div><div class="sc-row"><span class="sc-label">Summer Peak</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">30%</span></div><div class="sc-row"><span class="sc-label">Early Fall</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">18%</span></div><div class="sc-row"><span class="sc-label">Late Fall</span><span class="sc-track"><span class="sc-bar" style="width:27%"></span></span><span class="sc-val">8%</span></div><div class="sc-src">Source: Industry estimates, USDA pasture productivity data, author observation</div></div>
-
-
 You need to think about your feeding program the way you think about your own grocery budget: it changes based on what's available. In June, your hens are probably fine on a slightly reduced feed ration if pasture is genuinely good. In December, they need more feed than a confined hen because they're burning calories staying warm AND foraging is contributing almost nothing.
 
 I adjust three times a year. Late October: increase feeder quantity, switch to 18% protein if I'm not already there. Late March: ease back slightly, watch body condition. August: watch for heat stress suppressing appetite and dropping intake below what they actually need, sometimes offer feed in the cooler morning hours only.
@@ -106,6 +100,5 @@ Water is where I've seen more free range flocks fail than almost anywhere else. 
 - Hemenway, Toby. "Gaia's Garden" (2009): Pasture productivity estimates relevant to integrated backyard systems.
 
 ---
-
 
 *Photo: [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283) via Pexels*

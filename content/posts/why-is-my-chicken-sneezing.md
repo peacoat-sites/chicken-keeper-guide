@@ -66,10 +66,6 @@ The most common culprits in backyard flocks, as of 2026, are:
 
 **Aspergillosis:** A fungal infection, not contagious bird-to-bird, but often misdiagnosed as something else. Usually traced to moldy bedding or feed.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">How quickly respiratory illnesses spread through a flock (days to full flock exposure)</div><div class="sc-row"><span class="sc-label">Infectious Bronchitis</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">3 days</span></div><div class="sc-row"><span class="sc-label">Newcastle Disease</span><span class="sc-track"><span class="sc-bar" style="width:36%"></span></span><span class="sc-val">5 days</span></div><div class="sc-row"><span class="sc-label">Mycoplasma (MG)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">14 days</span></div><div class="sc-row"><span class="sc-label">Infectious Coryza</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">7 days</span></div><div class="sc-row"><span class="sc-label">Aspergillosis</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0 days</span></div><div class="sc-src">Source: University of California Agriculture &amp; Natural Resources Poultry Extension, estimated from case reports</div></div>
-
-
 Aspergillosis gets a zero because it doesn't spread bird-to-bird at all, every case is individual exposure to mold.
 
 ## What a Sick-Bird Workup Actually Looks Like
@@ -127,6 +123,5 @@ The fix isn't complicated. High ventilation openings (above the roost level so b
 - [The Chicken Health Handbook by Gail Damerow](https://www.amazon.com/Chicken-Health-Handbook-Complete-Poultry/dp/1612120797) (2nd ed.): The single most referenced practical guide to poultry illness in the backyard flock community (disclosure: affiliate link)
 
 ---
-
 
 *Photo: [Elif Taşlı](https://www.pexels.com/@elif-tasli-889857993) via Pexels*

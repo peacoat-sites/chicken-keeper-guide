@@ -31,9 +31,7 @@ That was ten years ago, and I've gone pretty deep on herbs since. Not in a woo-w
 
 The research here is mixed, I'll be honest. Some herb benefits are well-documented. Others are anecdotal but show up so consistently across [chicken keepers](/egg-prices-crashed-but-chicken-keepers-are-staying-put/) that I can't dismiss them. What I can tell you is what I've actually tested, what made a difference I could measure, and what's mostly just pretty.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Oregano has the strongest antimicrobial evidence of any poultry herb, backed by published studies.</li><li style="margin:5px 0">Fresh or dried herbs can be scattered in the coop, added to nest boxes, or grown in a protected run garden.</li><li style="margin:5px 0">Lavender, mint, and rosemary repel mites and lice; results are good but not a substitute for full treatment.</li><li style="margin:5px 0">Never feed herbs in large concentrated doses; a handful scattered daily is plenty for a small flock.</li><li style="margin:5px 0">Calendula yolks: hens eating calendula regularly lay noticeably deeper-orange yolks within about 2-3 weeks.</li></ul></div>
-
 
 ## The Herb With Actual Science Behind It
 
@@ -48,10 +46,6 @@ Fresh oregano is also stupidly easy to grow in a raised bed near the coop, and c
 If there's one place herbs make an undeniable, immediate difference, it's the nest box. Lavender, rosemary, and mint all contain compounds that genuinely repel mites and lice. I've seen people argue about whether it "works," but what I can tell you is: I've done seasons with herb-stuffed nest boxes and seasons without. The lice pressure was noticeably lower in the herb years. Not zero, but lower.
 
 The easy approach is to grab a bundle of dried lavender (the kind sold for sachets, not sprayed with fragrance), crumble it loosely into the nest box liner with your bedding, and refresh it every couple of weeks. Rosemary holds up longer because it's woodier. Mint loses potency fast when dried, so fresh is better there if you have it.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Reported mite/lice repellency by herb (keeper survey, BackyardChickens.com community data,</div><div class="sc-row"><span class="sc-label">Lavender</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">74 % effect</span></div><div class="sc-row"><span class="sc-label">Rosemary</span><span class="sc-track"><span class="sc-bar" style="width:92%"></span></span><span class="sc-val">68 % effect</span></div><div class="sc-row"><span class="sc-label">Mint</span><span class="sc-track"><span class="sc-bar" style="width:82%"></span></span><span class="sc-val">61 % effect</span></div><div class="sc-row"><span class="sc-label">Thyme</span><span class="sc-track"><span class="sc-bar" style="width:74%"></span></span><span class="sc-val">55 % effect</span></div><div class="sc-row"><span class="sc-label">Basil</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">31 % effect</span></div><div class="sc-src">Source: BackyardChickens.com community poll, 2025</div></div>
-
 
 One thing nobody mentions: wet herbs in a nest box will mold fast. Dry first, or use fresh in small amounts you're replacing every day or two. I learned this the hard way when I discovered a disgusting lavender-and-bedding compost situation forming under one of my hens.
 
@@ -97,6 +91,5 @@ Scenario: Reader Anna, who emailed me in early 2026, had a 6-hen flock and wante
 - BackyardChickens.com community discussion threads and reader polls on nest box herb use (aggregated 2025 data).
 
 ---
-
 
 *Photo: [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels) via Pexels*

@@ -29,9 +29,7 @@ Clipping one wing takes about 90 seconds and costs nothing. That single fact fix
 
 The other 30% requires something structural. Some breeds are just wired to fly, some runs are too small and the birds are motivated to leave, and some people have already clipped wings and watched their Hamburgs clear a six-foot fence anyway. If that's you, keep reading.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Clipping one wing (not both) unbalances flight and stops most escapes; requires no tools, causes no pain.</li><li style="margin:5px 0">Lightweight breeds like Hamburgs, Leghorns, and Campines can clear 6-8 ft fences even wing-clipped; netting over the run is the only reliable fix.</li><li style="margin:5px 0">A 4-foot fence is adequate for heavy dual-purpose breeds; bantams and Mediterranean breeds need 6 feet minimum plus an overhang or net.</li><li style="margin:5px 0">Wing feathers grow back at the next molt, typically annual, so you'll need to re-clip.</li><li style="margin:5px 0">An angled fence top (45-degree overhang facing inward) stops even determined fliers without full enclosure netting.</li></ul></div>
-
 
 ## Wing Clipping: The Right Way
 
@@ -54,10 +52,6 @@ For these birds, you have two structural options: a fully enclosed run, or a fen
 The angled overhang is underrated. Take your existing fence posts and add a 12-to-18-inch arm angled inward at about 45 degrees. Run wire or netting from those arms back to the fence. A bird that attempts to land on the top of the fence instead lands on an inward-sloping surface it can't grip. I built this on a 5-foot run for my bantam flock using 1-inch conduit bent at a hardware store and basic hex netting. Cost me about $47 in materials and a Saturday morning. Zero escapes since, and that was three years ago.
 
 The full overhead net is the other path. It's more work and more money, but it's also [predator protection](/chicken-coop-predator-protection/), which is a separate argument in its own favor.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated fence height needed by breed type</div><div class="sc-row"><span class="sc-label">Heavy dual-purpose (Orpington, Plymouth Rock)</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">4 feet</span></div><div class="sc-row"><span class="sc-label">Medium breeds (Australorp, Sussex)</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">5 feet</span></div><div class="sc-row"><span class="sc-label">Light Mediterranean (Leghorn, Ancona)</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">7 feet</span></div><div class="sc-row"><span class="sc-label">Bantams (all types)</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">7 feet</span></div><div class="sc-row"><span class="sc-label">Hamburgs, Campines</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">8 feet</span></div><div class="sc-src">Source: Backyard flock management experience + Henderson breed testing</div></div>
-
 
 ## Fence Options: What Actually Works
 
@@ -100,6 +94,5 @@ A flock I managed briefly in 2023 had three Black Sexlinks clearing a five-foot 
 - [Murray McMurray Hatchery breed descriptions (mcmurrayhatchery.com)](https://www.mcmurrayhatchery.com): Current as of July 2026; breed-specific flight tendency notes.
 
 ---
-
 
 *Photo: [Karolina Grabowska www.kaboompics.com](https://www.pexels.com/@karola-g2) via Pexels*

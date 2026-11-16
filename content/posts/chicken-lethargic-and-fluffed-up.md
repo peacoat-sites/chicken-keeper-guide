@@ -31,9 +31,7 @@ If you're reading this, you've probably got a hen standing in the corner of the 
 
 Here's what I tell people who reach out with this scenario: don't start by Googling symptoms and spiraling. Start by actually looking at the bird. I mean really looking.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A fluffed, lethargic hen is showing two classic signs of illness, together, they're a serious signal to act within 24 hours.</li><li style="margin:5px 0">The most common causes are respiratory infection, egg binding, coccidiosis, and Marek's disease, each requiring different treatment.</li><li style="margin:5px 0">Check the vent, crop, and breathing first, these three spots give you 80% of the diagnostic information you need.</li><li style="margin:5px 0">Egg binding can kill a hen in 24-48 hours if untreated; a warm soak is your first move while you call a vet.</li><li style="margin:5px 0">Corid (amprolium) for coccidiosis costs around $15-20 and can save a bird's life if started within the first 48 hours of symptoms.</li></ul></div>
-
 
 ## Start With Your Eyes, Not Google
 
@@ -72,10 +70,6 @@ The table below reflects what I've seen over a decade and aligns with guidance f
 | Squishy, sour-smelling crop in the morning | Sour crop | Massage, restrict feed, antifungal | If severe/chronic |
 | Hard lump in crop, not eating | Impacted crop | Massage, fluffy feed, watch closely | If not resolving in 24h |
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">How often I've seen each condition in a lethargic/fluffed hen (estimated % of cases)</div><div class="sc-row"><span class="sc-label">Respiratory illness</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">38%</span></div><div class="sc-row"><span class="sc-label">Egg binding</span><span class="sc-track"><span class="sc-bar" style="width:58%"></span></span><span class="sc-val">22%</span></div><div class="sc-row"><span class="sc-label">Coccidiosis</span><span class="sc-track"><span class="sc-bar" style="width:45%"></span></span><span class="sc-val">17%</span></div><div class="sc-row"><span class="sc-label">Marek's disease</span><span class="sc-track"><span class="sc-bar" style="width:26%"></span></span><span class="sc-val">10%</span></div><div class="sc-row"><span class="sc-label">Crop issues</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">8%</span></div><div class="sc-row"><span class="sc-label">Other/unknown</span><span class="sc-track"><span class="sc-bar" style="width:13%"></span></span><span class="sc-val">5%</span></div><div class="sc-src">Source: Mike Carter personal flock records, 2016-2026</div></div>
-
-
 ## The Isolation Step Most People Skip
 
 The moment you have a sick bird, she goes in a separate space. Not tomorrow, not after you figure out what's wrong. Now. I set up a large dog crate (I use a 42-inch Midwest iCrate) in my garage with a [heat lamp](/heat-lamp-for-chicks/) or a Sweeter Heater panel clipped to the side, keeping ambient temperature around 85-90°F. Sick chickens can't regulate their body temperature well, that's half of why they're puffing their feathers, to trap warmth. Keeping them warm reduces the metabolic load on their system while everything else is wrong.
@@ -101,6 +95,5 @@ I thought for years that I could assess a sick bird while she was still in the f
 - The Chicken Health Handbook by Gail Damerow (Storey Publishing, 2nd ed.): The most thorough reference I've found for small flock health, if you don't own this book, fix that
 
 ---
-
 
 *Photo: [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283) via Pexels*

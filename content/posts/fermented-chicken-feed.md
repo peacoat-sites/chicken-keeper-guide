@@ -20,9 +20,7 @@ Here's what you need to know upfront: fermentation isn't magic, it's microbiolog
 
 What surprised me was how hard this is to find clearly written up. Most sources either treat it like a mystical folk practice or oversimplify it to the point of uselessness.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Fermented feed can reduce daily feed consumption by 15-25% per bird due to improved digestibility.</li><li style="margin:5px 0">Fermentation lowers phytic acid by up to 60%, meaningfully improving mineral absorption (Wageningen University data).</li><li style="margin:5px 0">The process takes 3-4 days at room temperature and costs almost nothing extra to start.</li><li style="margin:5px 0">Wet fermented feed spoils faster, do not leave uneaten portions in the coop for more than a few hours in summer.</li><li style="margin:5px 0">Lacto-fermented feed is different from fermented grains or sprouted grain; the biology and outcomes differ.</li></ul></div>
-
 
 ## What Actually Happens During Fermentation
 
@@ -48,10 +46,6 @@ Here's a comparison of fermented vs. dry feed across the metrics that actually m
 | Labor | None | 5-10 min/day | Batch rotation required |
 | Cost to start | $0 extra | $8-15 for food-grade buckets | One-time setup |
 | Campylobacter risk reduction | Baseline | Meaningful reduction | U Copenhagen, 2014 |
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Daily feed consumption per hen (lbs)</div><div class="sc-row"><span class="sc-label">Dry pellets</span><span class="sc-track"><span class="sc-bar" style="width:93%"></span></span><span class="sc-val">0.2 lbs</span></div><div class="sc-row"><span class="sc-label">Fermented pellets</span><span class="sc-track"><span class="sc-bar" style="width:74%"></span></span><span class="sc-val">0.2 lbs</span></div><div class="sc-row"><span class="sc-label">Fermented whole grain</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">0.2 lbs</span></div><div class="sc-row"><span class="sc-label">Dry whole grain</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">0.3 lbs</span></div><div class="sc-src">Source: Mike Carter, flock records 2025-2026</div></div>
-
 
 The fermented whole grain number surprised me too. Whole grains ferment more completely than processed pellets because there's more intact starch for the bacteria to work with. That said, if your birds aren't used to whole grain rations, don't switch cold turkey. Mix it in over two weeks or you'll see a temporary drop in production.
 

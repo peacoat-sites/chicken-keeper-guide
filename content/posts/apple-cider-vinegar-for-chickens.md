@@ -31,9 +31,7 @@ The number that surprised me most when I started digging: a 2012 study published
 
 Here's what I know from 10 years and somewhere north of 60 hens at a time: ACV is a legitimate tool with a narrow, specific job description. Use it right, and it earns its place in your coop routine. Use it wrong, and at best you've wasted money; at worst, you've corroded your galvanized waterers and given yourself a false sense of flock security while a real problem goes untreated.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Use raw, unfiltered ACV with the "mother" at 1 tablespoon per gallon of water, not more.</li><li style="margin:5px 0">ACV lowers drinking water pH, which modestly supports gut health and may reduce harmful bacteria.</li><li style="margin:5px 0">Never use ACV in galvanized metal waterers, the acidity corrodes zinc, which is toxic to chickens.</li><li style="margin:5px 0">No credible evidence supports ACV as a dewormer or respiratory treatment; don't rely on it for either.</li><li style="margin:5px 0">Plastic or rubber waterers only; rotate ACV weeks on/off rather than dosing every single day.</li></ul></div>
-
 
 ## What ACV Actually Does (and Doesn't)
 
@@ -50,10 +48,6 @@ It also won't clear up [respiratory illness](/respiratory-illness-chickens/). No
 The dosage consensus, supported by most of the broiler research, lands at 0.5% to 1% concentration. In practical terms for backyard keepers, that's 1 tablespoon per gallon of water. Some sources push up to 2 tablespoons. I'd stay at 1. Higher concentrations don't appear to add benefit and may reduce water palatability enough that hens drink less, which is a real problem in [summer heat](/how-to-keep-chickens-cool-in-summer-heat/).
 
 Here's the galvanized issue, and it's not minor. Acetic acid reacts with zinc in galvanized steel to produce zinc acetate. Zinc toxicity in poultry causes lethargy, anorexia, and eventually organ failure. If you're running a basic round galvanized waterer (the kind that costs $12 at Tractor Supply), do not put ACV in it. Full stop. Switch to a plastic poultry waterer (Harris Farms makes a decent 3-gallon plastic model for around $18) or a rubber tub.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Reported water pH by ACV concentration in plastic waterers</div><div class="sc-row"><span class="sc-label">No ACV (baseline)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">7.2 pH</span></div><div class="sc-row"><span class="sc-label">0.5% ACV (1 tbsp/gal)</span><span class="sc-track"><span class="sc-bar" style="width:89%"></span></span><span class="sc-val">6.4 pH</span></div><div class="sc-row"><span class="sc-label">1% ACV (2 tbsp/gal)</span><span class="sc-track"><span class="sc-bar" style="width:82%"></span></span><span class="sc-val">5.9 pH</span></div><div class="sc-row"><span class="sc-label">2% ACV (4 tbsp/gal)</span><span class="sc-track"><span class="sc-bar" style="width:74%"></span></span><span class="sc-val">5.3 pH</span></div><div class="sc-src">Source: Poultry Science 2012 / Backyard flock observations</div></div>
-
 
 That pH drop from 7.2 to 6.4 at the standard dose is meaningful. Most pathogenic gut bacteria prefer a neutral to slightly alkaline environment. You're not sterilizing anything, but you're shifting conditions in a direction that modestly favors the hen's beneficial gut flora.
 
@@ -90,6 +84,5 @@ Scenario three, more positive: a backyard keeper in a Facebook group I moderate 
 - Ricke, S.C. (2003), *Poultry Science*: Perspectives on the use of organic acids and short chain fatty acids as antimicrobials in poultry production.
 
 ---
-
 
 *Photo: [Anil  Sharma](https://www.pexels.com/@shootsaga) via Pexels*

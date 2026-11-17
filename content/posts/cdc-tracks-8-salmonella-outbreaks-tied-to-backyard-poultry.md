@@ -60,10 +60,10 @@ The CDC is updating the outbreak investigation page continuously. Check it. Know
 
 ## Sources
 
-- [CDC ,  Salmonella Outbreaks Linked to Backyard Poultry (Active Investigation)](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/index.html) (June 17, 2026, updated continuously)
-- [CDC Newsroom ,  Update: Ongoing Salmonella Outbreaks Linked to Backyard Poultry](https://www.cdc.gov/media/releases/2026/2026-update-ongoing-salmonella-outbreaks-linked-to-backyard-poultry-sickens-150-more-people-with-over.html) (May 14, 2026)
-- [CIDRAP ,  CDC Confirms New Salmonella Outbreak Linked to Backyard Poultry](https://www.cidrap.umn.edu/salmonella/cdc-confirms-new-salmonella-outbreak-linked-backyard-poultry) (April 27, 2026)
-- [Food Poison Journal ,  Salmonella Outbreaks of 2026: Poultry, Oysters and Moringa](https://www.foodpoisonjournal.com/food-poisoning-information/salmonella-outbreaks-of-2026-poultry-oysters-and-moringa/) (May 2026)
-- [The Poultry Site ,  US Salmonella Outbreaks Linked to Backyard Poultry](https://www.thepoultrysite.com/news/2026/05/us-salmonella-outbreaks-linked-to-backyard-poultry) (May 15, 2026)
+- [CDC, Salmonella Outbreaks Linked to Backyard Poultry (Active Investigation)](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/index.html) (June 17, 2026, updated continuously)
+- [CDC Newsroom, Update: Ongoing Salmonella Outbreaks Linked to Backyard Poultry](https://www.cdc.gov/media/releases/2026/2026-update-ongoing-salmonella-outbreaks-linked-to-backyard-poultry-sickens-150-more-people-with-over.html) (May 14, 2026)
+- [CIDRAP, CDC Confirms New Salmonella Outbreak Linked to Backyard Poultry](https://www.cidrap.umn.edu/salmonella/cdc-confirms-new-salmonella-outbreak-linked-backyard-poultry) (April 27, 2026)
+- [Food Poison Journal, Salmonella Outbreaks of 2026: Poultry, Oysters and Moringa](https://www.foodpoisonjournal.com/food-poisoning-information/salmonella-outbreaks-of-2026-poultry-oysters-and-moringa/) (May 2026)
+- [The Poultry Site, US Salmonella Outbreaks Linked to Backyard Poultry](https://www.thepoultrysite.com/news/2026/05/us-salmonella-outbreaks-linked-to-backyard-poultry) (May 15, 2026)
 
 *Photo: [Atlantic Ambience](https://www.pexels.com/@freestockpro) via Pexels*

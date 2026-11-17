@@ -64,10 +64,10 @@ The Australian arrival of H5N1 isn't just a news story for poultry farmers on on
 
 ## Sources
 
-- [Australian Government Department of Agriculture, Fisheries and Forestry ,  Bird Flu Campaign Page](https://www.agriculture.gov.au/campaigns/birdflu) (Updated August 3, 2026)
-- [Lockton Australia ,  H5N1 Has Arrived: What the End of Australia's Bird Flu Freedom Means for Poultry Producers](https://global.lockton.com/au/en/news-insights/h5n1-has-arrived-what-the-end-of-australias-bird-flu-freedom-means-for-poultry-producers) (~July 21, 2026)
-- [Al Jazeera ,  Australia Warns H5N1 Likely to Spread After First Mass Mortality Episode](https://www.aljazeera.com/news/2026/8/3/australia-warns-h5n1-likely-to-spread-after-first-mass-mortality-episode) (August 3, 2026)
-- [Victorian Farmers Federation ,  H5 Bird Flu](https://vff.org.au/h5-bird-flu/) (June–July 2026)
-- [ESS Feed ,  Avian Influenza 2026: Global Bird Flu Situation, Spread & Outlook](https://essfeed.com/avian-influenza-global-situation-july-2026/) (~July 2026)
+- [Australian Government Department of Agriculture, Fisheries and Forestry, Bird Flu Campaign Page](https://www.agriculture.gov.au/campaigns/birdflu) (Updated August 3, 2026)
+- [Lockton Australia, H5N1 Has Arrived: What the End of Australia's Bird Flu Freedom Means for Poultry Producers](https://global.lockton.com/au/en/news-insights/h5n1-has-arrived-what-the-end-of-australias-bird-flu-freedom-means-for-poultry-producers) (~July 21, 2026)
+- [Al Jazeera, Australia Warns H5N1 Likely to Spread After First Mass Mortality Episode](https://www.aljazeera.com/news/2026/8/3/australia-warns-h5n1-likely-to-spread-after-first-mass-mortality-episode) (August 3, 2026)
+- [Victorian Farmers Federation, H5 Bird Flu](https://vff.org.au/h5-bird-flu/) (June–July 2026)
+- [ESS Feed, Avian Influenza 2026: Global Bird Flu Situation, Spread & Outlook](https://essfeed.com/avian-influenza-global-situation-july-2026/) (~July 2026)
 
 *Photo: [James Collington](https://www.pexels.com/@james-collington-2147687246) via Pexels*

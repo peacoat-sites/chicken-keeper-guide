@@ -72,10 +72,10 @@ Most people who get chickens don't regret it. The ones who struggle are usually 
 
 ## Sources
 
-- [2026 USDA Poultry Rule Changes ,  Backyard Poultry Magazine](https://backyardpoultry.iamcountryside.com/poultry-101/2026-usda-poultry-rule-changes-zm0z26jjzols/) (May 27, 2026)
-- [City of Mankato Approves Amendment to Allow Backyard Chickens ,  KEYC](https://www.keyc.com/2026/07/15/city-mankato-approves-amendment-to-allow-backyard-chickens/) (July 14, 2026)
-- [Raising Backyard Chickens Won't Guarantee You a Profit ,  Yahoo Life](https://www.yahoo.com/lifestyle/articles/raising-backyard-chickens-won-t-163103466.html) (July 1, 2026)
-- [USDA Proposes Delaying Poultry Industry Rule ,  Civil Eats](https://civileats.com/2026/03/19/usda-proposes-delaying-poultry-industry-rule/) (March 19, 2026)
-- [January 1, 2026: USDA Tightens 'Product of USA' Labels ,  Juris Law Group](https://jurislawgroup.com/january-1-2026-usda-tightens-product-of-usa-labels-for-meat-poultry-and-eggs/) (January 1, 2026)
+- [2026 USDA Poultry Rule Changes, Backyard Poultry Magazine](https://backyardpoultry.iamcountryside.com/poultry-101/2026-usda-poultry-rule-changes-zm0z26jjzols/) (May 27, 2026)
+- [City of Mankato Approves Amendment to Allow Backyard Chickens, KEYC](https://www.keyc.com/2026/07/15/city-mankato-approves-amendment-to-allow-backyard-chickens/) (July 14, 2026)
+- [Raising Backyard Chickens Won't Guarantee You a Profit, Yahoo Life](https://www.yahoo.com/lifestyle/articles/raising-backyard-chickens-won-t-163103466.html) (July 1, 2026)
+- [USDA Proposes Delaying Poultry Industry Rule, Civil Eats](https://civileats.com/2026/03/19/usda-proposes-delaying-poultry-industry-rule/) (March 19, 2026)
+- [January 1, 2026: USDA Tightens 'Product of USA' Labels, Juris Law Group](https://jurislawgroup.com/january-1-2026-usda-tightens-product-of-usa-labels-for-meat-poultry-and-eggs/) (January 1, 2026)
 
 *Photo: [Ramdas Aswale](https://www.pexels.com/@ramdasaswale) via Pexels*

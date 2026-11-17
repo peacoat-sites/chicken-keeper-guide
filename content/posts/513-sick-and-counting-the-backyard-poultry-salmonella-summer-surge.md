@@ -72,10 +72,10 @@ The chickens in your backyard are probably fine and your family can stay healthy
 
 ## Sources
 
-- [CDC , Salmonella Outbreaks Linked to Backyard Poultry](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/index.html) (Updated June 2026)
-- [CDC Newsroom , UPDATE: Ongoing Salmonella Outbreaks Linked to Backyard Poultry](https://www.cdc.gov/media/releases/2026/2026-update-ongoing-salmonella-outbreaks-linked-to-backyard-poultry-sickens-150-more-people-with-over.html) (May 14, 2026)
-- [Medical Daily , Your Backyard Chickens Could Make Your Child Seriously Ill, CDC Warns](https://www.medicaldaily.com/backyard-chickens-salmonella-outbreak-2026-children-warning-cdc-475799) (June 25, 2026)
-- [Food Poison Journal , Salmonella Outbreaks of 2026: Poultry, Oysters and Moringa](https://www.foodpoisonjournal.com/food-poisoning-information/salmonella-outbreaks-of-2026-poultry-oysters-and-moringa/) (May 2026)
-- [CDC , Investigation Update: Salmonella Outbreaks, April 2026](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/investigation.html) (Updated May 2026)
+- [CDC, Salmonella Outbreaks Linked to Backyard Poultry](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/index.html) (Updated June 2026)
+- [CDC Newsroom, UPDATE: Ongoing Salmonella Outbreaks Linked to Backyard Poultry](https://www.cdc.gov/media/releases/2026/2026-update-ongoing-salmonella-outbreaks-linked-to-backyard-poultry-sickens-150-more-people-with-over.html) (May 14, 2026)
+- [Medical Daily, Your Backyard Chickens Could Make Your Child Seriously Ill, CDC Warns](https://www.medicaldaily.com/backyard-chickens-salmonella-outbreak-2026-children-warning-cdc-475799) (June 25, 2026)
+- [Food Poison Journal, Salmonella Outbreaks of 2026: Poultry, Oysters and Moringa](https://www.foodpoisonjournal.com/food-poisoning-information/salmonella-outbreaks-of-2026-poultry-oysters-and-moringa/) (May 2026)
+- [CDC, Investigation Update: Salmonella Outbreaks, April 2026](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/investigation.html) (Updated May 2026)
 
 *Photo: [Speak Media Uganda](https://www.pexels.com/@speakmediauganda) via Pexels*

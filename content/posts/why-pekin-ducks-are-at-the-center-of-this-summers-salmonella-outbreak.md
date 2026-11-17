@@ -69,8 +69,8 @@ If any of your birds came from a feed store or hatchery since January and you ha
 
 ## Sources
 
-- [CDC Salmonella Outbreaks Linked to Backyard Poultry ,  Investigation Update](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/investigation.html) (June 25, 2026)
-- [The Backyard Poultry Salmonella Outbreak Is Still Active with 513 Cases ,  Summer Is Peak Season](https://www.medicaldaily.com/backyard-poultry-salmonella-outbreak-513-cases-summer-2026-cdc-475846) (June 30, 2026)
+- [CDC Salmonella Outbreaks Linked to Backyard Poultry, Investigation Update](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/investigation.html) (June 25, 2026)
+- [The Backyard Poultry Salmonella Outbreak Is Still Active with 513 Cases, Summer Is Peak Season](https://www.medicaldaily.com/backyard-poultry-salmonella-outbreak-513-cases-summer-2026-cdc-475846) (June 30, 2026)
 - [Your Backyard Chickens Could Make Your Child Seriously Ill, CDC Warns Families](https://www.medicaldaily.com/backyard-chickens-salmonella-outbreak-2026-children-warning-cdc-475799) (June 25, 2026)
 - [Backyard Chickens and Ducks Turn Deadly with Salmonella](https://www.marlerblog.com/case-news/backyard-chickens-and-ducks-turn-deadly-with-salmonella/) (May 15, 2026)
 - [Outbreak Numbers Related to Backyard Poultry Flocks Rising Quickly](https://www.foodsafetynews.com/2026/05/outbreak-numbers-related-to-backyard-poultry-flocks-rising-quickly/) (May 27, 2026)

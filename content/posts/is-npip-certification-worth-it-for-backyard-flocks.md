@@ -19,7 +19,7 @@ The August/September 2026 issue of *Backyard Poultry* magazine put NPIP certific
 The honest answer depends on what you're doing with your birds. If you're keeping six Easter Eggers in the yard for eggs and entertainment, NPIP probably doesn't change your life. But if you're selling [hatching eggs](/hatching-eggs-under-broody-hen/) on Etsy, shipping started pullets, or trying to establish yourself as a small breeder with any kind of reputation, the calculus shifts fast.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most states require NPIP certification for birds shipped across state lines ,  non-negotiable for online sellers.</li><li style="margin:5px 0">Basic NPIP certification tests for Salmonella, Mycoplasma, and low-path Avian Influenza.</li><li style="margin:5px 0">With 11 million backyard flocks in 2025 (up from 5.8M in 2018), millions of new keepers face this question for the first time.</li><li style="margin:5px 0">HPAI detections in backyard flocks continued through mid-2026, making disease status documentation increasingly relevant.</li><li style="margin:5px 0">NC regained HPAI-free status only June 12, 2026, showing how quickly regional status can flip and disrupt shipping.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most states require NPIP certification for birds shipped across state lines, non-negotiable for online sellers.</li><li style="margin:5px 0">Basic NPIP certification tests for Salmonella, Mycoplasma, and low-path Avian Influenza.</li><li style="margin:5px 0">With 11 million backyard flocks in 2025 (up from 5.8M in 2018), millions of new keepers face this question for the first time.</li><li style="margin:5px 0">HPAI detections in backyard flocks continued through mid-2026, making disease status documentation increasingly relevant.</li><li style="margin:5px 0">NC regained HPAI-free status only June 12, 2026, showing how quickly regional status can flip and disrupt shipping.</li></ul></div>
 
 
 ## What NPIP Actually Tests For
@@ -73,10 +73,10 @@ The H5N1 situation has made buyers more cautious and state import rules harder t
 ## Sources
 
 - [Backyard Poultry August/September 2026 Issue](https://backyardpoultry.iamcountryside.com/issues/backyard-poultry-august-september-2026/) (August 2026)
-- [NC Agriculture ,  HPAI Free Status Regained June 12, 2026](https://www.ncagr.gov/divisions/veterinary/AvianInfluenza) (June 2026)
+- [NC Agriculture, HPAI Free Status Regained June 12, 2026](https://www.ncagr.gov/divisions/veterinary/AvianInfluenza) (June 2026)
 - [Massachusetts HPAI Backyard Flock Depopulation, January 2026](https://www.mass.gov/info-details/avian-influenza) (January 2026)
-- [NPIP Certification: The Complete Guide (2026) ,  FarmKeep](https://www.farmkeep.com/farm-guides/farm-management/npip-certification) (March 2026)
-- [NPIP Certified Hatcheries: Why It Matters ,  Backyard Poultry](https://backyardpoultry.iamcountryside.com/feed-health/npip-certification-why-it-matters-when-buying-chicks/) (February 2026)
-- [Raising Backyard Chickens in 2026 ,  AOL/Ryan Brennan](https://www.aol.com/news/raising-backyard-chickens-2026-build-201003866.html) (June 30, 2026)
+- [NPIP Certification: The Complete Guide (2026), FarmKeep](https://www.farmkeep.com/farm-guides/farm-management/npip-certification) (March 2026)
+- [NPIP Certified Hatcheries: Why It Matters, Backyard Poultry](https://backyardpoultry.iamcountryside.com/feed-health/npip-certification-why-it-matters-when-buying-chicks/) (February 2026)
+- [Raising Backyard Chickens in 2026, AOL/Ryan Brennan](https://www.aol.com/news/raising-backyard-chickens-2026-build-201003866.html) (June 30, 2026)
 
 *Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*

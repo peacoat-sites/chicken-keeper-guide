@@ -68,10 +68,10 @@ The outbreak is active, it's large, and the birds most likely to be carrying one
 
 ## Sources
 
-- [CDC ,  Salmonella Outbreaks Linked to Backyard Poultry (Investigation Page)](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/index.html) (June 17, 2026)
-- [MedicalDaily ,  Backyard Poultry Salmonella Outbreak Is Still Active with 513 Cases](https://www.medicaldaily.com/backyard-poultry-salmonella-outbreak-513-cases-summer-2026-cdc-475846) (June 30, 2026)
-- [CDC Newsroom ,  UPDATE: Ongoing Salmonella outbreaks linked to backyard poultry](https://www.cdc.gov/media/releases/2026/2026-update-ongoing-salmonella-outbreaks-linked-to-backyard-poultry-sickens-150-more-people-with-over.html) (May 14, 2026)
-- [Food Poison Journal ,  Salmonella Outbreaks of 2026](https://www.foodpoisonjournal.com/food-poisoning-information/salmonella-outbreaks-of-2026-poultry-oysters-and-moringa/) (May 31, 2026)
-- [CDC ,  Investigation Update: Salmonella Outbreaks, April 2026](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/investigation.html) (June 17, 2026)
+- [CDC, Salmonella Outbreaks Linked to Backyard Poultry (Investigation Page)](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/index.html) (June 17, 2026)
+- [MedicalDaily, Backyard Poultry Salmonella Outbreak Is Still Active with 513 Cases](https://www.medicaldaily.com/backyard-poultry-salmonella-outbreak-513-cases-summer-2026-cdc-475846) (June 30, 2026)
+- [CDC Newsroom, UPDATE: Ongoing Salmonella outbreaks linked to backyard poultry](https://www.cdc.gov/media/releases/2026/2026-update-ongoing-salmonella-outbreaks-linked-to-backyard-poultry-sickens-150-more-people-with-over.html) (May 14, 2026)
+- [Food Poison Journal, Salmonella Outbreaks of 2026](https://www.foodpoisonjournal.com/food-poisoning-information/salmonella-outbreaks-of-2026-poultry-oysters-and-moringa/) (May 31, 2026)
+- [CDC, Investigation Update: Salmonella Outbreaks, April 2026](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/investigation.html) (June 17, 2026)
 
 *Photo: [Keira Burton](https://www.pexels.com/@keira-burton) via Pexels*

@@ -67,9 +67,9 @@ The broader situation, five strains, seven hatcheries, ducks in the spotlight fo
 ## Sources
 
 - [CDC Investigation Update: Salmonella Outbreaks Linked to Backyard Poultry (Saintpaul, April 2026)](https://www.cdc.gov/salmonella/outbreaks/saintpaul-04-26/investigation.html) (May-June 2026, ongoing updates)
-- [Your Backyard Chickens Could Make Your Child Seriously Ill, CDC Warns Families , Medical Daily](https://www.medicaldaily.com/backyard-chickens-salmonella-outbreak-2026-children-warning-cdc-475799) (June 25, 2026)
-- [Outbreak Numbers Related to Backyard Poultry Flocks Rising Quickly , Food Safety News](https://www.foodsafetynews.com/2026/05/outbreak-numbers-related-to-backyard-poultry-flocks-rising-quickly/) (May 27, 2026)
-- [CDC UPDATE: Ongoing Salmonella Outbreaks Linked to Backyard Poultry Sickens 150 More People , CDC Newsroom](https://www.cdc.gov/media/releases/2026/2026-update-ongoing-salmonella-outbreaks-linked-to-backyard-poultry-sickens-150-more-people-with-over.html) (May 14, 2026)
-- [US Salmonella Outbreaks Linked to Backyard Poultry , The Poultry Site](https://www.thepoultrysite.com/news/2026/05/us-salmonella-outbreaks-linked-to-backyard-poultry) (May 15, 2026)
+- [Your Backyard Chickens Could Make Your Child Seriously Ill, CDC Warns Families, Medical Daily](https://www.medicaldaily.com/backyard-chickens-salmonella-outbreak-2026-children-warning-cdc-475799) (June 25, 2026)
+- [Outbreak Numbers Related to Backyard Poultry Flocks Rising Quickly, Food Safety News](https://www.foodsafetynews.com/2026/05/outbreak-numbers-related-to-backyard-poultry-flocks-rising-quickly/) (May 27, 2026)
+- [CDC UPDATE: Ongoing Salmonella Outbreaks Linked to Backyard Poultry Sickens 150 More People, CDC Newsroom](https://www.cdc.gov/media/releases/2026/2026-update-ongoing-salmonella-outbreaks-linked-to-backyard-poultry-sickens-150-more-people-with-over.html) (May 14, 2026)
+- [US Salmonella Outbreaks Linked to Backyard Poultry, The Poultry Site](https://www.thepoultrysite.com/news/2026/05/us-salmonella-outbreaks-linked-to-backyard-poultry) (May 15, 2026)
 
 *Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*

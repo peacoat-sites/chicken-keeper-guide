@@ -61,10 +61,10 @@ The 85 million chickens living in American backyards right now didn't get there 
 
 ## Sources
 
-- [Raising backyard chickens won't guarantee you a profit. Here's why that's not stopping anyone in 2026 ,  Yahoo Finance](https://www.yahoo.com/lifestyle/articles/raising-backyard-chickens-won-t-163103466.html) (July 1, 2026)
-- [Backyard Poultry ,  June/July 2026 Issue](https://backyardpoultry.iamcountryside.com/issues/backyard-poultry-june-july-2026/) (June 2026)
-- [Backyard Chickens: Poultry, Pets, or Something In Between? ,  Psychology Today](https://www.psychologytoday.com/us/blog/animal-minds/202401/backyard-chickens-poultry-pets-or-something-in-between) (January 2024)
-- [The Rise of Emotional Support Chickens ,  First Saturday Lime](https://firstsaturdaylime.com/blogs/chickens/the-rise-of-emotional-support-chickens) (September 2024)
-- [2026 USDA Poultry Rule Changes ,  Backyard Poultry](https://backyardpoultry.iamcountryside.com/poultry-101/2026-usda-poultry-rule-changes-zm0z26jjzols/) (May 27, 2026)
+- [Raising backyard chickens won't guarantee you a profit. Here's why that's not stopping anyone in 2026, Yahoo Finance](https://www.yahoo.com/lifestyle/articles/raising-backyard-chickens-won-t-163103466.html) (July 1, 2026)
+- [Backyard Poultry, June/July 2026 Issue](https://backyardpoultry.iamcountryside.com/issues/backyard-poultry-june-july-2026/) (June 2026)
+- [Backyard Chickens: Poultry, Pets, or Something In Between?, Psychology Today](https://www.psychologytoday.com/us/blog/animal-minds/202401/backyard-chickens-poultry-pets-or-something-in-between) (January 2024)
+- [The Rise of Emotional Support Chickens, First Saturday Lime](https://firstsaturdaylime.com/blogs/chickens/the-rise-of-emotional-support-chickens) (September 2024)
+- [2026 USDA Poultry Rule Changes, Backyard Poultry](https://backyardpoultry.iamcountryside.com/poultry-101/2026-usda-poultry-rule-changes-zm0z26jjzols/) (May 27, 2026)
 
 *Photo: [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283) via Pexels*

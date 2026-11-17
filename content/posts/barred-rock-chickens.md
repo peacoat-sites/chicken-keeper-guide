@@ -23,7 +23,7 @@ faqs:
     a: "Some can be, especially hatchery-sourced birds. Heritage lines with deliberate temperament selection tend to produce calmer roosters. Socialization from a young age (handling regularly as chicks) makes a measurable difference. A rooster that's handled daily as a young bird is rarely a problem adult."
   - q: "Do Barred Rocks go broody?"
     a: "Occasionally, but they're not known as strong brooders. Production-line birds rarely go broody at all. If you want a hen who'll reliably hatch and raise chicks, look at Cochins or Silkies. A Barred Rock broody is a pleasant surprise, not something to count on."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Barred Rocks are the chicken that converted me. I was a skeptical new keeper in 2015, convinced I wanted something exotic, something with personality and flair. A neighbor handed me three Barred Rock pullets almost apologetically, like she was giving me the basic option. Those three birds outlaid, outperformed, and outlasted every "interesting" breed I brought in over the next four years. So yes, I'm biased. But I'm biased because the data earned it.

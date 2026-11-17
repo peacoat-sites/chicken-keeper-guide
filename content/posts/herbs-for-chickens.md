@@ -1,6 +1,7 @@
 ---
 title: "Best Herbs for Chickens: Boost Health and Egg Production"
 date: 2026-08-16T05:39:13.824034+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover which herbs improve chicken health, immunity, and egg laying. Learn how to grow and feed herbs to your backyard flock safely."
 image: "/img/heroes/38279069.jpg"

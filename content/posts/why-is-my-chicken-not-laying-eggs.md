@@ -1,6 +1,7 @@
 ---
 title: "Why Hens Stop Laying: 9 Common Causes and Fixes"
 date: 2026-07-09T08:39:18.384410+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Find out exactly why your chicken stopped laying eggs and what you can do to get her back on track fast with these proven solutions."
 image: "/img/heroes/31056807.jpg"

@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Nobody warned me that my "cheap" backyard egg setup would cost me $1,400 before a single hen laid her first egg. I'd read all the beginner guides. I bought the $89 starter coop from Tractor Supply, grabbed six chicks at $4.99 each from the local feed store, and figured I was being smart and frugal. I was not.
 

@@ -12,7 +12,7 @@ author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
 slug: "what-the-cdcs-new-backyard-flock-survey-found-about-hpai"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you've got a backyard flock right now, you might be wondering whether all the HPAI news is something you actually need to pay attention to or just background noise from the commercial poultry industry. I get it. Most of us got into backyard chickens specifically because we wanted something small, personal, and manageable. But a CDC survey published in MMWR on May 14, 2026 is worth sitting with, because what it found is a genuine gap between how aware backyard flock owners think they are and how prepared they actually are.
 

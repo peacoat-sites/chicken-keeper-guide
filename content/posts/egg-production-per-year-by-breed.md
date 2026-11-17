@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people pick chickens based on looks. They fall for a photo of a fluffy Silkie or a dramatic Ayam Cemani and buy six of them before asking the obvious question: how many eggs will I actually get? Then they spend a year collecting three eggs every two days from birds that eat as much as any other hen, and they wonder why their "backyard flock" costs more than buying eggs at the farmers market. Breed selection is one of the most important decisions you'll make as a chicken keeper, and egg production numbers are often understated in hatchery descriptions.
 

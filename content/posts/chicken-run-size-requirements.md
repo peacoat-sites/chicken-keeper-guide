@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A flock of six hens in a 6x6 foot run. Looks fine on paper, right? That's 36 square feet, or 6 square feet per bird. You'll see that exact number on dozens of websites and it technically hits the minimum recommendation. In practice, a 6x6 run for six standard-size chickens often results in bare dirt, stressed birds, and a pecking order enforced with blood. Space matters more than beginners realize. Those minimums printed in guides? They're the bare minimum to survive, not thrive.
 

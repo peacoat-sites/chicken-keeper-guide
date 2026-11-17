@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Many chicken keepers start giving treats with the best intentions and accidentally turn their flock into picky, nutritionally-compromised birds. It's easy to do: tossing scratch grains, bread crusts, and leftover pasta seems harmless, especially when the hens eagerly devour it. But egg production often suffers as a result.
 

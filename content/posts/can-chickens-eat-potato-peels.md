@@ -1,6 +1,7 @@
 ---
 title: "Can Chickens Eat Potato Peels? What 100 Farmers Know"
 date: 2026-07-23T07:46:08.071372+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn if potato peels are safe for chickens. Discover nutrition facts, feeding guidelines, and what poultry experts recommend for your flock."
 image: "/img/heroes/5704306.jpg"

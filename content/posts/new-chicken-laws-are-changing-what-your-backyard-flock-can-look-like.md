@@ -1,6 +1,7 @@
 ---
 title: "New Chicken Laws Are Changing What Your Backyard Flock Can Look Like"
 date: 2026-07-08T07:43:06.430736+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how new chicken laws are reshaping backyard flocks nationwide. Learn what regulations mean for flock size, breeds, and coops in your area."
 image: "https://images.pexels.com/photos/5864220/pexels-photo-5864220.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

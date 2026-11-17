@@ -1,6 +1,7 @@
 ---
 title: "Egg Prices Crashed But the Chicken Boom Keeps Going"
 date: 2026-07-20T08:17:02.880175+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Egg prices have plummeted, yet the chicken industry continues its rapid expansion. Learn why demand remains strong despite falling costs and market shifts."
 image: "/img/heroes/2209439.jpg"

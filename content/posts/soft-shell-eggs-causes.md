@@ -1,6 +1,7 @@
 ---
 title: "Soft Shell Eggs in Chickens: Causes and Solutions"
 date: 2026-08-07T06:15:34.560583+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why chickens lay soft shell eggs and how to fix calcium deficiencies, stress, and other common causes affecting your flock."
 image: "/img/heroes/32149473.jpg"

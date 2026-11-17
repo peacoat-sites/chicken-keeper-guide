@@ -23,7 +23,7 @@ faqs:
     a: "The research here is honestly mixed, and my experience is limited to the mid-South. They're a dual-purpose heavy breed with heavier feathering than a Mediterranean-type, which means heat is a bigger stressor for them than cold. If you're in Arizona or south Texas, you'll need deep shade, constant cool water, and possibly frozen treat supplements through summer. Not impossible, but you're fighting their natural design a bit."
   - q: "What's the difference between Speckled Sussex and Light Sussex for a backyard flock?"
     a: "Practically speaking, production and temperament are similar. The Speckled is more widely available in the U.S. from hatcheries, and the plumage improves with each molt (more speckles over time), which a lot of keepers love. Light Sussex has a cleaner, more striking black-and-white look that photographs beautifully. Pick based on aesthetics; you won't get a meaningful difference in eggs or behavior."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people pick their first flock based on looks, and there's nothing wrong with that. But here's something I wish someone had told me before I ordered my first batch of chicks: Sussex chickens are one of the few breeds where the looks and the performance actually match up.

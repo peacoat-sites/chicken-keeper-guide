@@ -1,6 +1,7 @@
 ---
 title: "Backyard Chicken Permits: What You Need to Know"
 date: 2026-07-28T07:46:50.367608+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn backyard chicken permit requirements, costs, and regulations. Find out if you can legally keep chickens in your area."
 image: "/img/heroes/20496286.jpg"

@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 The first incubator I ever bought cost me $34 on Amazon, and it killed every single egg I put in it. Not because I did anything wrong. The temperature swung between 96°F and 103°F depending on where the thermometer probe sat, the humidity tray was a joke, and the automatic egg turner jammed on day nine. I candled those eggs on day ten and saw nothing. Fourteen eggs, gone.
 

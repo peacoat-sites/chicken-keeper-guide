@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Organic chicken feed costs more than conventional. Sometimes a lot more. And if you've just bought your first 50-pound bag of Scratch and Peck Feeds Cluckin' Good Organic Layer Mash for $42 versus the $18 Dumor bag sitting right next to it at Tractor Supply, you might be wondering whether you just made a very expensive rookie mistake.
 

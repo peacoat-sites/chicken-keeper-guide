@@ -1,6 +1,7 @@
 ---
 title: "Automatic Chicken Coop Doors: Save Time & Protect Your Flock"
 date: 2026-08-12T06:24:53.950611+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how automatic chicken coop doors work, compare top models from $80-$250, and learn why 83% of owners recommend them for daily convenience."
 image: "/img/heroes/11039793.jpg"

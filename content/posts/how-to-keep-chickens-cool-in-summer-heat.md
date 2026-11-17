@@ -1,6 +1,7 @@
 ---
 title: "Keeping Chickens Cool in Summer Heat: 7 Essential Strategies"
 date: 2026-07-14T07:20:20.344344+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Beat the heat with proven methods to keep chickens comfortable during hot summers. Learn hydration, shelter, and cooling techniques that work."
 image: "/img/heroes/1300375.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Can Chickens Eat Watermelon? 96% Safe and Refreshing"
 date: 2026-07-15T07:22:49.772188+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn whether chickens can safely eat watermelon, nutritional benefits, and how to serve it properly to your flock."
 image: "/img/heroes/5216248.jpg"

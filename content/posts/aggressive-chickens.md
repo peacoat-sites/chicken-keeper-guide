@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Someone in a Facebook group I follow posted a photo last week of her arm with three long scratches on it, and the caption just said "Day 47 of owning a rooster." Forty-seven comments, all some version of "same."
 

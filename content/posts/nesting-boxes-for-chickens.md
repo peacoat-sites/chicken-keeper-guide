@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A hen refusing her nesting box isn't being stubborn. She's telling you something's broken. Maybe the box is too small, too bright, lacks privacy, or sits in the wrong spot, chickens have weirdly specific demands about where they'll lay. Fix this problem and you'll collect clean eggs from the same spots every morning. Mess it up and you're hunting eggs in corners, under feeders, and places you'd rather forget exist.
 

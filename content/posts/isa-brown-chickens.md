@@ -23,7 +23,7 @@ faqs:
    a: "They can and often love it. They're not particularly flighty or escape-prone. Standard predator precautions apply, and like any free-ranging bird they'll need a secure, covered run or constant supervision in areas with aerial predator pressure."
  - q: "Do ISA Browns lay in winter?"
    a: "Better than most breeds. They'll slow down, especially once they've hit their first molt, but with 14-16 hours of supplemental light they'll maintain reasonable production through winter. Don't expect summer numbers, but you won't be eggless either."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 If you've spent any time on chicken forums or at a farm supply store in spring, you've almost certainly run into someone who swears by ISA Browns. And if you're here, you're probably trying to figure out whether the hype is real or whether you're about to fall for the chicken equivalent of a used car sales pitch.

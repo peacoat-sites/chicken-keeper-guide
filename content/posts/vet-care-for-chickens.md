@@ -23,7 +23,7 @@ faqs:
    a: "For many common issues, yes. Lice and mites, minor wounds, sour crop caught early, and mild respiratory symptoms without spreading are all manageable at home with proper products. But neurological symptoms, egg binding that isn't resolving, rapidly spreading illness, or any unexplained death should involve a professional."
  - q: "What is a fecal float and does my flock need one?"
    a: "A fecal float is a simple lab test that identifies internal parasite eggs in a dropping sample. It costs $25 to $50 and tells you exactly which parasites you're dealing with, if any. I do one every spring. Treating without knowing what you're treating for wastes money and can contribute to resistance over time."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most chicken keepers don't call a vet until something is already very wrong. A common mistake is treating empirically based on online research and hoping it works out. Sometimes this approach succeeds. But a bird lost to a treatable condition is often a sign that establishing a vet relationship earlier would have helped.

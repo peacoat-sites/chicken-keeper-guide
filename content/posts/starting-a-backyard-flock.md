@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Many keepers find that collecting their first eggs creates a sense of connection to their flock that doesn't fade, even after years and hundreds of birds. That emotional bond is part of why backyard flocks have exploded in popularity. According to the USDA, backyard poultry keeping grew by nearly 4 million households between 2012 and 2019, and that number has only climbed since. If you're thinking about starting your own flock, you're not alone, and you're not too late.
 

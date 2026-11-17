@@ -1,6 +1,7 @@
 ---
 title: "Why Chickens Peck Each Other and How to Stop It"
 date: 2026-07-17T07:27:59.487613+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the reasons behind chicken pecking behavior, from stress to nutrition, and practical solutions to keep your flock healthy and calm."
 image: "/img/heroes/34200784.jpg"

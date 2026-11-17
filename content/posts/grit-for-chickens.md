@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You crack open an egg from your backyard flock and notice something wrong: thin shells, brittle, cracking under the slightest pressure. For two weeks now. You've checked the feed. Calcium levels look fine. You've watched them eat. Nothing obvious is broken. The answer's probably sitting right under your nose: your chickens don't have access to proper grit, and their digestive systems are quietly falling apart. It sounds almost too simple to matter, but grit is one of the most overlooked essentials in backyard chicken care, and skipping it can wreck your flock's health before you realize what happened.
 

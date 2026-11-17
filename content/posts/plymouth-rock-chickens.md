@@ -1,6 +1,7 @@
 ---
 title: "Plymouth Rock Chickens: Breed Guide for Backyard Farmers"
 date: 2026-07-21T07:41:48.775996+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn about Plymouth Rock chickens, a dual-purpose breed known for reliable egg production and hardiness. Ideal for beginner and experienced chicken keepers."
 image: "/img/heroes/19972929.jpg"

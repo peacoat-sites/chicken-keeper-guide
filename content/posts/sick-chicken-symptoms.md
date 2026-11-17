@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You walk out to the coop on a Tuesday morning, toss in the scratch, and one of your hens just... stands there. Doesn't run for the feed. Doesn't jockey for position like usual. She's puffed up, tail down, and when you pick her up she feels lighter than she should. Most new chicken keepers see that and think "she's probably just tired." I'll be honest: that hen might be 24 to 48 hours from dying. Chickens are prey animals. They hide illness aggressively, hardwired by evolution to avoid looking weak. By the time a chicken *looks* sick to an untrained eye, she's often been sick for days.
 

@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've done your research, you've watched the YouTube videos, and you've already mentally named a few of your future hens. Now you're staring at your backyard trying to figure out the actual number you can keep without running into trouble with your neighbor, your city code enforcement officer, or your own sanity. It's a more complicated question than it looks, and the answer you'll find on most hatchery websites, "get at least three," leaves out about 90% of what you actually need to know.
 

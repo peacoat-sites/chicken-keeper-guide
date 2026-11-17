@@ -12,7 +12,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 My neighbor got a rooster by accident in 2021. Ordered a straight-run batch of Buff Orpingtons from Meyer Hatchery, and three of the six turned out to be cockerels. By the time those boys started crowing at 4:47 a.m., she'd already received two noise complaints and a letter from the city. She had to rehome all three within 10 days. The whole thing could have been avoided with about 20 minutes of research before the chicks arrived.
 

@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people start with three chickens. Then they go to pick them up, see all those fluffy little faces, and come home with six. What starts as a sensible, practical decision often turns into what the chicken community calls "chicken math," where keepers end up pricing out a second coop before they expected to. So before you get swept up in the cuteness, let's talk numbers in a real, grounded way so you can make a decision you won't regret, whether you're starting from scratch or expanding an existing flock.
 

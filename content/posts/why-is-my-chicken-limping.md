@@ -1,6 +1,7 @@
 ---
 title: "Why Your Chicken Is Limping: Common Causes and Fixes"
 date: 2026-08-13T06:41:39.769870+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover what causes chicken limping, from injuries and infections to nutritional deficiencies, and learn when to call a vet."
 image: "/img/heroes/18364306.jpg"

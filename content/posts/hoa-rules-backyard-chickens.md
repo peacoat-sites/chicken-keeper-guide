@@ -23,7 +23,7 @@ faqs:
    a: "Buff Orpingtons, Easter Eggers, Australorps, and Silkies are all relatively quiet and manageable. Avoid Leghorns, Guinea fowl (not chickens, but people ask), and most Mediterranean breeds, which tend to be vocal and flighty. No rooster, full stop, if you're in any kind of suburban situation."
  - q: "Do I need a permit from both my city and my HOA?"
    a: "Possibly both, and they're completely separate processes. Your city or county may require a permit or just have an ordinance you need to comply with. Your HOA may have its own approval requirement layered on top. Passing one doesn't mean you've satisfied the other, and that confusion trips people up more than anything else."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Thirty-one percent of U.S. homeowners live under some kind of HOA. If you're one of them and you want chickens, that percentage either means nothing to you or it's the only thing standing between you and your first flock. Most advice out there treats HOA rules like they're carved in stone. They're not. But they're also way messier than a simple yes or no.
 

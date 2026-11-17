@@ -12,7 +12,7 @@ author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
 slug: "drug-resistant-salmonella-is-surging-in-backyard-flocks-right-now"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you got your chickens or ducks in the last six months, stop and read this. The CDC is currently investigating eight simultaneous multistate Salmonella outbreaks tied to backyard poultry contact, and as of June 8, 2026, that means 513 people sick across 43 states and a U.S. territory, 134 hospitalizations, and one death in Washington state. What makes this different from the usual spring poultry outbreak story is the drug resistance angle. Some of the strains circulating right now don't respond to first-line antibiotics, which changes the risk calculus for anyone who keeps birds and has young kids or immunocompromised people in the house.
 

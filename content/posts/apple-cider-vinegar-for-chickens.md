@@ -1,6 +1,7 @@
 ---
 title: "Apple Cider Vinegar for Chickens: 0.5% Solution Guide"
 date: 2026-07-19T07:34:41.757506+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to use apple cider vinegar safely for chickens with proper dosing, benefits, and proven application methods for flock health."
 image: "/img/heroes/35652554.jpg"

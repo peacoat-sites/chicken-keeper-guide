@@ -12,7 +12,7 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 slug: "drug-resistant-salmonella-is-spreading-from-backyard-flocks-right-now"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you picked up baby chicks from a feed store or hatchery this spring, you need to read this. Right now, the CDC is tracking 513 sick people across 42 states and a U.S. territory in active Salmonella outbreaks tied directly to backyard poultry, with 53 hospitalizations and one death already confirmed in Washington state. This isn't a story about a few unlucky families who didn't wash their hands. What makes this outbreak genuinely different from past spring flare-ups is the drug resistance in these strains.
 

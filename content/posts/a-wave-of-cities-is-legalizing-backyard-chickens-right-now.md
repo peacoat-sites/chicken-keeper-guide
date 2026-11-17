@@ -12,7 +12,7 @@ author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 slug: "a-wave-of-cities-is-legalizing-backyard-chickens-right-now"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 Something shifted this spring. In June 2026, more cities are actively debating or passing backyard chicken ordinances than in recent years. Five municipalities in a single month. That's not a trend. That's a wave.
 

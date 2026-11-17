@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 At 95 degrees Fahrenheit, a chicken is already in trouble. At 104 degrees, you can lose one within hours. Most keepers don't realize how narrow a chicken's thermal comfort zone actually is. They thrive between about 55 and 75 degrees. Once temps push past 85, they're working hard just to stay alive, and a heat wave can turn a healthy flock into a crisis faster than almost any other weather event. If you're here because it's hot right now and you're worried about your birds, let's skip the fluff and get into what actually works.
 

@@ -1,6 +1,7 @@
 ---
 title: "Chicken First Aid Kit: Essential Supplies for Backyard Health"
 date: 2026-07-24T07:44:12.474426+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Build a complete chicken first aid kit with must-have supplies for treating injuries, illness, and emergencies in backyard flocks."
 image: "/img/heroes/6897347.jpg"

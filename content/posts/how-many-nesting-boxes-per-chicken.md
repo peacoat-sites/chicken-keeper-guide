@@ -23,7 +23,7 @@ faqs:
    a: "Untreated pine shavings are my default. Straw looks nice but harbors mites more readily and compresses into a wet mess faster. For a low-maintenance upgrade, molded plastic nesting pads like the ones from Precision Pet or Little Giant slip out for quick cleaning and keep eggs cleaner than loose bedding alone."
  - q: "Do nesting boxes need to be dark?"
    a: "Darker is better. Hens are instinctively drawn to covered, enclosed spaces to lay. If your boxes are in direct light, draping a piece of burlap or canvas over the front opening so it hangs loose makes a real difference in how quickly new hens take to them."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Three nesting boxes for twenty hens. That's what I started with, back when I was convinced the "one box per four to five birds" guideline was just hatchery marketing. It wasn't. I spent two weeks watching my poor Barred Rocks queue up like they were waiting at the DMV, and one particularly determined hen started laying on the [coop floor](/chicken-coop-flooring-options/) in protest. Lesson learned the expensive way.

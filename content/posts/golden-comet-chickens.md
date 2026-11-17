@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most hatchery descriptions of Golden Comets read like they were written by someone who has never actually owned one. "Friendly, prolific layers", sure, technically accurate, but that sells them either too hard or not hard enough depending on what you actually need from a flock. Let me give you the real picture.
 

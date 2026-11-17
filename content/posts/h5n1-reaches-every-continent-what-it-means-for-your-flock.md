@@ -1,6 +1,7 @@
 ---
 title: "H5N1 Reaches Every Continent: What It Means for Your Flock"
 date: 2026-08-05T07:48:38.001670+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "H5N1 bird flu has spread globally, affecting poultry worldwide. Learn how this pandemic impacts your flock and what biosecurity measures you need now."
 image: "/img/heroes/31936991.jpg"

@@ -12,7 +12,7 @@ author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
 slug: "eight-salmonella-outbreaks-are-active-now-what-flock-owners-must-do"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Eight Salmonella outbreaks linked to backyard poultry are running simultaneously right now. Not one, not two. Eight. As of June 25, 2026, the CDC has confirmed 513 sick people across 43 states and a U.S. territory, with 134 hospitalizations and one death in Washington state. This is the largest outbreak event of the year, it's happening at peak season, and if you have chickens in your yard, this is the moment to pay attention.

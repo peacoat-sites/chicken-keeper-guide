@@ -12,7 +12,7 @@ author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
 slug: "vp-vance-got-backyard-chickens-here-is-what-new-keepers-need-to-know"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 You probably saw the headline last week and thought, "Wait, the Vice President is keeping chickens?" Yes. On June 9, 2026, JD Vance had a custom Victorian-style chicken coop installed at the Naval Observatory, complete with 12 baby chicks he says he'll care for personally. The coop was built by Carolina Coops, a family-owned business out of Creedmoor, North Carolina, that's been doing this since 2008, and it was designed to match the Queen Anne Victorian architecture of Number One Observatory Circle. Nobody paid for it with tax dollars. Carolina Coops donated it. The whole thing is, frankly, kind of delightful.
 

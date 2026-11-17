@@ -23,7 +23,7 @@ faqs:
    a: "Not necessarily. Wry neck (torticollis) has several causes in backyard chickens: vitamin E and selenium deficiency, head trauma, Marek's disease, and inner ear infections. Velogenic Newcastle would almost always include other signs (respiratory distress, sudden deaths in other birds) alongside the twisted neck. That said, get a vet involved quickly rather than guessing."
  - q: "What's the difference between Newcastle disease and infectious bronchitis?"
    a: "Both cause respiratory signs in chickens and can cause egg production drops. Infectious bronchitis is a coronavirus (IBV) and tends to affect egg quality significantly (wrinkled shells, watery albumin) without the neurological signs that typify velogenic Newcastle. Lab testing is the only reliable way to tell them apart definitively."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most backyard flock owners never encounter Newcastle disease firsthand. An outbreak in a nearby flock can spread quickly and wipe out a large number of birds in just over a week. Cases like this underscore why biosecurity matters even when the disease hasn't appeared in your area.

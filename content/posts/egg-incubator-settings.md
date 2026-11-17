@@ -1,6 +1,7 @@
 ---
 title: "Egg Incubator Settings: Temperature, Humidity & Turning Guide"
 date: 2026-07-26T07:45:06.872270+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the correct temperature, humidity levels, and turning schedules for successful egg incubation. Settings for chicken, duck, quail and more."
 image: "/img/heroes/4530441.jpg"

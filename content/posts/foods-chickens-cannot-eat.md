@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're standing at the kitchen counter with leftover guacamole in one hand and the chicken run in sight. Perfect snack for the flock, right? Wrong. That avocado contains persin, a fungicidal toxin that can stop a chicken's heart within 24 to 48 hours. Every year, well-meaning keepers accidentally poison their birds with scraps they thought were safe. The good news: it's completely preventable if you know what actually belongs in the feed dish.
 

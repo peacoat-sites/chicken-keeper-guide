@@ -12,7 +12,7 @@ author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
 slug: "why-pekin-ducks-are-at-the-center-of-this-summers-salmonella-outbreak"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most backyard flock keepers assume ducks are the safer, lower-drama alternative to chickens. They're hardy, they're funny to watch, and the internet has spent years romanticizing them as beginner-friendly birds. This summer is forcing a real reckoning with that assumption.

@@ -1,5 +1,4 @@
 baseURL = "https://chickenkeeperguide.com/"
-enableGitInfo = true
 languageCode = "en-us"
 title = "Chicken Keeper Guide"
 

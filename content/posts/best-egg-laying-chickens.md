@@ -23,7 +23,7 @@ author: "Sarah Mills"
 author_slug: "sarah-mills"
 author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you've ever stood in front of a feed store bin of chicks, heart rate climbing, trying to remember which breed your neighbor swore by, you know the feeling. Six breeds stare up at you, all fluffy and identical in their peeping chaos, and you need to make a decision that'll shape your next five years of egg production. Getting it wrong doesn't ruin your life, but getting it right means pulling a dozen eggs from the nest box every single morning without fail. That difference is real, and it starts with breed selection.
 

@@ -23,7 +23,7 @@ faqs:
     a: "Not the fine/dust variety. Use larger-flake pine shavings or aspen, and even then, watch for chicks eating it. Most don't, but some do, and it can cause impaction. Straw is safer for chicks because it's too coarse to peck into their gullets easily."
   - q: "Can I use hay instead of straw?"
     a: "Not really. Hay has seeds and mold risk is higher. Straw is the hollow stalks left after grain is harvested, and it's cleaner. Hay is what you feed, straw is what you bed."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most keepers pick bedding based on online arguments rather than sustained, practical comparison. The choice often comes down to moisture control and climate.

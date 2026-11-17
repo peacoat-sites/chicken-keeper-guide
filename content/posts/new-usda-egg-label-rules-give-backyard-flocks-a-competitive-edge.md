@@ -1,6 +1,7 @@
 ---
 title: "New USDA Egg Label Rules Give Backyard Flocks a Competitive Edge"
 date: 2026-07-27T08:43:56.186741+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "New USDA egg labeling rules level the playing field for small backyard flock producers. Learn how updated regulations create competitive advantages and new mark"
 image: "/img/heroes/29051725.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Why Your Rooster Attacks: 12 Causes and Solutions"
 date: 2026-07-31T08:08:40.138440+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why roosters attack their owners and learn practical strategies to reduce aggression and establish safer interactions with your bird."
 image: "/img/heroes/38387974.jpg"

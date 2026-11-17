@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've got a layer standing apart from the flock, tail drooping, looking thin even though she's eating fine. [No respiratory issues](/respiratory-illness-chickens/). No visible mites. You worm her on a hunch, and two weeks later she's back to laying and acting normal. Internal parasites are often the most underdiagnosed health problem in backyard chickens, and most keepers don't catch an infestation until the bird is already struggling.
 

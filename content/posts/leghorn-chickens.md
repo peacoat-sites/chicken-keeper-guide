@@ -1,6 +1,7 @@
 ---
 title: "Leghorn Chickens: 350 Eggs Yearly From One Bird"
 date: 2026-07-22T07:42:15.510040+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Leghorn chickens are prolific layers producing up to 350 eggs annually. Learn about their characteristics, care requirements, and why they're popular homestead "
 image: "/img/heroes/13690433.jpg"

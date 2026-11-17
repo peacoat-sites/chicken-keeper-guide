@@ -1,6 +1,7 @@
 ---
 title: "Can Chickens Eat Tomatoes? What's Safe and What's Not"
 date: 2026-07-09T08:41:03.306029+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Chickens can eat ripe tomatoes, but the leaves and stems are toxic. Learn what parts are safe to feed your flock and how much is too much."
 image: "/img/heroes/7782053.jpg"

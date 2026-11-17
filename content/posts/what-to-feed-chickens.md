@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most new chicken keepers walk into the feed store, grab whatever bag has a chicken on the label, and call it done. What you put in that feeder matters far more than most people realize. Chickens aren't complicated, but they're not as forgiving as the "just toss them scratch" advice would have you believe.
 

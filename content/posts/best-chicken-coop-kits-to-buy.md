@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 I've looked at probably forty chicken coop kits over the past decade. Bought more than I'd like to admit, helped neighbors assemble them in their backyards on hot Saturday mornings, and watched a handful of them fall apart inside two winters. So let me save you some of that pain.
 

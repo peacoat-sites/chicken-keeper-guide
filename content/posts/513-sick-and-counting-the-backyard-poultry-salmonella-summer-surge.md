@@ -12,7 +12,7 @@ author_title: "Homesteader"
 author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
 slug: "513-sick-and-counting-the-backyard-poultry-salmonella-summer-surge"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you picked up chicks this spring, you're probably right in the middle of that happy phase right now. The brooder is gone, the birds are outside, you're figuring out your routine. Maybe your kids are obsessed with them. That's exactly where most people are when they get blindsided by what the CDC is tracking this summer, and it's worth slowing down for a few minutes to understand what's actually happening out there.
 

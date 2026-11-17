@@ -1,6 +1,7 @@
 ---
 title: "Why Is My Chicken Sneezing? 6 Causes and What to Do"
 date: 2026-07-11T07:19:31.086308+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the most common reasons chickens sneeze, from dust and ammonia to respiratory infections, and learn when to call a vet."
 image: "/img/heroes/20106425.jpg"

@@ -12,7 +12,7 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 slug: "cdc-tracks-8-salmonella-outbreaks-tied-to-backyard-poultry"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you've got a backyard flock right now, this is the week to pay attention. As of June 17, 2026, the CDC is actively investigating eight simultaneous multistate Salmonella outbreaks all linked to backyard poultry contact. That's not eight separate incidents that happened over a year. That's eight concurrent outbreak strains being tracked at the same time, with 513 confirmed illnesses across 42 states and one U.S. territory, 134 hospitalizations, and one death. These numbers represent a genuinely serious situation, not an example of overcautious public health messaging.
 

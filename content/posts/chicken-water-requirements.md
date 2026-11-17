@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A chicken can go without food for several days and survive. Without water? You're looking at 24 hours before serious damage begins, and in summer heat, it can be even less than that. Most backyard keepers learn this the hard way once, usually after a waterer gets knocked over or freezes solid overnight. The goal of this article is to make sure you never have to learn it that way.
 

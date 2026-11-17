@@ -12,7 +12,7 @@ author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
 slug: "cdc-traces-2026-salmonella-outbreak-to-pekin-ducks-and-7-hatcheries"
 affiliate_disclosure: false
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you picked up ducklings or chicks from a farm store this spring and you've got kids under five in the house, stop and read this before you do anything else.
 

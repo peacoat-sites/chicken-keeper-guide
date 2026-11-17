@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You buy three gorgeous Buff Orpingtons from a reputable breeder, bring them home, and put them straight into the flock. Two weeks later, half your birds are sneezing. A month after that, you've lost two hens you'd had for four years. This happens constantly, and it's almost always preventable. Quarantine isn't a formality you perform when you're feeling cautious. It's the most important biosecurity practice in backyard chicken keeping, and most people either skip it entirely or do it wrong.
 

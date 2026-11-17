@@ -1,6 +1,7 @@
 ---
 title: "67% of Chicken Owners Feed Bread: Is It Safe?"
 date: 2026-07-10T08:36:43.923534+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Before you toss that leftover bread to your hens, find out what's safe, what's risky, and how much chickens can actually eat."
 image: "/img/heroes/583675.jpg"

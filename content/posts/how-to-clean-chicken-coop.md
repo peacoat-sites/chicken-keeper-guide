@@ -23,7 +23,7 @@ author: "Carol Thompson"
 author_slug: "carol-thompson"
 author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 There's a smell that every chicken keeper knows. You open the coop door on a warm morning, and it hits you like a wall: ammonia, damp shavings, and something that falls somewhere between a barn and a locker room. If your eyes are watering before you even step inside, the coop is overdue for a serious clean. Coop cleaning isn't just about comfort. It's one of the most direct things you do to protect your flock's health.
 

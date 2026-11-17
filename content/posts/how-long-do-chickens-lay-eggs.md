@@ -23,7 +23,7 @@ author: "Mike Carter"
 author_slug: "mike-carter"
 author_title: "Coop Builder"
 author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A hen that laid an egg every single day for her first two years can suddenly drop to just a handful of eggs per month, and many backyard flock owners are completely blindsided when it happens. Understanding *why* that shift occurs, and how long you can realistically expect your hens to produce, saves you from frustration, helps you plan your flock rotation, and honestly makes you a better chicken keeper overall.
 

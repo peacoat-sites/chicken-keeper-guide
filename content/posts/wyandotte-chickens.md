@@ -1,6 +1,7 @@
 ---
 title: "Wyandotte Chickens: Breed Guide for Backyard Farmers"
 date: 2026-07-17T14:27:44.987052+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn about Wyandotte chickens: egg production, temperament, care requirements, and why they're ideal for cold climates and small farms."
 image: "/img/heroes/38449561.jpg"

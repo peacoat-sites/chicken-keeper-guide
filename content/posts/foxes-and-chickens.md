@@ -23,7 +23,7 @@ faqs:
     a: "Yes. A yard fence that keeps your dogs in will not keep a fox out. Foxes clear a 6-foot fence easily and can squeeze under gaps a standard privacy fence has at ground level. Your outer yard fence may slow a fox down slightly; it won't stop one."
   - q: "Can foxes climb or jump into an open-top run?"
     a: "Red foxes can jump about 3 feet vertically and will scale structures with footholds. Gray foxes are legitimate climbers and can go up a 6-foot wire wall with no help from a post or corner. Any run with more than 4-foot walls and no top should be considered accessible to a motivated gray fox."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A fox can slip through surprisingly small gaps in run defenses. Predators often exploit openings that seem too tight to matter, especially under aprons or at ground level where hardware cloth pulls away from posts.

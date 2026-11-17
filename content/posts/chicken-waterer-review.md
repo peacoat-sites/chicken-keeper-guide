@@ -23,7 +23,7 @@ faqs:
    a: "Almost always a height problem or an unfamiliarity problem. The nipples should sit at the birds' eye level or slightly above. For unfamiliarity, remove the old waterer for 2-3 hours during the warmest part of the day. Hunger-driven exploration will get them there fast. Do not leave them without water overnight."
  - q: "Is apple cider vinegar actually good to add to chicken water?"
    a: "Mildly beneficial at best, not a cure-all. A tablespoon per gallon lowers the water's pH slightly, which slows biofilm growth and may support gut flora. There's no strong research showing dramatic health benefits in otherwise healthy flocks. Don't use it with metal waterers since it accelerates corrosion."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most chicken waterer reviews compare products on looks and price and leave out the part where your flock of eight goes thirsty for six hours because a nipple froze solid in January. That's the gap I'm filling here.

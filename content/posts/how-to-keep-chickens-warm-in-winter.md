@@ -1,6 +1,7 @@
 ---
 title: "7 Ways to Keep Chickens Warm and Healthy All Winter"
 date: 2026-07-12T07:39:49.233772+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to keep your chickens warm in winter with practical coop tips, bedding strategies, and feeding advice to protect your flock from the cold."
 image: "/img/heroes/4200086.jpg"

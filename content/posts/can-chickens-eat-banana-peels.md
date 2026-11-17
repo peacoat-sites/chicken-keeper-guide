@@ -1,6 +1,7 @@
 ---
 title: "Can Chickens Eat Banana Peels? 90% Safe For Flocks"
 date: 2026-07-16T07:33:42.640698+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn if banana peels are safe for chickens to eat, nutritional benefits, and how to prepare them properly for your flock."
 image: "/img/heroes/5945855.jpg"

@@ -23,7 +23,7 @@ author: "Janet Wilson"
 author_slug: "janet-wilson"
 author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You walk out to the coop one morning and find one of your hens planted on the nest like a feathered boulder. She puffs up, growls, and tries to remove your hand from your wrist when you reach under her. She hasn't moved in two days. The other hens are laying their eggs and walking away like normal adults, but this one has decided the nest box is her permanent address. Congratulations. You have a broody hen.
 

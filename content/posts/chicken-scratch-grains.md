@@ -1,6 +1,7 @@
 ---
 title: "Chicken Scratch Grains: Choosing the Best Pecking Mix"
 date: 2026-08-01T07:37:14.344870+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn which scratch grains keep chickens healthy and happy. Compare options, feeding amounts, and why mixing matters for your flock."
 image: "/img/heroes/36025663.jpg"

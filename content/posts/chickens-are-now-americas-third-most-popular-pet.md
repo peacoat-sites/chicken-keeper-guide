@@ -12,7 +12,7 @@ author_title: "Flock Manager"
 author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
 slug: "chickens-are-now-americas-third-most-popular-pet"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 If you'd told me ten years ago that chickens would one day rank behind only cats and dogs as America's most popular pet, I would have laughed and gone back to cleaning my coop. But here we are, July 2026, and that's exactly where things stand. An estimated 85 million backyard or household chickens now live in the United States, and the cultural shift driving that number isn't what most people assume. Egg prices crashed back to $2.19 a dozen by May 2026, down from the painful $6.23 high we all felt in March 2025. The economic argument for keeping chickens has largely evaporated. And yet flock numbers keep climbing. Google Trends searches for "backyard chickens" are spiking again. Something else is going on here, and if you're already keeping hens, or thinking about starting, it's worth understanding what that something is.

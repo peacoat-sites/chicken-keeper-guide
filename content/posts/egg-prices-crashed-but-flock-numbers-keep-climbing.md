@@ -12,7 +12,7 @@ author_title: "Backyard Poultry Keeper"
 author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
 slug: "egg-prices-crashed-but-flock-numbers-keep-climbing"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 The egg aisle is normal again. Prices that hit a jaw-dropping $6.23 per dozen in March 2025, the highest in twenty years according to Bureau of Labor Statistics data, have crashed back to $2.19 by May 2026 as avian influenza pressure eased and commercial flocks rebuilt. By any rational financial calculation, the case for keeping backyard chickens just evaporated. And yet: 11 million U.S. households now keep flocks, nearly double the 5.8 million in 2018, making chickens the third most common pet in America. The American Pet Products Association confirmed those numbers in June 2026, and Google search traffic for "backyard chickens" is still climbing. Something fundamental has shifted, and it isn't the price of feed.

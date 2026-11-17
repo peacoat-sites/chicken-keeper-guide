@@ -1,6 +1,7 @@
 ---
 title: "81% Water: Why Grapes Are a Safe Treat for Chickens"
 date: 2026-07-12T07:37:10.240683+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Chickens can eat grapes, but portion size matters. Learn how grapes' nutrition and sugar content affect your flock's health and how often to serve them."
 image: "/img/heroes/1410140.jpg"

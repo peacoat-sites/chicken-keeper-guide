@@ -23,7 +23,7 @@ author: "Dr. Tom Henderson"
 author_slug: "dr-tom-henderson"
 author_title: "Poultry Health Reviewer"
 author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A flock of six hens can eat through a 50-pound bag of layer feed in about three weeks. Most new chicken keepers hear that number and immediately wonder: am I overfeeding? Underfeeding? Is that bag disappearing into the bedding or into actual chickens? Getting the daily feed amount right matters more than most people realize, because both overfeeding and underfeeding carry real consequences, from obesity and fatty liver disease to dropped egg production and feather loss.
 

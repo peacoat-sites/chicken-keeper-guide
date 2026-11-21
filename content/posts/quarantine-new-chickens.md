@@ -19,10 +19,10 @@ faqs:
    a: "Absolutely, and this is one of the most overlooked quarantine scenarios. Show birds have had contact with hundreds of birds from dozens of flocks in close quarters. Even if your bird looked healthy going in and healthy coming out, it's been exposed to a significant cross-section of regional poultry diseases. Bring it home, put it in quarantine for 30 days, and treat it exactly like a new addition."
  - q: "Does quarantine protect against Marek's disease?"
    a: "Marek's is a special case. The virus is extremely persistent in the environment, spread through feather dander, and virtually impossible to exclude through standard biosecurity once it's on your property. Quarantine reduces the chance of introducing a new strain, which matters because different strains have different virulence. But if you have unvaccinated birds and bring in a bird shedding Marek's, exposure can happen through shared air before formal integration. The practical takeaway: vaccinate at hatch, not as a quarantine substitute, but because it's the only real protection you have."
-author: "Dr. Tom Henderson"
-author_slug: "dr-tom-henderson"
-author_title: "Poultry Health Reviewer"
-author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+author: "Tom Henderson"
+author_slug: "tom-henderson"
+author_title: "Flock Health"
+author_bio: "Tom Henderson is the byline used at Chicken Keeper Guide for articles on poultry health, common diseases, biosecurity and when to call a vet. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You buy three gorgeous Buff Orpingtons from a reputable breeder, bring them home, and put them straight into the flock. Two weeks later, half your birds are sneezing. A month after that, you've lost two hens you'd had for four years. This happens constantly, and it's almost always preventable. Quarantine isn't a formality you perform when you're feeling cautious. It's the most important biosecurity practice in backyard chicken keeping, and most people either skip it entirely or do it wrong.

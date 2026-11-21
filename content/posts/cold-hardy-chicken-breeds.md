@@ -21,8 +21,8 @@ faqs:
    a: "Chicks of any breed need a heat source down to around 95 degrees Fahrenheit in week one, dropping 5 degrees per week until they're fully feathered, usually around 6 to 8 weeks. Cold hardiness only becomes relevant once birds are mature and fully feathered. Don't let the breed's reputation lead you to shortcut brooding temperatures with young chicks."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
-author_title: "Backyard Poultry Keeper"
-author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
+author_title: "Backyard Flocks"
+author_bio: "Carol Thompson is the byline used at Chicken Keeper Guide for articles on keeping a small backyard flock: breeds, daily care and the first year. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 It's February, 7 degrees outside, and you're trudging through a foot of snow to check on your flock. You get to the coop, slide open the door, and find your Leghorns huddled in a miserable pile, barely eating, and one has a blackened frostbitten comb. Meanwhile, your neighbor three doors down is out there with her Black Australorps and Rhode Island Reds, collecting eggs like it's a mild October morning. That's not luck. That's breed selection. If you're tired of nursing frost-damaged birds through every winter, or you're just starting out and want to get this right from day one, [choosing cold hardy breeds](/best-chicken-breeds-for-beginners/) is one of the most important decisions you'll make as a backyard keeper.

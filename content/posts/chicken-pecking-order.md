@@ -21,8 +21,8 @@ faqs:
    a: "Roosters sometimes fixate on a lower-ranked hen, especially if she's smaller, newly introduced, or was injured and her wound attracted attention. This can also happen if the hen is resisting mating. Separate her, let her heal and recover condition, and reintroduce her with the same 'after dark' method described above. If the rooster continues targeting her specifically after reintroduction, you may need to consider separating them permanently."
 author: "Sarah Mills"
 author_slug: "sarah-mills"
-author_title: "Homesteader"
-author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+author_title: "Homestead Chickens"
+author_bio: "Sarah Mills is the byline used at Chicken Keeper Guide for articles on chickens in a homestead or garden system: foraging, compost and pest control. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You walked out to the coop one morning and found one of your hens huddled in the corner, feathers missing from her back, not moving toward the feeder. The other birds are acting completely normal. You're wondering if something attacked her overnight, or if she's sick. Then you watch for ten minutes and realize it's the big Buff Orpington doing it, the one you thought was gentle. That right there is the pecking order, and if you don't understand how it actually works, you'll keep treating symptoms while the real problem keeps going.

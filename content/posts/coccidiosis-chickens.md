@@ -21,8 +21,8 @@ faqs:
    a: "You should see improvement within 24 to 48 hours of starting Corid if you caught the infection before too much intestinal damage occurred. Full recovery, including weight regain and normal droppings, usually takes 1 to 2 weeks. Birds that were very severely affected may never fully catch up to their flockmates in size or production. Some don't make it even with treatment if the intestinal damage was too extensive before you started."
 author: "Janet Wilson"
 author_slug: "janet-wilson"
-author_title: "Flock Manager"
-author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+author_title: "Egg Production"
+author_bio: "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You walk out to the coop on a Tuesday morning and something just feels off. One of your pullets is hunched in the corner, fluffed up, not moving toward the feeder. You pick her up and she's lighter than she should be. Then you notice the droppings, bloody, rust-colored, or just watery and wrong. Your stomach drops. If you've never dealt with coccidiosis before, you might be wondering if she's going to make it, what you did wrong, and whether the rest of your flock is next. Here's what I tell people in that moment: you caught it. That matters. Coccidiosis moves fast, but it's also one of the most treatable diseases in backyard poultry if you act within the right window.

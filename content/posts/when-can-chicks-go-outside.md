@@ -21,8 +21,8 @@ faqs:
    a: "In warm climates with consistent nighttime lows above 60°F, some fully feathered birds can transition permanently as early as five and a half to six weeks. That's the early edge. Most birds in most climates are safer at seven to eight weeks. If you're rushing it, you're almost always doing it for your convenience, not theirs."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
-author_title: "Backyard Poultry Keeper"
-author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
+author_title: "Backyard Flocks"
+author_bio: "Carol Thompson is the byline used at Chicken Keeper Guide for articles on keeping a small backyard flock: breeds, daily care and the first year. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people wait too long. Or they rush it. The advice online often swings between extremes, making it hard to know what's actually right.

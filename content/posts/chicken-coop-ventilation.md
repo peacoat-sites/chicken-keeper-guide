@@ -19,10 +19,10 @@ faqs:
    a: "Use hardware cloth. Chicken wire keeps chickens in, but it doesn't keep much out. Raccoons can reach through the 2-inch hexagonal openings and grab birds roosting near a vent. Weasels and rats can squeeze through. Hardware cloth with 1/2-inch openings is the right material for any exterior vent or window that birds could access or that a predator could reach through."
  - q: "My coop smells fine to me. Do I still need to worry about ventilation?"
    a: "Yes, and here's why: your nose acclimates to smells quickly. If you walk in every day, you'll stop noticing low-level ammonia that a first-time visitor would detect immediately. Also, ammonia concentrations are highest at bird level, not at human nose height when you're standing upright. Do the crouch test I described earlier. And remember that 'fine' to you isn't the same as acceptable for birds who are sleeping and breathing in that air for 10-plus hours every night."
-author: "Dr. Tom Henderson"
-author_slug: "dr-tom-henderson"
-author_title: "Poultry Health Reviewer"
-author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+author: "Tom Henderson"
+author_slug: "tom-henderson"
+author_title: "Flock Health"
+author_bio: "Tom Henderson is the byline used at Chicken Keeper Guide for articles on poultry health, common diseases, biosecurity and when to call a vet. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 It's July, 94 degrees, and you open your coop door to find your hens panting with wings held out from their bodies. Or it's February, below freezing, and the walls are dripping with condensation. The litter smells sharp with ammonia even though you cleaned it three days ago. Both situations point to one thing: your coop can't breathe.

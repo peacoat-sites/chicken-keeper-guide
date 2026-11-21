@@ -21,8 +21,8 @@ faqs:
    a: "It's not common, but it happens. If your older hen is at the bottom of the original pecking order, newly introduced birds that are young, energetic, and confident may outrank her quickly. Watch that she's able to eat and drink. If she's being seriously bullied, she may need a few days of separation to recover before trying again, or you may need to restructure the integration to give her more escape options."
 author: "Mike Carter"
 author_slug: "mike-carter"
-author_title: "Coop Builder"
-author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+author_title: "Coops"
+author_bio: "Mike Carter is the byline used at Chicken Keeper Guide for articles on coop design and building: space, ventilation and predator proofing. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You did everything right. You quarantined your new birds for the full 30 days, watched them closely for signs of illness, and now you're standing at your coop door with two nervous pullets in a cardboard box while six established hens stare back from the run like a gang that just claimed their corner. You let them all loose together and within 45 seconds one of your older girls has the newcomer pinned by the neck. You panic, separate everyone, and start Googling at midnight. If that's where you are right now, you're in exactly the right spot.

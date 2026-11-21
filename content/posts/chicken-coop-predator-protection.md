@@ -21,8 +21,8 @@ faqs:
    a: "They can, but they're a significant commitment. A Great Pyrenees, Anatolian Shepherd, or similar breed bred for livestock guarding is an incredible deterrent. Properly bonded, they'll patrol the property and alert you to threats day and night. The challenge is that they need training, socialization with your chickens from a young age, and enough space to do their job. For a small suburban backyard with 6 hens, a guardian dog is probably more than the situation calls for. For a rural property with a large flock, it's one of the most effective long-term solutions there is."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
-author_title: "Backyard Poultry Keeper"
-author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
+author_title: "Backyard Flocks"
+author_bio: "Carol Thompson is the byline used at Chicken Keeper Guide for articles on keeping a small backyard flock: breeds, daily care and the first year. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A raccoon can open a simple hook-and-eye latch in under 60 seconds. Many keepers have discovered this the hard way after losing birds to determined predators. Predator protection isn't optional for backyard chickens. Without it, you're essentially feeding the neighborhood wildlife.

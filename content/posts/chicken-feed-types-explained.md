@@ -21,8 +21,8 @@ faqs:
    a: "Layer feed already contains added calcium, but some high-producing hens need more. Thin or pitted eggshells are a sign the hen isn't getting enough calcium for her output. Keeping oyster shell available free-choice costs almost nothing and removes the guesswork. Hens are good at self-regulating calcium intake. You're not going to cause calcium toxicity by offering free-choice oyster shell alongside layer feed."
 author: "Sarah Mills"
 author_slug: "sarah-mills"
-author_title: "Homesteader"
-author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+author_title: "Homestead Chickens"
+author_bio: "Sarah Mills is the byline used at Chicken Keeper Guide for articles on chickens in a homestead or garden system: foraging, compost and pest control. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most new chicken keepers walk into a feed store for the first time, stare at a wall of bags labeled "starter," "grower," "layer," "flock raiser," and "finisher," and leave with whatever has the prettiest rooster on the label. It happens more than you'd think. The wrong feed won't always cause an obvious crisis right away, but over months it'll show up as poor egg production, weak shells, slow growth, rough feathering, and birds that just look tired. Understanding what's actually in those bags is one of the most practical moves you can make for your flock.

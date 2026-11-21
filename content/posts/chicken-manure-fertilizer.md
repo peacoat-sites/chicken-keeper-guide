@@ -21,8 +21,8 @@ faqs:
    a: "Strong ammonia smell usually means too much nitrogen with not enough carbon, or the pile is too wet. Add dry brown material (straw, wood shavings, dry leaves) and turn it to introduce oxygen. If you're storing fresh manure before composting, keep it covered to reduce moisture and contain odors."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
-author_title: "Backyard Poultry Keeper"
-author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
+author_title: "Backyard Flocks"
+author_bio: "Carol Thompson is the byline used at Chicken Keeper Guide for articles on keeping a small backyard flock: breeds, daily care and the first year. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most backyard chicken keepers treat manure like a waste problem. That's the wrong way to think about it. After ten years of shoveling coops, I'll be honest: chicken manure is the single best thing that's ever happened to my vegetable garden, and I wish someone had told me that on day one instead of year three.

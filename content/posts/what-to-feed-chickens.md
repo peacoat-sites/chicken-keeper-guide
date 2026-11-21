@@ -21,8 +21,8 @@ faqs:
    a: "Ideally, yes. Layer feed's calcium levels are higher than roosters need long-term. If you can manage separate feeding, put the rooster on an all-flock feed (18 percent protein) and make oyster shell available free-choice for the hens. In practice, many backyard keepers feed everyone together with no obvious issues, especially with just one or two roosters in a larger flock. It's not ideal, but it's not a crisis either."
 author: "Janet Wilson"
 author_slug: "janet-wilson"
-author_title: "Flock Manager"
-author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+author_title: "Egg Production"
+author_bio: "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most new chicken keepers walk into the feed store, grab whatever bag has a chicken on the label, and call it done. What you put in that feeder matters far more than most people realize. Chickens aren't complicated, but they're not as forgiving as the "just toss them scratch" advice would have you believe.

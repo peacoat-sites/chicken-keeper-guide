@@ -21,8 +21,8 @@ faqs:
    a: "Most breeds slow down or stop laying when daylight drops below 14 hours, typically November through January in northern climates. Adding a simple 40-watt bulb on a timer to extend 'daylight' to 14-16 hours keeps most hens laying. Some keepers skip the light and let hens rest; it's not harmful, just means no eggs for a couple months."
 author: "Sarah Mills"
 author_slug: "sarah-mills"
-author_title: "Homesteader"
-author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+author_title: "Homestead Chickens"
+author_bio: "Sarah Mills is the byline used at Chicken Keeper Guide for articles on chickens in a homestead or garden system: foraging, compost and pest control. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most people figure out the real cost of backyard eggs the same way: they're standing in the feed store checkout line, staring at a $28 bag of layer pellets, doing math in their head that doesn't add up to "cheaper than the grocery store." Nobody warned them. Or if someone did, they said something vague like "it pays off in the long run," which is basically the chicken-keeping version of "it builds character."

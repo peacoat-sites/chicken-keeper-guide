@@ -19,10 +19,10 @@ faqs:
    a: "Most chickens hate being sprayed directly with a hose and will run from it, adding stress to an already stressful situation. A better approach is wetting the ground around them, creating a cool damp area they can choose to stand in, and ensuring their water is cold. If you have a bird in serious distress, yes, cool water on the body helps, but for general flock management, forced wetting usually causes more stress than it relieves."
  - q: "Is it normal for egg production to drop during a heat wave?"
    a: "Completely normal. Heat stress redirects a hen's biological resources away from reproduction and toward survival. You might see production drop 30 to 50 percent during a sustained heat wave, and it can take two to three weeks after temperatures normalize for full production to return. Some hens may go into a partial molt, which also temporarily halts laying. Don't be alarmed by this. Focus on keeping your birds healthy and production will come back."
-author: "Dr. Tom Henderson"
-author_slug: "dr-tom-henderson"
-author_title: "Poultry Health Reviewer"
-author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+author: "Tom Henderson"
+author_slug: "tom-henderson"
+author_title: "Flock Health"
+author_bio: "Tom Henderson is the byline used at Chicken Keeper Guide for articles on poultry health, common diseases, biosecurity and when to call a vet. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 At 95 degrees Fahrenheit, a chicken is already in trouble. At 104 degrees, you can lose one within hours. Most keepers don't realize how narrow a chicken's thermal comfort zone actually is. They thrive between about 55 and 75 degrees. Once temps push past 85, they're working hard just to stay alive, and a heat wave can turn a healthy flock into a crisis faster than almost any other weather event. If you're here because it's hot right now and you're worried about your birds, let's skip the fluff and get into what actually works.

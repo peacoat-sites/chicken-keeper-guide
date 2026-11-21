@@ -9,8 +9,8 @@ categories: ["feeding"]
 tags: ["herbs", "chickens"]
 author: "Janet Wilson"
 author_slug: "janet-wilson"
-author_title: "Flock Manager"
-author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+author_title: "Egg Production"
+author_bio: "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "herbs-for-chickens"
 affiliate_disclosure: false
 faqs:

@@ -21,8 +21,8 @@ faqs:
    a: "The treatment protocol is the same year-round, but application in cold weather requires some practical adjustments. Dust treatments work in any temperature. Liquid spray products need to dry completely before birds go to roost, so apply them earlier in the day in winter. Avoid soaking birds in cold weather. Keep treated birds out of drafts until they're fully dry. Lice infestations can actually be worse in winter when birds spend more time in close contact inside the coop, so don't assume cold weather protects your flock."
 author: "Janet Wilson"
 author_slug: "janet-wilson"
-author_title: "Flock Manager"
-author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+author_title: "Egg Production"
+author_bio: "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 If you picked up one of your hens this week and noticed tiny, fast-moving specks scrambling through the feathers near her vent, you're probably feeling a mix of panic and disgust. Take a breath. Lice on chickens are incredibly common, they don't infest humans, and with the right treatment you can clear them up within two to three weeks. What trips most people up isn't finding the lice, it's not understanding the lifecycle, skipping the second treatment, or using a product that simply doesn't work on the species they have.

@@ -21,8 +21,8 @@ faqs:
    a: "When the bird is a pet with real value to you, when you have a flock-wide issue you can't identify, when you suspect something like Marek's or Newcastle disease that affects the whole flock, or when you're dealing with egg-binding, severe injury, or peritonitis. A vet visit for a single backyard hen can run $75 to $200 or more depending on your area. That's a real cost. But for birds you care about, and for situations that could spread to your entire flock, it's absolutely worth it."
 author: "Mike Carter"
 author_slug: "mike-carter"
-author_title: "Coop Builder"
-author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+author_title: "Coops"
+author_bio: "Mike Carter is the byline used at Chicken Keeper Guide for articles on coop design and building: space, ventilation and predator proofing. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You go out to the coop on a Tuesday morning with your coffee, same as always, and one of your hens is just standing there. Not eating. Puffed up like a ball. Tail down. Every experienced chicken keeper knows that sick-bird posture, and if you're seeing it for the first time, your stomach drops. The problem is what comes next: you search online, you find seventeen different possibilities ranging from "she's a little cold" to "your whole flock is about to die," and you close the laptop more confused than when you opened it. That's what this article is for. Let's cut through the noise and talk about what's actually likely to be wrong, what you can do about it today, and when you genuinely need a vet.

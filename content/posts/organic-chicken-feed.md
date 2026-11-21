@@ -21,8 +21,8 @@ faqs:
     a: "Not really, as long as you're offering oyster shell free-choice on the side and they have access to fresh water always. One thing to watch: some organic soy-free feeds rely on peas for protein and may be lower in methionine, an amino acid hens need. If you're on a soy-free organic ration and you see feather pecking or slow molting, a methionine supplement or some black soldier fly larvae can help fill that gap."
 author: "Sarah Mills"
 author_slug: "sarah-mills"
-author_title: "Homesteader"
-author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+author_title: "Homestead Chickens"
+author_bio: "Sarah Mills is the byline used at Chicken Keeper Guide for articles on chickens in a homestead or garden system: foraging, compost and pest control. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Organic chicken feed costs more than conventional. Sometimes a lot more. And if you've just bought your first 50-pound bag of Scratch and Peck Feeds Cluckin' Good Organic Layer Mash for $42 versus the $18 Dumor bag sitting right next to it at Tractor Supply, you might be wondering whether you just made a very expensive rookie mistake.

@@ -19,10 +19,10 @@ faqs:
     a: "Visible panting starts around 85-90°F for most breeds and becomes concerning above 95°F. At 104°F+, you're in genuine danger zone, especially with humidity above 50%. Watch for open-mouthed panting, wings held away from the body, pale combs, and lethargy. Birds that stop moving and sit hunched are in trouble."
   - q: "Does feather color really affect heat tolerance that much?"
     a: "Somewhat, yes. Dark feathers absorb more solar radiation than light ones, which matters most in direct sun. In shade, it's less relevant. It's a real factor but a smaller one than comb size, body weight, and feather density overall. If everything else is equal between a dark bird and a light bird of the same breed, the lighter bird has a small advantage on a sunny day."
-author: "Dr. Tom Henderson"
-author_slug: "dr-tom-henderson"
-author_title: "Poultry Health Reviewer"
-author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+author: "Tom Henderson"
+author_slug: "tom-henderson"
+author_title: "Flock Health"
+author_bio: "Tom Henderson is the byline used at Chicken Keeper Guide for articles on poultry health, common diseases, biosecurity and when to call a vet. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most chicken keepers learn about heat tolerance the hard way. I did. Summer of 2017, central Texas, 107°F in the shade, and I lost two [Rhode Island Red](/rhode-island-red-chickens/)s inside of a week despite fans, misters, frozen watermelons, and every intervention I'd read about online. What nobody told me was that the breed I'd chosen was quietly working against me from the start.

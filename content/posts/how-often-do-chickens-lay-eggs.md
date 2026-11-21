@@ -21,8 +21,8 @@ faqs:
    a: "Technically possible but very rare. Because the laying cycle takes 24 to 26 hours, a hen almost never produces two fully formed eggs in a single day. When it does happen, one of the eggs usually has a thin shell or abnormality. Don't count on it as a regular event."
 author: "Sarah Mills"
 author_slug: "sarah-mills"
-author_title: "Homesteader"
-author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+author_title: "Homestead Chickens"
+author_bio: "Sarah Mills is the byline used at Chicken Keeper Guide for articles on chickens in a homestead or garden system: foraging, compost and pest control. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 A brand-new hen from a production breed can lay up to 300 eggs in her first year. That's nearly an egg a day, almost every single day, for twelve months straight. If you've just brought home your first flock expecting that kind of output from every bird, every year, you're about to be disappointed. Egg production is way more variable than most beginners expect, and understanding what drives it will save you from standing at an empty nesting box wondering what went wrong.

@@ -21,8 +21,8 @@ faqs:
    a: "Sometimes they try, and it's usually a disaster. Two hens crammed onto a shared nest means eggs roll around, temperatures fluctuate, and one hen usually ends up displaced. If you want to run two broodies simultaneously, give them separate nest boxes at least 18 inches apart. You can also slip chicks under a second broody who's been sitting the same amount of time, which works better than shared incubation."
 author: "Janet Wilson"
 author_slug: "janet-wilson"
-author_title: "Flock Manager"
-author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+author_title: "Egg Production"
+author_bio: "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You walk out to the coop one morning and find one of your hens planted on the nest like a feathered boulder. She puffs up, growls, and tries to remove your hand from your wrist when you reach under her. She hasn't moved in two days. The other hens are laying their eggs and walking away like normal adults, but this one has decided the nest box is her permanent address. Congratulations. You have a broody hen.

@@ -21,8 +21,8 @@ faqs:
    a: "Generally, no. Meat breeds like Cornish Cross are slaughtered before they reach laying age, so calcium supplementation for eggshell production isn't relevant. Feeding high calcium to young, fast-growing broilers can actually stress their kidneys. Stick to the feeding program designed for meat birds."
 author: "Janet Wilson"
 author_slug: "janet-wilson"
-author_title: "Flock Manager"
-author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+author_title: "Egg Production"
+author_bio: "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You crack open an egg from your backyard flock and the shell crumbles in your fingers before you can even get it into the pan. Thin, fragile eggshells are one of the most common complaints among backyard chicken keepers, and there's almost always the same culprit: calcium deficiency. The fix? Oyster shell. It's cheap, it's simple, and it works, yet a surprising number of chicken owners either skip it entirely or get it wrong.

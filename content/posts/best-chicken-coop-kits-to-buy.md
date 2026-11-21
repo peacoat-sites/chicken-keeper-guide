@@ -21,8 +21,8 @@ faqs:
     a: "Most can, with preparation. Make sure your coop has ventilation that can be partially closed without sealing completely (moisture buildup causes more problems than cold in winter). Deep litter method inside the coop adds natural warmth. Avoid heat lamps if you can; they're a fire risk. Cold-hardy breeds like Wyandottes, Buckeyes, and Dominiques don't need supplemental heat in most climates below freezing."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
-author_title: "Backyard Poultry Keeper"
-author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
+author_title: "Backyard Flocks"
+author_bio: "Carol Thompson is the byline used at Chicken Keeper Guide for articles on keeping a small backyard flock: breeds, daily care and the first year. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 I've looked at probably forty chicken coop kits over the past decade. Bought more than I'd like to admit, helped neighbors assemble them in their backyards on hot Saturday mornings, and watched a handful of them fall apart inside two winters. So let me save you some of that pain.

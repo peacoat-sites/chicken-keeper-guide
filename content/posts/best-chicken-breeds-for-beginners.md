@@ -21,8 +21,8 @@ faqs:
    a: "Yes, genuinely yes. A 4x8 coop with a 10x12 attached run can comfortably house four to five birds of the calmer dual-purpose breeds. Barred Rocks and Sussex adapt to smaller spaces better than most. The non-negotiables are: shade in summer, good ventilation, and predator-proofing that you actually trust. Suburban chickens are common and totally workable once you've got the setup right. The first year of keeping chickens will teach you things no article can fully prepare you for. Your flock will have personalities you didn't expect, problems you didn't see coming, and moments that genuinely sto"
 author: "Janet Wilson"
 author_slug: "janet-wilson"
-author_title: "Flock Manager"
-author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+author_title: "Egg Production"
+author_bio: "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 The breed you choose matters far more than most beginners realize. Not every friendly-looking chicken at the feed store is actually easy to keep, and not every calm breed lays enough eggs to justify the feed bill.

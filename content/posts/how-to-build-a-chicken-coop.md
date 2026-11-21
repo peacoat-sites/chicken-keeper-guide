@@ -21,8 +21,8 @@ faqs:
    a: "Insulation and ventilation are your best tools, and they work together better than most people realize. A well-insulated coop with proper venting retains body heat from the birds without getting damp and cold. Most standard breeds handle temperatures well below freezing without supplemental heat. Seal drafts, add extra bedding depth, and make sure roost bars are wide enough (at least 2 inches) so birds can sit flat on their feet and warm them with their bodies. If you're in an extreme climate, a flat-panel radiant heater like the Cozy Products Chicken Coop Heater is safer than a heat lamp and"
 author: "Janet Wilson"
 author_slug: "janet-wilson"
-author_title: "Flock Manager"
-author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+author_title: "Egg Production"
+author_bio: "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most first-time builders underestimate the square footage they'll need by half. You start planning for four hens, think a 4x4 coop sounds reasonable, and a year later you've got eight birds crammed into a space that smells like a locker room and looks like poultry chaos. I've watched it happen more times than I can count, and I've lived it myself with my very first build back in 2012. Getting the size right before you swing a single hammer is the single most important thing you can do, and it's just the beginning.

@@ -8,8 +8,8 @@ categories: ["trending"]
 tags: ["pekin", "ducks", "center", "this", "summer's"]
 author: "Mike Carter"
 author_slug: "mike-carter"
-author_title: "Coop Builder"
-author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+author_title: "Coops"
+author_bio: "Mike Carter is the byline used at Chicken Keeper Guide for articles on coop design and building: space, ventilation and predator proofing. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "why-pekin-ducks-are-at-the-center-of-this-summers-salmonella-outbreak"
 affiliate_disclosure: false
 lastmod: 2026-11-16T16:00:00Z

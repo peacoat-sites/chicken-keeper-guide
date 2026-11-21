@@ -21,8 +21,8 @@ faqs:
    a: "Absolutely, which is a big part of why they're so popular. Breeds like Silkies, Buff Orpingtons, and Easter Eggers are commonly used in children's programs, 4-H projects, and therapy settings. That said, supervise young children closely, not because the chickens will hurt the kids, but because small children can accidentally hurt the chickens by squeezing too hard or dropping them. Teach kids to sit on the ground and let the chickens come to them rather than chasing and grabbing."
 author: "Sarah Mills"
 author_slug: "sarah-mills"
-author_title: "Homesteader"
-author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+author_title: "Homestead Chickens"
+author_bio: "Sarah Mills is the byline used at Chicken Keeper Guide for articles on chickens in a homestead or garden system: foraging, compost and pest control. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Picture this: you're sitting in a lawn chair on a Saturday morning, coffee in hand, and a fluffy golden hen hops up onto your knee like she owns the place. She tilts her head, blinks at you with one amber eye, and settles in. That's not a fantasy. That's a Tuesday for people who keep the right breeds. Not every chicken is going to follow you around the yard like a golden retriever, and honestly, some breeds would rather eat your shoelaces than sit in your lap. But if you're choosing your first flock, adding birds to an existing one, or specifically want hens that your kids can handle, breed selection matters more than almost anything else.

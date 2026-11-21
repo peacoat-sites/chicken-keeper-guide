@@ -21,8 +21,8 @@ faqs:
    a: "Skimping on coop size and predator protection. Every experienced chicken keeper has a story about the night a predator got in. Hardware cloth, a sturdy latch with a carabiner or padlock, and a covered run are worth every penny. The other big one is buying too many breeds at once from too many sources before you understand flock dynamics. Start simple, learn the basics, then expand."
 author: "Mike Carter"
 author_slug: "mike-carter"
-author_title: "Coop Builder"
-author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+author_title: "Coops"
+author_bio: "Mike Carter is the byline used at Chicken Keeper Guide for articles on coop design and building: space, ventilation and predator proofing. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your neighbor shows up at your fence one Saturday morning holding a cardboard box with holes punched in the lid. Inside: six fluffy Buff Orpington chicks, peeping like crazy. She got them on impulse at the feed store, her landlord said absolutely not, and now she's looking at you with that face. That's how a lot of people get into chickens. Maybe that's you right now, staring at a box of chicks with zero idea what to do next. The good news is you're not in over your head. Chickens are genuinely one of the more forgiving livestock animals a beginner can start with, but they do have real needs, and getting those basics right in the first few months sets the tone for everything.

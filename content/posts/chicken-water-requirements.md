@@ -19,10 +19,10 @@ faqs:
    a: "Plain, clean water is sufficient for a healthy flock. During heat stress, poultry electrolytes are genuinely helpful. A tablespoon of raw apple cider vinegar per gallon is a low-risk addition many keepers use for mild probiotic support. Skip anything that isn't specifically formulated for poultry or approved for your situation."
  - q: "Why are my chickens drinking so much water suddenly?"
    a: "A sudden spike in water consumption can signal heat stress, illness, high-salt feed, or the onset of laying in pullets. If temperatures have risen, that's likely the answer. If the weather is normal and intake is still unusually high, check for other symptoms like lethargy or runny droppings and consider whether a vet consult makes sense."
-author: "Dr. Tom Henderson"
-author_slug: "dr-tom-henderson"
-author_title: "Poultry Health Reviewer"
-author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+author: "Tom Henderson"
+author_slug: "tom-henderson"
+author_title: "Flock Health"
+author_bio: "Tom Henderson is the byline used at Chicken Keeper Guide for articles on poultry health, common diseases, biosecurity and when to call a vet. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A chicken can go without food for several days and survive. Without water? You're looking at 24 hours before serious damage begins, and in summer heat, it can be even less than that. Most backyard keepers learn this the hard way once, usually after a waterer gets knocked over or freezes solid overnight. The goal of this article is to make sure you never have to learn it that way.

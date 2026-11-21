@@ -21,8 +21,8 @@ faqs:
     a: "The risk is low with commercially raised dried mealworms, which are typically dried at temperatures high enough to kill pathogens. Live mealworms from reputable reptile suppliers are also generally safe. The bigger biosecurity risk with any treat is using something that's been stored improperly or contaminated with rodent droppings, so keep your bags sealed and stored off the floor."
 author: "Mike Carter"
 author_slug: "mike-carter"
-author_title: "Coop Builder"
-author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+author_title: "Coops"
+author_bio: "Mike Carter is the byline used at Chicken Keeper Guide for articles on coop design and building: space, ventilation and predator proofing. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 My chickens would do anything for mealworms. Truly, anything. I once accidentally dropped a bag near the coop door and had six hens in a full sprint before the bag even hit the ground. That part's fun. What's less fun is realizing, a few months into keeping chickens, that you've been treating mealworms like a staple feed instead of what they actually are.

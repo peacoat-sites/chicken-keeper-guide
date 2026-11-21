@@ -19,10 +19,10 @@ faqs:
    a: "The boxes themselves should be inside the coop where hens feel safe and protected. The egg collection door, however, should open from outside the coop. This lets you gather eggs quickly without going through the main door, which is cleaner and more convenient."
  - q: "At what age do hens start using nesting boxes?"
    a: "Most hens begin laying between 18 and 24 weeks of age depending on breed. You can introduce fake eggs or golf balls to the boxes a couple of weeks before that window so pullets start associating the boxes with laying before their first egg arrives."
-author: "Dr. Tom Henderson"
-author_slug: "dr-tom-henderson"
-author_title: "Poultry Health Reviewer"
-author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+author: "Tom Henderson"
+author_slug: "tom-henderson"
+author_title: "Flock Health"
+author_bio: "Tom Henderson is the byline used at Chicken Keeper Guide for articles on poultry health, common diseases, biosecurity and when to call a vet. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A hen refusing her nesting box isn't being stubborn. She's telling you something's broken. Maybe the box is too small, too bright, lacks privacy, or sits in the wrong spot, chickens have weirdly specific demands about where they'll lay. Fix this problem and you'll collect clean eggs from the same spots every morning. Mess it up and you're hunting eggs in corners, under feeders, and places you'd rather forget exist.

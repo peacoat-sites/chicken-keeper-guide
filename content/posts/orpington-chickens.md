@@ -21,8 +21,8 @@ faqs:
    a: "The biggest concerns with Orpingtons are obesity, bumblefoot, and mites or lice hiding in their dense feathering. Check under the wings and around the vent feathers regularly for parasites. Keep the run dry and the coop clean. For bumblefoot, catching it early when it's just a small dark scab and addressing it with antiseptic spray and a bandage is far better than waiting until it becomes a deep infection. Vetericyn Wound Spray is something I keep in my coop kit year-round for exactly these moments. (This site may earn a commission on qualifying purchases.)"
 author: "Mike Carter"
 author_slug: "mike-carter"
-author_title: "Coop Builder"
-author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+author_title: "Coops"
+author_bio: "Mike Carter is the byline used at Chicken Keeper Guide for articles on coop design and building: space, ventilation and predator proofing. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 The first time I held a Buff Orpington pullet, I thought someone had handed me a loaf of warm bread. She was round, dense, impossibly soft, and completely unfazed by being picked up by a stranger. That calm temperament isn't an accident. It's been bred into this bird for over a century, and it's exactly why Orpingtons remain one of the most popular backyard breeds in the world despite never winning any egg-laying contests.

@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Mike Carter"
 author_slug: "mike-carter"
-author_title: "Coop Builder"
-author_specialty: "Chicken Coop Design & Construction"
+author_title: "Coops"
+author_specialty: "Coops"
 ---
 
-Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates.
+Mike Carter is the byline used at Chicken Keeper Guide for articles on coop design and building: space, ventilation and predator proofing. It is a pen name; how articles are researched and checked is explained in our editorial standards.
+
+[How Chicken Keeper Guide articles are written and checked](/editorial-standards/)

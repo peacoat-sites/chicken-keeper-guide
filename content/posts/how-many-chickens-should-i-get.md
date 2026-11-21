@@ -21,8 +21,8 @@ faqs:
    a: "Honestly, starting with your target number from the beginning is easier. Integrating new birds into an established flock takes real effort: you need a quarantine period of at least 30 days for new birds, and the pecking order reshuffling can be stressful for everyone. If you start with four and try to add two more a year later, expect a few weeks of chaos. It's doable, but not as smooth as getting your flock established all at once."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
-author_title: "Backyard Poultry Keeper"
-author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
+author_title: "Backyard Flocks"
+author_bio: "Carol Thompson is the byline used at Chicken Keeper Guide for articles on keeping a small backyard flock: breeds, daily care and the first year. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people start with three chickens. Then they go to pick them up, see all those fluffy little faces, and come home with six. What starts as a sensible, practical decision often turns into what the chicken community calls "chicken math," where keepers end up pricing out a second coop before they expected to. So before you get swept up in the cuteness, let's talk numbers in a real, grounded way so you can make a decision you won't regret, whether you're starting from scratch or expanding an existing flock.

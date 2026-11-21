@@ -19,10 +19,10 @@ faqs:
    a: "Chickens are lactose intolerant, so large quantities of milk or soft cheese will cause diarrhea. Small amounts of hard cheese or plain yogurt are usually tolerated and can provide a calcium boost. But dairy should be limited and occasional, not a daily offering."
  - q: "Is it safe to let chickens eat grass and weeds while free ranging?"
    a: "Mostly yes. Grass, clover, dandelion greens, and most common lawn weeds are excellent forage. The caution is with ornamental and wild plants. Hemlock (both water hemlock and poison hemlock), bracken fern, and nightshade-family weeds are all genuinely dangerous. Learn what grows in your yard and fence off anything questionable. Free ranging is healthy for chickens, and if you're building out your setup, checking chicken run size requirements will help you give your flock room to move safely."
-author: "Dr. Tom Henderson"
-author_slug: "dr-tom-henderson"
-author_title: "Poultry Health Reviewer"
-author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+author: "Tom Henderson"
+author_slug: "tom-henderson"
+author_title: "Flock Health"
+author_bio: "Tom Henderson is the byline used at Chicken Keeper Guide for articles on poultry health, common diseases, biosecurity and when to call a vet. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're standing at the kitchen counter with leftover guacamole in one hand and the chicken run in sight. Perfect snack for the flock, right? Wrong. That avocado contains persin, a fungicidal toxin that can stop a chicken's heart within 24 to 48 hours. Every year, well-meaning keepers accidentally poison their birds with scraps they thought were safe. The good news: it's completely preventable if you know what actually belongs in the feed dish.

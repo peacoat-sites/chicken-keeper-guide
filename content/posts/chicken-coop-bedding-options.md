@@ -21,8 +21,8 @@ faqs:
    a: "Nine times out of ten, ventilation. Ammonia is heavier than air and sinks to floor level. It builds up in closed coops incredibly fast, especially in winter when keepers close vents to keep birds warm. Birds need fresh air more than they need a warm coop. Open your upper vents even in cold weather. Check that droppings boards under roosts are being cleaned every few days, since that concentrated pile under the roost is the main ammonia source. A product like Sweet PDZ Coop Refresher sprinkled under roosts can help manage ammonia between cleanings. (This site may earn a commission on purchases."
 author: "Mike Carter"
 author_slug: "mike-carter"
-author_title: "Coop Builder"
-author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+author_title: "Coops"
+author_bio: "Mike Carter is the byline used at Chicken Keeper Guide for articles on coop design and building: space, ventilation and predator proofing. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 I once watched a fellow chicken keeper spend three weekends in a row completely stripping out her coop, scrubbing the floor, and reloading fresh pine shavings, only to have the smell return within days. The bedding wasn't failing her. Her management system was. After a quick chat and a switch to the [deep litter method](/deep-litter-method-chickens/), she went from weekly strip-outs to a full cleanout twice a year. That kind of shift is possible for most backyard keepers, but you have to understand your options first.

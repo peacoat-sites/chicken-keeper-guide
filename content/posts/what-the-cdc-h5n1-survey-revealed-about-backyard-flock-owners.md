@@ -8,8 +8,8 @@ categories: ["trending"]
 tags: ["what", "h5n1", "survey", "revealed", "about"]
 author: "Carol Thompson"
 author_slug: "carol-thompson"
-author_title: "Backyard Poultry Keeper"
-author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
+author_title: "Backyard Flocks"
+author_bio: "Carol Thompson is the byline used at Chicken Keeper Guide for articles on keeping a small backyard flock: breeds, daily care and the first year. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "what-the-cdc-h5n1-survey-revealed-about-backyard-flock-owners"
 affiliate_disclosure: false
 lastmod: 2026-07-07

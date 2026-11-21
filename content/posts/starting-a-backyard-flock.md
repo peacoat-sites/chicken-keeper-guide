@@ -21,8 +21,8 @@ faqs:
    a: "Buying too many birds too fast, usually at a feed store in spring when the chicks are irresistible. People end up with 12 chicks when they only have infrastructure for 4, they haven't checked their local laws, and the coop isn't finished yet. Start with a realistic number, get your setup right first, and add birds intentionally. Chickens multiply your problems as fast as they multiply your eggs if you're not prepared."
 author: "Mike Carter"
 author_slug: "mike-carter"
-author_title: "Coop Builder"
-author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+author_title: "Coops"
+author_bio: "Mike Carter is the byline used at Chicken Keeper Guide for articles on coop design and building: space, ventilation and predator proofing. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Many keepers find that collecting their first eggs creates a sense of connection to their flock that doesn't fade, even after years and hundreds of birds. That emotional bond is part of why backyard flocks have exploded in popularity. According to the USDA, backyard poultry keeping grew by nearly 4 million households between 2012 and 2019, and that number has only climbed since. If you're thinking about starting your own flock, you're not alone, and you're not too late.

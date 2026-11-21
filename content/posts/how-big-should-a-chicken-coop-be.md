@@ -21,8 +21,8 @@ faqs:
    a: "For most people starting with backyard chickens, a 4x6 coop (24 square feet) serves 4 to 6 birds in a mild climate, or 3 to 4 birds in a cold one. Anything smaller and you're in constant maintenance mode: cleaning more often, managing pecking issues, and dealing with stressed birds. That's not the experience most people are looking for. If you're truly space-limited, stick to 3 to 4 bantams in a well-built small coop with a generous run."
 author: "Sarah Mills"
 author_slug: "sarah-mills"
-author_title: "Homesteader"
-author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+author_title: "Homestead Chickens"
+author_bio: "Sarah Mills is the byline used at Chicken Keeper Guide for articles on chickens in a homestead or garden system: foraging, compost and pest control. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 I've watched a perfectly friendly flock of Buff Orpingtons turn into feather-pulling, egg-eating chaos in the span of one winter. The coop was 4x6 feet. There were nine birds in it. Do the math and you'll understand everything that went wrong.

@@ -21,8 +21,8 @@ faqs:
    a: "Internal laying (when eggs are deposited into the body cavity instead of the oviduct) is a chronic condition, not an acute emergency in the same way. Those hens develop a swollen, doughy abdomen over weeks, not hours. They're often sick for a long time before the situation becomes critical. Egg binding is sudden and acute. Both are serious. Neither has a great long-term prognosis without veterinary involvement, but they require completely different immediate responses."
 author: "Janet Wilson"
 author_slug: "janet-wilson"
-author_title: "Flock Manager"
-author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+author_title: "Egg Production"
+author_bio: "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your hen's been squatting in the nesting box for hours, puffed up like a football, straining hard, and nothing's coming out. Most guides tell you to call a vet and that's it. Useless advice when it's Sunday night, the nearest avian vet is 45 minutes away, and your bird is getting worse by the hour. Egg binding is one of the few chicken emergencies where the right move at home, done fast, actually saves a life. The wrong move kills her. Here's what you need to know.

@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Janet Wilson"
 author_slug: "janet-wilson"
-author_title: "Flock Manager"
-author_specialty: "Egg Production, Breeds & Flock Management"
+author_title: "Egg Production"
+author_specialty: "Egg Production"
 ---
 
-Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock.
+Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards.
+
+[How Chicken Keeper Guide articles are written and checked](/editorial-standards/)

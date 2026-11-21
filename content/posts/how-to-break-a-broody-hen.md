@@ -21,8 +21,8 @@ faqs:
    a: "After a long broody spell, a hen can lose social standing in the flock, particularly if the other hens have had weeks without her being a regular part of daily flock dynamics. This usually resolves itself within a week or two as she reasserts herself. Give her extra feed access during this period, and make sure she can reach the waterer without being blocked. Adding a second poultry feeder can help reduce competition during the reintegration period."
 author: "Mike Carter"
 author_slug: "mike-carter"
-author_title: "Coop Builder"
-author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+author_title: "Coops"
+author_bio: "Mike Carter is the byline used at Chicken Keeper Guide for articles on coop design and building: space, ventilation and predator proofing. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 If you walked out to the coop this morning and found one of your hens puffed up like a football, sitting flat on the nest box and making that low, rattling growl when you reached toward her, you already know something has shifted. She's not laying. She's barely eating or drinking. And if you have other hens, she may be hogging a nest box that everyone else needs. You've got a broody hen on your hands, and whether you want to let her hatch eggs or not, you need to understand what's happening in her body and what your options actually are.

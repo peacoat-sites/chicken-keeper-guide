@@ -21,8 +21,8 @@ faqs:
    a: "First, take care of any surviving birds. Remove them from the scene, check for injuries, and treat wounds with Vetericyn poultry wound spray or a diluted Betadine solution. Wounded birds need to be separated to prevent the rest of the flock from pecking at injuries. Then, figure out the entry point and fix it before dark. Predators that succeed always come back. (This site may earn a commission on qualifying purchases.)"
 author: "Sarah Mills"
 author_slug: "sarah-mills"
-author_title: "Homesteader"
-author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+author_title: "Homestead Chickens"
+author_bio: "Sarah Mills is the byline used at Chicken Keeper Guide for articles on chickens in a homestead or garden system: foraging, compost and pest control. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your first flock of baby chicks arrives in a small cardboard box, peeping like crazy, and you realize you have no idea what you're doing. That moment is more common than you'd think. The good news: chickens are forgiving. They're tougher than they look, and with the right foundation, [raising a healthy flock](/backyard-chickens-for-beginners/) is absolutely something a complete beginner can do.

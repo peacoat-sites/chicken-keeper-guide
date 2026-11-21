@@ -3,39 +3,36 @@ title: "About Chicken Keeper Guide"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About Chicken Keeper Guide,  meet Carol Thompson, a decade-long backyard chicken keeper writing practical poultry guides."
+description: "What Chicken Keeper Guide covers, who writes it and how articles are produced."
 layout: "about-page"
-author_slug: "carol-thompson"
-author_name: "Chicken Keeper Guide"
-person_name: "Carol Thompson"
 ---
 
 ## About Chicken Keeper Guide
 
-Chicken Keeper Guide is a practical resource for backyard chicken owners,  from setting up a first flock to managing a productive laying operation. Everything here comes from hands-on experience.
+Chicken Keeper Guide is a practical resource for backyard and homestead flocks: breeds, coops, feed, egg production and flock health.
 
-## Meet the Editor
+## Who writes here
 
-**Carol Thompson** is the editor behind Chicken Keeper Guide.
+Articles are published under pen names, each covering one part of the site:
 
-Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care.
+- **[Carol Thompson](/carol-thompson/)**: keeping a small backyard flock: breeds, daily care and the first year
+- **[Tom Henderson](/tom-henderson/)**: poultry health, common diseases, biosecurity and when to call a vet
+- **[Janet Wilson](/janet-wilson/)**: egg production, laying cycles and breed selection
+- **[Mike Carter](/mike-carter/)**: coop design and building: space, ventilation and predator proofing
+- **[Sarah Mills](/sarah-mills/)**: chickens in a homestead or garden system: foraging, compost and pest control
 
-## What We Cover
+## How we work
 
-Chicken Keeper Guide covers the full backyard poultry experience,  breed selection, coop design and construction, brooding chicks, flock health and disease prevention, egg production, molting, predator protection, feed and nutrition, and the business of selling eggs.
+Articles are drafted with AI writing tools from public sources and pass an automated accuracy check before they are published. The full process, the sources we rely on and the limits of what this site can tell you are in our [editorial standards](/editorial-standards/).
 
-## Our Approach
+## Important limits
 
-Practical first, theoretical second. When something works, we say why. When something doesn’t, we say that too. We cover both the beginner basics and the more advanced topics that longtime keepers run into.
+Health articles describe common signs and standard care, but they cannot diagnose a sick bird. For illness or injury, contact a veterinarian who treats poultry or your state's poultry extension service. If several birds die suddenly, or you see swollen heads, purple combs and wattles, or a sharp drop in laying with breathing trouble, report it to your state veterinarian or USDA, because these can be signs of avian influenza.
 
-## Disclaimer
+## Affiliate disclosure
 
-Chicken Keeper Guide shares general husbandry guidance based on personal experience and research. It is not veterinary advice. Consult a licensed poultry veterinarian for diagnosis and treatment of sick birds. Local zoning and ordinances for backyard flocks vary,  check your local regulations before starting a flock.
-
-## Affiliate Disclosure
-
-Some links on this site, particularly for coop supplies and equipment, are Amazon affiliate links. Purchases may earn us a small commission at no extra cost to you.
+Some links on this site are affiliate links, including Amazon links. If you buy through them we may earn a commission at no extra cost to you.
 
 ## Contact
 
-Questions or topic requests? [Get in touch here](/contact/).
+Questions, corrections or topic requests: use the [contact page](/contact/).

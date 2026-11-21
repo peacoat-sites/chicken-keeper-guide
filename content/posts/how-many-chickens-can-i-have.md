@@ -21,8 +21,8 @@ faqs:
    a: "Ducks and chickens can coexist, with some caveats: ducks make a mess of water, they need different nutrition (no added niacin in standard layer feed isn't enough for ducks), and they can bully or be bullied depending on breed. Whether ducks count toward your bird limit depends entirely on how your local ordinance is written. Some say 'chickens,' some say 'poultry,' some say 'fowl.' Read the exact language and call to confirm."
 author: "Janet Wilson"
 author_slug: "janet-wilson"
-author_title: "Flock Manager"
-author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+author_title: "Egg Production"
+author_bio: "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've done your research, you've watched the YouTube videos, and you've already mentally named a few of your future hens. Now you're staring at your backyard trying to figure out the actual number you can keep without running into trouble with your neighbor, your city code enforcement officer, or your own sanity. It's a more complicated question than it looks, and the answer you'll find on most hatchery websites, "get at least three," leaves out about 90% of what you actually need to know.

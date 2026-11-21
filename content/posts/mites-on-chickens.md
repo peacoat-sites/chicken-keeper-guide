@@ -21,8 +21,8 @@ faqs:
     a: "Yes, but it requires catching each bird individually, which takes more effort. A good handling setup helps enormously. Consider a temporary smaller pen or use the coop at night when birds are roosted and easier to catch. Don't let the challenge of catching free-range birds become an excuse to skip treatment or re-treatment. That second treatment is especially important, and you need to get every bird, not just the ones that were easy to grab."
 author: "Janet Wilson"
 author_slug: "janet-wilson"
-author_title: "Flock Manager"
-author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+author_title: "Egg Production"
+author_bio: "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You go out to collect eggs one morning and notice your best layer, the big Barred Rock who gives you an egg almost every single day, is sitting hunched in the corner of the nesting box looking miserable. You pick her up and part the feathers near her vent. What you see stops you cold: a gray, writhing mass of tiny insects packed so densely around the base of her feathers that the skin underneath looks raw and angry. That's northern fowl mite. And if you're seeing it on one bird, I promise you it's already on more of them.

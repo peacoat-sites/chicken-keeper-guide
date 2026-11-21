@@ -21,8 +21,8 @@ faqs:
     a: "Honestly, probably not. A heavy load confirmed by fecal test in a symptomatic bird needs real intervention. Use fenbendazole or another veterinary-recommended option, then shift to natural maintenance afterward. Trying to ride out a serious infestation on pumpkin seeds and garlic is one of those things that sounds good until a bird dies from it."
 author: "Mike Carter"
 author_slug: "mike-carter"
-author_title: "Coop Builder"
-author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+author_title: "Coops"
+author_bio: "Mike Carter is the byline used at Chicken Keeper Guide for articles on coop design and building: space, ventilation and predator proofing. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most natural worming guides tell you to throw some pumpkin seeds at your flock and call it a day. That's not wrong exactly, but it's maybe 10% of the picture, and if your birds are carrying a heavy worm load, pumpkin seeds alone aren't going to cut it.

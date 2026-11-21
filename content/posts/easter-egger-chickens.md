@@ -21,8 +21,8 @@ faqs:
    a: "It's hard, honestly. Easter Egger chicks are notoriously difficult to sex based on appearance alone because they come in so many color variations. Hatcheries typically offer sexed Easter Eggers at 90-95% accuracy. By 6-8 weeks, males will show noticeably thicker legs, more upright posture, and the beginnings of pointed saddle feathers. If you're really uncertain, wait until 10-12 weeks and look for the development of a more pronounced pea comb and the first appearance of pointed hackle feathers around the neck."
 author: "Mike Carter"
 author_slug: "mike-carter"
-author_title: "Coop Builder"
-author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+author_title: "Coops"
+author_bio: "Mike Carter is the byline used at Chicken Keeper Guide for articles on coop design and building: space, ventilation and predator proofing. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 The first time I candled an egg from my Easter Egger pullet Juniper, I genuinely couldn't tell if I was looking at a blue egg or a green one. She'd laid something that split the difference so perfectly it looked teal under natural light, aqua under the kitchen fluorescent, and almost sage in the henhouse. That moment captures everything I love and everything that drives beginners slightly crazy about Easter Eggers: they're wonderfully unpredictable, endlessly variable, and somehow exactly what most backyard flocks need.

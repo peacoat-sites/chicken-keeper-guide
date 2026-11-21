@@ -21,8 +21,8 @@ faqs:
    a: "Not universally. It's worth using if your chicks weren't vaccinated for coccidiosis, which is common with hatchery birds that only received Marek's vaccine. If your chicks were vaccinated specifically for coccidiosis, skip the medicated feed since amprolium can interfere with the vaccine building immunity. When in doubt, ask your hatchery directly."
 author: "Mike Carter"
 author_slug: "mike-carter"
-author_title: "Coop Builder"
-author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+author_title: "Coops"
+author_bio: "Mike Carter is the byline used at Chicken Keeper Guide for articles on coop design and building: space, ventilation and predator proofing. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 I killed six chicks my first year because I didn't understand heat gradients. Not a brooder fire, not a predator, not disease. I kept the whole brooder at one temperature, the chicks got too hot, stressed out, piled on top of each other anyway, and the smallest ones suffocated. That was twenty-something chicks worth of learning happening in about four days, and I still think about it.

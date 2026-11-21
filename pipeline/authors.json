@@ -2,36 +2,36 @@
   {
     "slug": "carol-thompson",
     "name": "Carol Thompson",
-    "title": "Backyard Poultry Keeper",
-    "specialty": "Backyard Chickens & Small Flocks",
-    "bio": "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
+    "title": "Backyard Flocks",
+    "specialty": "Backyard Flocks",
+    "bio": "Carol Thompson is the byline used at Chicken Keeper Guide for articles on keeping a small backyard flock: breeds, daily care and the first year. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
-    "slug": "dr-tom-henderson",
-    "name": "Dr. Tom Henderson",
-    "title": "Poultry Health Reviewer",
-    "specialty": "Poultry Veterinary Medicine & Disease Prevention",
-    "bio": "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
-  },
-  {
-    "slug": "sarah-mills",
-    "name": "Sarah Mills",
-    "title": "Homesteader",
-    "specialty": "Permaculture, Self-Sufficiency & Small Farm Systems",
-    "bio": "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
-  },
-  {
-    "slug": "mike-carter",
-    "name": "Mike Carter",
-    "title": "Coop Builder",
-    "specialty": "Chicken Coop Design & Construction",
-    "bio": "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+    "slug": "tom-henderson",
+    "name": "Tom Henderson",
+    "title": "Flock Health",
+    "specialty": "Flock Health",
+    "bio": "Tom Henderson is the byline used at Chicken Keeper Guide for articles on poultry health, common diseases, biosecurity and when to call a vet. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "janet-wilson",
     "name": "Janet Wilson",
-    "title": "Flock Manager",
-    "specialty": "Egg Production, Breeds & Flock Management",
-    "bio": "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+    "title": "Egg Production",
+    "specialty": "Egg Production",
+    "bio": "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+  },
+  {
+    "slug": "mike-carter",
+    "name": "Mike Carter",
+    "title": "Coops",
+    "specialty": "Coops",
+    "bio": "Mike Carter is the byline used at Chicken Keeper Guide for articles on coop design and building: space, ventilation and predator proofing. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+  },
+  {
+    "slug": "sarah-mills",
+    "name": "Sarah Mills",
+    "title": "Homestead Chickens",
+    "specialty": "Homestead Chickens",
+    "bio": "Sarah Mills is the byline used at Chicken Keeper Guide for articles on chickens in a homestead or garden system: foraging, compost and pest control. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   }
 ]

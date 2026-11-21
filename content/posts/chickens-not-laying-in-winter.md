@@ -21,8 +21,8 @@ faqs:
    a: "A 2-year-old hen lays roughly 80% of what she laid at her peak. By year 3, you're often looking at 50 to 60%. Winter amplifies this. An older hen who gave you 5 eggs a week in her first summer might give you one or two a week in her third winter even with supplemental light. This is normal aging, not illness. If production drops suddenly and dramatically outside of the normal seasonal pattern, especially accompanied by behavior changes, that warrants a health check."
 author: "Mike Carter"
 author_slug: "mike-carter"
-author_title: "Coop Builder"
-author_bio: "Mike Carter has built custom chicken coops for hundreds of clients across a range of climates, property sizes, and flock configurations. He has strong opinions about ventilation, predator proofing, and the design features that make a coop easy to clean and maintain. At Chicken Keeper Guide, he covers coop construction, design principles, and modifications for different climates."
+author_title: "Coops"
+author_bio: "Mike Carter is the byline used at Chicken Keeper Guide for articles on coop design and building: space, ventilation and predator proofing. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You go out to the coop on a cold December morning, lift the nesting box lid, and find exactly nothing. Again. Six hens. Reliable all spring and summer. And now it's been three weeks since you've seen more than one or two eggs on a good day. Something's wrong. Has to be.

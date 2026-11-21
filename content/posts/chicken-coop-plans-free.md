@@ -21,8 +21,8 @@ faqs:
    a: "For absolute beginners, I'd start with a plan from your state's cooperative extension service if one is available, or the free plans from My Pet Chicken. These tend to be clearly written, appropriately sized, and designed with real backyard flock management in mind. Look for a simple A-frame or gable-roof box design rather than anything with multiple stories, catwalks, or complex framing. Simple builds are easier to predator-proof, easier to clean, and easier to expand or modify later."
 author: "Janet Wilson"
 author_slug: "janet-wilson"
-author_title: "Flock Manager"
-author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+author_title: "Egg Production"
+author_bio: "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Free coop plans are genuinely useful, but only if you know how to pick the right one and what to watch out for before you swing a hammer.

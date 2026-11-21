@@ -21,8 +21,8 @@ faqs:
    a: "A good quality 18 to 20 percent protein starter from hatch through 16 to 18 weeks, then transition laying hens to a 16 percent layer feed and provide free-choice oyster shell. For grow-out cockerels in a separate pen, an all-flock grower at 16 to 18 percent protein works well through processing age. Keep fresh water available at all times. A horizontal nipple waterer system keeps the water cleaner than open dishes and dramatically reduces the muddy mess around the water source. Dual purpose chickens aren't a compromise. They're a different philosophy about what a flock is for. When you raise b"
 author: "Sarah Mills"
 author_slug: "sarah-mills"
-author_title: "Homesteader"
-author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+author_title: "Homestead Chickens"
+author_bio: "Sarah Mills is the byline used at Chicken Keeper Guide for articles on chickens in a homestead or garden system: foraging, compost and pest control. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 I had 17 chickens with nowhere to go.

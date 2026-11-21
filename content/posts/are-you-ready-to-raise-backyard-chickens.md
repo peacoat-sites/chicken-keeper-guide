@@ -5,10 +5,10 @@ description: "Take this fun 7-question quiz to find out if you're ready to start
 slug: "are-you-ready-to-raise-backyard-chickens"
 date: 2026-05-27T10:00:00+00:00
 tags: ["backyard chickens", "chicken keeping", "beginner guide", "homesteading", "quiz"]
-author: "Dr. Tom Henderson"
-author_slug: "dr-tom-henderson"
-author_title: "Poultry Health Reviewer"
-author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+author: "Tom Henderson"
+author_slug: "tom-henderson"
+author_title: "Flock Health"
+author_bio: "Tom Henderson is the byline used at Chicken Keeper Guide for articles on poultry health, common diseases, biosecurity and when to call a vet. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-07
 ---
 Thinking about tossing some hens in your backyard? Fresh eggs straight from the nest, actual personalities, and something to do besides scroll through your phone, it's genuinely appealing. But here's the thing: chickens are living animals that need real care, not a weekend hobby project you'll abandon in July. A quick reality check before you hammer together a coop saves months of frustration and a lot of regret.

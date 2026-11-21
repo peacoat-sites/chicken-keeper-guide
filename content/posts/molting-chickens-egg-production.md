@@ -21,8 +21,8 @@ faqs:
    a: "Yes, roosters molt on roughly the same schedule as hens. You'll see the same feather loss and regrowth cycle, and it often coincides with a noticeable reduction in mating activity. The rooster may seem less aggressive or less interested in the hens during molt. His tail feathers, especially the long sickle feathers, are usually the most dramatic part of the regrowth. A rooster coming out of molt with a new set of long sickle feathers is a genuinely impressive bird."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
-author_title: "Backyard Poultry Keeper"
-author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
+author_title: "Backyard Flocks"
+author_bio: "Carol Thompson is the byline used at Chicken Keeper Guide for articles on keeping a small backyard flock: breeds, daily care and the first year. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You did everything right. The coop is clean, the water is fresh, the feed is stocked, and then one October morning you walk out to collect eggs and find almost nothing in the nest boxes. Meanwhile your hens look like they lost a fight with a leaf blower. Feathers everywhere. Bare patches on necks and backs. They look terrible and you're getting maybe one egg every few days from a flock that was cranking out a dozen. Most people panic and start troubleshooting the wrong things. The real answer is simpler and more frustrating: your hens are molting, and there's not a whole lot you can do to speed it up.

@@ -21,8 +21,8 @@ faqs:
    a: "Most causes of stopped laying, including light reduction, molt, stress, and minor illness, are manageable at home with observation and time. You need a vet if: she has a visibly swollen abdomen, she's showing respiratory symptoms, she's been off food and water for more than 48 hours, she's in obvious distress, or you suspect egg binding and a warm soak isn't resolving it. A good avian or large-animal vet is worth knowing before you need one urgently."
 author: "Sarah Mills"
 author_slug: "sarah-mills"
-author_title: "Homesteader"
-author_bio: "Sarah Mills runs a small permaculture homestead where chickens are a core part of the system, contributing pest control, manure, and eggs in exchange for food scraps and a well-designed space. At Chicken Keeper Guide, she covers integrating chickens into gardens, food forest systems, and small farm operations."
+author_title: "Homestead Chickens"
+author_bio: "Sarah Mills is the byline used at Chicken Keeper Guide for articles on chickens in a homestead or garden system: foraging, compost and pest control. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You walk out to the coop one morning, lift the nesting box lid, and find nothing. Not one egg. Yesterday there were four. The day before, five. You check again in the afternoon, just to be sure. Still nothing. If this sounds familiar, you're not alone, and you're also not doing anything wrong. Hens stop laying for more reasons than most beginners expect, and here's the frustrating part: several of those reasons can be happening at the same time.

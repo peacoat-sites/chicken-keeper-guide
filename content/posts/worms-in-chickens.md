@@ -21,8 +21,8 @@ faqs:
    a: "There's no officially established FDA withdrawal period because fenbendazole isn't approved for laying hens in the US. The commonly observed informal standard among backyard keepers and many avian vets is 14 days after the last treatment dose. Some err on the side of 17 to 21 days to be safe. If you're selling eggs or giving them to people who don't know about the treatment, 14 to 17 days minimum. When in doubt, talk to the vet who prescribed the medication."
 author: "Janet Wilson"
 author_slug: "janet-wilson"
-author_title: "Flock Manager"
-author_bio: "Janet Wilson has managed a laying flock of 20 to 40 hens for most of the past decade, with a focus on consistent year-round production and breed selection. She has kept extensive records on egg production rates, temperament, and climate suitability of more than a dozen breeds. At Chicken Keeper Guide, she covers breed comparisons, laying hen management, and getting consistent production from a backyard flock."
+author_title: "Egg Production"
+author_bio: "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've got a layer standing apart from the flock, tail drooping, looking thin even though she's eating fine. [No respiratory issues](/respiratory-illness-chickens/). No visible mites. You worm her on a hunch, and two weeks later she's back to laying and acting normal. Internal parasites are often the most underdiagnosed health problem in backyard chickens, and most keepers don't catch an infestation until the bird is already struggling.

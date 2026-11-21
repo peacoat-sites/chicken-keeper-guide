@@ -19,10 +19,10 @@ faqs:
     a: "Startup coop and run construction, by a significant margin. Done right, with quality materials and genuine predator protection, it's a $500-$1,000 investment before you account for anything else. The ongoing feed cost is real but manageable; it's the upfront infrastructure that trips people up."
   - q: "How long do hens lay eggs, and how does that affect the cost calculation?"
     a: "Hens typically lay well for two to three years, with peak production in years one and two. After that, production drops significantly but doesn't stop entirely. Many backyard keepers keep hens past their peak, which increases the cost-per-egg ratio. If you're purely cost-focused, rotating in new pullets every two years and rehoming older hens makes the most financial sense, though that's a complicated calculation most people don't want to do."
-author: "Dr. Tom Henderson"
-author_slug: "dr-tom-henderson"
-author_title: "Poultry Health Reviewer"
-author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+author: "Tom Henderson"
+author_slug: "tom-henderson"
+author_title: "Flock Health"
+author_bio: "Tom Henderson is the byline used at Chicken Keeper Guide for articles on poultry health, common diseases, biosecurity and when to call a vet. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Nobody warned me that my "cheap" backyard egg setup would cost me $1,400 before a single hen laid her first egg. I'd read all the beginner guides. I bought the $89 starter coop from Tractor Supply, grabbed six chicks at $4.99 each from the local feed store, and figured I was being smart and frugal. I was not.

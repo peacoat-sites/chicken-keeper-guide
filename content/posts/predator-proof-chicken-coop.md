@@ -21,8 +21,8 @@ faqs:
    a: "Yes, and I say this from personal experience. They'll work sliding bolts, simple hooks, and twist latches without much trouble, especially if they've had time to practice. Anything that requires two independent actions to open, like a carabiner plus a bolt, or a padlock, is beyond what a raccoon can reliably solve. It's a real thing, not a myth."
 author: "Carol Thompson"
 author_slug: "carol-thompson"
-author_title: "Backyard Poultry Keeper"
-author_bio: "Carol Thompson has raised laying hens in both suburban and rural backyards for over a decade, learning most of it the hard way. She writes the practical, specific guidance she wishes she had when she started. At Chicken Keeper Guide she covers small-flock keeping, breeds, and daily care."
+author_title: "Backyard Flocks"
+author_bio: "Carol Thompson is the byline used at Chicken Keeper Guide for articles on keeping a small backyard flock: breeds, daily care and the first year. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 It happened on a Tuesday morning. I walked out to let my girls out for the day and found the coop door hanging open, feathers scattered across the run, and four of my best laying hens gone. A raccoon had figured out the simple barrel bolt I'd been using for two years. Just like that. If you've never experienced a predator attack, you might think I'm being dramatic. If you have, you know exactly the sick feeling I'm describing. Building a truly predator-proof chicken coop isn't about being paranoid. It's about understanding that every wild animal in your area is essentially running a nightly audit of your birds' security, looking for the one mistake you made.

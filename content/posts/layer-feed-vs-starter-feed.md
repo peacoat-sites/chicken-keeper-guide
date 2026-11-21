@@ -19,10 +19,10 @@ faqs:
    a: "A few possibilities. Check that the calcium percentage on your feed bag is 3.5% or higher. Older hens, particularly those over 2-3 years, absorb calcium less efficiently and often need supplemental oyster shell even on a good layer ration. High-production breeds like best egg laying chickens put enormous demands on their systems and almost always benefit from separate free-choice calcium. Heat stress can also temporarily reduce shell quality regardless of diet."
  - q: "Is organic or non-GMO starter or layer feed worth the extra cost?"
    a: "Nutritionally, the evidence that organic feed produces significantly healthier or more productive chickens is limited. What you're paying for is primarily peace of mind around inputs. That said, some small producers who sell eggs at a premium use organic feed as part of their marketing. For most backyard keepers, a quality conventional feed from a reputable brand will give you excellent results without the 30-50% price premium."
-author: "Dr. Tom Henderson"
-author_slug: "dr-tom-henderson"
-author_title: "Poultry Health Reviewer"
-author_bio: "Dr. Tom Henderson is a veterinarian with a specialty in poultry health, working with both commercial flocks and backyard keepers. He reviews all health-related content on Chicken Keeper Guide for veterinary accuracy and adds clinical context to help keepers distinguish between normal chicken behavior and genuine health concerns."
+author: "Tom Henderson"
+author_slug: "tom-henderson"
+author_title: "Flock Health"
+author_bio: "Tom Henderson is the byline used at Chicken Keeper Guide for articles on poultry health, common diseases, biosecurity and when to call a vet. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You picked up a bag of feed at the farm store, tossed it in the car, and drove home feeling like you had this chicken thing figured out. Then you get home and the label says "Starter" but your hens are 22 weeks old and laying their first eggs. Does it actually matter? Yes. Feeding the wrong formula at the wrong life stage can mean soft-shelled eggs, bone problems, stunted pullets, or kidney damage in young chicks. This isn't marketing fluff. It's nutrition science that directly affects your flock's health and [how many eggs you'll get](/how-much-to-feed-chickens-per-day/).

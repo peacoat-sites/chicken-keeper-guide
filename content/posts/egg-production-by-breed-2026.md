@@ -4,12 +4,13 @@ image: "/img/heroes/34000202.jpg"
 description: "USDA chicken breed productivity data. Leghorn 320 eggs/year vs Silkie 150. Choose layers, dual-purpose, or ornamental based on your goals."
 author: "Sarah Mills"
 author_slug: "sarah-mills"
-author_title: "Homesteader"
+author_title: "Homestead Chickens"
 date: 2026-06-28
 featured_depth: true
 categories: ["sustainability"]
 keywords: ["egg production by breed", "best laying chicken breeds", "chicken productivity", "annual eggs per breed"]
 lastmod: 2026-07-07
+author_bio: "Sarah Mills is the byline used at Chicken Keeper Guide for articles on chickens in a homestead or garden system: foraging, compost and pest control. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 ---
 
 Pick the wrong breed and you'll get 150 eggs/year. Pick the right one and you'll get 320.

@@ -26,13 +26,13 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-My first flock of Black Australorps came from a local feed store in the spring of 2016, and I fully expected them to lay well for two or three years and then quietly retire. What I didn't expect was that one of those hens, a bird I called Marjorie, would still be following me around the yard a full decade later, completely egg-free since 2021 and absolutely unbothered about it.
+Many keepers start with Black Australorps expecting them to lay well for two or three years and then quietly retire. What surprises many keepers is discovering that a hen can still be active and healthy a full decade in, completely egg-free for years and absolutely unbothered about it.
 
-She is not a myth. She is a real chicken. And she is slowly teaching me that I had a lot of assumptions wrong about how long these birds actually live.
+  Stories like this challenge a lot of common assumptions about how long these birds actually live.
 
 Most hatchery websites will tell you chickens live "five to ten years" and leave it at that. That range is technically accurate and also almost completely useless, because it lumps together a production-bred hybrid that might burn out at three with a heritage breed that could genuinely reach twelve. If you're trying to plan your flock, budget for feed and care, or just brace yourself emotionally for what's coming, you need a more specific picture than "five to ten."
 
-Here's what I've learned over ten years of keeping birds through full lifespans, including the losses.
+Here is a closer look at what lifespan research and long-term flock experience reveal, including the losses.
 
 ## What Actually Determines How Long Your Chicken Lives
 
@@ -44,11 +44,11 @@ Here's what I've learned over ten years of keeping birds through full lifespans,
 
 Genetics is the single biggest factor, and it's the one most backyard keepers underestimate. Production breeds like the ISA Brown, Golden Comet, or any "sex-link" hybrid are engineered for maximum egg output early in life. They can lay 300+ eggs in their first year. The biological cost of that output is real: their reproductive systems are under stress in a way that heritage breeds simply aren't, and they're significantly more prone to reproductive cancers, internal laying, and egg yolk peritonitis as they age. ISA Browns often decline sharply around year three or four, though not all of them, and these birds are generally not expected to live to an old age.
 
-Heritage breeds are a different story. Australorps, Dominiques, Wyandottes, Buckeyes, Java chickens, even well-bred Barred Rocks tend to live longer, full stop. My Australorps have consistently reached six to eight years. I had a Dominique named Gladys who made it to eleven, though she spent her last two years as purely a pet. The tradeoff is that these breeds lay fewer eggs, and they start tapering off sooner per-year than the hybrids do.
+Heritage breeds are a different story. Australorps, Dominiques, Wyandottes, Buckeyes, Java chickens, even well-bred Barred Rocks tend to live longer, full stop. Australorps commonly reach six to eight years. Dominiques have been documented reaching eleven years, though the final years are often spent as non-laying pets. The tradeoff is that these breeds lay fewer eggs, and they start tapering off sooner per-year than the hybrids do.
 
 Roosters, interestingly, often outlive hens. This makes sense when you think about it: they're not cycling reproductively the same way. A good heritage rooster can easily live eight to twelve years if he's not getting into fights he can't win.
 
-Stress and environment matter more than most people realize. Overcrowding alone will shave years off a bird's life. The generally accepted minimum is four square feet per bird inside the coop and ten square feet per bird in the run, but I'd push both of those higher if you can. Birds that spend their lives in cramped conditions have suppressed immune systems and chronic low-grade stress responses that compound over time. It's not dramatic. It just slowly catches up with them.
+Stress and environment matter more than most people realize. Overcrowding alone will shave years off a bird's life. The generally accepted minimum is four square feet per bird inside the coop and ten square feet per bird in the run, and going higher than those minimums is advisable when possible. Birds that spend their lives in cramped conditions have suppressed immune systems and chronic low-grade stress responses that compound over time. It's not dramatic. It just slowly catches up with them.
 
 Predator pressure is the more immediate risk, obviously. Statistically, most backyard chickens don't die of old age. They die of a predator getting into the coop, or a hawk strike, or a neighbor's dog. This is cold comfort but important context: if your flock management is good, your birds have a real shot at living out a full lifespan. If it isn't, none of the rest of this matters much.
 
@@ -58,15 +58,15 @@ The "productive" phase of a hen's life and the actual lifespan are two very diff
 
 A typical hybrid hen lays heavily for years one and two, drops off noticeably in year three, and may lay only occasionally or stop entirely by year four. A heritage hen might lay steadily for three to four years and then gradually taper over the next two or three. Either way, you can easily have a hen who stops laying at four or five and then lives another four to seven years as a non-laying flock member.
 
-Whether that's a problem or not is genuinely a personal decision, not a moral one. Some people keep chickens primarily as livestock and cull birds who aren't producing. That's a legitimate choice. Others (I'm firmly in this camp) keep hens as a mix of productive animals and long-term pets and factor the "retirement years" into their planning from the start. Neither approach is wrong, but you should know which one you're signing up for before you buy chicks.
+Whether that's a problem or not is genuinely a personal decision, not a moral one. Some people keep chickens primarily as livestock and cull birds who aren't producing. Others keep hens as a mix of productive animals and long-term pets and factor the "retirement years" into their planning from the start. Neither approach is wrong, but you should know which one you're signing up for before you buy chicks.
 
 What I'd caution against is the middle path of vague intention: "I'll figure it out when they stop laying." That's the path that leads to panic rehoming, or a coop crowded with non-laying hens you feel guilty about but also can't afford to keep feeding. Make the call ahead of time.
 
-A 50-lb bag of layer feed currently runs around $25 to $35 depending on brand and region (as of July 2026, Purina Layena is sitting around $28 at most Tractor Supply locations near me). Multiply that across however many retired hens you're carrying, and it adds up fast. Budget for it or make a different plan, but don't be surprised by it.
+A 50-lb bag of layer feed currently runs around $25 to $35 depending on brand and region (as of July 2026, Purina Layena is sitting around $28 at most Tractor Supply locations). Multiply that across however many retired hens you're carrying, and it adds up fast. Budget for it or make a different plan, but don't be surprised by it.
 
 ## The Health Issues That Tend to End Chicken Lives
 
-Respiratory disease kills a lot of birds, often faster than owners realize. Mycoplasma gallisepticum (MG) is endemic in many backyard flocks and becomes more of a problem as birds age and their immune function declines. I lost two older hens to what I initially thought was a cold that "just wouldn't clear up" before I had a necropsy done and got an actual diagnosis. The lesson: if an older bird is showing chronic respiratory symptoms, don't wait it out for weeks assuming it'll resolve.
+Respiratory disease kills a lot of birds, often faster than owners realize. Mycoplasma gallisepticum (MG) is endemic in many backyard flocks and becomes more of a problem as birds age and their immune function declines. It is easy to mistake a serious respiratory illness for a cold that "just won't clear up," but a necropsy is often needed to get an actual diagnosis. The lesson: if an older bird is showing chronic respiratory symptoms, don't wait it out for weeks assuming it'll resolve.
 
 Reproductive cancers are the other major one for hens. Ovarian and oviduct adenocarcinoma is heartbreakingly common in older laying hens, and the signs can be subtle at first: a hen that's "off," a distended abdomen, decreased appetite, labored breathing. The definitive diagnosis requires a vet and often a necropsy after the fact, but if you have an older hen with an obviously swollen belly and she's been laying less, take it seriously. It's rarely something that gets better on its own.
 
@@ -76,14 +76,14 @@ Marek's disease deserves a mention because it's misunderstood. Birds vaccinated 
 
 ## Worked Examples From My Flock
 
-**Small flock of four ISA Browns, started from chicks, fully confined run:**
-Fed well, coop clean, no predator losses. All four laid heavily year one and two. By year three, two had developed internal laying issues. One died at 3.5 years from egg yolk peritonitis confirmed by a vet exam. The other was euthanized humanely at four after a prolonged decline. The remaining two lived to roughly five and five and a half before both declined rapidly within the same six-month window. Average lifespan: 4.7 years.
+**Example: Small flock of four ISA Browns, started from chicks, fully confined run:**
+For example, if four ISA Browns are fed well and kept in a clean, predator-secure coop, all four might lay heavily in years one and two. By year three, internal laying issues could affect two birds. One might die at 3.5 years from egg yolk peritonitis confirmed by a vet exam, another be euthanized humanely at four after a prolonged decline, and the remaining two live to roughly five and five and a half before declining rapidly within the same six-month window, giving an average lifespan of around 4.7 years.
 
-**Two heritage Barred Rock hens from a small local breeder, free range on half an acre:**
-Both laid steadily until year four, then tapered. One was taken by a hawk at year six (predator pressure, not natural aging). The other lived to nine and died peacefully. No major health interventions beyond a single round of antibiotics for a respiratory flare-up at year seven.
+**Example: Two heritage Barred Rock hens from a small local breeder, free range on half an acre:**
+For example, two well-bred Barred Rocks ranging freely on half an acre might both lay steadily until year four and then taper off. One could be taken by a hawk at year six, while the other lives to nine and dies peacefully, with no major health interventions beyond a single round of antibiotics for a respiratory flare-up at year seven.
 
-**A mixed flock of six with one older Cochin hen inherited from a neighbor who moved:**
-The Cochin arrived at an estimated age of four. She lived in my care for another five years, passing at roughly nine with no major health issues. Cochins are a large breed and I'd heard they had shorter lifespans than lighter breeds, but I don't have good numbers on that beyond my own experience. I can't speak to it confidently across a bigger sample.
+**Example: A mixed flock of six with one older Cochin hen:**
+For example, a Cochin hen acquired at an estimated age of four might live another five years in a new home, passing at roughly nine with no major health issues. Cochins are a large breed and are sometimes said to have shorter lifespans than lighter breeds, though reliable comparative data on that is limited.
 
 ---
 

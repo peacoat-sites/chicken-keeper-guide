@@ -15,7 +15,7 @@ slug: "h5n1-reaches-every-continent-what-it-means-for-your-flock"
 affiliate_disclosure: false
 ---
 
-Something most [backyard keepers](/new-usda-poultry-rules-are-now-in-effect-here-is-what-backyard-keepers/) assume, and I believed it for years too, is that bird flu is a problem for commercial operations. Factory farms with 50,000 birds under one roof. Not your eight Buff Orpingtons in a suburban backyard. That assumption got a lot harder to defend on June 20, 2026, when Australian authorities confirmed H5N1 clade 2.3.4.4b in a brown skua at Cape Le Grand National Park in Western Australia. Australia was the last H5-free landmass on Earth. Now it isn't.
+Something most [backyard keepers](/new-usda-poultry-rules-are-now-in-effect-here-is-what-backyard-keepers/) assume is that bird flu is a problem for commercial operations. Factory farms with 50,000 birds under one roof. Not your eight Buff Orpingtons in a suburban backyard. That assumption got a lot harder to defend on June 20, 2026, when Australian authorities confirmed H5N1 clade 2.3.4.4b in a brown skua at Cape Le Grand National Park in Western Australia. Australia was the last H5-free landmass on Earth. Now it isn't.
 
 That single detection didn't stay single for long. By August 3, 2026, Australian authorities had logged 78 confirmed H5 detections in wild seabirds across Western Australia, South Australia, Victoria, and New South Wales. The Al Jazeera report from that date quoted officials warning Australians to "expect to see more spread." Seventy-eight cases across four states in roughly six weeks is not a slow crawl. It's a sprint. And it's happening on a continent whose commercial poultry industry had essentially no lived experience with this virus.
 
@@ -27,7 +27,7 @@ For keepers everywhere else, the Australia story is the clearest possible signal
 
 Many backyard keepers worry more about predators like hawks than disease transmission. But wild waterfowl, shorebirds, and seabirds are the primary reservoir for H5N1 clade 2.3.4.4b, the strain now circling the globe. The Australian outbreak started with a brown skua, a seabird. In the U.S. context, it's been ducks, geese, and shorebirds dropping the virus into environments where domestic poultry then encounter contaminated water, droppings, or feathers.
 
-What surprised me when I looked at this more carefully is how indirect the contact can be. Your flock doesn't need to mingle with a sick goose. Shared water sources are enough. A puddle a wild bird bathed in. Mud tracked in on your boots from a field where geese were feeding two days ago. The virus can survive in cold, wet conditions for days, sometimes longer. That's the part the hatchery websites don't stress.
+What keepers often find surprising when they look at this more carefully is how indirect the contact can be. Your flock doesn't need to mingle with a sick goose. Shared water sources are enough. A puddle a wild bird bathed in. Mud tracked in on your boots from a field where geese were feeding two days ago. The virus can survive in cold, wet conditions for days, sometimes longer. That's the part the hatchery websites don't stress.
 
 Commercial giant Inghams has already responded to Australia's outbreak by locking down non-essential farm access across its Western Australian operations, even with zero confirmed poultry cases in the country yet. That's a commercial operator acting on proximity risk alone. Backyard keepers should be reading that move.
 
@@ -41,7 +41,7 @@ What the framework doesn't do yet is [give backyard](/new-usda-egg-label-rules-g
 
 ## The Human Health Angle Is Real, But Keep It in Proportion
 
-The 71 human H5N1 cases confirmed in the United States from 2024 through May 2026 got a lot of headlines. Worth keeping in proportion, though: the vast majority were mild, most were linked to occupational exposure to infected dairy cattle or commercial poultry, and there's been no confirmed human-to-human transmission. The research here is mixed on exactly how worried backyard keepers should be about personal exposure risk versus flock loss risk. I'd say flock loss is the more concrete near-term concern.
+The 71 human H5N1 cases confirmed in the United States from 2024 through May 2026 got a lot of headlines. Worth keeping in proportion, though: the vast majority were mild, most were linked to occupational exposure to infected dairy cattle or commercial poultry, and there's been no confirmed human-to-human transmission. The research here is mixed on exactly how worried backyard keepers should be about personal exposure risk versus flock loss risk. Flock loss is the more concrete near-term concern for most backyard keepers.
 
 That said, if you find a sick or dead wild bird, don't handle it bare-handed. Report it to your state or national agriculture authority. That's true whether you [keep chickens](/how-to-keep-chickens-cool-in-summer-heat/) or not.
 
@@ -57,7 +57,7 @@ Here's where I want to be specific, because vague advice about "good biosecurity
 | Avoiding free-ranging during waterfowl migration peaks | Reduces exposure windows during highest-risk periods | Low |
 | Sourcing feed from sealed containers | Prevents wild birds feeding at your flock's station | Low |
 
-I'll be honest, fully enclosing a backyard flock run is the single most impactful step. It's also the one people resist most because it changes the free-range picture they had in mind when they started keeping chickens. But an enclosed run doesn't have to be depressing. Shade cloth, good ventilation, enrichment, and a larger footprint go a long way.
+Fully enclosing a backyard flock run is the single most impactful step. It's also the one people resist most because it changes the free-range picture they had in mind when they started keeping chickens. But an enclosed run doesn't have to be depressing. Shade cloth, good ventilation, enrichment, and a larger footprint go a long way.
 
 The migration calendar matters more than most people realize. In the Northern Hemisphere, fall migration peaks from September through November. In Australia right now, spring migration starts kicking up around September. Those windows are when wild bird pressure on your property spikes.
 

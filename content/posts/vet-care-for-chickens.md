@@ -65,7 +65,7 @@ But here's what changes the calculation: flock health. A single sick bird can be
 | Respiratory illness spreading fast or with facial swelling | No | Yes-immediately |
 | Unexplained sudden death | No | Yes-get a necropsy |
 
-I've treated a lot of things at home over ten years, and I have a pretty clear line in my head now. But I made a lot of mistakes getting there.
+Experienced keepers tend to develop a clear line over time. 
 
 Home treatment is reasonable for: mild respiratory symptoms with no discharge from both eyes and no neurological signs, minor wounds and pecking injuries, sour crop caught early, scaley leg mites, lice and mites generally, and routine worming based on fecal results.
 
@@ -81,17 +81,17 @@ Annual fecal floats run $25 to $50 at most vets and tell you exactly what [inter
 
 Respiratory disease testing is worth doing once if you've never done it, especially if you've added birds from multiple sources. A Mycoplasma gallisepticum/synoviae (MG/MS) panel through a state diagnostic lab typically costs $30 to $80 per bird, or you can submit a serum pool from several birds. Knowing your flock's disease status before you breed or sell birds is the kind of thing that protects your reputation with other keepers.
 
-**Worked example:** I tested my flock for MG/MS four years ago after adding three birds from a swap meet. Two birds came back positive. I didn't have to cull anyone because I made the decision to keep a closed flock after that, but I knew. Cost me about $120 total. That knowledge has saved me from introducing infection to at least four keepers I trade birds with.
+**Worked example:** For example, a keeper who tested their flock for MG/MS after adding three birds from a swap meet might find that two birds come back positive.  Culling can be avoided by making the decision to keep a closed flock after a positive result, but having that information is essential. The total cost of such testing is typically around $120. That knowledge can prevent introducing infection to other keepers you trade birds with.
 
 Vaccination is genuinely underused in backyard flocks. Marek's disease vaccine is standard from most hatcheries, but if you're hatching your own eggs or buying locally, confirm vaccination status. Newcastle disease and infectious bronchitis (combo vaccines are available and inexpensive) are worth considering if you're in a high-density poultry area or showing birds. Your vet can guide you on regional risk.
 
 ## Necropsy: The Most Underrated Tool in Chicken Keeping
 
-State veterinary diagnostic labs will perform a poultry necropsy for anywhere from $20 to $75, depending on the state. This is one of the best investments you can make when you lose a bird unexpectedly. I know it feels weird to put a dead chicken in a box and mail it to a lab. Do it anyway.
+State veterinary diagnostic labs will perform a poultry necropsy for anywhere from $20 to $75, depending on the state. This is one of the best investments you can make when you lose a bird unexpectedly. It may feel strange to put a dead chicken in a box and mail it to a lab. Do it anyway.
 
 What you get back is a cause-of-death report, sometimes with specific pathogen identification. That information protects the rest of your flock and, honestly, gives you peace of mind. The University of Georgia's Poultry Diagnostic and Research Center, Cornell's Animal Health Diagnostic Center, and most land-grant university vet schools offer this service. Turnaround is usually 5 to 10 business days.
 
-**Worked example:** Lost a three-year-old Black Australorp suddenly in early 2025. No prior symptoms. Necropsy came back with ovarian adenocarcinoma, a reproductive cancer that's actually fairly common in older hens but presents with no external signs until it's advanced. Not contagious, not a flock risk. Cost: $45. What it bought me: certainty that I didn't have a disease moving through my birds, and a better understanding of what to watch for in my other older hens.
+**Worked example:** For example, a keeper who loses a three-year-old Black Australorp suddenly with no prior symptoms might send the bird for a necropsy. No prior symptoms. The necropsy might come back with ovarian adenocarcinoma, a reproductive cancer that is fairly common in older hens but presents with no external signs until it is advanced. It is not contagious and not a flock risk. Cost: $45. What it provides is certainty that there is no disease moving through the flock, and a better understanding of what to watch for in older hens.
 
 ---
 

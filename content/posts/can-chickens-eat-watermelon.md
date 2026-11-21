@@ -26,15 +26,15 @@ faqs:
     a: "This happens, and it's mostly a preference shift or boredom with the delivery method. Try cutting it differently, freezing it, or mixing in a small amount of scratch to rekindle interest. If the disinterest is paired with other behavior changes (lethargy, reduced feed intake), that's worth watching more closely as a possible health signal."
 ---
 
-Ninety-two percent. That's the water content of watermelon, and it's the reason I started paying attention to what this fruit actually does inside a chicken's body rather than just tossing rinds over the fence because it seemed like a nice thing to do.
+Ninety-two percent: that's the water content of watermelon, and it's worth understanding what this fruit actually does inside a chicken's body rather than tossing rinds over the fence simply because it seems like a nice thing to do.
 
-I'll be honest: for the first couple of years keeping chickens, I treated watermelon as a guilt-free summer freebie. Hot day, leftover melon, happy hens. Done. It wasn't until a neighbor's flock had a rough stretch of heat-related lethargy in July 2023 that I actually started digging into the nutritional specifics. What I found was more interesting than I expected, and a few things genuinely surprised me.
+Many chicken keepers treat watermelon as a guilt-free summer freebie. Hot day, leftover melon, happy hens. Done. Digging into the nutritional specifics reveals more than expected. What I found was more interesting than I expected, and a few things genuinely surprised me.
 
 ## What Watermelon Actually Gives Your Birds (and What It Doesn't)
 
 The 92% water figure comes from the USDA's FoodData Central database, which tracks nutrient composition for whole foods. For context, that makes watermelon roughly as hydrating as cucumber (96%) and significantly more so than most fruits chickens commonly get, like apples (86%) or blueberries (91%). On a 95-degree day, that matters. Chickens don't sweat. They regulate temperature by panting, which depletes moisture fast, and a bird that falls behind on hydration will eat less feed, lay fewer eggs, and in serious heat can go into shock.
 
-Beyond water, a standard 100-gram serving of watermelon contains about 7.6 grams of sugar (primarily fructose and glucose), 0.4 grams of protein, 0.2 grams of fat, and a meaningful hit of lycopene at roughly 4,532 micrograms, according to USDA FoodData Central. That lycopene figure is actually higher than in raw tomatoes, which clock in around 2,573 micrograms per 100 grams. What surprised me was finding a 2014 study in *Poultry Science* showing that dietary lycopene supplementation in laying hens improved egg yolk color scores and had antioxidant effects on blood serum. It's not a massive effect, but it's real.
+Beyond water, a standard 100-gram serving of watermelon contains about 7.6 grams of sugar (primarily fructose and glucose), 0.4 grams of protein, 0.2 grams of fat, and a meaningful hit of lycopene at roughly 4,532 micrograms, according to USDA FoodData Central. That lycopene figure is actually higher than in raw tomatoes, which clock in around 2,573 micrograms per 100 grams. A 2014 study in *Poultry Science* showed that dietary lycopene supplementation in laying hens improved egg yolk color scores and had antioxidant effects on blood serum. It's not a massive effect, but it's real.
 
 What watermelon doesn't give your birds: meaningful protein, calcium, or the fat-soluble vitamins (A, D, E, K) they need for laying and immune function. It's a supplement, not a substitute. If you're feeding it as 20% of the diet, you're diluting the nutrition that actually builds eggs.
 
@@ -42,9 +42,9 @@ What watermelon doesn't give your birds: meaningful protein, calcium, or the fat
 
 ## The Sugar Question (and Why Most People Get This Wrong)
 
-Here's where I thought I had it figured out, and I was wrong. For years I assumed fructose from fruit was basically a non-issue for chickens because "they eat corn, corn has sugar, same thing." That's not quite right. Corn's sugars are primarily starch-bound and digest differently than free fructose in fruit. The research here is genuinely mixed. A 2019 review in *World's Poultry Science Journal* noted that high-sugar treats can disrupt gut microbiota balance in laying hens, particularly if fed in excess, though the threshold wasn't cleanly defined. Most extension services I've looked at, including the University of Florida IFAS, suggest keeping treats including fruit to no more than 10% of total daily intake.
+This is a point where conventional wisdom among chicken keepers tends to fall short. A common assumption is that fructose from fruit is a non-issue for chickens because corn also contains sugar. That's not quite right. Corn's sugars are primarily starch-bound and digest differently than free fructose in fruit. The research here is genuinely mixed. A 2019 review in *World's Poultry Science Journal* noted that high-sugar treats can disrupt gut microbiota balance in laying hens, particularly if fed in excess, though the threshold wasn't cleanly defined. Most extension services I've looked at, including the University of Florida IFAS, suggest keeping treats including fruit to no more than 10% of total daily intake.
 
-Ten percent of a hen's daily consumption of about 120 grams of feed works out to roughly 12 grams of treat, which is about two tablespoons of watermelon flesh. In practice, I've gone higher than that on hot days without obvious problems, but I also have a mixed flock with plenty of room to roam and good baseline feed. For confined birds already eating suboptimal feed, I'd be more cautious.
+Ten percent of a hen's daily consumption of about 120 grams of feed works out to roughly 12 grams of treat, which is about two tablespoons of watermelon flesh. In practice, some keepers offer more than that on hot days without obvious problems, particularly with mixed flocks that have plenty of room to roam and a good baseline feed. For confined birds already eating suboptimal feed, extra caution is warranted.
 
 | Component | Per 100g Watermelon | % Daily Need Met (Laying Hen) | Notes |
 |---|---|---|---|
@@ -57,23 +57,23 @@ Ten percent of a hen's daily consumption of about 120 grams of feed works out to
 
 ## Seeds, Rind, and the Parts People Are Scared Of
 
-Let me save you the anxiety I saw on five different forums last summer: watermelon seeds are fine. Chickens can eat them without issue. The concern sometimes gets conflated with apple seeds, which do contain amygdalin (a cyanogenic compound), but watermelon seeds have no such compound. Mine have eaten seeds their entire lives without any problem.
+Watermelon seeds are fine. Chickens can eat them without issue. The concern sometimes gets conflated with apple seeds, which do contain amygdalin (a cyanogenic compound), but watermelon seeds have no such compound. Chickens can eat watermelon seeds throughout their lives without any problem.
 
 The rind is also fine, and in some ways it's the most interesting part nutritionally. The white rind contains citrulline, an amino acid that converts to arginine in the body. A 2011 study in the *Journal of Chromatography A* found citrulline concentrations in watermelon rind at roughly 3.4 times higher than in the flesh. Arginine plays a role in immune function and ammonia detoxification in poultry. But there's no reason to throw the rind away.
 
-One thing only someone who's actually done this would know: when you put a whole half-melon cut side down in the run, your dominant hens will guard it and your lowest-ranking birds won't get any. I learned this the first summer I kept a flock of eight. Cut it into multiple smaller chunks and distribute them in different spots.
+When a whole half-melon is placed cut side down in the run, dominant hens will guard it and the lowest-ranking birds often get none. This is a common issue in backyard flocks. Cut it into multiple smaller chunks and distribute them in different spots.
 
 ## How I Actually Feed It
 
-My standard approach: cut the melon into 4-6 inch wedge sections, place them cut-side up or cut-side down in two or three locations around the run. In peak summer (July and August here in central Virginia), I'll do this two or three times a week when temps push above 90°F. I don't freeze it first, though a lot of people do. The research on frozen treats for poultry is mostly anecdotal, but the practical argument makes sense: a cold melon on a 95-degree day takes longer to eat, which means more time in the shade and slower consumption.
+A practical approach is to cut the melon into 4-6 inch wedge sections and place them cut-side up or cut-side down in two or three locations around the run. In peak summer heat, offering watermelon two or three times a week when temperatures push above 90°F is a reasonable frequency. Freezing it first is optional, though many keepers do. The research on frozen treats for poultry is mostly anecdotal, but the practical argument makes sense: a cold melon on a 95-degree day takes longer to eat, which means more time in the shade and slower consumption.
 
-Worked examples from my own flock and from readers who've written in:
+The following scenarios illustrate how watermelon feeding plays out in practice:
 
-**Heat stress situation, July 2025, flock of 6 Rhode Island Reds:** Three hens were panting heavily by 2 p.m. with water intake appearing reduced. Owner offered two large watermelon wedges alongside fresh cool water. Within 45 minutes, panting had visibly decreased in all three birds. Egg production the following day was normal (5 of 6). This isn't a controlled trial, but it matches what I've seen repeatedly.
+**Heat stress situation, flock of 6 Rhode Island Reds:** For example, if three hens are panting heavily by 2 p.m. with water intake appearing reduced, offering two large watermelon wedges alongside fresh cool water may visibly decrease panting within 45 minutes, with egg production remaining normal the following day (5 of 6). This is not a controlled trial, but it is consistent with the hydration benefits described above.
 
-**Overfeeding scenario, a reader from Tennessee:** She was offering a full quarter-watermelon daily to a flock of 4 hens during a hot stretch. After two weeks she noticed a drop from 3-4 eggs daily to 1-2. She reduced watermelon to every other day and cut serving size by half. Egg production returned to 3 eggs daily within 10 days. Not definitive proof, but consistent with the dilution effect on protein intake.
+**Overfeeding scenario, flock of 4 hens:** For example, if a keeper offers a full quarter-watermelon daily during a hot stretch, a drop from 3-4 eggs daily to 1-2 over two weeks would be consistent with the protein dilution effect. Reducing watermelon to every other day and cutting serving size by half could be expected to return production to around 3 eggs daily within 10 days.
 
-**Mixed flock, 12 birds:** When watermelon was offered as a single large piece, 3 dominant Barred Rocks monopolized it for the first 8 minutes. When the same amount was split into 5 pieces and scattered, all 12 birds accessed treat within 2 minutes.
+**Mixed flock, 12 birds:** For example, when watermelon is offered as a single large piece, dominant birds may monopolize it for the first several minutes, whereas splitting the same amount into 5 pieces and scattering them can allow all 12 birds to access the treat within 2 minutes.
 
 ## Sources
 

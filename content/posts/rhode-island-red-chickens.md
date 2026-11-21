@@ -25,7 +25,7 @@ author_title: "Egg Production"
 author_bio: "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Walk into almost any farm store during chick days and ask which breed beginners should start with. You'll walk out with a Rhode Island Red in your brooder box. After 12 years keeping chickens across 14 different breeds, I can tell you that reputation is earned. But I've also watched plenty of new keepers get blindsided by things nobody mentioned. Let's talk about the whole picture.
+Walk into almost any farm store during chick days and ask which breed beginners should start with. You'll walk out with a Rhode Island Red in your brooder box. That reputation is well earned. But I've also watched plenty of new keepers get blindsided by things nobody mentioned. Let's talk about the whole picture.
 
 ## Where Rhode Island Reds Come From (and Why It Matters)
 
@@ -62,7 +62,7 @@ A few real things that cut into your egg count:
 
 I need to be straight with you here because the marketing around RIR temperament is misleading. They're not [Buff Orpingtons](/orpington-chickens/). They won't squat down and let your six-year-old scoop them up without complaint. They're confident, sometimes bossy, and they tend to land near the top of the pecking order when mixed with gentler breeds.
 
-But they're not aggressive toward people. The hens, anyway. I've found that RIR hens handled frequently from chick age become genuinely friendly birds. They'll follow you around the yard, they're curious and alert, and they don't spook easily. That makes routine health checks much easier than with flightier breeds like Leghorns.
+But they're not aggressive toward people. The hens, anyway. RIR hens handled frequently from chick age tend to become genuinely friendly birds. They'll follow you around the yard, they're curious and alert, and they don't spook easily. That makes routine health checks much easier than with flightier breeds like Leghorns.
 
 RIR roosters are another thing entirely. RIR cockerels can range from genuinely sweet to quite aggressive. If you're keeping a rooster, watch carefully during the first year. An RIR rooster that decides to challenge humans can be relentless and will draw blood. Never turn your back on one you don't fully trust.
 
@@ -76,7 +76,7 @@ Rhode Island Reds aren't difficult to house, but they do have real needs.
 
 **Feed.** For laying hens, a quality layer pellet or crumble with 16 to 18 percent protein is the base. Offer oyster shell on the side. Scratch grain is fine as an occasional treat, not a dietary staple. Scratch is low in protein and high in carbs, so too much means fat hens with reproductive problems.
 
-**Water.** RIRs drink more than you'd expect, especially in summer. A 3-gallon waterer handles about 6 to 8 birds comfortably. In hot weather, I add a second waterer and drop a few ice cubes in on truly hot days. [A sturdy poultry waterer like this Harris Farms model](https://www.amazon.com/s?k=harris+farms+poultry+waterer) keeps things clean and reduces refill frequency. (Commission disclosure applies.)
+**Water.** RIRs drink more than you'd expect, especially in summer. A 3-gallon waterer handles about 6 to 8 birds comfortably. In hot weather, adding a second waterer and dropping a few ice cubes in on truly hot days helps keep birds cool and drinking enough. [A sturdy poultry waterer like this Harris Farms model](https://www.amazon.com/s?k=harris+farms+poultry+waterer) keeps things clean and reduces refill frequency. (Commission disclosure applies.)
 
 **Nesting boxes.** One box per 4 hens is the guideline, though you'll find every hen wants the same box regardless of how many you build. Line boxes with [quality nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads) to keep eggs clean and reduce breakage. Replace them regularly. Dirty nesting material is one of the fastest routes to egg-eating behavior.
 

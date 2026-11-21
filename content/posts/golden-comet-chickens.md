@@ -44,7 +44,7 @@ The coloring runs from reddish-gold to a warm buff, usually with white or cream 
 | Australorp | High | ~18 weeks | 5-6+ years | Long-term production |
 | Speckled Sussex | High | ~18 weeks | 5-6+ years | Long-term production |
 
-Here's what draws most people in. Golden Comets regularly hit 250 to 320 eggs per year in their first two laying seasons. I've tracked this myself. One hen in my first flock logged 304 eggs in her first full year, which I verified because I had a small flock and was keeping records. That's almost an egg a day.
+Here's what draws most people in. Golden Comets regularly hit 250 to 320 eggs per year in their first two laying seasons.  For example, a hen in a small closely monitored flock can log 304 eggs in her first full year when records are kept. That's almost an egg a day.
 
 Large brown eggs, consistent size, and they start early. Expect first eggs around 16 to 18 weeks, a solid month or two ahead of heritage breeds. A Dominique or a Buckeye won't lay until week 20 to 24, sometimes later.
 
@@ -54,11 +54,11 @@ If you want chickens that lay well at age five or six, pick Australorps or Speck
 
 ## Temperament and Flock Dynamics
 
-They're genuinely gentle birds. Not in the "won't peck you" way of [Silkies](/silkie-chickens/), which are docile almost to a fault, but in a relaxed, confident way that makes flock management easy. They don't tend toward the vicious pecking order enforcement you get with some production breeds. I've introduced them to mixed flocks and they hold their own without being the aggressors.
+They're genuinely gentle birds. Not in the "won't peck you" way of [Silkies](/silkie-chickens/), which are docile almost to a fault, but in a relaxed, confident way that makes flock management easy. They don't tend toward the vicious pecking order enforcement you get with some production breeds. In mixed flocks they tend to hold their own without being the aggressors.
 
 They go broody rarely, which you either want or you don't. If you're trying to hatch eggs naturally, keep one [Buff Orpington](/orpington-chickens/) in the flock for that job. Golden Comets aren't interested.
 
-Some people find them almost too calm. A couple of my hens were so unbothered by my presence that they'd squat in the doorway of the coop and refuse to move when I was trying to close up at dusk. Not a real problem, just something worth knowing.
+Some people find them almost too calm. For example, a hen may squat in the doorway of the coop and refuse to move when it is time to close up at dusk. Not a real problem, just something worth knowing.
 
 They handle confinement reasonably well, better than most active foragers like Leghorns or [Easter Eggers](/easter-egger-chickens/). A well-designed run won't stress them out. That said, they do love to free-range if you can let them, and outdoor access appears to support better overall health.
 

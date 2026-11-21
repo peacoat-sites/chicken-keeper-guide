@@ -25,7 +25,7 @@ author_title: "Flock Health"
 author_bio: "Tom Henderson is the byline used at Chicken Keeper Guide for articles on poultry health, common diseases, biosecurity and when to call a vet. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Nobody warned me that my "cheap" backyard egg setup would cost me $1,400 before a single hen laid her first egg. I'd read all the beginner guides. I bought the $89 starter coop from Tractor Supply, grabbed six chicks at $4.99 each from the local feed store, and figured I was being smart and frugal. I was not.
+Many new chicken keepers discover that their "cheap" backyard egg setup costs $1,400 or more before a single hen lays her first egg.  It is easy to assume that buying an $89 starter coop and six chicks at $4.99 each from the local feed store is a smart, frugal approach. That assumption tends not to hold up.
 
 The real cost of raising chickens is one of the most consistently undersold topics in the hobby. People love to talk about the $0.30 egg math. Nobody wants to talk about the $600 predator-proof hardware cloth retrofit that becomes necessary after a predator breaks through cheap wire on a starter coop. The actual costs tell a different story.
 
@@ -43,7 +43,7 @@ The real cost of raising chickens is one of the most consistently undersold topi
 | Nesting box pads/straw | $15 | $30 | - |
 | **Total First-Year Startup** | **$700** | **$1,320** | Before birds enter coop |
 
-The coop is the first place the budget goes sideways. Here's the honest breakdown: a coop suitable for four to six hens, one that doesn't need major rework within a year, is going to run you between $300 and $800 if you buy pre-built. The $89 Tractor Supply coops and the similar ones on Amazon ($120-$250) are, I'll be honest, not adequate for serious keeping. The latches are flimsy. The ventilation is terrible. The floor gaps are wide enough for weasels. I know this because I used one.
+The coop is the first place the budget goes sideways. Here's the honest breakdown: a coop suitable for four to six hens, one that doesn't need major rework within a year, is going to run you between $300 and $800 if you buy pre-built. The $89 Tractor Supply coops and the similar ones on Amazon ($120-$250) are not adequate for serious keeping. The latches are flimsy. The ventilation is terrible. The floor gaps are wide enough for weasels. 
 
 If you're handy, a DIY coop built from dimensional lumber, OSB for the walls, and hardware cloth runs roughly $200-$450 in materials depending on your region. The hardware cloth alone is significant: a roll of 1/2-inch galvanized hardware cloth from Home Depot runs about $55-$75 for 25 feet by 2 feet, and you'll use more than one.
 
@@ -60,11 +60,11 @@ Here's what realistic startup for four to six hens actually looks like:
 - Initial feed, grit, and electrolytes: $40-$60
 - Nesting box pads or straw: $15-$30
 
-You're looking at $700 to $1,320 before your birds are even in the coop. What surprised me was how fast the hardware adds up compared to the birds themselves. The chickens are almost the cheapest part.
+The total comes to $700 to $1,320 before the birds are even in the coop. One thing that consistently surprises new keepers is how fast the hardware adds up compared to the birds themselves. The chickens are almost the cheapest part.
 
 ## The Ongoing Cost Nobody Bothers to Calculate
 
-Feed is the biggest monthly expense, full stop. A 50-pound bag of quality layer pellets (I use Purina Layena or Kalmbach Feeds, both around $22-$28 per bag depending on your area) lasts four to six standard-size hens about a month if you're supplementing with scraps and they have some range time. Six birds with no ranging? You might burn through a bag in three weeks.
+Feed is the biggest monthly expense, full stop. A 50-pound bag of quality layer pellets (Purina Layena or Kalmbach Feeds, both around $22-$28 per bag depending on your area) lasts four to six standard-size hens about a month when supplementing with scraps and allowing some range time. Six birds with no ranging? You might burn through a bag in three weeks.
 
 Call it $25-$35 per month for feed for a small flock. That's $300-$420 per year, every year.
 
@@ -72,7 +72,7 @@ Then there's bedding. If you're using the deep litter method in a walk-in coop, 
 
 Scratch grains, oyster shell for calcium, occasional treats. Another $5-$10 per month on average if you're doing this right. Grit too, if your birds don't have access to natural ground. Not a big expense, a $10 bag lasts a small flock several months, but it's another thing people forget to budget.
 
-Healthcare costs are where people get genuinely blindsided. In my experience, expect at least one significant health situation per year across a flock of six. Respiratory infections, wry neck from vitamin deficiency, bumblefoot, egg binding. A vet visit for a chicken runs $50-$150 at an avian vet, and not every town has one within a reasonable drive. I've learned to treat a lot of things myself. Vetericyn Poultry Care spray ($14 on Amazon) lives in my barn. Tylan Soluble powder for respiratory infections, around $18, has probably paid for itself ten times over. But there will be losses. There will be a hen you didn't expect to lose.
+Healthcare costs are where people get genuinely blindsided. Keepers can generally expect at least one significant health situation per year across a flock of six. Respiratory infections, wry neck from vitamin deficiency, bumblefoot, egg binding. A vet visit for a chicken runs $50-$150 at an avian vet, and not every town has one within a reasonable drive. Many keepers learn to treat a number of common conditions at home. Vetericyn Poultry Care spray ($14 on Amazon) is a commonly recommended staple to keep on hand. Tylan Soluble powder for respiratory infections, around $18, is a cost-effective option that experienced keepers rely on heavily.  Unexpected losses are a reality of keeping a flock.
 
 A realistic [monthly operating cost](/chicken-keeping-budget/) for six laying hens: $38-$60 per month, or roughly $450-$720 per year.
 
@@ -84,11 +84,11 @@ Over a year, six hens might produce 100-130 dozen eggs. At current grocery store
 
 Your annual operating cost is $450-$720. Your first-year cost, amortized over four years (optimistic hen lifespan for production), adds another $250-$330 per year. Total annual cost is somewhere between $700 and $1,050 in a realistic scenario.
 
-The math only works if you value your eggs at premium price and your flock performs well. Most backyard setups do not pay for themselves in any reasonable timeframe if you're counting labor, even at minimum wage. What they do provide is eggs you know the provenance of, a connection to your food, genuine entertainment, and a hobby that's genuinely absorbing. If that's worth it to you, the cost is justified. It was for me.
+The math only works if the eggs are valued at premium price and the flock performs well. Most backyard setups do not pay for themselves in any reasonable timeframe when counting labor, even at minimum wage. What they do provide is eggs you know the provenance of, a connection to your food, genuine entertainment, and a hobby that's genuinely absorbing. If those benefits matter, the cost is justified. 
 
 ## Where You Can Save (And Where You Shouldn't)
 
-Skimping on coop construction and predator protection is the most expensive mistake in this hobby. I have friends who've rebuilt or significantly upgraded their first coops. Every single one says the same thing: they wish they'd just done it right the first time. Do not use chicken wire. Do not use a coop with a pull-ring latch (raccoons open them). Do not skip the apron wire. A $200 predator-proofing investment prevents a $0 flock.
+Skimping on coop construction and predator protection is the most expensive mistake in this hobby. Many keepers end up rebuilding or significantly upgrading their first coops. Every single one says the same thing: they wish they'd just done it right the first time. Do not use chicken wire. Do not use a coop with a pull-ring latch (raccoons open them). Do not skip the apron wire. A $200 predator-proofing investment prevents a $0 flock.
 
 Feed quality matters, but the difference between a $22 bag of Purina Layena and the cheapest bulk layer pellet at your co-op isn't going to be dramatic. What matters more is freshness and whether the feed has been stored properly. Old, moldy feed is a health problem.
 

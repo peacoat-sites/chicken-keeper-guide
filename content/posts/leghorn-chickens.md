@@ -38,7 +38,7 @@ So let me give you the actual picture.
 
 Commercial operations using White Leghorn strains from companies like Hy-Line or Lohmann consistently document 320-350 eggs per hen per year in controlled environments. Backyard birds from hatchery stock (think McMurray, Cackle, or Meyer) realistically hit 280-310. That gap matters, and here's why: commercial strains are selected purely for output, sometimes at the expense of longevity and disease resistance. Hatchery birds are a couple generations removed from that extreme selection pressure, which is actually a feature if you're keeping chickens for more than one production cycle.
 
-What most people don't realize is how much the timing matters. Leghorns begin laying remarkably early. In my experience with a flock of 18 White Leghorn pullets I ordered from Cackle Hatchery, the first eggs appeared at 16 weeks and 4 days. Most dual-purpose breeds I've kept (Barred Rocks, Buff Orpingtons, Black Australorps) don't start until week 20 at the earliest, often week 22 or 23. Those extra five or six weeks of production per bird add up to roughly 30 to 40 eggs before a heavier breed has even started. Over a laying career, that's real money.
+What most people don't realize is how much the timing matters. Leghorns begin laying remarkably early. Backyard flocks of White Leghorn pullets from hatchery stock commonly see the first eggs appear as early as 16 weeks. Most dual-purpose breeds such as Barred Rocks, Buff Orpingtons, and Black Australorps don't start until week 20 at the earliest, often week 22 or 23. Those extra five or six weeks of production per bird add up to roughly 30 to 40 eggs before a heavier breed has even started. Over a laying career, that's real money.
 
 They also front-load their production. A Leghorn in her first laying year is operating near peak capacity from the start. Production drops off more sharply after year two than with some dual-purpose breeds. If you're running a backyard egg business and selling at farmers markets, you'll want a rolling replacement flock rather than keeping the same birds for four or five years.
 
@@ -50,25 +50,25 @@ Most people say "Leghorn" and picture the white bird. And in commercial producti
 
 **White** is the production standard. If egg count is your primary goal, this is your bird.
 
-**Brown Leghorns** (also called Red Leghorns) are the original type, imported from Livorno, Italy, in the 1850s. They lay nearly as well as Whites but are slightly calmer and, in my opinion, better suited to free-range setups where some wariness toward predators is actually an asset.
+**Brown Leghorns** (also called Red Leghorns) are the original type, imported from Livorno, Italy, in the 1850s, and they tend to be slightly calmer and better suited to free-range setups where some wariness toward predators is an asset. They lay nearly as well as Whites but are slightly calmer and, in my opinion, better suited to free-range setups where some wariness toward predators is actually an asset.
 
-**Black Leghorns** and **Exchequer Leghorns** exist, are beautiful birds, and are harder to source. Exchequer Leghorns carry a spotted black-and-white pattern that's genuinely striking. If you want something unusual for a show flock that still produces serious eggs, they're worth tracking down through specialty breeders. The Livestock Conservancy maintains a breeder directory that's helped me find uncommon varieties in the past.
+**Black Leghorns** and **Exchequer Leghorns** exist, are beautiful birds, and are harder to source. Exchequer Leghorns carry a spotted black-and-white pattern that's genuinely striking. If you want something unusual for a show flock that still produces serious eggs, they're worth tracking down through specialty breeders. The Livestock Conservancy maintains a breeder directory that can help locate uncommon varieties.
 
-There are also bantam Leghorns, which are popular with show enthusiasts. Bantam hens lay a smaller egg but do so with the same stubborn frequency as their full-sized counterparts. I don't have personal numbers on bantam annual production, so I can't give you a confident comparison.
+There are also bantam Leghorns, which are popular with show enthusiasts. Bantam hens lay a smaller egg but do so with the same stubborn frequency as their full-sized counterparts. Reliable comparative data on bantam Leghorn annual production is limited, so a confident breed-to-breed comparison is difficult to make.
 
 ## What "Flighty" Actually Means Day-to-Day
 
-I thought I understood what "flighty" meant before I kept Leghorns. I didn't.
+ I didn't.
 
-A [Barred Rock](/barred-rock-chickens/) that spooks from a shadow will resettle in 30 seconds. A Leghorn that spooks will launch herself into the air, crash into the side of the coop, startle three other birds, and set off five minutes of alarm calling that your neighbor will definitely hear. I have a 7-foot run fence. One of my White Leghorn hens found a corner post, made it to the top, and launched herself into the yard on day four. She was completely fine. She just didn't want to be in the run that afternoon. That was her decision.
+A [Barred Rock](/barred-rock-chickens/) that spooks from a shadow will resettle in 30 seconds. A Leghorn that spooks will launch herself into the air, potentially crash into the side of the coop, startle other birds, and set off several minutes of alarm calling.  For example, a Leghorn hen can find a corner post, make it to the top, and clear a seven-foot fence with little apparent effort.   
 
 This isn't just an annoyance. It has practical implications:
 
-Your coop and run need covered or very high fencing. A standard 4-foot chicken wire run does not contain adult Leghorns. Six feet minimum, and even then I'd cover the top if you're in a suburban lot with ordinance concerns.
+Your coop and run need covered or very high fencing. A standard 4-foot chicken wire run does not contain adult Leghorns. Six feet is the minimum, and covering the top is worth considering for suburban lots with ordinance concerns.
 
 They're not suitable for small children. Even when approached slowly and calmly, Leghorns often panic. They don't bite, but they won't tolerate handling, and their alarm calls are loud. If you're keeping chickens partly so your kids can interact with the flock, get Buff Orpingtons or Speckled Sussex instead.
 
-Free-ranging is where Leghorns actually shine. They're alert, fast, and smart about predators. In a genuinely free-range situation with good cover, their reactivity is a survival mechanism, not a bug. I've run mixed flocks where the Leghorns were reliably the first to call an aerial predator alarm, which saved more than one docile Orpington hen from a Cooper's hawk.
+Free-ranging is where Leghorns actually shine. They're alert, fast, and smart about predators. In a genuinely free-range situation with good cover, their reactivity is a survival mechanism, not a bug. In mixed free-range flocks, Leghorns are often the first to sound an aerial predator alarm, a behavior that can protect calmer, less alert flockmates.
 
 ## Feed, Costs, and What You'll Actually Spend
 
@@ -84,13 +84,13 @@ Leghorns are on the smaller side: mature hens run 4 to 4.5 lbs, compared to 6.5 
 
 *Feed cost estimates based on layer pellets at $22-24 per 50 lb bag as of July 2026, Pacific Northwest pricing. Your region will vary.*
 
-The cost per egg figure is where Leghorns really make the argument for themselves. If you're selling eggs at farmers markets (currently $6-8 per dozen at markets I've visited in the Willamette Valley this summer), that production efficiency matters. A reader I heard from last spring, Julie from Medford, Oregon, was running 24 Leghorn hens alongside 12 Barred Rocks. She tracked every bag of feed for a full calendar year and found her Leghorns produced 29% more eggs while consuming 18% less feed per bird. The math isn't subtle.
+The cost per egg figure is where Leghorns really make the argument for themselves. If you're selling eggs at farmers markets, where prices commonly run $6-8 per dozen, that production efficiency matters. For example, a keeper running 24 Leghorn hens alongside 12 Barred Rocks and tracking every bag of feed for a full calendar year might find results like these: the Leghorns produced 29% more eggs while consuming 18% less feed per bird.  The math isn't subtle.
 
 ## Comb Care and Cold Weather
 
 The big single comb on a White Leghorn is both a beautiful thing and a liability. In temperatures below about 20°F, those long comb points will frostbite, and frostbite on a comb isn't cosmetic. It's painful, it can get infected, and in roosters it can affect their overall health and behavior.
 
-The standard advice is petroleum jelly applied to the comb on nights when temps drop below freezing. That works, but here's the thing nobody mentions until you've done it: the bird needs to be calm or you'll spend 15 minutes chasing a panicked Leghorn around a dark coop in January. Either handle them from early pullet-hood to build some tolerance (possible, not easy), or wait until they've roosted and gone quiet, then apply with a headlamp. I've done this more times than I'd like to admit.
+The standard advice is petroleum jelly applied to the comb on nights when temps drop below freezing. That works, but it requires a calm bird, otherwise the application can turn into a lengthy chase around a dark coop. Handling them from early pullet-hood to build some tolerance is possible but not easy; alternatively, waiting until they have roosted and gone quiet, then applying petroleum jelly with a headlamp, tends to go more smoothly. I've done this more times than I'd like to admit.
 
 Alternatively, if you're in a genuinely cold climate, Minnesota, upstate New York, the Montana high country, consider a Leghorn-adjacent breed that gives you better production than an Orpington but with a pea comb or rose comb that handles cold better. Easter Eggers and Dominiques are reasonable compromises. I don't personally keep Leghorns in climates that regularly drop below 0°F. The comb management gets old.
 

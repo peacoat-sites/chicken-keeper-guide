@@ -27,7 +27,7 @@ faqs:
 
 Blood spots in eggs are safe to eat. That's the short answer, and it's the one most people need before they panic and throw out a dozen eggs. The spot has nothing to do with fertilization, contamination, or a sick hen. It's a small rupture in a blood vessel on the follicle or oviduct wall, and it gets incorporated into the egg before the shell forms.
 
-That said, there's a lot worth understanding here, because the frequency of blood spots in your [backyard flock](/roosters-in-backyard-flock/) can tell you something real about hen health, breed genetics, and feed.
+That said, there's a lot worth understanding here, because the frequency of blood spots in your backyard flock can tell you something real about hen health, breed genetics, and feed.
 
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Blood spots are safe to eat and are caused by a ruptured blood vessel, not contamination.</li><li style="margin:5px 0">Commercial eggs rarely show them because USDA candling rejects affected eggs before sale.</li><li style="margin:5px 0">Heavy laying breeds and older hens produce blood spots more often than lighter breeds.</li><li style="margin:5px 0">Low vitamin A or K in the diet increases the likelihood of blood spots.</li><li style="margin:5px 0">Removing the spot with the tip of a knife before cooking is all you need to do.</li></ul></div>
@@ -41,7 +41,7 @@ Genetics is a bigger factor than most keepers realize. Brown-egg breeds produce 
 
 Age matters too. As hens get older, the vessels around the follicle become more fragile. A pullet in her first laying year will generally produce cleaner eggs than a three-year-old hen.
 
-Nutritional deficiencies, particularly in vitamin A and vitamin K, make blood vessels more fragile and increase frequency. Hens on a balanced, properly stored [layer feed](/layer-feed-vs-starter-feed/) shouldn't have this problem. But feed that's been sitting in a hot barn for three months is losing vitamin potency, and that shows up in egg quality before it shows up anywhere else. Buy feed in quantities you'll go through in four to six weeks.
+Nutritional deficiencies, particularly in vitamin A and vitamin K, make blood vessels more fragile and increase frequency. Hens on a balanced, properly stored layer feed shouldn't have this problem. But feed that's been sitting in a hot barn for three months is losing vitamin potency, and that shows up in egg quality before it shows up anywhere else. Buy feed in quantities you'll go through in four to six weeks.
 
 ## Backyard vs. Commercial Eggs
 

@@ -1,5 +1,5 @@
 ---
-title: "How Big Should Your Chicken Run Really Be?"
+title: "The 10 Sq Ft Per Chicken Run Rule: What It Means"
 date: 2026-05-22T18:44:08.513237+00:00
 draft: false
 description: "Free-range or backyard flock? Learn the ideal chicken run size requirements to keep your hens healthy, happy, and stress-free with our easy guide."
@@ -55,7 +55,7 @@ How often your birds actually get out matters significantly. Free-range four or 
 
 Everyone focuses on pecking and aggression when they talk about space, and yes, overcrowding triggers those problems. But the damage goes deeper.
 
-Cramped runs compact the soil fast, turning it into a feces-heavy breeding ground. Coccidia, worms, bacteria, your birds are living in their own waste, scratching through it, pecking at it. Disease pressure climbs. You'll deworm more often, deal with respiratory issues from [ammonia buildup in summer heat](/chicken-coop-smell-control/), and watch egg production drop as stress hormones kill your laying rates.
+Cramped runs compact the soil fast, turning it into a feces-heavy breeding ground. Coccidia, worms, bacteria, your birds are living in their own waste, scratching through it, pecking at it. Disease pressure climbs. You'll deworm more often, deal with respiratory issues from ammonia buildup in summer heat, and watch egg production drop as stress hormones kill your laying rates.
 
 Look at feather condition. A hen with bare patches on her back or a ratty tail usually means one of two things: either a rooster or bully is the culprit, or the birds don't have room to get away from each other. Space solves the second problem entirely.
 

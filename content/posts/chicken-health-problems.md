@@ -1,5 +1,5 @@
 ---
-title: "Why Your Backyard Chickens Get Sick: Signs and Solutions"
+title: "Chicken Health Problems: Signs, Causes, and Solutions"
 date: 2026-05-21T11:43:47.120546+00:00
 draft: false
 description: "Learn to identify and treat common chicken health problems including respiratory infections, mites, worms, and more to keep your flock happy and thriving."
@@ -40,7 +40,7 @@ You go out to the coop on a Tuesday morning with your coffee, same as always, an
 
 ## The Conditions You're Most Likely to Actually Encounter
 
-The same health problems show up repeatedly in backyard flocks. Respiratory illness, digestive issues, external parasites, egg-laying complications, and coccidiosis. Those five cover probably 85% of what backyard keepers deal with. The dramatic stuff, [Marek's disease, Avian Influenza](/avian-influenza-backyard-flock/), gets plenty of attention online. These diseases deserve attention, but they are not where most backyard keepers spend their chicken-keeping energy.
+The same health problems show up repeatedly in backyard flocks. Respiratory illness, digestive issues, external parasites, egg-laying complications, and coccidiosis. Those five cover probably 85% of what backyard keepers deal with. The dramatic stuff, Marek's disease, Avian Influenza, gets plenty of attention online. These diseases deserve attention, but they are not where most backyard keepers spend their chicken-keeping energy.
 
 **Respiratory illness** shows up constantly, especially in poorly ventilated coops or when you bring in new birds without quarantine. Mycoplasma gallisepticum, called MG or chronic respiratory disease, causes rattling breath, bubbling eyes, facial swelling, and a smell that's genuinely unmistakable once you've encountered it. Here's the brutal part: there's no cure. You can treat symptoms with antibiotics like Tylan (tylosin) or oxytetracycline, but a bird with MG stays a carrier for life. I [skipped quarantine exactly once](/quarantine-new-chickens/). It cost me an otherwise clean flock. That was expensive tuition.
 

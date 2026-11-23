@@ -77,7 +77,7 @@ Put boxes on the darker, quieter coop wall. Adding a curtain, even just burlap o
 
 Boxes should be reachable from inside the coop but ideally have an [external egg collection door](/how-to-build-a-chicken-coop/) you can open from outside. Reaching into a crowded coop every morning isn't pleasant, and an outside door keeps things clean and faster.
 
-Don't place boxes near the main door where winter drafts cut through, or directly under windows where summer sun floods in. Keep them away from the waterer. Water splashing plus bedding equals [mold and ruined eggs](/chicken-coop-smell-control/).
+Don't place boxes near the main door where winter drafts cut through, or directly under windows where summer sun floods in. Keep them away from the waterer. Water splashing plus bedding equals mold and ruined eggs.
 
 ## Step-by-Step: Setting Up Nesting Boxes the Right Way
 

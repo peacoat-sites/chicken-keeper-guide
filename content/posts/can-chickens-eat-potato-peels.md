@@ -26,7 +26,7 @@ faqs:
     a: "No. The leaves, stems, and vines of potato plants are the most concentrated source of solanine in the entire plant and should be kept completely away from your flock. This includes potato plant debris from your garden at end of season."
 ---
 
-Solanine is the number that stops most people cold: at concentrations above roughly 20 mg per 100g of plant material, it can be lethal to chickens. And potato peels, depending on how green or sprouted they are, can hit anywhere from 7 mg to over 100 mg per 100g according to research published in the journal *Food Chemistry*. That's a swing wide enough to matter enormously, and it's why the answer to "can [chickens eat](/can-chickens-eat-rice/) potato peels?" is genuinely more complicated than the forum posts suggest.
+Solanine is the number that stops most people cold: at concentrations above roughly 20 mg per 100g of plant material, it can be lethal to chickens. And potato peels, depending on how green or sprouted they are, can hit anywhere from 7 mg to over 100 mg per 100g according to research published in the journal *Food Chemistry*. That's a swing wide enough to matter enormously, and it's why the answer to "can chickens eat potato peels?" is genuinely more complicated than the forum posts suggest.
 
 You might be wondering if you've already been feeding your flock peels with no problems, does that mean you're in the clear? Maybe. Or maybe your peels happened to come from freshly harvested potatoes stored properly in the dark. Here's what I tell people when they ask me this: the peel itself isn't the whole story. The color and condition of the peel is the whole story.
 
@@ -36,7 +36,7 @@ I made this mistake myself in my second year of keeping chickens. I was composti
 
 ## The Solanine Problem Is Real (and Underestimated)
 
-Most [backyard chicken](/new-city-chicken-laws-are-passing-fast-is-your-town-next/) advice on solanine is either fear-mongering or dismissive, and neither is particularly helpful. Here's the actual picture.
+Most backyard chicken advice on solanine is either fear-mongering or dismissive, and neither is particularly helpful. Here's the actual picture.
 
 Solanine is a glycoalkaloid that accumulates in the green parts of potato plants: the leaves, stems, unripe berries, and especially in tuber flesh and skin that has been exposed to light. It's the plant's natural pest defense. Chickens, like humans, can tolerate small amounts. The ASPCA Animal Poison Control Center lists potatoes (specifically green parts and raw potato flesh) as toxic to birds and animals, while acknowledging that properly stored, non-green potatoes present a much lower risk.
 

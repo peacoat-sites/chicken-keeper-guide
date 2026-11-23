@@ -43,7 +43,7 @@ What the framework doesn't do yet is [give backyard](/new-usda-egg-label-rules-g
 
 The 71 human H5N1 cases confirmed in the United States from 2024 through May 2026 got a lot of headlines. Worth keeping in proportion, though: the vast majority were mild, most were linked to occupational exposure to infected dairy cattle or commercial poultry, and there's been no confirmed human-to-human transmission. The research here is mixed on exactly how worried backyard keepers should be about personal exposure risk versus flock loss risk. Flock loss is the more concrete near-term concern for most backyard keepers.
 
-That said, if you find a sick or dead wild bird, don't handle it bare-handed. Report it to your state or national agriculture authority. That's true whether you [keep chickens](/how-to-keep-chickens-cool-during-a-heat-wave/) or not.
+That said, if you find a sick or dead wild bird, don't handle it bare-handed. Report it to your state or national agriculture authority. That's true whether you keep chickens or not.
 
 ## Practical Biosecurity: What Actually Matters for Small Flocks
 

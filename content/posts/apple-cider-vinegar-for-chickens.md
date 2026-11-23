@@ -46,7 +46,7 @@ It also won't clear up [respiratory illness](/respiratory-illness-chickens/). No
 
 ## Dosage, Frequency, and the Metal Waterer Problem
 
-The dosage consensus, supported by most of the broiler research, lands at 0.5% to 1% concentration. In practical terms for backyard keepers, that's 1 tablespoon per gallon of water. Some sources push up to 2 tablespoons. I'd stay at 1. Higher concentrations don't appear to add benefit and may reduce water palatability enough that hens drink less, which is a real problem in [summer heat](/how-to-keep-chickens-cool-during-a-heat-wave/).
+The dosage consensus, supported by most of the broiler research, lands at 0.5% to 1% concentration. In practical terms for backyard keepers, that's 1 tablespoon per gallon of water. Some sources push up to 2 tablespoons. I'd stay at 1. Higher concentrations don't appear to add benefit and may reduce water palatability enough that hens drink less, which is a real problem in summer heat.
 
 Here's the galvanized issue, and it's not minor. Acetic acid reacts with zinc in galvanized steel to produce zinc acetate. Zinc toxicity in poultry causes lethargy, anorexia, and eventually organ failure. If you're running a basic round galvanized waterer (the kind that costs $12 at Tractor Supply), do not put ACV in it. Full stop. Switch to a plastic poultry waterer (Harris Farms makes a decent 3-gallon plastic model for around $18) or a rubber tub.
 
@@ -70,7 +70,7 @@ ACV and probiotics are not a great pairing in the same waterer, by the way. The 
 
 ## Worked Examples From My Flock
 
-When I introduced six new Buff Orpingtons into an established flock of Barred Rocks in spring 2024, the stress of integration predictably tanked everyone's [egg production](/adding-light-for-winter-egg-production/). Action taken: two-week ACV run at 1 tablespoon per gallon in plastic waterers, plus a probiotic powder (alternating days). Result: production recovered to baseline within 11 days, which is faster than my previous integration without any water additives (that took about 18 days). Small sample, I know. But the pattern has held across three subsequent integrations.
+When I introduced six new Buff Orpingtons into an established flock of Barred Rocks in spring 2024, the stress of integration predictably tanked everyone's egg production. Action taken: two-week ACV run at 1 tablespoon per gallon in plastic waterers, plus a probiotic powder (alternating days). Result: production recovered to baseline within 11 days, which is faster than my previous integration without any water additives (that took about 18 days). Small sample, I know. But the pattern has held across three subsequent integrations.
 
 A neighbor runs a small laying operation, 28 Rhode Island Reds. She had been using ACV year-round, continuously, in galvanized waterers. Three hens over six months showed non-specific lethargy and weight loss. Her vet initially suspected Marek's. After I pointed out the galvanized issue, she switched to plastic waterers and dropped the ACV for 30 days. All three hens recovered. Not a definitive diagnosis, but the circumstantial case for zinc toxicity was strong.
 

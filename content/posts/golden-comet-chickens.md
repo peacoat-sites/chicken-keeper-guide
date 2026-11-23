@@ -54,7 +54,7 @@ If you want chickens that lay well at age five or six, pick Australorps or Speck
 
 ## Temperament and Flock Dynamics
 
-They're genuinely gentle birds. Not in the "won't peck you" way of [Silkies](/silkie-chickens/), which are docile almost to a fault, but in a relaxed, confident way that makes flock management easy. They don't tend toward the vicious pecking order enforcement you get with some production breeds. In mixed flocks they tend to hold their own without being the aggressors.
+They're genuinely gentle birds. Not in the "won't peck you" way of Silkies, which are docile almost to a fault, but in a relaxed, confident way that makes flock management easy. They don't tend toward the vicious pecking order enforcement you get with some production breeds. In mixed flocks they tend to hold their own without being the aggressors.
 
 They go broody rarely, which you either want or you don't. If you're trying to hatch eggs naturally, keep one [Buff Orpington](/orpington-chickens/) in the flock for that job. Golden Comets aren't interested.
 

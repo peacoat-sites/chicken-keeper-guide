@@ -1,5 +1,5 @@
 ---
-title: "Stop Coccidiosis Before It Kills Your Flock"
+title: "Coccidiosis in Chickens: Stop It Before It Kills Your Flock"
 date: 2026-05-28T06:47:27.376062+00:00
 draft: false
 description: "Learn how to identify, treat, and prevent coccidiosis in chickens. Discover symptoms, causes, and effective management strategies to keep your flock healthy."
@@ -39,7 +39,7 @@ The species most likely to wreck a backyard flock are *E. tenella* (which target
 
 Young birds between 3 and 8 weeks old are by far the most vulnerable. Their immune systems haven't built up immunity to local *Eimeria* strains yet. Adult birds in an established flock usually have some acquired immunity from low-level exposure over time. That's why you often see coccidiosis hit hardest in chicks raised indoors on clean bedding, then moved to a run with contaminated soil.
 
-[Stress, wet bedding, overcrowding](/quarantine-new-chickens/), and sudden weather changes all tank immune function and create conditions where *Eimeria* populations explode. A brooder that stays damp because your chicks are splashing their waterer? Classic setup for an outbreak.
+Stress, wet bedding, overcrowding, and sudden weather changes all tank immune function and create conditions where *Eimeria* populations explode. A brooder that stays damp because your chicks are splashing their waterer? Classic setup for an outbreak.
 
 ## Recognizing the Symptoms Before It's Too Late
 

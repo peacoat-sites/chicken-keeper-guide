@@ -73,7 +73,7 @@ During wet seasons or in humid climates, some keepers add a sprinkle of agricult
 
 Here's one people push back on. If you're building a coop from scratch, put it on a [dirt floor](/chicken-coop-flooring-options/). Not concrete, not wood, not pavers. Dirt.
 
-Wood floors rot. Concrete is cold, hard to drain, and actually inhibits the microbial community you're trying to grow. Dirt floors let the coop ecosystem connect with the actual soil microbiome, improve drainage naturally, and won't fail structurally after five wet winters. Yes, predators can dig in. [Hardware cloth aprons](/chicken-coop-predator-protection/) (12 to 18 inches buried at an angle away from the coop) solve that. The structural concern is real but solvable. The rotting wood floor concern is expensive and permanent.
+Wood floors rot. Concrete is cold, hard to drain, and actually inhibits the microbial community you're trying to grow. Dirt floors let the coop ecosystem connect with the actual soil microbiome, improve drainage naturally, and won't fail structurally after five wet winters. Yes, predators can dig in. Hardware cloth aprons (12 to 18 inches buried at an angle away from the coop) solve that. The structural concern is real but solvable. The rotting wood floor concern is expensive and permanent.
 
 A packed-earth floor can help avoid moisture problems.
 

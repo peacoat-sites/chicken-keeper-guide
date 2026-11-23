@@ -61,7 +61,7 @@ If you're seeing multiple double yolkers per week from hens who are more than si
 
 ## Incubating Double Yolk Eggs
 
-Don't. Or at least, don't expect results. The two embryos almost always interfere with [each other](/why-are-my-chickens-pecking-each-other/) during development. They share the same air cell and limited space inside the shell. Even in controlled hatchery conditions with candling and manual intervention at lockdown, the survival rate is extremely low. You can find videos of people successfully hatching double yolk eggs with careful assisted hatching, but those are outliers, not a repeatable method for a backyard setting.
+Don't. Or at least, don't expect results. The two embryos almost always interfere with each other during development. They share the same air cell and limited space inside the shell. Even in controlled hatchery conditions with candling and manual intervention at lockdown, the survival rate is extremely low. You can find videos of people successfully hatching double yolk eggs with careful assisted hatching, but those are outliers, not a repeatable method for a backyard setting.
 
 If you want to incubate, set that egg aside and eat it. Use normally shaped, standard-sized eggs from healthy mature hens.
 

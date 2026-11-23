@@ -76,7 +76,7 @@ My honest take: if you live somewhere with this requirement, I'd approach neighb
 Start with these steps, in this order:
 
 1. Search "[your city name] municipal code chickens" or "[your county name] zoning ordinance poultry." Municode.com is your best first stop.
-2. Call your city or county zoning/planning department. Ask specifically about [backyard poultry](/salmonella-from-backyard-flocks-is-spiking-this-summer/), not just "livestock," because the classifications differ.
+2. Call your city or county zoning/planning department. Ask specifically about backyard poultry, not just "livestock," because the classifications differ.
 3. Call your county health department separately and ask whether they have any requirements for small flock keeping (waste management, water access, etc.).
 4. If you're in an HOA, pull your CC&Rs. HOA rules supersede local permits, and I've seen people get fully permitted by the city only to receive a cease-and-desist from their HOA two months later.
 5. Ask in local Facebook groups or Nextdoor. Someone nearby has almost certainly been through this and knows the local quirks.

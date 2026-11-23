@@ -30,7 +30,7 @@ Most people think you just screw in a light bulb and wait for eggs. I thought th
 
 The core thing to understand: hens stop laying in winter because their bodies are responding to day length, not temperature. A hen's pineal gland detects light through her eye, and when day length drops below roughly 14 hours, her reproductive system basically goes dormant. She's not lazy. She's doing what 10,000 years of evolution trained her to do. Supplemental lighting tricks that system into thinking it's still late spring.
 
-What surprised me when I dug into this more seriously was how precise the threshold actually is. It's not "less light means fewer eggs." It's closer to a switch. Most breeds hold production reasonably well until [photoperiod drops below 14 hours](/best-egg-laying-chickens/), then output falls off a cliff. Above 16 hours produces no additional benefit over 14. That 2-hour window is where you're working.
+What surprised me when I dug into this more seriously was how precise the threshold actually is. It's not "less light means fewer eggs." It's closer to a switch. Most breeds hold production reasonably well until photoperiod drops below 14 hours, then output falls off a cliff. Above 16 hours produces no additional benefit over 14. That 2-hour window is where you're working.
 
 ## What Kind of Light, and How Much
 

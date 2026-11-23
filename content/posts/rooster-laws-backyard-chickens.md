@@ -1,5 +1,5 @@
 ---
-title: "Can You Keep A Rooster? Know Your Local Laws"
+title: "Rooster Laws for Backyard Chickens: Know Before You Buy"
 date: 2026-06-09T08:40:08.993116+00:00
 draft: false
 description: "Discover rooster laws for backyard chickens, including local ordinances, noise regulations, zoning rules, and tips to keep your flock legal and neighbor-friendl"

@@ -79,7 +79,7 @@ Cut your wall studs from 2x4s, spacing them 16 inches on center. A shed-style ro
 
 **Step 4: Add ventilation**
 
-This is where most beginner builds fall short. Ventilation prevents respiratory disease, controls ammonia from droppings, and reduces moisture that causes frostbite in cold climates. You want 1 square foot of ventilation for every 10 square feet of floor space, at minimum. Put vents high on the walls near the roofline so cold drafts don't blow directly on roosting birds. Cover every opening with 1/2-inch [hardware cloth](/chicken-coop-predator-protection/).
+This is where most beginner builds fall short. Ventilation prevents respiratory disease, controls ammonia from droppings, and reduces moisture that causes frostbite in cold climates. You want 1 square foot of ventilation for every 10 square feet of floor space, at minimum. Put vents high on the walls near the roofline so cold drafts don't blow directly on roosting birds. Cover every opening with 1/2-inch hardware cloth.
 
 **Step 5: Sheath the exterior**
 
@@ -91,7 +91,7 @@ Cut 2x4 rafters and attach them to the top plates. Sheath with 1/2-inch plywood,
 
 **Step 7: Install interior features**
 
-Roosting bars should be 2-4 inches wide and rounded, set 12-15 inches apart horizontally and 18-24 inches off the floor. Chickens roost higher than their nesting boxes or they'll sleep in the boxes and soil them. A board below the roosts to catch droppings (a "[poop board](/how-to-clean-chicken-coop/)") makes cleanup dramatically easier and I'd never build without one now.
+Roosting bars should be 2-4 inches wide and rounded, set 12-15 inches apart horizontally and 18-24 inches off the floor. Chickens roost higher than their nesting boxes or they'll sleep in the boxes and soil them. A board below the roosts to catch droppings (a "poop board") makes cleanup dramatically easier and I'd never build without one now.
 
 Nesting boxes: one per 3-4 hens. A 12x12-inch box works for most standard breeds. Mount them 12-18 inches off the floor. Line them with [nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20) to keep eggs clean and reduce breakage.
 

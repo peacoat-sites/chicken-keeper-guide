@@ -1,5 +1,5 @@
 ---
-title: "When To Candle Chicken Eggs And What To Look For"
+title: "Candling Eggs: When to Do It and What to Look For"
 date: 2026-06-29T09:57:33.963583+00:00
 draft: false
 description: "Learn how to candle eggs step by step to check fertility and development. Discover the best tools, timing, and techniques for successful egg candling."

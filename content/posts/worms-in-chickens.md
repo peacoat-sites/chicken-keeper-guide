@@ -1,5 +1,5 @@
 ---
-title: "Stop Worm Infestations Before They Harm Your Flock"
+title: "Laying Hen Worms: How to Diagnose, Treat, and Prevent Them"
 date: 2026-05-24T17:40:59.070699+00:00
 draft: false
 description: "Discover how to identify, treat, and prevent worms in chickens. Learn the signs of infection, best treatments, and tips to keep your flock healthy and thriving."
@@ -25,7 +25,7 @@ author_title: "Egg Production"
 author_bio: "Janet Wilson is the byline used at Chicken Keeper Guide for articles on egg production, laying cycles and breed selection. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-You've got a layer standing apart from the flock, tail drooping, looking thin even though she's eating fine. [No respiratory issues](/respiratory-illness-chickens/). No visible mites. You worm her on a hunch, and two weeks later she's back to laying and acting normal. Internal parasites are often the most underdiagnosed health problem in backyard chickens, and most keepers don't catch an infestation until the bird is already struggling.
+You've got a layer standing apart from the flock, tail drooping, looking thin even though she's eating fine. No respiratory issues. No visible mites. You worm her on a hunch, and two weeks later she's back to laying and acting normal. Internal parasites are often the most underdiagnosed health problem in backyard chickens, and most keepers don't catch an infestation until the bird is already struggling.
 
 I'll be direct about my own mistakes. I spent my first few years with chickens the way a lot of people do: cleaned the coop, watched for mites, fed a decent layer pellet, and figured I had things covered. Worms felt like a farm problem, not a backyard thing. Then I had a fecal float done on three hens out of curiosity, and two of them came back positive for roundworms. They looked completely fine. That one test sent me down a long road of reading, interrogating vets, and paying much closer attention to what was actually happening inside my birds.
 

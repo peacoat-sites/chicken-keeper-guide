@@ -17,7 +17,7 @@ affiliate_disclosure: false
 
 Most people assume pecking is a behavior problem. A common mistake is treating the symptom rather than the cause. Pinless peepers might stop the immediate pecking, but if you don't address why it started, the behavior often returns once you remove them.
 
-Here's the honest truth: feather pecking and cannibalistic pecking in [backyard flocks](/drug-resistant-salmonella-is-spreading-from-backyard-flocks-right-now/) are almost always symptoms, not the disease. Fix the symptom without diagnosing the cause and you'll be back at square one, sometimes with a dead bird.
+Here's the honest truth: feather pecking and cannibalistic pecking in backyard flocks are almost always symptoms, not the disease. Fix the symptom without diagnosing the cause and you'll be back at square one, sometimes with a dead bird.
 
 I've dealt with this across a dozen different flocks over ten years, in a 400-square-foot suburban run and on a half-acre setup in the country. The causes are genuinely different depending on your situation, and the solutions are not one-size-fits-all. Let me walk you through what I've actually found.
 
@@ -50,7 +50,7 @@ Feather-eating specifically, as opposed to skin pecking, is almost always a prot
 
 ## Blood Changes Everything
 
-The moment you see blood, the calculus changes completely. [Chickens are](/chickens-are-now-americas-third-most-popular-pet/) attracted to the color red, and a small wound will get picked open by flockmates until it's a serious injury or worse. Once pecking starts, it can escalate quickly as flock mates are drawn to the wound.
+The moment you see blood, the calculus changes completely. Chickens are attracted to the color red, and a small wound will get picked open by flockmates until it's a serious injury or worse. Once pecking starts, it can escalate quickly as flock mates are drawn to the wound.
 
 Isolate any bleeding bird immediately. Full stop. Not in a few hours, not after you finish what you're doing.
 

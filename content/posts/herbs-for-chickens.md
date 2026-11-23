@@ -30,7 +30,7 @@ My first flock was three Buff Orpingtons and a production [Rhode Island Red](/rh
 
 That was ten years ago, and I've gone pretty deep on herbs since. Not in a woo-woo way, not in a "replace your vet with lavender" way, but in the practical, cost-effective, actually-works way that makes your flock healthier and your run smell less like what it is.
 
-The research here is mixed, I'll be honest. Some herb benefits are well-documented. Others are anecdotal but show up so consistently across [chicken keepers](/egg-prices-crashed-but-the-chicken-boom-keeps-going/) that I can't dismiss them. What I can tell you is what I've actually tested, what made a difference I could measure, and what's mostly just pretty.
+The research here is mixed, I'll be honest. Some herb benefits are well-documented. Others are anecdotal but show up so consistently across chicken keepers that I can't dismiss them. What I can tell you is what I've actually tested, what made a difference I could measure, and what's mostly just pretty.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Oregano has the strongest antimicrobial evidence of any poultry herb, backed by published studies.</li><li style="margin:5px 0">Fresh or dried herbs can be scattered in the coop, added to nest boxes, or grown in a protected run garden.</li><li style="margin:5px 0">Lavender, mint, and rosemary repel mites and lice; results are good but not a substitute for full treatment.</li><li style="margin:5px 0">Never feed herbs in large concentrated doses; a handful scattered daily is plenty for a small flock.</li><li style="margin:5px 0">Calendula yolks: hens eating calendula regularly lay noticeably deeper-orange yolks within about 2-3 weeks.</li></ul></div>
 
@@ -69,7 +69,7 @@ Garlic deserves its own mention because there's a persistent myth that it makes 
 
 ## What Doesn't Work (Or Barely Works)
 
-Chamomile gets a lot of hype for "calming" chickens. I don't buy it at meaningful levels. [Chickens eat](/can-chickens-eat-banana-peels/) it fine, and it's not harmful, but if you've ever watched a hen go into a panic spiral because a plastic bag blew into the yard, you know that no amount of chamomile is touching that reaction.
+Chamomile gets a lot of hype for "calming" chickens. I don't buy it at meaningful levels. Chickens eat it fine, and it's not harmful, but if you've ever watched a hen go into a panic spiral because a plastic bag blew into the yard, you know that no amount of chamomile is touching that reaction.
 
 Basil is nice. It has some antioxidant properties. Chickens like fresh basil a lot, actually. But the evidence for specific health benefits in poultry is thin, and I'd put it in the "pleasant and harmless" category rather than "therapeutic."
 

@@ -54,7 +54,7 @@ These are rough estimates assuming an average 15% annual loss rate to aerial pre
 
 Reflective tape and old CDs. I tried them. They work for maybe two weeks before the local hawks figure out these shiny things have never once moved to attack anything.
 
-Fake owls, hawk decoys, and plastic predator shapes. Same problem. Hawks aren't dumb. A stationary fake owl in the same spot every morning is not a threat. A study from Purdue's Department of Forestry and Natural Resources found that stationary visual deterrents lose effectiveness within 5-7 days for most corvids and raptors. [Chickens are](/chickens-are-now-americas-third-most-popular-pet/) smart enough to ignore them too, which tells you something.
+Fake owls, hawk decoys, and plastic predator shapes. Same problem. Hawks aren't dumb. A stationary fake owl in the same spot every morning is not a threat. A study from Purdue's Department of Forestry and Natural Resources found that stationary visual deterrents lose effectiveness within 5-7 days for most corvids and raptors. Chickens are smart enough to ignore them too, which tells you something.
 
 Chicken wire overhead. This one genuinely surprises people. Standard poultry netting (the hexagonal stuff) has gaps large enough for a Sharp-shinned Hawk to push through and enough flex that a determined Red-tail can rip a section loose. If you're running a covered run with chicken wire, you're providing psychological comfort, not actual protection.
 

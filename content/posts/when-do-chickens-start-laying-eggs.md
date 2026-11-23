@@ -1,5 +1,5 @@
 ---
-title: "Your Chicken's First Eggs: Age, Breed, And Timing"
+title: "When Do Chickens Start Laying Eggs: Age, Breed, and Signs"
 date: 2026-05-25T07:56:45.238301+00:00
 draft: false
 description: "Chickens typically start laying eggs at 16-20 weeks old. Learn about breed differences, factors affecting egg production, and how to prepare your coop."

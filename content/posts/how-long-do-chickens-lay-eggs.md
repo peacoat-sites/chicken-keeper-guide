@@ -1,5 +1,5 @@
 ---
-title: "Your Chicken's Laying Years: When Production Peaks and Declines"
+title: "How Long Do Chickens Lay Eggs: Peak Years and Decline"
 date: 2026-05-25T01:10:09.569589+00:00
 draft: false
 description: "Discover how long chickens lay eggs and their peak production years. Learn about factors affecting laying cycles and when hens stop producing eggs."
@@ -54,7 +54,7 @@ The drop-off isn't random. Several specific factors trigger reduced production o
 **[Molting](/molting-chickens-egg-production/)**
 Every fall, hens go through a molt: they shed their old feathers and grow new ones. The process takes 8 to 16 weeks, and during that time most hens stop laying entirely. The body redirects protein from egg production to feather regrowth. Once the molt is done and day length stabilizes, laying resumes.
 
-**[Shortened Daylight](/adding-light-for-winter-egg-production/)**
+**Shortened Daylight**
 Hens need 14 to 16 hours of light per day to maintain peak laying. As days shorten in fall and winter, the pineal gland registers fewer light hours and signals the reproductive system to slow down. This is why production tanks in November and picks back up in February or March, often with no other changes to management. Many keepers add a simple 40-watt bulb on a timer in the coop to maintain artificial day length through winter.
 
 **Age and Depleted Follicles**

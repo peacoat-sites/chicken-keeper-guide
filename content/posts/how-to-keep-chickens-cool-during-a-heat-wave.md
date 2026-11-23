@@ -35,7 +35,7 @@ Certain breeds feel this harder than others. Heavy dual-purpose birds like Buff 
 
 Roosters and large hens tend to go down before pullets. Older birds and those already dealing with a health issue like a laying problem or respiratory illness are also at elevated risk. Know your flock well enough to spot who needs the closest watching.
 
-Panting with the beak open. Wings held out from the body. Lethargy and reluctance to move. Pale combs and wattles. [Reduced or stopped egg production](/best-egg-laying-chickens/). In serious cases, stumbling or inability to stand. A bird that's stumbling in the heat is an emergency.
+Panting with the beak open. Wings held out from the body. Lethargy and reluctance to move. Pale combs and wattles. Reduced or stopped egg production. In serious cases, stumbling or inability to stand. A bird that's stumbling in the heat is an emergency.
 
 ## The Coop Situation Is Probably Making It Worse
 

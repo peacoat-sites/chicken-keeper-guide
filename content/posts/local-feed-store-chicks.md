@@ -35,7 +35,7 @@ Feed stores typically receive chicks in late February through May, depending on 
 
 ## What You're Actually Getting (and From Where)
 
-Feed stores don't hatch [their own](/why-do-chickens-eat-their-own-eggs/) chicks. They order from regional or national hatcheries, usually on a weekly or biweekly schedule during the season. The hatchery matters more than people realize, because breed accuracy, Marek's vaccination, and coccidiosis treatment vary by supplier.
+Feed stores don't hatch their own chicks. They order from regional or national hatcheries, usually on a weekly or biweekly schedule during the season. The hatchery matters more than people realize, because breed accuracy, Marek's vaccination, and coccidiosis treatment vary by supplier.
 
 Ask the store: "Who's your hatchery, and are these chicks Marek's vaccinated?" Those two questions will tell you a lot. Most commercial hatcheries do vaccinate for Marek's by default, but it's not universal, and some stores don't track it. If you plan to use medicated [chick starter](/chick-starter-feed/) (which contains amprolium to suppress coccidia), know that medicated feed can interfere with coccidiosis vaccination, not Marek's, that's a different thing. If chicks received a coccidiosis vaccine at the hatchery, skip the medicated feed. If they weren't vaccinated for cocci, medicated starter is a reasonable choice for the first eight weeks.
 

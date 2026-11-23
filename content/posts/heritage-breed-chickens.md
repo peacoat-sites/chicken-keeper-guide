@@ -69,7 +69,7 @@ Buckeyes are the breed I wish someone had told me about sooner. Developed in Ohi
 
 Let me be direct here because the hatchery websites are not going to tell you this.
 
-Heritage breed pullets from a hatchery run $4-$12 per chick depending on breed and sex. From a preservation breeder, expect $15-$40 per bird, sometimes more for rare breeds like Javas or Chanteclers. Chicks from your own [broody hen](/broody-hen-behavior/) are obviously cheaper, which is one reason broodiness matters more than people think.
+Heritage breed pullets from a hatchery run $4-$12 per chick depending on breed and sex. From a preservation breeder, expect $15-$40 per bird, sometimes more for rare breeds like Javas or Chanteclers. Chicks from your own broody hen are obviously cheaper, which is one reason broodiness matters more than people think.
 
 But the actual ongoing cost difference is where it gets uncomfortable. A production Leghorn converts feed to eggs at a ratio that heritage breeds simply can't match. My Australorps eat roughly 4.5 lbs of feed per dozen eggs during peak season. My neighbor's ISA Browns eat closer to 3 lbs per dozen. Layer pellets run about $22-28 for a 50 lb bag in most of the country right now (current as of July 2026, though prices have been volatile since mid-2025 grain market shifts). That feed efficiency gap adds up over a flock year.
 

@@ -66,7 +66,7 @@ Height without horizontal placement is half the job.
 
 Roosts should be the highest point in the coop. If a wall shelf, a feeder hook, or a ledge above a window is taller than your roosts, a bird will sleep there instead. I found my Australorp pullets roosting on top of the feeder bracket for three weeks straight, directly above the feed. Not ideal.
 
-Keep at least 12 inches of horizontal space per bird. 15 inches is better for large breeds. Crowding on the roost is one of the underrated causes of [vent pecking](/how-many-nesting-boxes-per-chicken/) because the bird below is stuck right at eye level with the vent of the bird above. Miserable situation.
+Keep at least 12 inches of horizontal space per bird. 15 inches is better for large breeds. Crowding on the roost is one of the underrated causes of vent pecking because the bird below is stuck right at eye level with the vent of the bird above. Miserable situation.
 
 The roost should sit 12 to 18 inches away from the wall so birds can actually balance without pressing their tail feathers against wood. Tail damage and mite infestations in the feathers often trace straight back to roosts built too tight to the wall.
 

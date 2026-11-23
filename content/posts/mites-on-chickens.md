@@ -1,5 +1,5 @@
 ---
-title: "Stop Mites Before They Destroy Your Flock"
+title: "Mites on Chickens: Treatment and Prevention That Works"
 date: 2026-05-29T09:18:17.196791+00:00
 draft: false
 description: "Discover how to identify, treat, and prevent mites on chickens with our expert guide. Protect your flock's health and keep your hens happy and productive."

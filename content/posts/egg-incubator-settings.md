@@ -81,7 +81,7 @@ Worked example: Reader Denise from rural Wisconsin emailed me last spring after 
 
 ## Ventilation and CO2: The Setting Nobody Adjusts
 
-Most incubator instructions mention ventilation holes in passing, then never bring it up again. But CO2 buildup inside a poorly vented unit is a real problem after day 7, when embryos start respiring more actively. The symptoms [look like](/new-city-chicken-laws-are-passing-fast-is-your-town-next/) early quitters or fully-developed chicks that died just before hatching, sometimes called "dead in shell."
+Most incubator instructions mention ventilation holes in passing, then never bring it up again. But CO2 buildup inside a poorly vented unit is a real problem after day 7, when embryos start respiring more actively. The symptoms look like early quitters or fully-developed chicks that died just before hatching, sometimes called "dead in shell."
 
 Most forced-air incubators handle this adequately at standard vent settings. Where people go wrong is sealing the vents to hold humidity. Don't do that. If you can't maintain humidity without closing the vents, add water surface area instead (more water channels, a small sponge) rather than blocking airflow.
 

@@ -1,5 +1,5 @@
 ---
-title: "Your Chicken Flock Size: Legal Limits and Best Practices"
+title: "How Many Chickens Can I Have: Legal Limits and Practicalities"
 date: 2026-06-02T12:54:40.052776+00:00
 draft: false
 description: "Find out how many chickens you can keep based on local zoning laws, space requirements, flock size recommendations, and practical tips for happy, healthy hens."
@@ -31,7 +31,7 @@ You've done your research, you've watched the YouTube videos, and you've already
 
 I've talked to hundreds of people at this stage, and here's what I tell them every time: there is no universal answer to how many chickens you can have. The number that works for you depends on four things, and you need to think through all of them before you order a single chick.
 
-**Your [local ordinances](/hoa-rules-backyard-chickens/).** Start here. Not with square footage math, not with breed selection. Call your city or county planning office, or pull up your municipality's code online and search "poultry" or "livestock." What you're looking for is whether chickens are permitted at all, whether roosters are banned (they are in the vast majority of residential zones), and whether there's a hard cap on the number of birds. In suburban areas, caps of three to six hens are extremely common. Some cities allow up to twelve. A few have no cap at all. Some require a permit, a fee, or a minimum lot size. One woman I know built a beautiful coop for ten hens before she found out her township allowed four. She had to rehome six birds she had already grown attached to.
+**Your local ordinances.** Start here. Not with square footage math, not with breed selection. Call your city or county planning office, or pull up your municipality's code online and search "poultry" or "livestock." What you're looking for is whether chickens are permitted at all, whether roosters are banned (they are in the vast majority of residential zones), and whether there's a hard cap on the number of birds. In suburban areas, caps of three to six hens are extremely common. Some cities allow up to twelve. A few have no cap at all. Some require a permit, a fee, or a minimum lot size. One woman I know built a beautiful coop for ten hens before she found out her township allowed four. She had to rehome six birds she had already grown attached to.
 
 **Your lot size and setback requirements.** Even if ordinances allow chickens, they often require the coop to be a certain distance from property lines, neighboring homes, or your own house. A 50-foot setback on a quarter-acre lot can eliminate most of the places you'd want to put a coop.
 

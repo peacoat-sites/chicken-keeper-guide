@@ -26,7 +26,7 @@ faqs:
     a: "I wouldn't say completely, but I'd cut it back sharply, especially during heat waves. A small scatter in the cool of early morning is probably fine for most climates. Where I'd draw the hard line is double feedings during days over 90°F, particularly for heavy or feathered-leg breeds that struggle with heat regulation anyway. Light breeds like Leghorns handle heat better and I'd be less worried about a modest scratch ration for them even in summer."
 ---
 
-Most [chicken keepers](/egg-prices-crashed-but-the-chicken-boom-keeps-going/) buy their first bag of scratch without really knowing what it is. Many assume "scratch" is just another word for chicken food, only to realize later they've been undermining their flock's nutrition.
+Most chicken keepers buy their first bag of scratch without really knowing what it is. Many assume "scratch" is just another word for chicken food, only to realize later they've been undermining their flock's nutrition.
 
 Scratch grains are a treat, not a feed replacement, nutritional supplement, or substitute for layer pellets. They're the chicken equivalent of popcorn: a little is fine, but a lot is a problem.
 
@@ -40,7 +40,7 @@ That framing changed how I use scratch entirely, and I think it'll change how yo
 
 What's inside the bag varies a lot by brand and price point. Cheap scratch is often just cracked corn and maybe some milo (grain sorghum). Mid-range products like Purina Scratch Grains or Kalmbach Feeds Scratch typically add wheat, milo, and oats to the corn base. Premium blends from producers like Scratch and Peck Feeds layer in sunflower seeds, peas, and sometimes barley. Bags labeled "scratch" can range from 90% cracked corn to blends with eight or nine different grains. The label tells you what's inside, but many keepers don't bother reading it.
 
-What surprised me was how dramatically the protein content swings between products. When I finally started comparing nutrition tags side by side, some of the bargain scratch bags listed protein at 7%, while layer pellets from the same shelf ran 16-18%. That's not a small difference. If a hen is filling up on scratch, she's leaving less room in her gut for the feed that actually supports [egg production](/best-egg-laying-chickens/) and feather quality.
+What surprised me was how dramatically the protein content swings between products. When I finally started comparing nutrition tags side by side, some of the bargain scratch bags listed protein at 7%, while layer pellets from the same shelf ran 16-18%. That's not a small difference. If a hen is filling up on scratch, she's leaving less room in her gut for the feed that actually supports egg production and feather quality.
 
 ## The Heat Metabolism Factor
 

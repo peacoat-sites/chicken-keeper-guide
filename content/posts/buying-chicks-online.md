@@ -61,7 +61,7 @@ Nobody warns you about this part: hatcheries sell out fast. Specific breeds, spe
 
 This is the part that makes people anxious, and honestly, some anxiety is justified.
 
-Hatcheries ship day-old chicks because the yolk sac provides roughly 48 to 72 hours of nutrition without food or water. They go in ventilated cardboard boxes with wood shavings, sometimes a [heat pack depending on weather](/heat-lamp-for-chicks/), sometimes a "packing peanut" (an extra male chick for warmth). That's why minimum orders exist: a lone chick chills and dies.
+Hatcheries ship day-old chicks because the yolk sac provides roughly 48 to 72 hours of nutrition without food or water. They go in ventilated cardboard boxes with wood shavings, sometimes a heat pack depending on weather, sometimes a "packing peanut" (an extra male chick for warmth). That's why minimum orders exist: a lone chick chills and dies.
 
 USPS Priority Mail Express is the standard method, targeting 1-2 day delivery. But here's the problem: USPS handles millions of packages and a box marked "LIVE ANIMALS" in bright red can sit in a sorting facility overnight in temperatures that kill them. This happens more often than hatcheries admit.
 

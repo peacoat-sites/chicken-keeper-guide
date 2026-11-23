@@ -15,7 +15,7 @@ slug: "soft-shell-eggs-causes"
 affiliate_disclosure: false
 ---
 
-You pull an egg from the nest box and it collapses in your hand. Not cracked. Not thin-shelled. Fully soft, like a water balloon covered in membrane. A soft egg can be alarming, but the causes are usually manageable. If you're standing there [right now](/drug-resistant-salmonella-is-spreading-from-backyard-flocks-right-now/) with a deflated egg wondering what went wrong, here are the most common reasons and fixes.
+You pull an egg from the nest box and it collapses in your hand. Not cracked. Not thin-shelled. Fully soft, like a water balloon covered in membrane. A soft egg can be alarming, but the causes are usually manageable. If you're standing there right now with a deflated egg wondering what went wrong, here are the most common reasons and fixes.
 
 Soft shell eggs happen more often than most chicken-keeping resources let on, and the causes range from completely fixable (diet) to "watch carefully for a few weeks" (age and stress) to "get your hen to a vet" (disease). The trick is figuring out which situation you're actually in, because the answer determines everything you do next.
 
@@ -25,7 +25,7 @@ Here's what I tell people right off the bat: most soft shell eggs are a calcium 
 
 ## The Calcium Question (and Why It's More Complicated Than You Think)
 
-Everyone knows hens need calcium. What fewer people realize is that the shell of a single egg contains roughly 2 grams of calcium carbonate, and a laying hen needs somewhere between 4 and 5 grams of calcium per day just to shell eggs properly. [Layer feed](/layer-feed-vs-starter-feed/) is formulated to provide around 3.5 to 4 grams, which is close but not always enough for high-production birds.
+Everyone knows hens need calcium. What fewer people realize is that the shell of a single egg contains roughly 2 grams of calcium carbonate, and a laying hen needs somewhere between 4 and 5 grams of calcium per day just to shell eggs properly. Layer feed is formulated to provide around 3.5 to 4 grams, which is close but not always enough for high-production birds.
 
 Layer feed alone is usually sufficient, but high-producing breeds or hens in peak season may need extra calcium. During summer, some birds lay so fast their bodies can't deposit enough calcium before the egg reaches the shell gland. Offering a separate dish of [oyster shell](/oyster-shell-for-chickens/) (such as Manna Pro Crushed Oyster Shell, around $14 for an 8-pound bag) often resolves soft shells within days.
 

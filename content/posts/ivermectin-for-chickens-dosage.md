@@ -31,7 +31,7 @@ Here's what I tell people who are new to this: ivermectin works, it's widely use
 
 ## What You're Actually Treating (And Why It Matters Before You Dose)
 
-Ivermectin covers a lot of ground in chickens. It's effective against external parasites like northern fowl mites (*Ornithogaster sylviarum*), scaly leg mites (*Knemidocoptes mutans*), and lice. It also handles internal roundworms and some capillary worms. What it does not reliably treat: [tapeworms](/worms-in-chickens/). If you're seeing flat, segmented worms in droppings, you need a different drug entirely (praziquantel, typically).
+Ivermectin covers a lot of ground in chickens. It's effective against external parasites like northern fowl mites (*Ornithogaster sylviarum*), scaly leg mites (*Knemidocoptes mutans*), and lice. It also handles internal roundworms and some capillary worms. What it does not reliably treat: tapeworms. If you're seeing flat, segmented worms in droppings, you need a different drug entirely (praziquantel, typically).
 
 I mention this because a lot of keepers throw ivermectin at every worm situation and then wonder why the problem keeps coming back. Knowing what you're treating affects which formulation makes sense, the frequency, and whether you're even solving the right problem.
 

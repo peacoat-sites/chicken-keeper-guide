@@ -43,7 +43,7 @@ Predator protection is where new keepers get gutted, emotionally and financially
 
 ## Avian Flu Is Real and New Keepers Are Not Ready for It
 
-This part is uncomfortable but I'd rather tell you now. A May 2026 CDC survey of 638 backyard flock owners found that while 94% had heard of [avian influenza](/what-the-cdc-h5n1-survey-revealed-about-backyard-flock-owners/), one in three didn't know the signs or symptoms. That's a significant knowledge gap, and it matters right now because HPAI, highly pathogenic avian influenza, was confirmed in backyard flocks in Iowa, Wisconsin, Georgia, and other states in early 2026. Spring wild bird migration is the primary way it spreads to backyard birds.
+This part is uncomfortable but I'd rather tell you now. A May 2026 CDC survey of 638 backyard flock owners found that while 94% had heard of avian influenza, one in three didn't know the signs or symptoms. That's a significant knowledge gap, and it matters right now because HPAI, highly pathogenic avian influenza, was confirmed in backyard flocks in Iowa, Wisconsin, Georgia, and other states in early 2026. Spring wild bird migration is the primary way it spreads to backyard birds.
 
 Symptoms to know: sudden death with no warning, respiratory distress, dramatic drop in egg production, swollen or discolored combs and wattles, and neurological signs like loss of coordination. If you see multiple birds sick or dead at the same time, call your state veterinarian, don't wait.
 

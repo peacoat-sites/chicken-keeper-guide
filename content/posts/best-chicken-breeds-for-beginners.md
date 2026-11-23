@@ -89,7 +89,7 @@ Some breeds get labeled "friendly" in general chicken literature but come with r
 
 **Easter Eggers and Ameraucanas** are popular for their blue and green eggs, and many individuals are quite tame. But temperament varies significantly bird to bird, they can be skittish, and production can be uneven. Not a disaster for beginners, but not the most predictable choice either.
 
-**[Silkies](/silkie-chickens/)** look irresistible and they are genuinely sweet. But they have special care requirements, their feathered feet get muddy and matted in wet conditions, and they can't see well due to their crests. That makes them easy targets for other birds or predators. They also aren't great layers. I love Silkies as a second or third flock addition, not a first bird.
+**Silkies** look irresistible and they are genuinely sweet. But they have special care requirements, their feathered feet get muddy and matted in wet conditions, and they can't see well due to their crests. That makes them easy targets for other birds or predators. They also aren't great layers. I love Silkies as a second or third flock addition, not a first bird.
 
 **Leghorns** lay extraordinarily well (300+ white eggs per year) but they're flighty, nervous, and loud. Many first-time keepers find Leghorns stressful to manage. Great birds for experienced keepers with adequate space. A tough first bird.
 

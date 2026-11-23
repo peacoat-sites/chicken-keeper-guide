@@ -1,5 +1,5 @@
 ---
-title: "How To Tell Male Chicks From Female Chicks"
+title: "Male Baby Chick or Female: How to Tell Them Apart"
 date: 2026-06-25T08:31:02.579560+00:00
 draft: false
 description: "Learn how to sex baby chicks using vent sexing, feather sexing, and visual clues to tell pullets from cockerels early after hatching."

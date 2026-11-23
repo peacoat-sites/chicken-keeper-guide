@@ -1,5 +1,5 @@
 ---
-title: "Why Hens Stop Laying: 9 Common Causes and Fixes"
+title: "Why Is My Chicken Not Laying Eggs: Common Causes and Fixes"
 date: 2026-07-09T08:39:18.384410+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false

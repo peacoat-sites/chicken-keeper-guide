@@ -33,7 +33,7 @@ Not all cold hardiness is the same, and the internet doesn't always make that cl
 
 **Comb type** is the big one. Single combs, the tall upright kind you see on Leghorns and Rhode Island Whites, are basically frostbite magnets. They stick up, get wet, and freeze. Rose combs, pea combs, and cushion combs sit low and tight against the head, giving cold air far less surface area to work with. Breeds like the Dominique (rose comb), Buckeye (pea comb), and Chantecler (cushion comb) were literally developed with North American winters in mind.
 
-**Body mass and feather density** matter enormously. A big, round, heavily feathered bird generates and retains heat more efficiently than a slight, sleek Mediterranean breed. That's not an opinion, that's basic thermodynamics. A [Plymouth Rock or a Brahma](/barred-rock-chickens/) carries enough body fat and feather coverage to handle deep cold that would have a Fayoumi or Andalusian in serious trouble.
+**Body mass and feather density** matter enormously. A big, round, heavily feathered bird generates and retains heat more efficiently than a slight, sleek Mediterranean breed. That's not an opinion, that's basic thermodynamics. A Plymouth Rock or a Brahma carries enough body fat and feather coverage to handle deep cold that would have a Fayoumi or Andalusian in serious trouble.
 
 **Feathered feet** are trickier than they seem. Breeds like Cochins and Brahmas have feathered shanks that add insulation, but those feathers can ice up in sloppy wet snow, leading to foot problems. I've found that feathered-foot breeds do best in cold dry climates rather than the freeze-thaw cycling you get in the upper Midwest.
 

@@ -76,7 +76,7 @@ The reason for keeping it closed isn't precious membrane sensitivity, it's humid
 
 Chicks can stay in the incubator for up to 48 hours after hatch. They're absorbing the yolk sac, which provides 24-48 hours of nutrition. Moving them too early stresses them; moving them too late once the humidity drops leads to other problems. Watch the down: when it's fully fluffed and the chick is standing steadily, it's ready to transfer to the brooder.
 
-Brooder temperature at arrival should be 95°F at chick level for the first week, dropping 5°F per week after that. A simple 250W red heat lamp works, though many keepers switch to a Brinsea EcoGlow brooder plate and prefer it. It is quieter, carries lower fire risk, and chicks can regulate [their own](/why-do-chickens-eat-their-own-eggs/) temperature by moving toward or away from it.
+Brooder temperature at arrival should be 95°F at chick level for the first week, dropping 5°F per week after that. A simple 250W red heat lamp works, though many keepers switch to a Brinsea EcoGlow brooder plate and prefer it. It is quieter, carries lower fire risk, and chicks can regulate their own temperature by moving toward or away from it.
 
 **Scenario example:** For example, consider 12 Rhode Island Red eggs from a backyard flock, set in a Brinsea Ovation 28 EX at 99.5°F and 50% humidity. Candled day 7, all 12 fertile. Day 14, one blood ring removed, 11 continued. Lockdown day 18, humidity raised to 70%. First pip at day 20 evening. By day 21 afternoon, 10 had hatched. One pipped but didn't zip; I waited 24 hours before intervening, and it survived. Final count: 11 of 12, 91.7% hatch rate.
 

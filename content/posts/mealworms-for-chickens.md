@@ -29,7 +29,7 @@ My chickens would do anything for mealworms. Truly, anything. I once accidentall
 
 You're probably wondering whether mealworms are actually good for chickens, how many is too many, dried versus live, and whether growing your own is worth the effort. These are exactly the right questions. But first, let's reset on how to think about this ingredient in general.
 
-Mealworms are a treat. A good one, genuinely nutritious, but still a treat. The protein content in dried mealworms runs around 53%, which sounds incredible until you realize chickens are getting what they need from a [properly balanced layer feed](/layer-feed-vs-starter-feed/). Dumping high-protein treats on top can actually throw off that balance over time. Too much protein pushes extra nitrogen through the kidneys. It won't kill a healthy hen overnight, but it's a real thing to manage.
+Mealworms are a treat. A good one, genuinely nutritious, but still a treat. The protein content in dried mealworms runs around 53%, which sounds incredible until you realize chickens are getting what they need from a properly balanced layer feed. Dumping high-protein treats on top can actually throw off that balance over time. Too much protein pushes extra nitrogen through the kidneys. It won't kill a healthy hen overnight, but it's a real thing to manage.
 
 ## Dried vs. Live: There's Actually a Right Answer
 

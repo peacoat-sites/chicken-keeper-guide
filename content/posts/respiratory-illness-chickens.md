@@ -1,5 +1,5 @@
 ---
-title: "Spot Respiratory Disease Before It Spreads Through Your Flock"
+title: "Respiratory Illness in Chickens: Spot and Stop the Spread"
 date: 2026-06-08T09:56:47.256894+00:00
 draft: false
 description: "Learn to identify and treat respiratory illness in chickens with expert tips on symptoms, causes, prevention, and the best treatments to keep your flock healthy"
@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 A wet, rattling wheeze, puffy eye, or runny nose can be alarming, but respiratory illness happens to most flock keepers eventually. What you do in the next 24 to 48 hours matters a lot.
 
-Respiratory illness is probably the most common health problem backyard flock owners contact me about. It's also one of the most confusing, because the symptoms overlap wildly between a handful of very different diseases. A rattling cough could be [Mycoplasma gallisepticum](/chicken-health-problems/). It could be Infectious Bronchitis. It could be Aspergillosis if they got into moldy bedding. Knowing which one you're dealing with changes everything, including whether antibiotics will help at all.
+Respiratory illness is probably the most common health problem backyard flock owners contact me about. It's also one of the most confusing, because the symptoms overlap wildly between a handful of very different diseases. A rattling cough could be Mycoplasma gallisepticum. It could be Infectious Bronchitis. It could be Aspergillosis if they got into moldy bedding. Knowing which one you're dealing with changes everything, including whether antibiotics will help at all.
 
 I'm going to walk you through what I actually do when I see these signs, what's likely, what's serious, and where people tend to go wrong.
 

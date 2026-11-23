@@ -97,7 +97,7 @@ In winter, balance moisture removal with cold protection:
 3. **Check for condensation every morning.** Dripping walls or foggy interior means you need more ventilation, not less, even in cold weather.
 4. **Use deep litter.** A properly managed deep litter system generates heat through decomposition and absorbs moisture. [Pine shavings](https://www.amazon.com/s?k=pine+shavings+chicken+coop&tag=contentportfo-20) work well as a base layer.
 
-Many keepers seal their coops tight to keep birds warm, only to face [respiratory illness](/chicken-coop-smell-control/) by winter. A coop can smell fine from outside while ammonia builds to toxic levels inside.
+Many keepers seal their coops tight to keep birds warm, only to face respiratory illness by winter. A coop can smell fine from outside while ammonia builds to toxic levels inside.
 
 ## DIY Ventilation Solutions That Actually Work
 

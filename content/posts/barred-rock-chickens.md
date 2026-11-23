@@ -55,7 +55,7 @@ Temperament is where I need to be honest with you, because there's a wide spectr
 | Peak production window | Months 5-24 | Months 5-20 | Months 5-18 |
 | Cold tolerance | Excellent | Moderate | Moderate |
 
-Here's something that surprises people. Barred Rocks from a quality line will lay 4 to 5 large brown eggs per week during their prime, which works out to roughly 200 to 280 eggs per year. That's competitive with production breeds. They don't match a [White Leghorn](/best-egg-laying-chickens/) for sheer volume (those birds can hit 300+), but they do it while being twice as calm and, honestly, way more pleasant to keep.
+Here's something that surprises people. Barred Rocks from a quality line will lay 4 to 5 large brown eggs per week during their prime, which works out to roughly 200 to 280 eggs per year. That's competitive with production breeds. They don't match a White Leghorn for sheer volume (those birds can hit 300+), but they do it while being twice as calm and, honestly, way more pleasant to keep.
 
 The peak production window is roughly months 5 through 24 of life. After that, you'll see a gradual taper, but many keepers report solid production through year three or four. My oldest Barred Rock hen (I called her Gravel) laid consistently through her third full laying season before slowing down, which I wasn't expecting.
 

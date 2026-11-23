@@ -91,7 +91,7 @@ Any soap residue left behind is bad for birds. Rinse until the water runs clear.
 This is non-negotiable. Putting birds back into a wet coop is trading one problem for another. On a sunny day, two to four hours with doors and windows open usually does it. On a humid or cloudy day, you might need longer. I've run a box fan in the coop to speed drying.
 
 **Step 8: Apply disinfectant.**
-Once dry, spray a [poultry-safe disinfectant](/chicken-coop-smell-control/) according to label directions. Oxine AH is my go-to because it breaks down into salt and water, leaving no harmful residue when used correctly. Let it air out before birds return.
+Once dry, spray a poultry-safe disinfectant according to label directions. Oxine AH is my go-to because it breaks down into salt and water, leaving no harmful residue when used correctly. Let it air out before birds return.
 
 **Step 9: Dust with diatomaceous earth (optional).**
 A light dusting of food-grade DE along the floor edges, in nesting boxes, and on roost bars discourages mites. Don't overdo it. A fine dusting is plenty.

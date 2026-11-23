@@ -26,7 +26,7 @@ faqs:
     a: "Standard recommendation is 4 square feet per bird inside the coop and 10 square feet per bird in the run. Because of how active and reactive Leghorns are, I'd push those numbers up: 4 square feet feels tight for a bird that doesn't like being crowded. If your birds are truly free-ranging during the day, the interior square footage matters less. But don't skimp on run space and then be surprised when feather-picking shows up."
 ---
 
-300 eggs [per year](/best-egg-laying-chickens/). That's the number that sells more Leghorns than any marketing copy ever could, and honestly, it's not even an exaggeration for a well-managed flock. The American Poultry Association's breed standard pegs White Leghorns as one of the highest-producing laying breeds in existence, and the commercial egg industry didn't build itself almost entirely around one breed by accident. Walk into any grocery store in America, crack open a carton of white eggs, and there's a better-than-90% chance a Leghorn laid it.
+300 eggs per year. That's the number that sells more Leghorns than any marketing copy ever could, and honestly, it's not even an exaggeration for a well-managed flock. The American Poultry Association's breed standard pegs White Leghorns as one of the highest-producing laying breeds in existence, and the commercial egg industry didn't build itself almost entirely around one breed by accident. Walk into any grocery store in America, crack open a carton of white eggs, and there's a better-than-90% chance a Leghorn laid it.
 
 Leghorns are not beginner-friendly birds. They're loud, they're flighty, they'll clear a six-foot fence without much effort, and they have zero interest in being held. Many first-time keepers fall in love with the egg count, bring home Leghorn pullets, and find the temperament a challenge they weren't expecting. The production stats are real. The temperament is also real.
 
@@ -46,7 +46,7 @@ They also front-load their production. A Leghorn in her first laying year is ope
 
 ## Leghorn Varieties: It's Not Just White
 
-Most people say "Leghorn" and picture the white bird. And in commercial production, that's accurate. But the APA recognizes 16 color varieties of Leghorn, and a few of them are worth knowing about if you're [keeping backyard](/vp-vance-got-backyard-chickens-here-is-what-new-keepers-need-to-know/) birds.
+Most people say "Leghorn" and picture the white bird. And in commercial production, that's accurate. But the APA recognizes 16 color varieties of Leghorn, and a few of them are worth knowing about if you're keeping backyard birds.
 
 **White** is the production standard. If egg count is your primary goal, this is your bird.
 

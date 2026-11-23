@@ -1,5 +1,5 @@
 ---
-title: "Which Cities Allow Backyard Chickens: A Local Guide"
+title: "Chicken Ordinances by City: What Local Laws Say"
 date: 2026-06-02T12:52:23.082202+00:00
 draft: false
 description: "Find out if backyard chickens are allowed in your city. Explore local chicken ordinances, zoning laws, and flock size limits to stay compliant with your municip"

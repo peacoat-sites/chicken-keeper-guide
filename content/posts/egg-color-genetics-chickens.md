@@ -45,7 +45,7 @@ Blue egg color in chickens traces to a single dominant gene locus called *O* (so
 
 The genetics are simple: *O* is dominant, so a hen needs only one copy to lay blue or green eggs. Homozygous birds (*OO*) lay blue eggs. Heterozygous birds (*Oo*) also lay blue eggs. You can't visually distinguish homozygous from heterozygous on egg color alone, which matters if you're trying to establish a true-breeding blue flock. To test whether a bird is *OO* or *Oo*, you breed it to a known non-blue bird and watch the offspring egg colors. If any offspring lay white or brown, the parent was *Oo*. If all offspring lay blue or green, the parent is very likely *OO* (though small test clutches can miss *Oo* birds by chance).
 
-Green eggs are the product of the *O* gene sitting on top of a brown-laying background. Brown + blue overlay = olive or green, depending on how much brown pigment is deposited. This is exactly how Olive Eggers work: cross a Marans or Welsummer (heavy brown deposit) with a blue-layer, and the F1 offspring that carry *O* lay deep olive-green eggs. The F1 birds carrying *O* are heterozygous, so if you breed them to [each other](/why-are-my-chickens-pecking-each-other/), you'll get a split in offspring colors.
+Green eggs are the product of the *O* gene sitting on top of a brown-laying background. Brown + blue overlay = olive or green, depending on how much brown pigment is deposited. This is exactly how Olive Eggers work: cross a Marans or Welsummer (heavy brown deposit) with a blue-layer, and the F1 offspring that carry *O* lay deep olive-green eggs. The F1 birds carrying *O* are heterozygous, so if you breed them to each other, you'll get a split in offspring colors.
 
 ## Brown Egg Genetics: More Complicated Than You Think
 

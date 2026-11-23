@@ -1,5 +1,5 @@
 ---
-title: "Bumblefoot in Chickens: Recognize and Treat It Fast"
+title: "Swollen Chicken Feet: Bumblefoot Causes and Treatment"
 date: 2026-05-26T18:58:20.140233+00:00
 draft: false
 description: "Discover the causes, symptoms, and treatments of bumblefoot in chickens. Learn how to spot this common foot infection early and keep your flock healthy."

@@ -65,7 +65,7 @@ Fermented feed can help reduce feed costs. To ferment grain, soak it in water fo
 
 ## Does Organic Feed Actually Produce Better Eggs?
 
-The research here is genuinely mixed. Most studies comparing organic versus conventional egg nutrition show small or inconsistent differences when the hens are managed the same way otherwise. A 2010 Penn State study did find higher omega-3s and more vitamin D in [pasture-raised eggs](/what-to-feed-chickens/), but the variable there was pasture access and sunlight, not feed certification.
+The research here is genuinely mixed. Most studies comparing organic versus conventional egg nutrition show small or inconsistent differences when the hens are managed the same way otherwise. A 2010 Penn State study did find higher omega-3s and more vitamin D in pasture-raised eggs, but the variable there was pasture access and sunlight, not feed certification.
 
 The honest answer is that what your hens eat from the ground, how much sunlight they get, and how much space they have probably affects your egg quality more than whether the corn in their pellets was grown with synthetic nitrogen. A hen on cheap conventional feed with good pasture access will likely produce better eggs than a hen on premium organic feed locked in a run with no grass.
 

@@ -26,7 +26,7 @@ faqs:
     a: "Self-feather pulling (feather-eating, sometimes called pterophagia) is real but relatively uncommon. Boredom and protein deficiency are the main triggers. Try hanging a flock block or a head of cabbage for enrichment and bump their protein to 18-20%. If that doesn't improve things in three to four weeks, a vet consult is reasonable."
 ---
 
-Roughly 80% of feather-loss questions I see in [backyard chicken](/new-city-chicken-laws-are-passing-fast-is-your-town-next/) groups have nothing to do with disease. That number used to surprise me. Now it just makes me want to get this article in front of every panicked new keeper before they spend $40 on a vet visit for something that resolves on its own in six weeks.
+Roughly 80% of feather-loss questions I see in backyard chicken groups have nothing to do with disease. That number used to surprise me. Now it just makes me want to get this article in front of every panicked new keeper before they spend $40 on a vet visit for something that resolves on its own in six weeks.
 
 If you're reading this, you probably walked out to the coop this morning, saw a hen looking patchy and bedraggled, and thought something was seriously wrong. Maybe there are feathers scattered across the run like confetti. Maybe one bird is almost bare across the back and you can see pink skin. You might be wondering if she's sick, if something got into the coop, if you did something wrong. Here's what I tell people in that exact moment: slow down, because the cause is almost certainly one of four things, and only one of them requires a vet.
 

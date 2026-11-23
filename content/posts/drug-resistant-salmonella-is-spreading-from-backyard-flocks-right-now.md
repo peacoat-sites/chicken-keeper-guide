@@ -35,7 +35,7 @@ Medscape reported on this drug resistance back in April, and the picture has onl
 
 ## The Spring Chick Season Connection Is Impossible to Ignore
 
-Here's the part that should make every keeper who bought birds this year pay attention: 84% of the sick poultry owners got their birds since January 1, 2026. That's not a coincidence. That's a direct line from [spring chick season](/salmonella-from-backyard-flocks-is-spiking-this-summer/) to hospital rooms. Seven hatcheries have already been linked to outbreak strains, though the CDC hasn't released a public list of the specific hatcheries by name as of this writing.
+Here's the part that should make every keeper who bought birds this year pay attention: 84% of the sick poultry owners got their birds since January 1, 2026. That's not a coincidence. That's a direct line from spring chick season to hospital rooms. Seven hatcheries have already been linked to outbreak strains, though the CDC hasn't released a public list of the specific hatcheries by name as of this writing.
 
 This pattern shows up in smaller outbreaks too. Spring is when hatcheries are running at full capacity, chicks are moving fast, biosecurity gets stretched thin, and thousands of first-time keepers who have never handled poultry bring home a box of peeping fluff and immediately let their kids hold them over the kitchen sink. The scale this year, though, is different.
 

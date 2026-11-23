@@ -26,7 +26,7 @@ faqs:
     a: "Rarely. Some birds with mild Marek's presentations plateau and live months in a supported state, but most decline. The bigger concern is flock biosecurity: Marek's is shed in feather follicle dander and spreads through the air to unvaccinated birds. If you confirm Marek's, every bird in your flock is exposed."
 ---
 
-Most [chicken keepers](/egg-prices-crashed-but-the-chicken-boom-keeps-going/) panic when they see a hen limping. I did too, the first time. Then I made the classic beginner mistake: I assumed it was bumblefoot, wrapped the foot in vet wrap, and basically did nothing for a week. Turned out the bird had Marek's disease, and I lost her. I don't want that to happen to you.
+Most chicken keepers panic when they see a hen limping. I did too, the first time. Then I made the classic beginner mistake: I assumed it was bumblefoot, wrapped the foot in vet wrap, and basically did nothing for a week. Turned out the bird had Marek's disease, and I lost her. I don't want that to happen to you.
 
 Limping in chickens has a surprisingly wide range of causes, and the difference between a bird that recovers in four days and one that dies in four weeks often comes down to figuring out which one you're dealing with quickly. So let me walk you through what I've learned from a decade of this, from the obvious stuff to the things that blindsided me.
 
@@ -62,7 +62,7 @@ I'll be honest, the internet makes this scarier than it needs to be for mild cas
 
 Grade 3 and above, where there's a hard kernel of infected tissue and significant swelling, typically requires surgical debridement. Some experienced keepers do this themselves. I've done it twice. It's not pleasant, and the second time I genuinely couldn't get the entire plug out and ended up at a vet anyway, which cost me $87 for the visit and antibiotic scrip at a rural farm vet in northern Ohio. Urban avian vets charge considerably more, I've heard reports of $200+ for the same procedure in Chicago or Seattle.
 
-Scenario: My Barred Rock hen "Bucket" developed Grade 2 bumblefoot after the run got wet and muddy over a three-week rainy stretch in spring. Action: Ten days of daily Epsom salt soaks, Vetericyn application, fresh [pine shavings](/pine-shavings-vs-straw-for-chickens/) replacing muddy ground. Result: Full resolution with no surgical intervention, back to normal gait by day 12.
+Scenario: My Barred Rock hen "Bucket" developed Grade 2 bumblefoot after the run got wet and muddy over a three-week rainy stretch in spring. Action: Ten days of daily Epsom salt soaks, Vetericyn application, fresh pine shavings replacing muddy ground. Result: Full resolution with no surgical intervention, back to normal gait by day 12.
 
 ## When the Leg Looks Normal But She Won't Walk Right
 

@@ -1,5 +1,5 @@
 ---
-title: "Essential Vaccinations For Backyard Chicken Health"
+title: "Chicken Vaccinations Every Backyard Keeper Should Know"
 date: 2026-06-27T08:06:14.593102+00:00
 draft: false
 description: "Learn which vaccinations baby chicks need, when to give them, and how to protect your flock from common poultry diseases for a healthy, thriving backyard flock."

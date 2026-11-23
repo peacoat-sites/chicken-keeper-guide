@@ -83,7 +83,7 @@ One thing the fence guides don't mention: a chicken that desperately wants to le
 
 The standard recommendation is 10 square feet per bird in the run. I'd argue 15-20 is where behavior problems start to disappear. If you've got eight birds in a 60-square-foot run, no fence height will fully solve the problem; you'll be treating symptoms. Give them more space, hang a cabbage for enrichment, add a dust bath if there isn't one. Some birds that seemed like chronic escape artists settled down completely once the run expanded.
 
-A flock I managed briefly in 2023 had three Black Sexlinks clearing a five-foot fence almost daily. We expanded their run from about 8 square feet per bird to 18 square feet per bird and added [deep litter](/deep-litter-method-chickens/) composting for scratch activity. The fence-jumping stopped within two weeks. Same birds. Same fence height.
+A flock I managed briefly in 2023 had three Black Sexlinks clearing a five-foot fence almost daily. We expanded their run from about 8 square feet per bird to 18 square feet per bird and added deep litter composting for scratch activity. The fence-jumping stopped within two weeks. Same birds. Same fence height.
 
 ## Sources
 

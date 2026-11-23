@@ -1,5 +1,5 @@
 ---
-title: "Your Chicken's Laying Schedule: What To Expect"
+title: "How Often Do Chickens Lay Eggs and What Affects It"
 date: 2026-05-29T02:10:51.796641+00:00
 draft: false
 description: "Discover how often chickens lay eggs, factors affecting laying frequency, and tips to maximize egg production from your backyard flock."

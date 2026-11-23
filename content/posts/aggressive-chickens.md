@@ -56,7 +56,7 @@ The most common causes I see break down roughly like this:
 
 ## Rooster Aggression Specifically: What Works and What Doesn't
 
-[Rooster aggression toward humans](/roosters-in-backyard-flock/) is its own category, and a lot of the advice floating around online is, to put it plainly, not great.
+Rooster aggression toward humans is its own category, and a lot of the advice floating around online is, to put it plainly, not great.
 
 You'll read "never show fear" and "stare him down" and "carry him around to establish dominance." Some of that's not entirely wrong, but it oversimplifies how roosters actually work. What a rooster's reading from you isn't confidence or weakness in the abstract. He's reading whether you behave like a flock member who respects the hierarchy, or a predator, or a competing rooster.
 

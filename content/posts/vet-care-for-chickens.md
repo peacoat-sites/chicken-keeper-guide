@@ -77,7 +77,7 @@ Egg binding doesn't always present obviously. A hen may simply stand around look
 
 Most backyard flock owners skip preventive care entirely. That's backwards.
 
-Annual fecal floats run $25 to $50 at most vets and tell you exactly what [internal parasites](/worms-in-chickens/) you're dealing with (or not). Worming blindly with a broad-spectrum product twice a year may treat for the wrong organisms. Valbazen (albendazole) handles most worm burdens well, but a tapeworm problem requires praziquantel, and you won't know what you're treating without a test.
+Annual fecal floats run $25 to $50 at most vets and tell you exactly what internal parasites you're dealing with (or not). Worming blindly with a broad-spectrum product twice a year may treat for the wrong organisms. Valbazen (albendazole) handles most worm burdens well, but a tapeworm problem requires praziquantel, and you won't know what you're treating without a test.
 
 Respiratory disease testing is worth doing once if you've never done it, especially if you've added birds from multiple sources. A Mycoplasma gallisepticum/synoviae (MG/MS) panel through a state diagnostic lab typically costs $30 to $80 per bird, or you can submit a serum pool from several birds. Knowing your flock's disease status before you breed or sell birds is the kind of thing that protects your reputation with other keepers.
 

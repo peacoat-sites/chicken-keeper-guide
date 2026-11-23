@@ -1,5 +1,5 @@
 ---
-title: "Which Chicken Feed Should You Choose? A Backyard Guide"
+title: "Chicken Feed Types Explained: A Backyard Keeper's Guide"
 date: 2026-05-27T02:40:51.957892+00:00
 draft: false
 description: "Discover the different types of chicken feed including starter, grower, and layer feeds. Learn which feed is best for your flock at each stage of life."

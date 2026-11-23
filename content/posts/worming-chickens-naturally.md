@@ -31,7 +31,7 @@ Here's the full version.
 
 ## Why Worms Are a Real Problem (and Why They're Often Invisible)
 
-Chickens pick up intestinal parasites constantly. Every scratch in the dirt, every earthworm gulped down, every drink from a puddle is a potential exposure. The most common culprits in backyard flocks are roundworms (*Ascaridia galli*), cecal worms (*Heterakis gallinarum*), capillary worms, and tapeworms. Cecal worms matter especially because they carry *Histomonas meleagridis*, the protozoan that causes [blackhead disease in turkeys](/worms-in-chickens/). If you keep mixed species, that's a serious issue.
+Chickens pick up intestinal parasites constantly. Every scratch in the dirt, every earthworm gulped down, every drink from a puddle is a potential exposure. The most common culprits in backyard flocks are roundworms (*Ascaridia galli*), cecal worms (*Heterakis gallinarum*), capillary worms, and tapeworms. Cecal worms matter especially because they carry *Histomonas meleagridis*, the protozoan that causes blackhead disease in turkeys. If you keep mixed species, that's a serious issue.
 
 The tricky part: a moderate worm burden looks like a dozen other things. Soft shells. Reduced laying. Dull feathers. Birds that just seem a bit off. By the time you're seeing actual worms in droppings or a bird is visibly wasting away, you're well behind the curve. A bird with a heavy worm load may show no obvious signs until production drops significantly. A fecal float is the only reliable way to confirm the problem.
 
@@ -39,7 +39,7 @@ A fecal float test costs between $25 and $50 at most avian vets or large-animal 
 
 ## What "Natural" Actually Does (and Doesn't Do)
 
-Let's be honest about the ceiling here. Natural dewormers work best as ongoing prevention and for birds with low-to-moderate worm loads. If a bird is already symptomatic, pale-combed, losing weight, or you've got a confirmed heavy infestation on a fecal test, you probably need a conventional anthelmintic like [fenbendazole (Safeguard Goat Wormer](/ivermectin-for-chickens-dosage/) is the most common off-label option for chickens, dosed at 1 mg/lb for five consecutive days). Natural methods aren't a replacement for that. Anyone who tells you otherwise is selling something.
+Let's be honest about the ceiling here. Natural dewormers work best as ongoing prevention and for birds with low-to-moderate worm loads. If a bird is already symptomatic, pale-combed, losing weight, or you've got a confirmed heavy infestation on a fecal test, you probably need a conventional anthelmintic like fenbendazole (Safeguard Goat Wormer is the most common off-label option for chickens, dosed at 1 mg/lb for five consecutive days). Natural methods aren't a replacement for that. Anyone who tells you otherwise is selling something.
 
 What they are good for: keeping the baseline worm load low so it never reaches the tipping point. Think of it as maintenance, not medication.
 

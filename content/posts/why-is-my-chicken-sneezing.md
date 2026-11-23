@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the most common reasons chickens sneeze, from dust and ammonia to respiratory infections, and learn when to call a vet."
 image: "/img/heroes/20106425.jpg"
-categories: ["Chicken Health"]
+categories: ["health"]
 tags: ["chicken", "sneezing"]
 author: "Mike Carter"
 author_slug: "mike-carter"

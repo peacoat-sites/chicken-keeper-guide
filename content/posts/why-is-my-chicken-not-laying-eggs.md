@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Find out exactly why your chicken stopped laying eggs and what you can do to get her back on track fast with these proven solutions."
 image: "/img/heroes/31056807.jpg"
-categories: ["Chicken Health"]
+categories: ["health"]
 tags: ["chicken", "laying", "eggs"]
 author: "Janet Wilson"
 author_slug: "janet-wilson"

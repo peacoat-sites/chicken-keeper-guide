@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover what causes chicken limping, from injuries and infections to nutritional deficiencies, and learn when to call a vet."
 image: "/img/heroes/18364306.jpg"
-categories: ["Chicken Health"]
+categories: ["health"]
 tags: ["chicken", "limping"]
 author: "Tom Henderson"
 author_slug: "tom-henderson"

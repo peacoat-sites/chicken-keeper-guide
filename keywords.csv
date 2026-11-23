@@ -139,11 +139,11 @@ can chickens eat banana peels,Can Chickens Eat,medium
 can chickens eat rice,Can Chickens Eat,medium
 can chickens eat potato peels,Can Chickens Eat,medium
 can chickens eat watermelon,Can Chickens Eat,medium
-why is my chicken not laying eggs,Chicken Health,high
-why is my chicken sneezing,Chicken Health,high
-why is my chicken limping,Chicken Health,medium
-chicken lethargic and fluffed up,Chicken Health,medium
-why is my chicken losing feathers,Chicken Health,medium
+why is my chicken not laying eggs,health,high
+why is my chicken sneezing,health,high
+why is my chicken limping,health,medium
+chicken lethargic and fluffed up,health,medium
+why is my chicken losing feathers,health,medium
 why do chickens eat their own eggs,Chicken Behavior,high
 why are my chickens pecking each other,Chicken Behavior,medium
 why is my rooster attacking me,Chicken Behavior,medium

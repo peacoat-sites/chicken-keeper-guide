@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why chickens lose feathers and how to identify molting, parasites, stress, and other causes affecting your flock's health."
 image: "/img/heroes/29456413.jpg"
-categories: ["Chicken Health"]
+categories: ["health"]
 tags: ["chicken", "losing", "feathers"]
 author: "Sarah Mills"
 author_slug: "sarah-mills"

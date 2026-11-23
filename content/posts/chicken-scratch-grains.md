@@ -40,7 +40,7 @@ That framing changed how I use scratch entirely, and I think it'll change how yo
 
 What's inside the bag varies a lot by brand and price point. Cheap scratch is often just cracked corn and maybe some milo (grain sorghum). Mid-range products like Purina Scratch Grains or Kalmbach Feeds Scratch typically add wheat, milo, and oats to the corn base. Premium blends from producers like Scratch and Peck Feeds layer in sunflower seeds, peas, and sometimes barley. Bags labeled "scratch" can range from 90% cracked corn to blends with eight or nine different grains. The label tells you what's inside, but many keepers don't bother reading it.
 
-What surprised me was how dramatically the protein content swings between products. When I finally started comparing nutrition tags side by side, some of the bargain scratch bags listed protein at 7%, while layer pellets from the same shelf ran 16-18%. That's not a small difference. If a hen is filling up on scratch, she's leaving less room in her gut for the feed that actually supports [egg production](/egg-production-by-breed-2026/) and feather quality.
+What surprised me was how dramatically the protein content swings between products. When I finally started comparing nutrition tags side by side, some of the bargain scratch bags listed protein at 7%, while layer pellets from the same shelf ran 16-18%. That's not a small difference. If a hen is filling up on scratch, she's leaving less room in her gut for the feed that actually supports [egg production](/best-egg-laying-chickens/) and feather quality.
 
 ## The Heat Metabolism Factor
 

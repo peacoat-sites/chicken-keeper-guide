@@ -2,7 +2,7 @@
 title: "What Can Chickens Eat? The Complete Safe & Unsafe Foods Guide"
 date: "2026-06-10"
 slug: "what-can-chickens-eat"
-author: "Ellen Barker"
+author: "Carol Thompson"
 categories: ["Chicken Feed"]
 description: "A searchable, filterable guide to 50+ foods chickens can eat, foods to avoid, and toxic foods that can kill your flock. Updated with vet-reviewed safety notes."
 faqs:

@@ -25,7 +25,7 @@ faqs:
     a: "Your state's Department of Agriculture website often lists licensed poultry processors. Local feed stores, county fair livestock contacts, and regional poultry Facebook groups are also reliable leads. Some areas have mobile processing units that work small flocks, search for 'mobile poultry processing' plus your state."
 ---
 
-Most [backyard flock](/h5n1-can-kill-your-cat-what-backyard-flock-owners-must-know/) keepers hit the same wall around year three: the hens are healthy, the coop is clean, and the egg production has quietly fallen off a cliff. What do you actually do with a retired laying hen? You have three real options: keep her as a pet, rehome her, or process her for meat. None of them is universally right, and anyone who tells you otherwise is selling something.
+Most [backyard flock](/h5n1-in-your-coop-can-infect-your-cat-and-rats-too/) keepers hit the same wall around year three: the hens are healthy, the coop is clean, and the egg production has quietly fallen off a cliff. What do you actually do with a retired laying hen? You have three real options: keep her as a pet, rehome her, or process her for meat. None of them is universally right, and anyone who tells you otherwise is selling something.
 
 The honest calculus depends on your setup, your emotional relationship with the bird, and whether you can stomach the feed cost of a hen laying two or three eggs a week instead of five or six. A heavy dual-purpose breed like a Barred [Plymouth Rock](/plymouth-rock-chickens/) or a Buff Orpington will slow down but not stop completely. A production-focused Leghorn, though, often goes from machine to near-zero in a matter of months.
 
@@ -35,7 +35,7 @@ The honest calculus depends on your setup, your emotional relationship with the 
 
 ## The Feed Math You Should Actually Do
 
-Before you decide anything, run the numbers. A hen eating a quarter pound of feed per day at current layer pellet prices (roughly $20 to $30 per 50-lb bag in most U.S. markets) costs somewhere between $55 and $85 [per year](/egg-production-per-year-by-breed/) just in feed, before bedding, healthcare, or coop overhead.
+Before you decide anything, run the numbers. A hen eating a quarter pound of feed per day at current layer pellet prices (roughly $20 to $30 per 50-lb bag in most U.S. markets) costs somewhere between $55 and $85 [per year](/best-egg-laying-chickens/) just in feed, before bedding, healthcare, or coop overhead.
 
 **Example:** Assume a 50-lb bag costs $25 and lasts one hen about 200 days (at 0.25 lb/day). That's about $45.63 per year in feed alone per bird. Add $10 to $15 in bedding and you're at roughly $55 to $60 per hen annually. A retired hen laying 50 eggs per year at a generous retail value of $0.50 per egg returns $25 in production value. Net cost: $30 to $35 per bird per year, minimum, with no labor factored in.
 

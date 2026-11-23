@@ -26,7 +26,7 @@ faqs:
     a: "I wouldn't say completely, but I'd cut it back sharply, especially during heat waves. A small scatter in the cool of early morning is probably fine for most climates. Where I'd draw the hard line is double feedings during days over 90°F, particularly for heavy or feathered-leg breeds that struggle with heat regulation anyway. Light breeds like Leghorns handle heat better and I'd be less worried about a modest scratch ration for them even in summer."
 ---
 
-Most [chicken keepers](/egg-prices-crashed-but-chicken-keepers-are-staying-put/) buy their first bag of scratch without really knowing what it is. Many assume "scratch" is just another word for chicken food, only to realize later they've been undermining their flock's nutrition.
+Most [chicken keepers](/egg-prices-crashed-but-the-chicken-boom-keeps-going/) buy their first bag of scratch without really knowing what it is. Many assume "scratch" is just another word for chicken food, only to realize later they've been undermining their flock's nutrition.
 
 Scratch grains are a treat, not a feed replacement, nutritional supplement, or substitute for layer pellets. They're the chicken equivalent of popcorn: a little is fine, but a lot is a problem.
 

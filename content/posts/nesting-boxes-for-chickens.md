@@ -99,7 +99,7 @@ Whether you're starting fresh or moving existing boxes, here's the sequence:
 
 8. **Watch and adjust.** Give it a week. If hens are still laying on the floor, watch where they prefer and adjust box location or height.
 
-For coop designs from the ground up, browse [chicken coop plans free](/chicken-coop-plans-free/) for layouts that build proper box placement in from the start.
+For coop designs from the ground up, browse [chicken coop plans free](/how-to-build-a-chicken-coop/) for layouts that build proper box placement in from the start.
 
 ## Troubleshooting: When Hens Won't Use Their Boxes
 

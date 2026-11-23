@@ -26,7 +26,7 @@ faqs:
     a: "Self-feather pulling (feather-eating, sometimes called pterophagia) is real but relatively uncommon. Boredom and protein deficiency are the main triggers. Try hanging a flock block or a head of cabbage for enrichment and bump their protein to 18-20%. If that doesn't improve things in three to four weeks, a vet consult is reasonable."
 ---
 
-Roughly 80% of feather-loss questions I see in [backyard chicken](/why-cities-are-loosening-backyard-chicken-rules-in-2026/) groups have nothing to do with disease. That number used to surprise me. Now it just makes me want to get this article in front of every panicked new keeper before they spend $40 on a vet visit for something that resolves on its own in six weeks.
+Roughly 80% of feather-loss questions I see in [backyard chicken](/new-city-chicken-laws-are-passing-fast-is-your-town-next/) groups have nothing to do with disease. That number used to surprise me. Now it just makes me want to get this article in front of every panicked new keeper before they spend $40 on a vet visit for something that resolves on its own in six weeks.
 
 If you're reading this, you probably walked out to the coop this morning, saw a hen looking patchy and bedraggled, and thought something was seriously wrong. Maybe there are feathers scattered across the run like confetti. Maybe one bird is almost bare across the back and you can see pink skin. You might be wondering if she's sick, if something got into the coop, if you did something wrong. Here's what I tell people in that exact moment: slow down, because the cause is almost certainly one of four things, and only one of them requires a vet.
 
@@ -40,7 +40,7 @@ The classic molt pattern starts at the head and neck, moves down the back, and f
 
 Here's the thing that often gets missed: molt timing and duration depend heavily on protein. Feathers are roughly 85% protein (specifically keratin), and if your birds are on a standard layer pellet with 16% protein, they may struggle through the process. The Merck Veterinary Manual notes that dietary protein requirements jump to 20-22% during molt. At the first sign of feather drop, switch to a higher-protein feed like Purina Flock Raiser (18% protein), and add a scrambled egg or a small handful of black oil sunflower seeds (about 16% crude fat, which helps new feathers come in with better sheen) a few times a week. This approach speeds up molt completion.
 
-One detail that catches people off guard: molting hens [stop laying](/why-did-my-chicken-stop-laying/), or nearly stop. That's not a problem. That's the whole point. The body is diverting resources to feather regrowth.
+One detail that catches people off guard: molting hens [stop laying](/why-is-my-chicken-not-laying-eggs/), or nearly stop. That's not a problem. That's the whole point. The body is diverting resources to feather regrowth.
 
 ## Feather Pecking from Flock Mates
 

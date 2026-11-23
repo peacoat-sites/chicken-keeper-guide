@@ -38,7 +38,7 @@ The farm cat in the Illinois case tested positive in all 12 tissue samples colle
 
 This creates a chain worth thinking through. Wild bird infects flock. Flock infects cat through direct contact or consumption of infected bird material. Cat comes inside. If you're not washing your hands after handling a cat that's been outside during an active outbreak period, you're introducing a new link in that chain. The CDC hasn't documented human infection through cats in the U.S. from this specific pathway, but cats have infected people with H5N1 in documented overseas cases, and the Illinois virus carried mammalian-adaptation markers.
 
-For the November migration window, consider keeping barn cats out of the coop entirely, not just discouraged from it. A determined cat can get into most backyard coops. Latching pop doors and sealing gaps isn't just [about keeping](/what-the-vance-coop-tells-us-about-keeping-backyard-chickens/) predators out. It's now also about keeping your own animals from becoming a secondary exposure route.
+For the November migration window, consider keeping barn cats out of the coop entirely, not just discouraged from it. A determined cat can get into most backyard coops. Latching pop doors and sealing gaps isn't just [about keeping](/vp-vance-got-backyard-chickens-here-is-what-new-keepers-need-to-know/) predators out. It's now also about keeping your own animals from becoming a secondary exposure route.
 
 ## Where the Current Outbreak Stands Heading Into Winter
 

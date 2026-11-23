@@ -26,7 +26,7 @@ faqs:
     a: "Rarely. Some birds with mild Marek's presentations plateau and live months in a supported state, but most decline. The bigger concern is flock biosecurity: Marek's is shed in feather follicle dander and spreads through the air to unvaccinated birds. If you confirm Marek's, every bird in your flock is exposed."
 ---
 
-Most [chicken keepers](/egg-prices-crashed-but-chicken-keepers-are-staying-put/) panic when they see a hen limping. I did too, the first time. Then I made the classic beginner mistake: I assumed it was bumblefoot, wrapped the foot in vet wrap, and basically did nothing for a week. Turned out the bird had Marek's disease, and I lost her. I don't want that to happen to you.
+Most [chicken keepers](/egg-prices-crashed-but-the-chicken-boom-keeps-going/) panic when they see a hen limping. I did too, the first time. Then I made the classic beginner mistake: I assumed it was bumblefoot, wrapped the foot in vet wrap, and basically did nothing for a week. Turned out the bird had Marek's disease, and I lost her. I don't want that to happen to you.
 
 Limping in chickens has a surprisingly wide range of causes, and the difference between a bird that recovers in four days and one that dies in four weeks often comes down to figuring out which one you're dealing with quickly. So let me walk you through what I've learned from a decade of this, from the obvious stuff to the things that blindsided me.
 

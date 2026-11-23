@@ -72,7 +72,7 @@ For a covered outdoor run, the simplest setup is a low-sided wooden box or a pla
 For free-range birds or birds with a large run, a covered spot with the substrate directly on the ground is ideal. I built a simple lean-to shelter about 4x6 feet using scrap wood and a piece of polycarbonate roofing, positioned it over a naturally sandy area, and deepened the soil beneath it. The flock uses it heavily every single day it isn't raining.
 
 **Real scenario walkthrough:**
-Small [backyard flock](/h5n1-can-kill-your-cat-what-backyard-flock-owners-must-know/) of 6 hens in a 10x12 covered run, no access to natural soil. Owner noticed feather quality declining and one bird showing early signs of scaly leg mite. Installed a 4x2 foot wooden bath box filled with the two-thirds soil / one-third ash mix plus DE. Within three weeks: daily bath use by all six birds, feather condition visibly improved, mite signs on the affected bird resolved without additional treatment. Total cost: around $35 in lumber, free soil from the property, free ash.
+Small [backyard flock](/h5n1-in-your-coop-can-infect-your-cat-and-rats-too/) of 6 hens in a 10x12 covered run, no access to natural soil. Owner noticed feather quality declining and one bird showing early signs of scaly leg mite. Installed a 4x2 foot wooden bath box filled with the two-thirds soil / one-third ash mix plus DE. Within three weeks: daily bath use by all six birds, feather condition visibly improved, mite signs on the affected bird resolved without additional treatment. Total cost: around $35 in lumber, free soil from the property, free ash.
 
 ## Indoor Bathing for Confined Flocks
 

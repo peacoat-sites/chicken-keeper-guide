@@ -60,7 +60,7 @@ Now check three things in order:
 
 ## A Symptom-to-Cause Reference
 
-The table below reflects what I've seen over a decade and aligns with guidance from the University of California Cooperative Extension's poultry health resources. I don't have exact prevalence percentages for [backyard flocks](/drug-resistant-salmonella-is-surging-in-backyard-flocks-right-now/) specifically, that data is frustratingly hard to find, but these associations are solid.
+The table below reflects what I've seen over a decade and aligns with guidance from the University of California Cooperative Extension's poultry health resources. I don't have exact prevalence percentages for [backyard flocks](/drug-resistant-salmonella-is-spreading-from-backyard-flocks-right-now/) specifically, that data is frustratingly hard to find, but these associations are solid.
 
 | Symptom Pattern | Most Likely Cause | First Action | Vet Needed? |
 |---|---|---|---|

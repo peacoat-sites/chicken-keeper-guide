@@ -26,7 +26,7 @@ faqs:
     a: "The bucket itself needs a scrub every 2-3 weeks under normal conditions (monthly in cool weather, every 10-14 days in summer heat when algae grows faster). The nipples themselves rarely need cleaning beyond checking that the pin moves freely. A quick swipe with a bottle brush and a diluted white vinegar rinse handles most situations without needing to disassemble anything."
 ---
 
-Most [chicken keepers](/egg-prices-crashed-but-chicken-keepers-are-staying-put/) switch to nipple drinkers and immediately wonder why they waited so long. Then they watch a new pullet stare blankly at the thing for four days and start to second-guess themselves. Both reactions are completely normal.
+Most [chicken keepers](/egg-prices-crashed-but-the-chicken-boom-keeps-going/) switch to nipple drinkers and immediately wonder why they waited so long. Then they watch a new pullet stare blankly at the thing for four days and start to second-guess themselves. Both reactions are completely normal.
 
 I've run nipple drinkers in my coops for going on seven years now. Before that, I used the standard gravity bell waterers, the kind where you flip a gallon jug upside down into a plastic base and pretend the algae isn't there. Nipple drinkers fixed almost every problem I had with those, and introduced exactly two new ones (training stubborn birds and winterizing). That tradeoff is worth it every single time.
 

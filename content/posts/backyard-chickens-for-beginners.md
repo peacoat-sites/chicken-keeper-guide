@@ -31,7 +31,7 @@ Your neighbor shows up at your fence one Saturday morning holding a cardboard bo
 
 Skip the romanticized version. Let's talk logistics first.
 
-Before a single bird enters your yard, you need a brooder setup for chicks, or a finished coop and run if you're starting with adult birds. Most beginners start with day-old or week-old chicks from a hatchery, a local feed store, or a breeder. [Chicks can't regulate body temperature](/how-to-raise-chickens/) on their own for the first several weeks, so they need a heat source, bedding, food, and water from day one.
+Before a single bird enters your yard, you need a brooder setup for chicks, or a finished coop and run if you're starting with adult birds. Most beginners start with day-old or week-old chicks from a hatchery, a local feed store, or a breeder. Chicks can't regulate body temperature on their own for the first several weeks, so they need a heat source, bedding, food, and water from day one.
 
 A basic brooder can be a large plastic storage bin, a galvanized stock tank, or even a cardboard box in a pinch. Line the bottom with 2 to 3 inches of pine shavings (avoid cedar, those aromatic oils mess with their respiratory systems). You'll need a heat lamp, or better yet, a radiant heat plate like the [Brinsea EcoGlow](https://www.amazon.com/s?k=brinsea+ecoglow+brooder&tag=contentportfo-20) (this site may earn a commission on purchases). Heat plates are safer than lamps and more closely mimic a mama hen. For the first week, aim for about 95 degrees Fahrenheit directly under the heat source, dropping 5 degrees each week until the chicks are fully feathered out around 6 to 8 weeks.
 

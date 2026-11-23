@@ -16,7 +16,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 If you picked up ducklings or chicks from a farm store this spring and you've got kids under five in the house, stop and read this before you do anything else.
 
-The CDC is currently tracking one of the more complicated backyard poultry Salmonella situations in recent memory. As of late June 2026, [513 people across 42 states](/513-sick-and-counting-the-backyard-poultry-salmonella-summer-surge/) have gotten sick from five simultaneous Salmonella strains, all linked to backyard poultry purchased in spring 2026. Five strains at once: Enteritidis, Indiana, Infantis, Mbandaka, and Saintpaul. That's not a single contaminated batch from one bad hatchery. That's a supply chain problem, and it's ongoing.
+The CDC is currently tracking one of the more complicated backyard poultry Salmonella situations in recent memory. As of late June 2026, [513 people across 42 states](/salmonella-from-backyard-flocks-is-spiking-this-summer/) have gotten sick from five simultaneous Salmonella strains, all linked to backyard poultry purchased in spring 2026. Five strains at once: Enteritidis, Indiana, Infantis, Mbandaka, and Saintpaul. That's not a single contaminated batch from one bad hatchery. That's a supply chain problem, and it's ongoing.
 
 The part that caught my attention, and should catch yours, is the duck angle.
 
@@ -52,7 +52,7 @@ What that means practically: if someone in your household gets seriously ill fro
 
 ## The Kids Under Five Rule Is Not Optional This Year
 
-More than 25% of the 513 cases are children under age 5. That's over 128 young children sick from a hobby that's supposed to be wholesome and educational. [CDC's guidance is unambiguous](/eight-salmonella-outbreaks-are-active-now-what-flock-owners-must-do/): children under 5 should not handle chicks, ducklings, or any backyard poultry.
+More than 25% of the 513 cases are children under age 5. That's over 128 young children sick from a hobby that's supposed to be wholesome and educational. [CDC's guidance is unambiguous](/cdc-tracks-8-salmonella-outbreaks-tied-to-backyard-poultry/): children under 5 should not handle chicks, ducklings, or any backyard poultry.
 
 I know that's a hard sell in practice. The entire appeal of getting ducklings in April is watching your kids fall in love with them. But little kids do what little kids do. They cuddle the birds, they get pecked and touch their faces, they sit on the ground near the brooder and then eat a snack without washing their hands. You cannot supervise every second, and you shouldn't have to with young children. The safest answer with kids that age is no direct contact, full stop, for this season especially.
 

@@ -50,7 +50,7 @@ The most common causes I see break down roughly like this:
 
 **Boredom and low stimulation.** A flock stuck in a bare run with nothing to do will invent drama. Chickens are smarter than most people think, and they need things to peck at, scratch through, and investigate.
 
-**[Introducing new birds](/integrating-new-chickens/).** Even one new hen can temporarily destabilize a previously calm flock. The hierarchy has to reset, and that involves some chasing and feather-pulling that's genuinely alarming to watch but usually not dangerous if you've set things up right.
+**[Introducing new birds](/introducing-chicks-to-flock/).** Even one new hen can temporarily destabilize a previously calm flock. The hierarchy has to reset, and that involves some chasing and feather-pulling that's genuinely alarming to watch but usually not dangerous if you've set things up right.
 
 **Pain or illness.** A normally docile bird that suddenly becomes snappy is sometimes a bird that's hurting somewhere. I learned this the hard way when one of my Australorps turned aggressive for two weeks before I figured out she was egg-bound.
 

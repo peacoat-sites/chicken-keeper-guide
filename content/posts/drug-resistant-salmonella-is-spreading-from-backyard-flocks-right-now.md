@@ -35,7 +35,7 @@ Medscape reported on this drug resistance back in April, and the picture has onl
 
 ## The Spring Chick Season Connection Is Impossible to Ignore
 
-Here's the part that should make every keeper who bought birds this year pay attention: 84% of the sick poultry owners got their birds since January 1, 2026. That's not a coincidence. That's a direct line from [spring chick season](/513-sick-and-counting-the-backyard-poultry-salmonella-summer-surge/) to hospital rooms. Seven hatcheries have already been linked to outbreak strains, though the CDC hasn't released a public list of the specific hatcheries by name as of this writing.
+Here's the part that should make every keeper who bought birds this year pay attention: 84% of the sick poultry owners got their birds since January 1, 2026. That's not a coincidence. That's a direct line from [spring chick season](/salmonella-from-backyard-flocks-is-spiking-this-summer/) to hospital rooms. Seven hatcheries have already been linked to outbreak strains, though the CDC hasn't released a public list of the specific hatcheries by name as of this writing.
 
 This pattern shows up in smaller outbreaks too. Spring is when hatcheries are running at full capacity, chicks are moving fast, biosecurity gets stretched thin, and thousands of first-time keepers who have never handled poultry bring home a box of peeping fluff and immediately let their kids hold them over the kitchen sink. The scale this year, though, is different.
 
@@ -45,7 +45,7 @@ If you purchased chicks or ducklings from a feed store, swap meet, or directly f
 
 More than 25% of the people sickened are children under 5 years old. The CDC has updated its guidance to say children under 5 should not handle chicks, ducklings, or backyard poultry at all. Not "wash hands carefully afterward." Not "supervise closely." The recommendation is no contact.
 
-I know that's a hard sell if you started keeping chickens partly so your kids could experience something real and tangible. I get it. But a 2-year-old can't reliably keep her hands out of her mouth, and [drug-resistant Salmonella in a toddler](/drug-resistant-salmonella-is-surging-in-backyard-flocks-right-now/) is a genuinely terrifying medical situation. This is one of those years where the risk-benefit calculation has shifted.
+I know that's a hard sell if you started keeping chickens partly so your kids could experience something real and tangible. I get it. But a 2-year-old can't reliably keep her hands out of her mouth, and drug-resistant Salmonella in a toddler is a genuinely terrifying medical situation. This is one of those years where the risk-benefit calculation has shifted.
 
 Medical Daily covered how pediatricians are now seeing families in urgent care who had no idea their backyard flock was the source of illness, partly because the incubation period, usually 6 hours to 6 days, makes it easy to connect the sickness to something else entirely, like a restaurant meal or a playground.
 

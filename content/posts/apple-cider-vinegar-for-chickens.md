@@ -46,7 +46,7 @@ It also won't clear up [respiratory illness](/respiratory-illness-chickens/). No
 
 ## Dosage, Frequency, and the Metal Waterer Problem
 
-The dosage consensus, supported by most of the broiler research, lands at 0.5% to 1% concentration. In practical terms for backyard keepers, that's 1 tablespoon per gallon of water. Some sources push up to 2 tablespoons. I'd stay at 1. Higher concentrations don't appear to add benefit and may reduce water palatability enough that hens drink less, which is a real problem in [summer heat](/how-to-keep-chickens-cool-in-summer-heat/).
+The dosage consensus, supported by most of the broiler research, lands at 0.5% to 1% concentration. In practical terms for backyard keepers, that's 1 tablespoon per gallon of water. Some sources push up to 2 tablespoons. I'd stay at 1. Higher concentrations don't appear to add benefit and may reduce water palatability enough that hens drink less, which is a real problem in [summer heat](/how-to-keep-chickens-cool-during-a-heat-wave/).
 
 Here's the galvanized issue, and it's not minor. Acetic acid reacts with zinc in galvanized steel to produce zinc acetate. Zinc toxicity in poultry causes lethargy, anorexia, and eventually organ failure. If you're running a basic round galvanized waterer (the kind that costs $12 at Tractor Supply), do not put ACV in it. Full stop. Switch to a plastic poultry waterer (Harris Farms makes a decent 3-gallon plastic model for around $18) or a rubber tub.
 

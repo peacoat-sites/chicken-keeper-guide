@@ -47,7 +47,7 @@ This is why simply removing the eggs doesn't fix the problem. The eggs aren't ca
 
 Some breeds go broody far more readily than others. Silkies are practically professional brooders. Buff Orpingtons, Cochins, Brahmas, and Sussex hens have strong broody tendencies. Production breeds like Leghorns and most commercial hybrids have had the broodiness largely selected out of them. If you've got a heritage breed or a mixed flock with any of those genetics in the mix, expect to deal with this at least once.
 
-The practical consequences are real. She can lose significant body weight in days because broody hens eat and drink very little. She's also more vulnerable to mites and lice since she's not dust bathing or moving around normally. And every day she sits, [she's not laying](/why-did-my-chicken-stop-laying/), which for backyard keepers usually means she's costing you eggs with no return.
+The practical consequences are real. She can lose significant body weight in days because broody hens eat and drink very little. She's also more vulnerable to mites and lice since she's not dust bathing or moving around normally. And every day she sits, [she's not laying](/why-is-my-chicken-not-laying-eggs/), which for backyard keepers usually means she's costing you eggs with no return.
 
 ## How to Know You're Dealing With a Broody (Not a Sick Hen)
 

@@ -15,7 +15,7 @@ slug: "soft-shell-eggs-causes"
 affiliate_disclosure: false
 ---
 
-You pull an egg from the nest box and it collapses in your hand. Not cracked. Not thin-shelled. Fully soft, like a water balloon covered in membrane. A soft egg can be alarming, but the causes are usually manageable. If you're standing there [right now](/drug-resistant-salmonella-is-surging-in-backyard-flocks-right-now/) with a deflated egg wondering what went wrong, here are the most common reasons and fixes.
+You pull an egg from the nest box and it collapses in your hand. Not cracked. Not thin-shelled. Fully soft, like a water balloon covered in membrane. A soft egg can be alarming, but the causes are usually manageable. If you're standing there [right now](/drug-resistant-salmonella-is-spreading-from-backyard-flocks-right-now/) with a deflated egg wondering what went wrong, here are the most common reasons and fixes.
 
 Soft shell eggs happen more often than most chicken-keeping resources let on, and the causes range from completely fixable (diet) to "watch carefully for a few weeks" (age and stress) to "get your hen to a vet" (disease). The trick is figuring out which situation you're actually in, because the answer determines everything you do next.
 

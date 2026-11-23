@@ -74,7 +74,7 @@ Scratch grains, oyster shell for calcium, occasional treats. Another $5-$10 per 
 
 Healthcare costs are where people get genuinely blindsided. Keepers can generally expect at least one significant health situation per year across a flock of six. Respiratory infections, wry neck from vitamin deficiency, bumblefoot, egg binding. A vet visit for a chicken runs $50-$150 at an avian vet, and not every town has one within a reasonable drive. Many keepers learn to treat a number of common conditions at home. Vetericyn Poultry Care spray ($14 on Amazon) is a commonly recommended staple to keep on hand. Tylan Soluble powder for respiratory infections, around $18, is a cost-effective option that experienced keepers rely on heavily.  Unexpected losses are a reality of keeping a flock.
 
-A realistic [monthly operating cost](/chicken-keeping-budget/) for six laying hens: $38-$60 per month, or roughly $450-$720 per year.
+A realistic monthly operating cost for six laying hens: $38-$60 per month, or roughly $450-$720 per year.
 
 ## The Real Egg Math
 

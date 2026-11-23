@@ -115,7 +115,7 @@ Parakeet grit or very fine chick grit (sometimes called starter grit) works well
 
 One thing to avoid: products labeled as "grit" that contain added calcium or salt. These aren't appropriate for young chicks. Read the label carefully and buy plain granite or flint grit without additives.
 
-For anyone setting up a first flock, your coop setup matters just as much as your feed and grit routine. Check out our [free chicken coop plans](/chicken-coop-plans-free/) if you're still in the building phase, and make sure your run and coop design makes it easy to keep grit dry and accessible.
+For anyone setting up a first flock, your coop setup matters just as much as your feed and grit routine. Check out our [free chicken coop plans](/how-to-build-a-chicken-coop/) if you're still in the building phase, and make sure your run and coop design makes it easy to keep grit dry and accessible.
 
 ---
 

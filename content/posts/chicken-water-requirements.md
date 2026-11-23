@@ -100,7 +100,7 @@ You've got a few options:
 
 **The two-waterer rotation** is the low-tech answer. Keep two waterers. Bring one inside each night to thaw while the other stays in the coop. Swap them in the morning. This works fine for small flocks and costs nothing extra, but it requires daily commitment.
 
-Whatever route you choose, make sure your coop has power access if you're going heated. An extension cord works temporarily, but a dedicated outlet in or near the coop is worth installing properly. If you're planning or upgrading a coop, our [free chicken coop plans](/chicken-coop-plans-free/) include options with electrical access built in.
+Whatever route you choose, make sure your coop has power access if you're going heated. An extension cord works temporarily, but a dedicated outlet in or near the coop is worth installing properly. If you're planning or upgrading a coop, our [free chicken coop plans](/how-to-build-a-chicken-coop/) include options with electrical access built in.
 
 Don't use open bowls in winter. The surface area is too large, they freeze fast, and chickens tip them constantly.
 

@@ -34,7 +34,7 @@ The breed itself is American, developed in Massachusetts sometime around the mid
 
 ## What You Actually Get in the Egg Carton
 
-Two-hundred to 280 eggs [per year](/egg-production-per-year-by-breed/) is the honest range. Hatchery stock from Cackle or McMurray tends to hit the upper end of that. Heritage-line birds from smaller breeders, especially if they're breeding for the show standard, often land closer to 200 or a bit under. I ran a small side-by-side one year with four hatchery Barred Rocks and three heritage-line birds from a local breeder, and the hatchery birds averaged 249 eggs in the first 12 months versus 218 for the heritage pullets. Not a massive gap, but worth knowing if production is your priority.
+Two-hundred to 280 eggs [per year](/best-egg-laying-chickens/) is the honest range. Hatchery stock from Cackle or McMurray tends to hit the upper end of that. Heritage-line birds from smaller breeders, especially if they're breeding for the show standard, often land closer to 200 or a bit under. I ran a small side-by-side one year with four hatchery Barred Rocks and three heritage-line birds from a local breeder, and the hatchery birds averaged 249 eggs in the first 12 months versus 218 for the heritage pullets. Not a massive gap, but worth knowing if production is your priority.
 
 The eggs are large, consistently shaped, and a warm medium-brown. Shell quality is good through the second year, then starts to thin a bit, same as most breeds.
 

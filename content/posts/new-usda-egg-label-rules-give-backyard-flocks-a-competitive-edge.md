@@ -25,7 +25,7 @@ That matters right now because people are paying attention. Retail [egg prices c
 
 ## What the Rule Actually Changed, and Why It Matters to You
 
-Here's what most people don't realize: the old "Product of USA" claim was essentially unenforceable in any meaningful way. Processors had enormous flexibility. A bird hatched in Chile, raised in Mexico, and packed in a U.S. facility could legally carry an American flag on the carton. The USDA's revision, which was finalized and took effect January 1, 2026 per coverage from [Backyard Poultry](/513-sick-and-counting-the-backyard-poultry-salmonella-summer-surge/) magazine, closes that gap completely. Born here. Raised here. Processed here. All three boxes have to be checked.
+Here's what most people don't realize: the old "Product of USA" claim was essentially unenforceable in any meaningful way. Processors had enormous flexibility. A bird hatched in Chile, raised in Mexico, and packed in a U.S. facility could legally carry an American flag on the carton. The USDA's revision, which was finalized and took effect January 1, 2026 per coverage from [Backyard Poultry](/salmonella-from-backyard-flocks-is-spiking-this-summer/) magazine, closes that gap completely. Born here. Raised here. Processed here. All three boxes have to be checked.
 
 For backyard keepers buying chicks from hatcheries like Meyer Hatchery in Ohio or McMurray Hatchery in Iowa, both domestic operations, this is a genuinely straightforward compliance win. You were already doing it right. The rule is just now catching up to you.
 

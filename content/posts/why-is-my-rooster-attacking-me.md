@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why roosters attack their owners and learn practical strategies to reduce aggression and establish safer interactions with your bird."
 image: "/img/heroes/38387974.jpg"
-categories: ["Chicken Behavior"]
+categories: ["flock"]
 tags: ["rooster", "attacking"]
 author: "Mike Carter"
 author_slug: "mike-carter"
@@ -28,7 +28,7 @@ faqs:
 
 Eighty percent of roosters that attack humans are doing it before they're even a year old. That number comes from poultry behavior research.
 
-If your rooster is coming at you, spurs out, chest puffed, or doing that weird sideways dance before he charges, you're not crazy and you're not doing something obviously wrong. This is one of the most misunderstood problems in [backyard chicken](/why-cities-are-loosening-backyard-chicken-rules-in-2026/) keeping, and most of the advice floating around online ranges from unhelpful to actively counterproductive. Let me cut through it.
+If your rooster is coming at you, spurs out, chest puffed, or doing that weird sideways dance before he charges, you're not crazy and you're not doing something obviously wrong. This is one of the most misunderstood problems in [backyard chicken](/new-city-chicken-laws-are-passing-fast-is-your-town-next/) keeping, and most of the advice floating around online ranges from unhelpful to actively counterproductive. Let me cut through it.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Rooster aggression peaks between 6-12 months as testosterone surges during sexual maturity.</li><li style="margin:5px 0">Dominance-display behaviors (sideways strutting, wing dragging) are warnings, act before the spurs come out.</li><li style="margin:5px 0">Never run from or hit a rooster; both responses reinforce the behavior in opposite but equally bad ways.</li><li style="margin:5px 0">Desensitization and calm, consistent boundary-setting resolve most cases within 2-4 weeks.</li><li style="margin:5px 0">Some roosters are genuinely dangerous and no amount of training will fix a bird with poor genetics.</li></ul></div>
 

@@ -91,7 +91,7 @@ Cut 2x4 rafters and attach them to the top plates. Sheath with 1/2-inch plywood,
 
 **Step 7: Install interior features**
 
-Roosting bars should be 2-4 inches wide and rounded, set 12-15 inches apart horizontally and 18-24 inches off the floor. Chickens roost higher than their nesting boxes or they'll sleep in the boxes and soil them. A board below the roosts to catch droppings (a "[poop board](/chicken-coop-cleaning-schedule/)") makes cleanup dramatically easier and I'd never build without one now.
+Roosting bars should be 2-4 inches wide and rounded, set 12-15 inches apart horizontally and 18-24 inches off the floor. Chickens roost higher than their nesting boxes or they'll sleep in the boxes and soil them. A board below the roosts to catch droppings (a "[poop board](/how-to-clean-chicken-coop/)") makes cleanup dramatically easier and I'd never build without one now.
 
 Nesting boxes: one per 3-4 hens. A 12x12-inch box works for most standard breeds. Mount them 12-18 inches off the floor. Line them with [nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20) to keep eggs clean and reduce breakage.
 

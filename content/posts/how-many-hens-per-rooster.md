@@ -26,7 +26,7 @@ faqs:
     a: "For very calm, heavy heritage breeds in a breeding pen where you're actively monitoring for injuries, yes. Some breeders run Cochins or Silkies at 4-5:1 without problems. For active breeds in a general backyard flock setting, current as of August 2026, I'd call it a bad idea unless you're checking your birds daily and have saddles ready."
 ---
 
-Most people guess too low. The number that actually surprises new [chicken keepers](/egg-prices-crashed-but-chicken-keepers-are-staying-put/): a single rooster can successfully mate with up to 12 hens in a day, and in some documented flock trials, individual males have attempted contact with 30 or more birds in a 24-hour period. That's not a record to celebrate. That's a welfare problem waiting to happen.
+Most people guess too low. The number that actually surprises new [chicken keepers](/egg-prices-crashed-but-the-chicken-boom-keeps-going/): a single rooster can successfully mate with up to 12 hens in a day, and in some documented flock trials, individual males have attempted contact with 30 or more birds in a 24-hour period. That's not a record to celebrate. That's a welfare problem waiting to happen.
 
 You might be wondering whether you even need a rooster at all, or whether the one you've got is the right ratio for your flock. Both are fair questions, and the honest answer is that most [backyard keepers](/new-usda-poultry-rules-are-now-in-effect-here-is-what-backyard-keepers/) get the ratio wrong in the same direction: too few hens per rooster, not too many.
 
@@ -36,7 +36,7 @@ Here's what I tell people when they ask: the standard recommendation you'll see 
 
 ## Why the Ratio Actually Matters
 
-This isn't just [about keeping](/what-the-vance-coop-tells-us-about-keeping-backyard-chickens/) the peace. Over-mating causes real physical damage to hens. A rooster mounts by grabbing the back of a hen's head and neck with his beak and gripping her back with his spurs. Do that 4-5 times a day to the same five hens, and within two or three weeks you'll see bare patches on their backs and the base of their tail feathers. In bad cases, the skin breaks open. In severe cases, skin can break open and wounds can reach the muscle layer, sometimes within 10 days of introducing a new male.
+This isn't just [about keeping](/vp-vance-got-backyard-chickens-here-is-what-new-keepers-need-to-know/) the peace. Over-mating causes real physical damage to hens. A rooster mounts by grabbing the back of a hen's head and neck with his beak and gripping her back with his spurs. Do that 4-5 times a day to the same five hens, and within two or three weeks you'll see bare patches on their backs and the base of their tail feathers. In bad cases, the skin breaks open. In severe cases, skin can break open and wounds can reach the muscle layer, sometimes within 10 days of introducing a new male.
 
 The Merck Veterinary Manual notes that "treading injuries" are among the most common soft-tissue injuries in backyard flocks, and they're almost entirely a ratio and management problem.
 

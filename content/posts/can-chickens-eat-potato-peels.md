@@ -36,7 +36,7 @@ I made this mistake myself in my second year of keeping chickens. I was composti
 
 ## The Solanine Problem Is Real (and Underestimated)
 
-Most [backyard chicken](/why-cities-are-loosening-backyard-chicken-rules-in-2026/) advice on solanine is either fear-mongering or dismissive, and neither is particularly helpful. Here's the actual picture.
+Most [backyard chicken](/new-city-chicken-laws-are-passing-fast-is-your-town-next/) advice on solanine is either fear-mongering or dismissive, and neither is particularly helpful. Here's the actual picture.
 
 Solanine is a glycoalkaloid that accumulates in the green parts of potato plants: the leaves, stems, unripe berries, and especially in tuber flesh and skin that has been exposed to light. It's the plant's natural pest defense. Chickens, like humans, can tolerate small amounts. The ASPCA Animal Poison Control Center lists potatoes (specifically green parts and raw potato flesh) as toxic to birds and animals, while acknowledging that properly stored, non-green potatoes present a much lower risk.
 

@@ -88,7 +88,7 @@ The better approach for cold climates: build a second open waterer as backup for
 
 - Merck Veterinary Manual: Poultry section on water quality and sanitation requirements for laying hens
 - University of Kentucky Cooperative Extension (Avian Advice): water consumption and contamination studies in backyard flocks
-- Penn State Extension: "Managing Backyard Poultry" -- housing and water system recommendations
+- Penn State Extension: "Managing Backyard Poultry", housing and water system recommendations
 - Gail Damerow, *The Chicken Health Handbook* (2nd ed.): practical water system guidance and disease prevention through sanitation
 
 ---

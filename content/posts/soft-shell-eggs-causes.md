@@ -79,10 +79,10 @@ Some older hens, particularly ISA Browns in their fourth year or later, may deve
 
 ## Sources
 
-- Merck Veterinary Manual: "Egg Production and Shell Quality in Poultry" -- detailed overview of calcium metabolism and shell gland function
+- Merck Veterinary Manual: "Egg Production and Shell Quality in Poultry", detailed overview of calcium metabolism and shell gland function
 - Poultry Science journal (Cornell University): Research on calcium requirements in laying hens across production cycles
-- University of Florida IFAS Extension: "Common Causes of Poor Egg Quality in Backyard Chickens" -- practical diagnostic framework for small flock keepers
-- Penn State Extension: "Feeding Chickens for Egg Production" -- nutrient requirements including calcium, phosphorus, and vitamin D ratios
+- University of Florida IFAS Extension: "Common Causes of Poor Egg Quality in Backyard Chickens", practical diagnostic framework for small flock keepers
+- Penn State Extension: "Feeding Chickens for Egg Production", nutrient requirements including calcium, phosphorus, and vitamin D ratios
 - The Chicken Health Handbook by Gail Damerow (Storey Publishing): Comprehensive reference for disease identification and reproductive health in backyard flocks
 
 ---

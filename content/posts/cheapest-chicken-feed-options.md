@@ -94,7 +94,7 @@ Growing your own grain sounds appealing. The math almost never works out at smal
 
 - National Chicken Council: Industry feed cost data and commercial production benchmarks, updated annually
 - USDA Agricultural Marketing Service grain price reports (2026): Weekly wholesale grain prices by region, publicly available at ams.usda.gov
-- Heres et al. (2014), *Poultry Science*: "Effect of fermented feed on feed intake, body weight, and egg production in laying hens" -- core study on fermented feed efficiency gains
+- Heres et al. (2014), *Poultry Science*: "Effect of fermented feed on feed intake, body weight, and egg production in laying hens", core study on fermented feed efficiency gains
 - Penn State Extension, Backyard Poultry production guides: Supplementation ratios and kitchen scrap guidelines for small flocks
 - Fertrell Company nutritional formulation data: Supplement ratios for small-flock grain balancing
 

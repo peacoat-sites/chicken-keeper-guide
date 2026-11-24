@@ -90,9 +90,9 @@ Start with a small amount if your flock is new to tomatoes, partly because intro
 ## Sources
 
 - [Cornell University Cooperative Extension](https://www.gardening.cornell.edu): Information on solanine-containing plants and general livestock feeding guidance.
-- National Research Council (2012): "Nutrient Requirements of Poultry" (8th revised edition) -- the reference standard for laying hen daily nutritional requirements.
+- National Research Council (2012): "Nutrient Requirements of Poultry" (8th revised edition), the reference standard for laying hen daily nutritional requirements.
 - [ASPCA Animal Poison Control](https://www.aspca.org/pet-care/animal-poison-control): Tomato plant toxicity data for animals, including glycoalkaloid compounds.
-- Friedman, M. (2002): "Tomato Glycoalkaloids: Role in the Plant and in the Diet," *Journal of Agricultural and Food Chemistry* -- breakdown of tomatine and solanine concentrations in ripe vs. unripe fruit.
+- Friedman, M. (2002): "Tomato Glycoalkaloids: Role in the Plant and in the Diet," *Journal of Agricultural and Food Chemistry*, breakdown of tomatine and solanine concentrations in ripe vs. unripe fruit.
 - [The Merck Veterinary Manual](https://www.merckvetmanual.com): Solanine toxicosis overview and clinical signs in poultry.
 
 ---

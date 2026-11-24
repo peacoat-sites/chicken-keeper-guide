@@ -16,7 +16,7 @@ faqs:
   - q: "Do Golden Comets go broody?"
     a: "Rarely. They've been bred away from broodiness because it interrupts laying. Don't count on a Golden Comet hen to hatch and raise chicks. If you want a natural brooder in your flock, add a Buff Orpington or a Cochin."
   - q: "Are Golden Comets good for beginners?"
-    a: "Honestly, yes. They're forgiving about feed changes, don't require special housing, and aren't aggressive toward people. The one thing beginners should know upfront is the shortened productive lifespan -- manage your expectations around year three."
+    a: "Honestly, yes. They're forgiving about feed changes, don't require special housing, and aren't aggressive toward people. The one thing beginners should know upfront is the shortened productive lifespan, manage your expectations around year three."
   - q: "What's the difference between a Golden Comet and an ISA Brown?"
     a: "Both are red sex-link hybrids, and their performance is nearly identical in practice. The main difference is the parent stock and the company that developed the genetics. ISA Browns were developed by Institut de Sélection Animale in France; Golden Comets are an American version. For a backyard keeper, the distinction doesn't matter much."
 author: "Mike Carter"

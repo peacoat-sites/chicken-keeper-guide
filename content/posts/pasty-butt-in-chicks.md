@@ -85,9 +85,9 @@ Working example: I switched from open dish feeders to port-style feeders in 2021
 ## Sources
 
 - Mountzouris, K.C. et al. (2020): "Effects of probiotic inclusion level in broiler nutrition on growth performance, gut microbiota composition, and intestinal morphology." *Poultry Science*. Relevant to probiotic use in stressed young chicks.
-- Merck Veterinary Manual: "Cloacal Pasting in Poultry" -- clinical description of vent pasting, causes, and management. Available at merckvetmanual.com.
-- University of Kentucky Cooperative Extension Service: "Brooding and Growing Chickens" -- practical brooder temperature guidance and chick husbandry basics.
-- Iowa State University Extension: "Small-Scale Poultry Flocks" -- covers common health issues in backyard chick brooding, including digestive problems in the first week.
+- Merck Veterinary Manual: "Cloacal Pasting in Poultry", clinical description of vent pasting, causes, and management. Available at merckvetmanual.com.
+- University of Kentucky Cooperative Extension Service: "Brooding and Growing Chickens", practical brooder temperature guidance and chick husbandry basics.
+- Iowa State University Extension: "Small-Scale Poultry Flocks", covers common health issues in backyard chick brooding, including digestive problems in the first week.
 - National Poultry Improvement Plan (NPIP), current as of July 2026: Guidelines on hatchery health standards; context for understanding why shipped chicks carry higher stress-related health risks than locally hatched birds.
 
 ---

@@ -67,7 +67,7 @@ Sources: USDA FoodData Central nutrient database, current as of July 2026.
 
 Sprouted grain bread genuinely surprised me when I ran these numbers. Fifteen grams of protein per 100g and significantly lower sodium than conventional loaves. If I'm going to give bread at all, it's a small piece of Ezekiel or a similar sprouted loaf, not the end of a bag of Wonder Bread. The sodium content in white bread matters more than people think: excess dietary sodium in laying hens causes watery droppings, reduced feed intake, and over time, kidney stress.
 
-Moldy bread is a firm no. Not "maybe avoid it" -- a hard no. Mycotoxins produced by common bread molds (Aspergillus, Penicillium, Fusarium) cause aflatoxicosis in poultry, which can be fatal. The University of Kentucky College of Agriculture's extension service explicitly lists moldy bread as a toxic food for backyard poultry. Don't throw the fuzzy end of a loaf in the run because you feel guilty wasting it. Compost it instead.
+Moldy bread is a firm no. Not "maybe avoid it", a hard no. Mycotoxins produced by common bread molds (Aspergillus, Penicillium, Fusarium) cause aflatoxicosis in poultry, which can be fatal. The University of Kentucky College of Agriculture's extension service explicitly lists moldy bread as a toxic food for backyard poultry. Don't throw the fuzzy end of a loaf in the run because you feel guilty wasting it. Compost it instead.
 
 ## How to actually feed bread without causing problems
 

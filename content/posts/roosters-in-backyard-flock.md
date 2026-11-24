@@ -98,7 +98,7 @@ I'm not suggesting you terrorize the bird. What works is: don't retreat. Hold yo
 
 If a rooster is attacking children, that's a different conversation. Children move unpredictably, crouch down to eye level, and run, all of which trigger a rooster's territorial instincts. Some roosters are simply not safe around kids under a certain age. That's not a training problem; it's a rehoming situation.
 
-A few breeds are so hardwired for aggression that no amount of correct handling will produce a reliably safe bird. I've accepted this after trying too long with one particular RIR that came to me at 6 months. He went to a farm with no children, which was the right call.
+A few breeds are so hardwired for aggression that no amount of correct handling will produce a reliably safe bird. Some individual birds, particularly certain Rhode Island Reds, may show aggression that persists despite proper training and management. For such birds, a placement suited to their temperament, like a farm without children, may be the most responsible option.
 
 ## The Noise Question, Honestly Addressed
 

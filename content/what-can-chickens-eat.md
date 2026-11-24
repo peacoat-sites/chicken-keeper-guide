@@ -45,4 +45,4 @@ Treats, table scraps, and forage fill the remaining 10%. Even genuinely healthy 
 
 **Remove uneaten fresh food within a few hours.** Wet treats left in warm weather mold quickly, and mold-covered food is a serious toxin risk. If your flock hasn't cleaned up a treat within a couple of hours, remove it from the pen.
 
-For more on building a complete, balanced diet for your flock, see our guide to [backyard chicken feeding and nutrition](/posts/). Getting the basics right makes everything else, egg production, feather quality, flock health, significantly easier.
+For more on building a complete, balanced diet for your flock, see our guide to backyard chicken feeding and nutrition. Getting the basics right makes everything else, egg production, feather quality, flock health, significantly easier.

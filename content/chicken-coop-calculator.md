@@ -45,6 +45,6 @@ Once you have your numbers, think about the practical build. A 6-bird standard f
 
 For the run, a flock of six standard hens needs at least 48 square feet, about 6x8 feet, with 60 to 72 square feet recommended. Many keepers build a 10x10 run so they can add birds later without rebuilding.
 
-Consider ventilation from day one. Even in cold climates, ammonia buildup from droppings is a greater health risk than cold air. Place vents high on the walls above the roost line so drafts don't hit sleeping birds. Check out our guide to [raising healthy backyard chickens](/posts/) for more detail on coop ventilation and year-round management.
+Consider ventilation from day one. Even in cold climates, ammonia buildup from droppings is a greater health risk than cold air. Place vents high on the walls above the roost line so drafts don't hit sleeping birds. Check out our guide to raising healthy backyard chickens for more detail on coop ventilation and year-round management.
 
 Before you build or buy, confirm your local zoning rules. Many municipalities cap flock size at 4 to 6 hens for residential lots, and some prohibit roosters entirely. A beautiful 20-bird coop is worthless if it violates your city's ordinance.

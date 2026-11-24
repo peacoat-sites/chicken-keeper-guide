@@ -53,4 +53,4 @@ Before you ever set eggs, confirm your incubator maintains stable temperature. R
 
 Source fertile eggs from a reputable local breeder or a trusted online hatch-egg seller. Shipped eggs suffer air cell damage during transit and hatch at significantly lower rates than locally sourced eggs. If using shipped eggs, let them rest pointed-end-down for 12-24 hours before setting to allow the air cell to stabilize.
 
-For more on the full process from egg selection through brooder setup, explore our [hatching and brooding guides](/posts/) for step-by-step walkthroughs written from real flock experience.
+For more on the full process from egg selection through brooder setup, explore our hatching and brooding guides for step-by-step walkthroughs written from real flock experience.

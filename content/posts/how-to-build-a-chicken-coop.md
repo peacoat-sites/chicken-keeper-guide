@@ -113,11 +113,7 @@ Check every joint and corner on the exterior. A half-inch gap near a vent might 
 
 ## Sources
 
-- [nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
-- [Harris Farms Hanging Poultry Feeder](https://www.amazon.com/s?k=harris+farms+hanging+poultry+feeder&tag=contentportfo-20)
-- [nipple waterer system](https://www.amazon.com/s?k=chicken+nipple+waterer&tag=contentportfo-20)
 - [Ivan Babydov](https://www.pexels.com/@babydov)
-
 
 | Mistake | Why It Matters | The Fix |
 |---|---|---|

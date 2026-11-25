@@ -29,9 +29,7 @@ Double yolk eggs are safe to eat, completely normal to find, and not a sign that
 
 A double yolk forms when a hen releases two yolks into the oviduct too close together. Both get wrapped in the same albumen and shell. It's a timing glitch, not a defect. Young pullets are most likely to produce double yolkers because their laying cycle hasn't fully regulated yet. High-production breeds also throw them more frequently than average, and some individual hens seem genetically predisposed to producing them throughout their entire laying lives.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Double yolk eggs are caused by two yolks entering the oviduct simultaneously, most common in pullets under 30 weeks old.</li><li style="margin:5px 0">They are completely safe to eat and have roughly twice the yolk nutrition of a single-yolk egg.</li><li style="margin:5px 0">Breeds like Golden Comet, Rhode Island Red, and Leghorn produce them more frequently than heritage breeds.</li><li style="margin:5px 0">A sudden increase in double yolkers from a mature hen can signal a disrupted laying cycle, often from stress, molt, or seasonal light change.</li><li style="margin:5px 0">Incubating a double yolk egg almost never succeeds without significant intervention; don't count on it hatching.</li></ul></div>
-
 
 ## Why Some Hens Produce Them More Than Others
 
@@ -79,6 +77,5 @@ Commercial egg producers actually candle for double yolkers and sort them specif
 - [The Merck Veterinary Manual]: Poultry section covering reproductive disorders and laying cycle disruptions
 
 ---
-
 
 *Photo: [Raquel Tinoco](https://www.pexels.com/@raquel-tinoco-1932654) via Pexels*

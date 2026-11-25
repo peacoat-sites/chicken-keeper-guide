@@ -101,10 +101,6 @@ The RIR sits in a sweet spot: near the top of the production charts with more ca
 
 ## Sources
 
-- [Manna Pro Layer Pellets](https://www.amazon.com/s?k=manna+pro+layer+pellets)
-- [A sturdy poultry waterer like this Harris Farms model](https://www.amazon.com/s?k=harris+farms+poultry+waterer)
-- [quality nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads)
-- [Vetericyn Plus Poultry Care Spray](https://www.amazon.com/s?k=vetericyn+poultry+spray)
 - [Brett Jordan](https://www.pexels.com/@brettjordan)
 
 RIRs are generally a healthy breed. They don't carry the genetic issues you see in heavily modified breeds, but they're not bulletproof.
@@ -112,8 +108,6 @@ RIRs are generally a healthy breed. They don't carry the genetic issues you see 
 **Marek's Disease.** Order vaccinated chicks. Non-negotiable for any breed, but especially if you're buying from a hatchery and adding birds to an existing flock. Most hatcheries vaccinate by default. Confirm before you order.
 
 **Egg-laying disorders.** High-production hens, and RIRs are right at the top of that list, have elevated risk of reproductive issues: internal laying, egg peritonitis, and prolapse. The more eggs a hen lays over her lifetime, the higher the cumulative risk. Production Reds can be lost to egg peritonitis as young as three years old. It's one of the real costs of working with highly productive breeds.
-
-**Bumblefoot.** Common in heavier birds. Check the bottom of your hens' feet during routine handling. A small dark scab with a hard core underneath is bumblefoot and needs treatment. Caught early, you can often treat it with Epsom salt soaks, Vetericyn spray, and a bandage. Left alone, it becomes a serious infection. [Vetericyn Plus Poultry Care Spray](https://www.amazon.com/s?k=vetericyn+poultry+spray) is something I keep in my coop kit year-round. (Commission disclosure applies.)
 
 **Parasites.** Mites and lice affect every breed. RIRs' dark feathering actually makes it harder to spot mites during a quick visual check. Part the feathers near the vent and base of the tail every month. Dustbathing is the hens' own defense, so make sure they have access to dry dirt or a dedicated dust bath area.
 

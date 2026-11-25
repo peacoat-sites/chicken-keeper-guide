@@ -121,7 +121,6 @@ The fix isn't complicated. High ventilation openings (above the roost level so b
 - Merck Veterinary Manual, "Respiratory Diseases of Poultry": Detailed descriptions of MG, IB, Newcastle, and Coryza pathology and management
 - USDA APHIS National Poultry Improvement Plan (NPIP) documentation: Current standards for flock testing and disease surveillance in the US
 - University of California Agriculture & Natural Resources, Poultry Fact Sheets: Practical extension resources for small-flock keepers on disease identification and biosecurity
-- [The Chicken Health Handbook by Gail Damerow](https://www.amazon.com/Chicken-Health-Handbook-Complete-Poultry/dp/1612120797) (2nd ed.): The single most referenced practical guide to poultry illness in the backyard flock community (disclosure: affiliate link)
 
 ---
 

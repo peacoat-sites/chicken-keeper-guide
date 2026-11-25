@@ -69,9 +69,7 @@ I ran a colony for about 18 months. Honestly? It was worth it for the experience
 
 ## Sources
 
-- [Hatorian 1000 Count Live Mealworms](https://www.amazon.com/s?k=live+mealworms+1000+count)
 - [RDNE Stock project](https://www.pexels.com/@rdne)
-- on the exact mechanism is still a little murky
 
 Mealworms have a terrible calcium-to-phosphorus ratio. We're talking roughly 1:18, phosphorus dominant, which is basically the opposite of what a laying hen needs. This doesn't mean you can't feed them, but it does mean that if you're already skimping on oyster shell access, mealworms aren't helping.
 

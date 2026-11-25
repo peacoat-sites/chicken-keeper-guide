@@ -115,16 +115,11 @@ Here's the practical cleanup sequence:
 
 ## Sources
 
-- [Rooster Booster Poultry Cell](https://www.amazon.com/s?k=rooster+booster+poultry+cell&tag=contentportfo-20)
-- [horizontal nipple waterers](https://www.amazon.com/s?k=chicken+nipple+waterer&tag=contentportfo-20)
-
 Here's the honest truth: you probably can't prevent exposure, and you probably shouldn't try.
 
 What you want is a flock that builds immunity through controlled low-level exposure. Not one that encounters *Eimeria* for the first time as stressed adults.
 
 **Medicated chick starter** contains low-dose amprolium that slows oocyst development enough to let chicks build immunity while preventing overwhelming infection. It's not a cure and not foolproof, but it significantly reduces outbreak risk during the highest-vulnerability window. If you're buying vaccinated chicks (Marek's included), check whether the vaccine covers coccidiosis, because some do. Vaccinated chicks shouldn't get medicated feed, as amprolium interferes with the live coccidiosis vaccine.
-
-**Keep bedding dry.** This is probably the single most effective preventive step you can take. A nipple waterer instead of an open trough cuts spillage dramatically. I switched my brooder setup to [horizontal nipple waterers](https://www.amazon.com/s?k=chicken+nipple+waterer&tag=contentportfo-20) a few years ago and bedding moisture dropped significantly. *(This site may earn a commission on Amazon purchases.)*
 
 **Don't overcrowd.** Overcrowding increases oocyst concentration in the environment and suppresses immune function through stress. The recommended minimums (4 square feet per bird inside, 10 square feet in the run) exist for a reason.
 

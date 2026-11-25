@@ -83,8 +83,6 @@ One thing almost nobody mentions: the coop air quality matters more during the t
 
 ## Sources
 
-- [Brinsea EcoGlow on Amazon](https://www.amazon.com/s?k=Brinsea+EcoGlow+brooder)
-- [Horizontal chicken nipple waterers on Amazon](https://www.amazon.com/s?k=horizontal+chicken+nipple+waterers)
 - [Duygu](https://www.pexels.com/@duygugungor)
 
 You can't raise chicks well without knowing something about what they're going to become, because breeds differ in surprising ways even at the chick stage.

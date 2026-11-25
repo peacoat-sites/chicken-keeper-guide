@@ -103,11 +103,7 @@ Weigh your hens a few times a year. A Buff Orpington hen creeping above 9 pounds
 
 ## Sources
 
-- [These nesting box pads on Amazon](https://www.amazon.com/s?k=chicken+nesting+box+pads)
-- [Manna Pro Layena Plus](https://www.amazon.com/s?k=manna+pro+layena+layer+pellets)
-- [Horizontal nipple waterers](https://www.amazon.com/s?k=chicken+nipple+waterer)
 - [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283)
-- continued laying through winter months when thinner-feathered breeds slow down s
 
 | Feature | Buff Orpington | Barred Plymouth Rock | Australorp | Cochin |
 |---|---|---|---|---|

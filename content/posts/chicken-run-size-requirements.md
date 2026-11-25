@@ -109,10 +109,6 @@ Roosting bars, elevated platforms, a simple swing, stacked hay bales, give birds
 
 ## Sources
 
-- [Vetericyn wound spray](https://www.amazon.com/s?k=vetericyn+poultry+spray)
-- [Quality hardware cloth](https://www.amazon.com/s?k=hardware+cloth+half+inch+chicken+run)
-- [UV-blocking shade cloth](https://www.amazon.com/s?k=shade+cloth+for+chicken+run)
-- [Horizontal nipple waterers](https://www.amazon.com/s?k=chicken+nipple+waterer)
 - [Sarah-Claude Lévesque St-Louis](https://www.pexels.com/@sarah-claude-levesque-st-louis-156920272)
 
 Not everyone has a quarter acre for a chicken run. Suburban and urban keepers work with genuine physical constraints. Smart management can stretch your square footage meaningfully.
@@ -122,8 +118,6 @@ Rotating access is one of the best tools. Build two smaller sections side by sid
 Deep litter management is another legitimate tool. Layer wood chips, straw, or leaves over the run floor and let the chickens turn it regularly. You get a self-composting system that stays healthier than bare dirt, generates heat in winter, and entertains the birds with constant scratching.
 
 Vertical space is underused. A 60 square foot run with two levels accessed by ramps gives your birds the behavioral equivalent of a much larger flat run. They establish territory at different heights, which reduces flat-ground aggression significantly.
-
-Feed and water placement matters too. Don't cluster everything in one corner. Spread resources so lower-ranked birds aren't trapped between the dominant hen and a wall every time they want to eat. A hanging feeder and nipple waterer at multiple heights reduce feeding competition noticeably. [Horizontal nipple waterers](https://www.amazon.com/s?k=chicken+nipple+waterer) are my current favorite for keeping water cleaner longer.
 
 ---
 

@@ -70,11 +70,7 @@ What they are good for: keeping the baseline worm load low so it never reaches t
 
 ## Sources
 
-- [Harris Food Grade Diatomaceous Earth](https://www.amazon.com/Harris-Diatomaceous-Earth-Food-Grade/dp/B003BDTBTO)
-- [loose powder supplement on Amazon](https://www.amazon.com/s?k=black+walnut+hull+powder+supplement)
 - [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283)
-- is limited and inconsistent
-- on internal use is mixed at best
 
 Natural supplements alone won't accomplish much if your coop and run conditions are a worm incubator. Worm eggs can survive in moist soil for months to years. Overcrowded runs, wet bedding, and lack of rotation are bigger drivers of heavy worm loads than anything a pumpkin seed can fix.
 

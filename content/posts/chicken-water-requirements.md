@@ -122,7 +122,6 @@ A few specific concerns:
 
 ## Sources
 
-- [good quality poultry waterer on Amazon](https://www.amazon.com/s?k=poultry+waterer&tag=contentportfo-20)
 - [Muhamad Guruh Budi Hartono](https://www.pexels.com/@muhamad-guruh-budi-hartono-430167744)
 
 You can read about dehydration, but spotting it in the yard is what matters. Here's what to watch for:

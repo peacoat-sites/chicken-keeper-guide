@@ -92,9 +92,6 @@ This category blindsides people the most because it often hits your best layers.
 
 ## Sources
 
-- [Elector PSP](https://www.amazon.com/s?k=Elector+PSP+poultry+mites&tag=contentportfo-20)
-- [nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
-- [The Chicken Health Handbook by Gail Damerow](https://www.amazon.com/s?k=Chicken+Health+Handbook+Gail+Damerow&tag=contentportfo-20)
 - [Weder Soares Dos Santos](https://www.pexels.com/@weder-soares-dos-santos-202980724)
 
 When you find a bird that's "off," don't panic. Work through this systematically before you reach for a treatment or call a vet.
@@ -108,8 +105,6 @@ When you find a bird that's "off," don't panic. Work through this systematically
 **Step 4: Check her abdomen.** Gently feel for a hard lump (possible egg binding), fluid-filled swelling (possible peritonitis), or nothing unusual.
 
 **Step 5: Take her temperature if possible.** A chicken's normal temperature is 104 to 107 degrees Fahrenheit. A significantly low temperature in a sick bird is serious.
-
-**Step 6: Cross-reference her symptoms.** Use a reliable resource like [The Chicken Health Handbook by Gail Damerow](https://www.amazon.com/s?k=Chicken+Health+Handbook+Gail+Damerow&tag=contentportfo-20). It's genuinely the most practical poultry health reference available. Not a vet substitute, but it'll help you ask the right questions.
 
 **Step 7: Decide on action.** Some things, mild respiratory symptoms, early coccidiosis, mites, you can handle at home confidently. Others, egg binding that won't resolve, suspected Marek's, severe neurological symptoms, need a poultry vet. Not every vet sees chickens. Find an avian vet or farm vet with poultry experience before you're in crisis mode.
 

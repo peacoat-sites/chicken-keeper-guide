@@ -135,12 +135,6 @@ These three things get overlooked in a lot of coop-cleaning guides, and they abs
 
 ## Sources
 
-- [Oxine AH](https://www.amazon.com/s?k=oxine+ah+poultry+disinfectant)
-- [Tractor Supply's VetRx](https://www.amazon.com/s?k=vetrx+poultry)
-- [Precision Pet nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads)
-- [droppings board](https://www.amazon.com/s?k=chicken+droppings+board)
-- [nipple-style waterer system](https://www.amazon.com/s?k=chicken+nipple+waterer)
-
 **Cleaning too infrequently and then expecting a fast fix.** Litter that's been ignored for months takes serious time and effort. When ammonia smell becomes the reason you finally act, you're already behind.
 
 **Using bleach improperly.** Bleach isn't a good first-choice disinfectant for coops. It's corrosive to wood, extremely hard on respiratory tracts if residue remains, and it breaks down quickly in the presence of organic material, meaning it's largely ineffective if you haven't already scrubbed clean. Dilute to 1:30 if you use it, apply to pre-cleaned surfaces, and rinse thoroughly. Or skip it and use Oxine instead.

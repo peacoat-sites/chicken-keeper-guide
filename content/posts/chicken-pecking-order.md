@@ -111,12 +111,6 @@ Roosters change everything. A good rooster acts as a stabilizer. He breaks up fi
 
 ## Sources
 
-- [Blu-Kote antiseptic spray](https://www.amazon.com/s?k=blu-kote+poultry&tag=contentportfo-20)
-- [Wider roost bars](https://www.amazon.com/s?k=chicken+roost+bar&tag=contentportfo-20)
-- [chicken toys or treat dispensers](https://www.amazon.com/s?k=chicken+treat+dispenser&tag=contentportfo-20)
-- [Hen saddles](https://www.amazon.com/s?k=hen+saddle+chicken&tag=contentportfo-20)
-- [Peepers, also called blinders](https://www.amazon.com/s?k=chicken+peepers+anti+pecking&tag=contentportfo-20)
-
 You don't need to intervene every time a hen pecks another hen. If you do, you'll drive yourself crazy and you'll interfere with the natural stabilization process. But some situations absolutely require action.
 
 **Remove the injured bird.** Any bird with a bloody wound comes out of the flock, gets treated, and stays separate until fully healed. Reintroducing her is a whole process, treat it like introducing a new bird because her rank has effectively reset.
@@ -124,7 +118,5 @@ You don't need to intervene every time a hen pecks another hen. If you do, you'l
 **Remove the bully temporarily.** Counterintuitively, removing the bully for a few days can help. When she's reintroduced, her rank drops because the social order reshuffled without her. This doesn't always work, but it's worth trying before rehoming.
 
 **Check your numbers.** Flocks of four or fewer hens often have more intense pecking order dynamics because there's less social diffusion. Flocks of five or more tend to spread the pressure out.
-
-**Anti-pecking devices.** [Peepers, also called blinders](https://www.amazon.com/s?k=chicken+peepers+anti+pecking&tag=contentportfo-20), are small clips that attach to the beak and block forward vision without affecting the bird's ability to eat and drink. They're painless and effective for chronic feather pickers when used as a short-term measure while addressing underlying causes like overcrowding or nutritional deficiency.
 
 Understanding the pecking order doesn't make it less frustrating to watch, but it gives you the tools to tell the difference between a flock finding its footing and a flock with a real problem. Most situations are fixable with space, resources, and time. The ones that aren't usually point to a single bird who needs to find a different home, and there's no shame in making that call. Your first job is keeping the whole flock healthy. Sometimes that means making hard decisions. You'll know when you're there.

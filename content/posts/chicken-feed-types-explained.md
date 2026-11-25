@@ -95,7 +95,6 @@ Most backyard keepers use free-choice feeders, keeping them filled. This works f
 
 ## Sources
 
-- [poultry feeder](https://www.amazon.com/s?k=chicken+feeder&tag=contentportfo-20)
 - [cottonbro studio](https://www.pexels.com/@cottonbro)
 
 | Feed Type | Age/Use | Protein % | Calcium % | Notes |

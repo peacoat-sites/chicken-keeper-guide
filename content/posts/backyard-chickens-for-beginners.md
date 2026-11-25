@@ -97,22 +97,11 @@ One more thing: grit. Chickens don't have teeth. They need small stones in their
 
 ## Sources
 
-- [Brinsea EcoGlow](https://www.amazon.com/s?k=brinsea+ecoglow+brooder&tag=contentportfo-20)
-- [Purina Flock Raiser](https://www.amazon.com/s?k=purina+flock+raiser+chick+starter&tag=contentportfo-20)
-- [roll-out nesting box pad](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
-- [chicken feeder](https://www.amazon.com/s?k=hanging+chicken+feeder&tag=contentportfo-20)
-- [galvanized poultry waterer](https://www.amazon.com/s?k=galvanized+chicken+waterer&tag=contentportfo-20)
-
-
 Most chicken health problems are preventable with good management. Dirty coops, overcrowding, and poor ventilation cause more deaths and illness than disease outbreaks do.
 
 Clean the coop regularly. I use the deep litter method in winter: start with 4 to 6 inches of bedding, add a fresh layer every week or two, and do a full cleanout in spring. The composting process generates a small amount of heat, which helps in cold climates. In warm months I clean more frequently to keep ammonia levels down.
 
 Check your birds daily. It doesn't take long. Watch how they walk, how they eat, how alert they are. A hunched bird sitting apart from the flock is always worth a closer look. Learn to spot the difference between a broody hen (who wants to sit on eggs) and a sick bird. A broody hen is flat, puffed, and growly when disturbed. A sick bird is droopy, pale in the comb, and disinterested in food.
-
-Respiratory infections, mites, lice, and Marek's disease are the most common issues for backyard flocks. When you buy chicks, ask whether they've been vaccinated for Marek's. Most hatcheries offer this, and it's worth the small extra cost. For mites and lice, inspect the feathers near the vent area every month. A light dusting of [permethrin poultry dust](https://www.amazon.com/s?k=permethrin+poultry+dust&tag=contentportfo-20) in the coop and on birds will handle most external parasite issues.
-
-Have a vet in mind before you need one. Not every vet sees poultry, so find out now instead of at 10pm when a hen is in distress. The [Storey's Guide to Raising Chickens](https://www.amazon.com/s?k=storey%27s+guide+to+raising+chickens&tag=contentportfo-20) by Gail Damerow is the most thorough reference book I've ever used and belongs on every chicken keeper's shelf.
 
 ---
 

@@ -70,7 +70,6 @@ The lists floating around the internet often include breeds that are "okay" in h
 
 ## Sources
 
-- [horizontal nipple waterer system](https://www.amazon.com/s?k=chicken+horizontal+nipple+waterer)
 - [Robert So](https://www.pexels.com/@robertkso)
 
 Even the best heat-tolerant breed will struggle if your setup fights against them.
@@ -78,8 +77,6 @@ Even the best heat-tolerant breed will struggle if your setup fights against the
 Shade first. Permanent shade from trees or shade cloth (70% black shade cloth typically costs $30-40 for a 10x12 panel) matters more than almost any single breed choice. A Leghorn in a shadeless run will suffer. A Rhode Island Red in deep shade with good airflow will do better.
 
 Ventilation in the coop is non-negotiable. Hot air rises. If your coop has ventilation only at the eaves but nothing lower, you're baking your birds. Cross-ventilation with openings on both sides makes a genuine difference. I've added hardware cloth windows to every coop since 2018 specifically for summer airflow.
-
-Water access during summer needs to be more than "available." Chickens drink significantly more water in heat, and they'll stop eating if they can't drink enough, which triggers a downward spiral. Multiple waterers, checking them twice a day in extreme heat, and keeping them in shade. A [horizontal nipple waterer system](https://www.amazon.com/s?k=chicken+horizontal+nipple+waterer) keeps water cleaner and cooler than an open bucket baking in the sun.
 
 Electrolytes can help during heat events. Sav-A-Chick electrolyte packets (about $5 for a three-pack) dissolved in water during heat waves support recovery and help birds through the stress.
 

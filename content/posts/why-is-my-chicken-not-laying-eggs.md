@@ -127,7 +127,6 @@ Most of the time, you'll find your answer by step four.
 - [Merck Veterinary Manual](https://www.merckvetmanual.com/): Clinical reference for poultry reproductive disorders and infectious diseases
 - [Poultry Science Journal (Oxford Academic)](https://academic.oup.com/ps): Peer-reviewed research on laying hen nutrition, photoperiod response, and breed production data
 - [Penn State Extension](https://extension.psu.edu/): Backyard poultry guides including molt management and layer nutrition
-- [The Chicken Health Handbook, Gail Damerow (Storey Publishing)](https://www.amazon.com/Chicken-Health-Handbook-Gail-Damerow/dp/1612120091/ref=as_li_tl?tag=contentportfo-20): The single most useful reference I've found for diagnosing health and production issues
 
 ---
 

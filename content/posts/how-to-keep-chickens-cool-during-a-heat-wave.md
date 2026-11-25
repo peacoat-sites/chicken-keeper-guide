@@ -92,16 +92,11 @@ About misters: they're excellent in the desert southwest. In Georgia in August, 
 
 ## Sources
 
-- [Harris Farms Galvanized Poultry Waterer](https://www.amazon.com/s?k=harris+farms+galvanized+poultry+waterer)
-- [Durvet Vitamins & Electrolytes](https://www.amazon.com/s?k=durvet+poultry+electrolytes)
-
 Digesting feed generates body heat. The fermentation of a heavy grain diet produces real metabolic warmth, which is why you want to adjust feeding during extreme heat.
 
 Don't cut feed entirely, but shift the timing. Feed your flock in the early morning and late evening when temps are lower. Avoid putting out a full feeder at noon during a 100-degree day. Pull layer pellets during the hottest hours if birds aren't eating anyway.
 
 Increase access to fresh produce. Watermelon is a classic for a reason: it's mostly water, it's cool if you refrigerate it first, and birds go crazy for it. Cucumbers, lettuce, and frozen corn are also good options. These won't replace their nutritional needs but they contribute to hydration and the act of pecking at them keeps birds active and engaged without requiring serious digestive effort.
-
-One thing people don't mention: electrolytes. Panting birds exhale significant amounts of sodium and potassium. You can add a poultry electrolyte product to their water during a heat wave, similar to what you'd use for chicks under stress. [Durvet Vitamins & Electrolytes](https://www.amazon.com/s?k=durvet+poultry+electrolytes) is available for keepers dealing with heat stress recovery *(affiliate link, we may earn a commission on purchases)*. Electrolytes help birds recover from the cumulative stress of prolonged heat.
 
 Scratch grains and cracked corn are high in carbohydrates, which produce more metabolic heat during digestion. Temporarily dial those back during a heat wave. Your birds' protein and hydration needs are more important right now than scratch treats.
 

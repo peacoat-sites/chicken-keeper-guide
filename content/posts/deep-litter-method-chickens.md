@@ -81,8 +81,6 @@ A packed-earth floor can help avoid moisture problems.
 
 ## Sources
 
-- [Tractor Supply's Southern States brand](https://www.amazon.com/s?k=large+flake+pine+shavings+chicken+bedding&tag=contentportfo-20)
-- [Tractor Supply sells it](https://www.amazon.com/s?k=agricultural+lime+poultry+coop&tag=contentportfo-20)
 - [Brenda Timmermans](https://www.pexels.com/@brenda-timmermans-11680)
 
 Most deep litter setups run a full cleanout once or twice a year. Spring is the natural time: you've got a full winter's worth of partially composted material, temperatures are rising (which accelerates the microbial activity in the pile's final weeks), and the garden needs amendments.
@@ -90,8 +88,6 @@ Most deep litter setups run a full cleanout once or twice a year. Spring is the 
 The litter is ready to pull when it looks like dark, crumbly material with minimal recognizable manure or bedding structure. It will not smell like ammonia at this point; if anything, it smells like good compost. This stuff is genuinely good for the garden, too. High nitrogen, some phosphorus, decent organic matter. Pile it, let it hot-compost for another 4 to 6 weeks if you want to be safe with root vegetables, or use it directly on ornamentals and flower beds.
 
 After cleanout, leave a shovelful of the old material behind. It's inoculated with the microbes you've been cultivating, and it jump-starts the new litter faster than starting from scratch.
-
----
 
 ---
 

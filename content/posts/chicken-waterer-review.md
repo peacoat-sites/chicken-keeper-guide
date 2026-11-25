@@ -136,8 +136,6 @@ Learn more about flock health and waterer hygiene in [Gail Damerow's Chicken Hea
 
 ---
 
----
-
 The waterer you'll actually use consistently beats the optimal system you'll keep meaning to set up properly. Start with a nipple bucket, get the height right, and sort out winter heating before the first hard freeze. The rest is refinement.
 
 *Photo: [Ruslan Alekso](https://www.pexels.com/@oskelaq) via Pexels*

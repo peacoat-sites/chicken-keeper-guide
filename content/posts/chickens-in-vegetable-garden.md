@@ -75,9 +75,7 @@ If you want to be more precise about it, chicken manure averages around 1.1% nit
 
 ## Sources
 
-- [USDA's guide to using poultry manure in gardens](https://www.amazon.com/s?k=chicken+manure+compost+garden)
 - [Friede Dia](https://www.pexels.com/@friededia)
-- here is mixed enough that cautious people reasonably err toward longer wait time
 
 #### Can chickens eat vegetable garden scraps and trimmings?
 

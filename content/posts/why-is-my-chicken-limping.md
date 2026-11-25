@@ -86,7 +86,6 @@ Scenario: My Black Australorp flock went through a phase where I was seeing a ne
 
 - [Merck Veterinary Manual, Poultry, Lameness and Leg Disorders](https://www.merckvetmanual.com): Comprehensive clinical reference on causes of limping in poultry including Marek's, gout, and bacterial infections.
 - [UC Davis School of Veterinary Medicine, Poultry Health Program](https://www.vetmed.ucdavis.edu): Research and extension publications on Marek's disease vaccination efficacy and Mycoplasma synoviae.
-- [The Chicken Health Handbook by Gail Damerow (Storey Publishing)](https://www.amazon.com): Still the single best practical reference for backyard flock health, I keep a copy in my coop. (Disclosure: affiliate link, the site may earn a commission.)
 - [Poultry DVM, Bumblefoot Grading Scale](https://www.poultrydvm.com): Practical clinical grading guide for bumblefoot severity and treatment protocols.
 - [Avian Diseases journal, riboflavin deficiency in poultry](https://www.amsciepub.com/loi/avdi): Peer-reviewed research on B-vitamin deficiency presentations and recovery outcomes in laying hens.
 

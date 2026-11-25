@@ -104,10 +104,6 @@ Move new birds into the main coop at night. Hens reorganize pecking order more c
 
 ## Sources
 
-- [poultry waterer](https://www.amazon.com/s?k=poultry+waterer&tag=contentportfo-20)
-- [hanging feeder](https://www.amazon.com/s?k=hanging+poultry+feeder&tag=contentportfo-20)
-- [Poultry dust or permethrin spray](https://www.amazon.com/s?k=poultry+permethrin+dust&tag=contentportfo-20)
-
 **Using the same tools without cleaning them.** A waterer you fill for quarantine birds, then bring back to the main coop without washing, is a direct contamination pathway. Dedicated equipment per area, always.
 
 **Visiting quarantine birds last, not first.** If you care for your main flock and then go check on quarantine birds, you're moving potential pathogens in the right direction, from unknown birds toward your established flock. Reverse the order. Quarantine birds get checked after the main flock, or you change clothes and shoes between visits.
@@ -115,8 +111,6 @@ Move new birds into the main coop at night. Hens reorganize pecking order more c
 **Ending quarantine early because they look fine.** Looking fine is not the same as being fine. Stick to the timeline you set at the start.
 
 **Quarantining in a space that shares ventilation with the main coop.** Two coops with a shared roof but open eaves count as shared airspace.
-
-**Skipping the parasite check.** Mites and lice don't cause dramatic illness, so people discount them. But a heavy mite load stresses birds, suppresses immunity, causes anemia, and will spread to your entire flock within days of integration. [Poultry dust or permethrin spray](https://www.amazon.com/s?k=poultry+permethrin+dust&tag=contentportfo-20) on arrival is cheap insurance.
 
 ---
 

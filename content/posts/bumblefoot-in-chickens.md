@@ -114,8 +114,6 @@ Oral antibiotics for bumblefoot typically run 7 to 14 days. The vet may culture 
 
 ## Sources
 
-- [Vetericyn Plus Poultry Care Spray](https://www.amazon.com/s?k=vetericyn+poultry+spray)
-- [Vetrap 4-inch rolls](https://www.amazon.com/s?k=vetrap+bandage+4+inch)
 - [vet finder tool](https://www.aav.org/search/custom.asp?id=1803)
 
 Prevention is genuinely easier than treatment, and most of it comes down to coop management that's good for your flock across the board.

@@ -86,12 +86,6 @@ Small batches are trickier than people expect. A batch of three to five chicks s
 
 ## Sources
 
-- [Premier 1 Brinsea Cozy Safe Clamp Lamp](https://www.amazon.com/s?k=ceramic+brooder+heat+lamp+clamp)
-- [Brinsea EcoGlow Safety 20A](https://www.amazon.com/s?k=Brinsea+EcoGlow+Safety+20A)
-- [Tractor Supply store-brand pine shavings](https://www.amazon.com/s?k=pine+shavings+for+chicken+brooder)
-- [Little Giant 1-Quart Chick Feeder](https://www.amazon.com/s?k=little+giant+chick+feeder+1+quart)
-- [1-gallon plastic model](https://www.amazon.com/s?k=1+gallon+chick+waterer)
-
 Week one: check for pasty butt every single day. Manure gets stuck to the vent opening, blocks it up, kills the chick within a day or two. Clean it off gently with warm water and a cotton ball. It's more common in shipped chicks, probably stress-related.
 
 Week two: wing and tail feathers come in, they get mobile, they try flying. Low-sided containers become escape hazards. Add a wire top now.
@@ -103,7 +97,5 @@ Fully feathered chicks can move outside permanently once they're around 6-8 week
 ---
 
 Get the heat gradient right. Keep the bedding dry. Check for pasty butt every morning. Secure that heat lamp like it matters, because it does. Most brooder disasters are preventable once you know what to watch for. The ones that aren't preventable, like a tipped lamp or a smothered chick, almost always had warning signs you could've caught first.
-
-*This post may contain affiliate links. As an Amazon Associate, Backyard Chickens & Poultry may earn a commission from qualifying purchases at no extra cost to you.*
 
 *Photo: [Cheryl Prince](https://www.pexels.com/@cheryl-prince-55232333) via Pexels*

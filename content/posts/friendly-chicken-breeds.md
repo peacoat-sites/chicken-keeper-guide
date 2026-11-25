@@ -107,9 +107,6 @@ Breed sets the foundation, but how you raise your birds from hatch through adult
 
 ## Sources
 
-- [horizontal nipple waterers](https://www.amazon.com/s?k=horizontal+nipple+chicken+waterer&tag=contentportfo-20)
-- [hanging feeders](https://www.amazon.com/s?k=hanging+chicken+feeder&tag=contentportfo-20)
-- [adding extra feeders and waterers](https://www.amazon.com/s?k=chicken+feeder+set&tag=contentportfo-20)
 - [TIVASEE .](https://www.pexels.com/@tivasee-17374727)
 
 If you're mixing breeds, a little forethought goes a long way. Friendly doesn't always mean compatible. Putting a docile Silkie in with a flock of Rhode Island Reds can result in the Silkie getting bullied badly, because RIRs are assertive and Silkies don't really push back.
@@ -117,8 +114,6 @@ If you're mixing breeds, a little forethought goes a long way. Friendly doesn't 
 The general rule is to pair similar temperaments. Buff Orpingtons, Australorps, Speckled Sussex, and Easter Eggers all coexist well together because they're in roughly the same tier: friendly but not pushover, curious but not aggressive. Salmon Faverolles and Silkies do better with other gentle breeds or in smaller breed-specific flocks.
 
 Watch the pecking order closely during the first two weeks after integration. Some tension is completely normal. Sustained bullying where one bird is being excluded from food or water, or showing injuries, is not normal and needs intervention. A temporary physical divider inside the run so birds can see each other without contact is one of the most effective tools for smooth integration.
-
-If you're adding new birds to an existing flock, [adding extra feeders and waterers](https://www.amazon.com/s?k=chicken+feeder+set&tag=contentportfo-20) during integration reduces competition and the aggression that comes with it.
 
 ---
 

@@ -101,5 +101,3 @@ Growing your own grain sounds appealing. The math almost never works out at smal
 ---
 
 *Photo: [raja j](https://www.pexels.com/@gamerxtc) via Pexels*
-
----

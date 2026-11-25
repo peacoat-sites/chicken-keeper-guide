@@ -27,7 +27,6 @@ lastmod: 2026-07-08
 ---
 I'll be honest: the first time I ordered chicks online, I thought I was being reckless. Paying $6 to $12 per chick, plus $30 or more in shipping, for birds I couldn't inspect, from a hatchery I'd never visited, that would arrive through the United States Postal Service? It felt insane. Three days later, a chirping box showed up at my local post office at 6 a.m. and every single chick was alive, alert, and hollering. I've ordered online probably a dozen times since then, and I've also had a shipment go badly wrong. So here's the real rundown.
 
-
 <div class="value-module">
  <div class="vm-head">Hatchery Comparison: Price, Minimums, Policies</div>
  <div class="vm-body">
@@ -88,10 +87,7 @@ When chicks land, dip each beak in water before setting them down. This sounds o
 
 ## Sources
 
-- [Brinsea EcoGlow brooder plate](https://www.amazon.com/s?k=brinsea+ecoglow+brooder&tag=contentportfo-20)
-- [chick feeder and waterer set](https://www.amazon.com/s?k=chick+feeder+waterer+set&tag=contentportfo-20)
 - [DΛVΞ GΛRCIΛ](https://www.pexels.com/@davegarcia)
-
 
 A few things I learned the hard way:
 

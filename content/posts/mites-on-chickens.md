@@ -99,17 +99,8 @@ Some practical additions that help going forward:
 
 ## Sources
 
-- [Durvet Permethrin 10%](https://www.amazon.com/s?k=permethrin+poultry+dust&tag=contentportfo-20)
-- [Elector PSP](https://www.amazon.com/s?k=elector+psp+poultry&tag=contentportfo-20)
-- [Scalex Mite & Lice Spray](https://www.amazon.com/s?k=scalex+poultry+mite+spray&tag=contentportfo-20)
-- [vitamin supplement like Rooster Booster](https://www.amazon.com/s?k=rooster+booster+poultry+vitamins&tag=contentportfo-20)
-
 This is the part most beginner guides skip, and it matters. Both northern fowl mite and red mite feed on blood. A heavy infestation can cause serious anemia, especially in young birds, small breeds, or birds that were already stressed. Signs of anemia in chickens: pale or white comb and wattles, lethargy, loss of appetite, decreased egg production, and in severe cases, death.
-
-If you have a bird that's showing these signs alongside a heavy mite load, she needs supportive care in addition to mite treatment. Get her somewhere warm and quiet. Offer high-protein feed, scrambled eggs, or mealworms to help her rebuild. You can add poultry vitamins and electrolytes to the water. A [vitamin supplement like Rooster Booster](https://www.amazon.com/s?k=rooster+booster+poultry+vitamins&tag=contentportfo-20) can help during recovery. If the bird is very weak or you're not seeing improvement in 48-72 hours, call an avian vet. Sometimes anemia gets severe enough that a bird needs more intervention than home care can provide.
 
 Skin damage from heavy infestations can also become a secondary infection site. If you're seeing open sores or raw skin around the vent, keep it clean and consider applying an antibacterial ointment like plain Vetericyn or similar wound care spray. Watch for signs of infection.
 
 The good news is that mites, as bad as they look, are almost always beatable with prompt action and the right products. The key is catching them early, treating twice, and not assuming one treatment fixed everything. Your birds can't tell you something is wrong until they're really struggling. Regular hands-on inspections are the one thing that lets you catch a problem before it becomes a crisis. Put them on your calendar like you would any other coop maintenance task. Your Barred Rock will thank you.
-
-*(This article contains affiliate links. As an Amazon Associate, this site may earn from qualifying purchases at no additional cost to you.)*

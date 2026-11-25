@@ -76,8 +76,6 @@ Lice and mites are universal chicken problems. But high-production hens that are
 
 ## Sources
 
-- [something like this Grandpa's Best hanging feeder setup](https://www.amazon.com/s?k=chicken+oyster+shell+feeder)
-- [Elector PSP](https://www.amazon.com/s?k=elector+psp+chickens)
 - [Jean Marc Pampuch](https://www.pexels.com/@rubis)
 
 Depends entirely on what you want.

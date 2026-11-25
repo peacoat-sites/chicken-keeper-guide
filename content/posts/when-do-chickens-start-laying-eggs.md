@@ -94,9 +94,7 @@ Getting hens to use the nesting boxes rather than random corners of the coop or 
 
 ## Sources
 
-- [Precision Pet Excelsior Nesting Pads](https://www.amazon.com/s?k=excelsior+nesting+box+pads&tag=contentportfo-20)
 - [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283)
-
 
 | Breed | Expected First Egg | Annual Egg Production |
 |---|---|---|

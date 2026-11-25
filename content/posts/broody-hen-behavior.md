@@ -106,7 +106,6 @@ A solid option for a ready-made setup is the [Precision Pet Rabbit Hutch](https:
 
 ## Sources
 
-- [Precision Pet Rabbit Hutch](https://www.amazon.com/s?k=wire+rabbit+hutch+elevated&tag=contentportfo-20)
 - [Alison Burrell](https://www.pexels.com/@aburrell)
 
 If you gave her fertile eggs and she hatches them, you're in for the easiest chick-rearing experience in backyard chicken keeping. A good broody beats you every time. No heat lamp calculations, no brooder box setup, no 2am pasty butt checks. She handles it all.

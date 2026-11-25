@@ -86,7 +86,6 @@ Brooder temperature at arrival should be 95°F at chick level for the first week
 - [Penn State Extension, "Hatching Eggs at Home"](https://extension.psu.edu): Practical land-grant university resource covering candling, troubleshooting, and small-flock incubation.
 - [Brinsea Products incubation guides](https://www.brinsea.com): Manufacturer data on forced-air vs. still-air temperature differentials and species-specific incubation tables.
 - [University of Florida IFAS Extension, "Artificial Incubation of Chicken Eggs"](https://edis.ifas.ufl.edu): Extension bulletin covering air cell development, humidity management, and common causes of incubation failure.
-- [The Chicken Health Handbook, Gail Damerow (Storey Publishing)](https://www.amazon.com/dp/1612120474): A widely recommended reference for chicken keepers. Covers embryo development stages, failure diagnosis, and post-hatch chick care in real depth. *(Disclosure: the site may earn a commission on Amazon purchases.)*
 
 ---
 

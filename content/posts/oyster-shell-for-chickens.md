@@ -103,7 +103,6 @@ For most people with small flocks, buying oyster shell is just easier and more r
 
 ## Sources
 
-- [Coarse oyster shell](https://www.amazon.com/s?k=oyster+shell+for+chickens&tag=contentportfo-20)
 - [RDNE Stock project](https://www.pexels.com/@rdne)
 
 Most hens start laying between 18 and 24 weeks old, depending on breed. Have oyster shell available by the time pullets approach laying age, usually around 16-18 weeks for faster-maturing breeds. There's no harm in offering it earlier, but they won't really need it until production begins.

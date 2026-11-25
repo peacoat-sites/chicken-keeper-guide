@@ -91,10 +91,7 @@ Not all feeds are created equal. Here are things to actually look at on the labe
 
 ## Sources
 
-- [Purina Layena Plus Omega-3](https://www.amazon.com/s?k=Purina+Layena+Plus+Omega3+Layer+Pellets&tag=contentportfo-20)
-- [Purina Chick Start & Grow Medicated](https://www.amazon.com/s?k=Purina+Chick+Start+Grow+Medicated&tag=contentportfo-20)
 - [Iren Polishchuk](https://www.pexels.com/@iren-polishchuk-76943763)
-
 
 | Feature | Chick Starter | Layer Feed |
 |---|---|---|

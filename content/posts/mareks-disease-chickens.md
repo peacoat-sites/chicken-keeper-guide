@@ -115,8 +115,6 @@ For supportive care supplies, a vitamin-electrolyte supplement like [Sav-A-Chick
 
 ## Sources
 
-- [Sav-A-Chick electrolytes](https://www.amazon.com/s?k=sav-a-chick+electrolytes&tag=contentportfo-20)
-- [*Chicken Health Handbook*](https://www.amazon.com/s?k=gail+damerow+chicken+health+handbook&tag=contentportfo-20)
 - [Quang Nguyen Vinh](https://www.pexels.com/@quang-nguyen-vinh-222549)
 
 The most important thing you can do happens before you ever buy a bird.
@@ -136,8 +134,6 @@ The most important thing you can do happens before you ever buy a bird.
 Genetic resistance is an underappreciated factor. Certain breeds and strains have higher natural resistance to Marek's. White Leghorns used in commercial production have been selected for decades partly on Marek's resistance. Among heritage and backyard breeds, older strains of Rhode Island Reds, Buckeyes, and some Dominique lines show meaningful resistance. Show breeds and highly inbred exhibition lines tend to be more susceptible.
 
 If you're building a backyard flock from scratch and want something reasonably hardy, start with production breeds from reputable hatcheries rather than exhibition-quality birds from breeders specializing in show stock.
-
-For a deeper understanding of poultry disease management, Gail Damerow's [*Chicken Health Handbook*](https://www.amazon.com/s?k=gail+damerow+chicken+health+handbook&tag=contentportfo-20) covers Marek's diagnostics and flock management better than anything else written for backyard keepers. It's worth keeping on your shelf. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 

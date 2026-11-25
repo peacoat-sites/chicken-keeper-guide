@@ -109,10 +109,6 @@ If you already have a coop and need to harden it without rebuilding from scratch
 
 ## Sources
 
-- [Hardware cloth in various widths and lengths is available on Amazon](https://www.amazon.com/s?k=hardware+cloth+1%2F2+inch&tag=contentportfo-20)
-- [ChickenGuard](https://www.amazon.com/s?k=chickenguard+automatic+coop+door&tag=contentportfo-20)
-- [Omlet Automatic Door](https://www.amazon.com/s?k=omlet+automatic+chicken+coop+door&tag=contentportfo-20)
-- [Nite Guard Solar](https://www.amazon.com/s?k=nite+guard+solar+predator+control+light&tag=contentportfo-20)
 - [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels)
 
 | Method | Effective Against | Cost Range | Effort Level | Notes |

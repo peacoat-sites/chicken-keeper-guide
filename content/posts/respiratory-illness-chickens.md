@@ -80,14 +80,9 @@ Mold is a separate problem worth mentioning. Aspergillosis, the fungal respirato
 
 ## Sources
 
-- [Tylan Soluble Powder is available on Amazon](https://www.amazon.com/s?k=tylan+soluble+powder+poultry)
-- [on Amazon](https://www.amazon.com/s?k=sweet+pdz+coop+refresher)
-- [Rooster Booster Poultry Cell](https://www.amazon.com/s?k=rooster+booster+poultry+cell)
 - [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283)
 
 You might be wondering about quarantine. The honest answer is complicated.
-
-If you catch one sick bird early, isolation can slow spread. Set up a hospital area: a dog crate in a heated garage works fine. Keep it warm (around 75 to 80 degrees for a sick bird), make sure it's eating and drinking, and watch for progression. I use [Rooster Booster Poultry Cell](https://www.amazon.com/s?k=rooster+booster+poultry+cell) as a supportive supplement during illness, given with a dropper directly into the beak. It's a liquid vitamin and electrolyte supplement that helps birds maintain condition when they're not eating well.
 
 But if three birds are already symptomatic, you're probably past the containment stage. The flock has been exposed. At that point, focus on supporting everyone: keep feeders and waterers clean (I run a weak bleach rinse on waterers every other day during an outbreak), improve ventilation, reduce stress from overcrowding or extreme cold, and make the call on whether to treat.
 

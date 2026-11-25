@@ -93,9 +93,7 @@ The honest summary of what all this looks like in practice: if you buy productio
 
 - University of California Cooperative Extension, Poultry Fact Sheets: Covers reproductive disorders and common causes of death in backyard hens.
 - Merck Veterinary Manual, Poultry section: Reference for Marek's disease pathology, Mycoplasma, and reproductive cancers in laying hens.
-- Gail Damerow, *The Chicken Health Handbook* (2nd ed., Storey Publishing): The most practically useful single reference I've found for backyard flock health; specific about disease presentations and lifespan-related conditions. [Available on Amazon](https://www.amazon.com/Chicken-Health-Handbook-2nd/dp/1612120989) (affiliate link)
 - American Livestock Breeds Conservancy breed profiles: Useful comparative data on heritage breed egg production and longevity traits.
-- Harvey Ussery, *The Small-Scale Poultry Flock* (Chelsea Green Publishing): Covers long-term flock management, heritage breed selection, and practical lifespan considerations. [Available on Amazon](https://www.amazon.com/Small-Scale-Poultry-Flock-Revised/dp/1603587walk) (affiliate link)
 
 ---
 

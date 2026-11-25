@@ -116,9 +116,6 @@ Also make sure the nest box area is clean when you return her. If you're breakin
 
 ## Sources
 
-- [Dried mealworms](https://www.amazon.com/s?k=dried+mealworms+for+chickens)
-- [Poultry dust](https://www.amazon.com/s?k=poultry+dust+mites)
-- [nesting pad](https://www.amazon.com/s?k=chicken+nesting+box+pads)
 - [Thobane Innocent](https://www.pexels.com/@thobane-innocent-2879418)
 
 Some hens go broody three or four times a year while your other hens never do. The honest answer is that broodiness is largely genetic, and some individual hens simply have a stronger hormonal trigger than others.

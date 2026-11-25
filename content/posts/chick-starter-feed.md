@@ -93,10 +93,7 @@ Skip the sugar-water recommendation you'll still see on old chicken forum posts.
 
 ## Sources
 
-- [Little Giant Gallon Chick Waterer and Feeder Set](https://www.amazon.com/s?k=little+giant+chick+feeder)
-- [Manna Pro Chick Grit](https://www.amazon.com/s?k=manna+pro+chick+grit)
 - [Erwin Bosman](https://www.pexels.com/@erwin-bosman-118283)
-- genuinely doesn't show meaningful differences in bird health outcomes between or
 
 #### How long do I feed chick starter?
 

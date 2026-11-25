@@ -119,21 +119,15 @@ No avian vet nearby? Call ahead anyway. Many regular vets treat poultry emergenc
 
 ## Sources
 
-- [Manna Pro Oyster Shell](https://www.amazon.com/s?k=manna+pro+oyster+shell)
 - [Black Australorps](https://www.mypetchicken.com/chicken-breeds/Black-Australorp)
-- [Rooster Booster](https://www.amazon.com/s?k=rooster+booster+poultry+vitamins)
 
 If she makes it, or if you want to protect your other hens, prevention is simple but has to be specific.
-
-**Calcium every day.** Layer feed by itself isn't enough for hens in high production. Leave oyster shell out in a separate container, free-choice, always available. Hens know how much they need and eat accordingly. [Manna Pro Oyster Shell](https://www.amazon.com/s?k=manna+pro+oyster+shell) is easy to find and works. (This site may earn a commission on purchases through links.)
 
 **Body condition matters.** You should feel the keel bone but not see it clearly. If your hen looks round and squishy with no keel definition, cut back on scratch and treats. Obesity is a real risk and most backyard setups overfeed scratch.
 
 **Watch the light.** Year-round artificial light pushes hens hard and increases reproductive issues. If you use lights, stick to 14 to 16 hours total per day. Give your flock a natural winter break if you can.
 
 **Pick better breeds.** Stuck with repeated binding problems? Switch breeds. [Black Australorps](https://www.mypetchicken.com/chicken-breeds/Black-Australorp), Dominiques, and Buckeyes lay steadily but aren't bred to the extreme of production strains. Fewer eggs per year, but healthier birds over their whole lives.
-
-**Vitamin D and sun.** Hens stuck under a covered run with no direct sunlight can become vitamin D deficient, which tanks calcium metabolism. Either get them outside or use a supplement like [Rooster Booster](https://www.amazon.com/s?k=rooster+booster+poultry+vitamins). (Commission disclosure applies.)
 
 ---
 

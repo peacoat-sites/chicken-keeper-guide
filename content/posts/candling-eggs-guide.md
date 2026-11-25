@@ -101,7 +101,6 @@ The research on whether "delayed developers" actually catch up and hatch healthy
 
 - University of Illinois Extension, *Incubation and Embryology* resources: Detailed breakdown of embryonic development stages, used to cross-reference visible candling signs by day.
 - Stromberg's Hatchery candling guide (current as of June 2026): Practical reference for air cell sizing and troubleshooting development issues.
-- Gail Damerow, *Hatching & Brooding Your Own Chicks* (Storey Publishing): The single most useful book I've found on incubation mechanics, candling, and embryonic development. [Available on Amazon](https://www.amazon.com/Hatching-Brooding-Your-Own-Chicks/dp/1603427406) (affiliate link).
 - Mississippi State University Extension, *Egg Candling and Breakout Analysis*: Technical reference for distinguishing infertile eggs from early quitters.
 - Brinsea Products technical documentation on egg candler use and air cell tracking: Manufacturer's data on humidity effects on air cell development across species.
 

@@ -72,9 +72,7 @@ Don't put fresh manure on anything you're actively eating.
 
 ## Sources
 
-- [Espoma Organic Chicken Manure](https://www.amazon.com/s?k=espoma+chicken+manure&tag=contentportfo-20)
 - [Greta Hoffman](https://www.pexels.com/@greta-hoffman)
-- on compost tea is mixed as to whether it adds meaningful microbial diversity
 
 If you're not using deep litter in your coop, you might want to reconsider, at least partially because of what it does for your end product. Instead of cleaning the coop weekly, you add fresh bedding on top of old and let microbial activity in the litter break down the manure in place. By the time you do a full coop clean once or twice a year, what comes out is already partly composted, much lower in ammonia, and easier to handle.
 

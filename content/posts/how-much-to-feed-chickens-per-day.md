@@ -99,9 +99,6 @@ Some foods should never make it into the scraps bucket regardless of portion siz
 
 ## Sources
 
-- [Grandpa's Feeders Automatic Chicken Feeder](https://www.amazon.com/dp/B08N5PFLTK?tag=contentportfo-20)
-- their flocks consuming 20 to 30 percent less commercial feed
-
 Getting consistent with feeding pays off quickly in flock health and egg production. Here's how to dial it in.
 
 **Step 1: Establish a baseline.** For one week, measure exactly how much feed you put into the feeder each day and weigh what's left at the same time the next morning. The difference is your flock's actual daily consumption. Do this when there are no unusual variables: no heat wave, no molt, no new birds.
@@ -113,7 +110,5 @@ Getting consistent with feeding pays off quickly in flock health and egg product
 **Step 4: Account for seasonal shifts.** Revisit your baseline measurement in October and again in April. Cold weather birds need more; warm weather birds need a little less. Don't set a number in June and forget it until March.
 
 **Step 5: Track egg production.** A well-fed laying hen at peak production should lay 5 to 6 eggs per week depending on breed. Drops in production that can't be explained by molt, daylight hours, or stress often trace back to inadequate nutrition, particularly protein and calcium.
-
-For a feeder that minimizes waste and prevents overnight rodent access, a treadle-style feeder like the [Grandpa's Feeders Automatic Chicken Feeder](https://www.amazon.com/dp/B08N5PFLTK?tag=contentportfo-20) is worth every penny for flocks of 6 or more birds. It pays for itself in reduced feed waste within a few months.
 
 Getting your feeding amounts right isn't a one-time task you figure out in the first week and never revisit. It's an ongoing practice that shifts with the seasons, your flock's life stage, and what's happening in your yard. Pay attention to body condition, monitor the feeder, and let your hens tell you what they need. They're usually pretty clear about it.

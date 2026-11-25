@@ -117,10 +117,6 @@ You don't need a custom-built coop to get this right. Well-ventilated coops can 
 
 ## Sources
 
-- [*City Chicks*](https://www.amazon.com/City-Chicks-Micro-flock-Management-Self-Reliance/dp/0963092545?tag=contentportfo-20)
-- [Pine shavings](https://www.amazon.com/s?k=pine+shavings+chicken+coop&tag=contentportfo-20)
-- [Harvey Ussery's book](https://www.amazon.com/Small-Scale-Poultry-Flock-Harvey/dp/160358536X?tag=contentportfo-20)
-- [digital hygrometer](https://www.amazon.com/s?k=digital+hygrometer+thermometer&tag=contentportfo-20)
 - [Urban Roots](https://www.pexels.com/@urban-roots-2030955047)
 
 Your nose and eyes are your best tools. You don't need fancy equipment.
@@ -132,8 +128,6 @@ Your nose and eyes are your best tools. You don't need fancy equipment.
 **Observe your birds:** Panting, lethargy, or drooping wings in warm weather signal heat stress. Respiratory sounds like rattling, gurgling, or sneezing can indicate ammonia irritation or infection, especially if multiple birds show symptoms.
 
 **The litter test:** Good litter should feel dry and crumbly, not damp and compacted. If it's staying wet even with regular stirring, moisture in the air is likely the problem.
-
-One tool I do recommend: an inexpensive [digital hygrometer](https://www.amazon.com/s?k=digital+hygrometer+thermometer&tag=contentportfo-20). Stick one inside the coop. Relative humidity above 70-75% is too high and a sign your ventilation needs work. They run $10-15 and give you real numbers instead of guesswork.
 
 Getting ventilation right doesn't feel urgent until suddenly it is. Healthy birds in a well-ventilated coop just quietly go about their business. You won't necessarily notice how much better things are until you fix a problem you didn't know you had. Take an honest look at your setup this week, check for ammonia and condensation, and make the adjustments your flock needs. It's one of the highest-return investments you can make in their health.
 

@@ -99,12 +99,6 @@ During molt, which typically happens in fall and can last 8 to 16 weeks, bump yo
 
 ## Sources
 
-- [RentACoop Automatic Chicken Feeder](https://www.amazon.com/s?k=rentacoop+automatic+chicken+feeder)
-- [Manna Pro Poultry Grit](https://www.amazon.com/s?k=manna+pro+poultry+grit)
-- [hanging feeder cup](https://www.amazon.com/s?k=chicken+oyster+shell+feeder)
-- [Rooster Booster Vitamins & Electrolytes](https://www.amazon.com/s?k=rooster+booster+vitamins+electrolytes)
-- [poultry waterer](https://www.amazon.com/s?k=chicken+waterer+automatic)
-
 A lot of new keepers ask how much to feed. Here's what actually works:
 
 | Bird Type | Daily Feed Intake | Notes |
@@ -116,8 +110,6 @@ A lot of new keepers ask how much to feed. Here's what actually works:
 | Bantam hen | 0.10 to 0.15 lbs | Half of standard hen roughly |
 
 For most backyard flocks, free-choice feeding works fine. Fill the feeder, keep it clean and dry, and let birds self-regulate. The one exception is if you have obese birds or breeds prone to over-eating. Some production Cochins and very docile breeds can get chunky fast. If your hens are waddling and laying soft-shelled eggs, check the feed but also check whether they're getting too much scratch or corn.
-
-Fresh water is critical. A hen who can't access clean water will reduce feed intake within hours. A good [poultry waterer](https://www.amazon.com/s?k=chicken+waterer+automatic) (affiliate link) that stays clean and doesn't tip over is one of the best investments you can make in the coop.
 
 ---
 

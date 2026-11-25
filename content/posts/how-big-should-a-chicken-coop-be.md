@@ -83,9 +83,6 @@ If you're building from scratch, [a solid resource like Storey's Guide to Raisin
 
 ## Sources
 
-- [nesting box pads like these](https://www.amazon.com/s?k=chicken+nesting+box+pads)
-- [a solid resource like Storey's Guide to Raising Chickens](https://www.amazon.com/s?k=storey%27s+guide+to+raising+chickens)
-- [Automatic coop door openers](https://www.amazon.com/s?k=automatic+chicken+coop+door+opener)
 - [cottonbro studio](https://www.pexels.com/@cottonbro)
 
 The coop size question can't be answered honestly without talking about the run. These two spaces are a system, not independent units.
@@ -95,8 +92,6 @@ The generally accepted minimum for a run is 10 square feet per bird for standard
 If your run is generous and your birds use it daily, your coop can be closer to the minimums. If your run is small or your birds are confined there in bad weather, your coop needs to compensate with extra interior space.
 
 A larger run also reduces coop cleaning frequency because birds deposit a lot of their daily waste outside. Fewer waste accumulations inside means better air quality, which means healthier birds.
-
-A heavy-duty automatic coop door paired with a secure run is one of the quality-of-life upgrades I'd never go back from. [Automatic coop door openers](https://www.amazon.com/s?k=automatic+chicken+coop+door+opener) let the birds out at dawn without you dragging yourself outside in January. The birds get more time outside. The coop stays cleaner. Worth it.
 
 ---
 

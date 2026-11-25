@@ -84,10 +84,7 @@ For feeders, smaller bantams sometimes struggle with standard trough feeders if 
 
 ## Sources
 
-- [These wool nesting pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
-- [gravity tube feeder](https://www.amazon.com/s?k=chicken+tube+feeder+bantam&tag=contentportfo-20)
 - [Andreas Ebner](https://www.pexels.com/@andreas-ebner-246992646)
-- here is mixed
 
 Results vary depending on flock dynamics. Some keepers find bantam hens integrate fine with standard flocks, while others report them being bullied to the point of feather loss and injury. The main variable is flock dynamics and space. If you've got pushy breeds in your standard flock, like Rhode Island Reds or production birds who've established a rigid pecking order, adding bantams can go badly.
 

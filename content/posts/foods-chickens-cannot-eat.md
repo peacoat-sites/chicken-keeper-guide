@@ -102,17 +102,13 @@ Giving scraps is one of the best parts of keeping chickens, and there's plenty y
 
 ## Sources
 
-- [poultry waterer with a nipple system](https://www.amazon.com/s?k=chicken+nipple+waterer&tag=contentportfo-20)
 - [Emma Cate](https://www.pexels.com/@emmacate)
-- their hens have pecked at rhubarb without immediate problems
 
 Food safety isn't just about what you intentionally offer. Your chickens are omnivores with curious beaks, and they'll peck at things you never intended them to eat.
 
 If your coop is next to a garden, check what's planted near the fence line. Many ornamental plants are toxic: foxglove, oleander, hemlock, yew, azalea, and rhododendron can all cause serious problems if your flock gets to them while free ranging. A determined hen can work her way through a gap in the fence to reach toxic plants, so it's worth checking your fence line for weak spots. Good [chicken coop predator protection](/chicken-coop-predator-protection/) also means keeping chickens contained away from hazardous plants.
 
 Bedding materials can also be a source of mold. Wet or compacted bedding grows mold colonies that chickens will peck at. Check your bedding routine and consider whether your current material is working. Our article on [chicken coop bedding options](/chicken-coop-bedding-options/) breaks down the options available.
-
-Standing water in feeders and waterers grows algae and bacteria that affect the digestive system. A good [poultry waterer with a nipple system](https://www.amazon.com/s?k=chicken+nipple+waterer&tag=contentportfo-20) keeps water cleaner and reduces contamination. It's a simple upgrade that makes a real difference.
 
 ---
 

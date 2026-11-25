@@ -106,15 +106,11 @@ Acting fast matters. Here's what I do every time I spot a bird who doesn't look 
 
 ## Sources
 
-- [Rooster Booster Poultry Cell](https://www.amazon.com/s?k=rooster+booster+poultry+cell&tag=contentportfo-20)
-- [The Chicken Health Handbook by Gail Damerow](https://www.amazon.com/s?k=chicken+health+handbook+gail+damerow&tag=contentportfo-20)
 - [cute 嘟](https://www.pexels.com/@cute-340348698)
 
 Marek's Disease is a herpesvirus that spreads through dander and dust, present in virtually every flock environment, and causes leg paralysis, vision loss, and tumors. Glossy hatchery pages rarely mention it. Vaccination at hatch is standard prevention, and most hatcheries do vaccinate, but it's not 100% protective. It suppresses symptoms but doesn't prevent infection. If you're buying from a farm store or local breeder, ask specifically about vaccination status.
 
 Egg yolk peritonitis is another blindsider. A hen's ovulation goes sideways and yolk material ends up in the abdominal cavity instead of the oviduct. The abdomen fills with fluid and infected material. She looks like a penguin, stands upright with a swollen belly, often has a greenish pallor to her comb. The prognosis is poor. High-production breeds really are more prone to reproductive disorders. It's a real trade-off worth understanding before you stock your flock.
-
-Infectious Coryza is a bacterial disease that smells. Literally. There's a foul, sweet odor, swollen faces, and nasal discharge. It spreads rapidly. [The Chicken Health Handbook by Gail Damerow](https://www.amazon.com/s?k=chicken+health+handbook+gail+damerow&tag=contentportfo-20) is the single best reference I've found for diagnosing and treating these diseases at home, and I'd recommend every keeper own a copy. *This site may earn a commission on qualifying purchases.*
 
 ---
 

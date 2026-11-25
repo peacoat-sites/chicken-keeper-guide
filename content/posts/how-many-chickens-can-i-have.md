@@ -104,8 +104,6 @@ A well-protected coop for eight birds costs more to build than a flimsy coop for
 
 ## Sources
 
-- [Farm Innovators nesting box pads](https://www.amazon.com/s?k=chicken+nesting+box+pads&tag=contentportfo-20)
-- [Storey's Guide to Raising Chickens](https://www.amazon.com/s?k=storey%27s+guide+to+raising+chickens&tag=contentportfo-20)
 - [Erik Karits](https://www.pexels.com/@erik-karits-2093459)
 
 If you're ready to make an actual decision, here's how I'd walk you through it:

@@ -1,6 +1,7 @@
 ---
 title: "Heritage Breed Chickens: Why Farmers Are Raising Them"
 date: 2026-07-24T07:41:34.837657+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover heritage breed chickens: their unique characteristics, egg and meat quality, temperament, and why they're becoming popular with homesteaders and small "

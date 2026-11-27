@@ -1,6 +1,7 @@
 ---
 title: "Why Maran Chickens Are Backyard Gold"
 date: 2026-07-02T08:22:18.434033+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover Marans chickens, prized for their dark chocolate-brown eggs. Learn about their history, temperament, care needs, and why they're a favorite breed."
 image: "/img/heroes/4083587.jpg"

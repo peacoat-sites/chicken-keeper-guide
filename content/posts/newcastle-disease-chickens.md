@@ -1,6 +1,7 @@
 ---
 title: "Protect Your Flock: Newcastle Disease Warning Signs"
 date: 2026-06-30T08:37:27.730124+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how Newcastle disease affects chickens, including key symptoms, transmission routes, prevention strategies, and what to do if your flock is infected."
 image: "/img/heroes/19241494.jpg"

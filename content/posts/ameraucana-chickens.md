@@ -1,6 +1,7 @@
 ---
 title: "Ameraucana Chickens: Blue Eggs and Hardy Backyard Birds"
 date: 2026-07-22T07:44:48.349745+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn about Ameraucana chickens, their distinctive blue eggs, temperament, and care requirements for backyard flocks."
 image: "/img/heroes/29456413.jpg"

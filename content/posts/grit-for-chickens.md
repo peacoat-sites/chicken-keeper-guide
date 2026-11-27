@@ -1,6 +1,7 @@
 ---
 title: "Why Your Chickens Need Grit and How to Feed It"
 date: 2026-05-22T11:14:40.543020+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how to build grit for chickens with essential bedding materials, dust bath options, and digestive health tips to keep your flock thriving and healthy."
 image: "/img/heroes/36879581.jpg"

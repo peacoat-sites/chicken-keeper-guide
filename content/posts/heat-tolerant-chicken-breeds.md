@@ -1,6 +1,7 @@
 ---
 title: "Best Heat Tolerant Chicken Breeds For Hot Climates"
 date: 2026-06-11T09:22:01.707304+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best heat tolerant chicken breeds for hot climates. Learn which hardy hens thrive in summer heat and keep producing eggs even during the hottest mo"
 image: "/img/heroes/16232853.jpg"

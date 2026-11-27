@@ -1,6 +1,7 @@
 ---
 title: "Why Silkie Chickens Make Perfect Backyard Pets"
 date: 2026-06-16T10:20:42.286002+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover Silkie chickens: their unique fluffy plumage, gentle temperament, care needs, and why they make wonderful backyard pets and show birds."
 image: "/img/heroes/9313058.jpg"

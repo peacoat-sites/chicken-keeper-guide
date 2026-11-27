@@ -1,6 +1,7 @@
 ---
 title: "Drug-Resistant Salmonella Is Spreading From Backyard Flocks Right Now"
 date: 2026-06-27T08:04:30.996083+00:00
+googlebot_noindex: true
 draft: false
 description: "Warning: Drug-resistant Salmonella linked to backyard chickens is rising fast. Learn the risks, symptoms, and how to protect your family from this dangerous out"
 image: "/img/heroes/1089077.jpg"

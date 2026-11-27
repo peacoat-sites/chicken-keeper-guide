@@ -1,6 +1,7 @@
 ---
 title: "Chicken Lifespan: How Long Do Backyard Chickens Live"
 date: 2026-07-04T08:05:08.170003+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how long chickens live, from backyard hens to wild birds. Learn what factors affect chicken lifespan and how to help your flock live longer."
 image: "/img/heroes/18474434.jpg"

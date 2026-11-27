@@ -1,6 +1,7 @@
 ---
 title: "Cheapest Chicken Feed Options: $14-$50 Per Bag"
 date: 2026-07-13T08:29:34.918283+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare the most affordable chicken feed brands and bulk options. Find ways to feed your flock for less without sacrificing nutrition or quality."

@@ -1,6 +1,7 @@
 ---
 title: "How Long Do Chickens Lay Eggs: Peak Years and Decline"
 date: 2026-05-25T01:10:09.569589+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how long chickens lay eggs and their peak production years. Learn about factors affecting laying cycles and when hens stop producing eggs."
 image: "/img/heroes/8987901.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Stop Your Chicken Coop From Smelling Bad"
 date: 2026-06-17T10:00:46.654597+00:00
+googlebot_noindex: true
 draft: false
 description: "Eliminate chicken coop odors fast with proven ventilation, bedding, and cleaning tips that keep your flock healthy and your yard smelling fresh."
 image: "/img/heroes/15645658.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Grow More Food: Design A Garden Your Chickens Will Love"
 date: 2026-06-26T08:35:13.304590+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to integrate chickens into your garden to control pests, fertilize soil, and boost yields while keeping your plants protected and flock healthy."
 image: "/img/heroes/34374502.jpg"

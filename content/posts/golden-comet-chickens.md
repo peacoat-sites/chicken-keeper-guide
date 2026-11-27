@@ -1,6 +1,7 @@
 ---
 title: "Golden Comets: The Egg-Laying Chicken Every Homesteader Needs"
 date: 2026-06-14T08:48:41.656650+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover everything about Golden Comet chickens, including their friendly temperament, impressive egg-laying abilities, care requirements, and why they make ide"
 image: "/img/heroes/25068183.jpg"

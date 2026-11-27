@@ -1,6 +1,7 @@
 ---
 title: "Sussex Chickens: The Backyard Keeper's Best Breed"
 date: 2026-07-05T08:12:01.482532+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover Sussex chickens, a beloved dual-purpose breed known for their friendly temperament, beautiful plumage, and excellent egg-laying abilities for backyard "
 image: "/img/heroes/6463877.jpg"

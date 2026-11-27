@@ -1,6 +1,7 @@
 ---
 title: "How Much Water Do Your Backyard Chickens Really Need?"
 date: 2026-05-22T11:32:28.966642+00:00
+googlebot_noindex: true
 draft: false
 description: "Chicken water requirements: Learn how much water chickens need daily, factors affecting intake, and tips for keeping your flock hydrated year-round."
 image: "/img/heroes/30692224.jpg"

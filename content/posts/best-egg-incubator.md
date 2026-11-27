@@ -1,6 +1,7 @@
 ---
 title: "The Best Egg Incubators For Backyard Flocks"
 date: 2026-06-13T08:31:11.007405+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best egg incubators for hatching success. We review top models for chickens, ducks & more to help you find the perfect incubator for your needs."
 image: "/img/heroes/35377875.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Natural Worming Solutions For Healthier Backyard Chickens"
 date: 2026-06-12T09:09:57.452337+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover safe, natural methods to worm your chickens using herbs, foods, and preventative strategies that protect your flock without harsh chemical dewormers."
 image: "/img/heroes/37538276.jpg"

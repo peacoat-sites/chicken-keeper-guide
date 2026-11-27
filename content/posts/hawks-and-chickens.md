@@ -1,6 +1,7 @@
 ---
 title: "Hawks and Chickens: 12 Proven Ways to Protect Your Flock"
 date: 2026-07-18T07:08:48.046136+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn effective strategies to protect chickens from hawks. Discover practical solutions including netting, shelters, and deterrents to keep your flock safe."

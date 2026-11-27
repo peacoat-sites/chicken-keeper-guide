@@ -1,6 +1,7 @@
 ---
 title: "Is NPIP Certification Worth It for Backyard Flocks?"
 date: 2026-08-02T07:40:11.980095+00:00
+googlebot_noindex: true
 draft: false
 description: "Is NPIP Certification Worth It for Backyard Flocks? Explore the benefits, costs, and requirements of National Poultry Improvement Plan certification for small-s"
 image: "/img/heroes/38465854.jpg"

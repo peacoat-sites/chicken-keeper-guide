@@ -1,6 +1,7 @@
 ---
 title: "Why Chickens Eat Their Own Eggs and How to Stop It"
 date: 2026-07-08T07:40:39.172166+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the real reasons hens destroy their own eggs and get proven strategies to break the habit before it spreads through your flock."

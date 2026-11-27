@@ -1,6 +1,7 @@
 ---
 title: "Boost Chicken Health With Mealworms: A Feeding Guide"
 date: 2026-06-14T08:50:41.935939+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the benefits of feeding mealworms to chickens, including boosted protein, improved feather health, and tips for safe serving sizes your flock will love"
 image: "/img/heroes/7782058.jpg"

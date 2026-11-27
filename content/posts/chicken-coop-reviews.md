@@ -1,6 +1,7 @@
 ---
 title: "$300 to $900 Chicken Coops: What You Actually Get"
 date: 2026-07-25T07:27:25.636182+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare chicken coops at different price points. See what features and quality you get from budget to premium options."

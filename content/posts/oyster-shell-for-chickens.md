@@ -1,6 +1,7 @@
 ---
 title: "Oyster Shell vs Limestone: Which Feeds Your Hens Better"
 date: 2026-05-28T13:38:11.769972+00:00
+googlebot_noindex: true
 draft: false
 description: "Oyster shell supplements support chicken bone health and eggshell strength. Learn about calcium benefits, proper dosing, and feeding guidelines for laying hens."
 image: "/img/heroes/10375840.jpg"

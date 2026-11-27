@@ -1,6 +1,7 @@
 ---
 title: "Can Your HOA Ban Backyard Chickens?"
 date: 2026-06-15T11:24:36.857130+00:00
+googlebot_noindex: true
 draft: false
 description: "Find out how HOA rules affect backyard chickens, what restrictions to expect, and how homeowners can navigate covenants to keep hens legally."
 image: "/img/heroes/15689798.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "CDC Traces 2026 Salmonella Outbreak to Pekin Ducks and 7 Hatcheries"
 date: 2026-07-02T08:24:16.058606+00:00
+googlebot_noindex: true
 draft: false
 description: "CDC investigates a multistate 2026 Salmonella outbreak linked to Pekin ducks from 7 hatcheries. Learn about affected states, symptoms, and how to stay safe."
 image: "/img/heroes/17908033.jpg"

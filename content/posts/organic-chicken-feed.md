@@ -1,6 +1,7 @@
 ---
 title: "Best Organic Feed Options For Healthier Backyard Chickens"
 date: 2026-06-10T09:02:40.505187+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best organic chicken feed options to keep your flock healthy and thriving. Learn what ingredients to look for and how to choose the right feed."
 image: "/img/heroes/15645686.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "When Your Backyard Chicken Gets Sick: Finding A Vet"
 date: 2026-06-30T08:39:56.503106+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to find a poultry vet, what to expect during chicken checkups, and how to keep your flock healthy with proper veterinary care."
 image: "/img/heroes/4911741.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "How To Prevent And Treat Pasty Butt In Baby Chicks"
 date: 2026-07-01T08:57:10.737315+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn what causes pasty butt in baby chicks, how to safely clean it, and simple steps to prevent this common but serious condition in your flock."
 image: "/img/heroes/35782962.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Best Dual-Purpose Chickens For Eggs And Meat"
 date: 2026-05-24T08:42:18.781611+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best dual purpose chicken breeds that excel at both egg laying and meat production, perfect for backyard flocks and homesteaders seeking self-suffi"
 image: "/img/heroes/34415132.jpg"

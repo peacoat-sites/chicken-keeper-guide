@@ -1,6 +1,7 @@
 ---
 title: "12 Hens Per Rooster: The Ideal Flock Ratio Explained"
 date: 2026-08-03T08:41:08.680423+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the optimal hen-to-rooster ratio for a healthy flock. Expert guidance on flock management and rooster behavior to keep your chickens thriving."

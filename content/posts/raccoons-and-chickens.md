@@ -1,6 +1,7 @@
 ---
 title: "90% of Chicken Losses to Raccoons: Prevention Guide"
 date: 2026-08-06T07:48:25.954528+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why raccoons kill 90% of backyard chickens and discover proven protection strategies to keep your flock safe from predators."

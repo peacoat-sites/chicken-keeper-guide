@@ -1,6 +1,7 @@
 ---
 title: "How To Help An Egg Bound Chicken Recover Fast"
 date: 2026-05-23T15:13:23.273336+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to identify and treat an egg bound chicken with our expert guide. Discover symptoms, causes, and step-by-step treatment tips to save your hen."
 image: "/img/heroes/7202659.jpg"

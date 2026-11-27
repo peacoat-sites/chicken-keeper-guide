@@ -1,6 +1,7 @@
 ---
 title: "Electric Fences for Chickens: Protection That Actually Works"
 date: 2026-07-19T07:37:10.001793+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how electric fencing keeps predators away from your flock. Setup tips, costs, and best practices for chicken protection."

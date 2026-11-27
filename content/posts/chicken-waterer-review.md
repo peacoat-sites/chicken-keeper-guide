@@ -1,6 +1,7 @@
 ---
 title: "Best Chicken Waterers for Backyard Flocks"
 date: 2026-06-28T08:28:25.854557+00:00
+googlebot_noindex: true
 draft: false
 description: "Find the best chicken waterer for your flock with our in-depth review covering capacity, durability, ease of cleaning, and value for every setup."
 image: "/img/heroes/4412608.jpg"

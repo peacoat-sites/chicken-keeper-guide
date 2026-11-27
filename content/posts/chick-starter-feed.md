@@ -1,6 +1,7 @@
 ---
 title: "The Right Chick Starter Feed Sets Your Flock Up For Success"
 date: 2026-06-07T08:30:03.628543+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover everything you need to know about chick starter feed, including nutrition, ingredients, and feeding tips to help your baby chicks grow healthy and stro"
 image: "/img/heroes/37935725.jpg"

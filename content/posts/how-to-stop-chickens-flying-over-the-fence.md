@@ -1,6 +1,7 @@
 ---
 title: "Keep Chickens From Flying Over Fences: 5 Proven Methods"
 date: 2026-07-29T07:51:52.436567+00:00
+googlebot_noindex: true
 draft: false
 description: "Stop your chickens from escaping with these practical fencing solutions and techniques that actually work to contain your flock."
 image: "/img/heroes/6441.jpg"

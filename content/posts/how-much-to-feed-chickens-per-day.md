@@ -1,6 +1,7 @@
 ---
 title: "How Much to Feed Chickens Per Day: A Practical Guide"
 date: 2026-05-26T02:08:25.411516+00:00
+googlebot_noindex: true
 draft: false
 description: "Feeding chickens the right amount daily ensures healthy hens and optimal egg production. Learn proper portions, nutritional needs, and feeding schedules for you"
 image: "/img/heroes/11350102.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Can Chickens Eat Rice? A Complete Feeding Guide"
 date: 2026-07-15T07:24:39.567231+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn whether rice is safe for chickens, how to prepare it, and how it fits into a balanced diet for your flock."

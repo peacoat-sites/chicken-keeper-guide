@@ -1,6 +1,7 @@
 ---
 title: "Australorp Chickens: 364-Egg Annual Layers Explained"
 date: 2026-08-09T05:55:52.815373+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn about Australorp chickens, prolific egg layers producing up to 364 eggs yearly. Breed history, care requirements, and productivity."

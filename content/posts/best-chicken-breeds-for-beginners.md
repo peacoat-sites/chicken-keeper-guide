@@ -1,6 +1,7 @@
 ---
 title: "Start Your Flock: 5 Hardy Chicken Breeds For Beginners"
 date: 2026-05-26T08:03:25.684641+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best chicken breeds for beginners, including friendly, easy-to-raise options perfect for backyard flocks. Start your chicken-keeping journey with c"
 image: "/img/heroes/15232801.jpg"

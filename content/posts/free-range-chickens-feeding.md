@@ -1,6 +1,7 @@
 ---
 title: "Free Range Chicken Feeding: What to Feed for Best Health"
 date: 2026-08-08T05:54:16.467484+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what free range chickens eat, from kitchen scraps to grains and greens. Optimize nutrition for healthy, productive birds."

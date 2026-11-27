@@ -1,6 +1,7 @@
 ---
 title: "Straw Or Pine Shavings: Which Bedding Keeps Chickens Healthier"
 date: 2026-07-03T08:24:36.118306+00:00
+googlebot_noindex: true
 draft: false
 description: "Compare pine shavings vs straw bedding for chickens. Learn the pros, cons, cost, and health impacts of each option to choose the best coop litter."
 image: "/img/heroes/7782061.jpg"

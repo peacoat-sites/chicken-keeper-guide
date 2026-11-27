@@ -1,6 +1,7 @@
 ---
 title: "VP Vance Got Backyard Chickens. Here Is What New Keepers Need to Know."
 date: 2026-06-21T09:02:31.378527+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn what VP Vance's backyard chickens teach us all. Discover essential tips for new chicken keepers, from choosing breeds to coops, feed, and daily care basic"
 image: "/img/heroes/7782056.jpg"

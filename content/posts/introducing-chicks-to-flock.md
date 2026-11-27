@@ -1,6 +1,7 @@
 ---
 title: "How To Safely Introduce New Chicks To Your Flock"
 date: 2026-06-08T09:54:49.859484+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to safely introduce chicks to your flock with our step-by-step guide. Reduce stress and pecking order issues for happy, healthy chickens."
 image: "/img/heroes/37469812.jpg"

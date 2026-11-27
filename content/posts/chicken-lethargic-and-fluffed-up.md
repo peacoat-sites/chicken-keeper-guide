@@ -1,6 +1,7 @@
 ---
 title: "Why Your Chicken Is Lethargic and Fluffed Up: 5 Causes"
 date: 2026-08-15T05:36:29.622420+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why your chicken appears lethargic and fluffed up. Learn the 5 most common causes and when to call a veterinarian for help."

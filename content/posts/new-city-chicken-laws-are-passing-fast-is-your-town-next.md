@@ -1,6 +1,7 @@
 ---
 title: "New City Chicken Laws Are Passing Fast. Is Your Town Next?"
 date: 2026-07-14T07:22:51.305192+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "New city chicken laws are spreading rapidly across the country. Learn what regulations might be coming to your town and how to prepare for backyard poultry chan"

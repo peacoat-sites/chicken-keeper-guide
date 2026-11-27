@@ -1,6 +1,7 @@
 ---
 title: "New USDA Poultry Rules Are Now in Effect. Here Is What Backyard Keepers Need to Know"
 date: 2026-07-21T07:45:45.230509+00:00
+googlebot_noindex: true
 draft: false
 description: "New USDA poultry rules are now in effect. Learn what backyard chicken and poultry keepers need to know about updated regulations and compliance requirements."
 image: "/img/heroes/2157000.jpg"

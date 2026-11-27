@@ -1,6 +1,7 @@
 ---
 title: "Salmonella From Backyard Flocks Is Spiking This Summer"
 date: 2026-07-13T08:27:15.140233+00:00
+googlebot_noindex: true
 draft: false
 description: "Backyard chicken flocks are driving a surge in salmonella cases this summer. Learn how to protect your family from contamination and practice safe poultry handl"
 image: "/img/heroes/4474058.jpg"

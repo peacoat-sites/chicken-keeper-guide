@@ -1,6 +1,7 @@
 ---
 title: "Why Barred Rocks Are Perfect Backyard Layers"
 date: 2026-07-06T09:09:42.777010+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover Barred Rock chickens: a friendly, hardy dual-purpose breed perfect for backyard flocks. Learn about their care, egg production, and classic black-and-w"
 image: "/img/heroes/20631804.jpg"

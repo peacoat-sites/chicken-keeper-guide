@@ -1,6 +1,7 @@
 ---
 title: "The Best Chicken Coop Flooring For Healthy Flocks"
 date: 2026-06-23T08:39:19.882098+00:00
+googlebot_noindex: true
 draft: false
 description: "Explore the best chicken coop flooring options including dirt, sand, concrete, and deep litter to keep your flock healthy, dry, and easy to clean."
 image: "/img/heroes/30248442.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "When Baby Chicks Are Ready To Roam Outside"
 date: 2026-06-07T08:32:24.848721+00:00
+googlebot_noindex: true
 draft: false
 description: "Wondering when chicks can go outside? Learn the ideal age, temperature requirements, and safety tips to successfully transition your baby chicks to outdoor livi"
 image: "/img/heroes/28430520.jpg"

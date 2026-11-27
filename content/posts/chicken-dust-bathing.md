@@ -1,6 +1,7 @@
 ---
 title: "Chicken Dust Bathing: Why Birds Need It and How to Help"
 date: 2026-08-04T07:47:43.508973+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why chickens dust bathe, what benefits this natural behavior provides, and how to create the perfect dust bath for your flock."

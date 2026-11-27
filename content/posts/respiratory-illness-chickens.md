@@ -1,6 +1,7 @@
 ---
 title: "Respiratory Illness in Chickens: Spot and Stop the Spread"
 date: 2026-06-08T09:56:47.256894+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn to identify and treat respiratory illness in chickens with expert tips on symptoms, causes, prevention, and the best treatments to keep your flock healthy"
 image: "/img/heroes/36750507.jpg"

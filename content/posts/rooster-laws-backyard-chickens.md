@@ -1,6 +1,7 @@
 ---
 title: "Rooster Laws for Backyard Chickens: Know Before You Buy"
 date: 2026-06-09T08:40:08.993116+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover rooster laws for backyard chickens, including local ordinances, noise regulations, zoning rules, and tips to keep your flock legal and neighbor-friendl"
 image: "/img/heroes/21221122.jpg"

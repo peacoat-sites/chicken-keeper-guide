@@ -1,6 +1,7 @@
 ---
 title: "Deworming Your Chickens: What the FDA Actually Approves"
 date: 2026-08-11T06:01:27.240801+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Deworming Your Chickens: What the FDA Actually Approves

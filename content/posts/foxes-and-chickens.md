@@ -1,6 +1,7 @@
 ---
 title: "Protect Your Flock: Fox-Proof Your Chicken Coop"
 date: 2026-07-06T09:11:50.840157+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how foxes and chickens interact in the wild and on farms, plus practical tips to protect your flock from fox predators naturally."
 image: "/img/heroes/8650973.jpg"
